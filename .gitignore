@@ -1,0 +1,13 @@
+ # Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local state & env
+*.env
+seen_*.json
+
+# Viewer generated data
+viewer/data/*.json
+viewer/index.json
+

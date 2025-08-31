@@ -1,0 +1,53 @@
+name: News Brief
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 min (UTC)
+  workflow_dispatch: {}       # manual trigger
+
+concurrency:
+  group: news-brief
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write        # required to push to gh-pages
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run combined brief
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4o-mini
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WINDOW_MIN: "120"
+          MAX_ITEMS: "6"
+          DIVERSIFY_PER_DOMAIN: "2"
+          SEND: "true"                    # set "false" if you want a dry run
+          TECH_STATE_FILE: seen_technews.json
+          FIN_STATE_FILE: seen_finnews.json
+        run: python run_combined.py
+
+      # 🚀 Deploy the viewer folder to gh-pages
+      - name: Deploy viewer to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: viewer
