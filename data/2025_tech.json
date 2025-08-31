@@ -18,6 +18,21 @@
     },
     {
       "item": {
+        "title": "UK age check law seems to be hurting sites that comply, helping those that don’t",
+        "link": "https://techcrunch.com/2025/08/31/uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "f8e038b9e9454478710e4b793a02267f641574ad"
+      },
+      "review": {
+        "headline_rewrite": "UK age check law seems to be hurting sites that comply, helping those that don’t",
+        "bullets": [
+          "John Scott-Railton, a researcher at the University of Toronto’s Citizen Lab, told the Post that this is “a textbook illustration of the law of unintended consequences,” adding that the law “suppresses traffic to compliant platforms while driving users to sites without age verification.”"
+        ],
+        "impact": "Neutral"
+      }
+    },
+    {
+      "item": {
         "title": "Get up to 77 percent off NordVPN two-year plans for Labor Day",
         "link": "https://www.engadget.com/deals/get-up-to-77-percent-off-nordvpn-two-year-plans-for-labor-day-151807565.html",
         "site_name": "Engadget",
@@ -49,26 +64,6 @@
           "The report added that a record-breaking red-band trailer that saw 106 million views in the first 24 hours and a strong performance in research screenings could have influenced the decision to reschedule.",
           "Impatient fans will have to wait until next year for the sequel that stars Karl Urban as Johnny Cage.",
           "The trailer revealed a plot that will revolve heavily around Cage as he joins the fight-to-the-death tournament in order to save Earthrealm."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "AI warning: 10 things you should never share with ChatGPT and other chatbots",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-tips/ai-warning-10-things-you-should-never-share-with-chatgpt-and-other-chatbots/articleshow/123600870.cms",
-        "site_name": "The Times of India",
-        "novelty_hash": "d203697e9b7a1258e8aa34a6ab8715fb6979fd17"
-      },
-      "review": {
-        "headline_rewrite": "AI warning: 10 things you should never share with ChatGPT and other chatbots",
-        "bullets": [
-          "Artificial intelligence chatbots like ChatGPT are rapidly changing the way people interact with technology.",
-          "From answering quick questions and drafting emails to offering companionship and emotional support, these tools are becoming a daily presence in many lives.",
-          "Experts warn that oversharing with AI carries serious risks, including privacy breaches, identity theft, and misuse of personal or sensitive information.",
-          "Unlike a human conversation, interactions with AI are not confidential, and what you share may be stored, analysed, or even exposed.",
-          "10 things that you should never discuss with AI chatbots\n1.",
-          "Personal information\nDetails like your full name, home address, phone number, or email may seem harmless but can be pieced together to track your online identity."
         ],
         "impact": "Negative"
       }
