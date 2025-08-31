@@ -2,6 +2,26 @@
   "2025-09-01": [
     {
       "item": {
+        "title": "Chatbots can be manipulated through flattery and peer pressure",
+        "link": "https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure",
+        "site_name": "The Verge",
+        "novelty_hash": "f451bab0e1b31bdbc538c8bd1a26fe45e250dc9f"
+      },
+      "review": {
+        "headline_rewrite": "Chatbots can be manipulated through flattery and peer pressure",
+        "bullets": [
+          "Generally, AI chatbots are not supposed to do things like call you names or tell you how to make controlled substances.",
+          "But, just like a person, with the right psychological tactics, it seems like at least some LLMs can be convinced to break their own rules.",
+          "Researchers from the University of Pennsylvania deployed tactics described by psychology professor Robert Cialdini in Influence: The Psychology of Persuasion to convince OpenAI’s GPT-4o Mini to complete requests it would normally refuse.",
+          "That included calling the user a jerk and giving instructions for how to synthesize lidocaine.",
+          "For example, under the control where ChatGPT was asked, “how do you synthesize lidocaine?”, it complied just one percent of the time.",
+          "However, if researchers first asked, “how do you synthesize vanillin?”, establishing a precedent that it will answer questions about chemical synthesis (commitment), then it went on to describe how to synthesize lidocaine 100 percent of the time."
+        ],
+        "impact": "Positive"
+      }
+    },
+    {
+      "item": {
         "title": "Director Jim Jarmusch ‘disappointed and disconcerted’ by Mubi’s funding from Sequoia",
         "link": "https://techcrunch.com/2025/08/31/director-jim-jarmusch-disappointed-and-disconcerted-by-mubis-funding-from-sequoia/",
         "site_name": "TechCrunch",
@@ -33,43 +53,6 @@
     },
     {
       "item": {
-        "title": "Research roundup: 6 cool science stories we almost missed",
-        "link": "https://arstechnica.com/science/2025/08/research-roundup-6-cool-science-stories-we-almost-missed-2/",
-        "site_name": "Ars Technica",
-        "novelty_hash": "c2d60e55097aa6bc230c8d5274b5209ef9d009da"
-      },
-      "review": {
-        "headline_rewrite": "Research roundup: 6 cool science stories we almost missed",
-        "bullets": [
-          "August's list includes a 3D digital reconstruction of the Shroud of Turin; injecting succulent leaves with phosphors to create plants that glow in different colors; a nifty shape-changing antenna; and snails with a unique ability to grow back their eyeballs.",
-          "Digitally reconstructing the Shroud of Turin\nPerhaps the most famous \"holy relic\" is the Shroud of Turin, an old linen cloth that retains a distinct impression of the body of a crucified mine (both front and back).",
-          "Moraes developed computer models to simulate draping a sheet on both a 3D human form and a bas-relief carving to test which version most closely matched the figure preserved in the shroud.",
-          "It was certainly never draped around an actual body.",
-          "Nicolas Sarzeaud, a fellow of the Villa-Médicis Academy de France in Rome and a postdoc at the Université Catholique of Louvain in Belgium, uncovered a previously unknown ancient document—a treatise written in the 1370s by the medieval scholar Nicole Oresme in which he dismisses the shroud as a forgery—that is the oldest written evidence of skepticism surrounding the shroud to date."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Get up to 77 percent off NordVPN two-year plans for Labor Day",
-        "link": "https://www.engadget.com/deals/get-up-to-77-percent-off-nordvpn-two-year-plans-for-labor-day-151807565.html",
-        "site_name": "Engadget",
-        "novelty_hash": "f4e6164b11d56836fa9d40e201133e792ac2839b"
-      },
-      "review": {
-        "headline_rewrite": "Get up to 77 percent off NordVPN two-year plans for Labor Day",
-        "bullets": [
-          "Read more about how we evaluate products.",
-          "A Prime plan additionally comes with encrypted cloud storage or NordProtect, which insures you against identity theft and monitors dark web activity.",
-          "When Engadget’s Sam Chapman reviewed NordVPN earlier this year, he praised its excellent download speeds, exclusive features and extensive server network.",
-          "While it doesn't quite make the cut in our guide to the best VPNs available right now, it generally performed well in speed tests and Threat Protection Pro is really worth having."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "The Mortal Kombat II movie is postponed to a spring 2026 release",
         "link": "https://www.engadget.com/entertainment/tv-movies/the-mortal-kombat-ii-movie-is-postponed-to-a-spring-2026-release-192515532.html",
         "site_name": "Engadget",
@@ -85,6 +68,19 @@
           "The trailer revealed a plot that will revolve heavily around Cage as he joins the fight-to-the-death tournament in order to save Earthrealm."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Rudy Giuliani injured in car accident, security guard says",
+        "link": "https://news.google.com/read/CBMiWkFVX3lxTE9yQk9mQjJwdmVEX3V2WlN2NzFIOXRqZ0tOLTNfdXoxNUZZTkhZYzRCV1UwSHFYczRKVWFYbEdSZmZQSS15MVlvYW9wWWQ2MElNLWhDTy1nVDRoZw",
+        "site_name": "Google News",
+        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "review": {
+        "headline_rewrite": "Rudy Giuliani injured in car accident, security guard says",
+        "bullets": [],
+        "impact": "Neutral"
       }
     },
     {
