@@ -22,6 +22,26 @@
     },
     {
       "item": {
+        "title": "WIRED Roundup: Meta’s AI Brain Drain",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/",
+        "site_name": "WIRED",
+        "novelty_hash": "3a1382c0a0c05ecbbd5b7651b7061432cb42164f"
+      },
+      "review": {
+        "headline_rewrite": "WIRED Roundup: Meta’s AI Brain Drain",
+        "bullets": [
+          "In today’s episode, our host Zoë Schiffer is joined by WIRED’s senior politics editor Leah Feiger to run through five of this week's best stories—from how AI is eliminating entry level jobs to why a secretive Democrat group is funding high-profile influencers.",
+          "Then, Zoë and Leah dive into the scoop that AI researchers recently recruited to Meta Superintelligence Labs are already leaving—with some heading back to OpenAI.",
+          "Mentioned in this episode:\nResearchers Are Already Leaving Meta’s New Superintelligence Lab by Zoë Schiffer and Will Knight\nAI Is Eliminating Jobs for Younger Workers by Will Knight\nElon Musk’s xAI Sues Apple and OpenAI Over App Store Rankings by Zoë Schiffer\nA Dark Money Group Is Secretly Funding High-Profile Democratic Influencers by Taylor Lorenz\nWhat It’s Like Watching Dozens of Bodies Decompose (for Science) by Jess Thomson\nYou can follow Zoë Schiffer on Bluesky at @zoeschiffer and Leah Feiger on Bluesky at @leahfeiger.",
+          "Transcript\nNote: This is an automated transcript, which may contain errors.",
+          "We can't wait to see you there.",
+          "Today on the show, we're bringing you five stories that you need to know about this week, including our exclusive scoop on how at least three AI researchers recently recruited by Meta's Superintelligence Labs have already decided to jump ship."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Silksong is only $19.99",
         "link": "https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing",
         "site_name": "The Verge",
@@ -34,26 +54,6 @@
           "“$15 US is actually quite a bit of money for many people, especially in other countries than the US,” explained Team Cherry cofounder Ari Gibson in a 2018 Reddit post.",
           "“Ultimately, our main interest is that as many people as possible play our games, and we want to price them such that players can do so.”\nSilksong is releasing at 7AM PT / 10AM ET / 3PM UK on September 4th.",
           "It will be available on Nintendo Switch, PlayStation, Xbox, and PC, and Team Cherry has also struck a deal to include Silksong on Xbox Game Pass on day one."
-        ],
-        "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "Hell Is Us is a cryptic and ambitious meditation on the horrors of war",
-        "link": "https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam",
-        "site_name": "The Verge",
-        "novelty_hash": "0874fc554a65c1c8c0e22bd06a5a78b273d0a2a8"
-      },
-      "review": {
-        "headline_rewrite": "Hell Is Us is a cryptic and ambitious meditation on the horrors of war",
-        "bullets": [
-          "Combat also apes the cadence of quintessential Miyazaki titles: stamina drains with each thunderous strike, recuperating only in moments of panicked or planned retreat.",
-          "Bizarre white creatures stalk marshes and blustery plains; gigantic orbs barbed with spikes — so-called Time Loops — pulsate.",
-          "At first, the game seems like a hodgepodge of visual styles: bleak landscapes, mannequin-like creatures, technical wear fashion, gigantic swords to rival Cloud Strife’s in Final Fantasy VII.",
-          "Take our hero, who looks great in his flapping, rain-resistant poncho, yet speaks like a gruffer, more cynical version of countless male game protagonists from the late 2000s.",
-          "Hadea remains a beguiling setting throughout; the desire to pull at its various laced mysteries never wanes.",
-          "But the same can’t be said of the other narrative layers, either Rémi’s own personal voyage to discover the fate of his parents and the place he fled as a young child, or precisely what the Calamity is."
         ],
         "impact": "Positive"
       }
@@ -97,15 +97,19 @@
     },
     {
       "item": {
-        "title": "Indonesian groups delay protests in Jakarta as police tighten security",
-        "link": "https://news.google.com/read/CBMikwFBVV95cUxQN016ZWRIaEdpSVBtMFpHeWlEREY1ZEJndlpRRWN3Z004a3JiSmZWY2Z5QjBtRExocC1CbmQ4cUJidm1qaldqQlFQZzFPOERoemY2OVhyQXF5UlItdEV1YTJJb2JERGNOclBvM2RkUlRHN2hpMEJwTUJNX2tFZFd5eklwODUzWWlTMFVqWEF2azkyNWPSAZgBQVVfeXFMUGRrZTlXRHJrR1FvQ0puWU9uVmpXWEpjR3F5VXpqWGFBWS0yZDFZRDdKSW9jWktJVjMybHJYdWV6UEJuaUNYT210T3NBRjRQcko5R0xVLTdLSEdMa2poSnF0NDZSZExTVTZzbEMyS2FlSHpiOHFZY0xnVVlfc0doSEZXalhvYVhscXlfWW9KX1FNVmtnNEdFemM",
-        "site_name": "Google News",
-        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        "title": "AI News",
+        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+        "site_name": "The Times of India",
+        "novelty_hash": "3a2edfb86440d35a9e8b122061650673882966e1"
       },
       "review": {
-        "headline_rewrite": "Indonesian groups delay protests in Jakarta as police tighten security",
-        "bullets": [],
-        "impact": "Negative"
+        "headline_rewrite": "AI News",
+        "bullets": [
+          "Grammarly launches new AI agents to assist students and professionals with writing tasks\nGrammarly has introduced eight new AI agents within its AI writing surface, 'docs,' designed to aid students and professionals with diverse writing tasks.",
+          "These agents offer functionalities like citation finding, plagiarism checking, and AI detection, alongside features predicting reader reactions and providing rubric-based feedback.",
+          "This launch signifies Grammarly's move towards agent-based AI to enhance writing across various platforms."
+        ],
+        "impact": "Positive"
       }
     }
   ]
