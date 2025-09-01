@@ -22,6 +22,24 @@
     },
     {
       "item": {
+        "title": "Silksong is only $19.99",
+        "link": "https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing",
+        "site_name": "The Verge",
+        "novelty_hash": "f90e97403d8b7926777b5a025ec5f2053ea06778"
+      },
+      "review": {
+        "headline_rewrite": "Silksong is only $19.99",
+        "bullets": [
+          "Silksong’s highly-anticipated launch on September 4th comes with a modest $5 bump over Hollow Knight’s original $14.99 price tag.",
+          "“$15 US is actually quite a bit of money for many people, especially in other countries than the US,” explained Team Cherry cofounder Ari Gibson in a 2018 Reddit post.",
+          "“Ultimately, our main interest is that as many people as possible play our games, and we want to price them such that players can do so.”\nSilksong is releasing at 7AM PT / 10AM ET / 3PM UK on September 4th.",
+          "It will be available on Nintendo Switch, PlayStation, Xbox, and PC, and Team Cherry has also struck a deal to include Silksong on Xbox Game Pass on day one."
+        ],
+        "impact": "Positive"
+      }
+    },
+    {
+      "item": {
         "title": "Hell Is Us is a cryptic and ambitious meditation on the horrors of war",
         "link": "https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam",
         "site_name": "The Verge",
@@ -88,23 +106,6 @@
         "headline_rewrite": "Indonesian groups delay protests in Jakarta as police tighten security",
         "bullets": [],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "AI News",
-        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
-        "site_name": "The Times of India",
-        "novelty_hash": "3a2edfb86440d35a9e8b122061650673882966e1"
-      },
-      "review": {
-        "headline_rewrite": "AI News",
-        "bullets": [
-          "Grammarly launches new AI agents to assist students and professionals with writing tasks\nGrammarly has introduced eight new AI agents within its AI writing surface, 'docs,' designed to aid students and professionals with diverse writing tasks.",
-          "These agents offer functionalities like citation finding, plagiarism checking, and AI detection, alongside features predicting reader reactions and providing rubric-based feedback.",
-          "This launch signifies Grammarly's move towards agent-based AI to enhance writing across various platforms."
-        ],
-        "impact": "Positive"
       }
     }
   ]
