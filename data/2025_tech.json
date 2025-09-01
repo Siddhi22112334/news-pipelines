@@ -80,6 +80,26 @@
     },
     {
       "item": {
+        "title": "China Is About to Show Off Its New High-Tech Weapons to the World",
+        "link": "https://www.wired.com/story/china-victory-day-parade-weapons/",
+        "site_name": "WIRED",
+        "novelty_hash": "709a1824bdfcb3c62afd0cbcbf97521bd09d4a95"
+      },
+      "review": {
+        "headline_rewrite": "China Is About to Show Off Its New High-Tech Weapons to the World",
+        "bullets": [
+          "The Russian president's presence is reported to have prompted several European ambassadors to consider defecting from the event, fearing it would contribute to the Kremlin's international legitimization amid the ongoing war against Ukraine.",
+          "More than 10,000 military personnel, more than 100 aircraft, and hundreds of ground vehicles will be involved.",
+          "The official theme is the celebration of peace and international justice, but the real content will be the demonstration of the People's Liberation Army's ability to fight high-tech wars in new strategic domains: cyberspace, outer space, electronic and hypersonic warfare.",
+          "These are systems designed for a specific mission: to neutralize large US naval units, particularly aircraft carriers, the heart of American supremacy in the Pacific.",
+          "These carriers are part of China's A2/AD (Anti-Access/Area Denial) strategy, i.e., the creation of \"defensive bubbles\" that can prevent or make it too risky for enemy fleets to access the South China Sea, the Taiwan Strait, and the Western Pacific.",
+          "With the new series, China is aiming for a further qualitative leap, combining stealth, hypersonic speed, and artificial intelligence."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Sonos Labor Day sale: Save up to 25 percent on headphones, speakers and other gear",
         "link": "https://www.engadget.com/deals/sonos-labor-day-sale-save-up-to-25-percent-on-headphones-speakers-and-other-gear-125211296.html",
         "site_name": "Engadget",
@@ -93,23 +113,6 @@
           "The headphones have come a long way since they first launched, including the introduction of TrueCinema, which works with a Sonos soundbar to create the best spatial audio experience."
         ],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "AI News",
-        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
-        "site_name": "The Times of India",
-        "novelty_hash": "3a2edfb86440d35a9e8b122061650673882966e1"
-      },
-      "review": {
-        "headline_rewrite": "AI News",
-        "bullets": [
-          "Grammarly launches new AI agents to assist students and professionals with writing tasks\nGrammarly has introduced eight new AI agents within its AI writing surface, 'docs,' designed to aid students and professionals with diverse writing tasks.",
-          "These agents offer functionalities like citation finding, plagiarism checking, and AI detection, alongside features predicting reader reactions and providing rubric-based feedback.",
-          "This launch signifies Grammarly's move towards agent-based AI to enhance writing across various platforms."
-        ],
-        "impact": "Positive"
       }
     }
   ]
