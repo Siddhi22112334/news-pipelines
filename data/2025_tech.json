@@ -2,6 +2,26 @@
   "2025-09-01": [
     {
       "item": {
+        "title": "AWS Weekly Roundup: Amazon EC2, Amazon Q Developer, IPv6 updates, and more (September 1, 2025)",
+        "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-amazon-q-developer-ipv6-updates-and-more-september-1-2025/",
+        "site_name": "Amazon Web Services",
+        "novelty_hash": "5f9a2145ceba219a0366d5669f3fd21f88a9a649"
+      },
+      "review": {
+        "headline_rewrite": "AWS Weekly Roundup: Amazon EC2, Amazon Q Developer, IPv6 updates, and more (September 1, 2025)",
+        "bullets": [
+          "Last week’s launches\nIn addition to this inspiring community, here are some AWS launches that caught my attention:\n- AWS expands Internet Protocol v6 (IPv6) support to AWS App Runner, AWS Client VPN, and RDS Data API — Three more AWS services now support IPv6 connectivity, helping you meet compliance requirements and removes the need for handling address translation between IPv4 and IPv6.",
+          "Finally, RDS Data API now supports IPv6, enabling dual-stack configuration (IPv4 and IPv6) connectivity for your Aurora databases.",
+          "- We launched two new instance families this week: the new storage-optimized I8ge and the general-purpose M8i instances —Our I8ge instances, powered by AWS Graviton4 processors, deliver up to 60% better compute performance compared to their Graviton2-based predecessors.",
+          "We also launched M8i and M8i-flex instances with custom Intel Xeon 6 processors.",
+          "M8i-flex instances are ideal for general-purpose workloads, available from large to 16xlarge.",
+          "- Amazon EC2 Mac Dedicated hosts now support Host Recovery and Reboot-based host maintenance — you can enable two new capabilities for your EC2 Mac Dedicated Hosts: Host Recovery and Reboot-based Host Maintenance."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Every fusion startup that has raised over $100M",
         "link": "https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/",
         "site_name": "TechCrunch",
@@ -22,40 +42,20 @@
     },
     {
       "item": {
-        "title": "Is AI the end of software engineering or the next step in its evolution?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution",
-        "site_name": "The Verge",
-        "novelty_hash": "d9aac840471ff765fdbc53fb9c83c2fc727e0d50"
-      },
-      "review": {
-        "headline_rewrite": "Is AI the end of software engineering or the next step in its evolution?",
-        "bullets": [
-          "When I started using AI-assisted tools earlier this year, I felt decisively outmatched.",
-          "The experience was like pair-programming with a savant intern — competent yet oddly deferential, still a tad too eager to please and make sweeping changes at my command.",
-          "But when tasked with more localized changes, it nailed the job with enviable efficiency.",
-          "The trick is to keep the problem space constrained.",
-          "In a way, it’s like using a high-precision 3D printer to build an aircraft: use it to produce small custom parts, like hydraulic seals or O-rings, and it delivers flawlessly; ask it for something less localized like an entire cockpit, and you might get a cockpit-shaped death chamber with a nonfunctional dashboard and random knobs haphazardly strung together.",
-          "The current crop of models is flexible enough for users with little-to-no coding experience to create products of varying quality through what’s called — in a billion-dollar buzzword — vibe-coding."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
-        "link": "https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/",
+        "title": "Magnesium Supplements Crash Course: Benefits and Side Effects",
+        "link": "https://www.wired.com/story/what-are-magnesium-supplements-good-for/",
         "site_name": "WIRED",
-        "novelty_hash": "9d97e1e199c67ccf21ae710645e1a47aa6d13f71"
+        "novelty_hash": "834f5a5f59398dcd907bc25bac5d7af66e590103"
       },
       "review": {
-        "headline_rewrite": "Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America",
+        "headline_rewrite": "Magnesium Supplements Crash Course: Benefits and Side Effects",
         "bullets": [
-          "The project, led by the nonprofit Chilean National Center for Artificial Intelligence (CENIA), aims to help the region achieve technological independence by developing an open source AI model trained on Latin American languages and contexts.",
-          "“Latam-GPT is a project that seeks to create an open, free, and, above all, collaborative AI model.",
-          "“We’re not looking to compete with OpenAI, DeepSeek, or Google.",
-          "We want a model specific to Latin America and the Caribbean, aware of the cultural requirements and challenges that this entails, such as understanding different dialects, the region’s history, and unique cultural aspects,” explains Soto.",
-          "Latam-GPT is being trained on a regional database that compiles information from 20 Latin American countries and Spain, with an impressive total of 2,645,500 documents.",
-          "The distribution of data shows a significant concentration in the largest countries in the region, with Brazil the leader with 685,000 documents, followed by Mexico with 385,000, Spain with 325,000, Colombia with 220,000, and Argentina with 210,000 documents."
+          "It’s the key ingredient in #sleepygirlmocktails, powders stirred into tart cherry juice and prebiotic soda, a wellness cocktail for anxious millennials.",
+          "Magnesium is essential for maintaining a healthy cardiovascular system.",
+          "You can get it from foods like legumes, leafy vegetables, and whole grains, or from fortified foods and dietary supplements.",
+          "Research confirms this: More than 90 percent of women and 97 percent of men fail to meet the recommended daily intake for dietary fiber.",
+          "Supplements are most useful for people with a confirmed deficiency, but early research suggests possible benefits for specific conditions, including migraines, insomnia, and cardiovascular disease.",
+          "Daily supplements under 350 milligrams are generally considered safe for healthy adults."
         ],
         "impact": "Negative"
       }
@@ -81,6 +81,26 @@
     },
     {
       "item": {
+        "title": "How to perform a reverse phone number lookup",
+        "link": "https://www.engadget.com/mobile/how-to-perform-a-reverse-phone-number-lookup-130004364.html",
+        "site_name": "Engadget",
+        "novelty_hash": "4934e25dbe4723b741673c944f1bea768dee709a"
+      },
+      "review": {
+        "headline_rewrite": "How to perform a reverse phone number lookup",
+        "bullets": [
+          "You could start your search with free tools like Google or Whitepages, but if you’re struggling to find the person behind the number, paid services such as Spokeo or BeenVerified might give you more detail.",
+          "By entering the number into a lookup tool, you can find out details like the name of the caller, their location and sometimes even social media profiles or associated email addresses.",
+          "These usually gather data from publicly available sources such as government registries and social media platforms.",
+          "Many people include their contact details in their social media bios, which can help you identify your caller.",
+          "Subscription-based reverse phone number lookup services\nWhile free services are helpful, they might not always provide comprehensive details, especially for mobile numbers or those associated with private listings.",
+          "For more detailed information, subscription-based services are available, offering more extensive data and enhanced accuracy."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Dyson Labor Day sale: Get $500 off the 360 Vis Nav robot vacuum",
         "link": "https://www.engadget.com/deals/dyson-labor-day-sale-get-500-off-the-360-vis-nav-robot-vacuum-172759786.html",
         "site_name": "Engadget",
@@ -94,23 +114,6 @@
           "That's a seriously great deal and the lowest price we've seen for this product.",
           "We said it had the strongest suction power of any robovac we've tested and easily took out pet fur from a carpeted floor.",
           "During our testing we found it to be nearly flawless, as it only crashed into a chair leg a couple of times."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Hollow Knight: Silksong costs $5 more than the original",
-        "link": "https://www.engadget.com/gaming/hollow-knight-silksong-costs-5-more-than-the-original-120005386.html",
-        "site_name": "Engadget",
-        "novelty_hash": "d6e7cb182c43e7841677e4fb4bf67734365be584"
-      },
-      "review": {
-        "headline_rewrite": "Hollow Knight: Silksong costs $5 more than the original",
-        "bullets": [
-          "After years of waiting, there's only three days left until Hollow Knight: Silksong is out in this world.",
-          "The game will be available to purchase at 7AM PT/10AM ET.",
-          "If you're dying with anticipation for the sequel to finally arrive, may we recommend rewatching the above trailer?"
         ],
         "impact": "Negative"
       }
