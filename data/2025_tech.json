@@ -2,48 +2,10 @@
   "2025-09-03": [
     {
       "item": {
-        "title": "How we’re strengthening our fight against online scams in APAC with a $5M fund from Google.org",
-        "link": "https://blog.google/around-the-globe/google-asia/how-were-strengthening-our-fight-against-online-scams-in-apac-with-a-5m-fund-from-googleorg/",
-        "site_name": "Google",
-        "novelty_hash": "9e176519b11104e08109c70220cf3a5c00bd3b4a"
-      },
-      "review": {
-        "headline_rewrite": "How we’re strengthening our fight against online scams in APAC with a $5M fund from Google.org",
-        "bullets": [
-          "How we’re strengthening our fight against online scams in APAC with a $5M fund from Google.org\nScams and fraud continue to impact millions across Southeast Asia, accounting for an estimated $23.6 billion across the region in 2024.",
-          "At the GASA Anti-Scam Summit 2025 in Singapore, we announced $5 million in funding from Google.org to The ASEAN Foundation to expand online scam prevention resources to 3 million people in Southeast Asia.",
-          "This includes scaling “Be Scam Ready” (formerly known as ShieldUp!), an educational game that helps build resilience against online threats by exposing players to common scam tactics in a safe environment.",
-          "Tracking over 400 million threat signals in real-time, member organizations can rapidly share information to disrupt fraud."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world",
-        "link": "https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "5c3242a050197184664443ba7ca547339d0498af"
-      },
-      "review": {
-        "headline_rewrite": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world",
-        "bullets": [
-          "Amazon is further investing in AI-powered shopping experiences with Tuesday’s launch of Lens Live, a new AI-powered upgrade to its Amazon Lens shopping feature that allows consumers to discover new products through visual search, similar to competitors like Google Lens and Pinterest Lens.",
-          "The tool will also integrate with Amazon’s AI shopping assistant, Rufus, for product insights, the retailer notes.",
-          "Lens Live will not replace Amazon’s existing visual search tool, Amazon Lens, which lets you take a picture, upload an image, or scan a barcode to discover products.",
-          "Instead, it brings a real-time component to Amazon Lens so you can point your phone at things you’re seeing in the real world to see matching products in a swipeable carousel at the bottom of the screen.",
-          "The addition is one of several ways Amazon has been leveraging AI to help online shoppers.",
-          "Over the past year or so, the company has also rolled out other features like its AI assistant Rufus, AI-powered shopping guides, AI-enhanced product reviews, AI tools for finding clothes that fit, AI audio product summaries, personalized shopping prompts, as well as tools for merchants."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "Google avoids break up, but has to give up exclusive search deals in  antitrust trial",
         "link": "https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-oversight-in-search-antitrust-trial/",
         "site_name": "TechCrunch",
-        "novelty_hash": "dd12af5d05330d23ac7650cde8edb51777520e51"
+        "novelty_hash": "10db5dd00378768ae1c8e94a76245bf22d25e9d0"
       },
       "review": {
         "headline_rewrite": "Google avoids break up, but has to give up exclusive search deals in  antitrust trial",
@@ -63,7 +25,7 @@
         "title": "Google and Apple&#8217;s $20 billion search deal survives",
         "link": "https://www.theverge.com/news/769599/google-apple-search-deal-us-doj-antitrust-case-remedies",
         "site_name": "The Verge",
-        "novelty_hash": "45b62862cb7fa14559979d9fd70bbfccb8293641"
+        "novelty_hash": "a175868b76544694134f142f173c33a53a770d05"
       },
       "review": {
         "headline_rewrite": "Google and Apple&#8217;s $20 billion search deal survives",
@@ -73,9 +35,25 @@
           "“Google will not be barred from making payments or offering other consideration to distribution partners for preloading or placement of Google Search, Chrome, or its GenAI products,” Judge Amit Mehta wrote.",
           "“Cutting off payments from Google almost certainly will impose substantial—in some cases, crippling—downstream harms to distribution partners, related markets, and consumers, which counsels against a broad payment ban,” Mehta said.",
           "Google also won’t have to show choice screens on its products, according to the ruling.",
-          "Most Popular\n- Amazon ends shared Prime free shipping outside your home\n- Is AI the end of software engineering or the next step in its evolution?"
+          "Most Popular\n- Amazon ends shared Prime free shipping outside your home\n- My favorite cooking gadget is getting a big upgrade\n- Is AI the end of software engineering or the next step in its evolution?"
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Waymo expands to Denver and Seattle with its Zeekr-made vans",
+        "link": "https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "2b80e736b090f44f3644aa61ff5dc1530a2185ff"
+      },
+      "review": {
+        "headline_rewrite": "Waymo expands to Denver and Seattle with its Zeekr-made vans",
+        "bullets": [
+          "Waymo told TechCrunch that it hopes to start offering robotaxi trips in Denver next year and the Seattle metropolitan area “as soon as we’re permitted to do so.” Denver and Seattle will be two of the most extreme-weather cities that Waymo is feeling out, giving it a chance to test out its tech in snow, wind, and rain that is harder to come by in places like Phoenix.",
+          "Waymo has also announced plans to launch a commercial robotaxi services in Dallas, Miami, and Washington, D.C., next year, and recently received a permit to start testing in New York City."
+        ],
+        "impact": "Positive"
       }
     },
     {
@@ -83,7 +61,7 @@
         "title": "Amazon&#8217;s Lens Live AI shops for anything you can see",
         "link": "https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping",
         "site_name": "The Verge",
-        "novelty_hash": "9db040c5c7849a19620ccf15a0a4b54e3b783ea7"
+        "novelty_hash": "2144928a13d4a90af73f57ee4d47952b0d1f65c9"
       },
       "review": {
         "headline_rewrite": "Amazon&#8217;s Lens Live AI shops for anything you can see",
@@ -114,6 +92,22 @@
           "With each beta, it seems like additional new improvements are popping up, like this new AirPods gesture we're all curious about.",
           "The current iPhone operating system is iOS 18, and Apple is still actively updating it — version 18.6.1 was released to restore Apple Watch blood oxygen monitoring functionality for certain users in the US.",
           "Apple has officially stopped signing iOS 18.6, MacRumors reports, which means it can no longer be installed on your iPhone due to a \"server-side software verification check.\" That's pretty normal when newer versions are available to download."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Join Us for WIRED’s “Uncanny Valley” Live",
+        "link": "https://www.wired.com/story/uncanny-valley-live-show-san-francisco/",
+        "site_name": "WIRED",
+        "novelty_hash": "b2c6f2e3919d527248affabf2565cddf93e7cbce"
+      },
+      "review": {
+        "headline_rewrite": "Join Us for WIRED’s “Uncanny Valley” Live",
+        "bullets": [
+          "We demystify companies like Palantir, trends like vibe coding, and figures like Sam Altman; we break down our essential coverage of DOGE and ICE; we guide listeners through breakthrough innovations like generative AI and sweeping policy changes like the Trump administration’s tariffs.",
+          "Emerging technologies like AI and machine learning have allowed the Bay Area to retain its leadership position—but can it keep it?"
         ],
         "impact": "Negative"
       }
