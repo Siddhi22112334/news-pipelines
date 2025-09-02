@@ -60,10 +60,27 @@
     },
     {
       "item": {
+        "title": "Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October",
+        "link": "https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "66ea2eab3b86ec372c1c2d1316fdf32254a3a750"
+      },
+      "review": {
+        "headline_rewrite": "Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October",
+        "bullets": [
+          "Teller believes failure should be celebrated quickly, because it clears the runway for the breakthroughs that change everything.",
+          "Why you should be at Disrupt 2025\nAs AI blurs the line between science fiction and reality, Teller’s insights on how to think bigger, fail smarter, and build for impact couldn’t be more timely.",
+          "Don’t wait — the next price jump is around the corner."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Dolby Vision 2 goes beyond HDR with more AI and &#8216;authentic motion&#8217; smoothing",
         "link": "https://www.theverge.com/news/768842/dolby-vision-2-launch-content-intelligence-tone-mapping",
         "site_name": "The Verge",
-        "novelty_hash": "fc835e3809e68efd519946c9b3b5b65798272f31"
+        "novelty_hash": "82539f3f816cbadd7810a0e581b2551f7100171b"
       },
       "review": {
         "headline_rewrite": "Dolby Vision 2 goes beyond HDR with more AI and &#8216;authentic motion&#8217; smoothing",
@@ -83,7 +100,7 @@
         "title": "Samsung’s trifold might be launching pretty soon",
         "link": "https://www.theverge.com/news/768918/samsungs-trifold-might-be-launching-pretty-soon",
         "site_name": "The Verge",
-        "novelty_hash": "2aca5797d522172434138351622b1eae16515917"
+        "novelty_hash": "ee41cf08431eed7f203322001e64adf394c8fe46"
       },
       "review": {
         "headline_rewrite": "Samsung’s trifold might be launching pretty soon",
@@ -96,26 +113,6 @@
           "Another Korean site, Newsworks, expects an Unpacked on September 29th to reveal Samsung’s upcoming Project Moohan XR headset, and leaker Ice Universe claims we’ll see the trifold there too, along with a pair of AR glasses."
         ],
         "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance",
-        "link": "https://www.wired.com/story/final-fantasy-tactics-refresh/",
-        "site_name": "WIRED",
-        "novelty_hash": "ff3f69e0456d991ce48ffeba53500e575ed8672c"
-      },
-      "review": {
-        "headline_rewrite": "The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance",
-        "bullets": [
-          "“Players today expect a higher standard.”\nWhen the game launches on Nintendo Switch systems, PlayStation 4/5, Steam, and Xbox Series X/S on September 30, players won’t notice a major overhaul.",
-          "The story delves into the politics and pains of an aristocratic hierarchical system in a time of kings and knights.",
-          "Ramza hails from a noble family, while his best friend Delita is lowborn.",
-          "The childhood friends are separated after a tragic event and eventually find themselves on opposite sides of a war where nobles and peasants clash amid religious corruption and claims to the throne.",
-          "Matsuno wrote it against the backdrop of late-1990s Japan, a time of economic and cultural turmoil.",
-          "“The collapse of Japan’s bubble economy engulfed the nation’s financial institutions in mountains of bad debt, triggering a wave of corporate bankruptcies, a sudden and extreme rise in unemployment rates, and stagnation of Japanese society as a whole,” he wrote on X shortly after the remake was announced."
-        ],
-        "impact": "Negative"
       }
     }
   ]
