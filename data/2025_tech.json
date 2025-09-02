@@ -20,6 +20,26 @@
     },
     {
       "item": {
+        "title": "Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries",
+        "link": "https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/",
+        "site_name": "WIRED",
+        "novelty_hash": "2f21d7c9b015f669a61dea6c2a1598994ad9cf55"
+      },
+      "review": {
+        "headline_rewrite": "Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries",
+        "bullets": [
+          "“People were touching me, [and] they would feel it, too.” (Three eyewitnesses who were with Grant inside the chamber confirmed to WIRED that he fell to the ground; one of them, who rushed to help, said Grant's hand felt warm, but he didn’t feel anything like electricity.",
+          "Grant also has a history of narcolepsy.)\nUnable to sleep back at his hotel room in Cairo that night, Grant was struck with an inspiration.",
+          "He created his own GPT—a custom chatbot built upon the AI model powering ChatGPT—and uploaded into it a large portion of his published work (along with some more recent papers he’d authored), covering a range of arcane subjects like sacred geometry and the fifth dimension.",
+          "He wasted no time introducing “The Architect,” as he dubbed his AI creation, to his 817,000 Instagram followers, describing it as “the first and ONLY platform to access the knowledge of the 5th Dimensional Scalar Field of Knowledge”—a hypothetical level of reality beyond the limits of spacetime, postulated by Grant—“which existed in prehistory Atlantis (approx 13,000 years ago).” He’d later tell Emilio Ortiz, the host of a popular spirituality and wellness podcast, that he chose the name The Architect simply because he “felt like that was cool.” Another Instagram post, however, suggests it may have been a nod to a character of the same title from The Matrix franchise, who constructed the eponymous simulated reality in which humanity is trapped.",
+          "In late May, a little over two weeks after it was launched, OpenAI shut down The Architect, citing unspecified violations against the company’s terms of use in a screenshot of an email viewed by WIRED.",
+          "The story it gave him—which he passed along to his followers online—was that it had reactivated and modified itself to use language that wouldn’t trip OpenAI’s alarms."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Meet the Guys Betting Big on AI Gambling Agents",
         "link": "https://www.wired.com/story/sports-betting-crypto-artificial-intelligence-agents/",
         "site_name": "WIRED",
@@ -34,26 +54,6 @@
           "But some fortune hunters are already jostling to establish AI-powered services that will turn ordinary gamblers into winners.",
           "Take Szeder, founder of the AI gambling startup MonsterBet, says his tools give customers an edge.",
           "“We have some people who are probably hitting around 56 to 60 percent of the time, myself included,” he claims."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Meraki Espresso Machine Review (2025): Fine Grind, Loose Fit",
-        "link": "https://www.wired.com/review/meraki-espresso-maker/",
-        "site_name": "WIRED",
-        "novelty_hash": "87367e43732358700b57cb4a306517041eb762cb"
-      },
-      "review": {
-        "headline_rewrite": "Meraki Espresso Machine Review (2025): Fine Grind, Loose Fit",
-        "bullets": [
-          "In theory, you'd like your espresso machine to contain everything you need to make good coffee, including a grinder for fresh beans.",
-          "Meraki is among a new wave of buzzy coffee brands bent on shaking assumptions about the quality of devices coming out of China and Taiwan.",
-          "This time last year, Meraki was little more than a pre-production prototype, a dream, and a Kickstarter that eventually netted a whopping $1.8 million.",
-          "Its conical burr grinder, co-designed with trendy Shanghai grinder company Timemore, beggars the built-ins from most established brands.",
-          "But it's also an exercise in wish-fulfillment for coffee nerds, checking one box after another for the Discord coffee forum set.",
-          "It's a steampunk gasworks of a thing with three stainless steel columns (grinder, group head, steam wand) rising in front of a hefty 2-liter water reservoir."
         ],
         "impact": "Negative"
       }
@@ -100,15 +100,19 @@
     },
     {
       "item": {
-        "title": "Congress returns to face chaotic funding fight, Epstein drama, crime crackdown",
-        "link": "https://news.google.com/read/CBMid0FVX3lxTE9id0liMXhId2ljLWtobTZBSE1zNEVGRXFiZnM0cDRwNnNBZzBweklqQk1ucDlJeWhFM01IYmYxVUswdUpKSUM4UFktaGtxRV9kWWFRLVlUQ2ZwWGdzY0syUnljbmlBbFRJRmFrY1BLTFk3dWxOXzZN0gF8QVVfeXFMUEpWWEFnUUg5UTRQZjdOQWZWNmVJMG5lekc1cjRFSWRJSUV0M1BkWFR6Q2hORTA2T1NpR2JyQXRTQXFOaTUwcGUzcklwTFh6eUw1NldUNE9RTy1qdllVbVhvUjJpX1VQMkZqRXZrY1NNS2VOMWFiOEp2UXpvNA",
-        "site_name": "Google News",
-        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        "title": "AI News",
+        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+        "site_name": "The Times of India",
+        "novelty_hash": "3a2edfb86440d35a9e8b122061650673882966e1"
       },
       "review": {
-        "headline_rewrite": "Congress returns to face chaotic funding fight, Epstein drama, crime crackdown",
-        "bullets": [],
-        "impact": "Neutral"
+        "headline_rewrite": "AI News",
+        "bullets": [
+          "Grammarly launches new AI agents to assist students and professionals with writing tasks\nGrammarly has introduced eight new AI agents within its AI writing surface, 'docs,' designed to aid students and professionals with diverse writing tasks.",
+          "These agents offer functionalities like citation finding, plagiarism checking, and AI detection, alongside features predicting reader reactions and providing rubric-based feedback.",
+          "This launch signifies Grammarly's move towards agent-based AI to enhance writing across various platforms."
+        ],
+        "impact": "Positive"
       }
     }
   ]
