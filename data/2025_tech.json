@@ -20,6 +20,26 @@
     },
     {
       "item": {
+        "title": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world",
+        "link": "https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "5c3242a050197184664443ba7ca547339d0498af"
+      },
+      "review": {
+        "headline_rewrite": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world",
+        "bullets": [
+          "Amazon is further investing in AI-powered shopping experiences with Tuesday’s launch of Lens Live, a new AI-powered upgrade to its Amazon Lens shopping feature that allows consumers to discover new products through visual search, similar to competitors like Google Lens and Pinterest Lens.",
+          "The tool will also integrate with Amazon’s AI shopping assistant, Rufus, for product insights, the retailer notes.",
+          "Lens Live will not replace Amazon’s existing visual search tool, Amazon Lens, which lets you take a picture, upload an image, or scan a barcode to discover products.",
+          "Instead, it brings a real-time component to Amazon Lens so you can point your phone at things you’re seeing in the real world to see matching products in a swipeable carousel at the bottom of the screen.",
+          "The addition is one of several ways Amazon has been leveraging AI to help online shoppers.",
+          "Over the past year or so, the company has also rolled out other features like its AI assistant Rufus, AI-powered shopping guides, AI-enhanced product reviews, AI tools for finding clothes that fit, AI audio product summaries, personalized shopping prompts, as well as tools for merchants."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "OpenAI acquires product testing startup Statsig and shakes up its leadership team",
         "link": "https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/",
         "site_name": "TechCrunch",
@@ -40,27 +60,10 @@
     },
     {
       "item": {
-        "title": "Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October",
-        "link": "https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "63241b9d16fcbd240c7e82479769280a7048f29d"
-      },
-      "review": {
-        "headline_rewrite": "Astro Teller, ‘Captain of Moonshots,’ joins TechCrunch Disrupt 2025 this October",
-        "bullets": [
-          "Teller believes failure should be celebrated quickly because it clears the runway for the breakthroughs that change everything.",
-          "Why you should be at Disrupt 2025\nAs AI blurs the line between science fiction and reality, Teller’s insights on how to think bigger, fail smarter, and build for impact couldn’t be more timely.",
-          "Don’t wait — the next price jump is around the corner."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "Here are the best AirPods deals you can get right now",
         "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
         "site_name": "The Verge",
-        "novelty_hash": "4674ba08608100ed1d76cd4f7079e3b819aabeae"
+        "novelty_hash": "c93bd4b3e435df933325ce48ab0988ddcd75740a"
       },
       "review": {
         "headline_rewrite": "Here are the best AirPods deals you can get right now",
@@ -77,22 +80,22 @@
     },
     {
       "item": {
-        "title": "OpenAI shuffles executive roles, acquires Statsig for $1.1 billion",
-        "link": "https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves",
+        "title": "Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled",
+        "link": "https://www.theverge.com/news/769372/microsoft-perfect-dark-revival-take-two-deal",
         "site_name": "The Verge",
-        "novelty_hash": "934dc334e43a615369d6d18c3ed7fa1c942c5e4c"
+        "novelty_hash": "136098ad8379d8207a76238ca18303c915e52e23"
       },
       "review": {
-        "headline_rewrite": "OpenAI shuffles executive roles, acquires Statsig for $1.1 billion",
+        "headline_rewrite": "Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled",
         "bullets": [
-          "OpenAI has started to build out its Applications team under Fidji Simo, its new CEO of Applications, who left her former position as Instacart’s CEO to start in the executive role on August 18th.",
-          "On Tuesday, the company confirmed it’s shuffling executive roles, bringing on a new CTO of applications, and acquiring a product analytics company for $1.1 billion.",
-          "Statsig, the company OpenAI is acquiring, specializes in A/B testing and other features for companies looking to improve their products, and OpenAI is bringing on its founder and CEO, Vijaye Raji, as a new C-suite executive.",
-          "Raji will be OpenAI’s CTO of Applications, heading up product engineering for both ChatGPT and Codex, “with responsibilities that span core systems and product lines including infrastructure and Integrity,” OpenAI wrote in a blog post.",
-          "“Once the acquisition is finalized, Statsig employees will become OpenAI employees,” OpenAI wrote in the blog post, noting that the deal’s close will be subject to regulatory approval.",
-          "We’ll take a measured approach to any future integration, ensuring continuity for current customers and enabling the team to stay focused on what they do best.”\nOpenAI also announced it was shuffling some other executive positions."
+          "But unofficially, reports Bloomberg’s Jason Schreier, Microsoft gave Perfect Dark’s other set of developers — Tomb Raider studio Crystal Dynamics — a chance to revive the game.",
+          "the talks collapsed at least in part because the companies involved were unable to come to terms over long-term ownership of the Perfect Dark franchise, said the people, who requested anonymity because they were not authorized to speak about sensitive negotiations.",
+          "Seems Microsoft didn’t want to give up the rights to Perfect Dark, which it presumably obtained when it bought Rare in 2002.",
+          "(For the uninitiated, Perfect Dark was a spiritual successor to Rare’s hit Goldeneye 007 on the Nintendo 64, a game that itself went many decades without a revival because of a complicated licensing situation.) That feels like a crummy reason for the game to stay canceled, but we don’t know the details.",
+          "Most Popular\n- Amazon ends shared Prime free shipping outside your home\n- Is AI the end of software engineering or the next step in its evolution?",
+          "- Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing\n- My favorite cooking gadget is getting a big upgrade\n- Tesla’s new ‘Master Plan’ sounds like AI slop"
         ],
-        "impact": "Neutral"
+        "impact": "Negative"
       }
     },
     {
