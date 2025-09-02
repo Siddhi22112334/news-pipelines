@@ -40,82 +40,82 @@
     },
     {
       "item": {
-        "title": "OpenAI acquires product testing startup Statsig and shakes up its leadership team",
-        "link": "https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/",
+        "title": "Google avoids break up, but has to give up exclusive search deals in  antitrust trial",
+        "link": "https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-oversight-in-search-antitrust-trial/",
         "site_name": "TechCrunch",
-        "novelty_hash": "c6e690bdb4e7b24ecf4c1d5684661d4b9a84316f"
+        "novelty_hash": "43bb992c169cbd2d88d87f903de46a14dcbc589a"
       },
       "review": {
-        "headline_rewrite": "OpenAI acquires product testing startup Statsig and shakes up its leadership team",
+        "headline_rewrite": "Google avoids break up, but has to give up exclusive search deals in  antitrust trial",
         "bullets": [
-          "OpenAI announced in a blog post on Tuesday that it agreed to acquire the product testing startup Statsig, and bring on its founder and CEO, Vijaye Raji, as the company’s CTO of Applications.",
-          "OpenAI is paying $1.1 billion for Statsig in an all-stock deal — one of the largest acquisitions ever for the ChatGPT maker — under the company’s current $300 billion valuation, OpenAI spokesperson Kayla Wood told TechCrunch.",
-          "The acquisition marks OpenAI’s latest effort to build out its Applications business, helmed by the former CEO of Instacart, Fidji Simo, who started work at the company a few weeks ago.",
-          "Raji will report to Simo and will head product engineering for ChatGPT, the company’s AI coding tool Codex, and future applications that OpenAI plans to build.",
-          "The company says that bringing Statsig’s experimentation platform in-house will accelerate product development across the Applications organization.",
-          "As Raji comes on board, OpenAI is making changes to its leadership team."
+          "Mehta outlined remedies on Tuesday that would bar Google from entering or maintaining exclusive deals that tie the distribution of Search, Chrome, Google Assistant, or Gemini to other apps or revenue arrangements.",
+          "For example, Google wouldn’t be able to condition Play Store licensing on the distribution of certain apps, or tie revenue-share payments to keeping certain apps.",
+          "Google will also have to share certain search index and user-interaction data with “qualified competitors” to prevent exclusionary behavior, and it must offer search and search ad syndication services to competitors at standard rates so they can deliver quality results while building their own technology.",
+          "The behavioral remedies come a year after Mehta ruled that Google acted illegally to maintain a monopoly in online search.",
+          "The DOJ, which filed its antitrust suit against Google in 2020, had advocated for stronger penalties.",
+          "It wanted to force Google to divest its Chrome browser and possibly Android, which resulted in some unsolicited acquisition bids, and end its agreements with Apple, Samsung, and other partners in which the tech giant paid those companies billions to make its search engine appear as the default choice on their devices and web browsers."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Google and Apple&#8217;s $20 billion search deal survives",
+        "link": "https://www.theverge.com/news/769599/google-apple-search-deal-us-doj-antitrust-case-remedies",
+        "site_name": "The Verge",
+        "novelty_hash": "45b62862cb7fa14559979d9fd70bbfccb8293641"
+      },
+      "review": {
+        "headline_rewrite": "Google and Apple&#8217;s $20 billion search deal survives",
+        "bullets": [
+          "Google antitrust case on Tuesday.",
+          "Google and Apple’s $20 billion search deal survives\nGoogle can keep making payments to be the default search engine in other products, a judge ruled.",
+          "“Google will not be barred from making payments or offering other consideration to distribution partners for preloading or placement of Google Search, Chrome, or its GenAI products,” Judge Amit Mehta wrote.",
+          "“Cutting off payments from Google almost certainly will impose substantial—in some cases, crippling—downstream harms to distribution partners, related markets, and consumers, which counsels against a broad payment ban,” Mehta said.",
+          "Google also won’t have to show choice screens on its products, according to the ruling.",
+          "Most Popular\n- Amazon ends shared Prime free shipping outside your home\n- Is AI the end of software engineering or the next step in its evolution?"
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Amazon&#8217;s Lens Live AI shops for anything you can see",
+        "link": "https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping",
+        "site_name": "The Verge",
+        "novelty_hash": "9db040c5c7849a19620ccf15a0a4b54e3b783ea7"
+      },
+      "review": {
+        "headline_rewrite": "Amazon&#8217;s Lens Live AI shops for anything you can see",
+        "bullets": [
+          "Amazon will now let you shop for products by pointing your camera at them.",
+          "On Thursday, the company announced Lens Live, a new feature that uses your camera to scan things in the environment around you, while surfacing matching product listings.",
+          "Amazon’s Lens Live AI shops for anything you can see\nThe feature can identify objects as you pan your camera around a room and find potential matches.",
+          "This feature, which is only rolling out to the Amazon Shopping app on iOS for now, lets you pan your camera around a room or focus on a specific product.",
+          "Amazon says Lens Live will use an object detection model to identify the products shown on your camera in real-time, and then compare them against the billions of products on its marketplace.",
+          "Once it finds similar items, Lens Live will display them in a swipeable carousel, where it will also show options to add products to your cart or wishlist."
         ],
         "impact": "Neutral"
       }
     },
     {
       "item": {
-        "title": "Here are the best AirPods deals you can get right now",
-        "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
-        "site_name": "The Verge",
-        "novelty_hash": "ba08a10407950b614f4cffd3b48580fa60f4722e"
-      },
-      "review": {
-        "headline_rewrite": "Here are the best AirPods deals you can get right now",
-        "bullets": [
-          "If you know where to look, you can often score discounts on Apple’s ever-expanding AirPods lineup.",
-          "Both the newer AirPods Max and AirPods 4 (with and without ANC) now consistently receive discounts, as do the latest AirPods Pro with USB-C.",
-          "Here are the best AirPods deals you can get right now\nThere are deals available on every model, from the latest entry-level AirPods 4 to the noise-canceling AirPods Pro.",
-          "Below, we’ve rounded up the best deals currently available on each model, including both iterations of the AirPods 4, the latest AirPods Pro, and the AirPods Max.",
-          "Just keep in mind that Apple’s next big event is scheduled for September 9th, meaning it’s possible that we’ll see a new pair of AirPods Pro before October rolls around, possibly with heart rate monitoring and a slew of AI-based features.",
-          "The best AirPods 4 deals\nAt its September 2024 event, Apple introduced the AirPods 4, a pair of wireless earbuds available in two variations: a $129 standard model and a $179 noise-canceling model."
-        ],
-        "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled",
-        "link": "https://www.theverge.com/news/769372/microsoft-perfect-dark-revival-take-two-deal",
-        "site_name": "The Verge",
-        "novelty_hash": "6fe2dc2ba673746e7a708a8c439bfe5c85b7c18a"
-      },
-      "review": {
-        "headline_rewrite": "Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled",
-        "bullets": [
-          "But unofficially, reports Bloomberg’s Jason Schreier, Microsoft gave Perfect Dark’s other set of developers — Tomb Raider studio Crystal Dynamics — a chance to revive the game.",
-          "the talks collapsed at least in part because the companies involved were unable to come to terms over long-term ownership of the Perfect Dark franchise, said the people, who requested anonymity because they were not authorized to speak about sensitive negotiations.",
-          "Seems Microsoft didn’t want to give up the rights to Perfect Dark, which it presumably obtained when it bought Rare in 2002.",
-          "(For the uninitiated, Perfect Dark was a spiritual successor to Rare’s hit Goldeneye 007 on the Nintendo 64, a game that itself went many decades without a revival because of a complicated licensing situation.) That feels like a crummy reason for the game to stay canceled, but we don’t know the details.",
-          "Most Popular\n- Amazon ends shared Prime free shipping outside your home\n- Is AI the end of software engineering or the next step in its evolution?",
-          "- My favorite cooking gadget is getting a big upgrade\n- Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing\n- Tesla’s new ‘Master Plan’ sounds like AI slop"
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Google says Gmail security is “strong and effective” as it denies major breach",
-        "link": "https://arstechnica.com/gadgets/2025/09/google-says-reports-of-massive-gmail-data-breach-are-entirely-false/",
+        "title": "Tesla has a new master plan—it just doesn’t have any specifics",
+        "link": "https://arstechnica.com/cars/2025/09/tesla-has-a-new-master-plan-it-just-doesnt-have-any-specifics/",
         "site_name": "Ars Technica",
-        "novelty_hash": "db01230fdec541d3fbce6f82aef5ca2d2760146d"
+        "novelty_hash": "2eecba5e64a6e8f9d243b79502a9c10d5ea649f9"
       },
       "review": {
-        "headline_rewrite": "Google says Gmail security is “strong and effective” as it denies major breach",
+        "headline_rewrite": "Tesla has a new master plan—it just doesn’t have any specifics",
         "bullets": [
-          "The sky is falling, and Gmail has supposedly been hacked to bits by malicious parties unknown.",
-          "Reports circulated last week claiming that Gmail was the subject of a major data breach, citing a series of warnings Google has distributed and increasing reports of phishing attacks.",
-          "In a brief post on its official blog, Google says that Gmail's security is \"strong and effective,\" and reports to the contrary are mistaken.",
-          "This story seems to have developed due to a random confluence of security events.",
-          "Google experienced a Gmail data breach in June, but the attack was limited to the company's corporate Salesforce server.",
-          "The hacker was able to access publicly available information like business names and contact details, but no private information was compromised."
+          "It's the fourth such document for Tesla, replacing the goals Musk laid out in 2023 when he said the company would sell 20 million EVs a year in 2030.",
+          "This time, it is not entirely sure what Tesla's plan actually entails.",
+          "The text, which reads as though it was written by AI, is at times anodyne, at times confusing, but always free of specifics.",
+          "Each iteration of the master plan is Tesla's north star, the new plan reads, promising to \"to deliver unconstrained sustainability without compromise,\" whatever that actually means.",
+          "\"Now, we are combining our manufacturing capabilities with our autonomous prowess to deliver new products and services that will accelerate global prosperity and human thriving driven by economic growth shared by all,\" reads the plan.",
+          "This is an interesting statement considering each time Tesla has tried to build a new model the result has been months and months of \"production difficulties,\" not to mention the multiple federal safety investigations into the company's autonomous and partially automated driving systems."
         ],
-        "impact": "Negative"
+        "impact": "Neutral"
       }
     }
   ]
