@@ -2,6 +2,24 @@
   "2025-09-02": [
     {
       "item": {
+        "title": "Wall St hits over one-week low as tariff uncertainty sours sentiment",
+        "link": "https://www.livemint.com/market/stock-market-news/wall-st-hits-over-one-week-low-as-tariff-uncertainty-sours-sentiment-11756830275875.html",
+        "site_name": "",
+        "novelty_hash": ""
+      },
+      "review": {
+        "headline_rewrite": "Wall St hits over one-week low as tariff uncertainty sours sentiment",
+        "bullets": [
+          "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.) * Indexes down:",
+          "Yields on longer-dated U.S.",
+          "\"With less tax revenue coming in, they're (the U.S.) going to have a higher financing rate because they have to pay bills and they're",
+          "Conversely, a 2.6% gain in PepsiCo after Elliott Management disclosed a $4 billion stake in the beverages giant, launching an activist campaign, kept consumer"
+        ],
+        "impact": "Bullish"
+      }
+    },
+    {
+      "item": {
         "title": "US IPO floodgates open for fall season as Trump tariff worries ease",
         "link": "https://www.livemint.com/market/ipo/us-ipo-floodgates-open-for-fall-season-as-trump-tariff-worries-ease-11756829418264.html",
         "site_name": "",
@@ -20,39 +38,6 @@
     },
     {
       "item": {
-        "title": "India Tightens Options Rules Again After Jane Street Saga",
-        "link": "https://www.livemint.com/market/stock-market-news/india-tightens-options-rules-again-after-jane-street-saga-11756829113799.html",
-        "site_name": "",
-        "novelty_hash": ""
-      },
-      "review": {
-        "headline_rewrite": "India Tightens Options Rules Again After Jane Street Saga",
-        "bullets": [
-          "1, the Securities and Exchange Board will cap intraday positions at 50 billion rupees ($567 million) in futures-equivalent terms on a net basis, a",
-          "In July, SEBI temporarily banned Jane Street, alleging the US trading giant manipulated an index of bank stocks to favor its options wagers.",
-          "The new framework would facilitate market making activity on all trading days while “putting a check on any outsized intraday position on expiry day”",
-          "SEBI has retained a position limit of 100 billion rupees on a gross basis in both long and short trades in index options that"
-        ],
-        "impact": "Bearish"
-      }
-    },
-    {
-      "item": {
-        "title": "Semicon India 2025 - India a ‘lighthouse of stability and growth’ amid turbulent global times: Vaishnaw",
-        "link": "https://www.thehindubusinessline.com/info-tech/semicon-india-2025-india-a-lighthouse-of-stability-and-growth-amid-turbulent-global-times-vaishnaw/article70004466.ece",
-        "site_name": "",
-        "novelty_hash": ""
-      },
-      "review": {
-        "headline_rewrite": "Semicon India 2025 - India a ‘lighthouse of stability and growth’ amid turbulent global times: Vaishnaw",
-        "bullets": [
-          "Without elaborating, the PM said that work was underway on the next phase of the ISM."
-        ],
-        "impact": "Bearish"
-      }
-    },
-    {
-      "item": {
         "title": "Semicon India 2025: Global semiconductor giants welcome India’s move to support the industry",
         "link": "https://www.thehindubusinessline.com/info-tech/semicon-india-2025-global-semiconductor-giants-welcome-indias-move-to-support-the-industry/article70004912.ece",
         "site_name": "",
@@ -65,6 +50,24 @@
           "The company has been operating for 57 years in India with over 4,500 employees and several manufacturing sites through its three biz sectors —"
         ],
         "impact": "Neutral"
+      }
+    },
+    {
+      "item": {
+        "title": "Niva Bupa calls cashless health cover claim denial allegation ‘baseless’",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/niva-bupa-calls-cashless-health-cover-claim-denial-allegation-baseless/article70005118.ece",
+        "site_name": "",
+        "novelty_hash": ""
+      },
+      "review": {
+        "headline_rewrite": "Niva Bupa calls cashless health cover claim denial allegation ‘baseless’",
+        "bullets": [
+          "A few days after a post on social media on an alleged denial of a ₹61-lakh cashless claim of a patient with a ₹2.40-crore",
+          "According to the post on LinkedIn, Niva Bupa Health Insurance denied a ₹61-lakh cashless claim of Chandra Kumar Jain, who has been battling Myeloid",
+          "In response, Niva Bupa dismissed the allegations as “baseless”, and called out the “fear-mongering narratives around the case”.",
+          "Jain has been our policyholder since November 18, 2021."
+        ],
+        "impact": "Bearish"
       }
     }
   ]
