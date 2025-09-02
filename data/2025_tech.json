@@ -20,6 +20,26 @@
     },
     {
       "item": {
+        "title": "Tesla’s Dojo, a timeline",
+        "link": "https://techcrunch.com/2025/09/02/teslas-dojo-a-timeline/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "9968e27de40c2a7d9ee2de908e66dea0bbbdd956"
+      },
+      "review": {
+        "headline_rewrite": "Tesla’s Dojo, a timeline",
+        "bullets": [
+          "He wants Tesla to be an AI company, one that’s figured out how to make cars drive themselves.",
+          "Crucial to that mission was Dojo, a custom-built supercomputer designed by Tesla to train its Full Self-Driving (FSD) neural networks.",
+          "But Tesla thinks with more data, more compute power and more training, it can cross the threshold from almost self-driving to full self-driving.",
+          "Check out this explainer on what Dojo for even more information on what it was, why it mattered, and what comes next.",
+          "2019\nFirst mentions of Dojo\nApril 22 – At Tesla’s Autonomy Day, the automaker had its AI team onstage to talk about Autopilot and Full Self-Driving, and the AI powering them both.",
+          "The company shares information about Tesla’s custom-built chips that are designed specifically for neural networks and self-driving cars."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Anthropic raises $13B Series F at $183B valuation",
         "link": "https://techcrunch.com/2025/09/02/anthropic-raises-13b-series-f-at-183b-valuation/",
         "site_name": "TechCrunch",
@@ -34,26 +54,6 @@
           "“This financing demonstrates investors’ extraordinary confidence in our financial performance and the strength of their collaboration with us to continue fueling our unprecedented growth.”\nAnthropic last raised $3.5 billion at a $61.5 billion post-money valuation in March 2025.",
           "This latest fundraise comes after reports that Anthropic was nearing a deal to raise between $3 billion and $5 billion in funding at a $170 billion valuation.",
           "It also follows impressive growth from the AI startup, which reported a jump in annual recurring revenue from $1 billion to $5 billion over the course of 2025 amid accelerated API usage and enterprise adoption."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls",
-        "link": "https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "a3d3429260f4ce47d6b588bf852e36d4c6f8a8fb"
-      },
-      "review": {
-        "headline_rewrite": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls",
-        "bullets": [
-          "OpenAI said Tuesday it plans to route sensitive conversations to reasoning models like GPT-5 and roll out parental controls within the next month — part of an ongoing response to recent safety incidents involving ChatGPT failing to detect mental distress.",
-          "The new guardrails come in the aftermath of the suicide of teenager Adam Raine, who discussed self-harm and plans to end his life with ChatGPT, which even supplied him with information about specific suicide methods.",
-          "Raine’s parents have filed a wrongful death lawsuit against OpenAI.",
-          "In a blog post last week, OpenAI acknowledged shortcomings in its safety systems, including failures to maintain guardrails during extended conversations.",
-          "OpenAI thinks that at least one solution to conversations that go off the rails could be to automatically reroute sensitive chats to “reasoning” models.",
-          "“We recently introduced a real-time router that can choose between efficient chat models and reasoning models based on the conversation context,” OpenAI wrote in a Tuesday blog post."
         ],
         "impact": "Negative"
       }
@@ -98,20 +98,20 @@
     },
     {
       "item": {
-        "title": "OpenAI announces parental controls for ChatGPT after teen suicide lawsuit",
-        "link": "https://arstechnica.com/ai/2025/09/openai-announces-parental-controls-for-chatgpt-after-teen-suicide-lawsuit/",
-        "site_name": "Ars Technica",
-        "novelty_hash": "d866d4b550afdc01861f35ccd91ad3b8b487c4a5"
+        "title": "How to Make Light Roast Espresso, According to Chemists (2025)",
+        "link": "https://www.wired.com/story/how-i-learned-to-stop-worrying-and-love-light-roast-espresso/",
+        "site_name": "WIRED",
+        "novelty_hash": "655a73104509ce02aaef9ee4c93e5d1eb1aef323"
       },
       "review": {
-        "headline_rewrite": "OpenAI announces parental controls for ChatGPT after teen suicide lawsuit",
+        "headline_rewrite": "How to Make Light Roast Espresso, According to Chemists (2025)",
         "bullets": [
-          "On Tuesday, OpenAI announced plans to roll out parental controls for ChatGPT and route sensitive mental health conversations to its simulated reasoning models, following what the company has called \"heartbreaking cases\" of users experiencing crises while using the AI assistant.",
-          "The moves come after multiple reported incidents where ChatGPT allegedly failed to intervene appropriately when users expressed suicidal thoughts or experienced mental health episodes.",
-          "\"This work has already been underway, but we want to proactively preview our plans for the next 120 days, so you won’t need to wait for launches to see where we’re headed,\" OpenAI wrote in a blog post published Tuesday.",
-          "\"The work will continue well beyond this period of time, but we’re making a focused effort to launch as many of these improvements as possible this year.\"\nThe planned parental controls represent OpenAI's most concrete response to concerns about teen safety on the platform so far.",
-          "Within the next month, OpenAI says, parents will be able to link their accounts with their teens' ChatGPT accounts (minimum age 13) through email invitations, control how the AI model responds with age-appropriate behavior rules that are on by default, manage which features to disable (including memory and chat history), and receive notifications when the system detects their teen experiencing acute distress.",
-          "The parental controls build on existing features like in-app reminders during long sessions that encourage users to take breaks, which OpenAI rolled out for all users in August."
+          "It was an airy, postindustrial café of the sort that was popular 15 years ago, decorated with rough-hewn wood and unrelated machine parts—decor that’s meant to showcase not just blue-collar grit but the very idea of process.",
+          "This fruit-forward, Ethiopian espresso didn't just spring into being: It was made, labored upon, with real human hands against the drum.",
+          "Lighter roasts retain more flavor compounds and better showcase fruity flavors and the character and origin of individual beans.",
+          "One single transcendent cup of light roast espresso, made from yeast-fermented Thai beans roasted by Portland’s Sunday Coffee Project—a cup that tasted sweetly and surprisingly of wine and strawberries—was my conversion story to light roast espresso.",
+          "It was the moment I fell down on my knees and said, like beggared Oliver Twist, that I wanted more.",
+          "Generations of home baristas have followed certain guides to good espresso designed for darker beans: 25-second shots, 2:1 ratios of water to coffee, 9 bars of pressure."
         ],
         "impact": "Negative"
       }
