@@ -20,6 +20,26 @@
     },
     {
       "item": {
+        "title": "Tesla Dojo: the rise and fall of Elon Musk’s AI supercomputer",
+        "link": "https://techcrunch.com/2025/09/02/tesla-dojo-the-rise-and-fall-of-elon-musks-ai-supercomputer/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "d1f7abe9636601f6109bbbe600c31d16184c0a78"
+      },
+      "review": {
+        "headline_rewrite": "Tesla Dojo: the rise and fall of Elon Musk’s AI supercomputer",
+        "bullets": [
+          "For years, Elon Musk has spoken of the promise of Dojo, the AI supercomputer that was supposed to be the cornerstone of Tesla’s AI ambitions.",
+          "It was important enough to Musk that in July 2024, he said the company’s AI team would “double down” on Dojo in the lead-up to Tesla’s robotaxi reveal, which happened in October.",
+          "Within weeks of projecting that Dojo 2, Tesla’s second supercluster that was meant to be built on the company’s in-house D2 chips, would reach scale by 2026, Musk reversed course, declaring it “an evolutionary dead end.”\nThis article originally set out to explain what Dojo was and how it could help Tesla achieve full-self driving, autonomous humanoid robots, semiconductor autonomy, and more.",
+          "Now, you can think of it more as an obituary of a project that convinced so many analysts and investors that Tesla wasn’t an automaker – it was an AI company.",
+          "Dojo was Tesla’s custom-built supercomputer that was designed to train its “Full Self-Driving” neural networks.",
+          "It’s also the basis of similar technology powering Tesla’s limited robotaxi service that the company launched in Austin this June using Model Y SUVs."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls",
         "link": "https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/",
         "site_name": "TechCrunch",
@@ -40,19 +60,20 @@
     },
     {
       "item": {
-        "title": "Instagram tests Picture-In-Picture viewing for reels",
-        "link": "https://techcrunch.com/2025/09/02/instagram-tests-picture-in-picture-viewing-for-reels/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "bd72b3e5f5d2ff4557b1d5cfb44532a82d5863f3"
+        "title": "You can charge your Apple Watch, phone, and laptop all at once with this 240W USB-C cable",
+        "link": "https://www.theverge.com/news/769123/zens-usb-c-charging-cable-pro-2-3-240w",
+        "site_name": "The Verge",
+        "novelty_hash": "7a1f7e103aafc2d92b0760049b210487bda26f31"
       },
       "review": {
-        "headline_rewrite": "Instagram tests Picture-In-Picture viewing for reels",
+        "headline_rewrite": "You can charge your Apple Watch, phone, and laptop all at once with this 240W USB-C cable",
         "bullets": [
-          "The addition of a similar feature in Instagram could give creators a better chance of retaining audiences for their longer content.",
-          "The launch of the test follows comments made a few months ago by Instagram head Adam Mosseri, who suggested the feature could be coming soon.",
-          "At the time, Mosseri said he would “talk to the team and see if we can figure something out” in response to a question asking: “When will IG offer PiP (picture in picture in picture) like TT and YT?”\nInstagram is testing the feature with a small group of users to start."
+          "At nearly twice the price the €99.99 (around $117) Pro 3 USB-C charging cable offers the same functionality as the Pro 2 but adds an additional wireless charger for AirPods and the Apple Watch.",
+          "Both versions measure 59-inches in length and are available for preorder now with shipping expected sometime in October 2025.",
+          "Most Popular\n- Is AI the end of software engineering or the next step in its evolution?",
+          "- Amazon ends shared Prime free shipping outside your home\n- Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing\n- Chatbots can be manipulated through flattery and peer pressure\n- My favorite cooking gadget is getting a big upgrade"
         ],
-        "impact": "Positive"
+        "impact": "Neutral"
       }
     },
     {
@@ -80,7 +101,7 @@
         "title": "Amazon ends shared Prime free shipping outside your home",
         "link": "https://www.theverge.com/news/769051/amazon-prime-free-shipping-benefit-sharing-ending",
         "site_name": "The Verge",
-        "novelty_hash": "c485a908d0b63d79690ef19acb6e873d4a8c3f61"
+        "novelty_hash": "43a8ba833b98e9e290ab85d440d12baa41fbdb04"
       },
       "review": {
         "headline_rewrite": "Amazon ends shared Prime free shipping outside your home",
@@ -88,27 +109,7 @@
           "On Tuesday, Reuters reported that Amazon didn’t meet Prime signup goals in the US during its extended Prime Day event in July, though the company reportedly said it had record signups in the 25 days surrounding the event.",
           "Launched in 2015, Amazon Family (formerly Amazon Household) offers access to free shipping, along with additional perks like Prime Video, Prime Reading, third-party benefits like GrubHub, shared ebooks, Amazon Music, and more.",
           "Most Popular\n- Is AI the end of software engineering or the next step in its evolution?",
-          "- Chatbots can be manipulated through flattery and peer pressure\n- Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing\n- AI agents are science fiction not yet ready for primetime\n- Amazon ends shared Prime free shipping outside your home"
-        ],
-        "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
-        "link": "https://arstechnica.com/tech-policy/2025/09/ars-live-consumer-tech-firms-stuck-scrambling-ahead-of-looming-chip-tariffs/",
-        "site_name": "Ars Technica",
-        "novelty_hash": "69e25619965553f4561fc7dfe5c694d4912f5d3c"
-      },
-      "review": {
-        "headline_rewrite": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
-        "bullets": [
-          "We're roughly six months into Donald Trump's trade war, and tech firms remain in a fog, unsure what tariffs or retaliations could be coming next.",
-          "We'll be discussing how tech firms are responding to tariffs so far and how looming chip tariffs could pose the biggest hurdle yet in sourcing alternative supply chains.",
-          "Before Trump even took office, experts had warned that his global trade war—imposing tariffs on imports of various goods from various countries in a bid to strike more favorable trade deals for the US—risked spiking prices of popular tech products like laptops, game consoles, and smartphones.",
-          "The CTA represents firms comprising the $505 billion US consumer technology industry and has been monitoring tariff impacts while advocating for sensible tariff regimes that acknowledge supply chain limitations in the tech sector.",
-          "A key issue for tech firms is sourcing alternative supply chains that can keep their costs low while uncertainty reigns.",
-          "Trump's trade deals with many countries—most notably China—remain in tense negotiations, each one potentially affecting their manufacturing costs."
+          "- Amazon ends shared Prime free shipping outside your home\n- Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing\n- Chatbots can be manipulated through flattery and peer pressure\n- My favorite cooking gadget is getting a big upgrade"
         ],
         "impact": "Positive"
       }
