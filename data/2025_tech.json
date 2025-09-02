@@ -2,26 +2,6 @@
   "2025-09-02": [
     {
       "item": {
-        "title": "Accelerating AI adoption for the US government",
-        "link": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
-        "site_name": "The Official Microsoft Blog",
-        "novelty_hash": "0ee3c20a1457a5d2eb1ff3724c986bd4e388201b"
-      },
-      "review": {
-        "headline_rewrite": "Accelerating AI adoption for the US government",
-        "bullets": [
-          "Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance operations, strengthen security and accelerate innovation for the American people.",
-          "As an unparalleled milestone in advancing GSA’s OneGov strategy, Microsoft’s offerings will be available through a governmentwide unified pricing strategy that is expected to drive $3 billion in cost savings in the first year alone.",
-          "Enabling AI innovation and acceleration for federal agencies\nThis expansive offering will help agencies achieve key pillars of the America’s AI Action Plan by enabling federal agencies to serve at the forefront on driving AI innovation and adoption in service to the American people.",
-          "Through this agreement federal agencies will access the latest AI capabilities at scale, now integrated in many of the products they already use, to achieve key administration priorities:\n- Transforming productivity with AI: A unique Microsoft 365 and Copilot suite, offered exclusively to the federal government, enables agencies to automate workflows, analyze data and collaborate more efficiently, freeing public servants to focus on their core mission.",
-          "- Driving automation with AI agents: With AI agents, and no per-agent fees, agencies can build solutions for citizen inquiries, case management and contact centers, extending the reach and responsiveness of government services.",
-          "- Accelerating cloud modernization: With significant Azure discounts and the waiving of data egress fees, agencies can modernize infrastructure, reduce barriers to interagency collaboration and unlock the full power of advanced analytics and AI."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "How we’re strengthening our fight against online scams in APAC with a $5M fund from Google.org",
         "link": "https://blog.google/around-the-globe/google-asia/how-were-strengthening-our-fight-against-online-scams-in-apac-with-a-5m-fund-from-googleorg/",
         "site_name": "Google",
@@ -40,40 +20,22 @@
     },
     {
       "item": {
-        "title": "It’s the Humidity: How International Researchers in Poland, Deep Learning and NVIDIA GPUs Could Change the Forecast",
-        "link": "https://blogs.nvidia.com/blog/humidity/",
-        "site_name": "NVIDIA Blog",
-        "novelty_hash": "f78d9807d055c1e94445fa94724a18ac572857e5"
+        "title": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls",
+        "link": "https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "5b1aed451214b487c0cc3f211dc52a4694d90dec"
       },
       "review": {
-        "headline_rewrite": "It’s the Humidity: How International Researchers in Poland, Deep Learning and NVIDIA GPUs Could Change the Forecast",
+        "headline_rewrite": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls",
         "bullets": [
-          "And until now, satellites have struggled to capture it with the detail needed to warn us before skies crack open.",
-          "A super-resolution generative adversarial network (SRGAN), a kind of AI best known for making grainy photos look crisp.",
-          "Instead of celebrities or landscapes, researchers trained the network on global weather data and powered by NVIDIA GPUs.",
-          "In California, it delivers a 52% cut in errors, even in rainy conditions when forecasts are most likely to get slippery.",
-          "Compared with older methods that smeared details into a watercolor blur, the AI produced sharp gradients that actually matched what ground instruments saw.",
-          "And because weather prediction is as much about trust as accuracy, the team added a twist: explainable AI."
+          "OpenAI said Tuesday it plans to route sensitive conversations to reasoning models like GPT-5 and roll out parental controls within the next month – part of an ongoing response to recent safety incidents involving ChatGPT failing to detect mental distress.",
+          "The new guardrails come in the aftermath of the suicide of teenager Adam Raine, who discussed self-harm and plans to end his life with ChatGPT, which even supplied him with information about specific suicide methods.",
+          "Raine’s parents have filed a wrongful death lawsuit against OpenAI.",
+          "In a blog post last week, OpenAI acknowledged shortcomings in its safety systems, including failures to maintain guardrails during extended conversations.",
+          "OpenAI thinks that at least one solution to conversations that go off the rails could be to automatically reroute sensitive chats to “reasoning” models.",
+          "“We recently introduced a real-time router that can choose between efficient chat models and reasoning models based on the conversation context,” OpenAI wrote in a Tuesday blog post."
         ],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain",
-        "link": "https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "cfc01aac9949a0f1a3c41bc0d2c4db0da68b1782"
-      },
-      "review": {
-        "headline_rewrite": "Just 4 days left to exhibit at TechCrunch Disrupt 2025 — 10 tables remain",
-        "bullets": [
-          "With just 4 days left to book your table, now’s the time to stop circling the idea and claim your spot on the show floor.",
-          "Only 10 tables remain — and once they’re gone, they’re gone.",
-          "No waitlist.",
-          "If you’ve got a killer product, a bold vision, or early traction, and you’re ready to scale, then this is your platform."
-        ],
-        "impact": "Neutral"
       }
     },
     {
@@ -96,10 +58,30 @@
     },
     {
       "item": {
+        "title": "OpenAI announces parental controls for ChatGPT after teen suicide lawsuit",
+        "link": "https://arstechnica.com/ai/2025/09/openai-announces-parental-controls-for-chatgpt-after-teen-suicide-lawsuit/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "d866d4b550afdc01861f35ccd91ad3b8b487c4a5"
+      },
+      "review": {
+        "headline_rewrite": "OpenAI announces parental controls for ChatGPT after teen suicide lawsuit",
+        "bullets": [
+          "On Tuesday, OpenAI announced plans to roll out parental controls for ChatGPT and route sensitive mental health conversations to its simulated reasoning models, following what the company has called \"heartbreaking cases\" of users experiencing crises while using the AI assistant.",
+          "The moves come after multiple reported incidents where ChatGPT allegedly failed to intervene appropriately when users expressed suicidal thoughts or experienced mental health episodes.",
+          "\"This work has already been underway, but we want to proactively preview our plans for the next 120 days, so you won’t need to wait for launches to see where we’re headed,\" OpenAI wrote in a blog post published Tuesday.",
+          "\"The work will continue well beyond this period of time, but we’re making a focused effort to launch as many of these improvements as possible this year.\"\nThe planned parental controls represent OpenAI's most concrete response to concerns about teen safety on the platform so far.",
+          "Within the next month, OpenAI says, parents will be able to link their accounts with their teens' ChatGPT accounts (minimum age 13) through email invitations, control how the AI model responds with age-appropriate behavior rules that are on by default, manage which features to disable (including memory and chat history), and receive notifications when the system detects their teen experiencing acute distress.",
+          "The parental controls build on existing features like in-app reminders during long sessions that encourage users to take breaks, which OpenAI rolled out for all users in August."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Amazon ends shared Prime free shipping outside your home",
         "link": "https://www.theverge.com/news/769051/amazon-prime-free-shipping-benefit-sharing-ending",
         "site_name": "The Verge",
-        "novelty_hash": "bed1aa978d08350ccbae0900d61eed5f5cfe6f71"
+        "novelty_hash": "436711927541e1e7e23c35f8a109f3051ddb9643"
       },
       "review": {
         "headline_rewrite": "Amazon ends shared Prime free shipping outside your home",
@@ -107,7 +89,27 @@
           "On Tuesday, Reuters reported that Amazon didn’t meet Prime signup goals in the US during its extended Prime Day event in July, though the company reportedly said it had record signups in the 25 days surrounding the event.",
           "Launched in 2015, Amazon Family (formerly Amazon Household) offers access to free shipping, along with additional perks like Prime Video, Prime Reading, third-party benefits like GrubHub, shared ebooks, Amazon Music, and more.",
           "Most Popular\n- Is AI the end of software engineering or the next step in its evolution?",
-          "- Chatbots can be manipulated through flattery and peer pressure\n- AI agents are science fiction not yet ready for primetime\n- The 20 best Labor Day deals you can grab for $100 or less\n- Hell Is Us is a cryptic and ambitious meditation on the horrors of war"
+          "- Chatbots can be manipulated through flattery and peer pressure\n- AI agents are science fiction not yet ready for primetime\n- The 20 best Labor Day deals you can grab for $100 or less\n- Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing"
+        ],
+        "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
+        "link": "https://arstechnica.com/tech-policy/2025/09/ars-live-consumer-tech-firms-stuck-scrambling-ahead-of-looming-chip-tariffs/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "69e25619965553f4561fc7dfe5c694d4912f5d3c"
+      },
+      "review": {
+        "headline_rewrite": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
+        "bullets": [
+          "We're roughly six months into Donald Trump's trade war, and tech firms remain in a fog, unsure what tariffs or retaliations could be coming next.",
+          "We'll be discussing how tech firms are responding to tariffs so far and how looming chip tariffs could pose the biggest hurdle yet in sourcing alternative supply chains.",
+          "Before Trump even took office, experts had warned that his global trade war—imposing tariffs on imports of various goods from various countries in a bid to strike more favorable trade deals for the US—risked spiking prices of popular tech products like laptops, game consoles, and smartphones.",
+          "The CTA represents firms comprising the $505 billion US consumer technology industry and has been monitoring tariff impacts while advocating for sensible tariff regimes that acknowledge supply chain limitations in the tech sector.",
+          "A key issue for tech firms is sourcing alternative supply chains that can keep their costs low while uncertainty reigns.",
+          "Trump's trade deals with many countries—most notably China—remain in tense negotiations, each one potentially affecting their manufacturing costs."
         ],
         "impact": "Positive"
       }
