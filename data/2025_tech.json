@@ -2,10 +2,68 @@
   "2025-09-02": [
     {
       "item": {
+        "title": "Accelerating AI adoption for the US government",
+        "link": "https://blogs.microsoft.com/blog/2025/09/02/accelerating-ai-adoption-for-the-us-government/",
+        "site_name": "The Official Microsoft Blog",
+        "novelty_hash": "0ee3c20a1457a5d2eb1ff3724c986bd4e388201b"
+      },
+      "review": {
+        "headline_rewrite": "Accelerating AI adoption for the US government",
+        "bullets": [
+          "Today, Microsoft and the US General Services Administration (GSA) announced a comprehensive agreement to bring a suite of productivity, cloud and AI services, including Microsoft 365 Copilot at no cost for up to 12 months for millions of existing Microsoft G5 users, to help agencies rapidly adopt secure and compliant advanced AI tools that will enhance operations, strengthen security and accelerate innovation for the American people.",
+          "As an unparalleled milestone in advancing GSA’s OneGov strategy, Microsoft’s offerings will be available through a governmentwide unified pricing strategy that is expected to drive $3 billion in cost savings in the first year alone.",
+          "Enabling AI innovation and acceleration for federal agencies\nThis expansive offering will help agencies achieve key pillars of the America’s AI Action Plan by enabling federal agencies to serve at the forefront on driving AI innovation and adoption in service to the American people.",
+          "Through this agreement federal agencies will access the latest AI capabilities at scale, now integrated in many of the products they already use, to achieve key administration priorities:\n- Transforming productivity with AI: A unique Microsoft 365 and Copilot suite, offered exclusively to the federal government, enables agencies to automate workflows, analyze data and collaborate more efficiently, freeing public servants to focus on their core mission.",
+          "- Driving automation with AI agents: With AI agents, and no per-agent fees, agencies can build solutions for citizen inquiries, case management and contact centers, extending the reach and responsiveness of government services.",
+          "- Accelerating cloud modernization: With significant Azure discounts and the waiving of data egress fees, agencies can modernize infrastructure, reduce barriers to interagency collaboration and unlock the full power of advanced analytics and AI."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "How we’re strengthening our fight against online scams in APAC with a $5M fund from Google.org",
+        "link": "https://blog.google/around-the-globe/google-asia/how-were-strengthening-our-fight-against-online-scams-in-apac-with-a-5m-fund-from-googleorg/",
+        "site_name": "Google",
+        "novelty_hash": "9e176519b11104e08109c70220cf3a5c00bd3b4a"
+      },
+      "review": {
+        "headline_rewrite": "How we’re strengthening our fight against online scams in APAC with a $5M fund from Google.org",
+        "bullets": [
+          "How we’re strengthening our fight against online scams in APAC with a $5M fund from Google.org\nScams and fraud continue to impact millions across Southeast Asia, accounting for an estimated $23.6 billion across the region in 2024.",
+          "At the GASA Anti-Scam Summit 2025 in Singapore, we announced $5 million in funding from Google.org to The ASEAN Foundation to expand online scam prevention resources to 3 million people in Southeast Asia.",
+          "This includes scaling “Be Scam Ready” (formerly known as ShieldUp!), an educational game that helps build resilience against online threats by exposing players to common scam tactics in a safe environment.",
+          "Tracking over 400 million threat signals in real-time, member organizations can rapidly share information to disrupt fraud."
+        ],
+        "impact": "Neutral"
+      }
+    },
+    {
+      "item": {
+        "title": "It’s the Humidity: How International Researchers in Poland, Deep Learning and NVIDIA GPUs Could Change the Forecast",
+        "link": "https://blogs.nvidia.com/blog/humidity/",
+        "site_name": "NVIDIA Blog",
+        "novelty_hash": "f78d9807d055c1e94445fa94724a18ac572857e5"
+      },
+      "review": {
+        "headline_rewrite": "It’s the Humidity: How International Researchers in Poland, Deep Learning and NVIDIA GPUs Could Change the Forecast",
+        "bullets": [
+          "And until now, satellites have struggled to capture it with the detail needed to warn us before skies crack open.",
+          "A super-resolution generative adversarial network (SRGAN), a kind of AI best known for making grainy photos look crisp.",
+          "Instead of celebrities or landscapes, researchers trained the network on global weather data and powered by NVIDIA GPUs.",
+          "In California, it delivers a 52% cut in errors, even in rainy conditions when forecasts are most likely to get slippery.",
+          "Compared with older methods that smeared details into a watercolor blur, the AI produced sharp gradients that actually matched what ground instruments saw.",
+          "And because weather prediction is as much about trust as accuracy, the team added a twist: explainable AI."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Dolby Vision 2 goes beyond HDR with more AI and &#8216;authentic motion&#8217; smoothing",
         "link": "https://www.theverge.com/news/768842/dolby-vision-2-launch-content-intelligence-tone-mapping",
         "site_name": "The Verge",
-        "novelty_hash": "cbec91cfd550ac520300b9f0aa2e42f8993c2df8"
+        "novelty_hash": "fc835e3809e68efd519946c9b3b5b65798272f31"
       },
       "review": {
         "headline_rewrite": "Dolby Vision 2 goes beyond HDR with more AI and &#8216;authentic motion&#8217; smoothing",
@@ -22,97 +80,42 @@
     },
     {
       "item": {
-        "title": "Hungry Worms Could Help Solve Plastic Pollution",
-        "link": "https://www.wired.com/story/could-plastic-eating-moth-larvae-be-a-solution-to-environmental-pollution/",
-        "site_name": "WIRED",
-        "novelty_hash": "c86e8771eadaccdc86ba29adfbdee010ece05487"
+        "title": "Samsung’s trifold might be launching pretty soon",
+        "link": "https://www.theverge.com/news/768918/samsungs-trifold-might-be-launching-pretty-soon",
+        "site_name": "The Verge",
+        "novelty_hash": "2aca5797d522172434138351622b1eae16515917"
       },
       "review": {
-        "headline_rewrite": "Hungry Worms Could Help Solve Plastic Pollution",
+        "headline_rewrite": "Samsung’s trifold might be launching pretty soon",
         "bullets": [
-          "“Around 2,000 wax worms can break down an entire polyethylene bag in as little as 24 hours, although we believe that co-supplementation with feeding stimulants like sugars can reduce the number of worms considerably,” said Dr Bryan Cassone, a professor of biology at Brandon University in Canada, in a news release.",
-          "They found that as the wax worms ate the polyethylene, their feces liquefied and contained glycol as a byproduct.",
-          "The team also isolated bacteria from the guts of wax worms and then cultured strains that could survive on polyethylene as their sole food source.",
-          "Among them was a strain of Acinetobacter, which survived for more than a year in the laboratory environment and continued to break down polyethylene.",
-          "But researchers believe that creating a food source to assist their intake of polyethylene would mean wax worms are able to sustain healthy viability on a plastic diet and improve their decomposition efficiency.",
-          "In the insect-rearing route, a byproduct would be large amounts of insect biomass—countless larvae that have been fed on plastic."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "9 Best Electric Cargo Bikes for Families (2025), Tested and Reviewed",
-        "link": "https://www.wired.com/gallery/best-electric-cargo-bikes/",
-        "site_name": "WIRED",
-        "novelty_hash": "d7ef6697b1817d59c79274c094e320bad8c0c6bd"
-      },
-      "review": {
-        "headline_rewrite": "9 Best Electric Cargo Bikes for Families (2025), Tested and Reviewed",
-        "bullets": [
-          "Mine has transformed my life, turning my dull, daily errand-running into a multitasking combination of joyride and workout.",
-          "The other layout is a midtail or longtail, which extends the rear end of the bicycle to accommodate more bodies and gear.",
-          "However, you will need a garage or storage space and a very good and reliable lock system; they're harder to maneuver and much heavier if you have to go over curbs or rough terrain; and they don't feel particularly stable at slower speeds.",
-          "If you're a smaller or lighter person, you may prefer a midtail or a longtail, which maneuver more like a regular bicycle.",
-          "I own a longtail; I prefer the maneuverability, but it can be annoying making sure that everything is strapped down on a rack or in a pannier.",
-          "Even More Accessories\nIf you get a longtail ebike, don't forget to factor in the price of accessories."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "The Morning After: DJI’s tiny Mic 3 can record four subjects at once",
-        "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111920529.html",
-        "site_name": "Engadget",
-        "novelty_hash": "706a1c166c3de5ae582a82320d79656668904dfb"
-      },
-      "review": {
-        "headline_rewrite": "The Morning After: DJI’s tiny Mic 3 can record four subjects at once",
-        "bullets": [
-          "That has now been resolved with a “renewal of the full portfolio of Fox networks, including Fox News Channel, Fox Business Network, Fox Weather, Fox Sports, FS1, FS2, Fox Deportes, Big Ten Network, the Fox network and all Fox Local Stations,” Fox said in its own press release.",
-          "Waiting 10 years to be underwhelmed.",
-          "However, for something Sony waited nearly a decade to update and is charging $5,100 for, it also feels like a missed opportunity.",
-          "Plus, it’s missing a handful of features the company really should have included for it to hold its own against other high-end compact cameras from rivals, like Fujifilm."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Dolby announces Dolby Vision 2, expanding picture quality 'beyond HDR'",
-        "link": "https://www.engadget.com/home/home-theater/dolby-announces-dolby-vision-2-expanding-picture-quality-beyond-hdr-123019504.html",
-        "site_name": "Engadget",
-        "novelty_hash": "e4e54ee6faa5c9bfff0754f3c12bf7ac44425f84"
-      },
-      "review": {
-        "headline_rewrite": "Dolby announces Dolby Vision 2, expanding picture quality 'beyond HDR'",
-        "bullets": [
-          "Dolby says these tools provide a better \"bridge\" between the creative professionals and the living room by using AI to automatically adapt your TV to what your watching and where you're watching it.",
-          "Bi-directional tone mapping will allow premium TVs produce \"deliver higher brightness, sharper contrast and deeply saturated colors\" while maintaining artist intent, Dolby explains.",
-          "Regular Dolby Vision 2 is what you'll find on mainstream TVs with features that run on the new image engine and Content Intelligence.",
-          "When new standards like this are introduced, sometimes it takes a while for them to actually make it into products you can buy.",
-          "What's more, French streaming service Canal+ is also on board, aiming to leverage the new technology for movies, TV shows and live sports.",
-          "You'll want to tune into our CES coverage in January, because Dolby Vision 2 will certainly be a topic of discussion for the companies that typically debut new TVs in Las Vegas."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "AI News",
-        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
-        "site_name": "The Times of India",
-        "novelty_hash": "3a2edfb86440d35a9e8b122061650673882966e1"
-      },
-      "review": {
-        "headline_rewrite": "AI News",
-        "bullets": [
-          "Grammarly launches new AI agents to assist students and professionals with writing tasks\nGrammarly has introduced eight new AI agents within its AI writing surface, 'docs,' designed to aid students and professionals with diverse writing tasks.",
-          "These agents offer functionalities like citation finding, plagiarism checking, and AI detection, alongside features predicting reader reactions and providing rubric-based feedback.",
-          "This launch signifies Grammarly's move towards agent-based AI to enhance writing across various platforms."
+          "We know officially that Samsung is planning to launch its first trifold phone this year, and recent rumors suggest that might mean either this month or next.",
+          "Just don’t expect it to appear at this week’s Unpacked event, which promises products ranging from “premium AI tablets to the newest member of the Galaxy S25 family.”\nKorea’s ET News reports today that the new foldable could be unveiled as early as this month, with the phone actually on sale in November.",
+          "That launch sounds pretty limited though: apparently only 50,000 units, a far cry from the millions of preorders Huawei claims to have received for its first foldable, last year’s Mate XT.",
+          "It’s ready to launch its second generation, the Mate XTs, this Thursday.",
+          "Other sources have claimed we might see the launch a little earlier.",
+          "Another Korean site, Newsworks, expects an Unpacked on September 29th to reveal Samsung’s upcoming Project Moohan XR headset, and leaker Ice Universe claims we’ll see the trifold there too, along with a pair of AR glasses."
         ],
         "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance",
+        "link": "https://www.wired.com/story/final-fantasy-tactics-refresh/",
+        "site_name": "WIRED",
+        "novelty_hash": "ff3f69e0456d991ce48ffeba53500e575ed8672c"
+      },
+      "review": {
+        "headline_rewrite": "The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance",
+        "bullets": [
+          "“Players today expect a higher standard.”\nWhen the game launches on Nintendo Switch systems, PlayStation 4/5, Steam, and Xbox Series X/S on September 30, players won’t notice a major overhaul.",
+          "The story delves into the politics and pains of an aristocratic hierarchical system in a time of kings and knights.",
+          "Ramza hails from a noble family, while his best friend Delita is lowborn.",
+          "The childhood friends are separated after a tragic event and eventually find themselves on opposite sides of a war where nobles and peasants clash amid religious corruption and claims to the throne.",
+          "Matsuno wrote it against the backdrop of late-1990s Japan, a time of economic and cultural turmoil.",
+          "“The collapse of Japan’s bubble economy engulfed the nation’s financial institutions in mountains of bad debt, triggering a wave of corporate bankruptcies, a sudden and extreme rise in unemployment rates, and stagnation of Japanese society as a whole,” he wrote on X shortly after the remake was announced."
+        ],
+        "impact": "Negative"
       }
     }
   ]
