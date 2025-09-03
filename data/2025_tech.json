@@ -99,19 +99,22 @@
     },
     {
       "item": {
-        "title": "More Pixel phones are getting Google’s new look for Android",
-        "link": "https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive",
-        "site_name": "The Verge",
-        "novelty_hash": "6a4cc6ef12b1384bd4f59be544282f1cc5a5d14a"
+        "title": "Judge: Google can keep Chrome, must share search data with “qualified competitors”",
+        "link": "https://arstechnica.com/gadgets/2025/09/google-wont-have-to-sell-chrome-judge-rules/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "955f5615b33bed5f0345caa6f60afefcc1a6160b"
       },
       "review": {
-        "headline_rewrite": "More Pixel phones are getting Google’s new look for Android",
+        "headline_rewrite": "Judge: Google can keep Chrome, must share search data with “qualified competitors”",
         "bullets": [
-          "Google first revealed the youthful new design language in May before launching it with its Android 16-equipped Pixel 10 phones last month.",
-          "Some other tweaks are coming to a wider range of Android devices, too, including the ability to share Bluetooth audio with friends, access AI-powered writing suggestions in Gboard, and favorite your creations in Emoji Kitchen.",
-          "There’s a redesigned Quick Share menu that lets you toggle between sending and receiving files, and a new Androidify app that uses AI to create your own Android bot using a selfie and a prompt."
+          "Google has avoided the worst-case scenario in the pivotal search antitrust case brought by the US Department of Justice.",
+          "More than a year ago, the Department of Justice (DOJ) secured a major victory when Google was found to have violated the Sherman Antitrust Act.",
+          "Chrome remains with Google\nThis case drew many comparisons to the decades-old antitrust case against Microsoft, which nearly saw the company split in two.",
+          "While there will be some changes to search distribution, the court didn't believe that a breakup was fair in this situation.",
+          "Google claimed people use its search engine because it's the best, and besides, no other company could hope to operate Chrome and Chromium like it does.",
+          "Perplexity and the others can keep their money because there's essentially zero chance Google entertains any offers going forward."
         ],
-        "impact": "Positive"
+        "impact": "Neutral"
       }
     }
   ]
