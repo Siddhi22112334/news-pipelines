@@ -18,36 +18,56 @@
     },
     {
       "item": {
-        "title": "CoreWeave acquires agent-training startup OpenPipe",
-        "link": "https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/",
+        "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini",
+        "link": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
         "site_name": "TechCrunch",
-        "novelty_hash": "fb718d536ec6eff956e35c9664691ec910a16096"
+        "novelty_hash": "33ebc2fafe77dd11015d951c3cb15d51e0c7cfa6"
       },
       "review": {
-        "headline_rewrite": "CoreWeave acquires agent-training startup OpenPipe",
+        "headline_rewrite": "Apple’s Siri upgrade could reportedly be powered by Google Gemini",
         "bullets": [
-          "CoreWeave, which provides cloud servers to large companies training AI models, has struck an agreement to acquire OpenPipe, a two-year-old Y Combinator-backed startup that helps enterprises develop customized AI agents with reinforcement learning, the companies announced on Wednesday.",
-          "“Reinforcement learning is emerging as a pivotal force to strengthen model performance on agentic and reasoning tasks,” said Brian Venturo, co-founder of CoreWeave, in a statement to TechCrunch.",
-          "“By combining OpenPipe’s advanced self-learning tools with CoreWeave’s high-performance AI cloud, we’re expanding our platform to give developers at AI labs and beyond an important advantage in building scalable intelligent systems.”\nCoreWeave and OpenPipe did not disclose the terms of the deal.",
-          "In March 2024, the Seattle-based OpenPipe raised a $6.7 million seed round, with backers including Costanoa Ventures, Y Combinator, Google DeepMind’s Logan Kilpatrick, GitHub co-founder Tom Preston-Werner, and GitHub Copilot co-creator Alex Graveley.",
-          "The deal marks CoreWeave’s latest attempt to expand down the stack, following its acquisition of the AI developer platform Weights & Biases in March.",
-          "OpenPipe develops a popular open source toolkit for creating AI agents called ART (agent reinforcement trainer)."
+          "Apple’s Siri overhaul may include an AI-powered web search tool with technology powered by Google’s Gemini, according to a new report from Bloomberg’s Mark Gurman.",
+          "The iPhone maker, which has been criticized for falling behind in the AI race, delayed its long-awaited Siri update until 2026.",
+          "In the meantime, the company has been scrambling to determine whether its own AI models alone will work well enough to make its upgraded Siri competitive with the AI answer engines available today from tech companies like OpenAI, Perplexity, and Google.",
+          "The report claims that Apple and Google reached a formal agreement this week that will see Apple testing a Google AI model in Siri.",
+          "If successful, the technology could also be used in other areas of iPhone software, including the Safari browser and Spotlight search, which is available on the Home Screen.",
+          "With AI chatbots, however, consumers can now source quick answers about a wide range of topics beyond those that could be found on Wikipedia."
         ],
-        "impact": "Neutral"
+        "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "xAI’s CFO is the latest executive to leave the Elon Musk’s AI firm",
-        "link": "https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-the-elon-musks-ai-firm/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "2514ecde1bb6985d70e0e0b882654b2d408b3bfd"
+        "title": "Apple&#8217;s rumored AI search tool for Siri could rely on Google",
+        "link": "https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini",
+        "site_name": "The Verge",
+        "novelty_hash": "0436cd662e31c5733fd4af9fb6bff3c08308fb26"
       },
       "review": {
-        "headline_rewrite": "xAI’s CFO is the latest executive to leave the Elon Musk’s AI firm",
+        "headline_rewrite": "Apple&#8217;s rumored AI search tool for Siri could rely on Google",
+        "bullets": [
+          "Apple is working on an AI-powered search feature for Siri – but it might need Google’s help to make it happen, according to a report from Bloomberg’s Mark Gurman.",
+          "Apple’s rumored AI search tool for Siri could rely on Google\nA ‘World Knowledge Answers’ feature could summarize information from the web using Google’s Gemini AI model.",
+          "The new feature, reportedly called “World Knowledge Answers” internally, will allow users to search for information and receive AI-generated summaries based on results from the web.",
+          "Its interface will also incorporate text, photos, videos, and points of interest, allowing it to challenge the AI-powered search features from companies like OpenAI and Perplexity.",
+          "Putting AI search into Siri is part of Apple’s delayed plans to upgrade the voice assistant with new features that will let it tap into your personal data and perform actions based on the content on your screen.",
+          "This week, Apple and Google reached a “formal agreement” for Apple to test a Google-designed AI model for Siri’s summaries, according to Bloomberg."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "xAI’s CFO is the latest executive to leave Elon Musk’s AI firm",
+        "link": "https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-elon-musks-ai-firm/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "d00d35b16b719e0ece56fc8fb46e5d65fe889983"
+      },
+      "review": {
+        "headline_rewrite": "xAI’s CFO is the latest executive to leave Elon Musk’s AI firm",
         "bullets": [
           "Mike Liberatore, xAI’s chief financial officer, has left the company, according to reporting from The Wall Street Journal.",
-          "The former Airbnb executive joined the company in April and left around the end of July, per WSJ.",
+          "The former Airbnb executive joined the company in April and left around the end of July, per the WSJ.",
           "While at xAI, he helped orchestrate the company’s $5 billion debt raise, alongside another $5 billion in equity — almost half of which came from SpaceX.",
           "He also oversaw some of the Elon Musk-owned AI firm’s data center expansion in Memphis.",
           "Liberatore’s departure comes after xAI’s general counsel, Robert Keele, left in August — a little over a year on the job.",
@@ -74,26 +94,6 @@
           "Apertus’ training data was restricted to public sources, while adhering to the AI crawler opt-out requests on certain websites, according to the developers."
         ],
         "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "Everything you need to know about iOS 26 features and the upcoming Apple iPhone update",
-        "link": "https://www.engadget.com/mobile/everything-you-need-to-know-about-ios-26-features-and-the-upcoming-apple-iphone-update-135749757.html",
-        "site_name": "Engadget",
-        "novelty_hash": "f9cb2614fb923421d659aaa1fe0a35de1c5cf444"
-      },
-      "review": {
-        "headline_rewrite": "Everything you need to know about iOS 26 features and the upcoming Apple iPhone update",
-        "bullets": [
-          "(Here's how you can watch the iPhone 17 launch on YouTube.) We'll finally get to see the new iPhone 17 lineup, and — assuming Apple sticks to tradition — we should be able to install iOS 26 around a week or so after the event.",
-          "(Apple is also expected to release iOS 18.7 at the same time, per MacRumors, to address security issues.) But you don't have to wait to test out the new features because you can download and install the newly released public beta 6 (or iOS 26 developer beta 9 for developers).",
-          "After overpromising on AI plans last year, Apple kept its iOS roadmap focused more on basic quality of life improvements this year.",
-          "There are multiple useful additions coming to the Phone and Messages apps on your iPhone, for instance: Apple execs outlined the ability to weed out spam texts or other unknown senders and an option to hold your spot on a phone call when you've been waiting for a representative to pick up.",
-          "With each beta, it seems like additional new improvements are popping up, like this new AirPods gesture we're all curious about, and a new bouncy animation on the passcode screen and in the Control Center.",
-          "The current iPhone operating system is iOS 18, and Apple is still actively updating it — version 18.6.1 was released to restore Apple Watch blood oxygen monitoring functionality for certain users in the US."
-        ],
-        "impact": "Negative"
       }
     },
     {
