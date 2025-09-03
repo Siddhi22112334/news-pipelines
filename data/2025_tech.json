@@ -21,16 +21,16 @@
         "title": "CoreWeave acquires agent-training startup OpenPipe",
         "link": "https://techcrunch.com/2025/09/03/coreweave-acquires-agent-training-startup-openpipe/",
         "site_name": "TechCrunch",
-        "novelty_hash": "90358f3d78709eb0935f5916fc95d15479f755d9"
+        "novelty_hash": "fb718d536ec6eff956e35c9664691ec910a16096"
       },
       "review": {
         "headline_rewrite": "CoreWeave acquires agent-training startup OpenPipe",
         "bullets": [
-          "CoreWeave, which provides cloud servers to large companies training AI models, has struck an agreement to acquire OpenPipe, a 2-year-old Y Combinator-backed startup that helps enterprises develop customized AI agents with reinforcement learning, the companies announced on Wednesday.",
-          "“Reinforcement learning is emerging as a pivotal force to strengthen model performance on agentic and reasoning tasks,” said Brian Venturo, Co-founder of CoreWeave, in a statement to TechCrunch.",
+          "CoreWeave, which provides cloud servers to large companies training AI models, has struck an agreement to acquire OpenPipe, a two-year-old Y Combinator-backed startup that helps enterprises develop customized AI agents with reinforcement learning, the companies announced on Wednesday.",
+          "“Reinforcement learning is emerging as a pivotal force to strengthen model performance on agentic and reasoning tasks,” said Brian Venturo, co-founder of CoreWeave, in a statement to TechCrunch.",
           "“By combining OpenPipe’s advanced self-learning tools with CoreWeave’s high-performance AI cloud, we’re expanding our platform to give developers at AI labs and beyond an important advantage in building scalable intelligent systems.”\nCoreWeave and OpenPipe did not disclose the terms of the deal.",
-          "In March 2024, the Seattle-based OpenPipe raised a $6.7 million seed round, with backers including Costanoa Ventures, Y Combinator, Google DeepMind’s Logan Kilpatrick, GitHub co-founder Tom Preston-Werner, and co-creator of GitHub Copilot Alex Graveley.",
-          "The deal marks CoreWeave’s latest attempt to expand down the stack, following its acquisition of the AI developer platform, Weights & Biases, in March.",
+          "In March 2024, the Seattle-based OpenPipe raised a $6.7 million seed round, with backers including Costanoa Ventures, Y Combinator, Google DeepMind’s Logan Kilpatrick, GitHub co-founder Tom Preston-Werner, and GitHub Copilot co-creator Alex Graveley.",
+          "The deal marks CoreWeave’s latest attempt to expand down the stack, following its acquisition of the AI developer platform Weights & Biases in March.",
           "OpenPipe develops a popular open source toolkit for creating AI agents called ART (agent reinforcement trainer)."
         ],
         "impact": "Neutral"
@@ -38,42 +38,42 @@
     },
     {
       "item": {
-        "title": "SpaceX gets a green light to more than double its Florida launches",
-        "link": "https://techcrunch.com/2025/09/03/spacex-gets-the-green-light-to-more-than-double-its-florida-launches/",
+        "title": "xAI’s CFO is the latest executive to leave the Elon Musk’s AI firm",
+        "link": "https://techcrunch.com/2025/09/03/xais-cfo-is-the-latest-executive-to-leave-the-elon-musks-ai-firm/",
         "site_name": "TechCrunch",
-        "novelty_hash": "4b75c48b662b4fd55a306f2c113ce86ea3f9d6a6"
+        "novelty_hash": "2514ecde1bb6985d70e0e0b882654b2d408b3bfd"
       },
       "review": {
-        "headline_rewrite": "SpaceX gets a green light to more than double its Florida launches",
+        "headline_rewrite": "xAI’s CFO is the latest executive to leave the Elon Musk’s AI firm",
         "bullets": [
-          "regulators have completed a key environmental review that paves the way for SpaceX to more than double the number of Falcon 9 launches from Florida’s Cape Canaveral Space Force Station.",
-          "In addition to the annual launch increase from 50 launches to up to 120, the Federal Aviation Administration’s environmental review also approved a new on-site landing zone that could accommodate up to 34 booster landings per year.",
-          "Those measures include obtaining additional environmental permits before construction of the new facilities, using sea turtle-friendly lighting at night, and conducting pre-construction surveys of Florida scrub-jay and eastern indigo snake populations to ensure wildlife protection.",
-          "Regarding water management, the review concluded it is highly unlikely for industrial wastewater — specifically the huge volumes of water discharged by the deluge system during launch — to discharge into nearby waters.",
-          "The deluge system, which sprays massive amounts of water onto the launch pad during liftoff to absorb heat and sound from the rocket engines, has been contentious.",
-          "At SpaceX’s Starbase launch site in Texas, environmental groups sued local regulators over authorizations allowing the company to discharge industrial wastewater from the pad."
+          "Mike Liberatore, xAI’s chief financial officer, has left the company, according to reporting from The Wall Street Journal.",
+          "The former Airbnb executive joined the company in April and left around the end of July, per WSJ.",
+          "While at xAI, he helped orchestrate the company’s $5 billion debt raise, alongside another $5 billion in equity — almost half of which came from SpaceX.",
+          "He also oversaw some of the Elon Musk-owned AI firm’s data center expansion in Memphis.",
+          "Liberatore’s departure comes after xAI’s general counsel, Robert Keele, left in August — a little over a year on the job.",
+          "Igor Babuschkin, an xAI co-founder, announced his departure last month, saying he left the company to launch his own VC firm dedicated to AI safety research."
         ],
-        "impact": "Negative"
+        "impact": "Positive"
       }
     },
     {
       "item": {
-        "title": "Judge: Google can keep Chrome, must share search data with “qualified competitors”",
-        "link": "https://arstechnica.com/gadgets/2025/09/google-wont-have-to-sell-chrome-judge-rules/",
-        "site_name": "Ars Technica",
-        "novelty_hash": "955f5615b33bed5f0345caa6f60afefcc1a6160b"
+        "title": "Switzerland releases its own AI model trained on public data",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus",
+        "site_name": "The Verge",
+        "novelty_hash": "9eac0621b4437e024bafa3cdb85e0c86152f43fa"
       },
       "review": {
-        "headline_rewrite": "Judge: Google can keep Chrome, must share search data with “qualified competitors”",
+        "headline_rewrite": "Switzerland releases its own AI model trained on public data",
         "bullets": [
-          "Google has avoided the worst-case scenario in the pivotal search antitrust case brought by the US Department of Justice.",
-          "More than a year ago, the Department of Justice (DOJ) secured a major victory when Google was found to have violated the Sherman Antitrust Act.",
-          "Chrome remains with Google\nThis case drew many comparisons to the decades-old antitrust case against Microsoft, which nearly saw the company split in two.",
-          "While there will be some changes to search distribution, the court didn't believe that a breakup was fair in this situation.",
-          "Google claimed people use its search engine because it's the best, and besides, no other company could hope to operate Chrome and Chromium like it does.",
-          "Perplexity and the others can keep their money because there's essentially zero chance Google entertains any offers going forward."
+          "Switzerland launched an open-source model called Apertus on Monday as an alternative to proprietary models like OpenAI’s ChatGPT or Anthropic’s Claude, reports SWI as spotted by Engadget.",
+          "The model’s source code, training data, model weights, and detailed development process are available on the AI model platform HuggingFace.",
+          "Switzerland releases its own AI model trained on public data\nTraining data came only from websites that allowed scrapers, developers say.",
+          "The model was trained on over 1,800 languages and comes in two sizes with either 8 billion or 70 billion parameters.",
+          "The model was built to adhere to the European Union’s copyright laws and voluntary AI code of practice, which some US-based AI companies have said reluctantly signed while claiming that the regulations will curb AI innovation and deployment.",
+          "Apertus’ training data was restricted to public sources, while adhering to the AI crawler opt-out requests on certain websites, according to the developers."
         ],
-        "impact": "Neutral"
+        "impact": "Positive"
       }
     },
     {
