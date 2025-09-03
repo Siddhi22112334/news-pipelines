@@ -59,26 +59,6 @@
     },
     {
       "item": {
-        "title": "Google’s NotebookLM now lets you customize the tone of its AI podcasts",
-        "link": "https://techcrunch.com/2025/09/03/googles-notebooklm-now-lets-you-customize-the-tone-of-its-ai-podcasts/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "a025502aa41face3b09b0b3a6207e13e9efe4ca9"
-      },
-      "review": {
-        "headline_rewrite": "Google’s NotebookLM now lets you customize the tone of its AI podcasts",
-        "bullets": [
-          "Google’s AI note-taking and research assistant NotebookLM now lets users customize the tone of their Audio Overviews, which are podcasts with AI virtual hosts that summarize and discuss documents shared with NotebookLM, such as course readings or legal briefs.",
-          "When generating an Audio Overview, users can now choose whether they want their AI podcasts to be formatted as a “Deep Dive,” “Brief,” “Critique,” or “Debate.”\nA Deep Dive features conversational dialogues where two AI hosts unpack the topic with depth and questions.",
-          "A Critique features a review of your sources and constructive feedback to help you improve, while a Debate includes two AI hosts offering different perspectives on your sources.",
-          "Each of the different formats lets you customize how long or short you want the AI podcast to be.",
-          "In addition to customizable tones, Google is also bringing a highly requested feature to NotebookLM, which is the addition of new voices for the AI podcasts.",
-          "The launch comes as Google has been building out NotebookLM over the past few months."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features",
         "link": "https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/",
         "site_name": "TechCrunch",
@@ -93,6 +73,26 @@
           "Google says all proofreading and rewriting happens on your device, which means your data remains private.",
           "Google also announced that you can now pair two LE Audio Bluetooth headphones to your Android phone so you and another person can listen at the same time.",
           "The tech giant says this feature could be helpful in several different instances, like when you’re in a busy cafe or commuting on a train."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "SpaceX gets a green light to more than double its Florida launches",
+        "link": "https://techcrunch.com/2025/09/03/spacex-gets-the-green-light-to-more-than-double-its-florida-launches/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "4b75c48b662b4fd55a306f2c113ce86ea3f9d6a6"
+      },
+      "review": {
+        "headline_rewrite": "SpaceX gets a green light to more than double its Florida launches",
+        "bullets": [
+          "regulators have completed a key environmental review that paves the way for SpaceX to more than double the number of Falcon 9 launches from Florida’s Cape Canaveral Space Force Station.",
+          "In addition to the annual launch increase from 50 launches to up to 120, the Federal Aviation Administration’s environmental review also approved a new on-site landing zone that could accommodate up to 34 booster landings per year.",
+          "Those measures include obtaining additional environmental permits before construction of the new facilities, using sea turtle-friendly lighting at night, and conducting pre-construction surveys of Florida scrub-jay and eastern indigo snake populations to ensure wildlife protection.",
+          "Regarding water management, the review concluded it is highly unlikely for industrial wastewater — specifically the huge volumes of water discharged by the deluge system during launch — to discharge into nearby waters.",
+          "The deluge system, which sprays massive amounts of water onto the launch pad during liftoff to absorb heat and sound from the rocket engines, has been contentious.",
+          "At SpaceX’s Starbase launch site in Texas, environmental groups sued local regulators over authorizations allowing the company to discharge industrial wastewater from the pad."
         ],
         "impact": "Negative"
       }
