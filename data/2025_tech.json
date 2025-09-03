@@ -2,6 +2,46 @@
   "2025-09-03": [
     {
       "item": {
+        "title": "Scene It to Believe It: Populate 3D Worlds Quickly With NVIDIA AI Blueprints",
+        "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-blueprint-3d-object-nim-microsoft-trellis/",
+        "site_name": "NVIDIA Blog",
+        "novelty_hash": "6631196be53f0053d27feab1dc491def224c2bb2"
+      },
+      "review": {
+        "headline_rewrite": "Scene It to Believe It: Populate 3D Worlds Quickly With NVIDIA AI Blueprints",
+        "bullets": [
+          "From there, visuals can be refined, detailed and finalized.",
+          "Generative AI assists artists by expediting intermediate tasks like suggesting and generating draft objects to prototype a scene.",
+          "But it can be technically challenging to connect multiple AI models to unleash these accelerated workflows.",
+          "NVIDIA AI Blueprints help address this challenge by providing sample workflows so users can skip the hypertechnical stages and quickly benefit from advanced generative AI techniques.",
+          "Plus, AI Blueprints can be tailored for each user’s particular needs.",
+          "NVIDIA today released the AI Blueprint for 3D object generation — a workflow that lets 3D artists create up to 20 3D objects to prototype a scene from a simple text prompt."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Twenty-nine startups join the Google for Startups Accelerator: AI for Energy",
+        "link": "https://blog.google/outreach-initiatives/sustainability/google-for-startups-ai-energy-accelerator/",
+        "site_name": "Google",
+        "novelty_hash": "8260aab955e9b7537236825386ccf3ca5b5d53da"
+      },
+      "review": {
+        "headline_rewrite": "Twenty-nine startups join the Google for Startups Accelerator: AI for Energy",
+        "bullets": [
+          "Twenty-nine startups join the Google for Startups Accelerator: AI for Energy\nThe Google for Startups Accelerator: AI for Energy is welcoming 29 innovative startups in two groups from North America and Europe.",
+          "We believe AI is a pivotal force in accelerating the essential energy transition, and these groundbreaking companies are developing cutting-edge solutions, from electricity generation to grid operations and flexibility.",
+          "During these intensive 10-12 week programs, these startups will receive dedicated mentorship from Google experts and our partners, hands-on technical support and access to our AI tools and Google Cloud infrastructure.",
+          "The goal is to accelerate the development of AI-driven solutions for sustainable and reliable energy.",
+          "This initiative is part of Google’s commitment to a sustainable future and we look forward to supporting these 29 companies as they build the future of energy.",
+          "- DaisyChain Energy - Manages energy for building revenue and savings."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Brand new unicorn IQM sets its sights beyond Europe for its quantum computers",
         "link": "https://techcrunch.com/2025/09/03/brand-new-unicorn-iqm-sets-its-sights-beyond-europe-for-its-quantum-computers/",
         "site_name": "TechCrunch",
@@ -22,102 +62,55 @@
     },
     {
       "item": {
-        "title": "AI could bring us a smarter home — if we can trust it",
-        "link": "https://www.theverge.com/ifa-berlin/768739/ai-could-bring-us-a-smarter-home-ifa-2025",
-        "site_name": "The Verge",
-        "novelty_hash": "23b0b3fb0ad88c61fb640df9de87d5f27cabdde3"
+        "title": "PayPal and Venmo are giving out Comet invites and free Perplexity Pro subscriptions",
+        "link": "https://techcrunch.com/2025/09/03/paypal-and-venno-are-now-giving-out-comet-invites/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "b04a0d35b9c20b992486c2113eeb9ef9f75e2bea"
       },
       "review": {
-        "headline_rewrite": "AI could bring us a smarter home — if we can trust it",
+        "headline_rewrite": "PayPal and Venmo are giving out Comet invites and free Perplexity Pro subscriptions",
         "bullets": [
-          "The holy grail of the smart home is ambient computing — technology that disappears into the background, anticipating your needs without a word or a tap.",
-          "The tools exist to create this, but today’s smart home remains complicated, unreliable, and often invasive — still a long way from truly “ambient.”\nAI could bring us a smarter home — if we can trust it\nAt IFA 2025, tech giants and startups alike will show us their visions for how AI could make connected homes more intuitive, context-aware, and truly ambient.",
-          "The rise of AI agents that tap into language and visual models is the technology that could take us from the command-and-control era of home automation to living in the Starship Enterprise, where our every need can be served by Star Trek’s Computer (assuming that’s what you want).",
-          "While every announcement will likely feature “AI,” I’ll be looking for those with real potential to make products better, smarter, and easier to use, while keeping data local and private.",
-          "I’ve already started to see glimpses of how AI can improve the smart home.",
-          "New features on my Ring security cameras, powered by Visual Language Models (VLMs), mean they can tell me what’s happening instead of just showing me."
+          "Invites to Perplexity’s new AI-powered web browser, Comet, are one of the web’s hottest commodities these days.",
+          "The new product was made available first to the AI firm’s $200-per-month Max subscribers and a small group of invitees.",
+          "But now there’s a new way to jump ahead on the waitlist.",
+          "The browser, launched in July, offers an integrated AI assistant, AI-generated summaries of search results, product comparisons, and other features.",
+          "The arrangement is part of a new partnership between PayPal and the AI provider, which benefits both companies in different ways.",
+          "(Alongside this, PayPal is running a promotion that pays out $50 to customers who link and pay for at least three subscriptions through its service.)\nMeanwhile, Perplexity gains increased exposure at a time when AI agents are battling for attention, and AI-powered browsers are aiming to disrupt a market currently dominated by Chrome."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Microsoft&#8217;s PowerToys are about to add two big missing Windows features",
+        "link": "https://www.theverge.com/news/770015/microsoft-windows-11-dark-light-theme-automatic-switch-powertoy",
+        "site_name": "The Verge",
+        "novelty_hash": "298753e4bc173616a2e93d1c12da6238e787b6df"
+      },
+      "review": {
+        "headline_rewrite": "Microsoft&#8217;s PowerToys are about to add two big missing Windows features",
+        "bullets": [
+          "“We are planning some nice new features and improvements for next month – a revamped Keyboard Manager UI, and a new utility that can automatically switch between light and dark mode based on your schedule,” says Niels Laute, a senior product manager at Microsoft.",
+          "If you haven’t checked out PowerToys before there are plenty of other useful utilities like Advanced Paste, Always on Top, FancyZones, and the new Spotlight-like Command Palette launcher app."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Netflix will let you make your own highlight clips",
+        "link": "https://www.theverge.com/news/769471/netflix-highlight-clips-moments-start-end",
+        "site_name": "The Verge",
+        "novelty_hash": "34df67dcd3b592965e7d00c47f70741b84c786dd"
+      },
+      "review": {
+        "headline_rewrite": "Netflix will let you make your own highlight clips",
+        "bullets": [
+          "Netflix will let you make your own highlight clips\nThe feature will let you set a starting point and an end point for a clip you want to save to watch again later or share with friends.",
+          "Last year, Netflix launched a feature that let you bookmark spots from shows and movies and save them to your account to watch again later or share with others.",
+          "The feature is launching alongside Part 2 of Wednesday’s second season."
         ],
         "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "IFA 2025: the biggest tech and gadget announcements",
-        "link": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights",
-        "site_name": "The Verge",
-        "novelty_hash": "341ca79bd7d77db23a7e87e8ee3e360b6838299c"
-      },
-      "review": {
-        "headline_rewrite": "IFA 2025: the biggest tech and gadget announcements",
-        "bullets": [
-          "Companies are gearing up to showcase their latest innovations, bringing us the latest product announcements, feature demonstrations, and design concepts that will shape future consumer tech releases.",
-          "And, as always, The Verge will be covering all the latest news live from the IFA 2025 show floor in Berlin, providing you with our hands-on product experiences and first impressions of upcoming releases.",
-          "If previous years are any indication, we can expect to see a plethora of new smart home gadgets and AI-laden devices, including laptops, tablets, appliances, and even robots that will do your household chores for you — sometimes equipped with incredibly specialized features.",
-          "Samsung may be partly to blame for unleashing the party speaker upon the world — its Giga line launched over a decade ago — but in recent years its entrants to the field have been strangely restrained, with only small light strips along the sides.",
-          "Read Article >The holy grail of the smart home is ambient computing — technology that disappears into the background, anticipating your needs without a word or a tap.",
-          "The tools exist to create this, but today’s smart home remains complicated, unreliable, and often invasive — still a long way from truly “ambient.”\nBut, just as it’s changing every other game in tech, advances in artificial intelligence are a watershed moment for the smart home."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Dolby Atmos FlexConnect Lets You Place Speakers Anywhere",
-        "link": "https://www.wired.com/story/dolby-atmost-flex-connect-tcl/",
-        "site_name": "WIRED",
-        "novelty_hash": "58de367627d41059af09bcd48a7da6bbdbced092"
-      },
-      "review": {
-        "headline_rewrite": "Dolby Atmos FlexConnect Lets You Place Speakers Anywhere",
-        "bullets": [
-          "But few single-speaker systems live up to the promise of Dolby Atmos, and if you buy a model with additional satellite speakers and subs, the placement of these speakers remains crucial to getting that dome-of-sound experience we associate with movie magic.",
-          "In its launch guise, Dolby Atmos FlexConnect uses a smart TV as its central hub.",
-          "However, future FlexConnect products may embed that hub function in soundbars or even smart speakers—opening up more options for those who don’t want to replace their TV.",
-          "Wireless Dolby Atmos\nAs Dolby’s launch partner, TCL is the first to embed FlexConnect into a TV.",
-          "All of TCL’s 2025 QD-Mini LED TVs are FlexConnect-compatible and can be paired with up to four wireless TCL Z100 FlexConnect speakers, which TCL sells for $400 each.",
-          "Naturally, this raises the question of compatibility."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Puffy Cloud Mattress Review: Soft but Supportive",
-        "link": "https://www.wired.com/review/puffy-cloud-mattress/",
-        "site_name": "WIRED",
-        "novelty_hash": "f0e7a2cd2ec5bb8da7a873d8ed3e70d1473c285e"
-      },
-      "review": {
-        "headline_rewrite": "Puffy Cloud Mattress Review: Soft but Supportive",
-        "bullets": [
-          "I will admit that, once upon a time, I was not the Puffy Cloud’s biggest supporter.",
-          "Granted, during my previous tests, I didn’t spend a whole week sleeping on the Cloud in my own bedroom, as I did this time.",
-          "I was knocked out the entire week, and by the end of it, I found I was actually looking forward to receiving a “hug” from the Puffy Cloud.",
-          "(If you want to research more first, check out our guide to the best mattresses.)\nHead in the Clouds\nA lot of Puffy's material names involve clouds.",
-          "First is the Cool Touch Cloud Cover, complete with embossed clouds scattered across the surface.",
-          "The knitted material is designed to feel cool to the touch and helps prevent the bed from trapping heat, a common complaint about memory foam."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "The best MagSafe power banks for your iPhone",
-        "link": "https://www.engadget.com/computing/accessories/best-magsafe-power-banks-120015338.html",
-        "site_name": "Engadget",
-        "novelty_hash": "e67e26cc624aec1490a8a550ef746f380a497892"
-      },
-      "review": {
-        "headline_rewrite": "The best MagSafe power banks for your iPhone",
-        "bullets": [
-          "Read more about how we evaluate products.",
-          "Anker’s MagGo power bank was one of the first Qi2-certified products to come to market — and it’s still one of the most well-rounded MagSafe banks you can get.",
-          "A small display tells you just how much charge remains (and how long until it’s full when you’re recharging the battery).",
-          "The kickstand is sturdy so you can use the phone hands-free in portrait mode, or you can twist the phone to watch something in landscape orientation.",
-          "Like many Anker products we’ve tried, it has a sturdy build and a clean aesthetic.",
-          "Like all power banks, it slowed down significantly after the pack was half drained, so it’s worth noting that it charged the phone to 40 percent in less than an hour."
-        ],
-        "impact": "Negative"
       }
     }
   ]
