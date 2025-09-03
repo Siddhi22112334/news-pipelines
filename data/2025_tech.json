@@ -22,26 +22,6 @@
     },
     {
       "item": {
-        "title": "Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers",
-        "link": "https://techcrunch.com/2025/09/03/scale-ai-is-suing-a-former-employee-and-rival-mercor-alleging-they-tried-to-steal-its-biggest-customers/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "0b75f39442066090f8698e9f04de2c67cd8d4239"
-      },
-      "review": {
-        "headline_rewrite": "Scale AI is suing a former employee and rival Mercor, alleging they tried to steal its biggest customers",
-        "bullets": [
-          "Scale AI, which helps tech companies prepare data to train their AI models, filed a lawsuit against one of its former sales employees and its rival Mercor on Wednesday.",
-          "The suit claims the employee, who was hired by Mercor, “stole more than 100 confidential documents concerning Scale’s customer strategies and other proprietary information,” according to a copy seen by TechCrunch.",
-          "Scale is suing Mercor for misappropriation of trade secrets and is suing the former employee, Eugene Ling, for breach of contract.",
-          "The suit also claims the employee was trying to pitch Mercor to one of Scale’s largest customers before he officially left his former job.",
-          "Eugene informed us that he had old documents in a personal Google Drive, which we have never accessed and are now investigating,” Midha told TechCrunch in an emailed statement.",
-          "“We reached out to Scale six days ago offering to have Eugene destroy the files or reach a different resolution, and we are now awaiting their response,” Midha said."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "The best robot vacuum and mop to buy right now",
         "link": "https://www.theverge.com/tech/625409/best-robot-vacuum-mops",
         "site_name": "The Verge",
@@ -62,15 +42,20 @@
     },
     {
       "item": {
-        "title": "Putin: “Immortality” coming soon through continuous organ transplants",
-        "link": "https://arstechnica.com/health/2025/09/strong-men-hot-mics-putin-and-xi-dream-about-immortality-living-to-150/",
+        "title": "New AI model turns photos into explorable 3D worlds, with caveats",
+        "link": "https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/",
         "site_name": "Ars Technica",
-        "novelty_hash": "b72e5d48e70b39d79eef84eab86c968526ec4d45"
+        "novelty_hash": "2055cdb8cf774906551dda4d4c183f5c0fca1ae9"
       },
       "review": {
-        "headline_rewrite": "Putin: “Immortality” coming soon through continuous organ transplants",
+        "headline_rewrite": "New AI model turns photos into explorable 3D worlds, with caveats",
         "bullets": [
-          "The US average is 76.4.)\nPutin then responded with the somewhat creepy claim that, thanks to biotech, \"human organs can be continuously transplanted, and people can live younger and younger, and even achieve immortality.\"\nXi then responded with the claim that people may live to 150 by the end of this century."
+          "On Tuesday, Tencent released HunyuanWorld-Voyager, a new open-weights AI model that generates 3D-consistent video sequences from a single image, allowing users to pilot a camera path to \"explore\" virtual scenes.",
+          "The results aren't true 3D models, but they achieve a similar effect: The AI tool generates 2D video frames that maintain spatial consistency as if a camera were moving through a real 3D space.",
+          "Each generation produces just 49 frames—roughly two seconds of video—though multiple clips can be chained together for sequences lasting \"several minutes,\" according to Tencent.",
+          "While the output is video with depth maps rather than true 3D models, this information can be converted into 3D point clouds for reconstruction purposes.",
+          "A major limitation of all AI models based on the Transformer architecture is that they fundamentally imitate patterns found in training data, which limits their ability to \"generalize,\" which means to apply those patterns to novel situations not found in the training data.",
+          "To train Voyager, researchers used over 100,000 video clips, including computer-generated scenes from Unreal Engine—essentially teaching the model to imitate how cameras move through 3D video game environments."
         ],
         "impact": "Neutral"
       }
@@ -113,6 +98,19 @@
           "Things like Deep Research and ChatGPT Voice started off as exclusives for the company's subscribers before becoming available to everyone."
         ],
         "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "Judge Rules Trump Administration Illegally Canceled Harvard Funding",
+        "link": "https://news.google.com/read/CBMie0FVX3lxTE1TV09FM0pxb3N5RnZ2MjhBVkhjMWV2M1otNHNDcjViWTEwVk5PXzJFa080NW1CbHJ2U3BybUJSdXEyLTFfRlNzYzNzZC1FX2tSVUduaWRhbWNxZzk1T2hDcUpNdldMTjM1QmhEVmtwUVlVSVIzNDVrU2Vldw",
+        "site_name": "Google News",
+        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "review": {
+        "headline_rewrite": "Judge Rules Trump Administration Illegally Canceled Harvard Funding",
+        "bullets": [],
+        "impact": "Neutral"
       }
     }
   ]
