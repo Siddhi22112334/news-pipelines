@@ -2,36 +2,57 @@
   "2025-09-03": [
     {
       "item": {
-        "title": "How to use Pixel 10 Pro’s Camera Coach",
-        "link": "https://blog.google/products/pixel/how-to-use-camera-coach/",
+        "title": "Use AI to create your own Android bot with Androidify",
+        "link": "https://blog.google/feed/androidify/",
         "site_name": "Google",
-        "novelty_hash": "75294ceab525428395302d3f84732a8e523e7f68"
+        "novelty_hash": "71001fdd0c7648d4e2ad64509294f5a0387d8498"
       },
       "review": {
-        "headline_rewrite": "How to use Pixel 10 Pro’s Camera Coach",
+        "headline_rewrite": "Use AI to create your own Android bot with Androidify",
         "bullets": [
-          "- First, make sure you’re connected to data or Wi-Fi because Camera Coach uses some cloud-based Gemini models to give you the best, most relevant suggestions.",
-          "Choose a point of focus from this list, ask Camera Coach to give you some inspiration or rescan the scene entirely to try again."
+          "Upload a selfie or write a prompt, add some accessories — and see what AI builds.",
+          "But the most important role has always been helping you express yourself, and this is just one of the many ways AI is helping us rethink creativity and individuality.",
+          "This feature is powered by Veo and available to a limited number of creations."
         ],
-        "impact": "Neutral"
+        "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "Why the US government is taking a stake in Intel",
-        "link": "https://techcrunch.com/2025/09/03/why-the-us-government-is-taking-a-stake-in-intel/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "e0b11fd09ae66eed4af6c00d9b6d63c92bbb51ef"
+        "title": "New on Android: Write smarter, share quicker and remix emoji",
+        "link": "https://blog.google/products/android/new-android-features-september-2025/",
+        "site_name": "Google",
+        "novelty_hash": "1d398b945dafb1e9876cc424cfcb83dd014f7f11"
       },
       "review": {
-        "headline_rewrite": "Why the US government is taking a stake in Intel",
+        "headline_rewrite": "New on Android: Write smarter, share quicker and remix emoji",
         "bullets": [
-          "The Trump administration wants the United States to be the dominant force when it comes to artificial intelligence, and one way the administration hopes to achieve primacy is by bringing semiconductor manufacturing back to the U.S.",
-          "To help with that transition, President Donald Trump has introduced potential chip tariffs and policies in recent months meant to bring more semiconductor manufacturing stateside.",
-          "In late August, the Trump administration took an unprecedented step toward that goal when it converted an existing government grant, meant for domestic semiconductor manufacturing, into a 10% equity stake in Intel.",
-          "government additional equity in Intel if the company’s ownership of its foundry business — which manufactures custom chips for international customers — drops below 50% within the next five years.",
-          "But Intel isn’t the only U.S.-based semiconductor company, nor the only one that manufactures its chips overseas.",
-          "So, how did Intel find itself as the main character in the Trump administration’s plans for AI dominance?"
+          "New on Android: Write smarter, share quicker and remix emoji\nWe’re bringing you new AI tools that help polish what you write, more ways to add creativity to your chats and updates that make it easier to share audio and files with others.",
+          "Revise your writing with AI-powered suggestions in Gboard.",
+          "New AI writing tools in Gboard make it easier than ever to get your message right.",
+          "All proofreading and rewriting of text happens on the device, which ensures your data remains private.",
+          "Make the right impression with new AI writing tools.",
+          "Pair two LE Audio Bluetooth headphones to your phone so you and a friend can listen at the same time."
+        ],
+        "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "Scale AI still exists and it’s suing an ex-employee over corporate espionage",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/770410/scale-ai-corporate-espionage-data-labeling-mercor-meta",
+        "site_name": "The Verge",
+        "novelty_hash": "d3c28879974caac11b68a6994b356982ef5d0600"
+      },
+      "review": {
+        "headline_rewrite": "Scale AI still exists and it’s suing an ex-employee over corporate espionage",
+        "bullets": [
+          "It’s been a tumultuous summer for Scale AI: Meta took a multibillion-dollar stake in the company, Mark Zuckerberg hired Scale CEO Alexandr Wang and other top staff, and Scale laid off 14 percent of its workforce.",
+          "Now the latest development is a lawsuit over corporate espionage in the AI industry.",
+          "The AI data labeling company, which has provided training data to fuel many of the industry’s leading AI models, filed a lawsuit Wednesday against a former employee, Eugene Ling, and his current employer, Mercor, which is one of Scale’s key competitors.",
+          "Scale alleged that Ling, who was its head of engagement management, stole more than 100 confidential documents that contained proprietary information and company strategies for managing customers.",
+          "When Ling reached out to an employee of the customer, he allegedly said, “I’m staying within the data space and I’m actually really excited about [how] this new company can support you.” According to the lawsuit, the employee asked if Ling meant Mercor, to which Ling replied, “Are you working with Mercor already?” The two then allegedly planned to discuss the matter on a call.",
+          "The lawsuit from Scale comes during a continuous shake-up in the AI industry."
         ],
         "impact": "Negative"
       }
@@ -58,56 +79,37 @@
     },
     {
       "item": {
-        "title": "Mophie adds wireless charging to the AirPods Max with a clever new stand",
-        "link": "https://www.theverge.com/news/770322/mophie-airpods-max-headphones-wireless-charging-stand",
-        "site_name": "The Verge",
-        "novelty_hash": "d7122246b990b44ba173825d0093330e51983d9f"
+        "title": "Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features",
+        "link": "https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "cab67d8a3249ae1c3aef443a6e68219000752a6b"
       },
       "review": {
-        "headline_rewrite": "Mophie adds wireless charging to the AirPods Max with a clever new stand",
+        "headline_rewrite": "Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features",
         "bullets": [
-          "Mophie has announced a new wireless charger for Apple’s AirPods Max called the Max Headphones Charging Stand.",
-          "The AirPods Max don’t support wireless charging, so Mophie’s new stand relies on a small dongle that stays connected to the headphones’ USB-C port at all times.",
-          "Mophie adds wireless charging to the AirPods Max with a clever new stand\nA small magnetic dongle lets you dock and charge the AirPods Max without reaching for a USB cable.",
-          "The Max Headphones Charging Stand is available now through Mophie’s online store for $150, and includes a dongle compatible with the USB-C version of the AirPods Max that Apple introduced a year ago.",
-          "The company currently has no plans to introduce a Lightning connector version of the dongle that would make the stand compatible with older versions of the AirPods Max.",
-          "The stand features a weighted base made from anodized aluminum, while the cradle that supports the AirPods Max earcups is made from soft-touch silicone so it won’t scratch the headphones’ finish."
+          "The tech giant is introducing Material 3 Expressive to Pixel phones, Adaptive Audio for the Pixel Buds Pro 2, on-wrist navigation for the Pixel Watch, new AI writing tools in Gboard, enhanced audio sharing capabilities, the ability to create custom Android bots, and more.",
+          "Later this month, Google is bringing Adaptive Audio to the Pixel Buds Pro 2, allowing the buds to adjust to your surroundings so you can remain alert while listening to your music.",
+          "As for the new AI writing tools in Gboard, you can now revise your tone to be more formal, expressive, or concise.",
+          "Google says all proofreading and rewriting happens on your device, which means your data remains private.",
+          "Google also announced that you can now pair two LE Audio Bluetooth headphones to your Android phone so you and another person can listen at the same time.",
+          "The tech giant says this feature could be helpful in several different instances, like when you’re in a busy cafe or commuting on a train."
         ],
-        "impact": "Neutral"
+        "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "Major Amazon leak spoils the Philips Hue party",
-        "link": "https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party",
+        "title": "More Pixel phones are getting Google’s new look for Android",
+        "link": "https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive",
         "site_name": "The Verge",
-        "novelty_hash": "2c17b1716dba1b8222065c13dcca1213b77fa363"
+        "novelty_hash": "6a4cc6ef12b1384bd4f59be544282f1cc5a5d14a"
       },
       "review": {
-        "headline_rewrite": "Major Amazon leak spoils the Philips Hue party",
+        "headline_rewrite": "More Pixel phones are getting Google’s new look for Android",
         "bullets": [
-          "The Philips Hue store on Amazon’s UK site is hosting a number of new products that have yet to be announced as the big IFA 2025 show gets under way in Berlin, Germany.",
-          "Details are lacking as is pricing, but IFA kicks off in earnest tomorrow so stay tuned — can’t be long now."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "PayPal and Venmo users get a free year of Perplexity Pro and early access to its AI browser",
-        "link": "https://www.engadget.com/ai/paypal-and-venmo-users-get-a-free-year-of-perplexity-pro-and-early-access-to-its-ai-browser-155844658.html",
-        "site_name": "Engadget",
-        "novelty_hash": "f15bee01995e4cb9066a8293253ae40c5a69b06a"
-      },
-      "review": {
-        "headline_rewrite": "PayPal and Venmo users get a free year of Perplexity Pro and early access to its AI browser",
-        "bullets": [
-          "Perplexity, the NVIDIA- and Bezos-backed AI company, is partnering with PayPal to get its Comet browser in front of millions of the financial tech giant's users.",
-          "The deal will see PayPal and Venmo customers in the US and select international markets gain access to the AI-powered browser, as well as a free 12-month subscription to Perplexity Pro, which normally costs $200.",
-          "PayPal users in the US can claim their free 12-month Perplexity Pro subscription from the PayPal app today.",
-          "The Comet browser was in beta testing earlier this summer before launching in July as part of Perplexity's $200-per-month Max subscription.",
-          "Perplexity's AI is integrated into Comet and serves as the browser's default search engine.",
-          "This incorporation allows users to pull up the AI in a sidebar to ask questions about what they see on screen, summarize text and even take actions on behalf of the user, like sending an email or looking up directions on Google Maps."
+          "Google first revealed the youthful new design language in May before launching it with its Android 16-equipped Pixel 10 phones last month.",
+          "Some other tweaks are coming to a wider range of Android devices, too, including the ability to share Bluetooth audio with friends, access AI-powered writing suggestions in Gboard, and favorite your creations in Emoji Kitchen.",
+          "There’s a redesigned Quick Share menu that lets you toggle between sending and receiving files, and a new Androidify app that uses AI to create your own Android bot using a selfie and a prompt."
         ],
         "impact": "Positive"
       }
