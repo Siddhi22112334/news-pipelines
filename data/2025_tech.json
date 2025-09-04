@@ -1,5 +1,5 @@
 {
-  "2025-09-04": [
+  "2025-09-05": [
     {
       "item": {
         "title": "Listen to a conversation about Pixel Watch 4’s new hardware, inside and out.",
@@ -18,20 +18,20 @@
     },
     {
       "item": {
-        "title": "The tech antitrust renaissance may already be over",
-        "link": "https://www.theverge.com/policy/771409/break-up-big-tech-movement-google-search-remedies-ruling",
-        "site_name": "The Verge",
-        "novelty_hash": "0c6b1d82d66506f2081b46e16c5bfaaf4b7e73dd"
+        "title": "CEO Sundar Pichai's remarks at the White House AI Education Taskforce event",
+        "link": "https://blog.google/outreach-initiatives/education/ai-education-efforts/",
+        "site_name": "Google",
+        "novelty_hash": "4c0966bc0d4ca5de01c0df526417aac01fa9ee4e"
       },
       "review": {
-        "headline_rewrite": "The tech antitrust renaissance may already be over",
+        "headline_rewrite": "CEO Sundar Pichai's remarks at the White House AI Education Taskforce event",
         "bullets": [
-          "Around six years ago, a new rallying cry rippled through Washington: “Break Up Big Tech.”\nThe tech antitrust renaissance may already be over\nGoogle’s search monopoly ruling shows courts might not be willing to break up tech giants.",
-          "It was a slogan emblazoned on campaign posters, uttered at congressional hearings, and beginning, it seemed, to echo through the halls of the nation’s antitrust enforcers.",
-          "Momentum in the legislatures eventually petered out, but the enforcers at the Justice Department and Federal Trade Commission remained more active than ever.",
-          "Elizabeth Warren (D-MA) or Bernie Sanders (I-VT) adopted, but nevertheless, when he became president in 2021, he tapped Lina Khan — who’d first made a name for herself as a law student laying out an antitrust case against Amazon in The Yale Law Journal — to head up the Federal Trade Commission.",
-          "A slew of legal complaints against Google, Meta, Amazon, and Apple, threatening to dissolve their alleged monopolies (some first brought under Donald Trump’s administration), began to pile up.",
-          "In the last year, the US government seemed to be on something of a winning streak, clinching victories in not one, but two of its landmark antitrust cases against Google."
+          "CEO Sundar Pichai's remarks at the White House AI Education Taskforce event\nEditor’s note: Today Sundar Pichai spoke at the White House Panel on AI Education event in Washington, where he highlighted our efforts to support AI education, including offering Gemini for Education to every high school in America.",
+          "It’s an honor for me to be here and to support the First Lady’s Presidential AI Challenge.",
+          "Today we see AI as the most profound way we will deliver on that mission — and transform knowledge and learning.",
+          "It’s why we built Chromebooks for every classroom, and why we’ve worked to make our AI model, Gemini, the world’s leading model for learning.",
+          "That means every high school student and every teacher has access to our best AI tools, including Guided Learning — tools that could be helpful for students taking the AI Challenge.",
+          "We also recently committed $1 billion over the next three years to support education and job training programs in the U.S."
         ],
         "impact": "Negative"
       }
@@ -77,6 +77,23 @@
     },
     {
       "item": {
+        "title": "You can now attach 10,000 character blogs to your Threads posts",
+        "link": "https://www.theverge.com/news/770391/meta-threads-text-dumps-attachments-10000-characters",
+        "site_name": "The Verge",
+        "novelty_hash": "5662627ce593b3dcee3209d629f752fec6c5eef1"
+      },
+      "review": {
+        "headline_rewrite": "You can now attach 10,000 character blogs to your Threads posts",
+        "bullets": [
+          "Starting today, Meta is rolling out a tool that lets you attach up to 10,000 characters of text to Threads posts, giving you a way to build upon the 500-character text limit already available when making a post.",
+          "On your feed, a text attachment appears as a small block below your main post.",
+          "If you include a link in your main Threads post, that link will also be shown in the expanded text attachment, meaning the tool could be a useful way to share a preview of an article or a blog post and then direct readers to the full thing."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Microsoft open-sources Bill Gates’ 6502 BASIC from 1978",
         "link": "https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/",
         "site_name": "Ars Technica",
@@ -93,23 +110,6 @@
           "The version Microsoft released—labeled 1.1—contains bug fixes that Commodore engineer John Feagans and Gates jointly implemented in 1978 when Feagans traveled to Microsoft's Bellevue, Washington, offices."
         ],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "You can now attach 10,000 character blogs to your Threads posts",
-        "link": "https://www.theverge.com/news/770391/meta-threads-text-dumps-attachments-10000-characters",
-        "site_name": "The Verge",
-        "novelty_hash": "9fe20a3701d23bb0aed82c6d867d1301abfd9f0a"
-      },
-      "review": {
-        "headline_rewrite": "You can now attach 10,000 character blogs to your Threads posts",
-        "bullets": [
-          "Starting today, Meta is rolling out a tool that lets you attach up to 10,000 characters of text to Threads posts, giving you a way to build upon the 500-character text limit already available when making a post.",
-          "On your feed, a text attachment appears as a small block below your main post.",
-          "If you include a link in your main Threads post, that link will also be shown in the expanded text attachment, meaning the tool could be a useful way to share a preview of an article or a blog post and then direct readers to the full thing."
-        ],
-        "impact": "Neutral"
       }
     }
   ]
