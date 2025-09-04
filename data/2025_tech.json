@@ -82,25 +82,6 @@
     },
     {
       "item": {
-        "title": "Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now",
-        "link": "https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale",
-        "site_name": "The Verge",
-        "novelty_hash": "0031cab71157cf3a9b228d880bfc3ff1ebf21851"
-      },
-      "review": {
-        "headline_rewrite": "Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now",
-        "bullets": [
-          "The Galaxy S25 Edge’s battery life doesn’t stretch as far as what you’ll get with the S25 Plus or Ultra, especially if you do a lot of mobile gaming, but it’ll still last you a full day of texting, email, web browsing, streaming music, and more.",
-          "The S25 Edge comes with only two rear cameras — a 200-megapixel main camera and a 12-megapixel ultrawide camera.",
-          "Otherwise, the S25 Edge can keep up with the other devices in the S25 lineup, with a Snapdragon 8 Elite chipset, IP68 dust and water resistance, and an OLED display with a 120Hz refresh rate.",
-          "Other deals to check out\n- 8BitDo’s Pro 3 wireless controller is currently available in classic Nintendo-inspired colors like purple, gray, and light gray for $62.99 ($7 off) at Amazon after clipping the on-page coupon.",
-          "- If you own a MacBook Air or slim Windows laptop, chances are you don’t have enough ports to connect your peripherals."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "The new Street Fighter movie Hadokens into theaters in October 2026",
         "link": "https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast",
         "site_name": "The Verge",
@@ -113,6 +94,21 @@
           "The film, from Capcom and Legendary Entertainment, will be distributed by Paramount, which announced this week that it’s also working on a live-action Call of Duty movie."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "COVID vaccine locations vanish from Google Maps due to supposed “technical issue”",
+        "link": "https://arstechnica.com/gadgets/2025/09/covid-vaccine-locations-vanish-from-google-maps-due-to-alleged-technical-issue/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "review": {
+        "headline_rewrite": "COVID vaccine locations vanish from Google Maps due to supposed “technical issue”",
+        "bullets": [
+          "Finally, a reason to use Bing Maps."
+        ],
+        "impact": "Neutral"
       }
     }
   ]
