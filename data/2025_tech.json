@@ -2,26 +2,6 @@
   "2025-09-04": [
     {
       "item": {
-        "title": "Cloud Gaming to Reach New Heights: GeForce NOW’s Blackwell RTX Upgrade Begins Next Week",
-        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-sept-2025/",
-        "site_name": "NVIDIA Blog",
-        "novelty_hash": "7e7f50d5aacc0a2cbb0c3c72a65edbc8a6edd1e7"
-      },
-      "review": {
-        "headline_rewrite": "Cloud Gaming to Reach New Heights: GeForce NOW’s Blackwell RTX Upgrade Begins Next Week",
-        "bullets": [
-          "NVIDIA Blackwell RTX is coming to the cloud on Wednesday, Sept.",
-          "10 — an upgrade so big it couldn’t wait until a Thursday.",
-          "Don’t miss a special early GFN Thursday next Wednesday as GeForce NOW begins lighting up the globe with GeForce RTX 5080-class power streaming from the cloud.",
-          "With this upgrade, cloud gaming is about to level up.",
-          "NVIDIA Blackwell RTX brings GeForce RTX 5080-powered streaming to GeForce NOW, unlocking the highest resolutions and frame rates ever in the cloud.",
-          "Plus, the highly anticipated shooter Battlefield 6 is launching in the cloud in October."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "Google’s Circle to Search can now translate as you scroll",
         "link": "https://techcrunch.com/2025/09/04/googles-circle-to-search-can-now-translate-as-you-scroll/",
         "site_name": "TechCrunch",
@@ -39,17 +19,37 @@
     },
     {
       "item": {
-        "title": "Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025",
-        "link": "https://techcrunch.com/2025/09/04/only-2-days-left-to-claim-your-exhibitor-spot-at-techcrunch-disrupt-2025/",
+        "title": "JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet",
+        "link": "https://techcrunch.com/2025/09/04/jetblue-will-use-amazons-project-kuiper-satellites-for-free-in-flight-internet/",
         "site_name": "TechCrunch",
-        "novelty_hash": "c89219b9b845680320ae5232800aae4e443a70ea"
+        "novelty_hash": "8dd75ee57754387c5d499df32e11775e900d6d4e"
       },
       "review": {
-        "headline_rewrite": "Only 2 days left to claim your exhibitor spot at TechCrunch Disrupt 2025",
+        "headline_rewrite": "JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet",
         "bullets": [
-          "We’re in the final stretch — with just two days left and only 10 tables remaining, now is the time to act if you want to shine the light on your brand at one of the most anticipated tech conferences of the year.",
-          "Disrupt is the launchpad for scaling startups — claim your exhibit table before your competitor does.",
-          "What you get with your table\nEnjoy three full days of brand spotlighting in the heart of Disrupt — where investors are scouting their next deal, your target customers are ready to buy, and the tech press is searching for the next breakthrough, plus:\n- A 6’ x 30″ table with linen and chairs, complete with an 11” x 14” branded tabletop sign for all-day visibility."
+          "Many major airlines are beefing up their in-flight internet offerings by tapping SpaceX’s Starlink satellites, but JetBlue is going in a different direction.",
+          "Amazon and JetBlue announced Thursday a partnership under which the airline will instead use Amazon’s Project Kuiper satellites to provide free in-flight connectivity starting in 2027.",
+          "That’s more bandwidth than Starlink’s current max of 250 Mbps, although Amazon is only planning to build a network of 3,226 satellites, while SpaceX has launched more than 8,000.",
+          "While Amazon has previously claimed it is more focused on “unserved and underserved communities around the world,” that language has been removed from its website.",
+          "When the service goes live, JetBlue will be the first airline to use Kuiper satellites, which Amazon started launching to space in April.",
+          "Amazon also announced earlier this year that it was integrating its satellite internet tech with Airbus planes."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Jury orders Google to pay $425 million for violating user privacy",
+        "link": "https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking",
+        "site_name": "The Verge",
+        "novelty_hash": "4c0643009b5e06bd4e923dad87d8be8189357298"
+      },
+      "review": {
+        "headline_rewrite": "Jury orders Google to pay $425 million for violating user privacy",
+        "bullets": [
+          "The jury found Google liable for two of three claims brought by the class action lawsuit, including invasion of privacy and intrusion upon seclusion.",
+          "“This decision misunderstands how our products work,” Google spokesperson José Castañeda said in a statement to The Verge.",
+          "“Our privacy tools give people control over their data, and when they turn off personalization, we honor that choice.” Google argues that it treats data pseudonymously when users turn off the Web & App Activity setting, and claims that users “knew and consented” to this practice."
         ],
         "impact": "Negative"
       }
@@ -76,20 +76,20 @@
     },
     {
       "item": {
-        "title": "The quest to keep OpenAI honest",
-        "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai",
-        "site_name": "The Verge",
-        "novelty_hash": "8c0ec831a7f766f741ef1ca6542ab6710e0e249b"
+        "title": "We Can Get Rid of Carcinogens and Forever Chemicals in Drinking Water. Will We Do It?",
+        "link": "https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/",
+        "site_name": "WIRED",
+        "novelty_hash": "5be84a0b2e69d7d3fe3ea2ff3de57f9598380f4f"
       },
       "review": {
-        "headline_rewrite": "The quest to keep OpenAI honest",
+        "headline_rewrite": "We Can Get Rid of Carcinogens and Forever Chemicals in Drinking Water. Will We Do It?",
         "bullets": [
-          "We’ve covered OpenAI on Decoder in several ways this summer, from how it’s navigating the AI talent wars to how people are starting to feel attached to ChatGPT.",
-          "Next week, we’re airing a recent conversation I had with Bret Taylor, the chairman of OpenAI’s board.",
-          "But today, I want to zoom in on the battle that’s brewing about the future of OpenAI itself.",
-          "Despite being one of the most valuable companies in the world, OpenAI is still technically a nonprofit.",
-          "And now, OpenAI is trying to shake its nonprofit structure so it can raise even more money and, eventually, go public.",
-          "There’s a lot at stake here, and not just for OpenAI."
+          "A new study finds that technologies installed to remove forever chemicals from drinking water are also doing double-duty by removing harmful other materials—including some substances that have been linked to certain types of cancer.",
+          "Because they do not degrade, they are uniquely pervasive: a 2023 study from the US Geological Survey estimated that 45 percent of tap water in the US could contain at least one PFAS chemical.",
+          "But in May, the Trump EPA said it would be reconsidering regulations on four of the six chemicals in the original rule and extend the deadline by two years.",
+          "“This is just a fraction of the work the agency is doing on PFAS during President Trump’s second term to ensure Americans have the cleanest air, land, and water.”\nHirsch also emphasized that as EPA reconsiders standards for the four chemicals in question, “it is possible that the result could be more stringent requirements.”\nExperts say the costs of cleaning up PFAS could have other benefits beyond just getting forever chemicals out of Americans’ water supply.",
+          "The authors of the new study—all employees of the Environmental Working Group (EWG), a nonprofit that does research on chemical safety—say that technology that gets rid of PFAS can also filter out a number of other harmful substances, including some that are created as byproducts of the water treatment process itself.",
+          "Most routine water disinfection processes in the US entail adding a chemical—usually chlorine—to the water."
         ],
         "impact": "Negative"
       }
