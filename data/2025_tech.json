@@ -2,30 +2,10 @@
   "2025-09-05": [
     {
       "item": {
-        "title": "NVIDIA Pledges AI Education Funding for K-12 Programs",
-        "link": "https://blogs.nvidia.com/blog/ai-education-k-12/",
-        "site_name": "NVIDIA Blog",
-        "novelty_hash": "74ed8d25196cc08b8fff78462c6296826d464918"
-      },
-      "review": {
-        "headline_rewrite": "NVIDIA Pledges AI Education Funding for K-12 Programs",
-        "bullets": [
-          "NVIDIA today announced new AI education support for K-12 programs at a White House event to celebrate public-private partnerships that advance artificial intelligence education for America’s youth.",
-          "The commitment comes after recent NVIDIA announcements to support AI education and academic research, including a $30 million contribution to the National AI Intelligence Research pilot and a U.S.",
-          "Pledging $25 million in support with AI education programs, NVIDIA is partnering with Study Fetch and CK-12 — two leading K-12 learning platforms — to tailor the NVIDIA Deep Learning Institute (DLI) and NVIDIA Academy content offerings to meet the instructional needs of U.S.",
-          "Additionally, in support of the executive order, NVIDIA signed the White House’s Pledge to America’s Youth: Investing in AI Education, committing to delivering AI literacy, credentialing and educator enablement.",
-          "Supporting America’s Educators in Driving AI Literacy\nIn the first year, NVIDIA will support curriculum adaptation, platform integration, educator training, institutional engagement and ecosystem-wide outreach.",
-          "The NVIDIA DLI program integrations with Study Fetch and CK-12 will make available NVIDIA’s industry-leading training materials to help empower high school educators in applying DLI Teaching Kits."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "Tech companies pledge to ready Americans for an AI-dominated world",
         "link": "https://www.theverge.com/policy/772084/amazon-google-microsoft-white-house-ai-education",
         "site_name": "The Verge",
-        "novelty_hash": "c7bea90cfe1e1c50f073917e8b9592b205326480"
+        "novelty_hash": "da5b431711d39828fa74b852c3fe191784c131ed"
       },
       "review": {
         "headline_rewrite": "Tech companies pledge to ready Americans for an AI-dominated world",
@@ -60,10 +40,30 @@
     },
     {
       "item": {
+        "title": "Facebook is trying to make ‘pokes’ happen again",
+        "link": "https://techcrunch.com/2025/09/04/facebook-is-trying-to-make-pokes-happen-again/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "54c53e74ce9346a6c60a3735378bd9384f7c44fc"
+      },
+      "review": {
+        "headline_rewrite": "Facebook is trying to make ‘pokes’ happen again",
+        "bullets": [
+          "In March 2024, the company said it had made it easier for users to find the poking page via search and would make it easier to poke a friend after searching for them.",
+          "These small changes led to a 13x spike in poking in the month after the changes, Meta said at the time.",
+          "Facebook never explained the purpose of the poke, leaving it open to interpretation.",
+          "Tech and VC heavyweights join the Disrupt 2025 agenda\nNetflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda.",
+          "Netflix, ElevenLabs, Wayve, Sequoia Capital — just a few of the heavy hitters joining the Disrupt 2025 agenda.",
+          "According to research from Jon Haidt, author of “The Anxious Generation,” which focused on social media’s potential harm to children’s brain development, Snap had known about streaks’ habit-forming nature for years."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Here are the best Apple Watch deals available right now",
         "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
         "site_name": "The Verge",
-        "novelty_hash": "79973b3a3d24e52bebe469461a91a009421b0171"
+        "novelty_hash": "06f23979138b4dbd78e4ee3e668398300c064024"
       },
       "review": {
         "headline_rewrite": "Here are the best Apple Watch deals available right now",
@@ -80,35 +80,35 @@
     },
     {
       "item": {
-        "title": "Fashion retailers partner to offer personalized AI styling tool ‘Ella’",
-        "link": "https://techcrunch.com/2025/09/04/fashion-retailers-partner-to-offer-personalized-ai-styling-tool-ella/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "4aaf8bebc46d4d8a49ea306c4bf6141edefca74c"
+        "title": "Big tech signs on to White House plan for AI education in US schools",
+        "link": "https://www.engadget.com/ai/big-tech-signs-on-to-white-house-plan-for-ai-education-in-us-schools-212646999.html",
+        "site_name": "Engadget",
+        "novelty_hash": "1e1263117b69ba1e8e40ec9e622b68d35ed1ce93"
       },
       "review": {
-        "headline_rewrite": "Fashion retailers partner to offer personalized AI styling tool ‘Ella’",
+        "headline_rewrite": "Big tech signs on to White House plan for AI education in US schools",
         "bullets": [
-          "The luxury membership platform Vivrelle, which allows customers to rent high-end goods, announced Thursday the launch of an AI personal styling tool called Ella as part of its partnership with fashion retailers Revolve and FWRD.",
-          "The launch is an example of how the fashion industry is leveraging AI technology to enhance customer experiences and is one of the first partnerships to see three retailers come together to offer a personalized AI experience.",
-          "The tool, Ella, provides recommendations to customers across the three retailers on what to purchase or rent to make an outfit come to life.",
-          "“Ella has been in the works for quite some time,” she told TechCrunch, adding that it took about a year to build and release the product.",
-          "This is actually the second AI tool from the three companies.",
-          "The Vivrelle, Revolve, and FWRD partnership earlier this year also launched Complete the Look, which offers last-minute fashion suggestions to complement what’s in a customer’s cart at checkout."
+          "The White House hosted several tech and AI leaders at an event today centered on teaching artificial intelligence in US schools.",
+          "Many of the big tech companies — including Amazon, Google, Microsoft, OpenAI and Anthropic — have already issued press releases with their commitments to a pledge from the White House to help \"foster early interest in Al technology, promote Al literacy and proficiency, and enable comprehensive Al training for parents and educators.\" The business commitments include things like cash prizes for students and teachers who use AI in educational ways, and cheap or free access to the companies' AI tools, trainings and certifications.",
+          "Understanding AI and the limits of what it can and can't do are already important as industries try to adapt to the technology.",
+          "It's unclear if any actual teachers were consulted in the development of these initiatives, or asked for suggestions on how best to prepare students for the sudden rise of AI."
         ],
         "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "COVID vaccine locations vanish from Google Maps due to supposed “technical issue”",
-        "link": "https://arstechnica.com/gadgets/2025/09/covid-vaccine-locations-vanish-from-google-maps-due-to-alleged-technical-issue/",
-        "site_name": "Ars Technica",
-        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        "title": "Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now",
+        "link": "https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/",
+        "site_name": "WIRED",
+        "novelty_hash": "eb8846f8ece1425fc96f998829c6d8126f879367"
       },
       "review": {
-        "headline_rewrite": "COVID vaccine locations vanish from Google Maps due to supposed “technical issue”",
+        "headline_rewrite": "Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now",
         "bullets": [
-          "Finally, a reason to use Bing Maps."
+          "This sale comes at a perfect time, because I was just complaining about the fingerprint reader on mine no longer working.",
+          "Our reviewer, Nena Farrell, even said it “works perfectly,” which is great news, because I have to unplug mine and plug it back in at least once a week.",
+          "By setting up your location in the Yale Access App, you can set the bolt to unlock as your get close to home, which our reviewer said “worked smoothly\", as long as she got far enough away from home for it to recognize her return."
         ],
         "impact": "Neutral"
       }
