@@ -44,7 +44,7 @@
         "title": "IFA 2025: the biggest tech and gadget announcements",
         "link": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights",
         "site_name": "The Verge",
-        "novelty_hash": "8222676ab7276c7fbfae530d96284914cf7e30df"
+        "novelty_hash": "d03b86d2fbc9c9ea1082627abc52a2cf7cc8f078"
       },
       "review": {
         "headline_rewrite": "IFA 2025: the biggest tech and gadget announcements",
@@ -61,18 +61,17 @@
     },
     {
       "item": {
-        "title": "Anker stuffed its awesome Nebula X1 projector into a party speaker",
-        "link": "https://www.theverge.com/news/765735/anker-nebula-x1-pro-party-speaker-price-specs",
+        "title": "Microsoft open-sources its 6502 version of BASIC from 1976",
+        "link": "https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release",
         "site_name": "The Verge",
-        "novelty_hash": "0941e1478b8ba2c73ab0ec724f056b4f6a6a6767"
+        "novelty_hash": "8dc806085513f70371d8a1521b0c4f29078422db"
       },
       "review": {
-        "headline_rewrite": "Anker stuffed its awesome Nebula X1 projector into a party speaker",
+        "headline_rewrite": "Microsoft open-sources its 6502 version of BASIC from 1976",
         "bullets": [
-          "A pair of 80W soundbar speakers fold out on the left and right sides and can be detached to optimize placement at the front of the room, with a pair of 40W wireless satellites for the rear channels, as well.",
-          "You can also put the X1 Pro into Bluetooth speaker mode when music is the only entertainment required.",
-          "Only now, everything is rated at IP43 to help protect it from light rain and dust.",
-          "It’ll hit retail channels around March 2026."
+          "6502 BASIC was one of Microsoft’s first pieces of software, adapted in 1976 by Microsoft cofounder Bill Gates and early employee Ric Weiland to run on the 6502 CPU that powered the Apple II, Atari 2600, Nintendo Entertainment System, and Commodore 8-bit series.",
+          "“In 1977, Commodore licensed it for a flat fee of $25,000, a deal that placed Microsoft BASIC at the heart of Commodore’s PET computers and, later, the VIC-20 and Commodore 64,” explains Microsoft in a blog post announcing Microsoft’s 6502 BASIC open source news.",
+          "If you’re interested in experimenting with the assembly language source code of Microsoft’s 6502 BASIC, the complete source code is now available on GitHub."
         ],
         "impact": "Neutral"
       }
