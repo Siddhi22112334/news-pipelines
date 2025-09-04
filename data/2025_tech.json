@@ -2,6 +2,25 @@
   "2025-09-04": [
     {
       "item": {
+        "title": "Translate while you scroll with Circle to Search.",
+        "link": "https://blog.google/products/search/real-time-translate-circle-to-search-android/",
+        "site_name": "Google",
+        "novelty_hash": "b2c351537f1cc9c5cdcfbebc57c23f8dd16c362b"
+      },
+      "review": {
+        "headline_rewrite": "Translate while you scroll with Circle to Search.",
+        "bullets": [
+          "Circle to Search is already a great way to get helpful information about anything you see on your Android device.",
+          "Now, we’re improving translation in Circle to Search, so you can translate as you scroll.",
+          "Translation is one of the most-used features in Circle to Search — you can get more context for social posts from creators who speak a different language, or browse menus when you’re booking restaurant reservations while traveling abroad.",
+          "But until now, you had to restart the translation process every time you scrolled or the content on the screen changed.",
+          "This update will begin rolling out this week on Android, starting with select Samsung Galaxy devices."
+        ],
+        "impact": "Neutral"
+      }
+    },
+    {
+      "item": {
         "title": "Aqara announces Apple-friendly doorbell, outdoor camera, video hub, and more",
         "link": "https://www.theverge.com/news/771071/aqara-announces-apple-friendly-doorbell-outdoor-camera-video-hub-and-more",
         "site_name": "The Verge",
@@ -15,6 +34,26 @@
           "The Home Station M410 is a multi-functional security hub that creates a central point of access for Aqara’s cameras, while also helping to extend their operating range."
         ],
         "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price",
+        "link": "https://www.wired.com/story/samsungs-galaxy-tab-s11-series-and-galaxy-s25-fe/",
+        "site_name": "WIRED",
+        "novelty_hash": "eaf1f4233b4d15badd96bc86c475fab095cdb7a5"
+      },
+      "review": {
+        "headline_rewrite": "Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price",
+        "bullets": [
+          "All of these devices are available for purchase today.",
+          "Apple highlighted the remarkable thinness of the M4-powered iPad Pro when it launched in 2024, and now the Galaxy Tab S11 Ultra matches it—both Apple’s and Samsung's top-tier tablets are a mere 0.20 inches thick (5.1 mm).",
+          "The cheaper Tab S11 is 0.22 inches, which is a hair thicker than the 11-inch iPad Pro.",
+          "Once again, Samsung employs a MediaTek processor, the Dimensity 9400+, which is competitive with Qualcomm's Snapdragon 8 Elite.",
+          "Samsung is playing up the AI features on these tablets, which support Google's Gemini Live multimodal capabilities, so you can chat in real time with the assistant and even show it what you're seeing with the tablet's cameras.",
+          "Then there's Galaxy AI features from Samsung's phones, like Drawing Assist, which turns your sketches into AI-generated art, and Writing Assist, which can rephrase your words into a different tone."
+        ],
+        "impact": "Negative"
       }
     },
     {
@@ -72,39 +111,6 @@
           "While that may not mean much to you, it’s worth mentioning because mobile apps are the way most people interact with their smart lights on a daily basis."
         ],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Eufy's MarsWalker allows its robot vacuums to climb stairs",
-        "link": "https://www.engadget.com/home/smart-home/eufys-marswalker-allows-its-robot-vacuums-to-climb-stairs-083020319.html",
-        "site_name": "Engadget",
-        "novelty_hash": "e42c4f5bb74853d1e1f3b1a96d3be6aed347a7c9"
-      },
-      "review": {
-        "headline_rewrite": "Eufy's MarsWalker allows its robot vacuums to climb stairs",
-        "bullets": [
-          "This little doodad picks up robot vacuums and carries them up and down stairs.",
-          "That's pretty neat, considering stairs are the bane of any robovac's existence.",
-          "The company says the MarsWalker automatically recognizes common stair types, including straight, L-shaped and U-shaped.",
-          "Eufy boasts that the device allows for \"truly hands-free, whole-home cleaning while avoiding the cost of buying multiple devices.\"\nIt uses four control arms that \"dynamically adapt to stair structures,\" along with a track-drive system that \"grips each step securely.\" The company notes that it has been designed to prevent slips.",
-          "Still, it's cool to see robot vacuums finally adapting to stairs.",
-          "The Omni S2 includes an aromatherapy system, which is fairly novel, and adaptive wheels to clear thresholds like thick rugs."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Judge Rules Trump Administration Illegally Canceled Harvard Funding",
-        "link": "https://news.google.com/read/CBMie0FVX3lxTE1TV09FM0pxb3N5RnZ2MjhBVkhjMWV2M1otNHNDcjViWTEwVk5PXzJFa080NW1CbHJ2U3BybUJSdXEyLTFfRlNzYzNzZC1FX2tSVUduaWRhbWNxZzk1T2hDcUpNdldMTjM1QmhEVmtwUVlVSVIzNDVrU2Vldw",
-        "site_name": "Google News",
-        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-      },
-      "review": {
-        "headline_rewrite": "Judge Rules Trump Administration Illegally Canceled Harvard Funding",
-        "bullets": [],
-        "impact": "Neutral"
       }
     }
   ]
