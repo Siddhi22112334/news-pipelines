@@ -44,7 +44,7 @@
         "title": "IFA 2025: the biggest tech and gadget announcements",
         "link": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights",
         "site_name": "The Verge",
-        "novelty_hash": "d03b86d2fbc9c9ea1082627abc52a2cf7cc8f078"
+        "novelty_hash": "7970e760e3bbe17ab8a74e7f0a3bfc56b7b14765"
       },
       "review": {
         "headline_rewrite": "IFA 2025: the biggest tech and gadget announcements",
@@ -78,6 +78,26 @@
     },
     {
       "item": {
+        "title": "A Labubu Rave Offers a Salve for the Darkest Timeline",
+        "link": "https://www.wired.com/story/a-labubu-rave-offers-a-salve-for-the-darkest-timeline/",
+        "site_name": "WIRED",
+        "novelty_hash": "f9d03ecc34ee0e810e13c8d3e24578fca4ba3431"
+      },
+      "review": {
+        "headline_rewrite": "A Labubu Rave Offers a Salve for the Darkest Timeline",
+        "bullets": [
+          "It’s a celebration of Labubu, the furry Ewok-like collectible that, in an age of fly-by-night TikTok trends, AI influencers, and cheap hype, seems to have become a bona fide phenomenon.",
+          "Outside, a line snakes through the parking lot, and soft hints of weed smoke perfume the balmy night air.",
+          "From his backpack he pulls a limited-edition Coca-Cola Labubu and delicately holds it as if it were a trophy, waiting for me to admire it.",
+          "Everyone from Rihanna, BTS, Kim Kardashian, and Naomi Osaka—who showed off four crystal-encrusted limited editions at this year’s US Open tournament—have sung the praise song of Labubu.",
+          "From a stage inside Catch One, a movie-theater-size LED screen plays animations of the furry toy deity, and the DJ summons his faithful.",
+          "Hands launch into the air."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Hue's Secure video doorbell can turn on Hue lights when someone comes to the door",
         "link": "https://www.engadget.com/home/smart-home/hues-secure-video-doorbell-can-turn-on-hue-lights-when-someone-comes-to-the-door-100017068.html",
         "site_name": "Engadget",
@@ -94,26 +114,6 @@
           "Hue's Security video doorbell arrives in October in North America, Europe and the UK for $170 (£140)."
         ],
         "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "Is Congestion Pricing Working? The MTA’s Revamped Data Team Is Figuring It Out",
-        "link": "https://www.wired.com/story/nyc-mta-data-team-congestion-pricing/",
-        "site_name": "WIRED",
-        "novelty_hash": "be74dc5380549067624d192cf7babaa7d3dc4600"
-      },
-      "review": {
-        "headline_rewrite": "Is Congestion Pricing Working? The MTA’s Revamped Data Team Is Figuring It Out",
-        "bullets": [
-          "Three and a half years earlier, New York state legislators had passed a law requiring the MTA to release “easily accessible, understandable, and usable” data to the public; by January 2022, MTA chair and CEO Janno Lieber officially announced the new team’s formation.",
-          "The online web pages aren’t flashy, but they represent a rare and comprehensive public transit win for open-data advocates, who argue that access to well-maintained public datasets is crucial to government transparency and efficiency.",
-          "The nation’s largest, it carries some 5.9 million riders on subways, buses, commuter railways, and through tunnels and bridges every day.",
-          "Recent additions include more than a decade's worth of data on the time MTA employees spend on “productive tasks,” a new dataset on subway-delay-causing incidents; and bus speeds on Manhattan’s most crowded downtown roads.",
-          "Kuziemko says 30 more datasets are becoming publicly available “in the near future.”\nCounter Intelligence\nIn an interview, Kuziemko and MTA chief of strategic initiatives Jon Kaufman credited a new culture of intra-agency data sharing for the renewed program.",
-          "(Some of the MTA’s data contains the personally identifiable information of commuters; the agency says this specific data is not published for the public.) The agency has also started using new in-house software and tools, which give them technical capabilities they didn’t have before."
-        ],
-        "impact": "Negative"
       }
     }
   ]
