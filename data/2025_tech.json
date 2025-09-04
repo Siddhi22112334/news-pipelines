@@ -22,24 +22,6 @@
     },
     {
       "item": {
-        "title": "Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain",
-        "link": "https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "1f11189be28742ba12622c7fe5ff39d1c87e6a6d"
-      },
-      "review": {
-        "headline_rewrite": "Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain",
-        "bullets": [
-          "Stripe is funding a new blockchain company called Tempo, co-founder CEO Patrick Collison announced on Thursday.",
-          "Tempo is aimed at high-volume processing of stablecoins — coins that help reduce crypto’s notorious volatility because they are pegged to a stable asset like the U.S.",
-          "What is surprising is the eye-popping list of companies Stripe has already enlisted: Anthropic, Coupang, Deutsche Bank, DoorDash, Lead Bank, Mercury, Nubank, OpenAI, Revolut, Shopify, Standard Chartered, and Visa.",
-          "So if the blockchain works well, these design partners should be queued up to use or offer it for everything from agentic payments to remittances."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "Facebook is trying to make ‘pokes’ happen again",
         "link": "https://techcrunch.com/2025/09/04/facebook-is-trying-to-make-pokes-happen-again/",
         "site_name": "TechCrunch",
@@ -60,22 +42,58 @@
     },
     {
       "item": {
-        "title": "Here are the best Apple Watch deals available right now",
-        "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
-        "site_name": "The Verge",
-        "novelty_hash": "06f23979138b4dbd78e4ee3e668398300c064024"
+        "title": "Rivian makes its second small workforce cut of the year ahead of R2 SUV launch",
+        "link": "https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-workforce-cut-of-the-year-ahead-of-r2-suv-launch/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "565fc8a1d2285b18053760c153c3afddf388c591"
       },
       "review": {
-        "headline_rewrite": "Here are the best Apple Watch deals available right now",
+        "headline_rewrite": "Rivian makes its second small workforce cut of the year ahead of R2 SUV launch",
         "bullets": [
-          "At the end of last year, Apple launched its latest smartwatch, introducing the Apple Watch Series 10 alongside a black rendition of the Apple Watch Ultra 2.",
-          "Here are the best Apple Watch deals available right now\nEvery model in Apple’s current lineup, from the entry-level SE to the Ultra 2, is receiving some kind of discount right now.",
-          "The latest update, watchOS 11, launched in September on the Series 6 and newer models, ultimately leaving those still using an older Series 4 or 5 behind.",
-          "That said, picking up a watch from the latest (or a recent) generation ensures you’re getting a wearable with an updated design, a robust feature set, and plenty of sensors.",
-          "Just keep in mind that Apple will likely announce a new flagship model — and perhaps a third-gen Apple Watch Ultra — at its iPhone 17 launch event on September 9th, meaning the price of current-gen models is likely to fall in the near future.",
-          "It features the newer S10 SiP chip, faster charging, and a wide-angle OLED display that’s brighter, larger, and easier to read than that of previous models."
+          "Rivian is laying off around 150 workers — its second small staff cut in a matter of months — as the company readies itself for the all-important launch of its more-affordable R2 SUV next year.",
+          "It laid off around 10% of its staff in early 2024 and made another small cut in April 2024."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Warner Bros. Discovery sues Midjourney for generating &#8216;countless&#8217; copies of its characters",
+        "link": "https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit",
+        "site_name": "The Verge",
+        "novelty_hash": "992527603d701a67f3dde107aa98627cbd5ddd3b"
+      },
+      "review": {
+        "headline_rewrite": "Warner Bros. Discovery sues Midjourney for generating &#8216;countless&#8217; copies of its characters",
+        "bullets": [
+          "Discovery is suing Midjourney over claims the AI startup “brazenly dispenses its intellectual property as if it were its own,” as reported earlier by The Hollywood Reporter.",
+          "Discovery accuses Midjourney of reproducing, displaying, and distributing “unauthorized derivatives” of its intellectual property through its AI image and video generation tools.",
+          "Discovery shares several examples of how Midjourney’s AI tools seem to have generated images of copyrighted characters, like Wonder Woman, Tweety, the Power Puff Girls, and even Rick and Morty in response to prompts asking to see the characters in certain situations.",
+          "Discover claims that Midjourney will generate infringing images even if prompts don’t mention a specific character.",
+          "For instance, Midjourney allegedly generated downloadable images of Superman, Batman, and Flash after receiving the prompt, “classic comic book superhero battle.” Midjourney is facing a similar copyright lawsuit from Disney and Universal, which called the company’s AI image generator a “virtual vending machine” that generates “endless authorized copies” of their work.",
+          "Discovery claims Midjourney is aware of the “breathtaking scope of its piracy and copyright infringement” but refuses to protect copyright holders."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest.",
+        "link": "https://arstechnica.com/information-technology/2025/09/the-number-of-mis-issued-1-1-1-1-certificates-grows-heres-the-latest/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "607fa5b549b0fcd76719bde429bb97573a3486ff"
+      },
+      "review": {
+        "headline_rewrite": "The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest.",
+        "bullets": [
+          "Wednesday’s discovery of three mis-issued TLS certificates for Cloudflare’s 1.1.1.1 encrypted DNS lookup service generated intense interest and concern among Internet security practitioners.",
+          "The revelation raised the possibility that an unknown entity had obtained the cryptographic equivalent of a skeleton key that could be used to surreptitiously decrypt millions of users’ DNS queries that were encrypted through DNS over TLS or DNS over HTTPS.",
+          "Since then, new information and analysis have become available, including the issuance of nine additional certificates since February 2024.",
+          "This FAQ list is designed to answer questions raised in comments to the story and to provide the latest on what’s known about the incident, which Cloudflare said Thursday constituted an “unacceptable lapse in security by Fina CA,\" the Microsoft-trusted certificate authority (CA) responsible for all 12 of the mis-issued certificates.",
+          "Yes, multiple details.",
+          "First, Cloudflare said that an audit it conducted following the discovery found that Fina CA mis-issued a total of 12 certificates, nine more than previously known."
+        ],
+        "impact": "Neutral"
       }
     },
     {
@@ -94,23 +112,6 @@
           "It's unclear if any actual teachers were consulted in the development of these initiatives, or asked for suggestions on how best to prepare students for the sudden rise of AI."
         ],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now",
-        "link": "https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/",
-        "site_name": "WIRED",
-        "novelty_hash": "eb8846f8ece1425fc96f998829c6d8126f879367"
-      },
-      "review": {
-        "headline_rewrite": "Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now",
-        "bullets": [
-          "This sale comes at a perfect time, because I was just complaining about the fingerprint reader on mine no longer working.",
-          "Our reviewer, Nena Farrell, even said it “works perfectly,” which is great news, because I have to unplug mine and plug it back in at least once a week.",
-          "By setting up your location in the Yale Access App, you can set the bolt to unlock as your get close to home, which our reviewer said “worked smoothly\", as long as she got far enough away from home for it to recognize her return."
-        ],
-        "impact": "Neutral"
       }
     }
   ]
