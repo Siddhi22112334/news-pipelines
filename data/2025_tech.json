@@ -22,30 +22,10 @@
     },
     {
       "item": {
-        "title": "CEO Sundar Pichai's remarks at the White House AI Education Taskforce",
-        "link": "https://blog.google/outreach-initiatives/education/ai-education-efforts/",
-        "site_name": "Google",
-        "novelty_hash": "aa9f734f64e5f66fe06b95df3737ac1e0949b92a"
-      },
-      "review": {
-        "headline_rewrite": "CEO Sundar Pichai's remarks at the White House AI Education Taskforce",
-        "bullets": [
-          "CEO Sundar Pichai's remarks at the White House AI Education Taskforce\nEditor’s note: Today Sundar Pichai spoke at the White House Panel on AI Education event in Washington, where he highlighted our efforts to support AI education, including offering Gemini for Education to every high school in America.",
-          "It’s an honor for me to be here and to support the First Lady’s Presidential AI Challenge.",
-          "Today we see AI as the most profound way we will deliver on that mission — and transform knowledge and learning.",
-          "It’s why we built Chromebooks for every classroom, and why we’ve worked to make our AI model, Gemini, the world’s leading model for learning.",
-          "That means every high school student and every teacher has access to our best AI tools, including Guided Learning — tools that could be helpful for students taking the AI Challenge.",
-          "We also recently committed $1 billion over the next three years to support education and job training programs in the U.S."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
         "title": "OpenAI announces AI-powered hiring platform to take on LinkedIn",
         "link": "https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/",
         "site_name": "TechCrunch",
-        "novelty_hash": "5681c99049476ce8256dcd8f84c1a1afc4773051"
+        "novelty_hash": "32a6263b857eb8d48246ece84a9318514ef72330"
       },
       "review": {
         "headline_rewrite": "OpenAI announces AI-powered hiring platform to take on LinkedIn",
@@ -62,20 +42,38 @@
     },
     {
       "item": {
-        "title": "AI logistics startup Augment, from Deliverr’s founder, raises massive $85M Series A",
-        "link": "https://techcrunch.com/2025/09/04/ai-logistics-startup-augment-from-deliverrs-founder-raises-massive-85m-series-a/",
+        "title": "Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain",
+        "link": "https://techcrunch.com/2025/09/04/stripe-enlists-a-whos-who-including-anthropic-openai-and-paradigm-to-build-a-new-blockchain/",
         "site_name": "TechCrunch",
-        "novelty_hash": "9068d300673cd8b53c00ca21a30567795e564158"
+        "novelty_hash": "1f11189be28742ba12622c7fe5ff39d1c87e6a6d"
       },
       "review": {
-        "headline_rewrite": "AI logistics startup Augment, from Deliverr’s founder, raises massive $85M Series A",
+        "headline_rewrite": "Stripe enlists a who’s who, including Anthropic, OpenAI, and Paradigm, to build a new blockchain",
         "bullets": [
-          "Abbott felt that many manual tasks in logistics could be automated using AI.",
-          "That’s why last year he launched Augment which offers an AI assistant called ‘Augie’ that can take over tedious and repetitive work performed by freight shippers, carriers and brokers.",
-          "On Thursday, Augment announced that it raised an $85 million Series A led by Redpoint, with participation from 8VC, Autotech Ventures, and others.",
-          "The massive round comes just five months after the startup launched out of stealth with a hefty $25 million seed round.",
-          "“Freight and logistics is a very large industry that employs lots of people who are busy chasing emails, documents, phone calls, text messages all day long,” Abbott told TechCrunch.",
-          "“Augie can take care of all that like their own personal assistant, so they can focus on relationships and negotiations.”\nAll of these processes typically involve numerous phone calls, emails, or texts exchanged between various participants in the logistics process."
+          "Stripe is funding a new blockchain company called Tempo, co-founder CEO Patrick Collison announced on Thursday.",
+          "Tempo is aimed at high-volume processing of stablecoins — coins that help reduce crypto’s notorious volatility because they are pegged to a stable asset like the U.S.",
+          "What is surprising is the eye-popping list of companies Stripe has already enlisted: Anthropic, Coupang, Deutsche Bank, DoorDash, Lead Bank, Mercury, Nubank, OpenAI, Revolut, Shopify, Standard Chartered, and Visa.",
+          "So if the blockchain works well, these design partners should be queued up to use or offer it for everything from agentic payments to remittances."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Here are the best Apple Watch deals available right now",
+        "link": "https://www.theverge.com/21289209/best-apple-watch-deals",
+        "site_name": "The Verge",
+        "novelty_hash": "79973b3a3d24e52bebe469461a91a009421b0171"
+      },
+      "review": {
+        "headline_rewrite": "Here are the best Apple Watch deals available right now",
+        "bullets": [
+          "At the end of last year, Apple launched its latest smartwatch, introducing the Apple Watch Series 10 alongside a black rendition of the Apple Watch Ultra 2.",
+          "Here are the best Apple Watch deals available right now\nEvery model in Apple’s current lineup, from the entry-level SE to the Ultra 2, is receiving some kind of discount right now.",
+          "The latest update, watchOS 11, launched in September on the Series 6 and newer models, ultimately leaving those still using an older Series 4 or 5 behind.",
+          "That said, picking up a watch from the latest (or a recent) generation ensures you’re getting a wearable with an updated design, a robust feature set, and plenty of sensors.",
+          "Just keep in mind that Apple will likely announce a new flagship model — and perhaps a third-gen Apple Watch Ultra — at its iPhone 17 launch event on September 9th, meaning the price of current-gen models is likely to fall in the near future.",
+          "It features the newer S10 SiP chip, faster charging, and a wide-angle OLED display that’s brighter, larger, and easier to read than that of previous models."
         ],
         "impact": "Negative"
       }
@@ -85,7 +83,7 @@
         "title": "The new Street Fighter movie Hadokens into theaters in October 2026",
         "link": "https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast",
         "site_name": "The Verge",
-        "novelty_hash": "f439d957c4f27fa345e9dc8018dc4f040ff39250"
+        "novelty_hash": "6356c1b22057eac77fd88a64f6860b07d31f2c73"
       },
       "review": {
         "headline_rewrite": "The new Street Fighter movie Hadokens into theaters in October 2026",
