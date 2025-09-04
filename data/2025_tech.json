@@ -2,25 +2,6 @@
   "2025-09-04": [
     {
       "item": {
-        "title": "Translate while you scroll with Circle to Search.",
-        "link": "https://blog.google/products/search/real-time-translate-circle-to-search-android/",
-        "site_name": "Google",
-        "novelty_hash": "b2c351537f1cc9c5cdcfbebc57c23f8dd16c362b"
-      },
-      "review": {
-        "headline_rewrite": "Translate while you scroll with Circle to Search.",
-        "bullets": [
-          "Circle to Search is already a great way to get helpful information about anything you see on your Android device.",
-          "Now, we’re improving translation in Circle to Search, so you can translate as you scroll.",
-          "Translation is one of the most-used features in Circle to Search — you can get more context for social posts from creators who speak a different language, or browse menus when you’re booking restaurant reservations while traveling abroad.",
-          "But until now, you had to restart the translation process every time you scrolled or the content on the screen changed.",
-          "This update will begin rolling out this week on Android, starting with select Samsung Galaxy devices."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
         "title": "Madrid’s Orbital Paradigm aims to prove a cheaper path to orbital reentry",
         "link": "https://techcrunch.com/2025/09/04/madrids-orbital-paradigm-aims-to-prove-a-cheaper-path-to-orbital-reentry/",
         "site_name": "TechCrunch",
@@ -44,7 +25,7 @@
         "title": "IFA 2025: the biggest tech and gadget announcements",
         "link": "https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights",
         "site_name": "The Verge",
-        "novelty_hash": "7970e760e3bbe17ab8a74e7f0a3bfc56b7b14765"
+        "novelty_hash": "56ea27978b3cfccd5a2d2f2e1a8aaee43a3d896d"
       },
       "review": {
         "headline_rewrite": "IFA 2025: the biggest tech and gadget announcements",
@@ -114,6 +95,26 @@
           "Hue's Security video doorbell arrives in October in North America, Europe and the UK for $170 (£140)."
         ],
         "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "Is Congestion Pricing Working? The MTA’s Revamped Data Team Is Figuring It Out",
+        "link": "https://www.wired.com/story/nyc-mta-data-team-congestion-pricing/",
+        "site_name": "WIRED",
+        "novelty_hash": "be74dc5380549067624d192cf7babaa7d3dc4600"
+      },
+      "review": {
+        "headline_rewrite": "Is Congestion Pricing Working? The MTA’s Revamped Data Team Is Figuring It Out",
+        "bullets": [
+          "Three and a half years earlier, New York state legislators had passed a law requiring the MTA to release “easily accessible, understandable, and usable” data to the public; by January 2022, MTA chair and CEO Janno Lieber officially announced the new team’s formation.",
+          "The online web pages aren’t flashy, but they represent a rare and comprehensive public transit win for open-data advocates, who argue that access to well-maintained public datasets is crucial to government transparency and efficiency.",
+          "The nation’s largest, it carries some 5.9 million riders on subways, buses, commuter railways, and through tunnels and bridges every day.",
+          "Recent additions include more than a decade's worth of data on the time MTA employees spend on “productive tasks,” a new dataset on subway-delay-causing incidents; and bus speeds on Manhattan’s most crowded downtown roads.",
+          "Kuziemko says 30 more datasets are becoming publicly available “in the near future.”\nCounter Intelligence\nIn an interview, Kuziemko and MTA chief of strategic initiatives Jon Kaufman credited a new culture of intra-agency data sharing for the renewed program.",
+          "(Some of the MTA’s data contains the personally identifiable information of commuters; the agency says this specific data is not published for the public.) The agency has also started using new in-house software and tools, which give them technical capabilities they didn’t have before."
+        ],
+        "impact": "Negative"
       }
     }
   ]
