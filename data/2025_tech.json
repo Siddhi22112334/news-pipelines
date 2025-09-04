@@ -18,58 +18,20 @@
     },
     {
       "item": {
-        "title": "AI On: 6 Ways AI Agents Are Raising Team Performance — and How to Measure It",
-        "link": "https://blogs.nvidia.com/?p=84453",
-        "site_name": "NVIDIA Blog",
-        "novelty_hash": "00601286a08343d2ec8a575aea88fb87eb005684"
-      },
-      "review": {
-        "headline_rewrite": "AI On: 6 Ways AI Agents Are Raising Team Performance — and How to Measure It",
-        "bullets": [
-          "Editor’s note: This post is part of the AI On blog series, which explores the latest techniques and real-world applications of agentic AI, chatbots and copilots.",
-          "The series also highlights the NVIDIA software and hardware powering advanced AI agents, which form the foundation of AI query engines that gather insights and perform tasks to transform everyday experiences and reshape industries.",
-          "AI agents are expected to be involved in most business tasks within three years, with effective human-agent collaboration projected to increase human engagement in high-value tasks by 65%.",
-          "AI agents can help achieve and exceed efficiency goals as they learn, reason and adjust based on context and outcomes.",
-          "Here are six ways agentic AI boosts team performance — and practical tips for measuring its impact.",
-          "Accelerating Software Development With AI Agents\nAI agents can act as intelligent copilots, helping automate code generation, testing and deployment."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Veo 3 comes to Google Photos. Try it in the new Create tab.",
-        "link": "https://blog.google/products/photos/google-photos-create-tab-editing-tools/",
-        "site_name": "Google",
-        "novelty_hash": "0fa0ca9268c05fca986e972392e8b0c181cac831"
-      },
-      "review": {
-        "headline_rewrite": "Veo 3 comes to Google Photos. Try it in the new Create tab.",
-        "bullets": [
-          "You can find this powerful new tool, along with other generative AI features, in our new Create tab.",
-          "Now available in the U.S., the Create tab is your central hub for creativity in Google Photos.",
-          "Google Photos users get a limited number of generations each day, with more generations for Google AI Pro and Ultra subscribers.",
-          "Google Photos users get a limited number of generations each day, with more generations for Google AI Pro and Ultra subscribers."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "Microsoft is about to shake up its Copilot pricing for businesses",
-        "link": "https://www.theverge.com/notepad-microsoft-newsletter/771199/microsoft-365-copilot-changes-agents-pricing-notepad",
+        "title": "The tech antitrust renaissance may already be over",
+        "link": "https://www.theverge.com/policy/771409/break-up-big-tech-movement-google-search-remedies-ruling",
         "site_name": "The Verge",
-        "novelty_hash": "237326d252d49c867d51ce9395d3a78cd223fb01"
+        "novelty_hash": "0c6b1d82d66506f2081b46e16c5bfaaf4b7e73dd"
       },
       "review": {
-        "headline_rewrite": "Microsoft is about to shake up its Copilot pricing for businesses",
+        "headline_rewrite": "The tech antitrust renaissance may already be over",
         "bullets": [
-          "It’s no secret that Microsoft has been struggling to sell its Copilot AI assistant to businesses.",
-          "The steep pricing has put many businesses off paying extra for Microsoft’s AI services, especially when OpenAI’s ChatGPT has been gaining traction in the all-important enterprise market.",
-          "Sources familiar with Microsoft’s AI plans tell me that the company is about to ax this standalone $20 add-on and bundle Copilot for Sales, Service, and Finance into the main Microsoft 365 Copilot subscription.",
-          "This move will take the price of most of Microsoft’s top AI tools down to $30 per user per month, instead of the $50 per user per month businesses have to pay for Microsoft 365 Copilot and Copilot for Sales, Service, and Finance together — essentially giving away the add-on.",
-          "This monetization strategy change is part of a broader AI shakeup across the Microsoft 365 Copilot team and the Business and Industry Copilot (BIC) teams.",
-          "This week, Lamanna announced internally that Microsoft’s Copilot, Agents, and Platform Ecosystem (CAPE) team is also joining BIC, as part of an effort to “bring more business value into the broader M365 agent platform.”\nMicrosoft is increasingly stepping up its focus on AI agents, much like the rest of the tech industry."
+          "Around six years ago, a new rallying cry rippled through Washington: “Break Up Big Tech.”\nThe tech antitrust renaissance may already be over\nGoogle’s search monopoly ruling shows courts might not be willing to break up tech giants.",
+          "It was a slogan emblazoned on campaign posters, uttered at congressional hearings, and beginning, it seemed, to echo through the halls of the nation’s antitrust enforcers.",
+          "Momentum in the legislatures eventually petered out, but the enforcers at the Justice Department and Federal Trade Commission remained more active than ever.",
+          "Elizabeth Warren (D-MA) or Bernie Sanders (I-VT) adopted, but nevertheless, when he became president in 2021, he tapped Lina Khan — who’d first made a name for herself as a law student laying out an antitrust case against Amazon in The Yale Law Journal — to head up the Federal Trade Commission.",
+          "A slew of legal complaints against Google, Meta, Amazon, and Apple, threatening to dissolve their alleged monopolies (some first brought under Donald Trump’s administration), began to pile up.",
+          "In the last year, the US government seemed to be on something of a winning streak, clinching victories in not one, but two of its landmark antitrust cases against Google."
         ],
         "impact": "Negative"
       }
@@ -79,7 +41,7 @@
         "title": "iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event",
         "link": "https://techcrunch.com/2025/09/04/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/",
         "site_name": "TechCrunch",
-        "novelty_hash": "bf0e50251ad7f36ef5f6252dd48a15943b481ded"
+        "novelty_hash": "c49cd5ffa55beeefe371d216fc6c28d24168b34f"
       },
       "review": {
         "headline_rewrite": "iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event",
@@ -111,6 +73,43 @@
           "Netflix, ElevenLabs, Wayve, Sequoia Capital — just a few of the heavy hitters joining the Disrupt 2025 agenda."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Microsoft open-sources Bill Gates’ 6502 BASIC from 1978",
+        "link": "https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "a115ff9a60bff28aab5a33b7c1e8dc239846dd5e"
+      },
+      "review": {
+        "headline_rewrite": "Microsoft open-sources Bill Gates’ 6502 BASIC from 1978",
+        "bullets": [
+          "The company posted 6,955 lines of assembly language code to GitHub under an MIT license, allowing anyone to freely use, modify, and distribute the code that helped launch the personal computer revolution.",
+          "\"I put the WAIT command in.\"\nAt just 6,955 lines of assembly language—Microsoft's low-level 6502 code talked almost directly to the processor.",
+          "The MOS 6502 processor that ran this BASIC cost about $25, while competitors charged $200 for similar chips.",
+          "Designer Chuck Peddle created the 6502 specifically to bring computing to the masses, and manufacturers built variations of the chip into the Atari 2600, Nintendo Entertainment System, and millions of Commodore computers.",
+          "Had Microsoft negotiated a per-unit licensing fee like they did with later products, the deal could have generated tens of millions in revenue.",
+          "The version Microsoft released—labeled 1.1—contains bug fixes that Commodore engineer John Feagans and Gates jointly implemented in 1978 when Feagans traveled to Microsoft's Bellevue, Washington, offices."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "You can now attach 10,000 character blogs to your Threads posts",
+        "link": "https://www.theverge.com/news/770391/meta-threads-text-dumps-attachments-10000-characters",
+        "site_name": "The Verge",
+        "novelty_hash": "9fe20a3701d23bb0aed82c6d867d1301abfd9f0a"
+      },
+      "review": {
+        "headline_rewrite": "You can now attach 10,000 character blogs to your Threads posts",
+        "bullets": [
+          "Starting today, Meta is rolling out a tool that lets you attach up to 10,000 characters of text to Threads posts, giving you a way to build upon the 500-character text limit already available when making a post.",
+          "On your feed, a text attachment appears as a small block below your main post.",
+          "If you include a link in your main Threads post, that link will also be shown in the expanded text attachment, meaning the tool could be a useful way to share a preview of an article or a blog post and then direct readers to the full thing."
+        ],
+        "impact": "Neutral"
       }
     }
   ]
