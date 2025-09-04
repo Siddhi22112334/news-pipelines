@@ -22,7 +22,7 @@
         "title": "Anker stuffed its awesome Nebula X1 projector into a party speaker",
         "link": "https://www.theverge.com/news/765735/anker-nebula-x1-pro-party-speaker-price-specs",
         "site_name": "The Verge",
-        "novelty_hash": "2b68c059685bae104afaf250420d481782aac780"
+        "novelty_hash": "0941e1478b8ba2c73ab0ec724f056b4f6a6a6767"
       },
       "review": {
         "headline_rewrite": "Anker stuffed its awesome Nebula X1 projector into a party speaker",
@@ -37,20 +37,39 @@
     },
     {
       "item": {
-        "title": "The best live TV streaming services to cut cable in 2025",
-        "link": "https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html",
-        "site_name": "Engadget",
-        "novelty_hash": "e32f36859ffc424f4523af7d115010c587b81577"
+        "title": "This Blood Thinner Is More Effective Than Aspirin at Preventing Heart Attacks",
+        "link": "https://www.wired.com/story/anticoagulant-shown-to-be-more-effective-than-aspirin-in-preventing-heart-attacks/",
+        "site_name": "WIRED",
+        "novelty_hash": "d689ec5c26bdaf0d45da0be31db9505d14d81611"
       },
       "review": {
-        "headline_rewrite": "The best live TV streaming services to cut cable in 2025",
+        "headline_rewrite": "This Blood Thinner Is More Effective Than Aspirin at Preventing Heart Attacks",
+        "bullets": [
+          "Aspirin is one of the most widely taken medicines in the world, having been recommended for decades as a way of protecting against heart attacks and strokes in at-risk patients.",
+          "Their work is a meta-analysis—a study that collects and analyzes the results of multiple smaller studies, with the aim of reaching a more reliable conclusion by looking at a larger amount of data.",
+          "In total, this meta-analysis looked at clinical data from nearly 29,000 patients diagnosed with coronary artery disease (CAD), a condition where fat builds up in the arteries, which can lead to secondary effects such as heart attacks and heart failure.",
+          "The aim was to identify papers comparing the efficacy of aspirin versus clopidogrel in the prevention of cardiovascular deaths, heart attacks, and strokes.",
+          "Clopidogrel is a widely available, affordable drug with reliable generic versions, characteristics that would make it easy to incorporate into routine clinical practice."
+        ],
+        "impact": "Neutral"
+      }
+    },
+    {
+      "item": {
+        "title": "The best smart LED light bulbs for 2025",
+        "link": "https://www.engadget.com/home/smart-home/best-smart-led-light-bulbs-143022856.html",
+        "site_name": "Engadget",
+        "novelty_hash": "b5549e4e9bfcee4bd3fcf42ee175cfe6e43e035a"
+      },
+      "review": {
+        "headline_rewrite": "The best smart LED light bulbs for 2025",
         "bullets": [
           "Read more about how we evaluate products.",
-          "expiration | Multiview: Yes (select programming) | Contract: No | Free trial: Yes (length varies)\nIn mid-December of 2024, subscribers got a bummer of an email letting them know the price of YouTube TV would be going up yet again, this time to $83, which is a $10 hike from the last increase of $8 in March of 2023.",
-          "Even if you fight the urge to roll Max, Shudder and AcornTV into the mix at signup, the enticement remains as it’s dangerously easy to add more to your subscription — when I searched for a program on a network I didn’t have, I was prompted to add it.",
-          "Still, it’s nice to have all your entertainment in one place.",
-          "You get unlimited cloud DVR space (though recordings expire after nine months) and it’s dead simple to add programming to your library.",
-          "The feature was available for NCAA basketball and in-season major American leagues (hockey, soccer and basketball at the time of testing)."
+          "With app control, you can adjust the brightness (no need for a separate dimmer), set schedules and even program the lights to turn on or off under certain conditions, like when you connect to your home network.",
+          "So if you’ve always wanted to flood your office with a rainbow of vibrant colors while you’re live-streaming on Twitch, you can find the precise presets you want, save them and then turn them on with just a few taps in the app.",
+          "It’s one of the few ranges available today that gives you a ton of options to make every bulb in and out of your home smart, which is important to consider if you know you want to go all in on the smart light front.",
+          "But the main difference is the LIFX bulbs are Wi-Fi only, so you can’t connect them to a hub even if you wanted to, and some are slightly more expensive than Hue devices.",
+          "While that may not mean much to you, it’s worth mentioning because mobile apps are the way most people interact with their smart lights on a daily basis."
         ],
         "impact": "Negative"
       }
@@ -86,23 +105,6 @@
         "headline_rewrite": "Judge Rules Trump Administration Illegally Canceled Harvard Funding",
         "bullets": [],
         "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "AI News",
-        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
-        "site_name": "The Times of India",
-        "novelty_hash": "3a2edfb86440d35a9e8b122061650673882966e1"
-      },
-      "review": {
-        "headline_rewrite": "AI News",
-        "bullets": [
-          "Grammarly launches new AI agents to assist students and professionals with writing tasks\nGrammarly has introduced eight new AI agents within its AI writing surface, 'docs,' designed to aid students and professionals with diverse writing tasks.",
-          "These agents offer functionalities like citation finding, plagiarism checking, and AI detection, alongside features predicting reader reactions and providing rubric-based feedback.",
-          "This launch signifies Grammarly's move towards agent-based AI to enhance writing across various platforms."
-        ],
-        "impact": "Positive"
       }
     }
   ]
