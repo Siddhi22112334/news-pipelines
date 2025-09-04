@@ -2,6 +2,22 @@
   "2025-09-04": [
     {
       "item": {
+        "title": "Listen to a conversation about Pixel Watch 4’s new hardware, inside and out.",
+        "link": "https://blog.google/products/pixel/made-by-google-podcast-pixel-watch-4/",
+        "site_name": "Google",
+        "novelty_hash": "ca714cdce801a4cbaea959bbd3ffc8b8cf0ef90e"
+      },
+      "review": {
+        "headline_rewrite": "Listen to a conversation about Pixel Watch 4’s new hardware, inside and out.",
+        "bullets": [
+          "In the latest Made by Google podcast episode, host Rachid Finge dives deep into our newest wearable, Pixel Watch 4, with product lead Francis Hoe.",
+          "Rachid and Francis walk through the watch’s many firsts, including:\n- A domed Actua 360 display that’s bigger than ever before (all the better to see Material 3 Expressive!)\n- A longer-lasting, faster-charging battery with a new side-charging system\n- A serviceable design with a replaceable battery and display\n- Standalone emergency satellite communications\n- Improved health and fitness tracking\n- Raise to Talk with Gemini, right from your wrist\n- Accessory bands in a bunch of new colors and materials\nThe end result is a completely redesigned watch inside and out, as Francis explains: “It's something that's really personal to you in how it looks, how it feels and what it does.”\nListen to the full conversation on Apple Podcasts or Spotify, or watch below."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "AI On: 6 Ways AI Agents Are Raising Team Performance — and How to Measure It",
         "link": "https://blogs.nvidia.com/?p=84453",
         "site_name": "NVIDIA Blog",
@@ -18,6 +34,24 @@
           "Accelerating Software Development With AI Agents\nAI agents can act as intelligent copilots, helping automate code generation, testing and deployment."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Veo 3 comes to Google Photos. Try it in the new Create tab.",
+        "link": "https://blog.google/products/photos/google-photos-create-tab-editing-tools/",
+        "site_name": "Google",
+        "novelty_hash": "0fa0ca9268c05fca986e972392e8b0c181cac831"
+      },
+      "review": {
+        "headline_rewrite": "Veo 3 comes to Google Photos. Try it in the new Create tab.",
+        "bullets": [
+          "You can find this powerful new tool, along with other generative AI features, in our new Create tab.",
+          "Now available in the U.S., the Create tab is your central hub for creativity in Google Photos.",
+          "Google Photos users get a limited number of generations each day, with more generations for Google AI Pro and Ultra subscribers.",
+          "Google Photos users get a limited number of generations each day, with more generations for Google AI Pro and Ultra subscribers."
+        ],
+        "impact": "Neutral"
       }
     },
     {
@@ -42,74 +76,39 @@
     },
     {
       "item": {
+        "title": "Threads challenges X by offering free support for up to 10K characters, plus prominent links",
+        "link": "https://techcrunch.com/2025/09/04/3042352/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "d446b9ccd3143db0f0f04d625e7b76fac69bd502"
+      },
+      "review": {
+        "headline_rewrite": "Threads challenges X by offering free support for up to 10K characters, plus prominent links",
+        "bullets": [
+          "However, X in 2023 introduced a way for its paid subscribers to post up to 25,000 characters, in the hopes of encouraging creators to publish their content directly on its platform.",
+          "Seeing this trend, X tried to capitalize on the demand for a longer character count by making it a paid feature.",
+          "Threads, however, is making its additional characters available for free.",
+          "Tech and VC heavyweights join the Disrupt 2025 agenda\nNetflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda.",
+          "Netflix, ElevenLabs, Wayve, Sequoia Capital — just a few of the heavy hitters joining the Disrupt 2025 agenda."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
         "title": "Google Photos upgrades its image-to-video feature with Veo 3",
         "link": "https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/",
         "site_name": "TechCrunch",
-        "novelty_hash": "90e8f8212ae8d315966db70d0b545d13c4f2e818"
+        "novelty_hash": "405d6d3ba3b9b672885a01db104c8147f6b70ff3"
       },
       "review": {
         "headline_rewrite": "Google Photos upgrades its image-to-video feature with Veo 3",
         "bullets": [
-          "The new model, available on the mobile app’s “Create” tab, will allow users in the U.S.",
+          "The new model, available on the mobile app’s Create tab, will allow users in the U.S.",
           "The launch also represents how the company is working to bring its latest AI tech to consumers through its products — Google Photos, for instance, had over 1.5 billion monthly active users as of May 2025.",
           "Introduced in May at its I/O developer conference, Google brought Veo 3, which added image-to-video generation, to its Gemini app in July, making it available on its AI Ultra and AI Pro subscription plans.",
-          "On those plans, users could generate three videos per day, which would carry both visible and invisible watermarks to identify the videos as being AI-generated.",
+          "On those plans, users could generate three videos per day, which would carry both visible and invisible watermarks to identify the videos as being AI generated.",
           "With Veo 3, the feature will remain free with a limited number of generations available, says Google.",
           "AI Pro and AI Ultra subscribers will have access to more generations."
-        ],
-        "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet",
-        "link": "https://techcrunch.com/2025/09/04/jetblue-will-use-amazons-project-kuiper-satellites-for-free-in-flight-internet/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "8dd75ee57754387c5d499df32e11775e900d6d4e"
-      },
-      "review": {
-        "headline_rewrite": "JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet",
-        "bullets": [
-          "Many major airlines are beefing up their in-flight internet offerings by tapping SpaceX’s Starlink satellites, but JetBlue is going in a different direction.",
-          "Amazon and JetBlue announced Thursday a partnership under which the airline will instead use Amazon’s Project Kuiper satellites to provide free in-flight connectivity starting in 2027.",
-          "That’s more bandwidth than Starlink’s current max of 250 Mbps, although Amazon is only planning to build a network of 3,226 satellites, while SpaceX has launched more than 8,000.",
-          "While Amazon has previously claimed it is more focused on “unserved and underserved communities around the world,” that language has been removed from its website.",
-          "When the service goes live, JetBlue will be the first airline to use Kuiper satellites, which Amazon started launching to space in April.",
-          "Amazon also announced earlier this year that it was integrating its satellite internet tech with Airbus planes."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Jury orders Google to pay $425 million for violating user privacy",
-        "link": "https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking",
-        "site_name": "The Verge",
-        "novelty_hash": "4c0643009b5e06bd4e923dad87d8be8189357298"
-      },
-      "review": {
-        "headline_rewrite": "Jury orders Google to pay $425 million for violating user privacy",
-        "bullets": [
-          "The jury found Google liable for two of three claims brought by the class action lawsuit, including invasion of privacy and intrusion upon seclusion.",
-          "“This decision misunderstands how our products work,” Google spokesperson José Castañeda said in a statement to The Verge.",
-          "“Our privacy tools give people control over their data, and when they turn off personalization, we honor that choice.” Google argues that it treats data pseudonymously when users turn off the Web & App Activity setting, and claims that users “knew and consented” to this practice."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Honda combines Type-R handling with hybrid efficiency for 2026 Prelude",
-        "link": "https://arstechnica.com/cars/2025/09/honda-combines-type-r-handling-with-hybrid-efficiency-for-2026-prelude/",
-        "site_name": "Ars Technica",
-        "novelty_hash": "a1f396863297efe0386619ec3e3372d2854f05ef"
-      },
-      "review": {
-        "headline_rewrite": "Honda combines Type-R handling with hybrid efficiency for 2026 Prelude",
-        "bullets": [
-          "Although Honda has varied the ingredients over the years, the recipe for the Prelude remains the same: a sleek coupe body and some cutting-edge technology under the skin, like four-wheel steering, as rhapsodized by the verbose but usually insightful motoring writer LJK Setright.",
-          "Then again, I'm on record as adoring the shape of the current Prius—did you know its windshield is more steeply raked than a Lamborghini Huracan?",
-          "The proportions are low and wide, with some details that signal its sportiness and others that suggest a focus on reducing drag and maximizing efficiency."
         ],
         "impact": "Positive"
       }
