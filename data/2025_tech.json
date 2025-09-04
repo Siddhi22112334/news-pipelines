@@ -2,6 +2,65 @@
   "2025-09-04": [
     {
       "item": {
+        "title": "AI On: 6 Ways AI Agents Are Raising Team Performance — and How to Measure It",
+        "link": "https://blogs.nvidia.com/?p=84453",
+        "site_name": "NVIDIA Blog",
+        "novelty_hash": "00601286a08343d2ec8a575aea88fb87eb005684"
+      },
+      "review": {
+        "headline_rewrite": "AI On: 6 Ways AI Agents Are Raising Team Performance — and How to Measure It",
+        "bullets": [
+          "Editor’s note: This post is part of the AI On blog series, which explores the latest techniques and real-world applications of agentic AI, chatbots and copilots.",
+          "The series also highlights the NVIDIA software and hardware powering advanced AI agents, which form the foundation of AI query engines that gather insights and perform tasks to transform everyday experiences and reshape industries.",
+          "AI agents are expected to be involved in most business tasks within three years, with effective human-agent collaboration projected to increase human engagement in high-value tasks by 65%.",
+          "AI agents can help achieve and exceed efficiency goals as they learn, reason and adjust based on context and outcomes.",
+          "Here are six ways agentic AI boosts team performance — and practical tips for measuring its impact.",
+          "Accelerating Software Development With AI Agents\nAI agents can act as intelligent copilots, helping automate code generation, testing and deployment."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Microsoft is about to shake up its Copilot pricing for businesses",
+        "link": "https://www.theverge.com/notepad-microsoft-newsletter/771199/microsoft-365-copilot-changes-agents-pricing-notepad",
+        "site_name": "The Verge",
+        "novelty_hash": "237326d252d49c867d51ce9395d3a78cd223fb01"
+      },
+      "review": {
+        "headline_rewrite": "Microsoft is about to shake up its Copilot pricing for businesses",
+        "bullets": [
+          "It’s no secret that Microsoft has been struggling to sell its Copilot AI assistant to businesses.",
+          "The steep pricing has put many businesses off paying extra for Microsoft’s AI services, especially when OpenAI’s ChatGPT has been gaining traction in the all-important enterprise market.",
+          "Sources familiar with Microsoft’s AI plans tell me that the company is about to ax this standalone $20 add-on and bundle Copilot for Sales, Service, and Finance into the main Microsoft 365 Copilot subscription.",
+          "This move will take the price of most of Microsoft’s top AI tools down to $30 per user per month, instead of the $50 per user per month businesses have to pay for Microsoft 365 Copilot and Copilot for Sales, Service, and Finance together — essentially giving away the add-on.",
+          "This monetization strategy change is part of a broader AI shakeup across the Microsoft 365 Copilot team and the Business and Industry Copilot (BIC) teams.",
+          "This week, Lamanna announced internally that Microsoft’s Copilot, Agents, and Platform Ecosystem (CAPE) team is also joining BIC, as part of an effort to “bring more business value into the broader M365 agent platform.”\nMicrosoft is increasingly stepping up its focus on AI agents, much like the rest of the tech industry."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Google Photos upgrades its image-to-video feature with Veo 3",
+        "link": "https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "d8207f845ee9e6d3ffe7d6e39164ff2dcd330544"
+      },
+      "review": {
+        "headline_rewrite": "Google Photos upgrades its image-to-video feature with Veo 3",
+        "bullets": [
+          "The new model, available on the mobile app’s “Create” tab, will allow users in the U.S.",
+          "The launch also represents how the company is working to bring its latest AI tech to consumers through its products — Google Photos, for instance, had over 1.5 billion monthly active users as of May 2025.",
+          "Introduced in May at its I/O developer conference, Google brought Veo 3, which added image-to-video generation, to its Gemini app in July, making it available on its AI Ultra and AI Pro subscription plans.",
+          "On those plans, users could generate three videos per day, which would carry both visible and invisible watermarks to identify the videos as being AI-generated.",
+          "The new photo-to-video feature is available within the Create hub, a new section in the Google Photos app where users can explore creative tools and features powered by AI."
+        ],
+        "impact": "Positive"
+      }
+    },
+    {
+      "item": {
         "title": "JetBlue will use Amazon’s Project Kuiper satellites for free in-flight internet",
         "link": "https://techcrunch.com/2025/09/04/jetblue-will-use-amazons-project-kuiper-satellites-for-free-in-flight-internet/",
         "site_name": "TechCrunch",
@@ -18,22 +77,6 @@
           "Amazon also announced earlier this year that it was integrating its satellite internet tech with Airbus planes."
         ],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Mark Zuckerberg encouraged execs to do MMA training with him",
-        "link": "https://techcrunch.com/2025/09/04/mark-zuckerberg-encouraged-execs-to-do-mma-training-with-him/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "4bcb6b255788d396a5dd8e63239af48db5b98a9b"
-      },
-      "review": {
-        "headline_rewrite": "Mark Zuckerberg encouraged execs to do MMA training with him",
-        "bullets": [
-          "Mark Zuckerberg is so dedicated to his mixed martial arts (MMA) training that he invited his senior executives to join him for workout sessions.",
-          "Meta’s former president of global affairs shares the story in what Fast Company unfavorably describes as a book with “thin prose,” save for some “surprising anecdotes,” such as this tale of Clegg sparring with his deputy Joel Kaplan."
-        ],
-        "impact": "Neutral"
       }
     },
     {
@@ -55,62 +98,19 @@
     },
     {
       "item": {
-        "title": "Six years after launch, Apple Arcade is striving for a bigger audience",
-        "link": "https://www.theverge.com/games/770599/apple-arcade-interview-alex-rothman",
-        "site_name": "The Verge",
-        "novelty_hash": "1ea79fc578521d05ee022fcec803d261bfc02b75"
+        "title": "Honda combines Type-R handling with hybrid efficiency for 2026 Prelude",
+        "link": "https://arstechnica.com/cars/2025/09/honda-combines-type-r-handling-with-hybrid-efficiency-for-2026-prelude/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "a1f396863297efe0386619ec3e3372d2854f05ef"
       },
       "review": {
-        "headline_rewrite": "Six years after launch, Apple Arcade is striving for a bigger audience",
+        "headline_rewrite": "Honda combines Type-R handling with hybrid efficiency for 2026 Prelude",
         "bullets": [
-          "In 2019, Apple Arcade launched with roughly 70 premium mobile games that had no ads, no in-app purchases, and no sex or violence.",
-          "Some of the games in the initial launch period, like What the Golf?, were praised for their innovation and depth beyond what’s typically expected of mobile games.",
-          "In the six years since, Apple Arcade has grown its game offerings, and while it maintains its credo of family-friendly content, its library no longer garners the same critical praise.",
-          "Six years after launch, Apple Arcade is striving for a bigger audience\nApple has shifted focus from premium mobile titles but says it hasn’t abandoned them completely.",
-          "“Apple has a very large customer base,” said Rothman.",
-          "“There’s no narrow lane that we can operate in and satisfy the broad base of Apple users.” That broad base has led to a multifaceted strategy of game acquisitions for the service."
+          "Although Honda has varied the ingredients over the years, the recipe for the Prelude remains the same: a sleek coupe body and some cutting-edge technology under the skin, like four-wheel steering, as rhapsodized by the verbose but usually insightful motoring writer LJK Setright.",
+          "Then again, I'm on record as adoring the shape of the current Prius—did you know its windshield is more steeply raked than a Lamborghini Huracan?",
+          "The proportions are low and wide, with some details that signal its sportiness and others that suggest a focus on reducing drag and maximizing efficiency."
         ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "The Unexpected Winners of Trump’s Trade War",
-        "link": "https://www.wired.com/story/shein-temu-winners-trade-war-trump/",
-        "site_name": "WIRED",
-        "novelty_hash": "7a528a39430e0f500cef3f9d1b2481611f8f518e"
-      },
-      "review": {
-        "headline_rewrite": "The Unexpected Winners of Trump’s Trade War",
-        "bullets": [
-          "Known as the de minimis exemption, the policy had allowed shipments under a certain value threshold—$800 in recent years—to clear customs without paying any duties.",
-          "Policymakers have been debating changing de minimis for years, but when it finally happened, the move still sent shock waves through the global ecommerce and shipping industries.",
-          "This is my second time shopping from the same indie seller, so I knew they were based in Ukraine.",
-          "Denys, the shop owner, explains that my order got caught in a bureaucratic vortex after it was shipped in the days leading up to the end of de minimis, when customs agencies had not yet established clear new procedures for tracking small packages and applying tariffs to them.",
-          "“Based on what we see, customs may take another week or two to fully adapt,” Denys said on Tuesday.",
-          "They’re just 10 percent for goods from Ukraine, and Denys says he’s willing to cover the added costs himself because he wants international customers to remain happy “with Ukrainian brands in general.”\nUnexpected Winners\nSeema Shah, vice president of research and insights at Sensor Tower, a market intelligence firm, says that Temu and Shein slashed their US advertising spending by 87 percent and 27 percent, respectively, in the second quarter of 2025 (when the new tariffs went into effect) compared to the first quarter of the year."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Should the Company Trucks Go Electric? Depends on When You Charge",
-        "link": "https://www.wired.com/story/managed-charging-evs-ford-southern-company/",
-        "site_name": "WIRED",
-        "novelty_hash": "bb617c44889974be4a21ada8ee508068a3e57822"
-      },
-      "review": {
-        "headline_rewrite": "Should the Company Trucks Go Electric? Depends on When You Charge",
-        "bullets": [
-          "Eighty-seven percent of fleet operators polled by Cox Automotive last year said they were expecting to bring aboard some battery-powered vehicles in the next five years.",
-          "For six months this year, Ford and an Atlanta-based utility called Southern Company experimented with custom software that could help alleviate these growing pains.",
-          "Company EVs can cost less to own, operate, and maintain, especially as gas prices creep upwards.",
-          "The company aims to electrify its entire fleet by 2030.",
-          "Southern Company is particularly aware of that last point: With the AI boom, data centers are flooding into the US southeast.",
-          "“We’re trying to figure out how we can save every kilowatt-hour that is out there to be saved, because we’ll have a more constrained system in the future,” says Lea Clanton, who directs business development and innovation for Southern Company New Ventures."
-        ],
-        "impact": "Negative"
+        "impact": "Positive"
       }
     }
   ]
