@@ -5,7 +5,7 @@
         "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
         "link": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
         "site_name": "NVIDIA Blog",
-        "novelty_hash": "3dc71759ccf884442fc8a26eebefd50bc3466633"
+        "novelty_hash": "1f7cd77501690f1f6676a2f2c0514f4877632d6c"
       },
       "review": {
         "headline_rewrite": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
@@ -15,7 +15,7 @@
           "“As the world’s most advanced and versatile exascale system, it represents a unique innovation, opening up completely new possibilities for science and industry in Europe.”\n“With JUPITER, Europe gains its most advanced AI supercomputer, built for large-scale simulation and AI, powered by NVIDIA Grace Hopper Superchips and Quantum-2 InfiniBand,” said Jensen Huang, founder and CEO of NVIDIA.",
           "“JUPITER fuses high-performance computing and AI into a single architecture.",
           "A platform for next-generation scientific computing, it will accelerate breakthroughs across every domain — from modeling climate and renewable energy to advancing quantum research, designing new materials and building digital twins.”\nJUPITER’s ribbon-cutting ceremony was attended by a slew of Europe’s AI and industry leaders and Germany Chancellor Friedrich Merz, who highlighted how the supercomputer is driving national advancement and industrial innovation.",
-          "“Jupiter is the first European supercomputer, and the first outside the U.S., to have reached this level,” Merz said."
+          "JUPITER, which stands for “Joint Undertaking Pioneer for Innovative and Transformative Exascale Research,” gives European startups, enterprises and researchers a massive leap in computing power so they can quickly, efficiently create breakthroughs in:\nFor example, Max Planck Institute for Meteorology is using JUPITER to simulate climate predictions with a spatial resolution of about 1 kilometer, depicting extreme weather events such as violent thunderstorms and heavy rainfall much more realistically than before."
         ],
         "impact": "Negative"
       }
@@ -25,7 +25,7 @@
         "title": "Apple iPhone 17 launch event: What to expect",
         "link": "https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect",
         "site_name": "The Verge",
-        "novelty_hash": "199936a2eaaa5cc4cd71a7ff6ab86eefc9789f0c"
+        "novelty_hash": "99a775de38eefa8f60b3c7e766815883d294202f"
       },
       "review": {
         "headline_rewrite": "Apple iPhone 17 launch event: What to expect",
@@ -42,78 +42,80 @@
     },
     {
       "item": {
-        "title": "OpenAI could launch its own AI chip next year",
-        "link": "https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom",
-        "site_name": "The Verge",
-        "novelty_hash": "e66e42fe00817bebab4c15969fa0b275a8ad7ec7"
+        "title": "OpenAI links up with Broadcom to produce its own AI chips",
+        "link": "https://www.ft.com/content/e8cc6d99-d06e-4e9b-a54f-29317fa68d6f",
+        "site_name": "Ars Technica",
+        "novelty_hash": "f49613cafeefa0f5315d7396335505f9add6b22d"
       },
       "review": {
-        "headline_rewrite": "OpenAI could launch its own AI chip next year",
+        "headline_rewrite": "OpenAI links up with Broadcom to produce its own AI chips",
         "bullets": [
-          "OpenAI is on track to start mass production of its own in-house artificial intelligence chips for the first time next year, according to a report from the Financial Times.",
-          "OpenAI could launch its own AI chip next year\nThe ChatGPT maker is partnering with Broadcom on a custom chip to use in-house.",
-          "Unnamed sources tell the outlet that OpenAI designed the chip with US semiconductor giant Broadcom, which announced a $10 billion chip order from an unnamed customer on Thursday.",
-          "Industry analysts widely believe that new client is OpenAI, a partnership that has been something of an open secret for months.",
-          "OpenAI will deploy the custom chips internally, rather than sell them to external customers, the report says.",
-          "The move mirrors the approach of other tech giants like Google and Amazon, which have designed custom chips to cut costs, shore up supply and reduce their dependence on chipmaking giant Nvidia."
-        ],
-        "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "Today is your last chance to exhibit your brand in front of 10K tech leaders at TechCrunch Disrupt 2025",
-        "link": "https://techcrunch.com/2025/09/05/today-is-your-last-chance-to-exhibit-your-brand-in-front-of-10k-tech-leaders-at-techcrunch-disrupt-2025/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "25fe1e47ffcb505c163935ba16f5e88ad123bb8d"
-      },
-      "review": {
-        "headline_rewrite": "Today is your last chance to exhibit your brand in front of 10K tech leaders at TechCrunch Disrupt 2025",
-        "bullets": [
-          "If you’re a founder who planned to wait until the last minute … this is it.",
-          "- Your dedicated space: A 6’ x 30” table with linen and chairs included."
+          "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia.",
+          "The chip, co-designed with US semiconductor giant Broadcom, would ship next year, according to multiple people familiar with the partnership.",
+          "OpenAI’s move follows the strategy of tech giants such as Google, Amazon and Meta, which have designed their own specialised chips to run AI workloads.",
+          "The industry has seen huge demand for the computing power to train and run AI models.",
+          "OpenAI planned to put the chip to use internally, according to one person close to the project, rather than make them available to external customers.",
+          "Last year it began an initial collaboration with Broadcom, according to reports at the time, but the timeline for mass production of a successful chip design had previously been unclear."
         ],
         "impact": "Neutral"
       }
     },
     {
       "item": {
-        "title": "The best new computers to replace your old Windows 10 PC",
-        "link": "https://www.engadget.com/computing/the-best-new-computers-to-replace-your-old-windows-10-pc-134500000.html",
-        "site_name": "Engadget",
-        "novelty_hash": "68a1135eedb5b936772c5f265a44ee8cb6f0bb67"
+        "title": "Tesla shareholders to vote on investing in Musk’s AI startup xAI",
+        "link": "https://techcrunch.com/2025/09/05/tesla-shareholders-to-vote-on-investing-in-musks-ai-startup-xai/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "1217319a4e00d2e111f71e1299a2e1df0446e10a"
       },
       "review": {
-        "headline_rewrite": "The best new computers to replace your old Windows 10 PC",
+        "headline_rewrite": "Tesla shareholders to vote on investing in Musk’s AI startup xAI",
         "bullets": [
-          "Read more about how we evaluate products.",
-          "Sure, you can kick the can down the road by signing up for the free 12-month Extended Security Updates.",
-          "But even if your computer meets the minimum system requirements for a free Windows 11 upgrade, anything older than a year won't be able to take advantage of Microsoft's Copilot+ AI PC features, like Windows Recall or Studio Effects for video chats.",
-          "It's incredibly light, surprisingly powerful for something with a mobile chip and its battery lasted over 17-and-a-half hours in our testing.",
-          "The S14 is also lighter than the MacBook Air, and it includes more useful ports (two USB-C, one USB-A, HDMI and a headphone jack).",
-          "(Check out our full review of the ASUS ZenBook S 14.)\nApple MacBook Air\nDon't yell at me — Apple's new computers are so good that Windows users should seriously consider jumping ship to Macs."
+          "Tesla shareholders will soon vote whether to let the electric vehicle maker invest in Elon Musk’s AI startup xAI, a proposal pitched as a way to strengthen Tesla’s ambitions in AI, robotics, and energy.",
+          "Listed in Tesla’s proxy statement alongside a company-backed push to raise Musk’s 10-year pay package to $1 trillion, the proposal comes from Stephen Hawk, a Florida shareholder with a $2,000 stake of common stock.",
+          "His supporting statement reads:\nTesla’s integration of Grok into its vehicles demonstrates the tangible benefits of collaboration with xAI.",
+          "As Tesla pivots toward AI-driven technologies, including Full Self-Driving and robotics, a strategic investment in xAI would secure access to advanced AI capabilities, enhance product innovation, and drive shareholder value.",
+          "The board, which often suggests investors vote against shareholder proposals, is neutral on this one.",
+          "If Tesla does end up investing in xAI, it would be the second of Musk’s companies to do so."
         ],
         "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "7 Best Password Managers (2025), Tested and Reviewed",
-        "link": "https://www.wired.com/story/best-password-managers/",
-        "site_name": "WIRED",
-        "novelty_hash": "8513b7fde527752d5f9c8e253547a53df4c633b9"
+        "title": "What would actually make the Apple Watch better?",
+        "link": "https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables",
+        "site_name": "The Verge",
+        "novelty_hash": "3a296ae66212fd82475911ec0cc6fe513f2f5419"
       },
       "review": {
-        "headline_rewrite": "7 Best Password Managers (2025), Tested and Reviewed",
+        "headline_rewrite": "What would actually make the Apple Watch better?",
         "bullets": [
-          "Featured in this article\nRead our guide to VPN providers for more ideas on how you can upgrade your security, as well as our guide to backing up your data to make sure you don’t lose anything if the unexpected happens.",
-          "WIRED readers have also asked about Apple’s password manager, which syncs through iCloud and has some nice integrations with the Safari web browser—even a dedicated app.",
-          "The main problem is that if you have any non-Apple devices, you won’t be able to sync your passwords to them.",
-          "Passwords are a pain—you’ll get no argument here—but we don’t see them going away in the foreseeable future.",
-          "The latest effort to eliminate the password comes from the FIDO Alliance, an industry group aimed at standardizing authentication methods online.",
-          "They’re easy to create—you don’t need to do anything, your device handles the details."
+          "It said Apple Watch shipments fell by 19 percent year over year, marking five straight quarters of declines due to decreased consumer demand, fewer models to choose from, and fewer substantial upgrades.",
+          "The obvious answer after Galaxy Unpacked and Made by Google would be to stuff AI into the watch.",
+          "There’s documented evidence that, while Apple toyed with this idea in the past, it ultimately decided against it, as it helps keep people locked to the iPhone.",
+          "Together, they paint a clear picture that Google believes the future of wearable technology lies in AI hardware.",
+          "Apple doesn’t need to go the AI hardware route (though I’m sure its investors are pushing for that).",
+          "If the present is blah, then having faith that a better future is in the works makes the wait feel worthwhile."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "The blueprint for lasting companies and communities with Discord’s Jason Citron and Campuswire’s Tade Oyerinde at TechCrunch Disrupt 2025",
+        "link": "https://techcrunch.com/2025/09/05/creating-communities-and-companies-that-last-with-discords-founder-jason-citron-and-campuswires-tade-oyerinde-only-at-techcrunch-disrupt-2025/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "d9222065bbd5dd3300709db20361e16a77f21fc6"
+      },
+      "review": {
+        "headline_rewrite": "The blueprint for lasting companies and communities with Discord’s Jason Citron and Campuswire’s Tade Oyerinde at TechCrunch Disrupt 2025",
+        "bullets": [
+          "When you design for people instead of institutions, you don’t just build a product.",
+          "Since then, Discord has grown into a global platform with hundreds of millions of users, reshaping how people connect and communicate online.",
+          "Learn why community-driven companies scale faster and endure longer\nIn a noisy and fast-moving market, companies that prioritize community gain staying power.",
+          "Whether you’re a startup founder, product designer, or investor, this session will deliver insight into how to build loyalty, scale intentionally, and keep people at the heart of every business decision."
+        ],
+        "impact": "Positive"
       }
     }
   ]
