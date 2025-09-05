@@ -5,7 +5,7 @@
         "title": "Bret Taylor’s Sierra raises $350M at a $10B valuation",
         "link": "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/",
         "site_name": "TechCrunch",
-        "novelty_hash": "07ebffdaee0c809cdca9e675ae36f916fe4a48a4"
+        "novelty_hash": "c29b98f69b0c48b514cb69ac6a4127c0ecb9832e"
       },
       "review": {
         "headline_rewrite": "Bret Taylor’s Sierra raises $350M at a $10B valuation",
@@ -14,7 +14,7 @@
           "Sierra, which helps enterprises build customer service AI agents, announced it raised a $350 million funding round on Thursday.",
           "The round, led by earlier investor Greenoaks Capital, values the startup at $10 billion, according to a company blog post that confirmed an earlier report from Axios on Wednesday.",
           "The company claims to have landed hundreds of customers, including SoFi, Ramp, and Brex, among others, in its 18 months of operation.",
-          "Sierra has now raised $635 million altogether, including a $110 million that closed in February of last year led by Sequoia and Benchmark, and a $175 million round that closed in October of last year led by Greenoaks.",
+          "Sierra has now raised $635 million altogether, including $110 million that closed in February of last year led by Sequoia and Benchmark, and a $175 million round that closed in October of last year led by Greenoaks.",
           "Others of its investors include ICONIQ and Thrive Capital."
         ],
         "impact": "Negative"
@@ -22,56 +22,39 @@
     },
     {
       "item": {
-        "title": "Rivian makes its second small workforce cut of the year ahead of R2 SUV launch",
-        "link": "https://techcrunch.com/2025/09/04/rivian-makes-its-second-small-workforce-cut-of-the-year-ahead-of-r2-suv-launch/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "09d8753f20355b5464eaea169e95e280b9cc6485"
-      },
-      "review": {
-        "headline_rewrite": "Rivian makes its second small workforce cut of the year ahead of R2 SUV launch",
-        "bullets": [
-          "Rivian is laying off around 150 workers — its second small staff cut in a matter of months — as the company readies itself for the all-important launch of its more-affordable R2 SUV next year.",
-          "It laid off around 10% of its staff in early 2024 and made another small cut in April 2024."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Warner Bros. Discovery sues Midjourney for generating &#8216;countless&#8217; copies of its characters",
-        "link": "https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit",
+        "title": "The best iPad deals you can get right now",
+        "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
         "site_name": "The Verge",
-        "novelty_hash": "43b6fe32411954a913cf493a8222fa2c23b06add"
+        "novelty_hash": "97685fcada4b82eed16d46ad720e73a427971b83"
       },
       "review": {
-        "headline_rewrite": "Warner Bros. Discovery sues Midjourney for generating &#8216;countless&#8217; copies of its characters",
+        "headline_rewrite": "The best iPad deals you can get right now",
         "bullets": [
-          "Discovery is suing Midjourney over claims the AI startup “brazenly dispenses its intellectual property as if it were its own,” as reported earlier by The Hollywood Reporter.",
-          "Discovery accuses Midjourney of reproducing, displaying, and distributing “unauthorized derivatives” of its intellectual property through its AI image and video generation tools.",
-          "Discovery shares several examples of how Midjourney’s AI tools seem to have generated images of copyrighted characters, like Wonder Woman, Tweety, the Power Puff Girls, and even Rick and Morty in response to prompts asking to see the characters in certain situations.",
-          "Discover claims that Midjourney will generate infringing images even if prompts don’t mention a specific character.",
-          "For instance, Midjourney allegedly generated downloadable images of Superman, Batman, and Flash after receiving the prompt, “classic comic book superhero battle.” Midjourney is facing a similar copyright lawsuit from Disney and Universal, which called the company’s AI image generator a “virtual vending machine” that generates “endless authorized copies” of their work.",
-          "Discovery claims Midjourney is aware of the “breathtaking scope of its piracy and copyright infringement” but refuses to protect copyright holders."
+          "While the best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day, many great iPad deals are available outside of those times.",
+          "The most recent iPad Pro and iPad Mini are also regularly discounted, as is the latest iPad Air.",
+          "It’s difficult to know where exactly you can find the most notable iPad deals unless you’re scouring the major retailers on a daily basis.",
+          "Below, we’ve listed the best deals you can get on each iPad model that is available, from the 11th-gen base iPad to the more powerful models with M3 and M4 chips, all of which are set to receive Apple’s iPadOS 26 update when it arrives in the fall.",
+          "The newest base model tablet is a fairly iterative update of the prior model, but with 128GB of base storage (as opposed to 64GB) and the A16 Bionic chip, which is nearly 30 percent faster than the A14 chip used in the 10th-gen iPad.",
+          "That being said, the newer chip doesn’t support the various Apple Intelligence features introduced in iPadOS 18.1 and subsequent updates."
         ],
         "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest.",
-        "link": "https://arstechnica.com/information-technology/2025/09/the-number-of-mis-issued-1-1-1-1-certificates-grows-heres-the-latest/",
+        "title": "RFK Jr. says COVID shots still available to all as cancer patients denied access",
+        "link": "https://arstechnica.com/health/2025/09/a-charlatan-chaos-and-lies-anti-vaccine-activist-rfk-jr-faces-senate/",
         "site_name": "Ars Technica",
-        "novelty_hash": "607fa5b549b0fcd76719bde429bb97573a3486ff"
+        "novelty_hash": "4f6e2f25c571e3ee9716d5bcaf087626c7563ddc"
       },
       "review": {
-        "headline_rewrite": "The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest.",
+        "headline_rewrite": "RFK Jr. says COVID shots still available to all as cancer patients denied access",
         "bullets": [
-          "Wednesday’s discovery of three mis-issued TLS certificates for Cloudflare’s 1.1.1.1 encrypted DNS lookup service generated intense interest and concern among Internet security practitioners.",
-          "The revelation raised the possibility that an unknown entity had obtained the cryptographic equivalent of a skeleton key that could be used to surreptitiously decrypt millions of users’ DNS queries that were encrypted through DNS over TLS or DNS over HTTPS.",
-          "Since then, new information and analysis have become available, including the issuance of nine additional certificates since February 2024.",
-          "This FAQ list is designed to answer questions raised in comments to the story and to provide the latest on what’s known about the incident, which Cloudflare said Thursday constituted an “unacceptable lapse in security by Fina CA,\" the Microsoft-trusted certificate authority (CA) responsible for all 12 of the mis-issued certificates.",
-          "Yes, multiple details.",
-          "First, Cloudflare said that an audit it conducted following the discovery found that Fina CA mis-issued a total of 12 certificates, nine more than previously known."
+          "Today, he repeatedly called her a liar and made the extraordinary claim that she openly confessed to him that she cannot be trusted.",
+          "Kennedy went on to reiterate the dangerous claim that the CDC is corrupt.",
+          "He gave the tired refrain that all the medical, pediatrics, infectious disease, and public health experts who disagree with his views and support existing vaccines do so simply because they have been bought off by the pharmaceutical industry.",
+          "He repeatedly falsely claimed that his actions as secretary have not restricted access to COVID-19 vaccines, despite the fact that he directly restricted access to COVID-19 vaccines.",
+          "Just yesterday, news broke that Kennedy is working to install seven new people to the CDC's vaccine advisory committee, many of whom are also against vaccines."
         ],
         "impact": "Neutral"
       }
@@ -98,22 +81,33 @@
     },
     {
       "item": {
-        "title": "Civilization developer Firaxis is laying off staff",
-        "link": "https://www.engadget.com/gaming/civilization-developer-firaxis-is-laying-off-staff-221105604.html",
+        "title": "21 years later, Meta still hasn't given up on the Facebook 'poke'",
+        "link": "https://www.engadget.com/social-media/21-years-later-meta-still-hasnt-given-up-on-the-facebook-poke-000446458.html",
         "site_name": "Engadget",
-        "novelty_hash": "3762c0e15c61d71c150e75645f286fae56c9c178"
+        "novelty_hash": "fd4885586c7476eed3282c0b27b5bd3b70d2beb1"
       },
       "review": {
-        "headline_rewrite": "Civilization developer Firaxis is laying off staff",
+        "headline_rewrite": "21 years later, Meta still hasn't given up on the Facebook 'poke'",
         "bullets": [
-          "The studio's publisher and owner 2K confirmed that the layoffs were happening as Firaxis \"restructures and optimizes\" for \"adaptability, collaboration, and creativity.\" The layoffs follow turmoil at another 2K studio, Cloud Chamber, which is supposed to be developing the next Bioshock game.",
-          "Since the restructuring has yet to be publicly disclosed, it's hard to say with absolute certainty how many people have been impacted.",
-          "Some former staff who worked on Civilization VII and Marvel's Midnight Sons have already shared that they were laid off social media.",
-          "Game Developer's source claims \"dozens of workers\" were caught up in the cuts.",
-          "Engadget has contacted 2K for details about the layoffs and will update this article if we hear back.",
-          "A game could be a failure or a success, but either way it seems to lead to layoffs."
+          "The company has pivoted from social networking to the metaverse and, most recently, to AI.",
+          "I'm talking, of course, about the poke, which Meta is once again trying to revive.",
+          "Meta said last year the feature was \"having a moment\" and that there had been a 13x spike in pokes after the company began surfacing the feature in the Facebook search bar.",
+          "Mark Zuckerberg said earlier this year he wants to bring back more \"OG\" Facebook features like… being able to find content posted by your actual friends."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Trump administration unlawfully cut Harvard's funding, US judge rules",
+        "link": "https://news.google.com/read/CBMisgFBVV95cUxPUE1tcDBtcUwxRlZFU21fLTl4VnBQSWlqYXdmTk54VTJEMEJiUzB0VWV1UE43T0ltZlg3N0RYRGN3R19nTzV5RF9jWk9jNTRCY1BhOFBwX0JOZWFQRWRFTmdLbVJuay1YM0I2MVpEd2tydk82bkV0eVE3Mk0zTHRIemZTYVJXc0x0aEJkWmFpdU5tckNZY0lheDVGRmlHUXFVWFlXUmV4UmhMRG5WVHduUTVB",
+        "site_name": "Google News",
+        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      },
+      "review": {
+        "headline_rewrite": "Trump administration unlawfully cut Harvard's funding, US judge rules",
+        "bullets": [],
+        "impact": "Neutral"
       }
     }
   ]
