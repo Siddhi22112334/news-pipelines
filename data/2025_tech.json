@@ -2,22 +2,42 @@
   "2025-09-05": [
     {
       "item": {
-        "title": "Microsoft 365 Personal is now free for US college students for a year",
-        "link": "https://www.theverge.com/news/772385/microsoft-365-personal-free-us-college-students",
+        "title": "OpenAI could launch its own AI chip next year",
+        "link": "https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom",
         "site_name": "The Verge",
-        "novelty_hash": "25e43d47c53a694d94133a64e05cf92aef523699"
+        "novelty_hash": "e66e42fe00817bebab4c15969fa0b275a8ad7ec7"
       },
       "review": {
-        "headline_rewrite": "Microsoft 365 Personal is now free for US college students for a year",
+        "headline_rewrite": "OpenAI could launch its own AI chip next year",
         "bullets": [
-          "This subscription gives students free access to Microsoft’s Office apps and the Copilot AI assistant integration for a year, after which the students are eligible for a 50 percent discount to continue the subscription.",
-          "While most students have access to education versions of Microsoft 365 or Google Workspace, Microsoft’s offer is for student’s own personal Microsoft accounts, and is available to claim until October 31st.",
-          "Microsoft 365 Personal is usually $99.99 a year, or $9.99 a month, and includes 1TB of OneDrive cloud storage.",
-          "Microsoft CEO Satya Nadella revealed the free offer as part of the White House’s AI Education Task Force meeting yesterday, and announced other commitments to meet the Presidential AI Challenge and the AI Education Executive Order.",
-          "Microsoft is funding $1.25 million in educator grants, offering free LinkedIn AI courses for job seekers, students, and teachers, and expanding access to its AI tools in schools.",
-          "Most Popular\n- The Browser Company, maker of Arc and Dia, is being acquired\n- Microsoft is about to shake up its Copilot pricing for businesses\n- How Wikipedia survives while the rest of the internet breaks\n- Philips Hue lights get bigger, brighter, and cheaper with a major product refresh\n- Here is Lego’s $1,000 Death Star, the most expensive Lego set ever"
+          "OpenAI is on track to start mass production of its own in-house artificial intelligence chips for the first time next year, according to a report from the Financial Times.",
+          "OpenAI could launch its own AI chip next year\nThe ChatGPT maker is partnering with Broadcom on a custom chip to use in-house.",
+          "Unnamed sources tell the outlet that OpenAI designed the chip with US semiconductor giant Broadcom, which announced a $10 billion chip order from an unnamed customer on Thursday.",
+          "Industry analysts widely believe that new client is OpenAI, a partnership that has been something of an open secret for months.",
+          "OpenAI will deploy the custom chips internally, rather than sell them to external customers, the report says.",
+          "The move mirrors the approach of other tech giants like Google and Amazon, which have designed custom chips to cut costs, shore up supply and reduce their dependence on chipmaking giant Nvidia."
         ],
-        "impact": "Neutral"
+        "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "Snapchat’s new Lens lets you create AI images using text prompts",
+        "link": "https://techcrunch.com/2025/09/05/snapchats-new-lens-lets-you-create-ai-images-using-text-prompts/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "1cf053277aa617c7649e2be9f63dfe6f26393ba1"
+      },
+      "review": {
+        "headline_rewrite": "Snapchat’s new Lens lets you create AI images using text prompts",
+        "bullets": [
+          "Snapchat is launching a new Lens that lets users create and edit images using a text-to-image AI generator, the company told TechCrunch exclusively.",
+          "The new “Imagine Lens” is available to Snapchat+ Platinum and Lens+ subscribers.",
+          "While Snapchat already has numerous generative AI Lenses, the company notes that Imagine Lens is its first open prompt image generation Lens.",
+          "Earlier this year, Snap unveiled an AI text-to-image research model for mobile devices that it said would power some of Snapchat’s features in the future.",
+          "While Snap didn’t confirm whether this model powers the new Lens, it did note that its Lenses are built using a combination of both in-house models and industry leading AI models.",
+          "Tech and VC heavyweights join the Disrupt 2025 agenda\nNetflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda."
+        ],
+        "impact": "Negative"
       }
     },
     {
@@ -39,76 +59,62 @@
     },
     {
       "item": {
-        "title": "Circle to Search adds continuous translation",
-        "link": "https://www.theverge.com/news/772396/circle-to-search-scroll-translate-continuous-google-android",
+        "title": "The iPhone 17 case makers are ready for Tuesday",
+        "link": "https://www.theverge.com/news/772412/apple-iphone-17-case-dummy-phones-ifa-2025",
         "site_name": "The Verge",
-        "novelty_hash": "c4d4abd5989f673651aa3a91b974ecfa6e6a2311"
+        "novelty_hash": "4dce77303ccf532167e648d57d49f0453fd49a5c"
       },
       "review": {
-        "headline_rewrite": "Circle to Search adds continuous translation",
+        "headline_rewrite": "The iPhone 17 case makers are ready for Tuesday",
         "bullets": [
-          "Most Popular\n- The Browser Company, maker of Arc and Dia, is being acquired\n- Microsoft is about to shake up its Copilot pricing for businesses\n- How Wikipedia survives while the rest of the internet breaks\n- Philips Hue lights get bigger, brighter, and cheaper with a major product refresh\n- Here is Lego’s $1,000 Death Star, the most expensive Lego set ever"
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings",
-        "link": "https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/",
-        "site_name": "WIRED",
-        "novelty_hash": "3f2e8f569cc3ff134395415f5c724acef858e979"
-      },
-      "review": {
-        "headline_rewrite": "‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings",
-        "bullets": [
-          "In 2016, the Louvre’s curators rushed to relocate priceless artworks after the Seine, which flows through Paris, breached its banks in a flood.",
-          "It happened again, for example, in 2018.",
-          "For the fickle river helps the museum maintain cool temperatures and humidity levels conducive to the long-term preservation of centuries-old art.",
-          "An average-size office building draws about half a megawatt of cooling power, whereas the Louvre soaks up 12 megawatts, Nayral explains.",
-          "Water is 800 times denser than air, so using it to soak up heat can be extremely efficient.",
-          "Plus, unlike traditional air conditioners, water-based cooling avoids dumping heat into the air directly outside a building, which heightens the temperature of built-up areas relative to their surroundings, known as the urban heat island effect."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "The Morning After: reMarkable’s new e-ink device is the size of a notepad",
-        "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111553035.html",
-        "site_name": "Engadget",
-        "novelty_hash": "d5998b6760eff4e3e83c6c9459dc3d3f2d5c68a7"
-      },
-      "review": {
-        "headline_rewrite": "The Morning After: reMarkable’s new e-ink device is the size of a notepad",
-        "bullets": [
-          "The Paper Pro Move is available to order today, priced at $449 with a stylus included.",
-          "Content Intelligence uses AI to automatically adapt your TV to what you’re watching.",
-          "Hollow Knight: Silksong is out (still looking for the third Mossberry here…) and Instagram developers, for some reason, decided September 2025 is the time to finally launch a dedicated iPad app.",
-          "What makes it extra baffling is that Instagram head Adam Mosseri said the iPad platform wasn’t big enough to warrant fast-tracking an app.",
-          "He said that in 2023."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Technology Sep 5, 2025 Google Cloud expands partnership with Revolut to support global growth Revolut and Google have deepened their partnership with a multi-year, multi-million dollar agreement. Revolut will leverage Google Cloud's infrastructure and AI tools, including Gemini models, to enhance its global systems, personalize services, and improve fraud detection. This collaboration supports Revolut's ambitious expansion plans and its goal of reaching 100 million users, solidifying Google's role in the future of finance.",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-cloud-expands-partnership-with-revolut-to-support-global-growth/articleshow/123718574.cms",
-        "site_name": "The Times of India",
-        "novelty_hash": "5325b24ff6f73b8118611c5bf348a19023f1fe0f"
-      },
-      "review": {
-        "headline_rewrite": "Technology Sep 5, 2025 Google Cloud expands partnership with Revolut to support global growth Revolut and Google have deepened their partnership with a multi-year, multi-million dollar agreement. Revolut will leverage Google Cloud's infrastructure and AI tools, including Gemini models, to enhance its global systems, personalize services, and improve fraud detection. This collaboration supports Revolut's ambitious expansion plans and its goal of reaching 100 million users, solidifying Google's role in the future of finance.",
-        "bullets": [
-          "The deal will see Revolut use Google Cloudâs secure and scalable infrastructure to power its fast-growing global systems, ensuring stability as the fintech company continues to add millions of users worldwide.",
-          "Revolut, which now serves more than 60 million customers, aims to cross 100 million users globally.",
-          "The fintech company will also use Googleâs AI and machine learning tools, including Gemini models, to provide customers with real-time insights, improve fraud detection, and build new personalised services.",
-          "\"Google's world-leading AI and cloud infrastructure are an incredible asset,\" said David Tirado, Vice President of Global Business and Profitability at Revolut.",
-          "\"This partnership will empower us to rapidly scale our offerings, deliver even more personalised and valuable experiences to our customers, and continue to outpace the traditional financial sector.",
-          "We're building the future of finance, and Google is a key partner on that journey.\"\nRevolut has been pushing into new areas, from launching its own ATMs in Europe to creating investment products and planning telecom services in the UK and Germany."
+          "Apple’s launch event for the iPhone 17 lineup is just around the corner, and case makers are already showing off the products they can be paired with on the IFA 2025 showfloor.",
+          "I walked around two rooms dedicated to the latest mobile phone accessories and they were dominated by cases apparently designed for Apple’s upcoming iPhone 17 Pro and iPhone 17 Air launches, with several examples being displayed on dummy units.",
+          "The iPhone 17 Air features a similar look, but is much thinner, with a single camera lens and a slimmer camera bar.",
+          "Here’s a closer look at one of the iPhone 17 Pro Max dummies I got my hands on:\nAnd here’s a look at the iPhone 17 Air.",
+          "In his preview for Apple’s launch event on Tuesday, Bloomberg’s Mark Gurman said the Air will be “roughly 5.5 millimeters, making it about a third thinner than the iPhone 16 Pro,” but at the expense of a drop in battery life.",
+          "It certainly feels very slim and lightweight in my hand compared to my chunky iPhone 14 Pro Max."
         ],
         "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light",
+        "link": "https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "a27f31bed294855064beb6f05aae7915b3cbbb47"
+      },
+      "review": {
+        "headline_rewrite": "Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light",
+        "bullets": [
+          "The biggest news of the week happened inside the Beltway rather than on a launch pad somewhere.",
+          "In Washington, DC, Congress has pushed back on the Trump administration's plan to stop flying the Space Launch System rocket after Artemis III.",
+          "Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar.",
+          "Israel launches SAR satellite.",
+          "The Israel Ministry of Defense, Israel Defense Forces, and Israel Aerospace Industries successfully launched the Ofek 19 satellite on Tuesday from the Palmachim Airbase.",
+          "The launch was carried out by the country's solid-propellant Shavit 2 rocket."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "OpenAI is reportedly producing its own AI chips starting next year",
+        "link": "https://www.engadget.com/ai/openai-is-reportedly-producing-its-own-ai-chips-starting-next-year-113924707.html",
+        "site_name": "Engadget",
+        "novelty_hash": "c1b60a84572166d7f32c6d1df421c70b6a2d4bf5"
+      },
+      "review": {
+        "headline_rewrite": "OpenAI is reportedly producing its own AI chips starting next year",
+        "bullets": [
+          "OpenAI is gearing up to start the mass production of its own AI chips next year to be able to provide the massive computing power its users need and to lessen its reliance on NVIDIA, according to the Financial Times.",
+          "The company reportedly designed the custom AI chip with US semiconductor maker Broadcom, whose CEO recently announced that it has a new client that put in a whopping $10 billion in orders.",
+          "It didn't name the client, but the Times' sources confirmed that it was OpenAI, which apparently doesn't have plans to sell the chips and will only be using them internally.",
+          "Reuters reported way back in 2023 that OpenAI was already exploring the possibility of making its own AI chips after Sam Altman blamed GPU shortages for the company API's speed and reliability.",
+          "The news organization also previously reported that OpenAI was working with both Broadcom and Taiwan Semiconductor Manufacturing Co.",
+          "(TSMC) to create its own product."
+        ],
+        "impact": "Neutral"
       }
     }
   ]
