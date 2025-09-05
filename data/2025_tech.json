@@ -1,7 +1,7 @@
 {
   "2025-09-06": {
     "runs": {
-      "01:47": [
+      "02:09": [
         {
           "item": {
             "title": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment",
@@ -18,26 +18,6 @@
               "The organization believes that for AI products to truly be safer for kids, they should be built with child safety in mind from the ground up.",
               "The latter could be of particular concern to parents, as AI has reportedly played a role in some teen suicides in recent months.",
               "OpenAI is facing its first wrongful death lawsuit after a 16-year-old boy died by suicide after allegedly consulting with ChatGPT for months about his plans, having successfully bypassed the chatbot’s safety guardrails."
-            ],
-            "impact": "Negative"
-          }
-        },
-        {
-          "item": {
-            "title": "I tested 30 smart locks, and these are the best",
-            "link": "https://www.theverge.com/23393163/best-smart-door-lock",
-            "site_name": "The Verge",
-            "novelty_hash": "73ad2d239e1c1c86af0909f639821c2c151d3855"
-          },
-          "review": {
-            "headline_rewrite": "I tested 30 smart locks, and these are the best",
-            "bullets": [
-              "Hands are full, and it’s raining cats and dogs?",
-              "I tested 30 smart locks, and these are the best\nNever get locked out again with a smart lock you can control from your phone, with your face, or with a fingerprint.",
-              "Most smart locks have the same security ratings as their non-smart counterparts (see FAQ for more details), and it’s harder to physically pick a lock without a keyway.",
-              "What I’m looking for\nI install each lock on one of four exterior doors and use it daily for at least a week.",
-              "I test remote features like app control, code sharing, and platform integrations.Design, aesthetics, and how the lock pairs with devices like video doorbells are also considered.",
-              "A good smart lock should have at least three ways to unlock in case one method fails."
             ],
             "impact": "Negative"
           }
@@ -64,20 +44,39 @@
         },
         {
           "item": {
-            "title": "Ignoring Trump threats, Europe hits Google with 2.95B euro fine for adtech monopoly",
-            "link": "https://arstechnica.com/gadgets/2025/09/europe-slaps-google-with-2-95b-euro-fine-over-advertising-monopoly/",
+            "title": "What to expect (and not expect) from yet another September Apple event",
+            "link": "https://arstechnica.com/gadgets/2025/09/what-to-expect-and-not-expect-from-yet-another-september-apple-event/",
             "site_name": "Ars Technica",
-            "novelty_hash": "4a88a13bacbcfde736afbed6f73a67447284d143"
+            "novelty_hash": "3cdffd2aff37162cb180fc0b3a99cfa5f9f6f54a"
           },
           "review": {
-            "headline_rewrite": "Ignoring Trump threats, Europe hits Google with 2.95B euro fine for adtech monopoly",
+            "headline_rewrite": "What to expect (and not expect) from yet another September Apple event",
             "bullets": [
-              "Google may have escaped the most serious consequences in its most recent antitrust fight with the US Department of Justice (DOJ), but the European Union is still gunning for the search giant.",
-              "The case stems from a complaint made by the European Publishers Council in 2021.",
-              "As a result, the competition says Google was able to charge higher fees for its service, standing in the way of fair competition since at least 2014.",
-              "\"Google must now come forward with a serious remedy to address its conflicts of interest, and if it fails to do so, we will not hesitate to impose strong remedies,\" said European Commission Executive Vice President Teresa Ribera.",
-              "\"Digital markets exist to serve people and must be grounded in trust and fairness.",
-              "And when markets fail, public institutions must act to prevent dominant players from abusing their power.\"\nGoogle will not accept the ruling as it currently stands—company leadership believes that the commission's decision is wrong, and they plan to appeal."
+              "Apple's next product event is happening on September 9, and while the company hasn't technically dropped any hints about what's coming, anyone with a working memory and a sense of object permanence can tell you that an Apple event in the month of September means next-generation iPhones.",
+              "Chips get gradually faster, cameras get gradually better, but Apple hasn't done a seismic iPhone X-style rethinking of its phones since, well, 2017's iPhone X.",
+              "The rumor mill thinks that Apple is working on a foldable iPhone—and such a device would certainly benefit from years of investment in the iPad—but if it's coming, it probably won't be this year.",
+              "Let's run down what the most reliable rumors have said we're getting.",
+              "Improved front- and rear-facing cameras and a new Apple A19-series chip with at least the 8GB of RAM needed to support Apple Intelligence are both pretty safe bets."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion",
+            "link": "https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6f95515be19b3c777322cf18f35a85a373290e96"
+          },
+          "review": {
+            "headline_rewrite": "“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion",
+            "bullets": [
+              "Authors revealed today that Anthropic agreed to pay $1.5 billion and destroy all copies of the books the AI company pirated to train its artificial intelligence models.",
+              "In a press release provided to Ars, the authors confirmed that the settlement is \"believed to be the largest publicly reported recovery in the history of US copyright litigation.\" Covering 500,000 works that Anthropic pirated for AI training, if a court approves the settlement, each author will receive $3,000 per work that Anthropic stole.",
+              "\"Depending on the number of claims submitted, the final figure per work could be higher,\" the press release noted.",
+              "Justin Nelson, a lawyer representing the three authors who initially sued to spark the class action—Andrea Bartz, Kirk Wallace Johnson, and Charles Graeber—confirmed that if the \"first of its kind\" settlement \"in the AI era\" is approved, the payouts will \"far\" surpass \"any other known copyright recovery.\"\n\"It will provide meaningful compensation for each class work and sets a precedent requiring AI companies to pay copyright owners,\" Nelson said.",
+              "\"This settlement sends a powerful message to AI companies and creators alike that taking copyrighted works from these pirate websites is wrong.\"\nGroups representing authors celebrated the settlement on Friday.",
+              "The CEO of the Authors’ Guild, Mary Rasenberger, said it was \"an excellent result for authors, publishers, and rightsholders generally.\" Perhaps most critically, the settlement shows \"there are serious consequences when\" companies \"pirate authors’ works to train their AI, robbing those least able to afford it,\" Rasenberger said."
             ],
             "impact": "Negative"
           }
@@ -104,20 +103,20 @@
         },
         {
           "item": {
-            "title": "Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo",
-            "link": "https://arstechnica.com/tech-policy/2025/09/warner-bros-sues-midjourney-to-stop-ai-knockoffs-of-batman-scooby-doo/",
-            "site_name": "Ars Technica",
-            "novelty_hash": "70c12703b9d4db527669ae1ffff3185214f1ba0a"
+            "title": "Join Us for WIRED’s AI Power Summit",
+            "link": "https://www.wired.com/story/wired-ai-power-summit/",
+            "site_name": "WIRED",
+            "novelty_hash": "cf0351628a9f1fe51ccb8664f9475147ddac0f1f"
           },
           "review": {
-            "headline_rewrite": "Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo",
+            "headline_rewrite": "Join Us for WIRED’s AI Power Summit",
             "bullets": [
-              "hit Midjourney with a lawsuit Thursday, crafting a complaint that strives to shoot down defenses that the AI company has already raised in a similar lawsuit filed by Disney and Universal Studios earlier this year.",
-              "The big film studios have alleged that Midjourney profits off image generation models trained to produce outputs of popular characters.",
-              "And now, the WB complaint defends rights over comic characters like Superman, Wonder Woman, and Batman, as well as characters considered \"pillars of pop culture with a lasting impact on generations,\" like Scooby-Doo and Bugs Bunny, and modern cartoon characters like Rick and Morty.",
-              "Discovery’s intellectual property as if it were its own,\" the WB complaint said, accusing Midjourney of allowing subscribers to \"pick iconic\" copyrighted characters and generate them in \"every imaginable scene.\"\nPlanning to seize Midjourney's profits from allegedly using beloved characters to promote its service, Warner Bros.",
-              "Despite that litigation, WB claimed that Midjourney has recently removed copyright protections in its supposedly shameful ongoing bid for profits.",
-              "Here are some examples included in WB's complaint:\nMidjourney could face devastating financial consequences in a loss."
+              "The strength and capabilities of generative AI are accelerating at a dizzying pace.",
+              "That’s why WIRED is hosting its first AI Power Summit on September 15 in New York City.",
+              "We’ve curated a series of panels and conversations with experts who will distill and discuss the implications of today’s most crucial AI-related news.",
+              "We’ll break down the White House’s AI Action Plan and examine its consequences across industries; explore how emerging regulations could redefine the trajectory of innovation and shape public policy; and discuss who stands to gain—and who stands to lose—in AI’s next chapter.",
+              "Speakers include:\n- Dean Ball, Senior Fellow, Foundation for American Innovation\n- Jim Bankoff, Cofounder, Chair, CEO, Vox Media\n- Richard Blumenthal, US Senator (D-Connecticut)\n- Katie Drummond, Global Editorial Director, WIRED\n- Mike Kubzansky, CEO, Omidyar Network\n- Steven Levy, Editor-at-Large, WIRED\n- Roger Lynch, CEO, Condé Nast\n- Tim Marchman, Director of Science, Politics, Security, WIRED\n- Mike Reed, CEO, Gannett | USA TODAY Network\n- Cristóbal Valenzuela, CEO, Runway\n- Neil Vogel, CEO, People Inc.",
+              "- Kent Walker, President, Global Affairs, Google\n- Anna Wintour, Chief Content Officer, Condé Nast\nWIRED subscribers will have exclusive first access to a livestream of the event."
             ],
             "impact": "Negative"
           }
