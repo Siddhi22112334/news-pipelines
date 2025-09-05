@@ -1,20 +1,17 @@
-import os, json, datetime as dt, re
-from typing import List, Dict, Any, Optional
+# export_utils.py
+import os
+import json
+import datetime as dt
+from typing import List, Dict, Any, Tuple
 
-try:
-    import requests
-except Exception:
-    requests = None  # graceful if requests isn't available locally
-
-# ---------- time helpers ----------
-def _date_key_ist(now_utc: Optional[dt.datetime] = None) -> str:
+# ----------------- Time helpers -----------------
+def _date_key_ist(now_utc: dt.datetime | None = None) -> str:
     IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
     if not now_utc:
         now_utc = dt.datetime.now(dt.timezone.utc)
     return now_utc.astimezone(IST).strftime("%Y-%m-%d")
 
-def _time_key_ist(now_utc: Optional[dt.datetime] = None) -> str:
-    """e.g., '09:30' in IST"""
+def _time_key_ist(now_utc: dt.datetime | None = None) -> str:
     IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
     if not now_utc:
         now_utc = dt.datetime.now(dt.timezone.utc)
@@ -23,15 +20,18 @@ def _time_key_ist(now_utc: Optional[dt.datetime] = None) -> str:
 def _year_from_date_key(date_key: str) -> str:
     return date_key.split("-")[0]
 
+# ----------------- Normalization -----------------
 def _strip_html(s: str) -> str:
     import re as _re
     return _re.sub('<[^<]+?>', '', s or '')
 
-# ---------- viewer normalization ----------
 def normalize_for_viewer(results: List[Dict[str,Any]]) -> List[Dict[str,Any]]:
-    """Shape collector results into a compact, HTML-free array for the viewer."""
+    """
+    Shape collector results into a compact, HTML-free array for the viewer.
+    Each element: { item:{title, link, site_name, novelty_hash}, review:{headline_rewrite, bullets[], impact} }
+    """
     out = []
-    for r in results:
+    for r in results or []:
         item = r.get('item', {})
         review = r.get('review', {})
         out.append({
@@ -43,193 +43,179 @@ def normalize_for_viewer(results: List[Dict[str,Any]]) -> List[Dict[str,Any]]:
             },
             "review": {
                 "headline_rewrite": review.get("headline_rewrite",""),
-                "bullets": [ _strip_html(b) for b in (review.get("bullets") or []) ],
+                "bullets": [_strip_html(b) for b in (review.get("bullets") or [])],
                 "impact": review.get("impact","Neutral")
             }
         })
     return out
 
-# ---------- gh-pages raw fallback ----------
-def _guess_raw_url(rel_path: str) -> Optional[str]:
-    """
-    Build a raw URL to the gh-pages branch for reading previously deployed data.
-    rel_path must be relative to the gh-pages root, e.g. 'data/2025_tech.json' or 'index.json'.
-    """
-    repo = os.getenv("GITHUB_REPOSITORY", "")  # 'owner/repo'
-    if not repo or not requests:
-        return None
-    owner, name = repo.split("/", 1)
-    return f"https://raw.githubusercontent.com/{owner}/{name}/gh-pages/{rel_path}"
-
-def _load_json_local(path: str):
+# ----------------- IO helpers -----------------
+def _load_json(path: str) -> Any:
     try:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
     except Exception:
-        return None
+        return {}
 
-def _load_json_remote(rel_path: str):
-    url = _guess_raw_url(rel_path)
-    if not url or not requests:
-        return None
-    try:
-        r = requests.get(url, timeout=12)
-        if r.status_code == 200:
-            return r.json()
-    except Exception:
-        pass
-    return None
+def _write_json(path: str, payload: Any) -> None:
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
-def _load_json(path: str, rel_for_remote: Optional[str] = None):
-    """Try local first; if missing, try reading from gh-pages (raw)."""
-    data = _load_json_local(path)
-    if data is not None:
-        return data
-    if rel_for_remote:
-        data = _load_json_remote(rel_for_remote)
-        if data is not None:
-            return data
-    return {}
+def _year_file_path(base_dir: str, kind: str, year: str) -> str:
+    return os.path.join(base_dir, "data", f"{year}_{kind}.json")
 
-# ---------- helpers for legacy migration ----------
-def _normalize_day_obj(day_obj: Any) -> Dict[str, Any]:
+def _ensure_runs_day(day_obj: Any) -> Dict[str, Any]:
     """
-    Accept legacy shapes and convert to:
-    { "runs": { "HH:MM": [...] }, "latest": "HH:MM" }
+    Guarantee a day object of shape: {"runs": { "HH:MM": [ ... ] }}
+    Migrate legacy shapes:
+      - []  (list of items)  -> {"runs": {"00:00": [...]}}
+      - {"runs": {...}}      -> unchanged
+      - {} or anything else  -> {"runs": {}}
     """
     if isinstance(day_obj, dict):
-        # If it already has runs, leave it; otherwise wrap the dict as a single run list if it looks like a list
         if "runs" in day_obj and isinstance(day_obj["runs"], dict):
-            return day_obj
-        # Some very old shapes could be {"items":[...]} – normalize
-        if "items" in day_obj and isinstance(day_obj["items"], list):
-            return {"runs": {"00:00": day_obj["items"]}, "latest": "00:00"}
-        # Unknown dict shape -> create empty day and let caller add the new run
-        return {"runs": {}, "latest": "00:00"}
-    elif isinstance(day_obj, list):
-        # Pure legacy: date_key -> [ ...list of items... ]
-        return {"runs": {"00:00": day_obj}, "latest": "00:00"}
-    else:
-        # Nothing yet
-        return {"runs": {}, "latest": "00:00"}
+            return {"runs": day_obj["runs"]}
+        # Unknown dict shape -> wrap as empty runs
+        return {"runs": {}}
+    if isinstance(day_obj, list):
+        return {"runs": {"00:00": day_obj}}
+    return {"runs": {}}
 
-def _bump_hhmm(hhmm: str) -> str:
-    """Return hh:mm + 1 minute, capped at 23:59."""
-    try:
-        h, m = hhmm.split(":")
-        h, m = int(h), int(m)
-        m += 1
-        if m >= 60:
-            h += 1
-            m = 0
-        if h >= 24:
-            return "23:59"
-        return f"{h:02d}:{m:02d}"
-    except Exception:
-        return "23:59"
+def _sum_run_items(runs_dict: Dict[str, List[dict]]) -> int:
+    total = 0
+    for arr in (runs_dict or {}).values():
+        try:
+            total += len(arr or [])
+        except Exception:
+            pass
+    return total
 
-def _ensure_unique_time_key(runs: Dict[str, Any], want: str) -> str:
-    """If a run with 'want' exists, bump by a minute until free."""
-    key = want
-    guard = 0
-    while key in runs and guard < 180:  # avoid infinite loops
-        key = _bump_hhmm(key)
-        guard += 1
-    return key
-
-# ---------- writers (append by run) ----------
-def write_yearly_json(date_key: str, kind: str, results: List[Dict[str,Any]], run_key: Optional[str] = None, base_dir="viewer"):
+# ----------------- Public API -----------------
+def write_yearly_json(
+    date_key: str,
+    kind: str,                     # "tech" or "finance"
+    results: List[Dict[str,Any]],
+    base_dir: str = "viewer",
+    run_key: str | None = None     # "HH:MM" IST; if None, we generate
+) -> str:
     """
-    Append/replace the entries for a specific date+run inside the YEAR file.
-
-    Shape (per kind file): viewer/data/{YYYY}_{kind}.json
-    {
-      "YYYY-MM-DD": {
-        "runs": {
-          "HH:MM": [ ... normalized items ... ],
-          ...
-        },
-        "latest": "HH:MM"
-      },
-      ...
-    }
+    Append/replace the entries for a specific DATE + RUN into the YEAR file.
+    File: viewer/data/{YYYY}_{kind}.json
+    Shape (per date): {"runs": { "HH:MM": [ ... normalized items ... ], ... }}
+    Back-compat: migrates legacy day shapes (list) into the new "runs" structure.
     """
-    os.makedirs(os.path.join(base_dir, "data"), exist_ok=True)
-    year = _year_from_date_key(date_key)
-    fname = f"{year}_{kind}.json"
-    rel = f"data/{fname}"
-    path = os.path.join(base_dir, "data", fname)
-
-    payload_run = normalize_for_viewer(results)
-    data = _load_json(path, rel_for_remote=rel)
-    if not isinstance(data, dict):
-        data = {}
-
-    # Load (and migrate if legacy) this day's object
-    day_obj_raw = data.get(date_key, {})
-    day_obj = _normalize_day_obj(day_obj_raw)
-
     if run_key is None:
         run_key = _time_key_ist()
 
-    # Ensure we don't collide with a legacy default like "00:00"
-    runs = day_obj.get("runs", {})
-    run_key = _ensure_unique_time_key(runs, run_key)
+    os.makedirs(os.path.join(base_dir, "data"), exist_ok=True)
+    year = _year_from_date_key(date_key)
+    path = _year_file_path(base_dir, kind, year)
 
-    runs[run_key] = payload_run
-    day_obj["runs"] = runs
-    day_obj["latest"] = run_key
-    data[date_key] = day_obj
+    data = _load_json(path)
+    if not isinstance(data, dict):
+        data = {}
 
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    # Migrate / ensure runs structure for this date
+    day_obj = _ensure_runs_day(data.get(date_key))
+    runs = day_obj["runs"]
+    runs[str(run_key)] = normalize_for_viewer(results)
+
+    data[date_key] = {"runs": runs}
+    _write_json(path, data)
     return path
 
-def update_index(date_key: str, tech_runs: Optional[list] = None, fin_runs: Optional[list] = None, base_dir="viewer"):
+def _compute_count_from_year_file(
+    date_key: str, kind: str, base_dir: str = "viewer"
+) -> int:
     """
-    Keep index.json as: { "YYYY-MM-DD": {"tech": ["HH:MM", ...], "finance": ["HH:MM", ...]}, ... }
-    Handles both legacy (list) and new (runs) shapes when deriving runs.
+    Read viewer/data/{YYYY}_{kind}.json and sum the number of items across all runs for date_key.
+    If file/day missing or malformed, return 0.
     """
-    idx_rel = "index.json"
+    year = _year_from_date_key(date_key)
+    path = _year_file_path(base_dir, kind, year)
+    js = _load_json(path)
+    if not isinstance(js, dict):
+        return 0
+    day_obj = js.get(date_key)
+    day_runs = _ensure_runs_day(day_obj)["runs"]
+    return _sum_run_items(day_runs)
+
+def _merge_runs(prev_value: Any, new_runs: List[str]) -> List[str]:
+    """
+    Merge a previous runs value (could be None, int (legacy), or list) with new run keys.
+    Returns a sorted unique list of "HH:MM".
+    """
+    prev_list: List[str] = []
+    if isinstance(prev_value, list):
+        prev_list = [str(x) for x in prev_value]
+    # if it's an int (legacy count), we ignore it for runs merging
+    merged = sorted({*(prev_list or []), *(new_runs or [])})
+    return merged
+
+def update_index(
+    date_key: str,
+    tech_runs: List[str] | None = None,
+    fin_runs: List[str] | None = None,
+    base_dir: str = "viewer"
+) -> str:
+    """
+    Keep index.json as a quick directory of available dates.
+    New canonical shape per date:
+      {
+        "tech": <int total items that day>,
+        "finance": <int total items that day>,
+        "tech_runs": ["HH:MM", ...],
+        "finance_runs": ["HH:MM", ...]
+      }
+
+    Back-compat: If older index existed with numbers only (or "tech" as list), we migrate.
+    """
     idx_path = os.path.join(base_dir, "index.json")
-    idx = _load_json(idx_path, rel_for_remote=idx_rel)
+    idx = _load_json(idx_path)
     if not isinstance(idx, dict):
         idx = {}
 
-    year = _year_from_date_key(date_key)
+    entry = idx.get(date_key)
+    if not isinstance(entry, dict):
+        # Could be a bare int or list from some very old shape — replace with dict.
+        entry = {}
+    idx[date_key] = entry
 
-    def _derive_runs(kind: str, provided: Optional[list]) -> list:
-        if provided is not None:
-            return sorted(list(set(provided)))
-        rel = f"data/{year}_{kind}.json"
-        path = os.path.join(base_dir, "data", f"{year}_{kind}.json")
-        data = _load_json(path, rel_for_remote=rel)
-        if not isinstance(data, dict):
-            return []
-        day = data.get(date_key)
-        if day is None:
-            return []
-        # Legacy: day is a list -> pretend it was "00:00"
-        if isinstance(day, list):
-            return ["00:00"]
-        # New: day is an object; prefer runs keys
-        if isinstance(day, dict):
-            runs = day.get("runs")
-            if isinstance(runs, dict):
-                return sorted(list(runs.keys()))
-            # Some intermediate forms may have no runs – treat as no entries
-        return []
+    # Merge runs (handle legacy types)
+    tech_runs = tech_runs or []
+    fin_runs  = fin_runs  or []
 
-    t_runs = _derive_runs("tech", tech_runs)
-    f_runs = _derive_runs("finance", fin_runs)
+    # Legacy handling: sometimes "tech" (or "finance") stored the runs list directly.
+    prev_tech_runs = entry.get("tech_runs")
+    if prev_tech_runs is None and isinstance(entry.get("tech"), list):
+        prev_tech_runs = entry.get("tech")
+    prev_fin_runs = entry.get("finance_runs")
+    if prev_fin_runs is None and isinstance(entry.get("finance"), list):
+        prev_fin_runs = entry.get("finance")
 
-    prev = idx.get(date_key, {})
-    # merge with anything that might already be in index
-    t_full = sorted(list(set((prev.get("tech") or []) + t_runs)))
-    f_full = sorted(list(set((prev.get("finance") or []) + f_runs)))
+    t_full = _merge_runs(prev_tech_runs, tech_runs)
+    f_full = _merge_runs(prev_fin_runs,  fin_runs)
 
-    idx[date_key] = {"tech": t_full, "finance": f_full}
+    # Counts: prefer computing from year files; if 0, fallback to legacy int (if present)
+    tech_count = _compute_count_from_year_file(date_key, "tech", base_dir=base_dir)
+    fin_count  = _compute_count_from_year_file(date_key, "finance", base_dir=base_dir)
 
-    with open(idx_path, "w", encoding="utf-8") as f:
-        json.dump(idx, f, ensure_ascii=False, indent=2)
+    if tech_count == 0:
+        # if legacy number exists, keep it so the old viewer still shows a count
+        legacy_t = entry.get("tech")
+        if isinstance(legacy_t, int):
+            tech_count = legacy_t
+    if fin_count == 0:
+        legacy_f = entry.get("finance")
+        if isinstance(legacy_f, int):
+            fin_count = legacy_f
+
+    entry["tech"] = int(tech_count)
+    entry["finance"] = int(fin_count)
+    entry["tech_runs"] = t_full
+    entry["finance_runs"] = f_full
+
+    idx[date_key] = entry
+    _write_json(idx_path, idx)
     return idx_path
