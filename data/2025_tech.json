@@ -5,7 +5,7 @@
         "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
         "link": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
         "site_name": "NVIDIA Blog",
-        "novelty_hash": "1f7cd77501690f1f6676a2f2c0514f4877632d6c"
+        "novelty_hash": "8a6af05ce03693e57a899b3bf4daad6950f3eb86"
       },
       "review": {
         "headline_rewrite": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
@@ -14,28 +14,8 @@
           "“JUPITER marks the culmination of more than a decade of research and development,” said Thomas Lippert, director of the Jülich Supercomputing Centre.",
           "“As the world’s most advanced and versatile exascale system, it represents a unique innovation, opening up completely new possibilities for science and industry in Europe.”\n“With JUPITER, Europe gains its most advanced AI supercomputer, built for large-scale simulation and AI, powered by NVIDIA Grace Hopper Superchips and Quantum-2 InfiniBand,” said Jensen Huang, founder and CEO of NVIDIA.",
           "“JUPITER fuses high-performance computing and AI into a single architecture.",
-          "A platform for next-generation scientific computing, it will accelerate breakthroughs across every domain — from modeling climate and renewable energy to advancing quantum research, designing new materials and building digital twins.”\nJUPITER’s ribbon-cutting ceremony was attended by a slew of Europe’s AI and industry leaders and Germany Chancellor Friedrich Merz, who highlighted how the supercomputer is driving national advancement and industrial innovation.",
+          "A platform for next-generation scientific computing, it will accelerate breakthroughs across every domain — from modeling climate and renewable energy to advancing quantum research, designing new materials and building digital twins.”\nJUPITER’s ribbon-cutting ceremony was attended by a slew of Europe’s AI and industry leaders, politicians, researchers and others.",
           "JUPITER, which stands for “Joint Undertaking Pioneer for Innovative and Transformative Exascale Research,” gives European startups, enterprises and researchers a massive leap in computing power so they can quickly, efficiently create breakthroughs in:\nFor example, Max Planck Institute for Meteorology is using JUPITER to simulate climate predictions with a spatial resolution of about 1 kilometer, depicting extreme weather events such as violent thunderstorms and heavy rainfall much more realistically than before."
-        ],
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Apple iPhone 17 launch event: What to expect",
-        "link": "https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect",
-        "site_name": "The Verge",
-        "novelty_hash": "99a775de38eefa8f60b3c7e766815883d294202f"
-      },
-      "review": {
-        "headline_rewrite": "Apple iPhone 17 launch event: What to expect",
-        "bullets": [
-          "It seems like this year’s launch will offer more than just a simple spec bump, as rumors point to an ultra-thin iPhone arriving alongside the rest of Apple’s upgraded smartphone lineup.",
-          "Apple iPhone 17 launch event: What to expect\nThe ‘Awe dropping’ event might include a slimmed-down iPhone Air, a bundle of smartwatches, and new AirPods.",
-          "Here’s what Apple might reveal during its next big launch event.",
-          "These Google Pixel-style bars will house a trio of 48-megapixel camera sensors, according to analyst Ming-Chi Kuo.",
-          "Additionally, leaker Ice Universe has said the iPhone 17 Pro Max might have a thicker profile to fit a larger battery.",
-          "A super-slim iPhone Air might make its debut\nRumors suggest that Apple is preparing to carry over the super-slim “Air” form factor to its smartphones."
         ],
         "impact": "Negative"
       }
@@ -62,20 +42,40 @@
     },
     {
       "item": {
-        "title": "Tesla shareholders to vote on investing in Musk’s AI startup xAI",
-        "link": "https://techcrunch.com/2025/09/05/tesla-shareholders-to-vote-on-investing-in-musks-ai-startup-xai/",
+        "title": "OpenAI hires the team behind Xcode coding assistant Alex Codes",
+        "link": "https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/",
         "site_name": "TechCrunch",
-        "novelty_hash": "1217319a4e00d2e111f71e1299a2e1df0446e10a"
+        "novelty_hash": "8993baf6ba7e28fb80c6f64f0c2c38f791520f70"
       },
       "review": {
-        "headline_rewrite": "Tesla shareholders to vote on investing in Musk’s AI startup xAI",
+        "headline_rewrite": "OpenAI hires the team behind Xcode coding assistant Alex Codes",
         "bullets": [
-          "Tesla shareholders will soon vote whether to let the electric vehicle maker invest in Elon Musk’s AI startup xAI, a proposal pitched as a way to strengthen Tesla’s ambitions in AI, robotics, and energy.",
-          "Listed in Tesla’s proxy statement alongside a company-backed push to raise Musk’s 10-year pay package to $1 trillion, the proposal comes from Stephen Hawk, a Florida shareholder with a $2,000 stake of common stock.",
-          "His supporting statement reads:\nTesla’s integration of Grok into its vehicles demonstrates the tangible benefits of collaboration with xAI.",
-          "As Tesla pivots toward AI-driven technologies, including Full Self-Driving and robotics, a strategic investment in xAI would secure access to advanced AI capabilities, enhance product innovation, and drive shareholder value.",
-          "The board, which often suggests investors vote against shareholder proposals, is neutral on this one.",
-          "If Tesla does end up investing in xAI, it would be the second of Musk’s companies to do so."
+          "Acqui-hires feel like they’re here to stay: The team behind Alex Codes, a popular tool that lets developers use AI models within Apple’s development suite Xcode, is joining OpenAI.",
+          "In a post on X, Alex Codes’ founder Daniel Edrisian said the startup’s team is joining OpenAI’s Codex division, which is building the company’s AI coding agent.",
+          "Y-Combinator-backed Alex Codes was founded in 2024 and sought to integrate AI models into Xcode.",
+          "Apple, however, earlier this year updated XCode to let users tap ChatGPT and other AI models without needing external tools.",
+          "Edrisian didn’t mention if this was a reason his startup’s team has joined OpenAI.",
+          "“When we started out, Xcode had no AI."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem",
+        "link": "https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/",
+        "site_name": "TechCrunch",
+        "novelty_hash": "872547ca4c6ce9d15c5515b9315fefcf92dc7ae3"
+      },
+      "review": {
+        "headline_rewrite": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem",
+        "bullets": [
+          "It offers an AI agent to solve a problem that data analytics products have struggled with for decades: The people who know how to run the big data infrastructure are not the ones who actually need to use the data.",
+          "With LLMs, business managers can ask questions of their data in natural language.",
+          "Isotopes’ agent, Aidnn, can provide answers and draft complex planning documents, gathering data from wherever it’s stored like finance apps, ERP, CRM, and cloud storage.",
+          "Their product is therefore so sophisticated, the startup has already applied for 10 patents, co-founder CEO Arun Murthy told TechCrunch.",
+          "In 2011, Yahoo spun it out into a company called Hortonworks, with Murthy as co-founder and chief product officer.",
+          "Just four years after launch, Hortonworks went public."
         ],
         "impact": "Negative"
       }
@@ -102,20 +102,22 @@
     },
     {
       "item": {
-        "title": "The blueprint for lasting companies and communities with Discord’s Jason Citron and Campuswire’s Tade Oyerinde at TechCrunch Disrupt 2025",
-        "link": "https://techcrunch.com/2025/09/05/creating-communities-and-companies-that-last-with-discords-founder-jason-citron-and-campuswires-tade-oyerinde-only-at-techcrunch-disrupt-2025/",
-        "site_name": "TechCrunch",
-        "novelty_hash": "d9222065bbd5dd3300709db20361e16a77f21fc6"
+        "title": "Columbia tries using AI to cool off student tensions",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests",
+        "site_name": "The Verge",
+        "novelty_hash": "085fd770fd39bd7dd0dd3e2bbdc57ba1e4a920b5"
       },
       "review": {
-        "headline_rewrite": "The blueprint for lasting companies and communities with Discord’s Jason Citron and Campuswire’s Tade Oyerinde at TechCrunch Disrupt 2025",
+        "headline_rewrite": "Columbia tries using AI to cool off student tensions",
         "bullets": [
-          "When you design for people instead of institutions, you don’t just build a product.",
-          "Since then, Discord has grown into a global platform with hundreds of millions of users, reshaping how people connect and communicate online.",
-          "Learn why community-driven companies scale faster and endure longer\nIn a noisy and fast-moving market, companies that prioritize community gain staying power.",
-          "Whether you’re a startup founder, product designer, or investor, this session will deliver insight into how to build loyalty, scale intentionally, and keep people at the heart of every business decision."
+          "Can AI help “smooth over” discussion on abortion, racism, immigration, or Israel-Palestine?",
+          "The Verge has learned that the university recently began testing Sway, an AI debate program currently in beta.",
+          "The university has spent years at the center of controversy after controversy: expulsions of pro-Palestinian student protesters, a string of police raids, and demands from the federal government.",
+          "People at Columbia’s Teachers College are testing Sway in order to potentially integrate it into the conflict resolution curriculum and “bridge-building initiatives at Columbia,” DiBella said.",
+          "He said there’s also been interest from other teams at Columbia in using Sway for the fall 2026 semester and onward.",
+          "Sway places an “AI Guide” in every chat that “asks tough questions to improve student reasoning.” The tool also “suggests a rephrasing” for language it deems disrespectful."
         ],
-        "impact": "Positive"
+        "impact": "Negative"
       }
     }
   ]
