@@ -2,20 +2,17 @@
   "2025-09-05": [
     {
       "item": {
-        "title": "BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power",
-        "link": "https://www.theverge.com/news/770351/bmw-ix3-neue-klasse-ev-range-specs-price",
+        "title": "Xbox engineer brings Windows Mixed Reality headsets back to life",
+        "link": "https://www.theverge.com/news/772360/microsoft-windows-mixed-reality-headsets-streamvr-driver",
         "site_name": "The Verge",
-        "novelty_hash": "9aed5502ed5f88f520544f2027fb7484db867742"
+        "novelty_hash": "2922003d36efe5a819ad939cf163b253c98d21c2"
       },
       "review": {
-        "headline_rewrite": "BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power",
+        "headline_rewrite": "Xbox engineer brings Windows Mixed Reality headsets back to life",
         "bullets": [
-          "For years, BMW has been teasing its forthcoming next-generation “Neue Klasse” electric vehicle platform, complete with better batteries, better range, and an all-new “superbrain” with enhanced computing power.",
-          "BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power\nIt’s also BMW’s fist EV to be built on its ‘Neue Klasse’ platform with lightning-fast charging and four superpowered ‘brains.’\nOf course, all that will be for naught if the iX3 isn’t a compelling EV with killer specs that’s fun to drive.",
-          "Charging speed and range\n‘Superbrains’\nThe iX3 will be the first model from BMW to feature the automaker’s oddly named “Heart of Joy” computer, which is one of the Neue Klasse’s touted four “superbrains.” This unassuming black box aggregates all the traction, stability, and electric motor management functions that are typically handled by a dozen different processors sourced from a dozen different suppliers and scattered throughout the car.",
-          "So there’s a lot of digital features that the automaker says will improve over time through over-the-air updates.",
-          "At launch, BMW claims it has achieved “superior intelligence” in the form of interior lights that come on automatically if the vehicle’s sensors detect that the driver is searching for something, or a charging port flap that opens automatically when it detects an approaching plug.",
-          "The luxury and premium EV space is packed to the gills, with legacy players like BMW, Mercedes, and Audi competing against newcomers like Tesla, Lucid, and Rivian."
+          "The driver, spotted by UploadVR, requires an Nvidia GPU, simply because it relies on features “missing in the AMD and Intel graphics driver,” according to Bucchianeri.",
+          "He’s not releasing the source code as a result, and the Oasis driver will remain free to use.",
+          "Most Popular\n- The Browser Company, maker of Arc and Dia, is being acquired\n- Microsoft is about to shake up its Copilot pricing for businesses\n- How Wikipedia survives while the rest of the internet breaks\n- Philips Hue lights get bigger, brighter, and cheaper with a major product refresh\n- Here is Lego’s $1,000 Death Star, the most expensive Lego set ever"
         ],
         "impact": "Negative"
       }
@@ -62,6 +59,26 @@
     },
     {
       "item": {
+        "title": "BMW debuts 6th-generation EV powertrain in the all-electric iX3",
+        "link": "https://arstechnica.com/cars/2025/09/neue-klasse-bmws-tech-filled-ix3-electric-suv-is-unveiled/",
+        "site_name": "Ars Technica",
+        "novelty_hash": "99abeba7e6b70a701766dc3ea1c9ae82b5b923a8"
+      },
+      "review": {
+        "headline_rewrite": "BMW debuts 6th-generation EV powertrain in the all-electric iX3",
+        "bullets": [
+          "When it arrives in mid-2026, it will have the lowest carbon footprint of any BMW yet, thanks to an obsessive approach to sustainability during the design process.",
+          "\"The Neue Klasse is our biggest future-focused project and marks a huge leap forward in terms of technologies, driving experience, and design,\" said BMW chairman Oliver Zipse.",
+          "Our whole product range will benefit from the innovations brought by the Neue Klasse—whichever drive system technology is employed.",
+          "What started as a bold vision has now become reality: the BMW iX3 is the first Neue Klasse model to go into series production, kicking off a new era for BMW.\"\nA new face\nThe iX3 also debuts a new corporate face for BMW's SUVs: From now on, these will have tall, narrow kidney grilles like the one you see here, as opposed to the short, wide grille seen on the front of the Neue Klasse sedan (which is almost certainly the next 3 Series).",
+          "Sixth-generation\nAs befitting a company called the Bavarian Motor Works, BMW has been in the business of designing and building its own electric powertrains for quite some time, in contrast to some rivals that have been buying EV tech from suppliers.",
+          "In addition to the class-leading manufacturing efficiency, the sixth-generation electric powertrain should be extremely efficient—around 4 miles/kWh (15.5 kWh/100 km) from an SUV-shape, which is 20–25 percent better than current SUV EVs."
+        ],
+        "impact": "Neutral"
+      }
+    },
+    {
+      "item": {
         "title": "‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings",
         "link": "https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/",
         "site_name": "WIRED",
@@ -98,19 +115,6 @@
           "The terms of the settlement were not disclosed to the public, but agreement makes a significant moment in the ongoing battle between AI developers and creative professionals."
         ],
         "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "title": "Sam Altman, Tim Cook, and other tech leaders lauded Trump at a White House AI dinner",
-        "link": "https://news.google.com/read/CBMipAFBVV95cUxOQ0ttbEZHbGt3Z2NYcUNycjNiampKMUJhSTh4cEs1LW8yQTZsZGpXOGdVV05fMU1kMXpnanpPVDdIdXJGaGdiY0djWVk1MXVHdXRSMTl1RmM0LW81NFZqMnFPbUJxdEdpS1N3LTdwR25LZXIyaTBUNHFxZzZNSnVyQzFTU3g2Sk9Rd2w3VEcyRzdELVFlMlo4YmdhbzdWMmpzcFItRg",
-        "site_name": "Google News",
-        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-      },
-      "review": {
-        "headline_rewrite": "Sam Altman, Tim Cook, and other tech leaders lauded Trump at a White House AI dinner",
-        "bullets": [],
-        "impact": "Neutral"
       }
     }
   ]
