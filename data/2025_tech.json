@@ -1,13 +1,13 @@
 {
   "2025-09-06": {
     "runs": {
-      "01:06": [
+      "01:47": [
         {
           "item": {
             "title": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment",
             "link": "https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/",
             "site_name": "TechCrunch",
-            "novelty_hash": "5becf90844831146a050efb8eebe0a7a3ec7b9a2"
+            "novelty_hash": "57f75b48269d2709f11015124d8fad4d45f8a0e5"
           },
           "review": {
             "headline_rewrite": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment",
@@ -64,6 +64,26 @@
         },
         {
           "item": {
+            "title": "Ignoring Trump threats, Europe hits Google with 2.95B euro fine for adtech monopoly",
+            "link": "https://arstechnica.com/gadgets/2025/09/europe-slaps-google-with-2-95b-euro-fine-over-advertising-monopoly/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4a88a13bacbcfde736afbed6f73a67447284d143"
+          },
+          "review": {
+            "headline_rewrite": "Ignoring Trump threats, Europe hits Google with 2.95B euro fine for adtech monopoly",
+            "bullets": [
+              "Google may have escaped the most serious consequences in its most recent antitrust fight with the US Department of Justice (DOJ), but the European Union is still gunning for the search giant.",
+              "The case stems from a complaint made by the European Publishers Council in 2021.",
+              "As a result, the competition says Google was able to charge higher fees for its service, standing in the way of fair competition since at least 2014.",
+              "\"Google must now come forward with a serious remedy to address its conflicts of interest, and if it fails to do so, we will not hesitate to impose strong remedies,\" said European Commission Executive Vice President Teresa Ribera.",
+              "\"Digital markets exist to serve people and must be grounded in trust and fairness.",
+              "And when markets fail, public institutions must act to prevent dominant players from abusing their power.\"\nGoogle will not accept the ruling as it currently stands—company leadership believes that the commission's decision is wrong, and they plan to appeal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
             "title": "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic",
             "link": "https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons",
             "site_name": "The Verge",
@@ -84,39 +104,22 @@
         },
         {
           "item": {
-            "title": "Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement",
-            "link": "https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/",
-            "site_name": "WIRED",
-            "novelty_hash": "f09d5153e5e534ad9103dd237c612e74a3c407b2"
+            "title": "Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo",
+            "link": "https://arstechnica.com/tech-policy/2025/09/warner-bros-sues-midjourney-to-stop-ai-knockoffs-of-batman-scooby-doo/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "70c12703b9d4db527669ae1ffff3185214f1ba0a"
           },
           "review": {
-            "headline_rewrite": "Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement",
+            "headline_rewrite": "Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo",
             "bullets": [
-              "Experts said the plaintiffs may have been awarded at least billions of dollars in damages, with some estimates placing the total figure over $1 trillion.",
-              "This is the first class action legal settlement centered on AI and copyright in the United States, and the outcome may shape how regulators and creative industries approach the legal debate over generative AI and intellectual property.",
-              "It is the first of its kind in the AI era.",
-              "It will provide meaningful compensation for each class work and sets a precedent requiring AI companies to pay copyright owners.",
-              "This settlement sends a powerful message to AI companies and creators alike that taking copyrighted works from these pirate websites is wrong,” says colead plaintiffs’ counsel Justin Nelson of Susman Godfrey LLP.",
-              "“Today's settlement, if approved, will resolve the plaintiffs' remaining legacy claims."
+              "hit Midjourney with a lawsuit Thursday, crafting a complaint that strives to shoot down defenses that the AI company has already raised in a similar lawsuit filed by Disney and Universal Studios earlier this year.",
+              "The big film studios have alleged that Midjourney profits off image generation models trained to produce outputs of popular characters.",
+              "And now, the WB complaint defends rights over comic characters like Superman, Wonder Woman, and Batman, as well as characters considered \"pillars of pop culture with a lasting impact on generations,\" like Scooby-Doo and Bugs Bunny, and modern cartoon characters like Rick and Morty.",
+              "Discovery’s intellectual property as if it were its own,\" the WB complaint said, accusing Midjourney of allowing subscribers to \"pick iconic\" copyrighted characters and generate them in \"every imaginable scene.\"\nPlanning to seize Midjourney's profits from allegedly using beloved characters to promote its service, Warner Bros.",
+              "Despite that litigation, WB claimed that Midjourney has recently removed copyright protections in its supposedly shameful ongoing bid for profits.",
+              "Here are some examples included in WB's complaint:\nMidjourney could face devastating financial consequences in a loss."
             ],
             "impact": "Negative"
-          }
-        },
-        {
-          "item": {
-            "title": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now",
-            "link": "https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/",
-            "site_name": "WIRED",
-            "novelty_hash": "13353f546f4b056b0d4368c716b6e9fa2e624c8e"
-          },
-          "review": {
-            "headline_rewrite": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now",
-            "bullets": [
-              "Razer does a great job with little details, like the spacious glass touchpad that's nice and responsive, the excellent fit and finish on the machined aluminum body, and the thin bezels that help the screen stand out.",
-              "We haven't had a chance to test out the mobile versions of these chips, but on the desktop end I found that little memory was a limiting factor for performance, especially at 1440p or higher.",
-              "Mobile GPUs are always a compromise, but you won't have the opportunity to upgrade, so it's important to get this right on the first try."
-            ],
-            "impact": "Neutral"
           }
         }
       ]
