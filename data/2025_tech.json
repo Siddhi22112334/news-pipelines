@@ -2,20 +2,22 @@
   "2025-09-05": [
     {
       "item": {
-        "link": "https://blog.google/products/workspace/workspace-feature-drop-ai-sheets/",
-        "novelty_hash": "1de05b54f1aeb9436c6aa2a19ae7a9550a27346e",
-        "site_name": "Google",
-        "title": "Get Gemini’s help in Google Sheets with one simple step."
+        "link": "https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale",
+        "novelty_hash": "a161a9e49a311ef078b3ded2ed2b97e20c0f6a30",
+        "site_name": "The Verge",
+        "title": "The best laptop deals you can get right now"
       },
       "review": {
         "bullets": [
-          "AI in Google Sheets makes categorizing, summarizing or even generating hundreds of rows of text quick and painless.",
-          "For instance, you can use the AI function to categorize user feedback, summarize product reviews or write personalized copy.",
-          "You don’t need to be an AI or spreadsheet expert to do it, either.",
-          "Simply type =AI in any cell, along with your instruction for Gemini."
+          "That’s why we’ve come up with this list of some of the best laptop deals available right now.",
+          "The best laptop deals\nApple MacBook deals\nThe 2020 MacBook Air has been discontinued but remains a great value.",
+          "It comes outfitted with the company’s original M1 chip in one of three different colors (silver, space gray, and gold).",
+          "Apple itself no longer sells the 13-inch MacBook Air with M1 — and hasn’t for years — but you can still get this solid laptop for $599.99 ($50 off) at Walmart.",
+          "The 2020 model is available in one configuration, with 8GB of RAM and 256GB of storage, but it’s still capable at handling basic tasks like a champ, including streaming video, browsing, and dealing with documents.",
+          "You can also use the M1 MacBook Air for creative work in Photoshop, Final Cut Pro, Logic, and Pixelmator, though you may experience slowdown due to its low 8GB of memory."
         ],
-        "headline_rewrite": "Get Gemini’s help in Google Sheets with one simple step.",
-        "impact": "Neutral"
+        "headline_rewrite": "The best laptop deals you can get right now",
+        "impact": "Negative"
       }
     },
     {
@@ -39,7 +41,7 @@
     {
       "item": {
         "link": "https://www.theverge.com/news/772848/google-ad-tech-eu-antitrust-fine",
-        "novelty_hash": "59a4022fb9b41179cfb922cf6556523814f47296",
+        "novelty_hash": "ae677daa3f9883ec3f31ab7cd81c1b50beabf077",
         "site_name": "The Verge",
         "title": "Google fined $3.5 billion by EU for ad tech abuse"
       },
@@ -54,6 +56,23 @@
         ],
         "headline_rewrite": "Google fined $3.5 billion by EU for ad tech abuse",
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "link": "https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/",
+        "novelty_hash": "13353f546f4b056b0d4368c716b6e9fa2e624c8e",
+        "site_name": "WIRED",
+        "title": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now"
+      },
+      "review": {
+        "bullets": [
+          "Razer does a great job with little details, like the spacious glass touchpad that's nice and responsive, the excellent fit and finish on the machined aluminum body, and the thin bezels that help the screen stand out.",
+          "We haven't had a chance to test out the mobile versions of these chips, but on the desktop end I found that little memory was a limiting factor for performance, especially at 1440p or higher.",
+          "Mobile GPUs are always a compromise, but you won't have the opportunity to upgrade, so it's important to get this right on the first try."
+        ],
+        "headline_rewrite": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now",
+        "impact": "Neutral"
       }
     },
     {
