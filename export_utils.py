@@ -1,56 +1,41 @@
-import os, json, datetime as dt
+import os, json, datetime as dt, re
 from typing import List, Dict, Any, Optional
 
-# ----------------------- Helpers: dates & hygiene -----------------------
+try:
+    import requests
+except Exception:
+    requests = None  # graceful if requests isn't available locally
 
+# ---------- time helpers ----------
 def _date_key_ist(now_utc: Optional[dt.datetime] = None) -> str:
-    """Return IST date key like 'YYYY-MM-DD' for grouping runs."""
     IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
     if not now_utc:
         now_utc = dt.datetime.now(dt.timezone.utc)
     return now_utc.astimezone(IST).strftime("%Y-%m-%d")
 
+def _time_key_ist(now_utc: Optional[dt.datetime] = None) -> str:
+    """e.g., '09:30' in IST"""
+    IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
+    if not now_utc:
+        now_utc = dt.datetime.now(dt.timezone.utc)
+    return now_utc.astimezone(IST).strftime("%H:%M")
+
 def _year_from_date_key(date_key: str) -> str:
-    return (date_key or "").split("-")[0]
+    return date_key.split("-")[0]
 
 def _strip_html(s: str) -> str:
     import re as _re
-    return _re.sub(r"<[^<]+?>", "", s or "")
+    return _re.sub('<[^<]+?>', '', s or '')
 
-def _ensure_data_dir(base_dir: str) -> str:
-    path = os.path.join(base_dir, "data")
-    os.makedirs(path, exist_ok=True)
-    return path
-
-def _year_path(kind: str, date_key: str, base_dir: str = "viewer") -> str:
-    year = _year_from_date_key(date_key)
-    return os.path.join(_ensure_data_dir(base_dir), f"{year}_{kind}.json")
-
-def _load_json(path: str):
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return {}
-
-# ----------------------- Viewer payload shaping -----------------------
-
+# ---------- viewer normalization ----------
 def normalize_for_viewer(results: List[Dict[str,Any]]) -> List[Dict[str,Any]]:
     """
     Shape collector results into a compact, HTML-free array for the viewer.
-    Expected downstream shape (compatible with your viewer.js):
-      [
-        {
-          "item": {"title","link","site_name","novelty_hash"},
-          "review": {"headline_rewrite","bullets","impact"}
-        },
-        ...
-      ]
     """
     out = []
-    for r in results or []:
-        item = r.get("item", {}) or {}
-        review = r.get("review", {}) or {}
+    for r in results:
+        item = r.get('item', {})
+        review = r.get('review', {})
         out.append({
             "item": {
                 "title": item.get("title",""),
@@ -59,125 +44,134 @@ def normalize_for_viewer(results: List[Dict[str,Any]]) -> List[Dict[str,Any]]:
                 "novelty_hash": item.get("novelty_hash","")
             },
             "review": {
-                "headline_rewrite": _strip_html(review.get("headline_rewrite","")),
+                "headline_rewrite": review.get("headline_rewrite",""),
                 "bullets": [ _strip_html(b) for b in (review.get("bullets") or []) ],
                 "impact": review.get("impact","Neutral")
             }
         })
     return out
 
-def _dedupe_by_novelty(items: List[Dict[str,Any]]) -> List[Dict[str,Any]]:
-    """Drop duplicates (same novelty_hash) within a single day payload."""
-    seen = set()
-    out = []
-    for r in items:
-        nh = (r.get("item") or {}).get("novelty_hash") or ""
-        if nh and nh in seen:
-            continue
-        seen.add(nh)
-        out.append(r)
-    return out
-
-# ----------------------- Persist: yearly files -----------------------
-
-def write_yearly_json(date_key: str, kind: str, results: List[Dict[str,Any]], base_dir: str = "viewer") -> str:
+# ---------- loader with gh-pages fallback ----------
+def _guess_raw_url(rel_path: str) -> Optional[str]:
     """
-    Append/replace the entries for a specific date inside the YEAR file (per kind).
-      - kind: "tech" or "finance"
-      - file: viewer/data/{YYYY}_{kind}.json
-      - shape: { "YYYY-MM-DD": [ ... normalized items ... ], ... }
+    Build a raw URL to the gh-pages branch for reading previously deployed data.
+    rel_path must be relative to the gh-pages root, e.g. 'data/2025_tech.json' or 'index.json'.
     """
-    path = _year_path(kind, date_key, base_dir)
-    payload_day = _dedupe_by_novelty(normalize_for_viewer(results))
+    repo = os.getenv("GITHUB_REPOSITORY", "")  # 'owner/repo'
+    if not repo or not requests:
+        return None
+    owner, name = repo.split("/", 1)
+    # We publish viewer/* to gh-pages root; JSON live under /data
+    return f"https://raw.githubusercontent.com/{owner}/{name}/gh-pages/{rel_path}"
 
-    data = _load_json(path)
+def _load_json_local(path: str):
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+def _load_json_remote(rel_path: str):
+    url = _guess_raw_url(rel_path)
+    if not url or not requests:
+        return None
+    try:
+        r = requests.get(url, timeout=12)
+        if r.status_code == 200:
+            return r.json()
+    except Exception:
+        pass
+    return None
+
+def _load_json(path: str, rel_for_remote: Optional[str] = None):
+    """
+    Try local first; if missing, try reading from gh-pages (raw) so we can append instead of overwrite.
+    """
+    data = _load_json_local(path)
+    if data is not None:
+        return data
+    if rel_for_remote:
+        data = _load_json_remote(rel_for_remote)
+        if data is not None:
+            return data
+    return {}
+
+# ---------- writers (append by run) ----------
+def write_yearly_json(date_key: str, kind: str, results: List[Dict[str,Any]], run_key: Optional[str] = None, base_dir="viewer"):
+    """
+    Append/replace the entries for a specific date+run inside the YEAR file.
+
+    Shape (per kind file): viewer/data/{YYYY}_{kind}.json
+    {
+      "YYYY-MM-DD": {
+        "runs": {
+          "HH:MM": [ ... normalized items ... ],
+          ...
+        },
+        "latest": "HH:MM"
+      },
+      ...
+    }
+    """
+    os.makedirs(os.path.join(base_dir, "data"), exist_ok=True)
+    year = _year_from_date_key(date_key)
+    fname = f"{year}_{kind}.json"
+    rel = f"data/{fname}"
+    path = os.path.join(base_dir, "data", fname)
+
+    payload_run = normalize_for_viewer(results)
+    data = _load_json(path, rel_for_remote=rel)
     if not isinstance(data, dict):
         data = {}
-    data[date_key] = payload_day
+
+    if run_key is None:
+        run_key = _time_key_ist()
+
+    day_obj = data.get(date_key) or {}
+    runs = day_obj.get("runs") or {}
+    runs[run_key] = payload_run
+    day_obj["runs"] = runs
+    day_obj["latest"] = run_key
+    data[date_key] = day_obj
 
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=True)
+        json.dump(data, f, ensure_ascii=False, indent=2)
     return path
 
-# ----------------------- Index (dates → counts per kind) -----------------------
-
-def _read_count_for(date_key: str, kind: str, base_dir: str = "viewer") -> int:
-    """Read the year file and return how many items exist for date+kind."""
-    path = _year_path(kind, date_key, base_dir)
-    data = _load_json(path)
-    if isinstance(data, dict):
-        arr = data.get(date_key) or []
-        if isinstance(arr, list):
-            return len(arr)
-    return 0
-
-def update_index(
-    date_key: str,
-    tech_count: Optional[int],
-    fin_count: Optional[int],
-    base_dir: str = "viewer"
-) -> str:
+def update_index(date_key: str, tech_runs: Optional[list] = None, fin_runs: Optional[list] = None, base_dir="viewer"):
     """
-    Keep index.json as a quick “what dates exist and how many stories (per kind)”.
-    Shape:
-      {
-        "YYYY-MM-DD": { "tech": N, "finance": M },
-        ...
-      }
-
-    If tech_count or fin_count is None, it will be computed from the corresponding year file.
+    Keep index.json as: { "YYYY-MM-DD": {"tech": ["HH:MM", ...], "finance": ["HH:MM", ...]}, ... }
+    We read existing index from gh-pages if local missing, and update only today's entry.
     """
+    idx_rel = "index.json"
     idx_path = os.path.join(base_dir, "index.json")
-    try:
-        idx = json.load(open(idx_path, "r", encoding="utf-8"))
-    except Exception:
+    idx = _load_json(idx_path, rel_for_remote=idx_rel)
+    if not isinstance(idx, dict):
         idx = {}
 
-    if tech_count is None:
-        tech_count = _read_count_for(date_key, "tech", base_dir)
-    if fin_count is None:
-        fin_count = _read_count_for(date_key, "finance", base_dir)
+    # If runs not provided, derive from the per-year files for the date
+    year = _year_from_date_key(date_key)
 
+    def _get_runs(kind: str, provided: Optional[list]) -> list:
+        if provided is not None:
+            return provided
+        rel = f"data/{year}_{kind}.json"
+        path = os.path.join(base_dir, "data", f"{year}_{kind}.json")
+        data = _load_json(path, rel_for_remote=rel)
+        if isinstance(data, dict) and isinstance(data.get(date_key, {}).get("runs"), dict):
+            return sorted(list(data[date_key]["runs"].keys()))
+        return []
+
+    t_runs = _get_runs("tech", tech_runs)
+    f_runs = _get_runs("finance", fin_runs)
+
+    # merge (in case index had older runs)
     prev = idx.get(date_key, {})
-    prev["tech"] = int(tech_count or 0)
-    prev["finance"] = int(fin_count or 0)
-    idx[date_key] = prev
+    t_full = sorted(list(set((prev.get("tech") or []) + t_runs)))
+    f_full = sorted(list(set((prev.get("finance") or []) + f_runs)))
+
+    idx[date_key] = {"tech": t_full, "finance": f_full}
 
     with open(idx_path, "w", encoding="utf-8") as f:
-        json.dump(idx, f, ensure_ascii=False, indent=2, sort_keys=True)
+        json.dump(idx, f, ensure_ascii=False, indent=2)
     return idx_path
-
-# ----------------------- Optional: latest snapshots -----------------------
-
-def write_latest_snapshots(
-    date_key: str,
-    base_dir: str = "viewer",
-    include_tech: bool = True,
-    include_finance: bool = True
-) -> Dict[str, str]:
-    """
-    (Optional) Write small 'latest' files so the viewer can load them without scanning the year.
-      - viewer/data/latest_tech.json
-      - viewer/data/latest_finance.json
-    Shape matches normalize_for_viewer output (list).
-    """
-    out = {}
-    data_dir = _ensure_data_dir(base_dir)
-
-    if include_tech:
-        tech_year = _load_json(_year_path("tech", date_key, base_dir))
-        tech = tech_year.get(date_key, []) if isinstance(tech_year, dict) else []
-        p = os.path.join(data_dir, "latest_tech.json")
-        with open(p, "w", encoding="utf-8") as f:
-            json.dump(tech, f, ensure_ascii=False, indent=2, sort_keys=True)
-        out["tech"] = p
-
-    if include_finance:
-        fin_year = _load_json(_year_path("finance", date_key, base_dir))
-        fin = fin_year.get(date_key, []) if isinstance(fin_year, dict) else []
-        p = os.path.join(data_dir, "latest_finance.json")
-        with open(p, "w", encoding="utf-8") as f:
-            json.dump(fin, f, ensure_ascii=False, indent=2, sort_keys=True)
-        out["finance"] = p
-
-    return out

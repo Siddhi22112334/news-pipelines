@@ -1,4 +1,4 @@
-# ================== India Market News — grounded, validated, Telegram, backfill ==================
+# ================== India Market News — grounded, full-text, richer snapshots (no Telegram) ==================
 import os, re, json, html, textwrap, time, math
 import datetime as dt
 from typing import List, Dict, Any, Tuple
@@ -17,25 +17,19 @@ DEFAULT_WINDOW_MIN = int(os.getenv('DEFAULT_WINDOW_MIN', '15'))   # lookback min
 DEFAULT_MAX_ITEMS  = int(os.getenv('DEFAULT_MAX_ITEMS',  '10'))
 STATE_FILE   = os.getenv('STATE_FILE', os.getenv('FIN_STATE_FILE','seen_finnews.json'))
 
-# validation strictness toggle (can override from workflow env)
-STRICT_VALIDATION = os.getenv('STRICT_VALIDATION','true').lower() in ('1','true','yes')
-
 # OpenAI
 LLM_PROVIDER   = os.getenv('LLM_PROVIDER','openai').lower()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY','')
-OPENAI_MODEL   = os.getenv('OPENAI_MODEL','gpt-4o-mini')  # change if desired
+OPENAI_MODEL   = os.getenv('OPENAI_MODEL','gpt-4o-mini')
 
-# Telegram
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')
-TELEGRAM_CHAT_ID   = os.getenv('TELEGRAM_CHAT_ID', '')
+UTC = dt.timezone.utc
+IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 
-# Sources (official + diversified top outlets + Moneycontrol + FE sitemaps)
+# Sources
 FEEDS = [
-    # Regulators / Exchange (prefer official first)
     # 'https://www.sebi.gov.in/sebiweb/rss/sebi_rss.xml',
     # 'https://www.rbi.org.in/pressreleases_rss.xml',
     # 'https://www.rbi.org.in/notifications_rss.xml',
-    # 'https://nsearchives.nseindia.com/content/RSS/NSE_Ann_all.xml',   # uncomment if accessible
 ]
 MEDIA_RSS = [
     'https://feeds.reuters.com/reuters/INtopNews',
@@ -51,31 +45,8 @@ SITEMAPS = [
     'https://www.financialexpress.com/stock-market-indian-indices.xml',
 ]
 
-# Watchlist (boost or filter via run_brief args)
 WATCHLIST = [w.strip() for w in os.getenv('WATCHLIST','').split(',') if w.strip()]
 WATCHLIST_ONLY = os.getenv('WATCHLIST_ONLY','false').lower() in ('1','true','yes')
-
-# Beginner glossary (short, add more terms freely)
-GLOSSARY = {
-    "ipo": "Initial Public Offering — company sells shares to the public for the first time.",
-    "fpo": "Follow-on Public Offer — a listed company issues more shares to raise funds.",
-    "ofs": "Offer for Sale — promoters/large holders sell shares via exchange window.",
-    "pledge": "Promoters use their shares as collateral; high pledging is risky.",
-    "block deal": "Large buy/sell trade between big investors in a special window.",
-    "buyback": "Company purchases its own shares; usually supportive for price.",
-    "ebitda": "Earnings before interest, taxes, depreciation and amortization.",
-    "guidance": "Management’s outlook on revenue, margins, etc.",
-    "downgrade": "Broker/ratings agency cuts its view on a stock or debt.",
-    "upgrade": "Broker/ratings agency raises its view on a stock or debt.",
-    "capex": "Capital expenditure — spending on plants/equipment/expansion.",
-    "tender": "Competitive bidding to win a government or private contract.",
-    "dividend": "Cash paid to shareholders from profits.",
-    "split": "Shares are divided into more shares; market cap unchanged.",
-    "bonus": "Free additional shares to shareholders; market cap unchanged.",
-}
-
-UTC = dt.timezone.utc
-IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 
 MATERIAL = re.compile(
     r"(result|earnings|revenue|profit|loss|ebitda|guidance|merger|acquisit|scheme|stake|buyback|"
@@ -163,39 +134,33 @@ CLEAN_DROP_PATTERNS = [
     r"^Published on \w+ \d{1,2}, \d{4}", r"^Updated\s*-\s*", r"^Download the app", r"^Read more:"
 ]
 CLEAN_KEEP_HINTS = [
-    "results", "earnings", "profit", "loss", "revenue", "order", "contract", "tender", "merger",
-    "approval", "policy", "circular", "rating", "downgrade", "upgrade", "management", "stake",
-    "pledge", "ipo", "fpo", "ofs", "dividend", "split", "bonus", "guidance", "capex", "rbi", "sebi",
-    "nse", "bse", "rupee", "inflation", "gdp", "cpi", "wpi", "pmi", "oil", "crude", "yield"
+    "results","earnings","profit","loss","revenue","order","contract","tender","merger",
+    "approval","policy","circular","rating","downgrade","upgrade","management","stake",
+    "pledge","ipo","fpo","ofs","dividend","split","bonus","guidance","capex","rbi","sebi",
+    "nse","bse","rupee","inflation","gdp","cpi","wpi","pmi","oil","crude","yield"
 ]
 
 def _clean_lines(lines: List[str]) -> List[str]:
     kept = []
     for raw in lines:
         line = raw.strip()
-        if not line:
+        if not line: 
             continue
-        # drop boilerplate/prompts/etc
-        drop = any(re.search(pat, line, re.I) for pat in CLEAN_DROP_PATTERNS)
-        if drop:
+        if any(re.search(pat, line, re.I) for pat in CLEAN_DROP_PATTERNS):
             continue
-        # keep short-to-medium infoy lines; allow long only if it has keep hints
         if len(line) > 280 and not any(k in line.lower() for k in CLEAN_KEEP_HINTS):
             continue
         kept.append(line)
-    # de-dup nearby duplicates
-    deduped = []
-    seen = set()
+    deduped, seen = [], set()
     for l in kept:
         key = re.sub(r"\s+", " ", l.lower())[:160]
-        if key in seen:
+        if key in seen: 
             continue
         seen.add(key)
         deduped.append(l)
     return deduped[:120]
 
 def fetch_article_text(url: str) -> Tuple[str, str]:
-    """Return (title, cleaned_text). Uses trafilatura if available + boilerplate filters."""
     html_text = ''
     try:
         r = requests.get(url, timeout=25, headers={"User-Agent":"Mozilla/5.0"})
@@ -212,7 +177,6 @@ def fetch_article_text(url: str) -> Tuple[str, str]:
     extracted = ""
     if trafilatura:
         try:
-            # favor precision to avoid comments/UX fluff
             extracted = trafilatura.extract(
                 html_text, include_comments=False, include_tables=False,
                 url=url, favor_precision=True
@@ -221,16 +185,13 @@ def fetch_article_text(url: str) -> Tuple[str, str]:
             extracted = ""
 
     if not extracted:
-        # fallback: concatenated <p> tags
         paras = [p.get_text(" ", strip=True) for p in soup.find_all('p')]
         extracted = "\n".join(paras)
 
-    # clean & trim
     lines = [ln for ln in (extracted or "").splitlines()]
     cleaned_lines = _clean_lines(lines)
     cleaned = "\n".join(cleaned_lines).strip()
     return (title, cleaned)
-
 
 # ------------------- Filters / scoring -------------------
 def material_enough(title: str, summary: str, link: str) -> bool:
@@ -286,7 +247,6 @@ def diversify(items: List[Dict[str,Any]], max_per_domain: int = 2, limit: int = 
 
 # ------------------- Company quick research -------------------
 def wiki_summary(query: str) -> Tuple[str,str]:
-    """Return (summary, url) for best wiki search hit; empty if not found."""
     try:
         s = requests.get("https://en.wikipedia.org/w/api.php",
                          params={"action":"query","list":"search","srsearch":query,"format":"json","srlimit":1},
@@ -304,15 +264,10 @@ def wiki_summary(query: str) -> Tuple[str,str]:
         return ("","")
 
 def moneycontrol_company_blurb(name: str) -> Tuple[str,str]:
-    """
-    Best-effort: try Moneycontrol search and read meta description of first result page.
-    This is heuristic and may not always resolve to the exact company page.
-    """
     try:
         q = quote_plus(name + " Moneycontrol")
         r = requests.get(f"https://www.google.com/search?q={q}", timeout=12, headers={"User-Agent":"Mozilla/5.0"})
         r.raise_for_status()
-        # crude parse: pick first moneycontrol.com result link
         soup = BeautifulSoup(r.text, 'html.parser')
         a = soup.find('a', href=re.compile(r"^https?://www\.moneycontrol\.com/"))
         if not a: return ("","")
@@ -329,13 +284,12 @@ def moneycontrol_company_blurb(name: str) -> Tuple[str,str]:
 def guess_company_names(title: str, txt: str, wl: List[str]) -> List[str]:
     hits = watchlist_hits(f"{title} {txt}", wl)
     if hits: return hits
-    # common Indian company suffixes
     cand = re.findall(r"\b([A-Z][A-Za-z&.\- ]+(?:Ltd|Limited|Industries|Motors|Bank|Steel|Power|Pharma|Cements|Airways|Airlines|Technologies|Labs|Services))\b",
                       f"{title} {txt}")
     names = [c.strip() for c in cand]
     return sorted(set(names))[:2]
 
-# ------------------- LLM summarizer (STRICT & GROUNDED) -------------------
+# ------------------- LLM summarizer (STRICT & guard) -------------------
 ANALYST_PROMPT = """You are an India-focused markets analyst writing for beginners.
 
 GROUNDING:
@@ -363,16 +317,13 @@ Rules: concise, factual, mobile-friendly; no invented numbers/tickers; no invest
 Return JSON only.
 """
 
-# --- Make openai_summarize return the bullet structure *always* ---
 def openai_summarize(headline: str, article_text: str, source_url: str, company_context: str = "") -> Dict[str,Any]:
     if not (LLM_PROVIDER=='openai' and OPENAI_API_KEY):
         return {}
     try:
         url = "https://api.openai.com/v1/chat/completions"
         headers = {"Authorization": f"Bearer {OPENAI_API_KEY}", "Content-Type":"application/json"}
-
         ARTICLE = (article_text or "")[:12000]
-
         user = f"""SOURCE URL: {source_url}
 HEADLINE: {headline}
 
@@ -383,7 +334,6 @@ OPTIONAL COMPANY CONTEXT (background flavour only; do not add facts beyond ARTIC
 {(company_context or '')[:1200]}
 
 {ANALYST_PROMPT}"""
-
         payload = {
             "model": OPENAI_MODEL,
             "response_format": {"type":"json_object"},
@@ -397,22 +347,15 @@ OPTIONAL COMPANY CONTEXT (background flavour only; do not add facts beyond ARTIC
         r = requests.post(url, headers=headers, json=payload, timeout=75)
         r.raise_for_status()
         js = json.loads(r.json()["choices"][0]["message"]["content"])
-        # Normalize shape if the model returned what_happened instead of bullets
         if "bullets" not in js:
-            wh = js.get("what_happened","")
-            if isinstance(wh, str) and wh.strip():
-                # fallback: split into ~sentence bullets
-                bullets = [b.strip() for b in re.split(r"[.;]\s+", wh) if b.strip()]
-                js["bullets"] = bullets[:5]
+            js["bullets"] = []
         js["bullets"] = js.get("bullets", [])[:5]
         return js
     except Exception as e:
         print("[warn] OpenAI summarize error:", e)
         return {}
 
-# --- Add an extractive fallback that returns concise bullets ---
 def _extractive_bullets(text: str, k: int = 4) -> List[str]:
-    # pick sentences containing material keywords, capped at 24 words
     sents = re.split(r"(?<=[.!?])\s+", text or "")
     key = re.compile(r"(result|profit|loss|revenue|order|contract|tender|merger|approval|policy|rating|stake|pledge|ipo|dividend|split|bonus|guidance|capex|rbi|sebi|nse|bse|rupee|inflation|gdp|cpi|oil|yield)", re.I)
     picked = []
@@ -422,7 +365,6 @@ def _extractive_bullets(text: str, k: int = 4) -> List[str]:
             picked.append(" ".join(words[:24]))
         if len(picked) >= k:
             break
-    # if nothing matched, take first 2–3 short sentences
     if not picked:
         for s in sents[:3]:
             words = s.split()
@@ -446,85 +388,36 @@ def fallback_review(title: str, fulltext: str) -> Dict[str,Any]:
         "watch_next": []
     }
 
-# -------- Quality / anti-hallucination checks --------
-NUM_RE = re.compile(r"\b\d[\d,]*\.?\d*%?\b")
-
-def _numbers_in(s: str) -> List[str]:
-    return [n.strip().rstrip('.') for n in NUM_RE.findall(s or "")]
-
-def looks_like_dump_text(txt: str) -> bool:
-    """Flag pages that extracted poorly (paywall blurbs, cookie walls, 1–2 lines, etc.)."""
-    if not txt or len(txt) < 400:                    # very short
-        return True
-    sents = re.split(r"(?<=[.!?])\s+", txt.strip())
-    if len([s for s in sents if len(s.split()) >= 6]) < 3:   # <3 usable sentences
+def is_bad_review(rev: Dict[str,Any], fulltext: str) -> bool:
+    bullets = rev.get("bullets") or []
+    if not bullets: return True
+    joined = " ".join(bullets).lower()
+    if len(joined) < 60: return True
+    if "as an ai" in joined or "cannot access" in joined: return True
+    if len(set(bullets)) <= 1: return True
+    bad_phrases = ["not specified in the article", "cannot be determined", "insufficient information"]
+    if sum(1 for b in bullets if any(p in b.lower() for p in bad_phrases)) >= max(1, len(bullets)//2):
         return True
     return False
 
-def is_valid_review(review: Dict[str,Any], src_text: str, headline: str) -> bool:
-    """
-    Heuristics to reject junk/hallucinated output.
-    - Require 2–6 bullets with reasonable length.
-    - Numbers in bullets must appear in source text.
-    - Capitalized entities should appear in source/headline.
-    - Avoid summaries dominated by 'not specified in the article'.
-    """
-    if not isinstance(review, dict):
-        return False
-
-    bullets = review.get("bullets") or []
-    if not isinstance(bullets, list):
-        return False
-
-    # 2–6 bullets, each 4–28 words
-    if not (2 <= len(bullets) <= 6):
-        return False
-    for b in bullets:
-        wc = len((b or "").split())
-        if wc < 4 or wc > 28:
-            return False
-
-    if not STRICT_VALIDATION:
-        return True
-
-    low_src = (src_text or "").lower()
-    low_head = (headline or "").lower()
-
-    # Numbers must exist in source
-    for b in bullets:
-        for n in _numbers_in(b):
-            n_norm = n.replace(",", "")
-            if (n and n not in low_src) and (n_norm and n_norm not in low_src):
-                return False
-
-    # Capitalized entities in bullets should appear in source or headline
-    miss_caps = 0
-    for b in bullets:
-        words = re.findall(r"[A-Za-z][A-Za-z&.\-]{2,}", b)
-        if not words:
-            continue
-        cand = [w for w in words if (w[0].isupper() or w.isupper())]
-        for w in cand:
-            lw = w.lower()
-            if lw in {"the","and","with","for","from","into","over","under","after","before"}:
-                continue
-            if lw not in low_src and lw not in low_head:
-                miss_caps += 1
-                if miss_caps >= 3:
-                    return False
-
-    # Too many "not specified" hedges means model had nothing grounded
-    hedges = sum(1 for b in bullets if "not specified in the article" in (b or "").lower())
-    if hedges > len(bullets) // 2:
-        return False
-
-    # Impact sanity
-    if review.get("impact") not in {"Bullish","Bearish","Neutral", None}:
-        return False
-
-    return True
-
 # ------------------- Beginner notes -------------------
+GLOSSARY = {
+    "ipo": "Initial Public Offering — company sells shares to the public for the first time.",
+    "fpo": "Follow-on Public Offer — a listed company issues more shares to raise funds.",
+    "ofs": "Offer for Sale — promoters/large holders sell shares via exchange window.",
+    "pledge": "Promoters use their shares as collateral; high pledging is risky.",
+    "block deal": "Large buy/sell trade between big investors in a special window.",
+    "buyback": "Company purchases its own shares; usually supportive for price.",
+    "ebitda": "Earnings before interest, taxes, depreciation and amortization.",
+    "guidance": "Management’s outlook on revenue, margins, etc.",
+    "downgrade": "Broker/ratings agency cuts its view on a stock or debt.",
+    "upgrade": "Broker/ratings agency raises its view on a stock or debt.",
+    "capex": "Capital expenditure — spending on plants/equipment/expansion.",
+    "tender": "Competitive bidding to win a government or private contract.",
+    "dividend": "Cash paid to shareholders from profits.",
+    "split": "Shares are divided into more shares; market cap unchanged.",
+    "bonus": "Free additional shares to shareholders; market cap unchanged.",
+}
 def build_beginner_notes(text: str) -> List[Dict[str,str]]:
     found = []
     low = text.lower()
@@ -533,7 +426,7 @@ def build_beginner_notes(text: str) -> List[Dict[str,str]]:
             found.append({"term": term.upper(), "meaning": meaning})
     return found[:8]
 
-# ------------------- Output blocks -------------------
+# ------------------- Output block -------------------
 def to_html_block(item: Dict[str,Any]) -> str:
     it   = item['item']
     rev  = item['review']
@@ -546,19 +439,13 @@ def to_html_block(item: Dict[str,Any]) -> str:
     badge = {"Bullish":"🟢","Bearish":"🔴","Neutral":"⚪"}.get(impact,"⚪")
     affected = ", ".join(rev.get("affected") or []) or "—"
     watch = "; ".join(rev.get("watch_next") or []) or "—"
-
-    # bullets → HTML list of •
     bullets = rev.get("bullets") or []
     bullets_html = "\n".join([f"• {html.escape(b)}" for b in bullets[:5]]) or "• (no concise bullets available)"
-
-    # Beginner notes
     notes_str = "; ".join([f"{n['term']}: {n['meaning']}" for n in notes]) if notes else "—"
-
     comp_line = (
         f"{html.escape(comp)} (Source: <a href='{html.escape(comp_src)}'>{html.escape(comp_src)}</a>)"
         if comp and comp_src else (html.escape(comp) if comp else "—")
     )
-
     return (
         f"{badge} <b>{html.escape(rev.get('headline_rewrite') or it.get('title') or '[No title]')}</b>\n"
         f"{bullets_html}\n"
@@ -573,57 +460,6 @@ def to_html_block(item: Dict[str,Any]) -> str:
         f"<i>Not investment advice.</i>"
     )
 
-def google_about_blurb(name: str) -> Tuple[str,str]:
-    """Best-effort ‘about’ snippet if wiki/moneycontrol fail."""
-    try:
-        q = quote_plus(name + " about company")
-        r = requests.get(f"https://www.google.com/search?q={q}", timeout=12, headers={"User-Agent":"Mozilla/5.0"})
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, 'html.parser')
-        # very crude: pick a description-like span/div
-        cand = soup.find(['span','div'], string=re.compile(r"company|manufacturer|services|bank|financial|technology|telecom", re.I))
-        if cand:
-            return (cand.get_text(" ", strip=True)[:400], f"https://www.google.com/search?q={q}")
-    except Exception:
-        pass
-    return ("","")
-
-# Telegram has a hard limit (~4096 chars) — we’ll chunk long messages cleanly.
-TELEGRAM_MAX = 3800
-
-def send_telegram_html_long(text_html: str) -> bool:
-    if not (TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID):
-        return False
-    try:
-        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-        # split on paragraph boundaries if needed
-        parts = []
-        while len(text_html) > TELEGRAM_MAX:
-            # try to split at last newline before limit
-            cut = text_html.rfind("\n", 0, TELEGRAM_MAX)
-            if cut < 0: cut = TELEGRAM_MAX
-            parts.append(text_html[:cut])
-            text_html = text_html[cut:]
-        parts.append(text_html)
-
-        ok_all = True
-        for idx, p in enumerate(parts, 1):
-            hdr = f"(part {idx}/{len(parts)})\n" if len(parts) > 1 else ""
-            r = requests.post(url, data={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": hdr + p,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": "false"
-            }, timeout=20)
-            ok = (r.status_code == 200)
-            if not ok:
-                print("[warn] Telegram send failed:", r.text[:200])
-            ok_all = ok_all and ok
-        return ok_all
-    except Exception as e:
-        print("[warn] Telegram exception:", e)
-        return False
-
 # ------------------- Core runner -------------------
 def run_brief(
     window_min: int = None,
@@ -631,25 +467,16 @@ def run_brief(
     diversify_domains: int = 2,
     watchlist: List[str] = None,
     watchlist_only: bool = None,
-    send: bool = False
+    send: bool = False  # ignored
 ):
-    """
-    Pulls fresh India market-moving items, extracts full text, summarizes into short bullets,
-    validates summaries (anti-hallucination), backfills from reserves, dedupes by state,
-    diversifies by domain, and optionally sends compact HTML blocks to Telegram.
-    """
-
-    # ---- Config + watchlist mode ----
     window_min = window_min or DEFAULT_WINDOW_MIN
     max_items  = max_items  or DEFAULT_MAX_ITEMS
     wl = WATCHLIST if watchlist is None else [w.strip() for w in watchlist if w.strip()]
     wl_only = WATCHLIST_ONLY if watchlist_only is None else bool(watchlist_only)
 
-    print(f"[{dt.datetime.now()}] Start run_brief window={window_min} min, max={max_items}, "
-          f"diversify_per_domain={diversify_domains}, send={send}")
+    print(f"[{dt.datetime.now()}] Start finance run_brief window={window_min} min, max={max_items}, diversify_per_domain={diversify_domains}")
     print(f"   Watchlist: {wl or '—'} (mode: {'ONLY' if wl_only else 'BOOST'})")
 
-    # ---- Load 'seen' keys to avoid repeats across runs ----
     try:
         st = json.load(open(STATE_FILE, 'r', encoding='utf-8')) if os.path.exists(STATE_FILE) else {'seen': []}
     except Exception:
@@ -658,50 +485,32 @@ def run_brief(
     seen = set(tuple(x) if isinstance(x, list) else tuple(x) if isinstance(x, tuple) else x for x in raw_seen)
     print(f"   Seen size: {len(seen)}")
 
-    # ---- Collect candidates from RSS (official/regulators first, then media) ----
     candidates: List[Dict[str, Any]] = []
     for url in FEEDS + MEDIA_RSS:
-        print(f"→ Fetching RSS: {url}")
         arr = fetch_rss(url)
-        print(f"   pulled {len(arr)}")
         for it in arr:
-            if not it.get('link'):
-                continue
-            if not is_fresh(it['time'], window_min):
-                continue
-            if not material_enough(it.get('title', ''), it.get('summary', ''), it['link']):
-                continue
-
+            if not it.get('link'): continue
+            if not is_fresh(it['time'], window_min): continue
+            if not material_enough(it.get('title', ''), it.get('summary', ''), it['link']): continue
             key = (domain_of(it['link']), urlparse(it['link']).path)
-            if key in seen:
-                continue
-
+            if key in seen: continue
             wl_hits = watchlist_hits(f"{it.get('title','')} {it.get('summary','')}", wl)
-            if wl_only and wl and not wl_hits:
-                continue
-
+            if wl_only and wl and not wl_hits: continue
             candidates.append(it | {'_key': key, '_wl_hits': wl_hits})
-        print(f"   candidates total: {len(candidates)}")
 
-    # ---- Add candidates from select sitemaps (e.g., Financial Express), fresh-only ----
     for sm in SITEMAPS:
-        print(f"→ Fetching sitemap: {sm}")
         arr = fetch_sitemap(sm, limit=60)
         fresh = [x for x in arr if is_fresh(x['time'], window_min)]
-        print(f"   sitemap fresh items: {len(fresh)}")
         for it in fresh:
             key = (domain_of(it['link']), urlparse(it['link']).path)
-            if key in seen:
-                continue
+            if key in seen: continue
             it.update({'_key': key, '_wl_hits': []})
             candidates.append(it)
-        print(f"   candidates total: {len(candidates)}")
 
     if not candidates:
         print(f"[{dt.datetime.now()}] No fresh items found.")
         return []
 
-    # ---- Preliminary scoring (quality + recency + watchlist + theme keywords) ----
     print(f"[{dt.datetime.now()}] Scoring {len(candidates)} candidates")
     def prelim_score(x):
         q = quality_weight(x['link'])
@@ -710,44 +519,27 @@ def run_brief(
         th = theme_score(f"{x.get('title','')} {x.get('summary','')}")
         return q * 10 + wl_boost + th + rec
 
-    ranked = sorted(candidates, key=prelim_score, reverse=True)[:max_items * 4]  # overselect for diversification
-    diversified = diversify(ranked, max_per_domain=diversify_domains, limit=max_items * 2)
+    ranked = sorted(candidates, key=prelim_score, reverse=True)[:max_items * 6]
+    diversified = diversify(ranked, max_per_domain=diversify_domains, limit=max_items * 3)
 
-    # ---- Fetch full text for diversified set; re-check materiality; enrich with features ----
     selected: List[Dict[str, Any]] = []
     for it in diversified:
-        t0 = time.time()
         title, text = fetch_article_text(it['link'])
-        if not title and not text:
-            continue
-
-        # fill missing fields from full page
-        if not it.get('title'):
-            it['title'] = title
-        if not it.get('summary'):
-            it['summary'] = (text or '')[:300]
-
-        # recheck materiality using full text as well
+        if not title and not text: continue
+        if not it.get('title'): it['title'] = title
+        if not it.get('summary'): it['summary'] = (text or '')[:300]
         if not material_enough(it['title'], (it.get('summary', '') or '') + " " + (text or ''), it['link']):
             continue
-
         wl_hits = list(set(it.get('_wl_hits', []) + watchlist_hits(f"{title} {text}", wl)))
         it['_wl_hits'] = wl_hits
         it['_themes'] = theme_score(text or "")
         it['_fulltext'] = text or ""
         selected.append(it)
 
-        print(f"   [+] {domain_of(it['link'])} :: {it['title'][:80]} "
-              f"(fetch {time.time() - t0:.1f}s, wl_hits={len(wl_hits)}, theme={it['_themes']})")
-
-        if len(selected) >= max_items * 4:  # gather enough for backfill
-            break
-
     if not selected:
         print("[info] Nothing material after full-text check.")
         return []
 
-    # ---- Final scoring with full text signal ----
     def final_score(x):
         q = quality_weight(x['link'])
         rec = 1.0 / max(1, int((now_utc() - x['time']).total_seconds() // 60))
@@ -755,64 +547,31 @@ def run_brief(
         th = x.get('_themes', 0)
         return q * 12 + wl_boost + th * 2 + rec
 
-    ranked_full = sorted(selected, key=final_score, reverse=True)
+    items_all = sorted(selected, key=final_score, reverse=True)
 
-    # Take extra to allow replacements; primary + backups
-    primary = ranked_full[:max_items * 2]
-    backups = ranked_full[max_items * 2 : max_items * 4]  # reserve
-    pool = primary + backups
-    print(f"[{dt.datetime.now()}] Pool size for summarization (incl. backups): {len(pool)}")
-
-    # ---- Summarize with validation; backfill until we reach max_items ----
     results = []
-    used_items = []  # track which items were actually accepted (for 'seen' update)
-
-    for idx, it in enumerate(pool, 1):
+    print("\n=== Diversified India Market Brief ===\n")
+    for it in items_all:
         if len(results) >= max_items:
             break
 
-        print(f"[{dt.datetime.now()}] Summarizing {idx}/{len(pool)}: {it['title'][:88]} ...")
-
-        # Guess company names & build quick snapshot
         comp_names = guess_company_names(it['title'], it.get('_fulltext', ''), wl)
         comp_summary, comp_url = "", ""
         if comp_names:
-            comp_summary, comp_url = wiki_summary(comp_names[0]) or ("","")
+            comp_summary, comp_url = wiki_summary(comp_names[0])
             if not comp_summary:
                 mc_desc, mc_url = moneycontrol_company_blurb(comp_names[0])
                 if mc_desc:
                     comp_summary, comp_url = mc_desc, mc_url
-            if not comp_summary:
-                g_desc, g_url = google_about_blurb(comp_names[0])
-                if g_desc:
-                    comp_summary, comp_url = g_desc, g_url
 
-        # If source text is a dump, skip early
-        src_text = it.get('_fulltext','') or it.get('summary','')
-        if looks_like_dump_text(src_text):
-            print("   [skip] page looks like a dump/too short; taking a backup item.")
+        rev = openai_summarize(it['title'], it.get('_fulltext', '') or it.get('summary', ''), it['link'], comp_summary or "")
+        if not rev:
+            rev = fallback_review(it['title'], it.get('_fulltext', '') or it.get('summary', ''))
+        if is_bad_review(rev, it.get('_fulltext','')):
+            print("   [skip] low-quality summary for:", it['title'][:80])
             continue
 
-        # LLM summary (strict JSON) or extractive fallback
-        rev = openai_summarize(
-            it['title'],
-            src_text,
-            it['link'],
-            comp_summary or ""
-        ) or {}
-
-        # Validate; if invalid, try extractive fallback once
-        if not is_valid_review(rev, src_text, it['title']):
-            rev_fb = fallback_review(it['title'], src_text)
-            if not is_valid_review(rev_fb, src_text, it['title']):
-                print("   [skip] summary looked noisy/hallucinated; using another article.")
-                continue
-            else:
-                rev = rev_fb
-
-        # Beginner notes from the article text
-        notes = build_beginner_notes(src_text)
-
+        notes = build_beginner_notes(it.get('_fulltext', '') or it.get('summary', ''))
         results.append({
             'item': it,
             'review': rev,
@@ -820,29 +579,15 @@ def run_brief(
             'company_snapshot': (comp_summary or "")[:600],
             'company_source': comp_url
         })
-        used_items.append(it)
 
-    if not results:
-        print("[info] No valid articles after validation.")
-        return []
-
-    # ---- Print + optional Telegram send ----
-    print("\n=== Diversified India Market Brief ===\n")
-    for r in results:
-        block_html = to_html_block(r)
-
-        # Console: also print a plain-text version (strip tags)
-        plain = re.sub('<[^<]+?>', '', block_html)
-        print(textwrap.dedent(plain))
+        block_html = to_html_block(results[-1])
+        print(textwrap.dedent(re.sub('<[^<]+?>', '', block_html)))
         print('-' * 90)
 
-        if send and TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID:
-            ok = send_telegram_html_long(block_html)
-            print(f"   → Telegram sent? {ok}")
-
-    # ---- Update 'seen' state (ONLY for accepted items) ----
+    # persist seen
     seen_keys = set(tuple(x) if isinstance(x, list) else tuple(x) if isinstance(x, tuple) else x for x in raw_seen)
-    for it in used_items:
+    for r in results:
+        it = r['item']
         seen_keys.add((domain_of(it['link']), urlparse(it['link']).path))
     try:
         json.dump({'seen': [list(k) for k in seen_keys]}, open(STATE_FILE, 'w', encoding='utf-8'))
@@ -852,9 +597,5 @@ def run_brief(
 
     return results
 
-
-print("✅ Notebook helpers loaded (grounded summaries + Telegram + richer company snapshots + validation/backfill)")
-
 if __name__ == "__main__":
-    results = run_brief(window_min=1400, max_items=6, diversify_domains=2, send=True)
-    print(f"Items returned: {len(results)}")
+    print("✅ Finance pipeline loaded (no Telegram, appending runs)")
