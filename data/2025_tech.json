@@ -22,26 +22,6 @@
     },
     {
       "item": {
-        "title": "OpenAI links up with Broadcom to produce its own AI chips",
-        "link": "https://www.ft.com/content/e8cc6d99-d06e-4e9b-a54f-29317fa68d6f",
-        "site_name": "Ars Technica",
-        "novelty_hash": "f49613cafeefa0f5315d7396335505f9add6b22d"
-      },
-      "review": {
-        "headline_rewrite": "OpenAI links up with Broadcom to produce its own AI chips",
-        "bullets": [
-          "OpenAI is set to produce its own artificial intelligence chip for the first time next year, as the ChatGPT maker attempts to address insatiable demand for computing power and reduce its reliance on chip giant Nvidia.",
-          "The chip, co-designed with US semiconductor giant Broadcom, would ship next year, according to multiple people familiar with the partnership.",
-          "OpenAI’s move follows the strategy of tech giants such as Google, Amazon and Meta, which have designed their own specialised chips to run AI workloads.",
-          "The industry has seen huge demand for the computing power to train and run AI models.",
-          "OpenAI planned to put the chip to use internally, according to one person close to the project, rather than make them available to external customers.",
-          "Last year it began an initial collaboration with Broadcom, according to reports at the time, but the timeline for mass production of a successful chip design had previously been unclear."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
         "title": "OpenAI hires the team behind Xcode coding assistant Alex Codes",
         "link": "https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/",
         "site_name": "TechCrunch",
@@ -65,17 +45,17 @@
         "title": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem",
         "link": "https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/",
         "site_name": "TechCrunch",
-        "novelty_hash": "872547ca4c6ce9d15c5515b9315fefcf92dc7ae3"
+        "novelty_hash": "cf1d37b1d91e7897c84d358ec5e695ed3b2332bd"
       },
       "review": {
         "headline_rewrite": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem",
         "bullets": [
+          "Isotopes AI came out of stealth on Thursday with a healthy $20 million seed round.",
           "It offers an AI agent to solve a problem that data analytics products have struggled with for decades: The people who know how to run the big data infrastructure are not the ones who actually need to use the data.",
           "With LLMs, business managers can ask questions of their data in natural language.",
-          "Isotopes’ agent, Aidnn, can provide answers and draft complex planning documents, gathering data from wherever it’s stored like finance apps, ERP, CRM, and cloud storage.",
-          "Their product is therefore so sophisticated, the startup has already applied for 10 patents, co-founder CEO Arun Murthy told TechCrunch.",
-          "In 2011, Yahoo spun it out into a company called Hortonworks, with Murthy as co-founder and chief product officer.",
-          "Just four years after launch, Hortonworks went public."
+          "Isotopes’ agent, Aidnn, can provide answers and draft complex planning documents, gathering data from wherever it’s stored, like finance apps, ERP, CRM, and cloud storage.",
+          "Their product is so sophisticated, the startup has already applied for 10 patents, co-founder CEO Arun Murthy told TechCrunch.",
+          "In 2011, Yahoo spun it out into a company called Hortonworks, with Murthy as co-founder and chief product officer."
         ],
         "impact": "Negative"
       }
@@ -85,7 +65,7 @@
         "title": "What would actually make the Apple Watch better?",
         "link": "https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables",
         "site_name": "The Verge",
-        "novelty_hash": "3a296ae66212fd82475911ec0cc6fe513f2f5419"
+        "novelty_hash": "3016211f83eb9422584230fc9ebc01924dbad21d"
       },
       "review": {
         "headline_rewrite": "What would actually make the Apple Watch better?",
@@ -102,20 +82,38 @@
     },
     {
       "item": {
-        "title": "Columbia tries using AI to cool off student tensions",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests",
+        "title": "The Exit 8 movie is even scarier than the game",
+        "link": "https://www.theverge.com/film/769133/tiff-2025-nouvelle-vague-exit-8-reviews",
         "site_name": "The Verge",
-        "novelty_hash": "085fd770fd39bd7dd0dd3e2bbdc57ba1e4a920b5"
+        "novelty_hash": "c845177d4a28649da8ad4cf55ba2ee79487dcb9a"
       },
       "review": {
-        "headline_rewrite": "Columbia tries using AI to cool off student tensions",
+        "headline_rewrite": "The Exit 8 movie is even scarier than the game",
         "bullets": [
-          "Can AI help “smooth over” discussion on abortion, racism, immigration, or Israel-Palestine?",
-          "The Verge has learned that the university recently began testing Sway, an AI debate program currently in beta.",
-          "The university has spent years at the center of controversy after controversy: expulsions of pro-Palestinian student protesters, a string of police raids, and demands from the federal government.",
-          "People at Columbia’s Teachers College are testing Sway in order to potentially integrate it into the conflict resolution curriculum and “bridge-building initiatives at Columbia,” DiBella said.",
-          "He said there’s also been interest from other teams at Columbia in using Sway for the fall 2026 semester and onward.",
-          "Sway places an “AI Guide” in every chat that “asks tough questions to improve student reasoning.” The tool also “suggests a rephrasing” for language it deems disrespectful."
+          "If you were ever curious what a Verge reporter takes with them to sit on a train and then a theater all day, well, today’s your lucky day.",
+          "It certainly looks the part, rendered in black and white, and with copious scenes in smoky Parisian bars and cafes.",
+          "Without over-explaining the mystery, the movie expands it, with more terrifying anomalies and actual characters with backstories that create a heart-pounding sense of urgency.",
+          "Most Popular\n- Microsoft is about to shake up its Copilot pricing for businesses\n- The Browser Company, maker of Arc and Dia, is being acquired\n- How Wikipedia survives while the rest of the internet breaks\n- Google Photos now lets you animate your camera roll with Veo 3 for free\n- Philips Hue lights get bigger, brighter, and cheaper with a major product refresh"
+        ],
+        "impact": "Positive"
+      }
+    },
+    {
+      "item": {
+        "title": "The best new computers to replace your old Windows 10 PC",
+        "link": "https://www.engadget.com/computing/the-best-new-computers-to-replace-your-old-windows-10-pc-134500000.html",
+        "site_name": "Engadget",
+        "novelty_hash": "68a1135eedb5b936772c5f265a44ee8cb6f0bb67"
+      },
+      "review": {
+        "headline_rewrite": "The best new computers to replace your old Windows 10 PC",
+        "bullets": [
+          "Read more about how we evaluate products.",
+          "Sure, you can kick the can down the road by signing up for the free 12-month Extended Security Updates.",
+          "But even if your computer meets the minimum system requirements for a free Windows 11 upgrade, anything older than a year won't be able to take advantage of Microsoft's Copilot+ AI PC features, like Windows Recall or Studio Effects for video chats.",
+          "It's incredibly light, surprisingly powerful for something with a mobile chip and its battery lasted over 17-and-a-half hours in our testing.",
+          "The S14 is also lighter than the MacBook Air, and it includes more useful ports (two USB-C, one USB-A, HDMI and a headphone jack).",
+          "(Check out our full review of the ASUS ZenBook S 14.)\nApple MacBook Air\nDon't yell at me — Apple's new computers are so good that Windows users should seriously consider jumping ship to Macs."
         ],
         "impact": "Negative"
       }
