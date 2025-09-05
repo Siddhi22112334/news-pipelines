@@ -101,15 +101,18 @@
     },
     {
       "item": {
-        "title": "Sam Altman, Tim Cook, and other tech leaders lauded Trump at a White House AI dinner",
-        "link": "https://news.google.com/read/CBMipAFBVV95cUxOQ0ttbEZHbGt3Z2NYcUNycjNiampKMUJhSTh4cEs1LW8yQTZsZGpXOGdVV05fMU1kMXpnanpPVDdIdXJGaGdiY0djWVk1MXVHdXRSMTl1RmM0LW81NFZqMnFPbUJxdEdpS1N3LTdwR25LZXIyaTBUNHFxZzZNSnVyQzFTU3g2Sk9Rd2w3VEcyRzdELVFlMlo4YmdhbzdWMmpzcFItRg",
-        "site_name": "Google News",
-        "novelty_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        "title": "AI News",
+        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+        "site_name": "The Times of India",
+        "novelty_hash": "c2cb3f5b34da9c96df06a5444a16cf6e8fb317f7"
       },
       "review": {
-        "headline_rewrite": "Sam Altman, Tim Cook, and other tech leaders lauded Trump at a White House AI dinner",
-        "bullets": [],
-        "impact": "Neutral"
+        "headline_rewrite": "AI News",
+        "bullets": [
+          "‘We have apologised to…’: Australia’s biggest bank decides not to replace human jobs with AI\nThe Commonwealth Bank of Australia (CBA) has backtracked on its plan to eliminate 45 customer service positions due to AI implementation, following pressure from the Finance Sector Union.",
+          "CBA admitted its assessment was flawed and offered affected employees options to remain, apply elsewhere, or exit."
+        ],
+        "impact": "Negative"
       }
     }
   ]
