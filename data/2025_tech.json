@@ -1,23 +1,23 @@
 {
   "2025-09-06": {
     "runs": {
-      "02:09": [
+      "02:43": [
         {
           "item": {
-            "title": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment",
-            "link": "https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/",
+            "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
+            "link": "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/",
             "site_name": "TechCrunch",
-            "novelty_hash": "57f75b48269d2709f11015124d8fad4d45f8a0e5"
+            "novelty_hash": "1cea926c7e926535208abc540ffaaa8d3c7c2a21"
           },
           "review": {
-            "headline_rewrite": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment",
+            "headline_rewrite": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
             "bullets": [
-              "Common Sense Media, a kids-safety-focused nonprofit offering ratings and reviews of media and technology, released its risk assessment of Google’s Gemini AI products on Friday.",
-              "While the organization found that Google’s AI clearly told kids it was a computer, not a friend — something that’s associated with helping drive delusional thinking and psychosis in emotionally vulnerable individuals — it did suggest that there was room for improvement across several other fronts.",
-              "Notably, Common Sense said that Gemini’s “Under 13” and “Teen Experience” tiers both appeared to be the adult versions of Gemini under the hood, with only some additional safety features added on top.",
-              "The organization believes that for AI products to truly be safer for kids, they should be built with child safety in mind from the ground up.",
-              "The latter could be of particular concern to parents, as AI has reportedly played a role in some teen suicides in recent months.",
-              "OpenAI is facing its first wrongful death lawsuit after a 16-year-old boy died by suicide after allegedly consulting with ChatGPT for months about his plans, having successfully bypassed the chatbot’s safety guardrails."
+              "Around half a million writers will be eligible for a payday of at least $3,000, thanks to a historic $1.5 billion settlement in a class action lawsuit that a group of authors brought against Anthropic.",
+              "Tech giants are racing to amass as much written material as possible to train their LLMs, which power groundbreaking AI chat products like ChatGPT and Claude — the same products that are endangering the creative industries, even if their outputs are milquetoast.",
+              "These AIs can become more sophisticated when they ingest more data, but after scraping basically the entire internet, these companies are literally running out of new information.",
+              "That’s why Anthropic, the company behind Claude, pirated millions of books from “shadow libraries” and fed them into its AI.",
+              "Anthropic, is one of dozens filed against companies like Meta, Google, OpenAI, and Midjourney over the legality of training AI on copyrighted works.",
+              "But writers aren’t getting this settlement because their work was fed to an AI — this is just a costly slap on the wrist for Anthropic, a company that just raised another $13 billion, because it illegally downloaded books instead of buying them."
             ],
             "impact": "Negative"
           }
@@ -38,6 +38,26 @@
               "“Whatever safeguards were in place did not work.”\nThe two state officials are currently investigating OpenAI’s proposed restructuring into a for-profit entity to ensure that the mission of the nonprofit remains intact.",
               "“It is our shared view that OpenAI and the industry at large are not where they need to be in ensuring safety in AI products’ development and deployment.",
               "As we continue our dialogue related to OpenAI’s recapitalization plan, we must work to accelerate and amplify safety as a governing force in the future of this powerful technology.”\nBonta and Jennings have asked for more information about OpenAI’s current safety precautions and governance, and said they expect the company to take immediate remedial measures where appropriate."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
+            "link": "https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement",
+            "site_name": "The Verge",
+            "novelty_hash": "c9dd62d20ad18b84428589aaea3e13f6f004bcf4"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
+            "bullets": [
+              "In what’s potentially the first major payout to creatives whose work was used to train AI systems, Anthropic has reached an agreement to pay “at least” a staggering $1.5 billion, plus interest, to authors to settle its class-action lawsuit.",
+              "Lawyers for the plaintiffs said it’s “believed to be the largest publicly reported recovery in the history of US copyright litigation.”\nAnthropic to pay $1.5 billion to authors in landmark AI settlement\nLawyers said it’s believed to be the largest-ever settlement in a US copyright case, paying about $3,000 per book.",
+              "According to a press release, the final amount could be higher, in that approximately 500,000 works will likely be paid out, but if the total is higher than that, Anthropic will pay an additional $3,000 per work, and it all depends on the number of claims submitted.",
+              "“The settlement only releases claims based on past acts – it does not give Anthropic a license or permission for future AI training and it does not release any claims that arise after August 25, 2025,” the release stated.",
+              "In August 2024, three authors — Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson — alleged that Anthropic had “built a multibillion-dollar business by stealing hundreds of thousands of copyrighted books.” Over the summer, a federal judge handed Anthropic a small win, ruling that the company was within its legal rights to train its AI models on legally purchased books.",
+              "But the judge also said that Anthropic would need to face a separate trial for its alleged use of pirated books."
             ],
             "impact": "Negative"
           }
@@ -83,42 +103,19 @@
         },
         {
           "item": {
-            "title": "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic",
-            "link": "https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons",
+            "title": "Classic Sesame Street episodes are coming to YouTube",
+            "link": "https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix",
             "site_name": "The Verge",
-            "novelty_hash": "23467f89292680fe469b181d94c1f82d75d5574a"
+            "novelty_hash": "d6087fac9f6d13ebed2de7431099af82ba4d49c2"
           },
           "review": {
-            "headline_rewrite": "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic",
+            "headline_rewrite": "Classic Sesame Street episodes are coming to YouTube",
             "bullets": [
-              "Showrunner — the startup that wants to “revolutionize” the entertainment industry by charging people to prompt up AI-generated videos featuring copyrighted IP — is working on a new project to restore an Orson Welles classic.",
-              "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic\nThe aspiring ‘Netflix of AI’ has a plan to remake the original cut of Welles’ adaptation of The Magnificent Ambersons.",
-              "On Friday, Showrunner announced that it has designed a new generative AI model that is meant to help recreate lost footage from The Magnificent Ambersons, Welles’ 1942 adaptation of Booth Tarkington’s 1918 novel about a family whose vast fortune is being decimated by tech-driven industrialization.",
-              "Though Welles initially crafted a version of the film whose runtime clocked in at 131 minutes, RKO — one of the project’s production companies — cut it down to 88 minutes without the director’s input after he lost control of the editing process.",
-              "He reportedly later said that “they destroyed Ambersons and it destroyed me.”\nBut Showrunner believes that, by using generative AI, it can bring back the lost footage and give people a chance to see The Magnificent Ambersons as Welles originally intended.",
-              "In a statement to The Hollywood Reporter about the new project, Showrunner co-founder Edward Saatchi admitted that while generative AI as it currently exists “can’t sustain a story beyond one short episode,” he is confident that “the technology is getting closer to prompting entire films with AI.”\nWhile Welles wrote detailed notes about how he wanted The Magnificent Amersons to be cut, RKO did not follow them and the studio ultimately destroyed the negatives correlating to the film’s lost footage for storage reasons."
+              "Once the episodes are available, “YouTube will have the largest digital library of Sesame Street content,” Sesame Workshop says.",
+              "The new episodes will also be available “same day-and-date in the US on PBS stations and PBS KIDS digital platforms.”\nLast year, Warner Bros.",
+              "Discovery chose not to renew its deal with Sesame Workshop to air new Sesame Street episodes on the streaming service now known (once again) as HBO Max."
             ],
-            "impact": "Negative"
-          }
-        },
-        {
-          "item": {
-            "title": "Join Us for WIRED’s AI Power Summit",
-            "link": "https://www.wired.com/story/wired-ai-power-summit/",
-            "site_name": "WIRED",
-            "novelty_hash": "cf0351628a9f1fe51ccb8664f9475147ddac0f1f"
-          },
-          "review": {
-            "headline_rewrite": "Join Us for WIRED’s AI Power Summit",
-            "bullets": [
-              "The strength and capabilities of generative AI are accelerating at a dizzying pace.",
-              "That’s why WIRED is hosting its first AI Power Summit on September 15 in New York City.",
-              "We’ve curated a series of panels and conversations with experts who will distill and discuss the implications of today’s most crucial AI-related news.",
-              "We’ll break down the White House’s AI Action Plan and examine its consequences across industries; explore how emerging regulations could redefine the trajectory of innovation and shape public policy; and discuss who stands to gain—and who stands to lose—in AI’s next chapter.",
-              "Speakers include:\n- Dean Ball, Senior Fellow, Foundation for American Innovation\n- Jim Bankoff, Cofounder, Chair, CEO, Vox Media\n- Richard Blumenthal, US Senator (D-Connecticut)\n- Katie Drummond, Global Editorial Director, WIRED\n- Mike Kubzansky, CEO, Omidyar Network\n- Steven Levy, Editor-at-Large, WIRED\n- Roger Lynch, CEO, Condé Nast\n- Tim Marchman, Director of Science, Politics, Security, WIRED\n- Mike Reed, CEO, Gannett | USA TODAY Network\n- Cristóbal Valenzuela, CEO, Runway\n- Neil Vogel, CEO, People Inc.",
-              "- Kent Walker, President, Global Affairs, Google\n- Anna Wintour, Chief Content Officer, Condé Nast\nWIRED subscribers will have exclusive first access to a livestream of the event."
-            ],
-            "impact": "Negative"
+            "impact": "Neutral"
           }
         }
       ]
