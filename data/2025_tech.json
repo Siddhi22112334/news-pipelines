@@ -1,7 +1,7 @@
 {
   "2025-09-06": {
     "runs": {
-      "04:44": [
+      "05:06": [
         {
           "item": {
             "title": "Silicon Valley’s most powerful alliance just got stronger",
@@ -18,6 +18,42 @@
               "You can see Cue’s arguments at trial mirrored in Mehta’s ruling: the Apple SVP said it would be “crazy” to punish the iPhone maker by restricting Google’s ability to pay for default status, and that the rise of AI companies was remaking the search market anyway.",
               "One specific effect he cited was “fewer products and less product innovation from Apple,” one of the world’s richest companies.",
               "(Google’s payments to Apple are estimated to make up about 15% of its annual profit.)\nMehta cited the rise of generative AI companies like OpenAI and Perplexity as evidence that there is finally competition in the search market."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI reorganizes research team behind ChatGPT’s personality",
+            "link": "https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f32f7dda872aa0b4b2bd0ff72f30fec34cc89690"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI reorganizes research team behind ChatGPT’s personality",
+            "bullets": [
+              "OpenAI is reorganizing its Model Behavior team, a small but influential group of researchers that shape how the company’s AI models interact with people, TechCrunch has learned.",
+              "In an August memo to staff seen by TechCrunch, OpenAI’s Chief Research Officer Mark Chen said the Model Behavior team — which consists of roughly 14 researchers — would be joining the Post Training team, a larger research group responsible for improving the company’s AI models after their initial pre-training.",
+              "As part of the changes, the Model Behavior team will now report to OpenAI’s Post Training lead Max Schwarzer.",
+              "An OpenAI spokesperson confirmed these changes to TechCrunch.",
+              "In an interview with TechCrunch, Jang says she’s building out a new research team called OAI Labs, which will be responsible for “inventing and prototyping new interfaces for how people collaborate with AI.”\nThe Model Behavior team has become one of OpenAI’s key research groups, responsible for shaping the personality of the company’s AI models and for reducing sycophancy — which occurs when AI models simply agree with and reinforce user beliefs, even unhealthy ones, rather than offering balanced responses.",
+              "The team has also worked on navigating political bias in model responses, and helped OpenAI define its stance on AI consciousness."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Who can get a COVID vaccine—and how? It’s complicated.",
+            "link": "https://arstechnica.com/health/2025/09/who-can-get-a-covid-vaccine-and-how-its-complicated/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "035c0b51c7b7d8eac9dbefa9cd0fb0cad3076161"
+          },
+          "review": {
+            "headline_rewrite": "Who can get a COVID vaccine—and how? It’s complicated.",
+            "bullets": [
+              "Top vaccine and infectious disease officials at the Centers for Disease Control and Prevention—which sets federal vaccination recommendations—said they also learned of the change via X.",
+              "Kennedy's FDA underlings—FDA Commissioner Martin Makary and top vaccine regulator, Vinay Prasad—laid out the plans alongside a lengthy list of health conditions in a commentary piece published in the New England Journal of Medicine."
             ],
             "impact": "Negative"
           }
@@ -63,24 +99,6 @@
         },
         {
           "item": {
-            "title": "Zuckerberg caught on hot mic telling Trump ‘I wasn’t sure’ how much to promise to spend on AI in the US",
-            "link": "https://www.engadget.com/zuckerberg-caught-on-hot-mic-telling-trump-i-wasnt-sure-how-much-to-promise-to-spend-on-ai-in-the-us-211915608.html",
-            "site_name": "Engadget",
-            "novelty_hash": "1ec73762aa414c4490832f09f0765f266d162277"
-          },
-          "review": {
-            "headline_rewrite": "Zuckerberg caught on hot mic telling Trump ‘I wasn’t sure’ how much to promise to spend on AI in the US",
-            "bullets": [
-              "Mark Zuckerberg has certainly come a long way in his relationship with President Donald Trump.",
-              "The nearly three dozen CEOs and execs in attendance took turns praising and thanking Trump.",
-              "A year ago, the then-former president was threatening the Facebook founder with jail time.",
-              "Not only is Zuckerberg promising to spend massive amounts on money in the US on AI infrastructure, he's seemingly confirming that Trump approves of the specific number."
-            ],
-            "impact": "Negative"
-          }
-        },
-        {
-          "item": {
             "title": "Technology Sep 5, 2025 iPhone 17 series alleged spec sheet and price leaks online ahead of September 9 launch: Here’s what to expect Apple's iPhone 17 series, including the iPhone 17 Air, Pro, and Pro Max, is anticipated to launch on September 9th. Leaks suggest enhanced processors, improved thermal management, and upgraded cameras across the lineup.",
             "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/iphone-17-series-alleged-spec-sheet-and-price-leaks-online-ahead-of-september-9-launch-heres-what-to-expect/articleshow/123714690.cms",
             "site_name": "The Times of India",
@@ -97,26 +115,6 @@
               "It adds that the entire iPhone 17 series is expected to see major camera upgrades, with the front camera moving from 12MP to 24MP and all rear cameras raised to 48MP."
             ],
             "impact": "Positive"
-          }
-        },
-        {
-          "item": {
-            "title": "News Showcase",
-            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
-            "site_name": "Google News",
-            "novelty_hash": "80cbb6dddc672bfc10bc83ac8af4f729d0fd31e7"
-          },
-          "review": {
-            "headline_rewrite": "News Showcase",
-            "bullets": [
-              "Economic stagnation fears\nUS unemployment near 4-year high as labor market softensNews Showcase\nStories selected by newsroom editors\nROCHESTER MINNESOTA NEWS\nLatest Headlines\nSoMd Evening Headlines for 9/5/2025\nCAPITOLHILLSEATTLE.COM\nSanta Monica Pier Corporation will honor local legends\nHappening in Loudoun County\nLatest and Local – Gillette, WY\nFriday's news in Arlington, Virginia\nAfternoon Update\nBusiness\nFrontier Airlines to add nonstop route between Memphis andHealth Care\nMemphis school students diagnosed with highly contagious, viralSports - High School Sports\nSt.",
-              "13Detroit Does\nPittsburgh Does\nTucson's watchdog news\nTrump administration's\nClean energy reversal puts Az solar projects worth $1.6B at risk'broken' electrical system\nMayes continues legal fight against Tucson mobile home park Analise Ortiz\nAz GOP demands expulsion of Dem who posted about ICE activity at Phoenix schoolLuxury Real Estate News\nLane County News\nFriday's news in Fairfax County\nMountain View Voice\nSep 5 2025, 9:17 AM\nObituaries: Local residents who died recentlySep 5 2025, 8:36 AM\nBreakthrough on California housing could put taller buildings in single-family neighborhoodsSep 5 2025, 6:27 AM\nLegal experts advise caution when reporting ICE sightingsImmigration News\nAsylum Seekers & Migrants\nWith ICE Detentions Rising, Immigrant Orgs Are Learning to AdaptNews Roundup\nTrump to End Temporary Status of Another 268K VenezuelansImmigrant Communities\nSouth Asian Storeowners ‘Doomed’ by Trump’s 50% Tariffs Milwaukee Area Business News\nHawaiʻi's In-Depth News Source\nCobb Courier Evening Update September 5, 2025\nReligion\nFuneral of Dr.",
-              "5, 2025\nEntertainment & Arts\nMUSK'S FAT PAY PACKAGE, BATTERY PLANT RAID\nMilitary Mobilization\nGov.",
-              "Brian Kemp sending 300 Georgia Guard troops to D.C.Higher Education\nEmory’s plan to shut down DEI programs shocks studentsAtlanta Braves\nSome fans feel priced out by rising season-ticket costsNorthwest Herald\nNorthwest Herald\nYoung, healthy Lakemoor woman had kidney failure.",
-              "Now she’s on daily dialysis and looking for organ donorNorthwest Herald\nHuntley volleyball tops Cary-Grove: Thursday’s Northwest Herald roundupNorthwest Herald\nWoodstock addresses local police activity involving FBI, says ICE not presentTampa Bay Times Top Stories\nTop stories\nNews\nWashington Examiner\nTrump threatens Europe over ‘unfair penalties’ charged to US companiesWashington Examiner\nEric Adams to stay in New York City mayoral raceWashington Examiner\nNatCon 2025 boasts record-breaking registrations in first conference following Trump’s second victoryThe Central Valley's News Source\nJobs Report\nDollar Falls Sharply After Jobs Data Misses ExpectationsFresno County Wildfire\nGarnet Fire Grows to 33,388 Acres in Sierra National ForestFresno Agriculture\nInside Fresno County's Rat ExplosionNews, art & life in Fayetteville, Arkansas\nSTOCK MARKET TODAY\nFort Worth & Tarrant County Headlines\nCOLORADO NEWS\nThe Afternoon Recap (Sept.",
-              "5, 2025)\nA wrap on the day’s hard-hitting news and opinion\nKane County Chronicle\nIssy Smith, DeKalb deliver on the serve to knock off KanelandKane County Chronicle\nSevere crash reported in Geneva Friday; drivers asked to avoid areaKane County Chronicle\nCampton Hills approves annexation of nearly 1,000 acres for 900 homesWILLMAR MINNESOTA NEWS\nAdvocate Top Stories\nBy Niki Gummadi\nDallas Love Field finalizing expansion and improvement planBy Carol Toler\nPatsy Morriss makes empty nesting a hootBy Madelyn Edwards\nLakewood Branch Library book sale happening Sept."
-            ],
-            "impact": "Negative"
           }
         }
       ]
