@@ -1,7 +1,7 @@
 {
   "2025-09-06": {
     "runs": {
-      "03:44": [
+      "04:08": [
         {
           "item": {
             "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
@@ -24,50 +24,10 @@
         },
         {
           "item": {
-            "title": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
-            "link": "https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement",
-            "site_name": "The Verge",
-            "novelty_hash": "a8856bac68e2aba38545a21b6af3e2b6babf8bd2"
-          },
-          "review": {
-            "headline_rewrite": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
-            "bullets": [
-              "In what’s potentially the first major payout to creatives whose work was used to train AI systems, Anthropic has reached an agreement to pay “at least” a staggering $1.5 billion, plus interest, to authors to settle its class-action lawsuit.",
-              "Lawyers for the plaintiffs said it’s “believed to be the largest publicly reported recovery in the history of US copyright litigation.”\nAnthropic to pay $1.5 billion to authors in landmark AI settlement\nLawyers said it’s believed to be the largest-ever settlement in a US copyright case, paying about $3,000 per book.",
-              "According to a press release, the final amount could be higher, in that approximately 500,000 works will likely be paid out, but if the total is higher than that, Anthropic will pay an additional $3,000 per work, and it all depends on the number of claims submitted.",
-              "“The settlement only releases claims based on past acts – it does not give Anthropic a license or permission for future AI training and it does not release any claims that arise after August 25, 2025,” the release stated.",
-              "In August 2024, three authors — Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson — alleged that Anthropic had “built a multibillion-dollar business by stealing hundreds of thousands of copyrighted books.” Over the summer, a federal judge handed Anthropic a small win, ruling that the company was within its legal rights to train its AI models on legally purchased books.",
-              "But the judge also said that Anthropic would need to face a separate trial for its alleged use of pirated books."
-            ],
-            "impact": "Negative"
-          }
-        },
-        {
-          "item": {
-            "title": "“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion",
-            "link": "https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/",
-            "site_name": "Ars Technica",
-            "novelty_hash": "6f95515be19b3c777322cf18f35a85a373290e96"
-          },
-          "review": {
-            "headline_rewrite": "“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion",
-            "bullets": [
-              "Authors revealed today that Anthropic agreed to pay $1.5 billion and destroy all copies of the books the AI company pirated to train its artificial intelligence models.",
-              "In a press release provided to Ars, the authors confirmed that the settlement is \"believed to be the largest publicly reported recovery in the history of US copyright litigation.\" Covering 500,000 works that Anthropic pirated for AI training, if a court approves the settlement, each author will receive $3,000 per work that Anthropic stole.",
-              "\"Depending on the number of claims submitted, the final figure per work could be higher,\" the press release noted.",
-              "Justin Nelson, a lawyer representing the three authors who initially sued to spark the class action—Andrea Bartz, Kirk Wallace Johnson, and Charles Graeber—confirmed that if the \"first of its kind\" settlement \"in the AI era\" is approved, the payouts will \"far\" surpass \"any other known copyright recovery.\"\n\"It will provide meaningful compensation for each class work and sets a precedent requiring AI companies to pay copyright owners,\" Nelson said.",
-              "\"This settlement sends a powerful message to AI companies and creators alike that taking copyrighted works from these pirate websites is wrong.\"\nGroups representing authors celebrated the settlement on Friday.",
-              "The CEO of the Authors’ Guild, Mary Rasenberger, said it was \"an excellent result for authors, publishers, and rightsholders generally.\" Perhaps most critically, the settlement shows \"there are serious consequences when\" companies \"pirate authors’ works to train their AI, robbing those least able to afford it,\" Rasenberger said."
-            ],
-            "impact": "Negative"
-          }
-        },
-        {
-          "item": {
             "title": "Classic Sesame Street episodes are coming to YouTube",
             "link": "https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix",
             "site_name": "The Verge",
-            "novelty_hash": "d6087fac9f6d13ebed2de7431099af82ba4d49c2"
+            "novelty_hash": "be2032a78d8bf24d42c78b1abdabfcb2e56af0a4"
           },
           "review": {
             "headline_rewrite": "Classic Sesame Street episodes are coming to YouTube",
@@ -77,6 +37,45 @@
               "Discovery chose not to renew its deal with Sesame Workshop to air new Sesame Street episodes on the streaming service now known (once again) as HBO Max."
             ],
             "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla Proposes a Trillion-Dollar Bet That It's More Than Just Cars",
+            "link": "https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/",
+            "site_name": "WIRED",
+            "novelty_hash": "58ba1de62948febd7b640e63c1c8a4bd3c7bbaf3"
+          },
+          "review": {
+            "headline_rewrite": "Tesla Proposes a Trillion-Dollar Bet That It's More Than Just Cars",
+            "bullets": [
+              "His last few years in non-Tesla activities include: buying and renaming Twitter; going all-in on President Donald Trump’s election campaign, and then an obscure Wisconsin Supreme Court race; a lot of babymaking, plus attendant drama; and months spent standing up the so-called Department of Government Efficiency.",
+              "He has said that the earning potential of those products—their potential to change the global economy—would justify eye-wateringly high numbers.",
+              "In turn, Musk could become the world’s first trillionaire.",
+              "The proposal, posted as a filing to the SEC, sets out four major product-related operational goals and eight goals related to Tesla’s financial performance.",
+              "The targets are lofty, and could prove especially challenging for Musk, who has missed plenty of his own product timelines by months, if not years, even as he led Tesla to its current status as the world's most valuable carmaker.",
+              "The company doesn’t release Full Self-Driving (Supervised) subscription numbers—customers have to pay to unlock the advanced driver assistance software—but Musk said on a recent earnings call that while subscription rates are up, “like half” of Tesla owners haven’t even tried the feature, which is often offered on a trial basis."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Defense Department Scrambles to Pretend It’s Called the War Department",
+            "link": "https://www.wired.com/story/department-of-defense-department-of-war/",
+            "site_name": "WIRED",
+            "novelty_hash": "eb3963d75d33e4b19c0c929fbfd3de23b0320a3b"
+          },
+          "review": {
+            "headline_rewrite": "Defense Department Scrambles to Pretend It’s Called the War Department",
+            "bullets": [
+              "Trump on Friday signed an executive order directing the Pentagon to once again be named the so-called Department of War, reviving a name retired after World War II to mark America’s turn to deterrence as the principle bulwark against nuclear annihilation.",
+              "At an Oval Office ceremony, Trump said the change was about attitude, declaring, “It’s really about winning.”\n“We won the First World War, we won the Second World War, we won everything before that and in between,” Trump said during the order's signing.",
+              "Violent effect, not politically correct,” Hegseth said during Friday's signing ceremony.",
+              "“We’re going to raise up warriors, not just defenders.”\nEvery prior name change—from the War Department created by Congress in 1789, to the National Military Establishment in 1947, to the Department of Defense in 1949—came through legislation.",
+              "Allies in Congress quickly introduced a bill to back Friday's change to the so-called Department of War, but the administration appears to be seeking a workaround anyway, as it has done in the past, whether by invoking sweeping emergency powers or withholding congressionally approved foreign aid."
+            ],
+            "impact": "Positive"
           }
         },
         {
