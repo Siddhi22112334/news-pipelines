@@ -1,7 +1,7 @@
 {
   "2025-09-06": {
     "runs": {
-      "03:06": [
+      "03:44": [
         {
           "item": {
             "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
@@ -40,25 +40,6 @@
               "But the judge also said that Anthropic would need to face a separate trial for its alleged use of pirated books."
             ],
             "impact": "Negative"
-          }
-        },
-        {
-          "item": {
-            "title": "What to expect (and not expect) from yet another September Apple event",
-            "link": "https://arstechnica.com/gadgets/2025/09/what-to-expect-and-not-expect-from-yet-another-september-apple-event/",
-            "site_name": "Ars Technica",
-            "novelty_hash": "3cdffd2aff37162cb180fc0b3a99cfa5f9f6f54a"
-          },
-          "review": {
-            "headline_rewrite": "What to expect (and not expect) from yet another September Apple event",
-            "bullets": [
-              "Apple's next product event is happening on September 9, and while the company hasn't technically dropped any hints about what's coming, anyone with a working memory and a sense of object permanence can tell you that an Apple event in the month of September means next-generation iPhones.",
-              "Chips get gradually faster, cameras get gradually better, but Apple hasn't done a seismic iPhone X-style rethinking of its phones since, well, 2017's iPhone X.",
-              "The rumor mill thinks that Apple is working on a foldable iPhone—and such a device would certainly benefit from years of investment in the iPad—but if it's coming, it probably won't be this year.",
-              "Let's run down what the most reliable rumors have said we're getting.",
-              "Improved front- and rear-facing cameras and a new Apple A19-series chip with at least the 8GB of RAM needed to support Apple Intelligence are both pretty safe bets."
-            ],
-            "impact": "Positive"
           }
         },
         {
@@ -114,6 +95,26 @@
               "Not only is Zuckerberg promising to spend massive amounts on money in the US on AI infrastructure, he's seemingly confirming that Trump approves of the specific number."
             ],
             "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 5, 2025 iPhone 17 series alleged spec sheet and price leaks online ahead of September 9 launch: Here’s what to expect Apple's iPhone 17 series, including the iPhone 17 Air, Pro, and Pro Max, is anticipated to launch on September 9th. Leaks suggest enhanced processors, improved thermal management, and upgraded cameras across the lineup.",
+            "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/iphone-17-series-alleged-spec-sheet-and-price-leaks-online-ahead-of-september-9-launch-heres-what-to-expect/articleshow/123714690.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "795b2edae7d73b69829ebf50a2a28c22015add18"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 5, 2025 iPhone 17 series alleged spec sheet and price leaks online ahead of September 9 launch: Here’s what to expect Apple's iPhone 17 series, including the iPhone 17 Air, Pro, and Pro Max, is anticipated to launch on September 9th. Leaks suggest enhanced processors, improved thermal management, and upgraded cameras across the lineup.",
+            "bullets": [
+              "Appleâs upcoming\niPhone 17 series is set to launch at âAwe Droppingâ event on September 9.",
+              "Just days ahead of the launch, Taiwanese market research firm TrendForce has detailed alleged specs and features of the upcoming models along with their expected pricing.",
+              "In a press release, it said âApple is set to unveil four flagship devicesâthe iPhone 17, the iPhone 17 Air (tentative name), iPhone 17 Pro, and iPhone 17 Pro Maxâ.",
+              "Hereâs a look at the expected specs of 2025 iPhone lineup\niPhone 17 series leaked specs and features\nTrendforce in its report says that iPhone 17 and Air are expected to feature the A19 processor, while the Pro series will adopt the A19 Pro.",
+              "In addition, the âDRAM capacity will be increased to 12 GB on the Air, Pro, and Pro Max, and NAND Flash storage will start at 256 GB for these models, scaling up to 1 TB.â\nThe release further states that the Air model will use a silicon anode battery and eSIM configuration to balance slimness with endurance.",
+              "It adds that the entire iPhone 17 series is expected to see major camera upgrades, with the front camera moving from 12MP to 24MP and all rear cameras raised to 48MP."
+            ],
+            "impact": "Positive"
           }
         }
       ]
