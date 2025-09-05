@@ -36,7 +36,6 @@
       padding:.48rem .6rem; border-radius:.6rem; font-size:.95rem;
     }
     label.chk{ display:flex; align-items:center; gap:.4rem; font-size:.92rem; color:var(--muted) }
-    .chips{ display:flex; gap:.4rem; flex-wrap:wrap }
     .chip{
       background:var(--chip); border:1px solid var(--border); color:var(--text);
       padding:.2rem .5rem; border-radius:.6rem; font-size:.88rem;
@@ -81,14 +80,17 @@
         <label>Date
           <select id="dateSelect" title="Pick a date"></select>
         </label>
+        <label>Run
+          <select id="runSelect" title="Pick a run (time)"></select>
+        </label>
         <label class="chk"><input type="checkbox" id="showTech" checked> Tech</label>
         <label class="chk"><input type="checkbox" id="showFinance" checked> Finance</label>
         <label class="chk"><input type="checkbox" id="dedupeToggle" checked> Hide duplicates</label>
         <span id="count" class="chip"></span>
-        <span id="tips" class="chip">Tap “Search” to search across all dates</span>
+        <span id="tips" class="chip">Tip: use Search to query all dates</span>
       </div>
       <div class="grid" id="cards"></div>
-      <div class="empty" id="empty" hidden>No stories for this date.</div>
+      <div class="empty" id="empty" hidden>No stories for this selection.</div>
     </section>
 
     <!-- ───────────── Search view ───────────── -->
@@ -130,11 +132,15 @@
     const sleep = ms => new Promise(r=>setTimeout(r, ms));
 
     // ---------- state ----------
-    let indexMap = {};          // {date: {tech, finance}}
-    let years = [];             // unique list of years that exist
-    const yearCache = { tech:{}, finance:{} }; // per-kind, per-year cache of yearly JSON
-    const dateCache = {};       // date -> combined array with kind tags
-    let lastLoadedDate = null;
+    // index.json (new): { "YYYY-MM-DD": { "tech_runs":[...], "fin_runs":[...] }, ... }
+    // (old) index.json: { "YYYY-MM-DD": { "tech": N, "finance": M } }
+    let indexMap = {};
+    let years = [];
+    const yearCache = { tech:{}, finance:{} }; // per-kind, per-year maps
+    // cache by date+run -> combined array (tech+fin with tags)
+    const dateRunCache = {};
+    let lastDate = null;
+    let lastRun  = null;
 
     // ---------- tabs ----------
     $$('.tab').forEach(btn=>{
@@ -158,30 +164,47 @@
         $('#empty').hidden = false;
         return;
       }
-      const dates = Object.keys(indexMap).sort().reverse(); // all dates, newest first
+      const dates = Object.keys(indexMap).sort().reverse();
       years = uniq(dates.map(d => d.slice(0,4)));
-      // Populate full list of dates
+
+      // Populate dates (show number of runs if available)
       $('#dateSelect').innerHTML = dates.map(d=>{
-        const t = indexMap[d]?.tech ?? 0;
-        const f = indexMap[d]?.finance ?? 0;
-        return `<option value="${d}">${d} (T:${t} • F:${f})</option>`;
+        const rec = indexMap[d] || {};
+        const tRuns = Array.isArray(rec.tech_runs) ? rec.tech_runs.length : 0;
+        const fRuns = Array.isArray(rec.fin_runs)  ? rec.fin_runs.length  : 0;
+        const suffix = (tRuns || fRuns) ? ` (runs T:${tRuns} • F:${fRuns})`
+                     : (Number.isFinite(rec.tech)||Number.isFinite(rec.finance)) ? ` (T:${rec.tech||0} • F:${rec.finance||0})`
+                     : '';
+        return `<option value="${d}">${d}${suffix}</option>`;
       }).join('');
       $('#dateSelect').addEventListener('change', onDateChange);
 
+      // run dropdown wiring
+      $('#runSelect').addEventListener('change', onRunChange);
+
       // browse toggles
-      $('#showTech').addEventListener('change', ()=>renderDate(lastLoadedDate));
-      $('#showFinance').addEventListener('change', ()=>renderDate(lastLoadedDate));
-      $('#dedupeToggle').addEventListener('change', ()=>renderDate(lastLoadedDate));
+      $('#showTech').addEventListener('change', ()=>render());
+      $('#showFinance').addEventListener('change', ()=>render());
+      $('#dedupeToggle').addEventListener('change', ()=>render());
 
       // search wiring
       $('#searchBtn').addEventListener('click', doSearch);
       $('#q').addEventListener('keydown', (e)=>{ if (e.key==='Enter') doSearch(); });
 
       // Load most recent date immediately
-      onDateChange();
+      await onDateChange();
     }
 
-    // ---------- data loading ----------
+    // ---------- run helpers ----------
+    function runsForDate(dateKey){
+      const rec = indexMap[dateKey] || {};
+      // union tech + fin runs if present
+      const t = Array.isArray(rec.tech_runs) ? rec.tech_runs : [];
+      const f = Array.isArray(rec.fin_runs)  ? rec.fin_runs  : [];
+      const all = Array.from(new Set([...t, ...f])).sort(); // ascending "HH:MM"
+      return all;
+    }
+
     async function ensureYear(kind, year){
       if (yearCache[kind][year]) return;
       try{
@@ -191,23 +214,61 @@
       }
     }
 
-    async function loadDate(dateKey){
-      if (dateCache[dateKey]) return dateCache[dateKey];
+    function readDay(kind, year, dateKey, runKey){
+      const day = (yearCache[kind][year]||{})[dateKey];
+      if (!day) return [];
+
+      // Legacy shape: array
+      if (Array.isArray(day)) return day;
+
+      // New shape: { runs: { "HH:MM": [ ... ] } }
+      const runs = day.runs || {};
+      if (!runKey || runKey === 'latest'){
+        const keys = Object.keys(runs).sort();
+        const latest = keys[keys.length-1];
+        return latest ? (runs[latest] || []) : [];
+      }
+      return runs[runKey] || [];
+    }
+
+    async function loadDateRun(dateKey, runKey){
+      const cacheKey = `${dateKey}__${runKey||'latest'}`;
+      if (dateRunCache[cacheKey]) return dateRunCache[cacheKey];
+
       const y = dateKey.slice(0,4);
       await Promise.all([ ensureYear('tech', y), ensureYear('finance', y) ]);
-      const techArr = (yearCache.tech[y]?.[dateKey] || []).map(x => ({...x, _kind:'Tech', _date:dateKey}));
-      const finArr  = (yearCache.finance[y]?.[dateKey] || []).map(x => ({...x, _kind:'Finance', _date:dateKey}));
+
+      const techArr = readDay('tech', y, dateKey, runKey).map(x => ({...x, _kind:'Tech', _date:dateKey, _run:runKey||'latest'}));
+      const finArr  = readDay('finance', y, dateKey, runKey).map(x => ({...x, _kind:'Finance', _date:dateKey, _run:runKey||'latest'}));
+
       const combined = [...techArr, ...finArr];
-      dateCache[dateKey] = combined;
+      dateRunCache[cacheKey] = combined;
       return combined;
     }
 
+    // ---------- browse events ----------
     async function onDateChange(){
       const d = $('#dateSelect').value;
       if (!d) return;
-      await loadDate(d);
-      lastLoadedDate = d;
-      renderDate(d);
+
+      // populate runs for this date
+      const runs = runsForDate(d);
+      const opts = runs.length
+        ? [`<option value="latest" selected>Latest</option>`].concat(runs.map(r=>`<option value="${r}">${r}</option>`))
+        : [`<option value="latest" selected>Latest</option>`];
+      $('#runSelect').innerHTML = opts.join('');
+
+      lastDate = d;
+      lastRun = 'latest';
+      await loadDateRun(d, lastRun);
+      render();
+    }
+
+    async function onRunChange(){
+      const r = $('#runSelect').value || 'latest';
+      lastRun = r;
+      await loadDateRun(lastDate, r);
+      render();
     }
 
     // ---------- normalize & render ----------
@@ -220,6 +281,7 @@
         return {
           _kind: r._kind || 'Tech',
           _date: r._date || '',
+          _run:  r._run  || 'latest',
           headline: decodeHTML(review.headline_rewrite || item.title || ''),
           bullets: Array.isArray(review.bullets) ? review.bullets.map(decodeHTML) : [],
           impact,
@@ -230,13 +292,14 @@
       });
     }
 
-    function renderDate(dateKey){
-      if (!dateKey) return;
+    async function render(){
+      if (!lastDate) return;
       const wantTech = $('#showTech').checked;
       const wantFin  = $('#showFinance').checked;
       const dedupe   = $('#dedupeToggle').checked;
 
-      let list = normalizeRecords(dateCache[dateKey] || []);
+      const combined = await loadDateRun(lastDate, lastRun);
+      let list = normalizeRecords(combined);
       list = list.filter(r=> (r._kind==='Tech' && wantTech) || (r._kind==='Finance' && wantFin));
 
       if (dedupe){
@@ -259,7 +322,7 @@
       const headline = r.headline || '(no headline)';
       return `<article>
         <div class="row">
-          <span class="kind">${r._kind}</span>
+          <span class="kind">${r._kind}${r._run ? ' • '+r._run : ''}</span>
           <span class="impact ${impactClass}">${impactClass}</span>
         </div>
         <h2 class="headline">${headline}</h2>
@@ -283,24 +346,33 @@
         return;
       }
 
-      // lazily load all year files referenced by index.json
       const allDates = Object.keys(indexMap).sort().reverse();
       const allYears = uniq(allDates.map(d=>d.slice(0,4)));
 
-      // Load per-year, per-kind maps
       for (const y of allYears){
         await Promise.all([ ensureYear('tech', y), ensureYear('finance', y) ]);
-        // tiny breather to keep main thread responsive on phones
         await sleep(10);
       }
 
-      // Build full list (all dates)
       let universe = [];
       for (const d of allDates){
-        const techArr = (yearCache.tech[d.slice(0,4)]?.[d] || []).map(x=>({...x, _kind:'Tech', _date:d}));
-        const finArr  = (yearCache.finance[d.slice(0,4)]?.[d] || []).map(x=>({...x, _kind:'Finance', _date:d}));
-        universe.push(...techArr, ...finArr);
+        const y = d.slice(0,4);
+        const rec = indexMap[d] || {};
+        const runs = runsForDate(d);
+        if (runs.length){
+          for (const rk of ['latest', ...runs]){
+            const techArr = readDay('tech', y, d, rk).map(x=>({...x, _kind:'Tech', _date:d, _run:rk}));
+            const finArr  = readDay('finance', y, d, rk).map(x=>({...x, _kind:'Finance', _date:d, _run:rk}));
+            universe.push(...techArr, ...finArr);
+          }
+        } else {
+          // legacy (no runs)
+          const techArr = readDay('tech', y, d, 'latest').map(x=>({...x, _kind:'Tech', _date:d, _run:'latest'}));
+          const finArr  = readDay('finance', y, d, 'latest').map(x=>({...x, _kind:'Finance', _date:d, _run:'latest'}));
+          universe.push(...techArr, ...finArr);
+        }
       }
+
       let list = normalizeRecords(universe);
       list = list.filter(r=>{
         if (!( (r._kind==='Tech' && wantTech) || (r._kind==='Finance' && wantFin) )) return false;
