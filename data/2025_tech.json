@@ -1,42 +1,25 @@
 {
   "2025-09-06": {
     "runs": {
-      "04:08": [
+      "04:44": [
         {
           "item": {
-            "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
-            "link": "https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/",
-            "site_name": "TechCrunch",
-            "novelty_hash": "1cea926c7e926535208abc540ffaaa8d3c7c2a21"
+            "title": "Silicon Valley’s most powerful alliance just got stronger",
+            "link": "https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "4c409fd8dfdf64a89502f264a30937147f425e26"
           },
           "review": {
-            "headline_rewrite": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
+            "headline_rewrite": "Silicon Valley’s most powerful alliance just got stronger",
             "bullets": [
-              "Around half a million writers will be eligible for a payday of at least $3,000, thanks to a historic $1.5 billion settlement in a class action lawsuit that a group of authors brought against Anthropic.",
-              "Tech giants are racing to amass as much written material as possible to train their LLMs, which power groundbreaking AI chat products like ChatGPT and Claude — the same products that are endangering the creative industries, even if their outputs are milquetoast.",
-              "These AIs can become more sophisticated when they ingest more data, but after scraping basically the entire internet, these companies are literally running out of new information.",
-              "That’s why Anthropic, the company behind Claude, pirated millions of books from “shadow libraries” and fed them into its AI.",
-              "Anthropic, is one of dozens filed against companies like Meta, Google, OpenAI, and Midjourney over the legality of training AI on copyrighted works.",
-              "But writers aren’t getting this settlement because their work was fed to an AI — this is just a costly slap on the wrist for Anthropic, a company that just raised another $13 billion, because it illegally downloaded books instead of buying them."
+              "Eddy Cue deserves a raise.",
+              "Silicon Valley’s most powerful alliance just got stronger\nApple gets to keep Google’s money, and Google gets Apple’s distribution for its AI.",
+              "“I’ve lost a lot of sleep thinking about it,” he said from the witness stand during Google’s antitrust trial earlier this year.",
+              "You can see Cue’s arguments at trial mirrored in Mehta’s ruling: the Apple SVP said it would be “crazy” to punish the iPhone maker by restricting Google’s ability to pay for default status, and that the rise of AI companies was remaking the search market anyway.",
+              "One specific effect he cited was “fewer products and less product innovation from Apple,” one of the world’s richest companies.",
+              "(Google’s payments to Apple are estimated to make up about 15% of its annual profit.)\nMehta cited the rise of generative AI companies like OpenAI and Perplexity as evidence that there is finally competition in the search market."
             ],
             "impact": "Negative"
-          }
-        },
-        {
-          "item": {
-            "title": "Classic Sesame Street episodes are coming to YouTube",
-            "link": "https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix",
-            "site_name": "The Verge",
-            "novelty_hash": "be2032a78d8bf24d42c78b1abdabfcb2e56af0a4"
-          },
-          "review": {
-            "headline_rewrite": "Classic Sesame Street episodes are coming to YouTube",
-            "bullets": [
-              "Once the episodes are available, “YouTube will have the largest digital library of Sesame Street content,” Sesame Workshop says.",
-              "The new episodes will also be available “same day-and-date in the US on PBS stations and PBS KIDS digital platforms.”\nLast year, Warner Bros.",
-              "Discovery chose not to renew its deal with Sesame Workshop to air new Sesame Street episodes on the streaming service now known (once again) as HBO Max."
-            ],
-            "impact": "Neutral"
           }
         },
         {
@@ -44,17 +27,17 @@
             "title": "Tesla Proposes a Trillion-Dollar Bet That It's More Than Just Cars",
             "link": "https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/",
             "site_name": "WIRED",
-            "novelty_hash": "58ba1de62948febd7b640e63c1c8a4bd3c7bbaf3"
+            "novelty_hash": "ee935fd573ea1a638f18dbac6ed101c3361a4513"
           },
           "review": {
             "headline_rewrite": "Tesla Proposes a Trillion-Dollar Bet That It's More Than Just Cars",
             "bullets": [
-              "His last few years in non-Tesla activities include: buying and renaming Twitter; going all-in on President Donald Trump’s election campaign, and then an obscure Wisconsin Supreme Court race; a lot of babymaking, plus attendant drama; and months spent standing up the so-called Department of Government Efficiency.",
+              "His past few years in non-Tesla activities include: buying and renaming Twitter; going all in on President Donald Trump’s election campaign and then an obscure Wisconsin Supreme Court race; a lot of babymaking, plus attendant drama; and months spent standing up the so-called Department of Government Efficiency.",
               "He has said that the earning potential of those products—their potential to change the global economy—would justify eye-wateringly high numbers.",
               "In turn, Musk could become the world’s first trillionaire.",
               "The proposal, posted as a filing to the SEC, sets out four major product-related operational goals and eight goals related to Tesla’s financial performance.",
-              "The targets are lofty, and could prove especially challenging for Musk, who has missed plenty of his own product timelines by months, if not years, even as he led Tesla to its current status as the world's most valuable carmaker.",
-              "The company doesn’t release Full Self-Driving (Supervised) subscription numbers—customers have to pay to unlock the advanced driver assistance software—but Musk said on a recent earnings call that while subscription rates are up, “like half” of Tesla owners haven’t even tried the feature, which is often offered on a trial basis."
+              "The targets are lofty and could prove especially challenging for Musk, who has missed plenty of his own product timelines by months, if not years, even as he led Tesla to its current status as the world's most valuable carmaker.",
+              "The company doesn’t release Full Self-Driving (Supervised) subscription numbers—customers have to pay to unlock the advanced driver-assistance software—but Musk said on a recent earnings call that while subscription rates are up, “like half” of Tesla owners haven’t even tried the feature, which is often offered on a trial basis."
             ],
             "impact": "Negative"
           }
@@ -114,6 +97,26 @@
               "It adds that the entire iPhone 17 series is expected to see major camera upgrades, with the front camera moving from 12MP to 24MP and all rear cameras raised to 48MP."
             ],
             "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "80cbb6dddc672bfc10bc83ac8af4f729d0fd31e7"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Economic stagnation fears\nUS unemployment near 4-year high as labor market softensNews Showcase\nStories selected by newsroom editors\nROCHESTER MINNESOTA NEWS\nLatest Headlines\nSoMd Evening Headlines for 9/5/2025\nCAPITOLHILLSEATTLE.COM\nSanta Monica Pier Corporation will honor local legends\nHappening in Loudoun County\nLatest and Local – Gillette, WY\nFriday's news in Arlington, Virginia\nAfternoon Update\nBusiness\nFrontier Airlines to add nonstop route between Memphis andHealth Care\nMemphis school students diagnosed with highly contagious, viralSports - High School Sports\nSt.",
+              "13Detroit Does\nPittsburgh Does\nTucson's watchdog news\nTrump administration's\nClean energy reversal puts Az solar projects worth $1.6B at risk'broken' electrical system\nMayes continues legal fight against Tucson mobile home park Analise Ortiz\nAz GOP demands expulsion of Dem who posted about ICE activity at Phoenix schoolLuxury Real Estate News\nLane County News\nFriday's news in Fairfax County\nMountain View Voice\nSep 5 2025, 9:17 AM\nObituaries: Local residents who died recentlySep 5 2025, 8:36 AM\nBreakthrough on California housing could put taller buildings in single-family neighborhoodsSep 5 2025, 6:27 AM\nLegal experts advise caution when reporting ICE sightingsImmigration News\nAsylum Seekers & Migrants\nWith ICE Detentions Rising, Immigrant Orgs Are Learning to AdaptNews Roundup\nTrump to End Temporary Status of Another 268K VenezuelansImmigrant Communities\nSouth Asian Storeowners ‘Doomed’ by Trump’s 50% Tariffs Milwaukee Area Business News\nHawaiʻi's In-Depth News Source\nCobb Courier Evening Update September 5, 2025\nReligion\nFuneral of Dr.",
+              "5, 2025\nEntertainment & Arts\nMUSK'S FAT PAY PACKAGE, BATTERY PLANT RAID\nMilitary Mobilization\nGov.",
+              "Brian Kemp sending 300 Georgia Guard troops to D.C.Higher Education\nEmory’s plan to shut down DEI programs shocks studentsAtlanta Braves\nSome fans feel priced out by rising season-ticket costsNorthwest Herald\nNorthwest Herald\nYoung, healthy Lakemoor woman had kidney failure.",
+              "Now she’s on daily dialysis and looking for organ donorNorthwest Herald\nHuntley volleyball tops Cary-Grove: Thursday’s Northwest Herald roundupNorthwest Herald\nWoodstock addresses local police activity involving FBI, says ICE not presentTampa Bay Times Top Stories\nTop stories\nNews\nWashington Examiner\nTrump threatens Europe over ‘unfair penalties’ charged to US companiesWashington Examiner\nEric Adams to stay in New York City mayoral raceWashington Examiner\nNatCon 2025 boasts record-breaking registrations in first conference following Trump’s second victoryThe Central Valley's News Source\nJobs Report\nDollar Falls Sharply After Jobs Data Misses ExpectationsFresno County Wildfire\nGarnet Fire Grows to 33,388 Acres in Sierra National ForestFresno Agriculture\nInside Fresno County's Rat ExplosionNews, art & life in Fayetteville, Arkansas\nSTOCK MARKET TODAY\nFort Worth & Tarrant County Headlines\nCOLORADO NEWS\nThe Afternoon Recap (Sept.",
+              "5, 2025)\nA wrap on the day’s hard-hitting news and opinion\nKane County Chronicle\nIssy Smith, DeKalb deliver on the serve to knock off KanelandKane County Chronicle\nSevere crash reported in Geneva Friday; drivers asked to avoid areaKane County Chronicle\nCampton Hills approves annexation of nearly 1,000 acres for 900 homesWILLMAR MINNESOTA NEWS\nAdvocate Top Stories\nBy Niki Gummadi\nDallas Love Field finalizing expansion and improvement planBy Carol Toler\nPatsy Morriss makes empty nesting a hootBy Madelyn Edwards\nLakewood Branch Library book sale happening Sept."
+            ],
+            "impact": "Negative"
           }
         }
       ]
