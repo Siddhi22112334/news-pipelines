@@ -1,7 +1,7 @@
 {
   "2025-09-06": {
     "runs": {
-      "02:43": [
+      "03:06": [
         {
           "item": {
             "title": "Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers",
@@ -24,30 +24,10 @@
         },
         {
           "item": {
-            "title": "Attorneys general warn OpenAI ‘harm to children will not be tolerated’",
-            "link": "https://techcrunch.com/2025/09/05/attorneys-general-warn-openai-harm-to-children-will-not-be-tolerated/",
-            "site_name": "TechCrunch",
-            "novelty_hash": "32e6361d6bd1ea4c26246245deb8bfa466e693d7"
-          },
-          "review": {
-            "headline_rewrite": "Attorneys general warn OpenAI ‘harm to children will not be tolerated’",
-            "bullets": [
-              "California Attorney General Rob Bonta and Delaware Attorney General Kathy Jennings met with and sent an open letter to OpenAI to express their concerns over the safety of ChatGPT, particularly for children and teens.",
-              "The warning comes a week after Bonta and 44 other attorneys general sent a letter to 12 of the top AI companies, following reports of sexually inappropriate interactions between AI chatbots and children.",
-              "“Since the issuance of that letter, we learned of the heartbreaking death by suicide of one young Californian after he had prolonged interactions with an OpenAI chatbot, as well as a similarly disturbing murder-suicide in Connecticut,” Bonta and Jennings write.",
-              "“Whatever safeguards were in place did not work.”\nThe two state officials are currently investigating OpenAI’s proposed restructuring into a for-profit entity to ensure that the mission of the nonprofit remains intact.",
-              "“It is our shared view that OpenAI and the industry at large are not where they need to be in ensuring safety in AI products’ development and deployment.",
-              "As we continue our dialogue related to OpenAI’s recapitalization plan, we must work to accelerate and amplify safety as a governing force in the future of this powerful technology.”\nBonta and Jennings have asked for more information about OpenAI’s current safety precautions and governance, and said they expect the company to take immediate remedial measures where appropriate."
-            ],
-            "impact": "Negative"
-          }
-        },
-        {
-          "item": {
             "title": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
             "link": "https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement",
             "site_name": "The Verge",
-            "novelty_hash": "c9dd62d20ad18b84428589aaea3e13f6f004bcf4"
+            "novelty_hash": "a8856bac68e2aba38545a21b6af3e2b6babf8bd2"
           },
           "review": {
             "headline_rewrite": "Anthropic to pay $1.5 billion to authors in landmark AI settlement",
@@ -116,6 +96,24 @@
               "Discovery chose not to renew its deal with Sesame Workshop to air new Sesame Street episodes on the streaming service now known (once again) as HBO Max."
             ],
             "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Zuckerberg caught on hot mic telling Trump ‘I wasn’t sure’ how much to promise to spend on AI in the US",
+            "link": "https://www.engadget.com/zuckerberg-caught-on-hot-mic-telling-trump-i-wasnt-sure-how-much-to-promise-to-spend-on-ai-in-the-us-211915608.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1ec73762aa414c4490832f09f0765f266d162277"
+          },
+          "review": {
+            "headline_rewrite": "Zuckerberg caught on hot mic telling Trump ‘I wasn’t sure’ how much to promise to spend on AI in the US",
+            "bullets": [
+              "Mark Zuckerberg has certainly come a long way in his relationship with President Donald Trump.",
+              "The nearly three dozen CEOs and execs in attendance took turns praising and thanking Trump.",
+              "A year ago, the then-former president was threatening the Facebook founder with jail time.",
+              "Not only is Zuckerberg promising to spend massive amounts on money in the US on AI infrastructure, he's seemingly confirming that Trump approves of the specific number."
+            ],
+            "impact": "Negative"
           }
         }
       ]
