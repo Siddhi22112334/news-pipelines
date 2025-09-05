@@ -5,7 +5,7 @@
         "title": "BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power",
         "link": "https://www.theverge.com/news/770351/bmw-ix3-neue-klasse-ev-range-specs-price",
         "site_name": "The Verge",
-        "novelty_hash": "6a5ac4cc24974e2f202aa6c71a6c9c5303617083"
+        "novelty_hash": "9aed5502ed5f88f520544f2027fb7484db867742"
       },
       "review": {
         "headline_rewrite": "BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power",
@@ -45,7 +45,7 @@
         "title": "Qualcomm teams up with BMW for hands-free driving",
         "link": "https://www.theverge.com/news/771917/qualcomm-bmw-snapdragon-ride-pilot-adas",
         "site_name": "The Verge",
-        "novelty_hash": "837df3350d7a1f071ff3e7ed096db926961c11a2"
+        "novelty_hash": "c2af85f72f03e418eab61a71669a02042ca2f525"
       },
       "review": {
         "headline_rewrite": "Qualcomm teams up with BMW for hands-free driving",
@@ -62,20 +62,40 @@
     },
     {
       "item": {
-        "title": "Technology Sep 5, 2025 OpenAI plans to take on LinkedIn with AI-powered jobs platform OpenAI is set to launch its AI-driven Jobs Platform by mid-2026, aiming to revolutionize hiring by connecting employers with AI-skilled talent. The platform will leverage AI matching to find ideal candidates and integrate with OpenAI Certifications to verify AI fluency.",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-plans-to-take-on-linkedin-with-ai-powered-jobs-platform/articleshow/123714777.cms",
-        "site_name": "The Times of India",
-        "novelty_hash": "fade43a4bbbca94444fcd4fc9118a374ae8f6643"
+        "title": "‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings",
+        "link": "https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/",
+        "site_name": "WIRED",
+        "novelty_hash": "3f2e8f569cc3ff134395415f5c724acef858e979"
       },
       "review": {
-        "headline_rewrite": "Technology Sep 5, 2025 OpenAI plans to take on LinkedIn with AI-powered jobs platform OpenAI is set to launch its AI-driven Jobs Platform by mid-2026, aiming to revolutionize hiring by connecting employers with AI-skilled talent. The platform will leverage AI matching to find ideal candidates and integrate with OpenAI Certifications to verify AI fluency.",
+        "headline_rewrite": "‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings",
         "bullets": [
-          "ChatGPT creator OpenAI is now all set to take on professional social networking platform LinkedIn.",
-          "OpenAI has announced its plans to launch OpenAI Jobs Platform.",
-          "It will be an AI-driven hiring service which will be designed to connect employers with AI-skilled talent.",
-          "The company is expected to launch the platform in mid-2026.",
-          "âIf youâre a business looking to hire an AI-savvy employee, or you just need help with a specific task, finding the right person can be hit-or-miss.",
-          "The OpenAI Jobs Platform will have knowledgeable, experienced candidates at every level, and opportunities for anyone looking to put their skills to use,â said OpenAI CEO of Applications Fidji Simo."
+          "In 2016, the Louvre’s curators rushed to relocate priceless artworks after the Seine, which flows through Paris, breached its banks in a flood.",
+          "It happened again, for example, in 2018.",
+          "For the fickle river helps the museum maintain cool temperatures and humidity levels conducive to the long-term preservation of centuries-old art.",
+          "An average-size office building draws about half a megawatt of cooling power, whereas the Louvre soaks up 12 megawatts, Nayral explains.",
+          "Water is 800 times denser than air, so using it to soak up heat can be extremely efficient.",
+          "Plus, unlike traditional air conditioners, water-based cooling avoids dumping heat into the air directly outside a building, which heightens the temperature of built-up areas relative to their surroundings, known as the urban heat island effect."
+        ],
+        "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Technology Sep 5, 2025 Amazon-backed AI company Anthropic updates terms of service to ban sales Chinese companies, cites threat to national security",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-backed-ai-company-anthropic-updates-terms-of-service-to-ban-sales-chinese-companies-cites-threat-to-national-security/articleshow/123716949.cms",
+        "site_name": "The Times of India",
+        "novelty_hash": "8b3d7e2bf33296435f0f137b3713ed2718ce7e6a"
+      },
+      "review": {
+        "headline_rewrite": "Technology Sep 5, 2025 Amazon-backed AI company Anthropic updates terms of service to ban sales Chinese companies, cites threat to national security",
+        "bullets": [
+          "OpenAI rival Anthropic has updated its terms of service prohibiting sales of its AI platform Claude services to companies in China, Russia, North Korea and other regions âdue to legal, regulatory, and security risks.â In an official blog, the AI company backed by Amazon said that firms based in authoritarian countries like China may be forced by law to share data, work with intelligence agencies, or take other steps that could pose national security risks.",
+          "Sharing the blog post, the company said âAnthropic's Terms of Service prohibit use of our services in certain regions due to legal, regulatory, and security risks.",
+          "However, companies from these restricted regionsâincluding adversarial nations like Chinaâcontinue accessing our services in various ways, such as through subsidiaries incorporated in other countries.â\nIn the blog post, Anthropic said that it is going a step further in an update to its terms of service.",
+          "âThis update prohibits companies or organizations whose ownership structures subject them to control from jurisdictions where our products are not permitted, like China, regardless of where they operate,â the company said.",
+          "For those unaware, a group of US authors accused the company of using their copyrighted works without their permission or compensation to train its AI models.",
+          "The terms of the settlement were not disclosed to the public, but agreement makes a significant moment in the ongoing battle between AI developers and creative professionals."
         ],
         "impact": "Negative"
       }
@@ -91,22 +111,6 @@
         "headline_rewrite": "Sam Altman, Tim Cook, and other tech leaders lauded Trump at a White House AI dinner",
         "bullets": [],
         "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "title": "AI News",
-        "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
-        "site_name": "The Times of India",
-        "novelty_hash": "c2cb3f5b34da9c96df06a5444a16cf6e8fb317f7"
-      },
-      "review": {
-        "headline_rewrite": "AI News",
-        "bullets": [
-          "‘We have apologised to…’: Australia’s biggest bank decides not to replace human jobs with AI\nThe Commonwealth Bank of Australia (CBA) has backtracked on its plan to eliminate 45 customer service positions due to AI implementation, following pressure from the Finance Sector Union.",
-          "CBA admitted its assessment was flawed and offered affected employees options to remain, apply elsewhere, or exit."
-        ],
-        "impact": "Negative"
       }
     }
   ]
