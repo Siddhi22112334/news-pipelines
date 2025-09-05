@@ -1,5 +1,4 @@
- 
-# ================== India Market News — grounded, full-text, Telegram, richer snapshots ==================
+# ================== India Market News — grounded, validated, Telegram, backfill ==================
 import os, re, json, html, textwrap, time, math
 import datetime as dt
 from typing import List, Dict, Any, Tuple
@@ -18,6 +17,9 @@ DEFAULT_WINDOW_MIN = int(os.getenv('DEFAULT_WINDOW_MIN', '15'))   # lookback min
 DEFAULT_MAX_ITEMS  = int(os.getenv('DEFAULT_MAX_ITEMS',  '10'))
 STATE_FILE   = os.getenv('STATE_FILE', os.getenv('FIN_STATE_FILE','seen_finnews.json'))
 
+# validation strictness toggle (can override from workflow env)
+STRICT_VALIDATION = os.getenv('STRICT_VALIDATION','true').lower() in ('1','true','yes')
+
 # OpenAI
 LLM_PROVIDER   = os.getenv('LLM_PROVIDER','openai').lower()
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY','')
@@ -25,7 +27,7 @@ OPENAI_MODEL   = os.getenv('OPENAI_MODEL','gpt-4o-mini')  # change if desired
 
 # Telegram
 TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '')
-TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID', '')
+TELEGRAM_CHAT_ID   = os.getenv('TELEGRAM_CHAT_ID', '')
 
 # Sources (official + diversified top outlets + Moneycontrol + FE sitemaps)
 FEEDS = [
@@ -153,7 +155,7 @@ def fetch_sitemap(url: str, limit: int = 60) -> List[Dict[str, Any]]:
         print('[warn] Sitemap error:', url, ex)
     return out
 
-# --- CLEANERS (paste or replace existing helpers near fetch_article_text) ---
+# --- CLEANERS ---
 CLEAN_DROP_PATTERNS = [
     r"^Comments have to be.*", r"^Sign into Unlock benefits.*", r"^Looks like you are already logged in.*",
     r"^To continue logging in.*", r"^We have migrated to a new commenting platform.*",
@@ -171,7 +173,7 @@ def _clean_lines(lines: List[str]) -> List[str]:
     kept = []
     for raw in lines:
         line = raw.strip()
-        if not line: 
+        if not line:
             continue
         # drop boilerplate/prompts/etc
         drop = any(re.search(pat, line, re.I) for pat in CLEAN_DROP_PATTERNS)
@@ -186,7 +188,7 @@ def _clean_lines(lines: List[str]) -> List[str]:
     seen = set()
     for l in kept:
         key = re.sub(r"\s+", " ", l.lower())[:160]
-        if key in seen: 
+        if key in seen:
             continue
         seen.add(key)
         deduped.append(l)
@@ -444,6 +446,83 @@ def fallback_review(title: str, fulltext: str) -> Dict[str,Any]:
         "watch_next": []
     }
 
+# -------- Quality / anti-hallucination checks --------
+NUM_RE = re.compile(r"\b\d[\d,]*\.?\d*%?\b")
+
+def _numbers_in(s: str) -> List[str]:
+    return [n.strip().rstrip('.') for n in NUM_RE.findall(s or "")]
+
+def looks_like_dump_text(txt: str) -> bool:
+    """Flag pages that extracted poorly (paywall blurbs, cookie walls, 1–2 lines, etc.)."""
+    if not txt or len(txt) < 400:                    # very short
+        return True
+    sents = re.split(r"(?<=[.!?])\s+", txt.strip())
+    if len([s for s in sents if len(s.split()) >= 6]) < 3:   # <3 usable sentences
+        return True
+    return False
+
+def is_valid_review(review: Dict[str,Any], src_text: str, headline: str) -> bool:
+    """
+    Heuristics to reject junk/hallucinated output.
+    - Require 2–6 bullets with reasonable length.
+    - Numbers in bullets must appear in source text.
+    - Capitalized entities should appear in source/headline.
+    - Avoid summaries dominated by 'not specified in the article'.
+    """
+    if not isinstance(review, dict):
+        return False
+
+    bullets = review.get("bullets") or []
+    if not isinstance(bullets, list):
+        return False
+
+    # 2–6 bullets, each 4–28 words
+    if not (2 <= len(bullets) <= 6):
+        return False
+    for b in bullets:
+        wc = len((b or "").split())
+        if wc < 4 or wc > 28:
+            return False
+
+    if not STRICT_VALIDATION:
+        return True
+
+    low_src = (src_text or "").lower()
+    low_head = (headline or "").lower()
+
+    # Numbers must exist in source
+    for b in bullets:
+        for n in _numbers_in(b):
+            n_norm = n.replace(",", "")
+            if (n and n not in low_src) and (n_norm and n_norm not in low_src):
+                return False
+
+    # Capitalized entities in bullets should appear in source or headline
+    miss_caps = 0
+    for b in bullets:
+        words = re.findall(r"[A-Za-z][A-Za-z&.\-]{2,}", b)
+        if not words:
+            continue
+        cand = [w for w in words if (w[0].isupper() or w.isupper())]
+        for w in cand:
+            lw = w.lower()
+            if lw in {"the","and","with","for","from","into","over","under","after","before"}:
+                continue
+            if lw not in low_src and lw not in low_head:
+                miss_caps += 1
+                if miss_caps >= 3:
+                    return False
+
+    # Too many "not specified" hedges means model had nothing grounded
+    hedges = sum(1 for b in bullets if "not specified in the article" in (b or "").lower())
+    if hedges > len(bullets) // 2:
+        return False
+
+    # Impact sanity
+    if review.get("impact") not in {"Bullish","Bearish","Neutral", None}:
+        return False
+
+    return True
 
 # ------------------- Beginner notes -------------------
 def build_beginner_notes(text: str) -> List[Dict[str,str]]:
@@ -546,9 +625,6 @@ def send_telegram_html_long(text_html: str) -> bool:
         return False
 
 # ------------------- Core runner -------------------
-UTC = dt.timezone.utc
-IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
-
 def run_brief(
     window_min: int = None,
     max_items: int = None,
@@ -559,8 +635,8 @@ def run_brief(
 ):
     """
     Pulls fresh India market-moving items, extracts full text, summarizes into short bullets,
-    adds beginner notes + company snapshot, dedupes by state, diversifies by domain,
-    and optionally sends compact HTML blocks to Telegram (auto-chunked).
+    validates summaries (anti-hallucination), backfills from reserves, dedupes by state,
+    diversifies by domain, and optionally sends compact HTML blocks to Telegram.
     """
 
     # ---- Config + watchlist mode ----
@@ -664,7 +740,7 @@ def run_brief(
         print(f"   [+] {domain_of(it['link'])} :: {it['title'][:80]} "
               f"(fetch {time.time() - t0:.1f}s, wl_hits={len(wl_hits)}, theme={it['_themes']})")
 
-        if len(selected) >= max_items:
+        if len(selected) >= max_items * 4:  # gather enough for backfill
             break
 
     if not selected:
@@ -679,19 +755,29 @@ def run_brief(
         th = x.get('_themes', 0)
         return q * 12 + wl_boost + th * 2 + rec
 
-    items = sorted(selected, key=final_score, reverse=True)[:max_items]
-    print(f"[{dt.datetime.now()}] Selected {len(items)} items after final scoring")
+    ranked_full = sorted(selected, key=final_score, reverse=True)
 
-    # ---- Summarize (OpenAI bullets) + company snapshot + beginner notes ----
+    # Take extra to allow replacements; primary + backups
+    primary = ranked_full[:max_items * 2]
+    backups = ranked_full[max_items * 2 : max_items * 4]  # reserve
+    pool = primary + backups
+    print(f"[{dt.datetime.now()}] Pool size for summarization (incl. backups): {len(pool)}")
+
+    # ---- Summarize with validation; backfill until we reach max_items ----
     results = []
-    for idx, it in enumerate(items, 1):
-        print(f"[{dt.datetime.now()}] Summarizing {idx}/{len(items)}: {it['title'][:88]} ...")
+    used_items = []  # track which items were actually accepted (for 'seen' update)
+
+    for idx, it in enumerate(pool, 1):
+        if len(results) >= max_items:
+            break
+
+        print(f"[{dt.datetime.now()}] Summarizing {idx}/{len(pool)}: {it['title'][:88]} ...")
 
         # Guess company names & build quick snapshot
         comp_names = guess_company_names(it['title'], it.get('_fulltext', ''), wl)
         comp_summary, comp_url = "", ""
         if comp_names:
-            comp_summary, comp_url = wiki_summary(comp_names[0])
+            comp_summary, comp_url = wiki_summary(comp_names[0]) or ("","")
             if not comp_summary:
                 mc_desc, mc_url = moneycontrol_company_blurb(comp_names[0])
                 if mc_desc:
@@ -701,18 +787,31 @@ def run_brief(
                 if g_desc:
                     comp_summary, comp_url = g_desc, g_url
 
-        # LLM summary (strict JSON bullets). If fails, concise extractive fallback.
+        # If source text is a dump, skip early
+        src_text = it.get('_fulltext','') or it.get('summary','')
+        if looks_like_dump_text(src_text):
+            print("   [skip] page looks like a dump/too short; taking a backup item.")
+            continue
+
+        # LLM summary (strict JSON) or extractive fallback
         rev = openai_summarize(
             it['title'],
-            it.get('_fulltext', '') or it.get('summary', ''),
+            src_text,
             it['link'],
             comp_summary or ""
-        )
-        if not rev:
-            rev = fallback_review(it['title'], it.get('_fulltext', '') or it.get('summary', ''))
+        ) or {}
+
+        # Validate; if invalid, try extractive fallback once
+        if not is_valid_review(rev, src_text, it['title']):
+            rev_fb = fallback_review(it['title'], src_text)
+            if not is_valid_review(rev_fb, src_text, it['title']):
+                print("   [skip] summary looked noisy/hallucinated; using another article.")
+                continue
+            else:
+                rev = rev_fb
 
         # Beginner notes from the article text
-        notes = build_beginner_notes(it.get('_fulltext', '') or it.get('summary', ''))
+        notes = build_beginner_notes(src_text)
 
         results.append({
             'item': it,
@@ -721,6 +820,11 @@ def run_brief(
             'company_snapshot': (comp_summary or "")[:600],
             'company_source': comp_url
         })
+        used_items.append(it)
+
+    if not results:
+        print("[info] No valid articles after validation.")
+        return []
 
     # ---- Print + optional Telegram send ----
     print("\n=== Diversified India Market Brief ===\n")
@@ -736,9 +840,9 @@ def run_brief(
             ok = send_telegram_html_long(block_html)
             print(f"   → Telegram sent? {ok}")
 
-    # ---- Update 'seen' state ----
+    # ---- Update 'seen' state (ONLY for accepted items) ----
     seen_keys = set(tuple(x) if isinstance(x, list) else tuple(x) if isinstance(x, tuple) else x for x in raw_seen)
-    for it in items:
+    for it in used_items:
         seen_keys.add((domain_of(it['link']), urlparse(it['link']).path))
     try:
         json.dump({'seen': [list(k) for k in seen_keys]}, open(STATE_FILE, 'w', encoding='utf-8'))
@@ -749,9 +853,8 @@ def run_brief(
     return results
 
 
-print("✅ Notebook helpers loaded (grounded summaries + Telegram + richer company snapshots)")
+print("✅ Notebook helpers loaded (grounded summaries + Telegram + richer company snapshots + validation/backfill)")
 
-results = run_brief(window_min=1400, max_items=6, diversify_domains=2, send= True)
-print(f"Items returned: {len(results)}")
-
-
+if __name__ == "__main__":
+    results = run_brief(window_min=1400, max_items=6, diversify_domains=2, send=True)
+    print(f"Items returned: {len(results)}")
