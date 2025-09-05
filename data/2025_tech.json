@@ -2,53 +2,50 @@
   "2025-09-05": [
     {
       "item": {
-        "title": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
-        "link": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputer-live/",
-        "site_name": "NVIDIA Blog",
-        "novelty_hash": "8a6af05ce03693e57a899b3bf4daad6950f3eb86"
+        "link": "https://blog.google/products/workspace/workspace-feature-drop-ai-sheets/",
+        "novelty_hash": "1de05b54f1aeb9436c6aa2a19ae7a9550a27346e",
+        "site_name": "Google",
+        "title": "Get Gemini’s help in Google Sheets with one simple step."
       },
       "review": {
-        "headline_rewrite": "Now Live: Europe’s First Exascale Supercomputer, JUPITER, Accelerates Climate Research, Neuroscience, Quantum Simulation",
         "bullets": [
-          "Based on Eviden’s BullSequana XH3000 liquid-cooled architecture, JUPITER can run 1 quintillion FP64 operations per second and is expected to offer up to 90 exaflops of AI performance, delivering more than double the speed for high-performance computing and AI workloads compared with the next-fastest system in Europe.",
-          "“JUPITER marks the culmination of more than a decade of research and development,” said Thomas Lippert, director of the Jülich Supercomputing Centre.",
-          "“As the world’s most advanced and versatile exascale system, it represents a unique innovation, opening up completely new possibilities for science and industry in Europe.”\n“With JUPITER, Europe gains its most advanced AI supercomputer, built for large-scale simulation and AI, powered by NVIDIA Grace Hopper Superchips and Quantum-2 InfiniBand,” said Jensen Huang, founder and CEO of NVIDIA.",
-          "“JUPITER fuses high-performance computing and AI into a single architecture.",
-          "A platform for next-generation scientific computing, it will accelerate breakthroughs across every domain — from modeling climate and renewable energy to advancing quantum research, designing new materials and building digital twins.”\nJUPITER’s ribbon-cutting ceremony was attended by a slew of Europe’s AI and industry leaders, politicians, researchers and others.",
-          "JUPITER, which stands for “Joint Undertaking Pioneer for Innovative and Transformative Exascale Research,” gives European startups, enterprises and researchers a massive leap in computing power so they can quickly, efficiently create breakthroughs in:\nFor example, Max Planck Institute for Meteorology is using JUPITER to simulate climate predictions with a spatial resolution of about 1 kilometer, depicting extreme weather events such as violent thunderstorms and heavy rainfall much more realistically than before."
+          "AI in Google Sheets makes categorizing, summarizing or even generating hundreds of rows of text quick and painless.",
+          "For instance, you can use the AI function to categorize user feedback, summarize product reviews or write personalized copy.",
+          "You don’t need to be an AI or spreadsheet expert to do it, either.",
+          "Simply type =AI in any cell, along with your instruction for Gemini."
         ],
-        "impact": "Negative"
+        "headline_rewrite": "Get Gemini’s help in Google Sheets with one simple step.",
+        "impact": "Neutral"
       }
     },
     {
       "item": {
-        "title": "OpenAI hires the team behind Xcode coding assistant Alex Codes",
         "link": "https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/",
+        "novelty_hash": "0a6ee4f721c56eddb2bcfb1094f7e835edaedb7e",
         "site_name": "TechCrunch",
-        "novelty_hash": "8993baf6ba7e28fb80c6f64f0c2c38f791520f70"
+        "title": "OpenAI hires the team behind Xcode coding assistant Alex"
       },
       "review": {
-        "headline_rewrite": "OpenAI hires the team behind Xcode coding assistant Alex Codes",
         "bullets": [
-          "Acqui-hires feel like they’re here to stay: The team behind Alex Codes, a popular tool that lets developers use AI models within Apple’s development suite Xcode, is joining OpenAI.",
-          "In a post on X, Alex Codes’ founder Daniel Edrisian said the startup’s team is joining OpenAI’s Codex division, which is building the company’s AI coding agent.",
-          "Y-Combinator-backed Alex Codes was founded in 2024 and sought to integrate AI models into Xcode.",
-          "Apple, however, earlier this year updated XCode to let users tap ChatGPT and other AI models without needing external tools.",
+          "Acqui-hires feel like they’re here to stay: The team behind Alex, a popular tool that lets developers use AI models within Apple’s development suite Xcode, is joining OpenAI.",
+          "In a post on X, Alex’s founder Daniel Edrisian said the startup’s team is joining OpenAI’s Codex division, which is building the company’s AI coding agent.",
+          "Y Combinator-backed Alex was founded in 2024 and sought to integrate AI models into Xcode.",
+          "Apple, however, earlier this year updated Xcode to let users tap ChatGPT and other AI models without needing external tools.",
           "Edrisian didn’t mention if this was a reason his startup’s team has joined OpenAI.",
           "“When we started out, Xcode had no AI."
         ],
+        "headline_rewrite": "OpenAI hires the team behind Xcode coding assistant Alex",
         "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem",
         "link": "https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/",
+        "novelty_hash": "cf1d37b1d91e7897c84d358ec5e695ed3b2332bd",
         "site_name": "TechCrunch",
-        "novelty_hash": "cf1d37b1d91e7897c84d358ec5e695ed3b2332bd"
+        "title": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem"
       },
       "review": {
-        "headline_rewrite": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem",
         "bullets": [
           "Isotopes AI came out of stealth on Thursday with a healthy $20 million seed round.",
           "It offers an AI agent to solve a problem that data analytics products have struggled with for decades: The people who know how to run the big data infrastructure are not the ones who actually need to use the data.",
@@ -57,65 +54,45 @@
           "Their product is so sophisticated, the startup has already applied for 10 patents, co-founder CEO Arun Murthy told TechCrunch.",
           "In 2011, Yahoo spun it out into a company called Hortonworks, with Murthy as co-founder and chief product officer."
         ],
+        "headline_rewrite": "Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem",
         "impact": "Negative"
       }
     },
     {
       "item": {
-        "title": "What would actually make the Apple Watch better?",
-        "link": "https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables",
+        "link": "https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro",
+        "novelty_hash": "185686d2098be08bda8b52b5e2c2fa28d7ade24a",
         "site_name": "The Verge",
-        "novelty_hash": "3016211f83eb9422584230fc9ebc01924dbad21d"
+        "title": "Samsung&#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro"
       },
       "review": {
-        "headline_rewrite": "What would actually make the Apple Watch better?",
         "bullets": [
-          "It said Apple Watch shipments fell by 19 percent year over year, marking five straight quarters of declines due to decreased consumer demand, fewer models to choose from, and fewer substantial upgrades.",
-          "The obvious answer after Galaxy Unpacked and Made by Google would be to stuff AI into the watch.",
-          "There’s documented evidence that, while Apple toyed with this idea in the past, it ultimately decided against it, as it helps keep people locked to the iPhone.",
-          "Together, they paint a clear picture that Google believes the future of wearable technology lies in AI hardware.",
-          "Apple doesn’t need to go the AI hardware route (though I’m sure its investors are pushing for that).",
-          "If the present is blah, then having faith that a better future is in the works makes the wait feel worthwhile."
+          "The renders, shared with Android Headlines by reliable leaker OnLeaks, show a device with slim bezels and a prominent rear camera bar housing a pair of lenses.",
+          "Additionally, Android Headlines claims that the Galaxy S26 Edge will be even thinner than its predecessor, measuring 5.5mm thick (or 10.8mm with the camera bump), as opposed to 5.8mm with the S25 Edge.",
+          "We’ll likely have to wait until January to see if Samsung adopts the boxy camera island shown in the renders — but in just a few days, we’ll find out if Apple beats it to the punch."
         ],
-        "impact": "Negative"
+        "headline_rewrite": "Samsung&#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro",
+        "impact": "Neutral"
       }
     },
     {
       "item": {
-        "title": "The Exit 8 movie is even scarier than the game",
-        "link": "https://www.theverge.com/film/769133/tiff-2025-nouvelle-vague-exit-8-reviews",
-        "site_name": "The Verge",
-        "novelty_hash": "c845177d4a28649da8ad4cf55ba2ee79487dcb9a"
-      },
-      "review": {
-        "headline_rewrite": "The Exit 8 movie is even scarier than the game",
-        "bullets": [
-          "If you were ever curious what a Verge reporter takes with them to sit on a train and then a theater all day, well, today’s your lucky day.",
-          "It certainly looks the part, rendered in black and white, and with copious scenes in smoky Parisian bars and cafes.",
-          "Without over-explaining the mystery, the movie expands it, with more terrifying anomalies and actual characters with backstories that create a heart-pounding sense of urgency.",
-          "Most Popular\n- Microsoft is about to shake up its Copilot pricing for businesses\n- The Browser Company, maker of Arc and Dia, is being acquired\n- How Wikipedia survives while the rest of the internet breaks\n- Google Photos now lets you animate your camera roll with Veo 3 for free\n- Philips Hue lights get bigger, brighter, and cheaper with a major product refresh"
-        ],
-        "impact": "Positive"
-      }
-    },
-    {
-      "item": {
-        "title": "The best new computers to replace your old Windows 10 PC",
-        "link": "https://www.engadget.com/computing/the-best-new-computers-to-replace-your-old-windows-10-pc-134500000.html",
+        "link": "https://www.engadget.com/transportation/evs/bmw-and-qualcomm-announce-jointly-developed-driver-assistance-system-144922600.html",
+        "novelty_hash": "0b89c385132918ce729f7f3dd3ca46f84908c576",
         "site_name": "Engadget",
-        "novelty_hash": "68a1135eedb5b936772c5f265a44ee8cb6f0bb67"
+        "title": "BMW and Qualcomm announce jointly developed driver assistance system"
       },
       "review": {
-        "headline_rewrite": "The best new computers to replace your old Windows 10 PC",
         "bullets": [
-          "Read more about how we evaluate products.",
-          "Sure, you can kick the can down the road by signing up for the free 12-month Extended Security Updates.",
-          "But even if your computer meets the minimum system requirements for a free Windows 11 upgrade, anything older than a year won't be able to take advantage of Microsoft's Copilot+ AI PC features, like Windows Recall or Studio Effects for video chats.",
-          "It's incredibly light, surprisingly powerful for something with a mobile chip and its battery lasted over 17-and-a-half hours in our testing.",
-          "The S14 is also lighter than the MacBook Air, and it includes more useful ports (two USB-C, one USB-A, HDMI and a headphone jack).",
-          "(Check out our full review of the ASUS ZenBook S 14.)\nApple MacBook Air\nDon't yell at me — Apple's new computers are so good that Windows users should seriously consider jumping ship to Macs."
+          "The jointly developed software stack announced today will be powered by Snapdragon Ride system-on-chips and will make its first formal appearance at IAA Mobility 2025.",
+          "An advanced context-aware driving layer uses a combination of rules-based and AI-based models to plan and predict behavior during complex driving scenarios.",
+          "The stack also uses what Qualcomm is calling a safety-first approach, which includes cybersecurity features and enforces strict global car safety rules like ISO's Automotive Safety Integrity Levels and Functional Safety standards.",
+          "Snapdragon Ride Pilot is now being offered by Qualcomm to all global automakers, and the chipmaker says the system is already validated in 60 countries worldwide, with the aim of availability in more than 100 countries by 2026.",
+          "This new partnership is the latest high-tech product for cars from the semiconductor company.",
+          "Last year they began working with Google on AI voice systems for vehicles."
         ],
-        "impact": "Negative"
+        "headline_rewrite": "BMW and Qualcomm announce jointly developed driver assistance system",
+        "impact": "Neutral"
       }
     }
   ]
