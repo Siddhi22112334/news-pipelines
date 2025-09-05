@@ -1,21 +1,25 @@
 {
-  "2025-09-06": [
-    {
-      "item": {
-        "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipo-gujarat-based-knack-packaging-files-draft-papers-with-sebi-to-raise-funds-via-public-issue-details-here-11757091671455.html",
-        "novelty_hash": "",
-        "site_name": "",
-        "title": "Upcoming IPO: Gujarat-based Knack Packaging files draft papers with Sebi to raise funds via public issue — Details here"
-      },
-      "review": {
-        "bullets": [
-          "Upcoming IPO: Gujarat-based Knack Packaging filed its preliminary draft papers with the capital markets regulator, the Securities and Exchange Board of India (Sebi), on",
-          "Alpesh Tulsibhai Patel, Pravinkumar Ambalal Patel, and Rashminbhai Tulsibhai Patel are the promoters selling stakeholders of the public issue, while others like Tulsibhai Keshavlal",
-          "According to the preliminary draft papers, Knack Packaging's revenue from operations stood at ₹736.49 crore, while the net profit was at ₹73.81 crore as"
-        ],
-        "headline_rewrite": "Upcoming IPO: Gujarat-based Knack Packaging files draft papers with Sebi to raise funds via public issue — Details here",
-        "impact": "Bullish"
-      }
+  "2025-09-06": {
+    "runs": {
+      "00:52": [
+        {
+          "item": {
+            "title": "Upcoming IPO: Gujarat-based Knack Packaging files draft papers with Sebi to raise funds via public issue — Details here",
+            "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipo-gujarat-based-knack-packaging-files-draft-papers-with-sebi-to-raise-funds-via-public-issue-details-here-11757091671455.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Upcoming IPO: Gujarat-based Knack Packaging files draft papers with Sebi to raise funds via public issue — Details here",
+            "bullets": [
+              "Upcoming IPO: Gujarat-based Knack Packaging filed its preliminary draft papers with the capital markets regulator, the Securities and Exchange Board of India (Sebi), on",
+              "Alpesh Tulsibhai Patel, Pravinkumar Ambalal Patel, and Rashminbhai Tulsibhai Patel are the promoters selling stakeholders of the public issue, while others like Tulsibhai Keshavlal",
+              "According to the preliminary draft papers, Knack Packaging's revenue from operations stood at ₹736.49 crore, while the net profit was at ₹73.81 crore as"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
     }
-  ]
+  }
 }

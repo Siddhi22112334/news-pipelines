@@ -1,81 +1,125 @@
 {
-  "2025-09-06": [
-    {
-      "item": {
-        "link": "https://www.theverge.com/23393163/best-smart-door-lock",
-        "novelty_hash": "73ad2d239e1c1c86af0909f639821c2c151d3855",
-        "site_name": "The Verge",
-        "title": "I tested 30 smart locks, and these are the best"
-      },
-      "review": {
-        "bullets": [
-          "Hands are full, and it’s raining cats and dogs?",
-          "I tested 30 smart locks, and these are the best\nNever get locked out again with a smart lock you can control from your phone, with your face, or with a fingerprint.",
-          "Most smart locks have the same security ratings as their non-smart counterparts (see FAQ for more details), and it’s harder to physically pick a lock without a keyway.",
-          "What I’m looking for\nI install each lock on one of four exterior doors and use it daily for at least a week.",
-          "I test remote features like app control, code sharing, and platform integrations.Design, aesthetics, and how the lock pairs with devices like video doorbells are also considered.",
-          "A good smart lock should have at least three ways to unlock in case one method fails."
-        ],
-        "headline_rewrite": "I tested 30 smart locks, and these are the best",
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "link": "https://www.theverge.com/news/772848/google-ad-tech-eu-antitrust-fine",
-        "novelty_hash": "ae677daa3f9883ec3f31ab7cd81c1b50beabf077",
-        "site_name": "The Verge",
-        "title": "Google fined $3.5 billion by EU for ad tech abuse"
-      },
-      "review": {
-        "bullets": [
-          "The European Commission has waged a €2.95 billion (~$3.5 billion) fine against Google for “abusing its dominant position” in advertising technology.",
-          "In its announcement, the Commission claims that Google’s alleged anticompetitive practices have increased costs for advertisers and publishers, potentially raising prices for consumers as a result.",
-          "“If it fails to propose a viable plan, the Commission will not hesitate to impose an appropriate remedy,” the Commission states, adding that the solution may involve forcing Google to sell off parts of its ad tech business.",
-          "The US Department of Justice similarly asked a federal judge to break up Google’s ad tech business after determining that it violates antitrust laws.",
-          "In an emailed statement to The Verge, Lee-Anne Mulholland, Google’s vice president and global head of regulatory affairs, called the decision about its ad tech services “wrong” and said that the company plans to appeal.",
-          "“It imposes an unjustified fine and requires changes that will hurt thousands of European businesses by making it harder for them to make money,” Mulholland said."
-        ],
-        "headline_rewrite": "Google fined $3.5 billion by EU for ad tech abuse",
-        "impact": "Negative"
-      }
-    },
-    {
-      "item": {
-        "link": "https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/",
-        "novelty_hash": "13353f546f4b056b0d4368c716b6e9fa2e624c8e",
-        "site_name": "WIRED",
-        "title": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now"
-      },
-      "review": {
-        "bullets": [
-          "Razer does a great job with little details, like the spacious glass touchpad that's nice and responsive, the excellent fit and finish on the machined aluminum body, and the thin bezels that help the screen stand out.",
-          "We haven't had a chance to test out the mobile versions of these chips, but on the desktop end I found that little memory was a limiting factor for performance, especially at 1440p or higher.",
-          "Mobile GPUs are always a compromise, but you won't have the opportunity to upgrade, so it's important to get this right on the first try."
-        ],
-        "headline_rewrite": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now",
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
-        "link": "https://www.engadget.com/transportation/evs/teslas-board-to-elon-musk-hit-these-milestones-and-well-make-you-a-trillionaire-170914461.html",
-        "novelty_hash": "8947a5c682f063862bf0deb8a3d1f7ba72e3b2df",
-        "site_name": "Engadget",
-        "title": "Tesla's board to Elon Musk: Hit these milestones, and we'll make you a trillionaire"
-      },
-      "review": {
-        "bullets": [
-          "But hey, Tesla's board has proposed a pay package that could make Elon Musk the world's first trillionaire.",
-          "Tesla's board laid out what's by far the biggest CEO compensation package in history on Friday.",
-          "First, the Tesla leader would have to remain at the company for seven and a half years to cash in any shares.",
-          "Musk also runs a rocket company and an AI company (which also operates the former Twitter, aka X).",
-          "Other performance requirements include deploying a million Tesla robotaxis and a million AI robots.",
-          "The package also includes structural protections to minimize stock price volatility, which the company has become well-acquainted with in 2025."
-        ],
-        "headline_rewrite": "Tesla's board to Elon Musk: Hit these milestones, and we'll make you a trillionaire",
-        "impact": "Positive"
-      }
+  "2025-09-06": {
+    "runs": {
+      "00:52": [
+        {
+          "item": {
+            "title": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment",
+            "link": "https://techcrunch.com/2025/09/05/google-gemini-dubbed-high-risk-for-kids-and-teens-in-new-safety-assessment/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c44710537c78991828f0db0c6c10bfdc7a50fc1f"
+          },
+          "review": {
+            "headline_rewrite": "Google Gemini dubbed ‘high risk’ for kids and teens in new safety assessment",
+            "bullets": [
+              "Common Sense Media, a kids-safety-focused nonprofit offering ratings and reviews of media and technology, released its risk assessment of Google’s Gemini AI products on Friday.",
+              "While the organization found that Google’s AI clearly told kids it was a computer, not a friend — something that’s associated with helping drive delusional thinking and psychosis in emotionally vulnerable individuals — it did suggest that there was room for improvement across several other fronts.",
+              "Notably, Common Sense said that Gemini’s “Under 13” and “Teen Experience” tiers both appeared to be the adult versions of Gemini under the hood, with only some additional safety features added on top.",
+              "The organization believes that for AI products to truly be safer for kids, they should be built with child safety in mind from the ground up.",
+              "The latter could be of particular concern to parents, as AI has reportedly played a role in some teen suicides in recent months.",
+              "OpenAI is facing its first wrongful death lawsuit after a 16-year-old boy died by suicide after allegedly consulting with ChatGPT for months about his plans, having successfully bypassed the chatbot’s safety guardrails."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "I tested 30 smart locks, and these are the best",
+            "link": "https://www.theverge.com/23393163/best-smart-door-lock",
+            "site_name": "The Verge",
+            "novelty_hash": "73ad2d239e1c1c86af0909f639821c2c151d3855"
+          },
+          "review": {
+            "headline_rewrite": "I tested 30 smart locks, and these are the best",
+            "bullets": [
+              "Hands are full, and it’s raining cats and dogs?",
+              "I tested 30 smart locks, and these are the best\nNever get locked out again with a smart lock you can control from your phone, with your face, or with a fingerprint.",
+              "Most smart locks have the same security ratings as their non-smart counterparts (see FAQ for more details), and it’s harder to physically pick a lock without a keyway.",
+              "What I’m looking for\nI install each lock on one of four exterior doors and use it daily for at least a week.",
+              "I test remote features like app control, code sharing, and platform integrations.Design, aesthetics, and how the lock pairs with devices like video doorbells are also considered.",
+              "A good smart lock should have at least three ways to unlock in case one method fails."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Attorneys general warn OpenAI ‘harm to children will not be tolerated’",
+            "link": "https://techcrunch.com/2025/09/05/attorneys-general-warn-openai-harm-to-children-will-not-be-tolerated/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "32e6361d6bd1ea4c26246245deb8bfa466e693d7"
+          },
+          "review": {
+            "headline_rewrite": "Attorneys general warn OpenAI ‘harm to children will not be tolerated’",
+            "bullets": [
+              "California Attorney General Rob Bonta and Delaware Attorney General Kathy Jennings met with and sent an open letter to OpenAI to express their concerns over the safety of ChatGPT, particularly for children and teens.",
+              "The warning comes a week after Bonta and 44 other attorneys general sent a letter to 12 of the top AI companies, following reports of sexually inappropriate interactions between AI chatbots and children.",
+              "“Since the issuance of that letter, we learned of the heartbreaking death by suicide of one young Californian after he had prolonged interactions with an OpenAI chatbot, as well as a similarly disturbing murder-suicide in Connecticut,” Bonta and Jennings write.",
+              "“Whatever safeguards were in place did not work.”\nThe two state officials are currently investigating OpenAI’s proposed restructuring into a for-profit entity to ensure that the mission of the nonprofit remains intact.",
+              "“It is our shared view that OpenAI and the industry at large are not where they need to be in ensuring safety in AI products’ development and deployment.",
+              "As we continue our dialogue related to OpenAI’s recapitalization plan, we must work to accelerate and amplify safety as a governing force in the future of this powerful technology.”\nBonta and Jennings have asked for more information about OpenAI’s current safety precautions and governance, and said they expect the company to take immediate remedial measures where appropriate."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic",
+            "link": "https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons",
+            "site_name": "The Verge",
+            "novelty_hash": "23467f89292680fe469b181d94c1f82d75d5574a"
+          },
+          "review": {
+            "headline_rewrite": "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic",
+            "bullets": [
+              "Showrunner — the startup that wants to “revolutionize” the entertainment industry by charging people to prompt up AI-generated videos featuring copyrighted IP — is working on a new project to restore an Orson Welles classic.",
+              "Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic\nThe aspiring ‘Netflix of AI’ has a plan to remake the original cut of Welles’ adaptation of The Magnificent Ambersons.",
+              "On Friday, Showrunner announced that it has designed a new generative AI model that is meant to help recreate lost footage from The Magnificent Ambersons, Welles’ 1942 adaptation of Booth Tarkington’s 1918 novel about a family whose vast fortune is being decimated by tech-driven industrialization.",
+              "Though Welles initially crafted a version of the film whose runtime clocked in at 131 minutes, RKO — one of the project’s production companies — cut it down to 88 minutes without the director’s input after he lost control of the editing process.",
+              "He reportedly later said that “they destroyed Ambersons and it destroyed me.”\nBut Showrunner believes that, by using generative AI, it can bring back the lost footage and give people a chance to see The Magnificent Ambersons as Welles originally intended.",
+              "In a statement to The Hollywood Reporter about the new project, Showrunner co-founder Edward Saatchi admitted that while generative AI as it currently exists “can’t sustain a story beyond one short episode,” he is confident that “the technology is getting closer to prompting entire films with AI.”\nWhile Welles wrote detailed notes about how he wanted The Magnificent Amersons to be cut, RKO did not follow them and the studio ultimately destroyed the negatives correlating to the film’s lost footage for storage reasons."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement",
+            "link": "https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/",
+            "site_name": "WIRED",
+            "novelty_hash": "ed591f14d30b40fc8409089094a02cd592a1aad1"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement",
+            "bullets": [
+              "Experts said the plaintiffs may have been awarded at least billions of dollars in damages, with some estimates placing the total figure over $1 trillion.",
+              "This is the first class action legal settlement centered on AI and copyright in the United States, and the outcome may shape how regulators and creative industries approach the legal debate over generative AI and intellectual property.",
+              "It is the first of its kind in the AI era.",
+              "It will provide meaningful compensation for each class work and sets a precedent requiring AI companies to pay copyright owners.",
+              "This settlement sends a powerful message to AI companies and creators alike that taking copyrighted works from these pirate websites is wrong,” says co-lead plaintiffs’ counsel Justin Nelson of Susman Godfrey LLP.",
+              "“Today's settlement, if approved, will resolve the plaintiffs' remaining legacy claims."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now",
+            "link": "https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/",
+            "site_name": "WIRED",
+            "novelty_hash": "13353f546f4b056b0d4368c716b6e9fa2e624c8e"
+          },
+          "review": {
+            "headline_rewrite": "Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now",
+            "bullets": [
+              "Razer does a great job with little details, like the spacious glass touchpad that's nice and responsive, the excellent fit and finish on the machined aluminum body, and the thin bezels that help the screen stand out.",
+              "We haven't had a chance to test out the mobile versions of these chips, but on the desktop end I found that little memory was a limiting factor for performance, especially at 1440p or higher.",
+              "Mobile GPUs are always a compromise, but you won't have the opportunity to upgrade, so it's important to get this right on the first try."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
     }
-  ]
+  }
 }
