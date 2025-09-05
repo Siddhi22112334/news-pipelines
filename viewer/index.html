@@ -1,431 +1,325 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1"/>
-<title>News Viewer</title>
-<style>
-  :root {
-    --bg: #0b0f14;
-    --card: #111823;
-    --text: #e7eef7;
-    --muted: #9db0c5;
-    --accent: #4aa3ff;
-    --red: #ff5a5a;
-    --green: #3cc174;
-    --yellow: #ffcc66;
-    --chip: #1a2332;
-    --border: #1f2a3a;
-  }
-
-  * {
-    box-sizing: border-box;
-  }
-
-  body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--text);
-    font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial;
-    scroll-behavior: smooth;
-  }
-
-  header {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: linear-gradient(180deg, var(--bg), rgba(11, 15, 20, .92));
-    backdrop-filter: blur(8px);
-    border-bottom: 1px solid var(--border);
-  }
-
-  .nav {
-    display: flex;
-    gap: .75rem;
-    align-items: center;
-    padding: .85rem .9rem;
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-
-  .nav h1 {
-    font-size: 1.2rem;
-    margin: 0;
-    letter-spacing: .4px;
-  }
-
-  .tabs {
-    margin-left: auto;
-    display: flex;
-    gap: .4rem;
-  }
-
-  .tab {
-    border: 1px solid var(--border);
-    background: var(--chip);
-    color: var(--text);
-    padding: .45rem .75rem;
-    border-radius: .6rem;
-    cursor: pointer;
-    font-size: .95rem;
-    transition: background .2s ease;
-  }
-
-  .tab.active,
-  .tab:hover {
-    outline: 2px solid var(--accent);
-  }
-
-  main {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 1rem .9rem 3rem;
-  }
-
-  .controls {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .6rem;
-    align-items: center;
-    margin: .7rem 0 1.2rem;
-    position: sticky;
-    top: 55px;
-    background: var(--bg);
-    padding: 0.5rem 0;
-    z-index: 5;
-  }
-
-  select,
-  input[type="search"],
-  button {
-    border: 1px solid var(--border);
-    background: var(--card);
-    color: var(--text);
-    padding: .6rem .7rem;
-    border-radius: .6rem;
-    font-size: .95rem;
-    flex-shrink: 0;
-  }
-
-  label.chk {
-    display: flex;
-    align-items: center;
-    gap: .4rem;
-    font-size: .9rem;
-    color: var(--muted);
-  }
-
-  .grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-
-  @media(min-width: 720px) {
-    .grid {
-      grid-template-columns: 1fr 1fr;
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>News Brief — Tech & Finance</title>
+  <style>
+    :root{
+      --bg:#0b0f14; --card:#111823; --text:#e7eef7; --muted:#9db0c5; --accent:#4aa3ff;
+      --red:#ff5a5a; --green:#3cc174; --yellow:#ffcc66; --chip:#1a2332; --border:#1f2a3a;
     }
-  }
+    *{ box-sizing:border-box }
+    body{
+      margin:0; background:var(--bg); color:var(--text);
+      font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,"Helvetica Neue",Arial;
+    }
+    header{
+      position:sticky; top:0; z-index:10;
+      background:linear-gradient(180deg,var(--bg),rgba(11,15,20,.92));
+      backdrop-filter: blur(8px);
+      border-bottom:1px solid var(--border);
+    }
+    .nav{ display:flex; gap:.75rem; align-items:center; padding:.8rem .9rem; max-width:1100px; margin:0 auto; }
+    .nav h1{ font-size:1.05rem; margin:0; letter-spacing:.2px; }
+    .tabs{ margin-left:auto; display:flex; gap:.35rem }
+    .tab{
+      border:1px solid var(--border); background:var(--chip); color:var(--text);
+      padding:.4rem .65rem; border-radius:.6rem; cursor:pointer; font-size:.92rem;
+    }
+    .tab.active{ outline:2px solid var(--accent) }
 
-  article {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 1rem .9rem;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, .25);
-    transition: transform 0.2s ease;
-  }
+    main{ max-width:1100px; margin:0 auto; padding:1rem .9rem 2.5rem }
+    .controls{ display:flex; flex-wrap:wrap; gap:.6rem .8rem; align-items:center; margin:.4rem 0 1rem }
+    select, input[type="search"], button{
+      border:1px solid var(--border); background:var(--card); color:var(--text);
+      padding:.48rem .6rem; border-radius:.6rem; font-size:.95rem;
+    }
+    label.chk{ display:flex; align-items:center; gap:.4rem; font-size:.92rem; color:var(--muted) }
+    .chips{ display:flex; gap:.4rem; flex-wrap:wrap }
+    .chip{
+      background:var(--chip); border:1px solid var(--border); color:var(--text);
+      padding:.2rem .5rem; border-radius:.6rem; font-size:.88rem;
+    }
 
-  article:hover {
-    transform: scale(1.015);
-  }
-
-  .headline {
-    font-weight: 700;
-    font-size: 1.05rem;
-    margin: 0 0 .5rem;
-    line-height: 1.45;
-  }
-
-  .badge {
-    display: inline-flex;
-    align-items: center;
-    gap: .35rem;
-    font-size: .85rem;
-    color: var(--muted);
-    margin-bottom: 0.5rem;
-  }
-
-  .impact {
-    font-weight: 700;
-    padding: .08rem .4rem;
-    border-radius: .5rem;
-  }
-
-  .impact.Positive {
-    background: rgba(60, 193, 116, .15);
-    color: var(--green);
-  }
-
-  .impact.Negative {
-    background: rgba(255, 90, 90, .15);
-    color: var(--red);
-  }
-
-  .impact.Neutral {
-    background: rgba(255, 204, 102, .15);
-    color: var(--yellow);
-  }
-
-  ul {
-    margin: .5rem 0 0 1.1rem;
-    padding: 0;
-  }
-
-  li {
-    margin: .25rem 0;
-    color: var(--text);
-    line-height: 1.45;
-  }
-
-  .meta {
-    display: flex;
-    gap: .6rem;
-    align-items: center;
-    color: var(--muted);
-    font-size: .88rem;
-    margin-top: .75rem;
-  }
-
-  .meta a {
-    color: var(--accent);
-    text-decoration: none;
-    word-break: break-word;
-  }
-
-  .empty {
-    color: var(--muted);
-    padding: 2rem 0;
-    text-align: center;
-  }
-
-  footer {
-    color: var(--muted);
-    font-size: .85rem;
-    text-align: center;
-    margin-top: 1.5rem;
-    opacity: 0.8;
-  }
-</style>
-
+    .grid{ display:grid; grid-template-columns:1fr; gap:.9rem }
+    @media(min-width:760px){ .grid{ grid-template-columns:1fr 1fr } }
+    article{
+      background:var(--card); border:1px solid var(--border);
+      border-radius:14px; padding:.9rem .9rem; box-shadow:0 6px 20px rgba(0,0,0,.25);
+    }
+    .row{ display:flex; align-items:center; justify-content:space-between; gap:.6rem }
+    .headline{ font-weight:700; font-size:1.02rem; margin:.35rem 0 .5rem }
+    .kind{ font-size:.83rem; color:var(--muted) }
+    .impact{ font-weight:700; padding:.08rem .4rem; border-radius:.5rem; font-size:.83rem }
+    .impact.Positive{ background:rgba(60,193,116,.15); color:var(--green) }
+    .impact.Negative{ background:rgba(255,90,90,.15); color:var(--red) }
+    .impact.Neutral{ background:rgba(255,204,102,.15); color:var(--yellow) }
+    ul{ margin:.2rem 0 0 1rem; padding:0 }
+    li{ margin:.25rem 0; color:var(--text) }
+    .meta{ display:flex; gap:.6rem; align-items:center; color:var(--muted); font-size:.88rem; margin-top:.6rem }
+    .meta a{ color:var(--accent); text-decoration:none; overflow-wrap:anywhere }
+    .empty{ color:var(--muted); padding:2rem 0; text-align:center }
+    footer{ color:var(--muted); font-size:.85rem; text-align:center; margin-top:1rem }
+  </style>
 </head>
 <body>
-<header>
-  <div class="nav">
-    <h1>News Viewer</h1>
-    <div class="tabs">
-      <button class="tab active" data-view="news">News</button>
-      <button class="tab" data-view="search">Search</button>
+  <header>
+    <div class="nav">
+      <h1>News Brief</h1>
+      <div class="tabs">
+        <button class="tab active" data-view="browse">Browse</button>
+        <button class="tab" data-view="search">Search</button>
+      </div>
     </div>
-  </div>
-</header>
-<main>
-  <section id="news-view">
-    <div class="controls">
-      <label>Date <select id="dateSelect"></select></label>
-      <label>Show
-        <select id="kindSelect">
-          <option value="tech">Tech</option>
-          <option value="finance">Finance</option>
-        </select>
-      </label>
-      <label class="chk"><input type="checkbox" id="dedupeToggle" checked> Hide duplicates</label>
-      <span id="count" class="badge"></span>
-    </div>
-    <div class="grid" id="cards"></div>
-    <div class="empty" id="empty" hidden>No stories available.</div>
-  </section>
+  </header>
 
-  <section id="search-view" hidden>
-    <div class="controls">
-      <input type="search" id="q" placeholder="Search headlines & bullets…"/>
-      <button id="searchBtn">Search</button>
-    </div>
-    <div class="grid" id="searchCards"></div>
-    <div class="empty" id="searchEmpty" hidden>No matches yet.</div>
-  </section>
-  <footer>Local viewer — loads JSON files from ./data</footer>
-</main>
+  <main>
+    <!-- ───────────── Browse view ───────────── -->
+    <section id="browse-view">
+      <div class="controls">
+        <label>Date
+          <select id="dateSelect" title="Pick a date"></select>
+        </label>
+        <label class="chk"><input type="checkbox" id="showTech" checked> Tech</label>
+        <label class="chk"><input type="checkbox" id="showFinance" checked> Finance</label>
+        <label class="chk"><input type="checkbox" id="dedupeToggle" checked> Hide duplicates</label>
+        <span id="count" class="chip"></span>
+        <span id="tips" class="chip">Tap “Search” to search across all dates</span>
+      </div>
+      <div class="grid" id="cards"></div>
+      <div class="empty" id="empty" hidden>No stories for this date.</div>
+    </section>
 
-<script>
-const $ = s => document.querySelector(s);
-const $$ = s => Array.from(document.querySelectorAll(s));
-const decodeHTML = (s='')=>{
-  let out = String(s);
-  for(let i=0;i<2;i++){
-    const doc = new DOMParser().parseFromString('<!doctype html><body>'+out,'text/html');
-    const next = doc.body.textContent || '';
-    if(next===out) break; out=next;
-  }
-  return out;
-};
+    <!-- ───────────── Search view ───────────── -->
+    <section id="search-view" hidden>
+      <div class="controls">
+        <input type="search" id="q" placeholder="Search headlines & bullets…" />
+        <button id="searchBtn">Search</button>
+        <label class="chk"><input type="checkbox" id="sTech" checked> Tech</label>
+        <label class="chk"><input type="checkbox" id="sFin" checked> Finance</label>
+        <label class="chk"><input type="checkbox" id="sDedupe" checked> Hide duplicates</label>
+      </div>
+      <div class="grid" id="searchCards"></div>
+      <div class="empty" id="searchEmpty" hidden>No matches yet. Type a query and hit Search.</div>
+    </section>
 
-let indexMap = {};     // { "YYYY-MM-DD": { tech: N, finance: M }, ... }
-let cache = {};        // { "YYYY-MM-DD": { tech:[], finance:[] } }
-let lastDate = null;
+    <footer>Static viewer — reads JSON under <code>viewer/data</code>.</footer>
+  </main>
 
-$$('.tab').forEach(btn=>{
-  btn.addEventListener('click', ()=>{
-    $$('.tab').forEach(b=>b.classList.remove('active'));
-    btn.classList.add('active');
-    const view = btn.dataset.view;
-    $('#news-view').hidden = view!=='news';
-    $('#search-view').hidden = view!=='search';
-  });
-});
-
-$('#dedupeToggle').addEventListener('change', ()=>{ if(lastDate) renderCards(); });
-$('#searchBtn').addEventListener('click', doSearch);
-$('#q').addEventListener('keydown', e=>{ if(e.key==='Enter') doSearch(); });
-
-async function init(){
-  try{
-    const res = await fetch('./index.json',{cache:'no-store'});
-    indexMap = await res.json();
-  }catch(e){
-    console.error('Failed to load index.json', e);
-    $('#empty').hidden=false; return;
-  }
-  const dates = Object.keys(indexMap).sort().reverse();
-  if(!dates.length){ $('#empty').hidden=false; return; }
-  $('#dateSelect').innerHTML = dates.map(d=>{
-    const t = indexMap[d]?.tech ?? 0;
-    const f = indexMap[d]?.finance ?? 0;
-    return `<option value="${d}">${d} (T:${t} / F:${f})</option>`;
-  }).join('');
-  $('#dateSelect').addEventListener('change', onDateChange);
-  $('#kindSelect').addEventListener('change', ()=>renderCards());
-
-  onDateChange();
-}
-
-async function onDateChange(){
-  const d = $('#dateSelect').value;
-  if (!d) return;
-  const year = d.slice(0,4);
-
-  // cache[d] will store { tech:[], finance:[] } at the date granularity
-  if (!cache[d]) {
-    cache[d] = { tech:[], finance:[] };
-    try {
-      const [tObj, fObj] = await Promise.all([
-        fetch(`./data/${year}_tech.json`,    {cache:'no-store'}).then(r=>r.ok?r.json():{}),
-        fetch(`./data/${year}_finance.json`, {cache:'no-store'}).then(r=>r.ok?r.json():{}),
-      ]);
-      cache[d].tech    = Array.isArray(tObj?.[d]) ? tObj[d] : [];
-      cache[d].finance = Array.isArray(fObj?.[d]) ? fObj[d] : [];
-    } catch(e) { console.error(e); }
-  }
-  lastDate = d;
-  renderCards();
-}
-
-function normalize(rec){
-  return rec.map(r=>{
-    const item = r.item||{};
-    const review = r.review||{};
-    return {
-      headline: decodeHTML(review.headline_rewrite || item.title || ''),
-      bullets: Array.isArray(review.bullets)?review.bullets.map(b=>decodeHTML(b)):[],
-      impact: review.impact || 'Neutral',
-      source: item.link || '#',
-      site: item.site_name || (item.link ? new URL(item.link).host : 'source'),
-      novelty: item.novelty_hash || (item.link||'')
+  <script>
+    // ---------- helpers ----------
+    const $  = sel => document.querySelector(sel);
+    const $$ = sel => Array.from(document.querySelectorAll(sel));
+    const decodeHTML = (s='') => {
+      let out = String(s);
+      for (let i=0;i<2;i++){
+        const doc = new DOMParser().parseFromString('<!doctype html><body>'+out, 'text/html');
+        const next = doc.body.textContent || '';
+        if (next === out) break;
+        out = next;
+      }
+      return out;
     };
-  });
-}
+    const fetchJSON = async (path) => {
+      const res = await fetch(path, {cache:'no-store'});
+      if (!res.ok) throw new Error('HTTP '+res.status+' for '+path);
+      return await res.json();
+    };
+    const uniq = arr => Array.from(new Set(arr));
+    const sleep = ms => new Promise(r=>setTimeout(r, ms));
 
-function renderCards(){
-  const kind = $('#kindSelect').value;
-  const d = lastDate;
-  const list = normalize(cache[d]?.[kind] || []);
-  const dedupe = $('#dedupeToggle').checked;
-  const used = new Set();
-  const filtered = list.filter(r=>{
-    if(!dedupe) return true;
-    if(used.has(r.novelty)) return false;
-    used.add(r.novelty); return true;
-  });
-  $('#count').textContent = `${filtered.length} stories (${kind})`;
-  $('#cards').innerHTML = filtered.map(renderCard).join('');
-  $('#empty').hidden = filtered.length>0;
-}
+    // ---------- state ----------
+    let indexMap = {};          // {date: {tech, finance}}
+    let years = [];             // unique list of years that exist
+    const yearCache = { tech:{}, finance:{} }; // per-kind, per-year cache of yearly JSON
+    const dateCache = {};       // date -> combined array with kind tags
+    let lastLoadedDate = null;
 
-function renderCard(r){
-  const impactClass = ['Positive','Negative','Neutral'].includes(r.impact) ? r.impact : 'Neutral';
-  const bullets = (r.bullets||[]).map(b=>`<li>${b}</li>`).join('');
-  const headline = r.headline || '(no headline)';
-  return `<article>
-    <div class="badge"><span class="impact ${impactClass}">${impactClass}</span></div>
-    <h2 class="headline">${headline}</h2>
-    ${bullets?`<ul>${bullets}</ul>`:''}
-    <div class="meta"><a href="${r.source}" target="_blank" rel="noopener noreferrer">${r.site}</a></div>
-  </article>`;
-}
-
-async function doSearch(){
-  const q = ($('#q').value || '').trim().toLowerCase();
-  if (!q){ $('#searchCards').innerHTML=''; $('#searchEmpty').hidden=false; return; }
-
-  const dates = Object.keys(indexMap);
-  const years = Array.from(new Set(dates.map(d=>d.slice(0,4))));
-
-  // load all year files once, then fill per-date cache
-  const yearData = {};
-  for (const y of years){
-    try{
-      const [tObj, fObj] = await Promise.all([
-        fetch(`./data/${y}_tech.json`,    {cache:'no-store'}).then(r=>r.ok?r.json():{}),
-        fetch(`./data/${y}_finance.json`, {cache:'no-store'}).then(r=>r.ok?r.json():{}),
-      ]);
-      yearData[y] = { tech: tObj || {}, finance: fObj || {} };
-    }catch(e){ console.error(e); }
-    await new Promise(r=>setTimeout(r, 15));
-  }
-
-  // populate per-date cache using yearData
-  for (const d of dates){
-    if (!cache[d]) cache[d] = { tech:[], finance:[] };
-    const y = d.slice(0,4);
-    const tArr = yearData[y]?.tech?.[d];
-    const fArr = yearData[y]?.finance?.[d];
-    cache[d].tech    = Array.isArray(tArr) ? tArr : [];
-    cache[d].finance = Array.isArray(fArr) ? fArr : [];
-  }
-
-  const all = [];
-  for (const d of dates){
-    ['tech','finance'].forEach(k=>{
-      (cache[d][k]||[]).forEach(x=>all.push({...x,_date:d,_kind:k}));
+    // ---------- tabs ----------
+    $$('.tab').forEach(btn=>{
+      btn.addEventListener('click', ()=>{
+        $$('.tab').forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        const v = btn.dataset.view;
+        $('#browse-view').hidden = v !== 'browse';
+        $('#search-view').hidden = v !== 'search';
+      });
     });
-  }
 
-  const dedupe = $('#dedupeToggle').checked;
-  const seen = new Set();
-  const norm = normalize(all);
-  const matches = norm.filter(r=>{
-    const hay = (r.headline+' '+(r.bullets||[]).join(' ')).toLowerCase();
-    const ok = hay.includes(q);
-    if (!ok) return false;
-    if (!dedupe) return true;
-    if (seen.has(r.novelty)) return false;
-    seen.add(r.novelty); return true;
-  });
-  $('#searchCards').innerHTML = matches.map(renderCard).join('');
-  $('#searchEmpty').hidden = matches.length>0;
-}
+    // ---------- init ----------
+    init().catch(console.error);
 
-init();
-</script>
+    async function init(){
+      try{
+        indexMap = await fetchJSON('./index.json');
+      }catch(e){
+        console.error('Failed to load index.json', e);
+        $('#empty').hidden = false;
+        return;
+      }
+      const dates = Object.keys(indexMap).sort().reverse(); // all dates, newest first
+      years = uniq(dates.map(d => d.slice(0,4)));
+      // Populate full list of dates
+      $('#dateSelect').innerHTML = dates.map(d=>{
+        const t = indexMap[d]?.tech ?? 0;
+        const f = indexMap[d]?.finance ?? 0;
+        return `<option value="${d}">${d} (T:${t} • F:${f})</option>`;
+      }).join('');
+      $('#dateSelect').addEventListener('change', onDateChange);
+
+      // browse toggles
+      $('#showTech').addEventListener('change', ()=>renderDate(lastLoadedDate));
+      $('#showFinance').addEventListener('change', ()=>renderDate(lastLoadedDate));
+      $('#dedupeToggle').addEventListener('change', ()=>renderDate(lastLoadedDate));
+
+      // search wiring
+      $('#searchBtn').addEventListener('click', doSearch);
+      $('#q').addEventListener('keydown', (e)=>{ if (e.key==='Enter') doSearch(); });
+
+      // Load most recent date immediately
+      onDateChange();
+    }
+
+    // ---------- data loading ----------
+    async function ensureYear(kind, year){
+      if (yearCache[kind][year]) return;
+      try{
+        yearCache[kind][year] = await fetchJSON(`./data/${year}_${kind}.json`);
+      }catch(e){
+        yearCache[kind][year] = {}; // missing file is okay
+      }
+    }
+
+    async function loadDate(dateKey){
+      if (dateCache[dateKey]) return dateCache[dateKey];
+      const y = dateKey.slice(0,4);
+      await Promise.all([ ensureYear('tech', y), ensureYear('finance', y) ]);
+      const techArr = (yearCache.tech[y]?.[dateKey] || []).map(x => ({...x, _kind:'Tech', _date:dateKey}));
+      const finArr  = (yearCache.finance[y]?.[dateKey] || []).map(x => ({...x, _kind:'Finance', _date:dateKey}));
+      const combined = [...techArr, ...finArr];
+      dateCache[dateKey] = combined;
+      return combined;
+    }
+
+    async function onDateChange(){
+      const d = $('#dateSelect').value;
+      if (!d) return;
+      await loadDate(d);
+      lastLoadedDate = d;
+      renderDate(d);
+    }
+
+    // ---------- normalize & render ----------
+    function normalizeRecords(records){
+      return (records || []).map(r=>{
+        const item = r.item || {};
+        const review = r.review || {};
+        const impact = (review.impact || 'Neutral');
+        const novelty = item.novelty_hash || (item.link || '').replace(/^https?:\/\//,'');
+        return {
+          _kind: r._kind || 'Tech',
+          _date: r._date || '',
+          headline: decodeHTML(review.headline_rewrite || item.title || ''),
+          bullets: Array.isArray(review.bullets) ? review.bullets.map(decodeHTML) : [],
+          impact,
+          source: item.link || '#',
+          site: item.site_name || (item.link ? new URL(item.link).host : 'source'),
+          novelty
+        };
+      });
+    }
+
+    function renderDate(dateKey){
+      if (!dateKey) return;
+      const wantTech = $('#showTech').checked;
+      const wantFin  = $('#showFinance').checked;
+      const dedupe   = $('#dedupeToggle').checked;
+
+      let list = normalizeRecords(dateCache[dateKey] || []);
+      list = list.filter(r=> (r._kind==='Tech' && wantTech) || (r._kind==='Finance' && wantFin));
+
+      if (dedupe){
+        const seen = new Set();
+        list = list.filter(r=>{
+          if (!r.novelty) return true;
+          if (seen.has(r.novelty)) return false;
+          seen.add(r.novelty); return true;
+        });
+      }
+
+      $('#count').textContent = `${list.length} stories`;
+      $('#cards').innerHTML = list.map(renderCard).join('');
+      $('#empty').hidden = list.length>0;
+    }
+
+    function renderCard(r){
+      const impactClass = ['Positive','Negative','Neutral','Bullish','Bearish'].includes(r.impact) ? r.impact : 'Neutral';
+      const bullets = (r.bullets || []).map(b=>`<li>${b}</li>`).join('');
+      const headline = r.headline || '(no headline)';
+      return `<article>
+        <div class="row">
+          <span class="kind">${r._kind}</span>
+          <span class="impact ${impactClass}">${impactClass}</span>
+        </div>
+        <h2 class="headline">${headline}</h2>
+        ${bullets ? `<ul>${bullets}</ul>` : ''}
+        <div class="meta">
+          <a href="${r.source}" target="_blank" rel="noopener noreferrer">${r.site}</a>
+        </div>
+      </article>`;
+    }
+
+    // ---------- global search across all dates ----------
+    async function doSearch(){
+      const q = ($('#q').value || '').trim().toLowerCase();
+      const wantTech = $('#sTech').checked;
+      const wantFin  = $('#sFin').checked;
+      const dedupe   = $('#sDedupe').checked;
+
+      if (!q){
+        $('#searchCards').innerHTML = '';
+        $('#searchEmpty').hidden = false;
+        return;
+      }
+
+      // lazily load all year files referenced by index.json
+      const allDates = Object.keys(indexMap).sort().reverse();
+      const allYears = uniq(allDates.map(d=>d.slice(0,4)));
+
+      // Load per-year, per-kind maps
+      for (const y of allYears){
+        await Promise.all([ ensureYear('tech', y), ensureYear('finance', y) ]);
+        // tiny breather to keep main thread responsive on phones
+        await sleep(10);
+      }
+
+      // Build full list (all dates)
+      let universe = [];
+      for (const d of allDates){
+        const techArr = (yearCache.tech[d.slice(0,4)]?.[d] || []).map(x=>({...x, _kind:'Tech', _date:d}));
+        const finArr  = (yearCache.finance[d.slice(0,4)]?.[d] || []).map(x=>({...x, _kind:'Finance', _date:d}));
+        universe.push(...techArr, ...finArr);
+      }
+      let list = normalizeRecords(universe);
+      list = list.filter(r=>{
+        if (!( (r._kind==='Tech' && wantTech) || (r._kind==='Finance' && wantFin) )) return false;
+        const hay = (r.headline + ' ' + (r.bullets||[]).join(' ')).toLowerCase();
+        return hay.includes(q);
+      });
+
+      if (dedupe){
+        const seen = new Set();
+        list = list.filter(r=>{
+          if (!r.novelty) return true;
+          if (seen.has(r.novelty)) return false;
+          seen.add(r.novelty); return true;
+        });
+      }
+
+      $('#searchCards').innerHTML = list.map(renderCard).join('');
+      $('#searchEmpty').hidden = list.length>0;
+    }
+  </script>
 </body>
 </html>

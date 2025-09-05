@@ -32,9 +32,9 @@ TELEGRAM_CHAT_ID   = os.getenv('TELEGRAM_CHAT_ID', '')
 # Sources (official + diversified top outlets + Moneycontrol + FE sitemaps)
 FEEDS = [
     # Regulators / Exchange (prefer official first)
-    'https://www.sebi.gov.in/sebiweb/rss/sebi_rss.xml',
-    'https://www.rbi.org.in/pressreleases_rss.xml',
-    'https://www.rbi.org.in/notifications_rss.xml',
+    # 'https://www.sebi.gov.in/sebiweb/rss/sebi_rss.xml',
+    # 'https://www.rbi.org.in/pressreleases_rss.xml',
+    # 'https://www.rbi.org.in/notifications_rss.xml',
     # 'https://nsearchives.nseindia.com/content/RSS/NSE_Ann_all.xml',   # uncomment if accessible
 ]
 MEDIA_RSS = [
@@ -43,8 +43,8 @@ MEDIA_RSS = [
     'https://www.business-standard.com/rss/markets-106.rss',
     'https://www.thehindubusinessline.com/feeder/default.rss',
     'https://www.cnbctv18.com/rss/market.xml',
-    'https://www.moneycontrol.com/rss/latestnews.xml',
-    'https://www.moneycontrol.com/rss/marketreports.xml',
+    # 'https://www.moneycontrol.com/rss/latestnews.xml',
+    # 'https://www.moneycontrol.com/rss/marketreports.xml',
 ]
 SITEMAPS = [
     'https://www.financialexpress.com/news-sitemap.xml',
