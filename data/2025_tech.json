@@ -2,19 +2,22 @@
   "2025-09-05": [
     {
       "item": {
-        "title": "Xbox engineer brings Windows Mixed Reality headsets back to life",
-        "link": "https://www.theverge.com/news/772360/microsoft-windows-mixed-reality-headsets-streamvr-driver",
+        "title": "Microsoft 365 Personal is now free for US college students for a year",
+        "link": "https://www.theverge.com/news/772385/microsoft-365-personal-free-us-college-students",
         "site_name": "The Verge",
-        "novelty_hash": "2922003d36efe5a819ad939cf163b253c98d21c2"
+        "novelty_hash": "25e43d47c53a694d94133a64e05cf92aef523699"
       },
       "review": {
-        "headline_rewrite": "Xbox engineer brings Windows Mixed Reality headsets back to life",
+        "headline_rewrite": "Microsoft 365 Personal is now free for US college students for a year",
         "bullets": [
-          "The driver, spotted by UploadVR, requires an Nvidia GPU, simply because it relies on features “missing in the AMD and Intel graphics driver,” according to Bucchianeri.",
-          "He’s not releasing the source code as a result, and the Oasis driver will remain free to use.",
+          "This subscription gives students free access to Microsoft’s Office apps and the Copilot AI assistant integration for a year, after which the students are eligible for a 50 percent discount to continue the subscription.",
+          "While most students have access to education versions of Microsoft 365 or Google Workspace, Microsoft’s offer is for student’s own personal Microsoft accounts, and is available to claim until October 31st.",
+          "Microsoft 365 Personal is usually $99.99 a year, or $9.99 a month, and includes 1TB of OneDrive cloud storage.",
+          "Microsoft CEO Satya Nadella revealed the free offer as part of the White House’s AI Education Task Force meeting yesterday, and announced other commitments to meet the Presidential AI Challenge and the AI Education Executive Order.",
+          "Microsoft is funding $1.25 million in educator grants, offering free LinkedIn AI courses for job seekers, students, and teachers, and expanding access to its AI tools in schools.",
           "Most Popular\n- The Browser Company, maker of Arc and Dia, is being acquired\n- Microsoft is about to shake up its Copilot pricing for businesses\n- How Wikipedia survives while the rest of the internet breaks\n- Philips Hue lights get bigger, brighter, and cheaper with a major product refresh\n- Here is Lego’s $1,000 Death Star, the most expensive Lego set ever"
         ],
-        "impact": "Negative"
+        "impact": "Neutral"
       }
     },
     {
@@ -51,26 +54,6 @@
     },
     {
       "item": {
-        "title": "BMW debuts 6th-generation EV powertrain in the all-electric iX3",
-        "link": "https://arstechnica.com/cars/2025/09/neue-klasse-bmws-tech-filled-ix3-electric-suv-is-unveiled/",
-        "site_name": "Ars Technica",
-        "novelty_hash": "99abeba7e6b70a701766dc3ea1c9ae82b5b923a8"
-      },
-      "review": {
-        "headline_rewrite": "BMW debuts 6th-generation EV powertrain in the all-electric iX3",
-        "bullets": [
-          "When it arrives in mid-2026, it will have the lowest carbon footprint of any BMW yet, thanks to an obsessive approach to sustainability during the design process.",
-          "\"The Neue Klasse is our biggest future-focused project and marks a huge leap forward in terms of technologies, driving experience, and design,\" said BMW chairman Oliver Zipse.",
-          "Our whole product range will benefit from the innovations brought by the Neue Klasse—whichever drive system technology is employed.",
-          "What started as a bold vision has now become reality: the BMW iX3 is the first Neue Klasse model to go into series production, kicking off a new era for BMW.\"\nA new face\nThe iX3 also debuts a new corporate face for BMW's SUVs: From now on, these will have tall, narrow kidney grilles like the one you see here, as opposed to the short, wide grille seen on the front of the Neue Klasse sedan (which is almost certainly the next 3 Series).",
-          "Sixth-generation\nAs befitting a company called the Bavarian Motor Works, BMW has been in the business of designing and building its own electric powertrains for quite some time, in contrast to some rivals that have been buying EV tech from suppliers.",
-          "In addition to the class-leading manufacturing efficiency, the sixth-generation electric powertrain should be extremely efficient—around 4 miles/kWh (15.5 kWh/100 km) from an SUV-shape, which is 20–25 percent better than current SUV EVs."
-        ],
-        "impact": "Neutral"
-      }
-    },
-    {
-      "item": {
         "title": "‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings",
         "link": "https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/",
         "site_name": "WIRED",
@@ -91,22 +74,41 @@
     },
     {
       "item": {
-        "title": "Amazon-backed AI company Anthropic updates terms of service to ban sales Chinese companies, cites threat to national security",
-        "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-backed-ai-company-anthropic-updates-terms-of-service-to-ban-sales-chinese-companies-cites-threat-to-national-security/articleshow/123716949.cms",
-        "site_name": "The Times of India",
-        "novelty_hash": "8b3d7e2bf33296435f0f137b3713ed2718ce7e6a"
+        "title": "The Morning After: reMarkable’s new e-ink device is the size of a notepad",
+        "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111553035.html",
+        "site_name": "Engadget",
+        "novelty_hash": "d5998b6760eff4e3e83c6c9459dc3d3f2d5c68a7"
       },
       "review": {
-        "headline_rewrite": "Amazon-backed AI company Anthropic updates terms of service to ban sales Chinese companies, cites threat to national security",
+        "headline_rewrite": "The Morning After: reMarkable’s new e-ink device is the size of a notepad",
         "bullets": [
-          "OpenAI rival Anthropic has updated its terms of service prohibiting sales of its AI platform Claude services to companies in China, Russia, North Korea and other regions âdue to legal, regulatory, and security risks.â In an official blog, the AI company backed by Amazon said that firms based in authoritarian countries like China may be forced by law to share data, work with intelligence agencies, or take other steps that could pose national security risks.",
-          "Sharing the blog post, the company said âAnthropic's Terms of Service prohibit use of our services in certain regions due to legal, regulatory, and security risks.",
-          "However, companies from these restricted regionsâincluding adversarial nations like Chinaâcontinue accessing our services in various ways, such as through subsidiaries incorporated in other countries.â\nIn the blog post, Anthropic said that it is going a step further in an update to its terms of service.",
-          "âThis update prohibits companies or organizations whose ownership structures subject them to control from jurisdictions where our products are not permitted, like China, regardless of where they operate,â the company said.",
-          "For those unaware, a group of US authors accused the company of using their copyrighted works without their permission or compensation to train its AI models.",
-          "The terms of the settlement were not disclosed to the public, but agreement makes a significant moment in the ongoing battle between AI developers and creative professionals."
+          "The Paper Pro Move is available to order today, priced at $449 with a stylus included.",
+          "Content Intelligence uses AI to automatically adapt your TV to what you’re watching.",
+          "Hollow Knight: Silksong is out (still looking for the third Mossberry here…) and Instagram developers, for some reason, decided September 2025 is the time to finally launch a dedicated iPad app.",
+          "What makes it extra baffling is that Instagram head Adam Mosseri said the iPad platform wasn’t big enough to warrant fast-tracking an app.",
+          "He said that in 2023."
         ],
         "impact": "Negative"
+      }
+    },
+    {
+      "item": {
+        "title": "Technology Sep 5, 2025 Google Cloud expands partnership with Revolut to support global growth Revolut and Google have deepened their partnership with a multi-year, multi-million dollar agreement. Revolut will leverage Google Cloud's infrastructure and AI tools, including Gemini models, to enhance its global systems, personalize services, and improve fraud detection. This collaboration supports Revolut's ambitious expansion plans and its goal of reaching 100 million users, solidifying Google's role in the future of finance.",
+        "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-cloud-expands-partnership-with-revolut-to-support-global-growth/articleshow/123718574.cms",
+        "site_name": "The Times of India",
+        "novelty_hash": "5325b24ff6f73b8118611c5bf348a19023f1fe0f"
+      },
+      "review": {
+        "headline_rewrite": "Technology Sep 5, 2025 Google Cloud expands partnership with Revolut to support global growth Revolut and Google have deepened their partnership with a multi-year, multi-million dollar agreement. Revolut will leverage Google Cloud's infrastructure and AI tools, including Gemini models, to enhance its global systems, personalize services, and improve fraud detection. This collaboration supports Revolut's ambitious expansion plans and its goal of reaching 100 million users, solidifying Google's role in the future of finance.",
+        "bullets": [
+          "The deal will see Revolut use Google Cloudâs secure and scalable infrastructure to power its fast-growing global systems, ensuring stability as the fintech company continues to add millions of users worldwide.",
+          "Revolut, which now serves more than 60 million customers, aims to cross 100 million users globally.",
+          "The fintech company will also use Googleâs AI and machine learning tools, including Gemini models, to provide customers with real-time insights, improve fraud detection, and build new personalised services.",
+          "\"Google's world-leading AI and cloud infrastructure are an incredible asset,\" said David Tirado, Vice President of Global Business and Profitability at Revolut.",
+          "\"This partnership will empower us to rapidly scale our offerings, deliver even more personalised and valuable experiences to our customers, and continue to outpace the traditional financial sector.",
+          "We're building the future of finance, and Google is a key partner on that journey.\"\nRevolut has been pushing into new areas, from launching its own ATMs in Europe to creating investment products and planning telecom services in the UK and Germany."
+        ],
+        "impact": "Positive"
       }
     }
   ]
