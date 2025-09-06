@@ -1,25 +1,41 @@
 {
   "2025-09-06": {
     "runs": {
-      "21:06": [
+      "21:47": [
         {
           "item": {
-            "title": "Musk’s $1T pay package is full of watered-down versions of his own broken promises",
-            "link": "https://techcrunch.com/2025/09/06/musks-1t-pay-package-is-full-of-watered-down-versions-of-his-own-broken-promises/",
+            "title": "The growing debate over age verification laws",
+            "link": "https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/",
             "site_name": "TechCrunch",
-            "novelty_hash": "21c32312f0ceddb18e4dc5f4da55c388e5a523a1"
+            "novelty_hash": "cc96d1f9ac522a3b76aa34ca0b50c89b42b2bd97"
           },
           "review": {
-            "headline_rewrite": "Musk’s $1T pay package is full of watered-down versions of his own broken promises",
+            "headline_rewrite": "The growing debate over age verification laws",
             "bullets": [
-              "That’s not the picture Tesla’s board of directors paints in the company’s annual proxy statement, where they revealed the proposed pay package.",
-              "Instead, the board focuses on how it plans to create “the most valuable company in history.”\nTo be sure, if Tesla accomplishes all that it aims for with this deal, it will look like a much different company at the end of the 10-year period it covers.",
-              "That doesn’t change the fact that the milestones the company is asking Musk to aim for are less ambitious than his own previously-stated goals.",
-              "20 million cars … total\nMusk spent years claiming Tesla would be able to make 20 million electric vehicles per year by 2030.",
-              "The company then pulled the 20-million-per-year goal from its impact report last year, and stopped building a planned factory in Mexico that would have increased production.",
-              "Tech and VC heavyweights join the Disrupt 2025 agenda\nNetflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda."
+              "Technologists and policymakers are reckoning with a generation-defining problem on the internet: while it can be a revolutionary force for unprecedented education and connection across the globe, it can also pose dangers to children when they have completely unfettered access.",
+              "While some advocates praise these laws as victories for children’s safety, many security experts warn that these laws are being proposed and passed with flawed implementation plans, which pose dangerous security risks for adult users as well.",
+              "Tech and VC heavyweights join the Disrupt 2025 agenda\nNetflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda.",
+              "Netflix, ElevenLabs, Wayve, Sequoia Capital — just a few of the heavy hitters joining the Disrupt 2025 agenda.",
+              "As technology becomes more sophisticated, the problem is getting worse: Meta’s AI chatbots have reportedly flirted with children, while Character.AI and OpenAI are facing lawsuits over the suicides of children that were allegedly encouraged by the companies’ chatbots.",
+              "You can access specialized telehealth care, even if you live somewhere where no doctor is trained in your diagnosis."
             ],
             "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Pocket Scion is a synth you play with plants",
+            "link": "https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music",
+            "site_name": "The Verge",
+            "novelty_hash": "0a79125ef95f7e55a2f01324a0cbc856e39c8c50"
+          },
+          "review": {
+            "headline_rewrite": "Pocket Scion is a synth you play with plants",
+            "bullets": [
+              "The fruit of that collaboration is the Pocket Scion, an affordable self-contained instrument that can turn small electrical changes from living organisms into MIDI data and create soundscapes using one of the four built-in sound engines.",
+              "But you can place a preorder for when the next batch ships “early next week,” according to retailer Control Voltage."
+            ],
+            "impact": "Neutral"
           }
         },
         {
@@ -40,22 +56,22 @@
         },
         {
           "item": {
-            "title": "Bluetti says it can reduce vanlife power installations to ‘30 minutes’",
-            "link": "https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti",
-            "site_name": "The Verge",
-            "novelty_hash": "8994c894384fda37f61da086bf296d398131b2ca"
+            "title": "Apple faces lawsuit over alleged use of pirated books for AI training",
+            "link": "https://www.engadget.com/ai/apple-faces-lawsuit-over-alleged-use-of-pirated-books-for-ai-training-160016161.html",
+            "site_name": "Engadget",
+            "novelty_hash": "934dd0638479060e306f95b57be6b2f608e44ab5"
           },
           "review": {
-            "headline_rewrite": "Bluetti says it can reduce vanlife power installations to ‘30 minutes’",
+            "headline_rewrite": "Apple faces lawsuit over alleged use of pirated books for AI training",
             "bullets": [
-              "The RVSolar System’s main advantage over bespoke systems is a relatively quick and easy installation, requiring just “30 minutes,” according to Bluetti’s announcement at IFA 2025.",
-              "That’s plenty of power for everything from a roof-mounted air conditioner and induction cooktop to a 12V water pump and lighting system.",
-              "It can be configured with a whopping 122kWh of Bluetti’s self-heated LFP batteries — enough for me to live and work off the grid for as long as 76 days, based upon the 1.6kWh average that I consume daily in my own van.",
-              "As a bonus, Bluetti’s system also supports compatible third-party batteries, which is something EcoFlow can’t claim with its proprietary connectors.",
-              "The RVSolar System will be available globally on September 30th.",
-              "Pricing information wasn’t available at the time of publication, but I’d expect it to be on par with Victron components, especially if it’s using third-party batteries."
+              "Two authors have filed a lawsuit against Apple, accusing the company of infringing on their copyright by using their books to train its artificial intelligence model without their consent.",
+              "The plaintiffs, Grady Hendrix and Jennifer Roberson, claimed that Apple used a dataset of pirated copyrighted books that include their works for AI training.",
+              "They said in their complaint that Applebot, the company's scraper, can \"reach 'shadow libraries'\" made up of unlicensed copyrighted books, including (on information) their own.",
+              "The main plaintiffs for the lawsuit are Grady Hendrix and Jennifer Roberson, both of whom have multiple books under their names.",
+              "They said that Apple, one of the biggest companies in the world, did not attempt to pay them for \"their contributions to [the] potentially lucrative venture.\" Apple has \"copied the copyrighted works\" of the plaintiffs \"to train AI models whose outputs compete with and dilute the market for those very works — works without which Apple Intelligence would have far less commercial value,\" they wrote in their filing.",
+              "\"This conduct has deprived Plaintiffs and the Class of control over their work, undermined the economic value of their labor, and positioned Apple to achieve massive commercial success through unlawful means.\"\nThis is but one of the many lawsuits filed against companies developing generative AI technologies."
             ],
-            "impact": "Positive"
+            "impact": "Negative"
           }
         },
         {
@@ -80,38 +96,20 @@
         },
         {
           "item": {
-            "title": "Sonos' latest sale knocks 20 percent off the Era 300 speaker",
-            "link": "https://www.engadget.com/deals/sonos-latest-sale-knocks-20-percent-off-the-era-300-speaker-125211458.html",
-            "site_name": "Engadget",
-            "novelty_hash": "25e97723319142bf99161651ef4efebb7e39e60e"
-          },
-          "review": {
-            "headline_rewrite": "Sonos' latest sale knocks 20 percent off the Era 300 speaker",
-            "bullets": [
-              "Read more about how we evaluate products.",
-              "The same price is available on Amazon, as are some more deals on Sonos products.",
-              "Sonos debuted the Era 300 in 2023 as its main spatial audio offering, and we found it to have excellent sound quality, a simple setup process and Trueplay tuning that's super easy to use.",
-              "The headphones have come a long way since they first launched, including the introduction of TrueCinema, which works with a Sonos soundbar to create the best spatial audio experience."
-            ],
-            "impact": "Negative"
-          }
-        },
-        {
-          "item": {
             "title": "News Showcase",
             "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
             "site_name": "Google News",
-            "novelty_hash": "80df3ce4e1393e886fabffe38d02a8d3ce01931e"
+            "novelty_hash": "d4193f0ab957a553b72e55ba4572768c48a84181"
           },
           "review": {
             "headline_rewrite": "News Showcase",
             "bullets": [
-              "HIGHER EDUCATION\nOne-of-a-kind Washington State University football car fetches $News Showcase\nStories selected by newsroom editors\nMississippi Morning Recap\nROCHESTER MINNESOTA NEWS\nImmigration News\nAsylum Seekers & Migrants\nImmigrant Orgs Are Learning to Adapt as ICE Detentions RiseResources\nHow To Use The NYC Subway System Like a ProNews Roundup\nTrump to End Temporary Status of Another 268,000 Venezuelan MigrantsThe Morning Rundown | September 6, 2025\nNews, art & life in Fayetteville, Arkansas\nDaily Journal\nHappening in Loudoun County\nNEWS FOR YOU\nMUSK'S FAT PAY PACKAGE, BATTERY PLANT RAID\nSan Diego Friday Evening Report\nCare for vets 'under assault'\nVeterans rally in La Jolla to push back against Trump cuts to VASDPD: Suspect at large\nMan stabbed multiple times trying to stop downtown fightHonors civic leader’s passion\nCurtain rises on ‘The Joan,’ new theater at Liberty Station The Central Valley's News Source\nHomelessness\nNew Enforcement Targets People Living in Cars, RVs on CA StreetsFresno State Football\nFresno State Looks for 1st Win at Oregon State Since 1991Fresno Unified\nFresno Unified Expands HBCU Ties to Improve College ReadinessSaturday News Roundup - Morning Edition\nFort Worth & Tarrant County Headlines\nDallas-Fort Worth news - September 6, 2025\nNorthwest Herald\nMy Suburban Life\nThe Herald News\nLatest Headlines\nEntertainment & Arts\nWEEKEND READS\nTHE GENIUS ACT\nStablecoin Has Arrived.",
-              "Is The Payments Revolution Beginning?MUTUAL FUNDS\nTop Fund Manager Pinpoints Lots Of 'Worthwhile' RisksBROADCOM EARNINGS\nAI Chip Business Fuels Broadcom's Strong Quarterly ReportCobb Courier Morning Update September 6, 2025\nWest Interchange project\nLane closures this week on I-285 and I-20: Mableton and AtlantaHazardous weather outlook\nScattered storms & possible hail in GeorgiaIt's the Climate, Stupid!",
-              "Climate summary, seven-day forecast for Cobb County September 6Best of Friday\nLand Use and Development\n12-condo building proposed for Northfield's new zoning districtPublic Safety\nMissing swimmer remains unidentified 2 weeks after search called offHigh School Highlights\nNT field hockey enjoys big week; Trevs volleyball off to hot startToledo's Leader in News, Sports & Entertainment\nMorning Headlines, Sept.",
-              "Brandon Pho\nSan Jose restaurant closure is symptomatic of larger problemAnnalise Freimarck\nFormer Cupertino mayor dies from lung cancerNews from the Central Valley\nDaily Chronicle\nRooted For Good listed September Grow Mobile food pantry datesDaily Chronicle\nDeKalb County courthouse employee accused in $41K PPP loan fraud for fake remodeling business: RecordsDaily Chronicle\nDeKalb mom files lawsuit against DeKalb District 428 over missing kindergartener controversyLooking for weekend plans?",
-              "Weekend Events\nFinal Fair Weekend, Benson Boone, Trash Wheel Music Video, moreMaryland Cycling Classic Guide\nWhere to watch the races, roads to avoid, and what else to knowMaddox Batson\n15-Year-Old Country-Pop Star to Headline Maryland State FairSTGnews Headlines\nMountain View Voice\nSep 5 2025, 9:17 AM\nObituaries: Local residents who died recentlySep 5 2025, 8:36 AM\nBreakthrough on California housing could put taller buildings in single-family neighborhoodsSep 5 2025, 6:27 AM\nLegal experts advise caution when reporting ICE sightingsGJ Sentinel Headlines 9/5/25\nStaying safe while dining out\nThe latest Restaurant inspection blotter| gjsentinel.comEluder nabbed\nEarly morning drug bust and getaway attempt, rescue on the MesaCity's vision realized\nWild West Skate Fest coming to Emerson Park Sept.",
-              "13Daily News\nWhat Utah is buzzing about\nTop Stories from The Wilson Times\nECONOMY\nEconomic stagnation fears\nUS unemployment near 4-year high as labor market softensJob growth concerns\nFed on track for string of rate cuts Fresh blame on Fed\nTrump administration says better economic data may take a yearStart the day with must-read news and opinion\nMilwaukee Area Business News\nBridge Michigan\nSep 5 2025, 5:11 PM\nOpinion | Tips for Michigan’s new state superintend...Sep 5 2025, 3:32 PM\nOpinion | Public libraries belong to everyone."
+              "Twin Cities\nTravel visas canceled for K-Pop group performing at Minnesota conventionNews Showcase\nStories selected by newsroom editors\nROCHESTER MINNESOTA NEWS\nMIDDLE EAST\nHigh-rise tower bombed\nIsraeli military urges Gaza City residents to leaveUrges Israel for ceasefire\nHezbollah says Lebanon move on army plan is 'opportunity''It is nonsense to say that'\nEgypt slams describing displacement of Palestinians as voluntaryDaily Journal\nLatest and Local – Casper, WY\nThe Herald News\nJAMESTOWN ND NEWS\nHappening in Loudoun County\nSTGnews Headlines\nWEEKEND READS\nTHE GENIUS ACT\nStablecoin Has Arrived.",
+              "Is The Payments Revolution Beginning?MUTUAL FUNDS\nTop Fund Manager Pinpoints Lots Of 'Worthwhile' RisksBROADCOM EARNINGS\nAI Chip Business Fuels Broadcom's Strong Quarterly ReportLatest Headlines\nNorthwest Herald\nMorning Headlines, Sept.",
+              "6, 2025\nChicago Does\nReal Times Media\nKamala Harris Given LAPD, CHP Security After Trump Revokes Secret ServiceBlack Information Network\nMan Charged With Murder In Case Of Missing Black Teen DaCara ThompsonBlack Information Network\nFlorida’s Push To Drop School Vaccine Mandates Sparks Health ConcernsTop stories\nFort Worth & Tarrant County Headlines\nDon't Miss Stories\nGreek Festival in Mansfieeld\nGreek Festival celebrates heritage, community and culturestaying behind bars\nNo release: Former Mansfield Dr.",
+              "John Boyle again denied parole for 1990 murder of his wifeHoliday fun\nMansfield announces Trick-or-Treat date, timesThe Morning Rundown | September 6, 2025\nImmigration News\nAsylum Seekers & Migrants\nImmigrant Orgs Are Learning to Adapt as ICE Detentions RiseResources\nHow To Use The NYC Subway System Like a ProNews Roundup\nTrump to End Temporary Status of Another 268,000 Venezuelan MigrantsMorning Headlines\nSports - High School Sports\nLausanne edges CBHS in emotional defensive struggleSports - High School Sports\nFriday football report: Collierville wins wild one over HornMetro - Behind The Headlines\nMATA roils in turmoil.",
+              "What's the next step?Mountain View Voice\nSep 5 2025, 9:17 AM\nObituaries: Local residents who died recentlySep 5 2025, 8:36 AM\nBreakthrough on California housing could put taller buildings in single-family neighborhoodsSep 5 2025, 6:27 AM\nLegal experts advise caution when reporting ICE sightingsMUSK'S FAT PAY PACKAGE, BATTERY PLANT RAID\nCobb Courier Morning Update September 6, 2025\nWest Interchange project\nLane closures this week on I-285 and I-20: Mableton and AtlantaHazardous weather outlook\nScattered storms & possible hail in GeorgiaIt's the Climate, Stupid!",
+              "Climate summary, seven-day forecast for Cobb County September 6Daily News\nToledo's Leader in News, Sports & Entertainment\nBest of Friday\nLand Use and Development\n12-condo building proposed for Northfield's new zoning districtPublic Safety\nMissing swimmer remains unidentified 2 weeks after search called offHigh School Highlights\nNT field hockey enjoys big week; Trevs volleyball off to hot startSan Jose Spotlight: Your search for truth starts here\nB."
             ],
             "impact": "Negative"
           }
