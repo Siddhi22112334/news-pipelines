@@ -1,27 +1,7 @@
 {
   "2025-09-06": {
     "runs": {
-      "23:05": [
-        {
-          "item": {
-            "title": "The growing debate over expanding age verification laws",
-            "link": "https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/",
-            "site_name": "TechCrunch",
-            "novelty_hash": "440e78ef2187bcf6760e0bef5c85c7b05553b286"
-          },
-          "review": {
-            "headline_rewrite": "The growing debate over expanding age verification laws",
-            "bullets": [
-              "Technologists and policymakers are reckoning with a generation-defining problem on the internet: while it can be a revolutionary force for unprecedented education and connection across the globe, it can also pose dangers to children when they have completely unfettered access.",
-              "While some advocates praise these laws as victories for children’s safety, many security experts warn that these laws are being proposed and passed with flawed implementation plans, which pose dangerous security risks for adult users as well.",
-              "Tech and VC heavyweights join the Disrupt 2025 agenda\nNetflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda.",
-              "Netflix, ElevenLabs, Wayve, Sequoia Capital — just a few of the heavy hitters joining the Disrupt 2025 agenda.",
-              "As technology becomes more sophisticated, the problem is getting worse: Meta’s AI chatbots have reportedly flirted with children, while Character.AI and OpenAI are facing lawsuits over the suicides of children that were allegedly encouraged by the companies’ chatbots.",
-              "You can access specialized telehealth care, even if you live somewhere where no doctor is trained in your diagnosis."
-            ],
-            "impact": "Negative"
-          }
-        },
+      "23:49": [
         {
           "item": {
             "title": "EU fines Google $3.5B over adtech ‘abuse’",
@@ -44,44 +24,28 @@
         },
         {
           "item": {
-            "title": "Pocket Scion is a synth you play with plants",
-            "link": "https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music",
-            "site_name": "The Verge",
-            "novelty_hash": "0a79125ef95f7e55a2f01324a0cbc856e39c8c50"
-          },
-          "review": {
-            "headline_rewrite": "Pocket Scion is a synth you play with plants",
-            "bullets": [
-              "The fruit of that collaboration is the Pocket Scion, an affordable self-contained instrument that can turn small electrical changes from living organisms into MIDI data and create soundscapes using one of the four built-in sound engines.",
-              "But you can place a preorder for when the next batch ships “early next week,” according to retailer Control Voltage."
-            ],
-            "impact": "Neutral"
-          }
-        },
-        {
-          "item": {
-            "title": "Apple faces lawsuit over alleged use of pirated books for AI training",
-            "link": "https://www.engadget.com/ai/apple-faces-lawsuit-over-alleged-use-of-pirated-books-for-ai-training-160016161.html",
+            "title": "How to watch Apple debut the iPhone 17 lineup at its 'Awe Dropping' event on September 9",
+            "link": "https://www.engadget.com/mobile/smartphones/how-to-watch-apple-debut-the-iphone-17-lineup-at-its-awe-dropping-event-on-september-9-130040222.html",
             "site_name": "Engadget",
-            "novelty_hash": "934dd0638479060e306f95b57be6b2f608e44ab5"
+            "novelty_hash": "1f756cd2f3cb62871ddd0943d379e2eb6a1b592b"
           },
           "review": {
-            "headline_rewrite": "Apple faces lawsuit over alleged use of pirated books for AI training",
+            "headline_rewrite": "How to watch Apple debut the iPhone 17 lineup at its 'Awe Dropping' event on September 9",
             "bullets": [
-              "Two authors have filed a lawsuit against Apple, accusing the company of infringing on their copyright by using their books to train its artificial intelligence model without their consent.",
-              "The plaintiffs, Grady Hendrix and Jennifer Roberson, claimed that Apple used a dataset of pirated copyrighted books that include their works for AI training.",
-              "They said in their complaint that Applebot, the company's scraper, can \"reach 'shadow libraries'\" made up of unlicensed copyrighted books, including (on information) their own.",
-              "The main plaintiffs for the lawsuit are Grady Hendrix and Jennifer Roberson, both of whom have multiple books under their names.",
-              "They said that Apple, one of the biggest companies in the world, did not attempt to pay them for \"their contributions to [the] potentially lucrative venture.\" Apple has \"copied the copyrighted works\" of the plaintiffs \"to train AI models whose outputs compete with and dilute the market for those very works — works without which Apple Intelligence would have far less commercial value,\" they wrote in their filing.",
-              "\"This conduct has deprived Plaintiffs and the Class of control over their work, undermined the economic value of their labor, and positioned Apple to achieve massive commercial success through unlawful means.\"\nThis is but one of the many lawsuits filed against companies developing generative AI technologies."
+              "Like clockwork, Apple once again appears set to show off new smartphones with its latest showcase next week.",
+              "The big reveal is expected to be an ultralight smartphone, likely called the iPhone 17 Air.",
+              "This would be Apple's first application of its Air nomenclature for mobile, and when we had Bloomberg's Mark Gurman on the Engadget Podcast at the end of August, he suggested that the first iteration of the smartphone might come with some growing pains.",
+              "Beyond the smartphones, the \"Awe dropping\" event could also include three new Apple Watches and updated AirPods Pro earbuds.",
+              "Bloomberg reports that Apple has several other devices in the works as well, including a new AirTag, Apple TV and iPad Pro, but it's not as certain if those will pop up at this specific event.",
+              "Either way, you can tune in on September 9 to hear about all the new product launches."
             ],
-            "impact": "Negative"
+            "impact": "Positive"
           }
         },
         {
           "item": {
             "title": "Zuckerberg caught on hot mic telling Trump 'I wasn't sure' how much to promise to spend on AI in the US",
-            "link": "https://www.engadget.com/zuckerberg-caught-on-hot-mic-telling-trump-i-wasnt-sure-how-much-to-promise-to-spend-on-ai-in-the-us-211915608.html",
+            "link": "https://www.engadget.com/social-media/zuckerberg-caught-on-hot-mic-telling-trump-i-wasnt-sure-how-much-to-promise-to-spend-on-ai-in-the-us-211915608.html",
             "site_name": "Engadget",
             "novelty_hash": "4d0d323ae23aa55e4f99e065496a413ed51e9c54"
           },
@@ -99,20 +63,56 @@
         },
         {
           "item": {
-            "title": "Technology Sep 6, 2025 Amazon-backed startup agrees to pay $1.5 billion to authors for using pirated books to train AI, says: We remain committed to…",
-            "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-backed-startup-agrees-to-pay-1-5-billion-to-authors-for-using-pirated-books-to-train-ai-says-we-remain-committed-to/articleshow/123738016.cms",
-            "site_name": "The Times of India",
-            "novelty_hash": "ba619a3f643317468654615b53c2dfeaa5e21c54"
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "4d9e61f881f5ebd7c9b139526935ab7986d24a67"
           },
           "review": {
-            "headline_rewrite": "Technology Sep 6, 2025 Amazon-backed startup agrees to pay $1.5 billion to authors for using pirated books to train AI, says: We remain committed to…",
+            "headline_rewrite": "News Showcase",
             "bullets": [
-              "AI startup Anthropic has agreed to pay at least $1.5 billion to settle a class-action lawsuit with a group of authors.",
-              "The settlement, which was filed this week, addresses claims that the Amazon and Google-backed AI startup illegally used the authors' books to train its AI models.",
-              "The agreement includes a payment of approximately $3,000 per book, plus interest, and requires Anthropic to destroy the datasets containing the pirated material.",
-              "Both publishers and AI companies have closely watched this settlement as a potential benchmark for copyright infringement in the AI era.",
-              "The case highlights the ongoing legal challenges faced by AI companies over the use of copyrighted material to train their systems.",
-              "In a statement to Bloomberg, an Anthropic spokesperson said:\nâWe remain committed to developing safe AI systems that help people and organisations extend their capabilities, advance scientific discovery, and solve complex problems.âIn a court filing, Anthropic stated that it faced âinordinate pressureâ to reach an agreement, as going to trial carried the risk of potentially devastating damages that could have reached up to $1 trillion."
+              "Weekend Events\nFinal Fair Weekend, Benson Boone, Trash Wheel Music Video, moreMaryland Cycling Classic Guide\nWhere to watch the races, roads to avoid, and what else to knowMaddox Batson\n15-Year-Old Country-Pop Star to Headline Maryland State FairCobb Courier Morning Update September 6, 2025\nWest Interchange project\nLane closures this week on I-285 and I-20: Mableton and AtlantaHazardous weather outlook\nScattered storms & possible hail in GeorgiaIt's the Climate, Stupid!",
+              "Brooklyn-Queens Health Center Wins National Award for Qualit...MUSK'S FAT PAY PACKAGE, BATTERY PLANT RAID\nTop stories\nJAMESTOWN ND NEWS\nMorning rundown\nDaily Chronicle\nRooted For Good listed September Grow Mobile food pantry datesDaily Chronicle\nDeKalb County courthouse employee accused in $41K PPP loan fraud for fake remodeling business: RecordsDaily Chronicle\nDeKalb mom files lawsuit against DeKalb District 428 over missing kindergartener controversyEntertainment & Arts\nWEEKEND READS\nTHE GENIUS ACT\nStablecoin Has Arrived.",
+              "Is The Payments Revolution Beginning?MUTUAL FUNDS\nTop Fund Manager Pinpoints Lots Of 'Worthwhile' RisksBROADCOM EARNINGS\nAI Chip Business Fuels Broadcom's Strong Quarterly ReportSaturday's news in Arlington, Virginia\nSTGnews Headlines\nImmigration News\nAsylum Seekers & Migrants\nImmigrant Orgs Are Learning to Adapt as ICE Detentions RiseResources\nHow To Use The NYC Subway System Like a ProNews Roundup\nTrump to End Temporary Status of Another 268,000 Venezuelan MigrantsSaturday News Roundup - Morning Edition\nWILLMAR MINNESOTA NEWS\nMorning Headlines\nSports - High School Sports\nLausanne edges CBHS in emotional defensive struggleSports - High School Sports\nFriday football report: Collierville wins wild one over HornMetro - Behind The Headlines\nMATA roils in turmoil.",
+              "What's the next step?GJ Sentinel Headlines 9/6\nCurbing greenhouse gases\nLandfills brace for new limits on methane emissionsFocus shifts from innovation\nHick hears from Western Slope businesses impacted by tariffsAdvocacy work winding down\nLocal activist David Combs reflects on 45 years in Mesa CountyMy Suburban Life\nDaily Journal\nMIDDLE EAST\nHigh-rise tower bombed\nIsraeli military urges Gaza City residents to leaveUrges Israel for ceasefire\nHezbollah says Lebanon move on army plan is 'opportunity''It is nonsense to say that'\nEgypt slams describing displacement of Palestinians as voluntaryNEWS FOR YOU\nLatest Headlines\nToledo's Leader in News, Sports & Entertainment\nBest of Friday\nLand Use and Development\n12-condo building proposed for Northfield's new zoning districtPublic Safety\nMissing swimmer remains unidentified 2 weeks after search called offHigh School Highlights\nNT field hockey enjoys big week; Trevs volleyball off to hot startTODAY IN SANTA CRUZ COUNTY\nLatest news for Edmonds\nIn 2026 session\nHolding ground will be Washington Board of Education’s goal Sept.",
+              "8\nEdmonds Port Commission meeting agendaImpersonation, firearm charges\nFelon posing as Edmonds police detective arrested in BremertonChicago Does\nReal Times Media\nKamala Harris Given LAPD, CHP Security After Trump Revokes Secret ServiceBlack Information Network\nMan Charged With Murder In Case Of Missing Black Teen DaCara ThompsonBlack Information Network\nFlorida’s Push To Drop School Vaccine Mandates Sparks Health ConcernsALEXANDRIA MINNESOTA NEWS\nSaturday Morning Update\nSCV News from The Signal for Sept.",
+              "6, 2025\nHappening in Loudoun County\nWhat to know in New Orleans\nMississippi Morning Recap\nSan Diego Saturday Morning Update\nKane County Chronicle\nMariano Velasco’s pick-six jumpstarts Oswego offense, defense to big win over GenevaKane County Chronicle\nPhotos: Oswego, Geneva football meet in nonconference actionKane County Chronicle\nElderly couple killed when their car collides with vehicle driven by 18-year-old in GenevaNorthwest Herald\nLatest and Local – Cheyenne, WY\nImmigration Crackdown\nHyundai ICE raid puts spotlight on visa ‘waiver’ program, travelHappy Birthday!"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 6, 2025 Upset Nvidia says America's GAIN AI Act tries to solve a 'Chinese problem' that does not exist; says: We never ... Nvidia is expressing strong opposition to the proposed AI GAIN Act, fearing it will hinder global competition and harm the U.S. economy. The legislation, aiming to prioritize domestic chip orders, could impose trade restrictions and require licenses for advanced chip exports. Nvidia argues the bill addresses a non-existent problem and could mirror the limiting effects of the AI Diffusion Rule.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/upset-nvidia-says-americas-gain-ai-act-tries-to-solve-a-chinese-problem-that-does-not-exist-says-we-never-/articleshow/123738517.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "1ecb1f4688aa10be820f78f201f7175250d40b6c"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 6, 2025 Upset Nvidia says America's GAIN AI Act tries to solve a 'Chinese problem' that does not exist; says: We never ... Nvidia is expressing strong opposition to the proposed AI GAIN Act, fearing it will hinder global competition and harm the U.S. economy. The legislation, aiming to prioritize domestic chip orders, could impose trade restrictions and require licenses for advanced chip exports. Nvidia argues the bill addresses a non-existent problem and could mirror the limiting effects of the AI Diffusion Rule.",
+            "bullets": [
+              "Nvidia reportedly is very upset with the new AI Act -- AI GAIN Act -- introduced recently.",
+              "Nvidia has voiced strong concerns that the proposed AI GAIN Act would stifle global competition and negatively impact the American economy.",
+              "The company said that the bill could have effects similar to the AI Diffusion Rule, which limited the computing power available to different countries.",
+              "chipmakers to prioritize domestic orders for advanced processors before fulfilling international requests.",
+              "According to a report in Reuters, a spokesperson for Nvidia said that the company never gives priority to foreign customers over American ones.",
+              "\"In trying to solve a problem that does not exist, the proposed bill would restrict competition worldwide in any industry that uses mainstream computing chips,\" the spokesperson said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "c2cb3f5b34da9c96df06a5444a16cf6e8fb317f7"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "‘We have apologised to…’: Australia’s biggest bank decides not to replace human jobs with AI\nThe Commonwealth Bank of Australia (CBA) has backtracked on its plan to eliminate 45 customer service positions due to AI implementation, following pressure from the Finance Sector Union.",
+              "CBA admitted its assessment was flawed and offered affected employees options to remain, apply elsewhere, or exit."
             ],
             "impact": "Negative"
           }
