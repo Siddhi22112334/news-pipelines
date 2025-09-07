@@ -14,11 +14,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
-      contents: write        # required to push to gh-pages
+      contents: write   # required to push to gh-pages
 
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,16 +32,29 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run combined brief
+      # ⬇️ Pull previously published JSON from gh-pages so we don't lose old dates/runs
+      - name: Checkout gh-pages (previous published data)
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: ghpages
+        continue-on-error: true   # ok if gh-pages doesn't exist yet
+
+      - name: Carry forward previously published JSON (if any)
+        run: |
+          mkdir -p viewer/data
+          if [ -f ghpages/index.json ]; then cp ghpages/index.json viewer/index.json; fi
+          if [ -d ghpages/data ]; then cp -R ghpages/data/. viewer/data/; fi
+
+      - name: Run combined brief (no Telegram)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4o-mini
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           WINDOW_MIN: "120"
           MAX_ITEMS: "6"
           DIVERSIFY_PER_DOMAIN: "2"
-          SEND: "true"                    # set "false" if you want a dry run
+          # SEND is ignored by the pipelines now; kept for CLI compatibility
+          SEND: "false"
           TECH_STATE_FILE: seen_technews.json
           FIN_STATE_FILE: seen_finnews.json
         run: python run_combined.py
