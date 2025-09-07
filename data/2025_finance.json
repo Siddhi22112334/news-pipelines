@@ -1,7 +1,25 @@
 {
   "2025-09-07": {
     "runs": {
-      "12:14": [
+      "12:43": [
+        {
+          "item": {
+            "title": "Upcoming IPOs: Urban Company IPO, Dev Accelerator IPO among public issues to open next week; check full list here",
+            "link": "https://www.livemint.com/market/stock-market-news/upcoming-ipos-urban-company-ipo-dev-accelerator-ipo-among-public-issues-to-open-next-week-check-full-list-here-11757222839029.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Upcoming IPOs: Urban Company IPO, Dev Accelerator IPO among public issues to open next week; check full list here",
+            "bullets": [
+              "The buzz in the primary market is all set to continue with nearly nine new initial public offering (IPOs), three in mainboard and seven",
+              "In the mainboard segment, Shringar House of Mangalsutra IPO, Dev Accelerator IPO and Urban Company IPO will be opening for bidding.",
+              "The mainboard IPO will open for subscription on Sep 10 and closes on Sep 12.",
+              "The IPO price band is set at ₹155 to ₹165 per share."
+            ],
+            "impact": "Bearish"
+          }
+        },
         {
           "item": {
             "title": "Gurugram high-end property demand softens; Noida holds strong amid supply shortage",
@@ -22,24 +40,6 @@
         },
         {
           "item": {
-            "title": "Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 8 September 2025",
-            "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-8-september-2025-11757208304430.html",
-            "site_name": "",
-            "novelty_hash": ""
-          },
-          "review": {
-            "headline_rewrite": "Stocks to buy under  ₹100: Sumeet Bagadia recommends three shares to buy on Monday — 8 September 2025",
-            "bullets": [
-              "Indian stock market: The Indian stock market closed flat on Friday, September 5, as profit booking persisted amid worries over Trump’s tariffs and their",
-              "The Sensex and Nifty 50 opened on a positive note but were unable to sustain gains despite favorable global cues and expectations of a",
-              "The Sensex edged down by 7 points to close at 80,710.76, while the Nifty 50 gained 7 points to settle at 24,741.",
-              "The BSE Midcap index dipped 0.10 per cent, whereas the Smallcap index rose slightly by 0.09 per cent."
-            ],
-            "impact": "Neutral"
-          }
-        },
-        {
-          "item": {
             "title": "Adani Group looks to invest $60 billion in power, RE sectors till FY32",
             "link": "https://www.thehindubusinessline.com/companies/adani-group-looks-to-invest-60-billion-in-power-re-sectors-till-fy32/article70021827.ece",
             "site_name": "",
@@ -53,6 +53,24 @@
               "Part of the Adani Group, Adani Green Energy Ltd (AGEL) develops, builds, owns, operates and maintains utility-scale grid-connected solar and wind farm projects."
             ],
             "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Two-wheeler sales volume to grow 5-6% this fiscal after GST cut boost: Crisil Ratings",
+            "link": "https://www.thehindubusinessline.com/companies/two-wheeler-sales-volume-to-grow-5-6-this-fiscal-after-gst-cut-boost-crisil-ratings/article70021736.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Two-wheeler sales volume to grow 5-6% this fiscal after GST cut boost: Crisil Ratings",
+            "bullets": [
+              "Two-wheeler sales volume is expected to grow by 5-6 per cent in the current fiscal year, due to the Goods and Services Tax (GST)",
+              "The rating firm said that the move is expected to provide a much-needed stimulus to the domestic automobile industry, particularly two-wheelers and passenger vehicles",
+              "Additionally, the early and intense onset of the southwest monsoon curtailed rural activity and dampened consumer sentiment.",
+              "According to the rating agency, growth in the PV segment is expected to be more modest at 2-3 per cent this fiscal year."
+            ],
+            "impact": "Neutral"
           }
         }
       ]
