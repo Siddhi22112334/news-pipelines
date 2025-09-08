@@ -6910,6 +6910,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:44": [
+        {
+          "item": {
+            "title": "Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/08/pinecone-founder-edo-liberty-explores-the-real-missing-link-in-enterprise-ai-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a802ec865102779f8432839fd42f9f68e1e45a8f"
+          },
+          "review": {
+            "headline_rewrite": "Pinecone founder Edo Liberty discusses why the next big AI breakthrough starts with search, at TechCrunch Disrupt 2025",
+            "bullets": [
+              "AI needs a better brain — and Edo Liberty is building it.",
+              "At TechCrunch Disrupt 2025, happening October 27–29 at Moscone West in San Francisco, Pinecone founder and CEO Edo Liberty will explain why the next wave of AI-native apps won’t be driven by bigger models, but by smarter search.",
+              "With 10,000+ startup and VC leaders expected to be at Disrupt, this AI Stage fireside chat and presentation is a must-attend session.",
+              "The future of AI isn’t more data — it’s better retrieval\nAs AI becomes more embedded in every workflow, the real differentiator isn’t just the algorithm — it’s how you access and use the right data at the right time.",
+              "In his session, “Why the Next Frontier Is Search,” Liberty will unpack how vector databases and high-performance infrastructure are unlocking the full potential of AI.",
+              "Why you don’t want to miss this session\nLiberty helped build the backbone of AI at Amazon, and now with Pinecone, he’s scaling next-gen search for hundreds of thousands of developers and enterprise teams."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nuclear startup Deep Fission goes public in a curious SPAC",
+            "link": "https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "592b2e9da5ac679d88309e7182a1771c24645a2a"
+          },
+          "review": {
+            "headline_rewrite": "Nuclear startup Deep Fission goes public in a curious SPAC",
+            "bullets": [
+              "Nuclear startup Deep Fission announced Monday that it has gone public in a reverse merger, netting the company $30 million.",
+              "As recently as April, the startup had been attempting to raise a $15 million seed round.",
+              "Under the terms of the reverse merger with four-year-old Surfside Acquisition Inc., the offering was priced at $3 per share, below the customary $10 that other SPACs target.",
+              "The new entity will retain the Deep Fission name, and though its shares aren’t yet trading, it says it intends to quote on the OTCQB.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "The circumstances around the SPAC — the share price, the selected equity market, and the timing of the transaction — suggest that Deep Fission wasn’t able to raise cash from new or existing shareholders, who first capitalized the company with a $4 million check last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”",
+            "link": "https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "584916a3d2db783d30c0f65454c6be3b0094afea"
+          },
+          "review": {
+            "headline_rewrite": "Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”",
+            "bullets": [
+              "“It’s private,” one ad campaign featuring the former cast of the Modern Family TV show says.",
+              "“Serious risks to user data”\nOn Monday, the former head of security for the Meta-owed messaging app filed a federal whistleblower lawsuit that tells a far different narrative.",
+              "The suit, filed in US District Court for the District of Northern California, recites a litany of purported security and privacy flaws that Meta not only didn’t fix after becoming aware of them, but also kept secret, allegedly in violation of a $5 billion settlement then-Whatsapp parent company Facebook reached with the Federal Trade Commission.",
+              "The complaint was filed by Attaullah Baig, who became head of WhatsApp security in 2021.",
+              "Shortly after assuming that role, the lawsuit said, Baig “discovered systemic cybersecurity failures that posed serious risks to user data.” During a red-team exercise designed to find and exploit security vulnerabilities so they can be fixed, Baig said he found that roughly 1,500 engineers inside the messenger division had “unrestricted access to user data, including personal information covered by the FTC Privacy Order, and could move or steal such data without detection or audit trail.”\nStarting in September 2021, Baig notified superiors responsible for WhatsApp that unrestricted access to so many employees likely violated the 2019 order.",
+              "Among other things, he drafted a document directing the WhatsApp privacy infrastructure team to implement a data classification and handling system that would comply with the order to shore up the security of stored user data by tightening employee access to it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "In court filing, Google concedes the open web is in “rapid decline”",
+            "link": "https://arstechnica.com/google/2025/09/in-court-filing-google-concedes-the-open-web-is-in-rapid-decline/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0b97d1cf111e2001e77b283c81d1cf1e8d56cfcd"
+          },
+          "review": {
+            "headline_rewrite": "In court filing, Google concedes the open web is in “rapid decline”",
+            "bullets": [
+              "The company lost its adtech antitrust case earlier this year, and now it's up to the court to decide on remedies for the illegal conduct.",
+              "In its response to the Department of Justice's requested remedies, Google made a startling claim: \"The fact is that today, the open web is already in rapid decline.\"\nGoogle says that forcing it to divest its AdX marketplace would hasten the demise of wide swaths of the web that are dependent on advertising revenue.",
+              "The DOJ also tried to force a divestment of Chrome in the search antitrust trial, but the judge in that case declined to order that in the remedies.",
+              "As users become increasingly frustrated with AI search products, Google often claims people actually love AI search and are sending as many clicks to the web as ever.",
+              "Now that its golden goose is on the line, the open web is suddenly \"in rapid decline.\" It's right there on page five of the company's September 5 filing, as spotted by Search Engine Roundtable.",
+              "A recent analysis of AI Overviews web traffic from the Pew Research Center suggests AI Overviews results in a substantial drop in web traffic."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini app finally expands to audio files",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports",
+            "site_name": "The Verge",
+            "novelty_hash": "3733fa78daf91b3d27af86d277794181936ec4b1"
+          },
+          "review": {
+            "headline_rewrite": "Gemini app finally expands to audio files",
+            "bullets": [
+              "Google made three major updates to its Gemini-powered products on Monday: The Gemini app now accepts audio files; Search can handle five new languages; and NotebookLM creates reports in the form of blog posts, study guides, quizzes, and more.",
+              "AI Pro or AI Ultra users, meanwhile, can upload audio up to three hours in length.",
+              "Additionally, Google Search’s AI Mode has rolled out five new language options: Hindi, Indonesian, Japanese, Korean, and Brazilian Portuguese, thanks to the integration of Gemini 2.5 with Search, according to a company blog: “With this expansion, more people can now use AI Mode to ask complex questions in their preferred language, while exploring the web more deeply.”\nThe Gemini-powered NotebookLM software is also getting an update in the form of new report styles in over 80 languages based on a user’s uploaded documents, files, and other media.",
+              "The feature “should be 100%” available by the end of this week, according to a company comment to a post on X.",
+              "Google has been on a dizzying spree of AI-related features in the past month.",
+              "Gemini began automatically recalling user details and preferences from past conversations in August, the same month that free users gained access to Workspace’s video generation software Vids."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit",
+            "link": "https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "1de280cba147ed358d7e6890d7a80cd1d7454fc5"
+          },
+          "review": {
+            "headline_rewrite": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit",
+            "bullets": [
+              "Nintendo has notched another victory in its crusade against piracy.",
+              "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit\nRyan Daley is accused of selling modchips and hacked Switch consoles online.",
+              "In a copyright lawsuit filed last year, Nintendo accused Daley of operating the website Modded Hardware, which sold modded Switch consoles, modchips used to hack into Switch devices, and Mig flash cartridges that allow people to play pirated copies of games.",
+              "Nintendo claimed Daley caused the company “significant and irreparable harm” — and the judge agreed.",
+              "“The MIG Devices, Mod Chips, Hacked Consoles, and Circumvention Services allow members of the public to create, distribute, and play pirated Nintendo games on a massive scale,” the ruling states.",
+              "Piracy lawsuits from Nintendo have become increasingly common, with the company winning its case against a file-sharing site accused of hosting pirated games earlier this year."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
