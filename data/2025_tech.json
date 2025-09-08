@@ -7151,6 +7151,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:45": [
+        {
+          "item": {
+            "title": "Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”",
+            "link": "https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "584916a3d2db783d30c0f65454c6be3b0094afea"
+          },
+          "review": {
+            "headline_rewrite": "Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”",
+            "bullets": [
+              "“It’s private,” one ad campaign featuring the former cast of the Modern Family TV show says.",
+              "“Serious risks to user data”\nOn Monday, the former head of security for the Meta-owed messaging app filed a federal whistleblower lawsuit that tells a far different narrative.",
+              "The suit, filed in US District Court for the District of Northern California, recites a litany of purported security and privacy flaws that Meta not only didn’t fix after becoming aware of them, but also kept secret, allegedly in violation of a $5 billion settlement then-Whatsapp parent company Facebook reached with the Federal Trade Commission.",
+              "The complaint was filed by Attaullah Baig, who became head of WhatsApp security in 2021.",
+              "Shortly after assuming that role, the lawsuit said, Baig “discovered systemic cybersecurity failures that posed serious risks to user data.” During a red-team exercise designed to find and exploit security vulnerabilities so they can be fixed, Baig said he found that roughly 1,500 engineers inside the messenger division had “unrestricted access to user data, including personal information covered by the FTC Privacy Order, and could move or steal such data without detection or audit trail.”\nStarting in September 2021, Baig notified superiors responsible for WhatsApp that unrestricted access to so many employees likely violated the 2019 order.",
+              "Among other things, he drafted a document directing the WhatsApp privacy infrastructure team to implement a data classification and handling system that would comply with the order to shore up the security of stored user data by tightening employee access to it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AMD&#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games",
+            "link": "https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling",
+            "site_name": "The Verge",
+            "novelty_hash": "559c8517641d3cf4027667bce1b34f69092d5e14"
+          },
+          "review": {
+            "headline_rewrite": "AMD&#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games",
+            "bullets": [
+              "AMD’s FSR 4 AI upscaling and frame-generation technology can now be enabled for “most games that support FSR 3.1 with DirectX 12,” the company says in the patch notes for its newest 25.9.1 driver.",
+              "This support has been a big promise from AMD, but it’s taken awhile to come to fruition; FSR 4 first launched alongside the company’s RX 9000-series graphics cards back in March.",
+              "AMD’s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games\nFSR 4 is also now officially supported in more than 85 games."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit",
+            "link": "https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "1de280cba147ed358d7e6890d7a80cd1d7454fc5"
+          },
+          "review": {
+            "headline_rewrite": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit",
+            "bullets": [
+              "Nintendo has notched another victory in its crusade against piracy.",
+              "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit\nRyan Daley is accused of selling modchips and hacked Switch consoles online.",
+              "In a copyright lawsuit filed last year, Nintendo accused Daley of operating the website Modded Hardware, which sold modded Switch consoles, modchips used to hack into Switch devices, and Mig flash cartridges that allow people to play pirated copies of games.",
+              "Nintendo claimed Daley caused the company “significant and irreparable harm” — and the judge agreed.",
+              "“The MIG Devices, Mod Chips, Hacked Consoles, and Circumvention Services allow members of the public to create, distribute, and play pirated Nintendo games on a massive scale,” the ruling states.",
+              "Piracy lawsuits from Nintendo have become increasingly common, with the company winning its case against a file-sharing site accused of hosting pirated games earlier this year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple is expected to unveil iPhone 17 and more at the 'Awe Dropping' event on Tuesday: Here's everything we know",
+            "link": "https://www.engadget.com/mobile/smartphones/apple-is-expected-to-unveil-iphone-17-and-more-at-the-awe-dropping-event-on-tuesday-heres-everything-we-know-090059585.html",
+            "site_name": "Engadget",
+            "novelty_hash": "e2797241ee6d311384879bf02fcc34a9b3002ffe"
+          },
+          "review": {
+            "headline_rewrite": "Apple is expected to unveil iPhone 17 and more at the 'Awe Dropping' event on Tuesday: Here's everything we know",
+            "bullets": [
+              "It's now just a few hours away: At 1PM ET on Tuesday, Apple is all but certain to unveil the iPhone 17 line.",
+              "This year is shaping up to be a departure from recent September product rollouts, with the strong possibility of an all-new superthin iPhone expected to join the company's lineup.",
+              "Also on tap could be new Apple Watch models — including the first truly new Ultra model in two years — and (maybe) the long-awaited AirPods Pro 3.",
+              "Bloomberg Apple reporter Mark Gurman confirmed his expectation for all of the above products to arrive as expected next week in his recent event preview story.",
+              "Gurman had previously reported many of those details, including the expected battery and camera compromises of that rumored thin iPhone (which everyone already calls the iPhone Air).",
+              "Expected to be roughly 5.55 mm thick, the iPhone Air would be the thinnest iPhone yet, besting 2014's iPhone 6 which, at 6.9 mm, was the previous svelteness champ."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "a9618a985e6cccfa0909b9d4035852f045991591"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Mary’s College, 3-2 Friends with Disabilities\nCalvert Museum Hosts Free Night College of Southern Maryland\nMatthew Knapp’s Four Goals Lift Southern Maryland to VictoryBest of Monday\nCommunity Stories\nNeighbors find right community recipe with Kenilworth Cookbook ClubHistory By Design\nTwo houses of worship, where architecture meets sculptureLocal Sports\n2-0 Giants score twice in 4 minutes to topple rival WarriorsMorris Herald News\nMorris Herald News\nCraft beer a big draw at Morris festivalMorris Herald News\nCoal City Middle School hosts McTeacher’s Night fundraiserMorris Herald News\nCoal City United Methodist hosts parking lot glow party Saturday, Sept.",
+              "8\n'There are evil people'\nTrump rages over murder of Ukrainian refugee Iryna ZarutskaWarming up to socialism\nAmericans' support for capitalism sinks to record low: pollBusiness as usual?",
+              "8, 2025\nEviction notice after tragedy, LSU analysis, more\nSauk Valley\nToday's Rundown\nFiesta de Santa Fe\nDesfile de la Gente brings cheer after last year's police chaseAgape House Shelter\nSanta Feans give mixed reviews of Urban Alchemy's first monthRingside Seat\nHe'd come out of retirement to serve as mayorTwin Cities\nTwin Cities\nBethel University guarantees grads a job at the school or free grad school creditsTwin Cities\nMan reveals how suspect pulled off stealing his $228K Rolex, lots of cash from boat on Lake MinnetonkaTwin Cities\nMinneapolis City Council authorizes lawsuit to close landlord’s private homeless encampmentQUANTUMSCOPE SPARS, APPLE EVENT NEARS\nLatest Headlines\nPolitically Georgia\nWill Hyundai raid tarnish Kemp’s economic development win?Atlanta Surgeon\nDoctor who ‘changed’ John Cena’s life talks hair loss treatmentsWeekend Reflections\nPenix is Falcons quarterback to get excited aboutMountain View Voice\nMonday News Roundup - Evening Edition\nMonday's news in Arlington, Virginia\nNew York City News Today\nNORTHEAST GEORGIA\nCHRISTIAN COLLEGE PROBE\nInvestigator to update Truett Trustees on sex scandal probeNORTHEAST GA FOOTBALL\nBLITZ Power Rankings: Week FourHOW TO BECOME A COUNTY VENDOR\nHabersham County planning small business forumLatest news for Mountlake Terrace\nCompanies getting cold feet\nAnother hydrogen developer exits regional clean energy projectCounty Council Corner\nA campaign to make Snohomish County family friendlySouth SnoCo Playtime\nYour Family Fun Guide for Sept.",
+              "8, 2025)\nHappening in Loudoun County\nFort Worth & Tarrant County Headlines\nBridge Michigan\nSep 8 2025, 4:27 PM\nVaccine skepticism puts Michigan kids’ health at ri...Sep 8 2025, 4:04 PM\nBridge Lunch Break to discuss the state of education in M...Sep 8 2025, 2:10 PM\nWhitmer admin ‘contingency’ planning for potential Michig...Daily Dose of Neighborhood News 9.8.25\nDaily Chronicle\nTop Stories from The Wilson Times\nBryan Vasquez's mom arrested, new restaurant, Kellen Moore\nBryan Vasquez case\nNOPD says boy found dead in lagoon suffered 'pattern' of abuseLakeview eats 🦀\nNew spot from Frankie & Johnny's offers boiled seafood, bourbonSaints analysis\nSaints head coach Kellen Moore shows growing pains in first gameBKReader: Brooklyn Reader - Latest\n\"This is the fight,\" said Z...",
+              "Brooklyn's Flatbush Avenue to Get Major Bus OverhaulMonday's news in Fairfax County\nMonday's headlines\nNews, art & life in Fayetteville, Arkansas\nNorthwest Herald\nKane County Chronicle\nAurora antique furniture store moving to BataviaKane County Chronicle\nGeneva group’s plans to host Jan.",
+              "6 organizer draws pickets, protestsKane County Chronicle\nBatavia Plain Dirt Gardeners monthly meetings to resume Sept."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 8, 2025 iPhone 17 launch event on September 9: How, when and where to watch Apple’s ‘Awe Dropping’ 2025 event Apple's \"Awe Dropping\" event on September 9, 2025, is set to unveil the iPhone 17 series, including the rumored iPhone 17 Air, replacing the Plus model. Anticipate upgrades to the Apple Watch, potentially introducing the Ultra 3 with enhanced features, and a redesigned AirPods Pro 3 with a new H3 chip.",
+            "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/iphone-17-launch-event-on-september-9-how-when-and-where-to-watch-apples-awe-dropping-2025-event/articleshow/123767438.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "6befff5ead4300902cb9086e6dc2c33bfb2d192c"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 8, 2025 iPhone 17 launch event on September 9: How, when and where to watch Apple’s ‘Awe Dropping’ 2025 event Apple's \"Awe Dropping\" event on September 9, 2025, is set to unveil the iPhone 17 series, including the rumored iPhone 17 Air, replacing the Plus model. Anticipate upgrades to the Apple Watch, potentially introducing the Ultra 3 with enhanced features, and a redesigned AirPods Pro 3 with a new H3 chip.",
+            "bullets": [
+              "Apple is preparing for a tech spectacle at its annual iPhone launch event.",
+              "At the âAwe Droppingâ Event on Tuesday, September 9, the company is launching iPhone 17 series â its newest series that is said to comprise: iPhone 17, iPhone 17 Air, iPhone 17 Pro and iPhone 17 Pro Max.",
+              "The event's biggest highlight is the rumored âiPhone Airâ to replace the Plus model.",
+              "Anticipated upgrades to the Apple Watch and AirPods Pro are also said to be on the cards.",
+              "When and where to watch Apple âAwe Droppingâ iPhone 17 launch event\nApple's biggest annual event is scheduled for Tuesday, September 9, 2025.",
+              "This yearâs event is said to be more than just a routine product refresh as iPhones may get a redesign anticipation for significant design shifts and new form factors that could redefine Apple's lineup."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
