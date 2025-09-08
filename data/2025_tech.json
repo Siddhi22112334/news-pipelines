@@ -7032,6 +7032,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:07": [
+        {
+          "item": {
+            "title": "Nuclear startup Deep Fission goes public in a curious SPAC",
+            "link": "https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "592b2e9da5ac679d88309e7182a1771c24645a2a"
+          },
+          "review": {
+            "headline_rewrite": "Nuclear startup Deep Fission goes public in a curious SPAC",
+            "bullets": [
+              "Nuclear startup Deep Fission announced Monday that it has gone public in a reverse merger, netting the company $30 million.",
+              "As recently as April, the startup had been attempting to raise a $15 million seed round.",
+              "Under the terms of the reverse merger with four-year-old Surfside Acquisition Inc., the offering was priced at $3 per share, below the customary $10 that other SPACs target.",
+              "The new entity will retain the Deep Fission name, and though its shares aren’t yet trading, it says it intends to quote on the OTCQB.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "The circumstances around the SPAC — the share price, the selected equity market, and the timing of the transaction — suggest that Deep Fission wasn’t able to raise cash from new or existing shareholders, who first capitalized the company with a $4 million check last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Bluesky adds private bookmarks",
+            "link": "https://techcrunch.com/2025/09/08/bluesky-adds-private-bookmarks/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "95724ad82bdbed1f6845a526d32a48486c4f258e"
+          },
+          "review": {
+            "headline_rewrite": "Bluesky adds private bookmarks",
+            "bullets": [
+              "Your saved posts can then be viewed at any time from the new “Saved” section in the app’s main navigation.",
+              "Journalists, for example, may save posts they aim to reference later, but don’t necessarily want to broadcast that they’ve just started looking into something, which could invite unwanted attention.",
+              "According to X employees at the time, public likes could incentivize the wrong behavior, as people could feel discouraged from liking content that may be “edgy,” or to protect their public image, they said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”",
+            "link": "https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "584916a3d2db783d30c0f65454c6be3b0094afea"
+          },
+          "review": {
+            "headline_rewrite": "Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”",
+            "bullets": [
+              "“It’s private,” one ad campaign featuring the former cast of the Modern Family TV show says.",
+              "“Serious risks to user data”\nOn Monday, the former head of security for the Meta-owed messaging app filed a federal whistleblower lawsuit that tells a far different narrative.",
+              "The suit, filed in US District Court for the District of Northern California, recites a litany of purported security and privacy flaws that Meta not only didn’t fix after becoming aware of them, but also kept secret, allegedly in violation of a $5 billion settlement then-Whatsapp parent company Facebook reached with the Federal Trade Commission.",
+              "The complaint was filed by Attaullah Baig, who became head of WhatsApp security in 2021.",
+              "Shortly after assuming that role, the lawsuit said, Baig “discovered systemic cybersecurity failures that posed serious risks to user data.” During a red-team exercise designed to find and exploit security vulnerabilities so they can be fixed, Baig said he found that roughly 1,500 engineers inside the messenger division had “unrestricted access to user data, including personal information covered by the FTC Privacy Order, and could move or steal such data without detection or audit trail.”\nStarting in September 2021, Baig notified superiors responsible for WhatsApp that unrestricted access to so many employees likely violated the 2019 order.",
+              "Among other things, he drafted a document directing the WhatsApp privacy infrastructure team to implement a data classification and handling system that would comply with the order to shore up the security of stored user data by tightening employee access to it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit",
+            "link": "https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "1de280cba147ed358d7e6890d7a80cd1d7454fc5"
+          },
+          "review": {
+            "headline_rewrite": "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit",
+            "bullets": [
+              "Nintendo has notched another victory in its crusade against piracy.",
+              "Nintendo Switch modder ordered to pay $2 million in piracy lawsuit\nRyan Daley is accused of selling modchips and hacked Switch consoles online.",
+              "In a copyright lawsuit filed last year, Nintendo accused Daley of operating the website Modded Hardware, which sold modded Switch consoles, modchips used to hack into Switch devices, and Mig flash cartridges that allow people to play pirated copies of games.",
+              "Nintendo claimed Daley caused the company “significant and irreparable harm” — and the judge agreed.",
+              "“The MIG Devices, Mod Chips, Hacked Consoles, and Circumvention Services allow members of the public to create, distribute, and play pirated Nintendo games on a massive scale,” the ruling states.",
+              "Piracy lawsuits from Nintendo have become increasingly common, with the company winning its case against a file-sharing site accused of hosting pirated games earlier this year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "8cd810b65d10b3833b74687d90c4ae3336ae59f4"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Politically Georgia\nWill Hyundai raid tarnish Kemp’s economic development win?News Showcase\nStories selected by newsroom editors\nLane County News\nBest of Monday\nCommunity Stories\nNeighbors find right community recipe with Kenilworth Cookbook ClubHistory By Design\nTwo houses of worship, where architecture meets sculptureLocal Sports\n2-0 Giants score twice in 4 minutes to topple rival WarriorsMorris Herald News\nMorris Herald News\nCraft beer a big draw at Morris festivalMorris Herald News\nCoal City Middle School hosts McTeacher’s Night fundraiserMorris Herald News\nCoal City United Methodist hosts parking lot glow party Saturday, Sept.",
+              "20Monday Night News\nSUPREME COURT\nLiberal justices dissented\nSupreme Court backs Trump on aggressive immigration raids20 years under John Roberts\nA dramatic rightward turn for the Supreme Court$4 billion in aid in focus\nTrump administration asks SCOTUS to let it withhold foreign aidSan Diego Monday Morning Report\n‘A chance to build’\nAndrew Keatts to lead Times of San Diego\"Pronounced deceased at scene\"\nSheriff’s department investigating death of man found in RamonaMilestones in women’s soccer\nSan Diego Wave retires Alex Morgan’s no.",
+              "13 jerseyWhat Utah is buzzing about\nTribune Editorial\nHomeless campus will only work if services, security are providedAP Top 25 bias?",
+              "The East Coast snubbed Utah football in the AP pollInside Voices\nWhat happens when Utah forests lose protection?Monday's headlines\nSauk Valley\nTODAY'S TOP STORIES\nFort Worth & Tarrant County Headlines\nMonday News Roundup - Evening Edition\nNew York City News Today\nA wrap on the day’s hard-hitting news and opinion\nBridge Michigan\nSep 8 2025, 2:10 PM\nWhitmer admin ‘contingency’ planning for potential Michig...Sep 8 2025, 12:00 PM\nMoney woes imperil Traverse City’s bid to boost reading s...Sep 8 2025, 12:00 PM\nFact check: Michigan school funding at historic highs.",
+              "Sakura Cannestra\nSunnyvale councilmember injured in bike accidentLatest news for Mountlake Terrace\nCompanies getting cold feet\nAnother hydrogen developer exits regional clean energy projectCounty Council Corner\nA campaign to make Snohomish County family friendlySouth SnoCo Playtime\nYour Family Fun Guide for Sept.",
+              "8, 2025)\nMorning rundown\nDaily News\nLATEST CALIFORNIA NEWS\nMorning Headlines, Sept."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 8, 2025 iPhone 17 launch event on September 9: How, when and where to watch Apple’s ‘Awe Dropping’ 2025 event Apple's \"Awe Dropping\" event on September 9, 2025, is set to unveil the iPhone 17 series, including the rumored iPhone 17 Air, replacing the Plus model. Anticipate upgrades to the Apple Watch, potentially introducing the Ultra 3 with enhanced features, and a redesigned AirPods Pro 3 with a new H3 chip.",
+            "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/iphone-17-launch-event-on-september-9-how-when-and-where-to-watch-apples-awe-dropping-2025-event/articleshow/123767438.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "6befff5ead4300902cb9086e6dc2c33bfb2d192c"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 8, 2025 iPhone 17 launch event on September 9: How, when and where to watch Apple’s ‘Awe Dropping’ 2025 event Apple's \"Awe Dropping\" event on September 9, 2025, is set to unveil the iPhone 17 series, including the rumored iPhone 17 Air, replacing the Plus model. Anticipate upgrades to the Apple Watch, potentially introducing the Ultra 3 with enhanced features, and a redesigned AirPods Pro 3 with a new H3 chip.",
+            "bullets": [
+              "Apple is preparing for a tech spectacle at its annual iPhone launch event.",
+              "At the âAwe Droppingâ Event on Tuesday, September 9, the company is launching iPhone 17 series â its newest series that is said to comprise: iPhone 17, iPhone 17 Air, iPhone 17 Pro and iPhone 17 Pro Max.",
+              "The event's biggest highlight is the rumored âiPhone Airâ to replace the Plus model.",
+              "Anticipated upgrades to the Apple Watch and AirPods Pro are also said to be on the cards.",
+              "When and where to watch Apple âAwe Droppingâ iPhone 17 launch event\nApple's biggest annual event is scheduled for Tuesday, September 9, 2025.",
+              "This yearâs event is said to be more than just a routine product refresh as iPhones may get a redesign anticipation for significant design shifts and new form factors that could redefine Apple's lineup."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
