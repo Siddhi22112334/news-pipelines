@@ -3055,5 +3055,45 @@
         }
       ]
     }
+  },
+  "2025-09-09": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "Centre unveils draft telecom licensing rules under new Act",
+            "link": "https://www.thehindubusinessline.com/info-tech/centre-unveils-draft-telecom-licensing-rules-under-new-act/article70026989.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Centre unveils draft telecom licensing rules under new Act",
+            "bullets": [
+              "It also sets down the framework for how these services are to be licensed, regulated and interconnected.",
+              "Licensed operators will be under an obligation to adhere to national security requirements, including cyber security safeguards, lawful interception, customer verification through KYC norms,",
+              "The government has emphasised that suggestions from industry, consumer groups and other stakeholders will be considered before finalising the rules."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Bollywood 2.0",
+            "link": "https://www.thehindubusinessline.com/data-stories/visually/bollywood-20/article70027285.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Bollywood 2.0",
+            "bullets": [
+              "THIS AD SUPPORTS OUR JOURNALISM.",
+              "SUBSCRIBE FOR MINIMAL ADS.",
+              "THIS AD SUPPORTS OUR JOURNALISM."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
