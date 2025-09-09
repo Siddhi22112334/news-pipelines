@@ -10365,6 +10365,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "20:49": [
+        {
+          "item": {
+            "title": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+            "link": "https://blogs.nvidia.com/blog/mlperf-inference-blackwell-ultra/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "48ab85486606c9fb447996ac3a42f8560ad3282c"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+            "bullets": [
+              "Inference performance is critical, as it directly influences the economics of an AI factory.",
+              "The higher the throughput of AI factory infrastructure, the more tokens it can produce at a high speed — increasing revenue, driving down total cost of ownership (TCO) and enhancing the system’s overall productivity.",
+              "Blackwell Ultra builds on the success of the Blackwell architecture, with the Blackwell Ultra architecture featuring 1.5x more NVFP4 AI compute and 2x more attention-layer acceleration than Blackwell, as well as up to 288GB of HBM3e memory per GPU.",
+              "The NVIDIA platform also set performance records on all new data center benchmarks added to the MLPerf Inference v5.1 suite — including DeepSeek-R1, Llama 3.1 405B Interactive, Llama 3.1 8B and Whisper — while continuing to hold per-GPU records on every MLPerf data center benchmark.",
+              "In concert with the open-source NVIDIA TensorRT-LLM library, this optimization enabled Blackwell and Blackwell Ultra to deliver higher performance while meeting strict accuracy requirements in submissions.",
+              "This technique was key to record-setting performance on the Llama 3.1 405B Interactive benchmark, helping to deliver a nearly 50% increase in performance per GPU with GB200 NVL72 systems compared with each Blackwell GPU in an NVIDIA DGX B200 server running the benchmark with traditional serving."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Flexible work update",
+            "link": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "fc8aa3377df3c6f3d9c291bfd865159dcfdcb49b"
+          },
+          "review": {
+            "headline_rewrite": "Flexible work update",
+            "bullets": [
+              "In the AI era, we are moving faster than ever, building world-class technology that changes how people live and work, and how organizations everywhere operate.",
+              "As we build the AI products that will define this era, we need the kind of energy and momentum that comes from smart people working side by side, solving challenging problems together.",
+              "We’ll roll this out in three phases: 1) starting in Puget Sound at the end of February; 2) expanding to other US locations; 3) then launching outside the US.",
+              "Our goal with this change is to provide more clarity and consistency in how we come together, while maintaining the flexibility we know you value.",
+              "As part of these updates, we’re also enhancing our workplace safety and security measures so we can continue to provide a workplace where every employee can do their best work.",
+              "You’ll receive a personalized email today with more details."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
+            "link": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "54d133c4cb6d12bb6a1df8a9f1c65282c4d77aba"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
+            "bullets": [
+              "At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories.",
+              "As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse Blueprint for building high-performance, energy-efficient infrastructure optimized for the age of AI reasoning.",
+              "It’s a natural evolution for the company, scaling beyond chips and systems into a new class of industrial products — so complex and interconnected that no single player can build them alone.",
+              "NVIDIA, along with a deep bench of industrial and technology partners, is reactivating decades of infrastructure expertise to build this new class of AI factories.",
+              "The embodiment of the reference design will be a digital twin of the AI factory.",
+              "The new initiative expands the digital twin to integrate local power generation, energy storage systems, cooling technology and AI agents for operations."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Intelligence: Everything you need to know about Apple’s AI model and services",
+            "link": "https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "501e2cc3b19624c553c249489d70fd676bcb9852"
+          },
+          "review": {
+            "headline_rewrite": "Apple Intelligence: Everything you need to know about Apple’s AI model and services",
+            "bullets": [
+              "If you’ve upgraded to a newer iPhone model recently, you’ve probably noticed that Apple Intelligence is showing up in some of your most-used apps, like Messages, Mail, and Notes.",
+              "Apple Intelligence (yes, also abbreviated to AI) showed up in Apple’s ecosystem in October 2024, and it’s here to stay as Apple competes with Google, OpenAI, Anthropic, and others to build the best AI tools.",
+              "Cupertino marketing executives have branded Apple Intelligence: “AI for the rest of us.” The platform is designed to leverage the things that generative AI already does well, like text and image generation, to improve upon existing features.",
+              "Like other platforms including ChatGPT and Google Gemini, Apple Intelligence was trained on large information models.",
+              "The text offering, powered by LLM, presents itself as Writing Tools.",
+              "The feature is available across various Apple apps, including Mail, Messages, Pages and Notifications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Where top VCs are betting next: Index, Greylock, and Felicis share 2026 priorities at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/09/want-to-know-where-vcs-are-investing-next-be-in-the-room-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "235540598698b4f8c5fce6cbed2842ce64bb35d6"
+          },
+          "review": {
+            "headline_rewrite": "Where top VCs are betting next: Index, Greylock, and Felicis share 2026 priorities at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Joining us onstage\n- Nina Achadjian, partner, Index Ventures — focused on automating overlooked industries and investing across AI, robotics, and vertical SaaS.",
+              "- Jerry Chen, general partner, Greylock — backing product-driven founders in AI, data, cloud infrastructure, and open source.",
+              "Together, this seasoned group of VCs will reveal the sectors and innovations capturing their attention — from AI and data to cloud and robotics — and offer insights on what the “smart money” is chasing in the year ahead.",
+              "Save up to $668 with standard low pricing — available through September 26."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Veo 3 can now generate vertical AI videos",
+            "link": "https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support",
+            "site_name": "The Verge",
+            "novelty_hash": "36f0a2dfbe0a269c65ccc30203a52fed9ecd7651"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Veo 3 can now generate vertical AI videos",
+            "bullets": [
+              "Google has added support for 1080p resolution and vertical video formats to its Veo 3 AI video generator.",
+              "Google’s Veo 3 can now generate vertical AI videos\nThe update also reduces pricing and adds higher resolution outputs for developers.",
+              "The blog says that vertical video support can be enabled by setting the aspectRatio parameter in API requests to 9:16, meaning this feature is specific to developers who are building apps that support Veo 3 video generation.",
+              "Google says it’s also making Veo 3 and Veo 3 Fast “stable and ready for scaled production use in the Gemini API,” and has made it more affordable for developers to generate videos using these tools.",
+              "Google showcased these updates in a couple of example videos generated in Veo 3’s new vertical format, including a rock climber saying, “Veo 3 is now, like, 50 percent cheaper and higher quality, so go build.”\nThe support for vertical video formats isn’t entirely surprising, given Google announced in June that Veo 3 support will be added to YouTube Shorts “later this summer.” Giving developers access to support the format in their own apps means we will likely start seeing content generated through Veo 3 on more vertical video platforms like TikTok and Instagram Reels, however, putting yet more AI slop in front of our eyeballs."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
