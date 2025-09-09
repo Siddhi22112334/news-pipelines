@@ -12147,6 +12147,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:07": [
+        {
+          "item": {
+            "title": "I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal",
+            "link": "https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0ffeee23e9057c2751a46409d8b9f82c1534fa1a"
+          },
+          "review": {
+            "headline_rewrite": "I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal",
+            "bullets": [
+              "But my phone’s battery and touchscreen are aging, and it doesn’t have a chip powerful enough to run the promised Apple Intelligence AI future.",
+              "Today, I was within a heartbeat of preparing to preorder the new iPhone Air.",
+              "It looked like the best of all worlds to me: bigger screen yet small enough to fit in my small hand, best chip, and only $200 more than a 17, but still cheaper than a Pro.",
+              "In the Air’s favor, it has a 6.5-inch screen, compared to the 17’s 6.3-inch, yet is lighter to hold.",
+              "It also has the A19 Pro chip, rather than the A19 chip.",
+              "But oddly, this isn’t the same Pro chip that’s in the Pro phone."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Help, I have been charmed by the iPhone Air",
+            "link": "https://techcrunch.com/2025/09/09/help-i-have-been-charmed-by-the-iphone-air/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "025c2fcd5bd8c86040730001ff0ff518a27d3754"
+          },
+          "review": {
+            "headline_rewrite": "Help, I have been charmed by the iPhone Air",
+            "bullets": [
+              "Like my colleague Julie Bort, I’ve always waited to upgrade my phone until it’s absolutely necessary.",
+              "But then, the iPhone Air came along.",
+              "Apple’s new iPhone 17 line is impressive in its own right, but this generation of devices marks the first time that Apple has made an iPhone Air.",
+              "Like the MacBook Air, it’s a thinner, sleeker device, which emphasizes style over its tech specs.",
+              "While I can appreciate a state-of-the-art chip, what really makes me want to buy a new phone is that it looks cool.",
+              "And boy, is that iPhone Air cool."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Claude’s new AI file creation feature ships with deep security risks built in",
+            "link": "https://arstechnica.com/information-technology/2025/09/anthropics-new-claude-feature-can-leak-data-users-told-to-monitor-chats-closely/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6af0da92052cd128657827fc4f197b6e8fd71863"
+          },
+          "review": {
+            "headline_rewrite": "Claude’s new AI file creation feature ships with deep security risks built in",
+            "bullets": [
+              "On Tuesday, Anthropic launched a new file creation feature for its Claude AI assistant that enables users to generate Excel spreadsheets, PowerPoint presentations, and other documents directly within conversations on the web interface and in the Claude desktop app.",
+              "While the feature may be handy for Claude users, the company's support documentation also warns that it \"may put your data at risk\" and details how the AI assistant can be manipulated to transmit user data to external servers.",
+              "It's currently available as a preview for Max, Team, and Enterprise plan users, with Pro users scheduled to receive access \"in the coming weeks,\" according to the announcement.",
+              "The security issue comes from the fact that the new feature gives Claude access to a sandbox computing environment, which enables it to download packages and run code to create files.",
+              "\"Monitor chats closely when using this feature.\"\nAccording to Anthropic's documentation, \"a bad actor\" manipulating this feature could potentially \"inconspicuously add instructions via external files or websites\" that manipulate Claude into \"reading sensitive data from a claude.ai connected knowledge source\" and \"using the sandbox environment to make an external network request to leak the data.\"\nThis describes a prompt injection attack, where hidden instructions embedded in seemingly innocent content can manipulate the AI model's behavior—a vulnerability that security researchers first documented in 2022.",
+              "These attacks represent a pernicious, unsolved security flaw of AI language models, since both data and instructions in how to process it are fed through as part of the \"context window\" to the model in the same format, making it difficult for the AI to distinguish between legitimate instructions and malicious commands hidden in user-provided content."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold",
+            "link": "https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected",
+            "site_name": "The Verge",
+            "novelty_hash": "831503eae36df1376cdca94d1d4fd7cd91816a70"
+          },
+          "review": {
+            "headline_rewrite": "Judge puts Anthropic&#8217;s $1.5 billion book piracy settlement on hold",
+            "bullets": [
+              "Anthropic’s $1.5 billion book piracy settlement has been put on pause after the federal judge overseeing the class action case raised concerns about the terms of the agreement.",
+              "Judge puts Anthropic’s $1.5 billion book piracy settlement on hold\nA federal judge has raised concerns about the terms of the settlement, which would give authors around $3,000 for each book Anthropic is accused of stealing.",
+              "Anthropic agreed to pay the landmark settlement last week, putting to rest a class action lawsuit from US authors that accused the AI company of training its models on hundreds of thousands of copyrighted books.",
+              "Judge Alsup let the class action lawsuit move forward after ruling that Anthropic training its AI models on purchased books counts as fair use, but that it could be liable for training on illegally downloaded work.",
+              "In addition to his concerns over authors being strong-armed into signing a deal, Alsup says he needs to review more information about the claims process outlined in the settlement.",
+              "“I have an uneasy feeling about hangers on with all this money on the table,” Alsup said, as reported by Bloomberg Law."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights",
+            "link": "https://www.wired.com/story/eff-cindy-cohn-stepping-down/",
+            "site_name": "WIRED",
+            "novelty_hash": "08654401bebecda5cb60ba7fe9e4552a64286c70"
+          },
+          "review": {
+            "headline_rewrite": "Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights",
+            "bullets": [
+              "Over the past decade, EFF has expanded its influence, becoming a central force in shaping the debate over privacy, security, and digital freedom.",
+              "In an interview with WIRED, Cohn reflected on EFF’s foundational encryption victories, its unfinished battles against National Security Agency (NSA) surveillance, and the organization’s work protecting independent security researchers.",
+              "Though stepping down from leadership, Cohn tells WIRED she plans to remain active in the fight against mass surveillance and government secrecy.",
+              "The fights that we've had around the NSA and national security, those are still works in progress.",
+              "A related question is the government's misuse of national security justifications to violate people's rights, including their privacy.",
+              "I think it's especially important now that we do something about the misuse of national security arguments and secrecy, because in the hands of the Trump administration, it's become an all-purpose tool to go after political enemies, violate people’s rights, and to do so many other things that we have been warning about for years."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine",
+            "link": "https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/",
+            "site_name": "WIRED",
+            "novelty_hash": "1991d9121ba11dc09063d5a0e9df05341ab51694"
+          },
+          "review": {
+            "headline_rewrite": "Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine",
+            "bullets": [
+              "At the WIRED Health summit on Tuesday, Moderna CEO Stéphane Bancel said the recent changes to Covid-19 vaccine policy made by Health and Human Services secretary Robert F.",
+              "are a “step backward.”\n“I think it complicates things for people,” Bancel said.",
+              "“You might have somebody in your household—a parent, a spouse, a kid—who is at high risk” that you want to protect, he said.",
+              "Kennedy has been on a crusade against vaccines since he stepped into the role of HHS secretary in February; earlier this week, the Senate Finance Committee grilled him about his actions in office so far.",
+              "Bird flu is widespread in wild birds and has been causing outbreaks in poultry and US dairy cows since March 2024.",
+              "In June, the FDA said it would require new labels on mRNA vaccines to include safety information about the risks of myocarditis and pericarditis, rare side effects observed mostly in young men following administration of the shots."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
