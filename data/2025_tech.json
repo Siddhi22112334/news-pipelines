@@ -10845,6 +10845,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:43": [
+        {
+          "item": {
+            "title": "‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility",
+            "link": "https://blogs.nvidia.com/?p=84659",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "80d76043b94e821c516d0af62188f0a52596d1c3"
+          },
+          "review": {
+            "headline_rewrite": "‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility",
+            "bullets": [
+              "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car AI platforms are bringing new levels of safety, intelligence and trust to the road.",
+              "NVIDIA and its partners didn’t just show off cars at the conference — they showed off what cars are becoming: AI-defined machines, built as much in the data center as they are in the factory.",
+              "In Germany and around the world, automotive engineering is now infused with silicon acceleration, as automakers and suppliers adopt NVIDIA’s cloud-to-car platform to drive safety, intelligence and efficiency into tomorrow’s vehicles.",
+              "Its three AI compute platforms critical for autonomy are:\n- NVIDIA DGX for training AI in data centers\n- NVIDIA Omniverse and Cosmos to simulate worlds and generate synthetic data for testing and validation\n- NVIDIA DRIVE AGX in-vehicle computers to process sensor data in real time\nTogether, these platforms form a feedback loop for learning, testing and deployment that tightens the cycle of innovation while keeping safety front and center.",
+              "NVIDIA Halos is a full-stack, comprehensive safety system that unifies vehicle architecture, AI models, chips, software, tools and services to ensure the safe development of autonomous vehicles, from cloud to car.",
+              "NVIDIA Halos brings together safety-assessed systems-on-a-chip, the safety-certified NVIDIA DriveOS operating system and the DRIVE AGX Hyperion architecture into a unified platform for autonomous driving."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The latest Google AI literacy resources all in one place",
+            "link": "https://blog.google/outreach-initiatives/education/google-ai-literacy-tools-2025/",
+            "site_name": "Google",
+            "novelty_hash": "be693740b491dca787ad3d71cc1944d6a1ee2ef0"
+          },
+          "review": {
+            "headline_rewrite": "The latest Google AI literacy resources all in one place",
+            "bullets": [
+              "The latest Google AI literacy resources all in one place\nAs an educator for over two decades and a parent of a second grader, I'm encouraged by how new AI-powered tools can address many of the daily challenges I once faced in the classroom.",
+              "Of course, the ability to use these new tools to effectively support learning outcomes requires training.",
+              "At Google, we believe it's our responsibility to support students, teachers and schools in using the power of AI.",
+              "That’s why, alongside our research-backed AI learning features, we’re continuing to invest in AI literacy programs and resources that can now be easily accessed in our new AI Literacy hub.",
+              "Here is a look at some of our latest AI resources and learning tools for parents and guardians, students and educators:\nAI literacy for parents and guardians\nParents and guardians play a critical role in supporting kids’ and teens’ responsible and effective use of AI, which is why we’re launching new resources to support families.",
+              "- Introducing a new podcast for parents: Tune into “Raising kids in the age of AI,” a new podcast created by The AI Education Project (aiEDU) in collaboration with Google."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI Quests: Bringing AI literacy to the classroom",
+            "link": "https://blog.google/outreach-initiatives/education/ai-quests/",
+            "site_name": "Google",
+            "novelty_hash": "cee4696a05128eb9b6a2f4f5efdd5382dd2ce730"
+          },
+          "review": {
+            "headline_rewrite": "AI Quests: Bringing AI literacy to the classroom",
+            "bullets": [
+              "AI Quests: Bringing AI literacy to the classroom\nToday, we’re launching a fun new way for students to learn firsthand about how AI can address real-world challenges.",
+              "Created by Google Research in collaboration with the Stanford Accelerator for Learning, AI Quests invites students ages 11 to 14 to step into the shoes of Google researchers, applying AI across climate, health and science.",
+              "It’s our latest effort around AI literacy in classrooms, not only teaching the next generation how to use the technology, but also inspiring them to use AI to make a positive impact on their world.",
+              "In AI Quests, students explore the fundamentals of AI and its applications through a series of immersive adventures.",
+              "In the first quest, live today and inspired by our Flood Forecasting research, students learn how AI can help predict floods and give communities timely flood warnings.",
+              "Students must collect relevant data sources, like rainfall and river flow, evaluate the quality of the data and train and test their model."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia unveils new GPU designed for long-context inference",
+            "link": "https://techcrunch.com/2025/09/09/nvidia-unveils-new-gpu-designed-for-long-context-inference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "131c0e2b52f4d3b98ac6e6569c47cea92cadba01"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia unveils new GPU designed for long-context inference",
+            "bullets": [
+              "At the AI Infrastructure Summit on Tuesday, Nvidia announced a new GPU called the Rubin CPX, designed for context windows larger than 1 million tokens.",
+              "Part of the chip giant’s forthcoming Rubin series, the CPX is optimized for processing large sequences of context and is meant to be used as part of a broader “disaggregated inference” infrastructure approach.",
+              "The Rubin CPX is slated to be available at the end of 2026."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Smart ring maker Oura’s CEO addresses recent backlash, says future is a ‘cloud of wearables’",
+            "link": "https://techcrunch.com/2025/09/09/smart-ring-maker-ouras-ceo-addresses-recent-backlash-says-future-is-a-cloud-of-wearables/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "92a91181e9c55ec020cb7890e048dae5dde718ec"
+          },
+          "review": {
+            "headline_rewrite": "Smart ring maker Oura’s CEO addresses recent backlash, says future is a ‘cloud of wearables’",
+            "bullets": [
+              "Oura CEO Tom Hale is trying to set the record straight about the smart ring maker’s partnership with the Department of Defense (DoD) and data miner Palantir, which is used by defense, intelligence, and law enforcement agencies in the United States and elsewhere.",
+              "At the Fortune Brainstorm Tech conference on Monday, Hale’s interview started off with a bang with his outright denial that the company was sharing user data with the government.",
+              "“There was a lot of misinformation about this,” he said, referring to the numerous influencer-driven reports that led to a viral backlash against the health tracker.",
+              "Hale had already gone online to address the misleading reports and subsequent PR backlash, assuring users in his first-ever TikTok video that the company didn’t sell their data to third parties “without your explicit consent.”\nInstead, he explained that the DoD program Oura is involved in requires the company to run its enterprise solution in a separate, secure environment and that the government does not have access to users’ Oura health data.",
+              "We will never sell your data to anyone ever.” He said the reports spreading online that Oura partnered with the U.S.",
+              "In addition, he attempted to clear up confusion over the company’s relationship with Palantir, saying that calling it a “partnership” was “a bit of a strong sell.”\nInstead, Hale explained that Oura had acquired a company last year that had a SaaS (software-as-a-service) relationship with Palantir — meaning a business contract rather than a data-sharing agreement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "All the news from Apple’s iPhone 17 keynote",
+            "link": "https://www.theverge.com/news/772434/apple-iphone-17-event-news",
+            "site_name": "The Verge",
+            "novelty_hash": "b3f70930d511a6395b7e1ed0dc9f956dc5e0b4db"
+          },
+          "review": {
+            "headline_rewrite": "All the news from Apple’s iPhone 17 keynote",
+            "bullets": [
+              "Apple is ready to announce the iPhone 17 line, and this promises to be a bigger launch than most.",
+              "We’re expecting a major redesign to the cameras and looking forward to an entirely new addition to the lineup: the extra-thin iPhone 17 Air.",
+              "New AirPods Pro 3 should round out the launch, potentially adding heart rate monitoring for the first time.",
+              "I’m betting we’ll get: iPhone 17s, iPhone Air.",
+              "New Watches, new AirPods.",
+              "(I am oddly more excited about new AirPods than any other device this year.) From what Bloomberg and others have reported, there might be a big focus on cases and accessories."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
