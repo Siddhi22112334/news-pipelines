@@ -10723,6 +10723,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:15": [
+        {
+          "item": {
+            "title": "‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility",
+            "link": "https://blogs.nvidia.com/blog/iaa-mobility-ai-defined-vehicles/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "80d76043b94e821c516d0af62188f0a52596d1c3"
+          },
+          "review": {
+            "headline_rewrite": "‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility",
+            "bullets": [
+              "At this week’s IAA Mobility conference in Munich, NVIDIA Vice President of Automotive Ali Kani outlined how cloud-to-car AI platforms are bringing new levels of safety, intelligence and trust to the road.",
+              "NVIDIA and its partners didn’t just show off cars at the conference — they showed off what cars are becoming: AI-defined machines, built as much in the data center as they are in the factory.",
+              "In Germany and around the world, automotive engineering is now infused with silicon acceleration, as automakers and suppliers adopt NVIDIA’s cloud-to-car platform to drive safety, intelligence and efficiency into tomorrow’s vehicles.",
+              "Its three AI compute platforms critical for autonomy are:\n- NVIDIA DGX for training AI in data centers\n- NVIDIA Omniverse and Cosmos to simulate worlds and generate synthetic data for testing and validation\n- NVIDIA DRIVE AGX in-vehicle computers to process sensor data in real time\nTogether, these platforms form a feedback loop for learning, testing and deployment that tightens the cycle of innovation while keeping safety front and center.",
+              "NVIDIA Halos is a full-stack, comprehensive safety system that unifies vehicle architecture, AI models, chips, software, tools and services to ensure the safe development of autonomous vehicles, from cloud to car.",
+              "NVIDIA Halos brings together safety-assessed systems-on-a-chip, the safety-certified NVIDIA DriveOS operating system and the DRIVE AGX Hyperion architecture into a unified platform for autonomous driving."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+            "link": "https://blogs.nvidia.com/blog/mlperf-inference-blackwell-ultra/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "48ab85486606c9fb447996ac3a42f8560ad3282c"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+            "bullets": [
+              "Inference performance is critical, as it directly influences the economics of an AI factory.",
+              "The higher the throughput of AI factory infrastructure, the more tokens it can produce at a high speed — increasing revenue, driving down total cost of ownership (TCO) and enhancing the system’s overall productivity.",
+              "Blackwell Ultra builds on the success of the Blackwell architecture, with the Blackwell Ultra architecture featuring 1.5x more NVFP4 AI compute and 2x more attention-layer acceleration than Blackwell, as well as up to 288GB of HBM3e memory per GPU.",
+              "The NVIDIA platform also set performance records on all new data center benchmarks added to the MLPerf Inference v5.1 suite — including DeepSeek-R1, Llama 3.1 405B Interactive, Llama 3.1 8B and Whisper — while continuing to hold per-GPU records on every MLPerf data center benchmark.",
+              "In concert with the open-source NVIDIA TensorRT-LLM library, this optimization enabled Blackwell and Blackwell Ultra to deliver higher performance while meeting strict accuracy requirements in submissions.",
+              "This technique was key to record-setting performance on the Llama 3.1 405B Interactive benchmark, helping to deliver a nearly 50% increase in performance per GPU with GB200 NVL72 systems compared with each Blackwell GPU in an NVIDIA DGX B200 server running the benchmark with traditional serving."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The latest Google AI literacy resources all in one place",
+            "link": "https://blog.google/outreach-initiatives/education/google-ai-literacy-tools-2025/",
+            "site_name": "Google",
+            "novelty_hash": "be693740b491dca787ad3d71cc1944d6a1ee2ef0"
+          },
+          "review": {
+            "headline_rewrite": "The latest Google AI literacy resources all in one place",
+            "bullets": [
+              "The latest Google AI literacy resources all in one place\nAs an educator for over two decades and a parent of a second grader, I'm encouraged by how new AI-powered tools can address many of the daily challenges I once faced in the classroom.",
+              "Of course, the ability to use these new tools to effectively support learning outcomes requires training.",
+              "At Google, we believe it's our responsibility to support students, teachers and schools in using the power of AI.",
+              "That’s why, alongside our research-backed AI learning features, we’re continuing to invest in AI literacy programs and resources that can now be easily accessed in our new AI Literacy hub.",
+              "Here is a look at some of our latest AI resources and learning tools for parents and guardians, students and educators:\nAI literacy for parents and guardians\nParents and guardians play a critical role in supporting kids’ and teens’ responsible and effective use of AI, which is why we’re launching new resources to support families.",
+              "- Introducing a new podcast for parents: Tune into “Raising kids in the age of AI,” a new podcast created by The AI Education Project (aiEDU) in collaboration with Google."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI Quests: Bringing AI literacy to the classroom",
+            "link": "https://blog.google/outreach-initiatives/education/ai-quests/",
+            "site_name": "Google",
+            "novelty_hash": "cee4696a05128eb9b6a2f4f5efdd5382dd2ce730"
+          },
+          "review": {
+            "headline_rewrite": "AI Quests: Bringing AI literacy to the classroom",
+            "bullets": [
+              "AI Quests: Bringing AI literacy to the classroom\nToday, we’re launching a fun new way for students to learn firsthand about how AI can address real-world challenges.",
+              "Created by Google Research in collaboration with the Stanford Accelerator for Learning, AI Quests invites students ages 11 to 14 to step into the shoes of Google researchers, applying AI across climate, health and science.",
+              "It’s our latest effort around AI literacy in classrooms, not only teaching the next generation how to use the technology, but also inspiring them to use AI to make a positive impact on their world.",
+              "In AI Quests, students explore the fundamentals of AI and its applications through a series of immersive adventures.",
+              "In the first quest, live today and inspired by our Flood Forecasting research, students learn how AI can help predict floods and give communities timely flood warnings.",
+              "Students must collect relevant data sources, like rainfall and river flow, evaluate the quality of the data and train and test their model."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Flexible work update",
+            "link": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "fc8aa3377df3c6f3d9c291bfd865159dcfdcb49b"
+          },
+          "review": {
+            "headline_rewrite": "Flexible work update",
+            "bullets": [
+              "In the AI era, we are moving faster than ever, building world-class technology that changes how people live and work, and how organizations everywhere operate.",
+              "As we build the AI products that will define this era, we need the kind of energy and momentum that comes from smart people working side by side, solving challenging problems together.",
+              "We’ll roll this out in three phases: 1) starting in Puget Sound at the end of February; 2) expanding to other US locations; 3) then launching outside the US.",
+              "Our goal with this change is to provide more clarity and consistency in how we come together, while maintaining the flexibility we know you value.",
+              "As part of these updates, we’re also enhancing our workplace safety and security measures so we can continue to provide a workplace where every employee can do their best work.",
+              "You’ll receive a personalized email today with more details."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Intelligence: Everything you need to know about Apple’s AI model and services",
+            "link": "https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7534ec30f01792a6aa316e2c1ac5e98e52278a72"
+          },
+          "review": {
+            "headline_rewrite": "Apple Intelligence: Everything you need to know about Apple’s AI model and services",
+            "bullets": [
+              "If you’ve upgraded to a newer iPhone model recently, you’ve probably noticed that Apple Intelligence is showing up in some of your most-used apps, like Messages, Mail, and Notes.",
+              "Apple Intelligence (yes, also abbreviated to AI) showed up in Apple’s ecosystem in October 2024, and it’s here to stay as Apple competes with Google, OpenAI, Anthropic, and others to build the best AI tools.",
+              "Cupertino marketing executives have branded Apple Intelligence: “AI for the rest of us.” The platform is designed to leverage the things that generative AI already does well, like text and image generation, to improve upon existing features.",
+              "Like other platforms including ChatGPT and Google Gemini, Apple Intelligence was trained on large information models.",
+              "The text offering, powered by LLM, presents itself as Writing Tools.",
+              "The feature is available across various Apple apps, including Mail, Messages, Pages and Notifications."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
