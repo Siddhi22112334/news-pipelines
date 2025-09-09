@@ -10484,6 +10484,123 @@
             "impact": "Positive"
           }
         }
+      ],
+      "21:11": [
+        {
+          "item": {
+            "title": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+            "link": "https://blogs.nvidia.com/blog/mlperf-inference-blackwell-ultra/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "48ab85486606c9fb447996ac3a42f8560ad3282c"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+            "bullets": [
+              "Inference performance is critical, as it directly influences the economics of an AI factory.",
+              "The higher the throughput of AI factory infrastructure, the more tokens it can produce at a high speed — increasing revenue, driving down total cost of ownership (TCO) and enhancing the system’s overall productivity.",
+              "Blackwell Ultra builds on the success of the Blackwell architecture, with the Blackwell Ultra architecture featuring 1.5x more NVFP4 AI compute and 2x more attention-layer acceleration than Blackwell, as well as up to 288GB of HBM3e memory per GPU.",
+              "The NVIDIA platform also set performance records on all new data center benchmarks added to the MLPerf Inference v5.1 suite — including DeepSeek-R1, Llama 3.1 405B Interactive, Llama 3.1 8B and Whisper — while continuing to hold per-GPU records on every MLPerf data center benchmark.",
+              "In concert with the open-source NVIDIA TensorRT-LLM library, this optimization enabled Blackwell and Blackwell Ultra to deliver higher performance while meeting strict accuracy requirements in submissions.",
+              "This technique was key to record-setting performance on the Llama 3.1 405B Interactive benchmark, helping to deliver a nearly 50% increase in performance per GPU with GB200 NVL72 systems compared with each Blackwell GPU in an NVIDIA DGX B200 server running the benchmark with traditional serving."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Flexible work update",
+            "link": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "fc8aa3377df3c6f3d9c291bfd865159dcfdcb49b"
+          },
+          "review": {
+            "headline_rewrite": "Flexible work update",
+            "bullets": [
+              "In the AI era, we are moving faster than ever, building world-class technology that changes how people live and work, and how organizations everywhere operate.",
+              "As we build the AI products that will define this era, we need the kind of energy and momentum that comes from smart people working side by side, solving challenging problems together.",
+              "We’ll roll this out in three phases: 1) starting in Puget Sound at the end of February; 2) expanding to other US locations; 3) then launching outside the US.",
+              "Our goal with this change is to provide more clarity and consistency in how we come together, while maintaining the flexibility we know you value.",
+              "As part of these updates, we’re also enhancing our workplace safety and security measures so we can continue to provide a workplace where every employee can do their best work.",
+              "You’ll receive a personalized email today with more details."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
+            "link": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "54d133c4cb6d12bb6a1df8a9f1c65282c4d77aba"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
+            "bullets": [
+              "At this week’s AI Infrastructure Summit in Silicon Valley, NVIDIA’s VP of Accelerated Computing Ian Buck unveiled a bold new vision: the transformation of traditional data centers into fully integrated AI factories.",
+              "As part of this initiative, NVIDIA is developing reference designs to be shared with partners and enterprises worldwide — offering an NVIDIA Omniverse Blueprint for building high-performance, energy-efficient infrastructure optimized for the age of AI reasoning.",
+              "It’s a natural evolution for the company, scaling beyond chips and systems into a new class of industrial products — so complex and interconnected that no single player can build them alone.",
+              "NVIDIA, along with a deep bench of industrial and technology partners, is reactivating decades of infrastructure expertise to build this new class of AI factories.",
+              "The embodiment of the reference design will be a digital twin of the AI factory.",
+              "The new initiative expands the digital twin to integrate local power generation, energy storage systems, cooling technology and AI agents for operations."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How we built satellite SOS for Pixel Watch 4",
+            "link": "https://blog.google/products/pixel/pixel-watch-satellite-sos/",
+            "site_name": "Google",
+            "novelty_hash": "b29c8d6b8dbc53b1bb760ef0076302753f34ba5c"
+          },
+          "review": {
+            "headline_rewrite": "How we built satellite SOS for Pixel Watch 4",
+            "bullets": [
+              "How we built satellite SOS for Pixel Watch 4\nBuilding satellite SOS for a smaller surface for the first time\nThe product team designed a system so that if a person attempts to call 911 and terrestrial service is unavailable, the watch automatically switches over and offers the satellite option.",
+              "If that person then opts for satellite, an initial questionnaire gathers vital information about the emergency.",
+              "(If you accidentally enable it, you simply hit “end satellite mode” to stop the process.) “You can't have any other app running and you can’t just back out — emergencies can be stressful, so we wanted to make it easier to focus on getting help,” Sharath explains.",
+              "You eventually end the session by selecting the option that says “help has arrived” or “I don’t need help anymore.”\nBringing emergency help to more people\nThis new feature will certainly offer peace of mind to adventurers.",
+              "“Large parts of the country aren’t fully covered by LTE,” he explains."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Intelligence: Everything you need to know about Apple’s AI model and services",
+            "link": "https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "501e2cc3b19624c553c249489d70fd676bcb9852"
+          },
+          "review": {
+            "headline_rewrite": "Apple Intelligence: Everything you need to know about Apple’s AI model and services",
+            "bullets": [
+              "If you’ve upgraded to a newer iPhone model recently, you’ve probably noticed that Apple Intelligence is showing up in some of your most-used apps, like Messages, Mail, and Notes.",
+              "Apple Intelligence (yes, also abbreviated to AI) showed up in Apple’s ecosystem in October 2024, and it’s here to stay as Apple competes with Google, OpenAI, Anthropic, and others to build the best AI tools.",
+              "Cupertino marketing executives have branded Apple Intelligence: “AI for the rest of us.” The platform is designed to leverage the things that generative AI already does well, like text and image generation, to improve upon existing features.",
+              "Like other platforms including ChatGPT and Google Gemini, Apple Intelligence was trained on large information models.",
+              "The text offering, powered by LLM, presents itself as Writing Tools.",
+              "The feature is available across various Apple apps, including Mail, Messages, Pages and Notifications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New emojis will include Bigfoot, orca whale, treasure chest and more",
+            "link": "https://techcrunch.com/2025/09/09/new-emojis-will-include-bigfoot-orca-whale-treasure-chest-and-more/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "740dbf9a47be3e34f7065e9968ef3b185251b28a"
+          },
+          "review": {
+            "headline_rewrite": "New emojis will include Bigfoot, orca whale, treasure chest and more",
+            "bullets": [
+              "The new emojis include a trombone, a treasure chest, an eyes-bulging face, a fight cloud, an apple core, an orca whale, a gender-neutral ballet dancer, a landslide, and Bigfoot.",
+              "Now, you can illustrate even the most bizarre of situations — we’ve all had that very relatable moment when you’re taking a long trek up a mountain and suddenly, you find a buried treasure, at which your eyes bulge out and you suddenly notice a clearing where orcas are jumping in the distance, while ballerinas dance to trombone music."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
