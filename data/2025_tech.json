@@ -11079,6 +11079,118 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:50": [
+        {
+          "item": {
+            "title": "Apple launches iPhone 17 Pro with major camera upgrades",
+            "link": "https://techcrunch.com/2025/09/09/apple-launches-iphone-17-pro-with-major-camera-upgrades/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "631278758905bdfa7a9043bf6ae375aaac90f669"
+          },
+          "review": {
+            "headline_rewrite": "Apple launches iPhone 17 Pro with major camera upgrades",
+            "bullets": [
+              "Apple launched the iPhone 17 Pro and the iPhone 17 Pro Max today with a new design and an upgraded camera system.",
+              "The devices are powered by the new A19 Pro chipset and have a larger battery, Apple said.",
+              "The company said it designed a new vapor chamber thermal system along with the new unibody.",
+              "The company is upgrading the telephoto camera from a 12-megapixel sensor to a 48-megapixel sensor.",
+              "This is lower than 100x offered by Google or Samsung, but it is not clear if Apple is doing digital regeneration using AI like those companies.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia unveils new GPU designed for long-context inference",
+            "link": "https://techcrunch.com/2025/09/09/nvidia-unveils-new-gpu-designed-for-long-context-inference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "131c0e2b52f4d3b98ac6e6569c47cea92cadba01"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia unveils new GPU designed for long-context inference",
+            "bullets": [
+              "At the AI Infrastructure Summit on Tuesday, Nvidia announced a new GPU called the Rubin CPX, designed for context windows larger than 1 million tokens.",
+              "Part of the chip giant’s forthcoming Rubin series, the CPX is optimized for processing large sequences of context and is meant to be used as part of a broader “disaggregated inference” infrastructure approach.",
+              "The Rubin CPX is slated to be available at the end of 2026."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s macOS Tahoe 26 update releases September 15th",
+            "link": "https://www.theverge.com/news/772630/apple-macos-tahoe-26-update-launch-iphone-event",
+            "site_name": "The Verge",
+            "novelty_hash": "ed94acfa56d7db99384ccd92176ac63787e2ee63"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s macOS Tahoe 26 update releases September 15th",
+            "bullets": [
+              "Apple’s big, Liquid Glass-ified update for macOS is coming out of beta and finally launching September 15th.",
+              "It also introduces new customizable theming options and some power-user features for Spotlight, allowing you to take action with apps by just typing into the launcher."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Judge: Anthropic’s $1.5B settlement is being shoved “down the throat of authors”",
+            "link": "https://arstechnica.com/tech-policy/2025/09/judge-anthropics-1-5b-settlement-is-being-shoved-down-the-throat-of-authors/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2eeaebce6ba04a3288cfc5516a169707564490ea"
+          },
+          "review": {
+            "headline_rewrite": "Judge: Anthropic’s $1.5B settlement is being shoved “down the throat of authors”",
+            "bullets": [
+              "At a hearing Monday, US District Judge William Alsup blasted a proposed $1.5 billion settlement over Anthropic's rampant piracy of books to train AI.",
+              "The proposed settlement comes in a case where Anthropic could have owed more than $1 trillion in damages after Alsup certified a class that included up to 7 million claimants whose works were illegally downloaded by the AI company.",
+              "Defector noted that the settlement doesn't even require Anthropic to admit wrongdoing, while the company continues raising billions based on models trained on authors' works.",
+              "Most recently, Anthropic raised $13 billion in a funding round, making back about 10 times the proposed settlement amount after announcing the deal.",
+              "Alsup expressed grave concerns that lawyers rushed the deal, which he said now risks being shoved \"down the throat of authors,\" Bloomberg Law reported.",
+              "The judge said he was \"disappointed that counsel have left important questions to be answered in the future,\" seeking approval for the settlement despite the Works List, the Class List, the Claim Form, and the process for notification, allocation, and dispute resolution all remaining unresolved."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple will launch watchOS 26 on September 15th",
+            "link": "https://www.theverge.com/news/772968/apple-watch-watchos-26-release-date-upgrade-september-15",
+            "site_name": "The Verge",
+            "novelty_hash": "7b3824faf25c4aa0648e2728ce52015d428afe22"
+          },
+          "review": {
+            "headline_rewrite": "Apple will launch watchOS 26 on September 15th",
+            "bullets": [
+              "First announced at WWDC 2025, watchOS 26 has already been available to developers and those willing to try the public betas, but starting on September 15th it will be available to everyone — or at least those with an Apple Watch Series 6 or onward, the second-generation Apple Watch SE, or any of the premium Apple Watch Ultra models.",
+              "Apple will launch watchOS 26 on September 15th\nThe update brings a new wrist flick gesture to the Apple Watch, plus Apple’s Liquid Glass design language.",
+              "It will be limited to the Apple Watch Series 9 or later, but by flicking your Apple Watch away and back again, you can quickly dismiss incoming calls and notifications, silence timers and alarms, or jump back to your watchface."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New AirPods Pro 3 turn Apple’s earbuds into fitness tracker, universal translator",
+            "link": "https://arstechnica.com/gadgets/2025/09/new-airpods-pro-3-turn-apples-earbuds-into-fitness-tracker-universal-translator/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "94910b611fb0ef664e570c8fa9ac8a5bf84c6a21"
+          },
+          "review": {
+            "headline_rewrite": "New AirPods Pro 3 turn Apple’s earbuds into fitness tracker, universal translator",
+            "bullets": [
+              "CUPERTINO, Calif.—Apple's popular AirPods Pro in-ear headphones are getting a substantial upgrade.",
+              "The new model, dubbed AirPods Pro 3, greatly improves active noise cancellation (ANC), performs live translations, and tracks your heart rate like a fitness wearable.",
+              "This will have to be subjected to third-party testing, but Apple made some intriguing claims about AirPods Pro 3's performance during its iPhone and Apple Watch announcement today.",
+              "Namely, that they'll have twice the ANC performance as AirPods Pro 2 and four times as much as the original AirPods Pro.",
+              "Additionally, Apple claims that voices will sound \"more natural\" in Transparency, the mode meant to allow nearby sounds to be heard even while you have the earbuds in.",
+              "Apple says AirPods Pro 3 will last up to eight hours while listening to music with ANC, and up to 10 hours in transparency with the hearing aid mode enabled."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
