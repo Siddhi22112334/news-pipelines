@@ -8944,6 +8944,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "14:16": [
+        {
+          "item": {
+            "title": "Windows 11 SSD issues blamed on reviewers using &#8216;early versions of firmware&#8217;",
+            "link": "https://www.theverge.com/report/774201/phison-windows-11-ssd-issues-early-firmware",
+            "site_name": "The Verge",
+            "novelty_hash": "92e88e0dad00e7c6606316c9b90e160230b652ef"
+          },
+          "review": {
+            "headline_rewrite": "Windows 11 SSD issues blamed on reviewers using &#8216;early versions of firmware&#8217;",
+            "bullets": [
+              "Reports have been circulating for the past few weeks that recent Windows 11 updates (KB5063878 and KB5062660) were causing some SSDs using Phison controllers to fail.",
+              "Windows 11 SSD issues blamed on reviewers using ‘early versions of firmware’\nReports had suggested Windows 11 security updates were behind some recent SSD issues.",
+              "We have observed that outdated firmware is still being used on some SSDs and we encourage any reviewers facing this to leverage updated channel firmware readily available through manufacturer-provided update utilities.”\nYouTuber JayzTwoCents claimed last week that the “Windows update and SSD problem is WAY worse than we thought!” JayzTwoCents showed a Crucial T500 drive (with a Phison E25 controller) failing after Microsoft’s latest Windows 11 security updates, and needing a power cycle to come back to life.",
+              "was utilizing an engineering preview firmware, which is not the final firmware used in the Corsair Force Series MP600 SSD 2TB and other drives with the E16 controller available for sale to consumers on the market,” explains Wu.",
+              "Phison also performed the same tests on consumer SSDs and found no crashes or failures.",
+              "Microsoft said late last month that it had “found no connection” between its security updates and the drive failures reported on social media and elsewhere."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "It’s time to change your Plex password again",
+            "link": "https://www.theverge.com/news/774188/plex-breach-change-password-email",
+            "site_name": "The Verge",
+            "novelty_hash": "be3ad3c3a2381b243b50ddaca211156c243ee505"
+          },
+          "review": {
+            "headline_rewrite": "It’s time to change your Plex password again",
+            "bullets": [
+              "The Plex media streaming platform has been breached in what looks to be a repeat of a 2022 incident that saw authentication data and encrypted passwords compromised.",
+              "In an email sent to users titled “Action required: Notice of a potential security incident,” Plex says a database was accessed by “an unauthorized third party” exposing emails, usernames, and hashed passwords for a “limited subset” of customers.",
+              "Here’s the full email sent to Plex users this morning:\nWe have recently experienced a security incident that may potentially involve your Plex account information.",
+              "We believe the actual impact of this incident is limited; however, action is required from you to ensure your account remains secure.",
+              "While we quickly contained the incident, information that was accessed included emails, usernames, and securely hashed passwords.Any account passwords that may have been accessed were securely hashed, in accordance with best practices, meaning they cannot be read by a third party.",
+              "What we’re doing\nWe’ve already addressed the method that this third party used to gain access to the system, and we’re undergoing additional reviews to ensure that the security of all of our systems is further hardened to prevent future attacks.What you must do\nWe kindly request that you reset your Plex account password immediately by visiting https://plex.tv/reset."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best DACs for Apple Music Lossless in 2025",
+            "link": "https://www.engadget.com/audio/the-best-dac-for-lossless-high-resolution-music-iphone-android-160056147.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f7305780505f0ffb378bec2b08c3ea95595c9063"
+          },
+          "review": {
+            "headline_rewrite": "The best DACs for Apple Music Lossless in 2025",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Every product listed below will help you squeeze more audio quality out of your Apple Music subscription.",
+              "There are still some hardware hurdles though, especially if you use AirPods (or any wireless headphones) as Bluetooth technology is theoretically capable of delivering some higher-resolution audio, and Apple products don’t support the required technology (codecs such as Aptx, LDAC etc.).",
+              "Although these options are wireless, many can be used with a cable, too, making them the perfect pairing for our recommendations below.",
+              "Best DACs for 2025\nFiio’s affordable KA11 dongle contains a DAC with a maximum resolution of 32bit/384kHz — which is well above Apple Music’s top-tier “Hi-Res” lossless format (24bit/192kHz) — so you can be sure that you’re getting every last bit of quality out of whatever you’re listening to.",
+              "There’s even a Lightning version available for those with older iPhones and iPads."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "d3e0266e2a526c3ad7c7532c9068a294add8f771"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Eagles/NFL\nHighlights from Saquon Barkley's appearance on ESPN's 'Mannin...News Showcase\nStories selected by newsroom editors\nThe Almanac\nSep 8 2025, 3:29 PM\nMajor traffic delays after collision involving CHP motorcycle on I-280 near Alpine RoadSep 8 2025, 3:17 PM\nMasked man with ‘ghost gun’ nabbed near Atherton schoolSep 8 2025, 1:30 PM\nPeninsula inspires Liccardo to introduce federal housing legislationFort Worth & Tarrant County Headlines\nBKReader: Brooklyn Reader - Latest\n\"This is the fight,\" said Z...",
+              "Brooklyn's Flatbush Avenue to Get Major Bus OverhaulLatest news for Edmonds\nMonday Evening Update 9-8-2025\nToledo's Leader in News, Sports & Entertainment\nSAN FRANCISCO'S TOP STORIES\nPleasanton Weekly\nSep 8 2025, 3:27 PM\nKaiser nurses hold one-day strike in midst of contract talksSep 8 2025, 12:55 PM\nLivermore native stars as royal Russian in ‘Anastasia’ concertSep 8 2025, 12:01 PM\nTake Us Along: Traveling in southern AfricaNORTHEAST GEORGIA\nAPARTMENT COMPLEX EVACUATED\nFirefighter rescues woman from burning apartment in BaldwinVEHICLE FOUND IN NC\nBanks County Sheriff seeks help locating missing manRIDE REINSPECTED & REOPENED\nCarnival worker injured at Chattahoochee Mountain FairLatest and Local – Casper, WY\nMountain View Voice\nALEXANDRIA MINNESOTA NEWS\nBaltimore news to know\nTwin Cities\nMinneapolis election door-knocking dispute: Council member, park candidate feud with developerTwin Cities\n‘Well acted and well hidden’: Gun shop owner recalls Robin Westman visit days before mass shootingTwin Cities\nAppeals court rules University of St.",
+              "Thomas sports arena does not need more environmental studiesLatest Headlines\nPolitically Georgia\nWill Hyundai raid tarnish Kemp’s economic development win?Atlanta Surgeon\nDoctor who ‘changed’ John Cena’s life talks hair loss treatmentsWeekend Reflections\nPenix is Falcons quarterback to get excited aboutTop Stories from The Wilson Times\nLatest and Local – Cheyenne, WY\nBridge Michigan\nSep 8 2025, 9:55 PM\nTrump’s ed secretary in Michigan: States should embrace p...Sep 8 2025, 4:27 PM\nVaccine skepticism puts Michigan kids’ health at ri...Sep 8 2025, 4:04 PM\nBridge Lunch Break to discuss the state of education in M...Daily Dose of Neighborhood News 9.8.25\nMonday News Roundup - Evening Edition\nTop stories\nCobb Courier Evening Update September 8, 2025\nEviction notice after tragedy, LSU analysis, more\nMy Suburban Life\nAfternoon Update\nSports - High School Sports\nVote for the Daily Memphian high school player of the week, WeekSports - Memphis Tigers…\nMemphis, Arkansas set for morning kickoffMetro - City of Memphis\nCity Council talks MATA and Regional One Health rebuildQUANTUMSCOPE SPARS, APPLE EVENT NEARS\nThe Herald News\nThe Afternoon Recap (Sept.",
+              "Mary’s College, 3-2 Friends with Disabilities\nCalvert Museum Hosts Free Night College of Southern Maryland\nMatthew Knapp’s Four Goals Lift Southern Maryland to VictoryMonday Night News\nMonday's news in Fairfax County\nMorris Herald News\nCraft beer a big draw at Morris festivalMorris Herald News\nMorris Cruise Night returns Saturday benefiting Special Connections of Grundy CountyMorris Herald News\nCoal City Middle School hosts McTeacher’s Night fundraiserSUPREME COURT\nLiberal justices dissented\nSupreme Court backs Trump on aggressive immigration raids20 years under John Roberts\nA dramatic rightward turn for the Supreme Court$4 billion in aid in focus\nTrump administration asks SCOTUS to let it withhold foreign aidSan Jose Spotlight: Your search for truth starts here\nJoyce Chu\nSouth Bay could see more affordable housing under Trump billB.",
+              "13 jerseyTODAY'S TOP STORIES\nBEMIDJI MINNESOTA NEWS\nMonday's news in Arlington, Virginia\nWILLMAR MINNESOTA NEWS\nWhat Utah is buzzing about\n'Unimaginable loss'\nFamily mourns after 20-year-old man killed in Sugar House shootingUltra-exclusive Utah resort\nUtah resort featured in model Kendall Jenner's new Alo Yoga adRomney tweets about Tribune\nFormer Sen.",
+              "Mitt Romney misreads Tribune humor column Northwest Herald\nNorthwest Herald\nMcHenry High, community welcome home Honor Flight participantsNorthwest Herald\n2nd installment of property taxes in McHenry County due WednesdayNorthwest Herald\nPremium QX60 offers high-end comforts with AWD capabilityLatest news for Mountlake Terrace\nHappening in Loudoun County\nGJ Sentinel Headlines 9/8/25\nFootage used for gratification\nFormer jail commander accused of watching strip-search videos\"Fiscal recklessness\" alleged\nEmbattled commissioner says he won't resign in face of recallEasing traffic congestion\nGVT to offer free rides during temple toursThe Central Valley's News Source\nGarnet Wildfire\nFresno County Fire Grows Past 49,000 Acres in Sierra ForestFresno State Football\nFresno State Beats Oregon State 36-27 Visalia Homicide\nMultiple People Shot at Sebby’s in Visalia, One DeadThe Business Journal of the Boulder Valley and Northern Colorado\nA wrap on the day’s hard-hitting news and opinion\nToday's Rundown\nFiesta de Santa Fe\nDesfile de la Gente brings cheer after last year's police chaseAgape House Shelter\nSanta Feans give mixed reviews of Urban Alchemy's first monthRingside Seat\nHe'd come out of retirement to serve as mayorMywebtimes\nMywebtimes\nNewark volleyball runners-up, L-P Co-Op swimming champs at invites: The Times Saturday RoundupMywebtimes\nA journey back through Streator vs."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 9, 2025 Apple Awe Dropping event: Airpods Pro 3, Apple Watch Series 11, Apple Watch Ultra 3 and everything else Apple may launch beyond iPhone 17 Apple's \"Awe Dropping\" event is anticipated to unveil a range of new products beyond the iPhone 17. The event is expected to showcase the Apple Watch Ultra 3 with potential satellite connectivity and the Series 11 with a brighter screen. The AirPods Pro 3 may feature health monitoring and live translation, while a refreshed Apple Watch SE is also anticipated.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-awe-dropping-event-airpods-pro-3-apple-watch-series-11-apple-watch-ultra-3-and-everything-else-apple-may-launch-beyond-iphone-17/articleshow/123777944.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "31ff0269435057c350018e25d1ede7c92abcd796"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 9, 2025 Apple Awe Dropping event: Airpods Pro 3, Apple Watch Series 11, Apple Watch Ultra 3 and everything else Apple may launch beyond iPhone 17 Apple's \"Awe Dropping\" event is anticipated to unveil a range of new products beyond the iPhone 17. The event is expected to showcase the Apple Watch Ultra 3 with potential satellite connectivity and the Series 11 with a brighter screen. The AirPods Pro 3 may feature health monitoring and live translation, while a refreshed Apple Watch SE is also anticipated.",
+            "bullets": [
+              "Apple is gearing up for its much-awaited âAwe Droppingâ launch event today, September 9.",
+              "The event is being closely watched by tech enthusiasts and industry experts as Apple aims to expand its ecosystem with new devices and improved features.",
+              "While the spotlight will be on the next-generation\niPhone 17 lineup, but there have been rumours about several other exciting products.",
+              "According to reports, the company is expected to unveil the AirPods Pro 3, the Apple Watch Ultra 3, Apple Watch Series 11, an all new Watch SE model along with iOS 26 and more.",
+              "Hereâs a look at launches expected from todayâs Apple event other than the iPhone 17 series\nApple Watch Ultra 3\nAfter skipping big upgrades last year, Apple is expected to bring major changes with the Apple Watch Ultra 3.",
+              "The rugged watch may get a bigger display, possibly larger than the Series 10, and a new S11 chip for faster performance."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "c2cb3f5b34da9c96df06a5444a16cf6e8fb317f7"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "‘We have apologised to…’: Australia’s biggest bank decides not to replace human jobs with AI\nThe Commonwealth Bank of Australia (CBA) has backtracked on its plan to eliminate 45 customer service positions due to AI implementation, following pressure from the Finance Sector Union.",
+              "CBA admitted its assessment was flawed and offered affected employees options to remain, apply elsewhere, or exit."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
