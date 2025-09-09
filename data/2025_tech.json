@@ -11907,6 +11907,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic",
+            "link": "https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e0611748be6b8aee37c80e3669db1fa475b9d1db"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft to lessen reliance on OpenAI by buying AI from rival Anthropic",
+            "bullets": [
+              "Microsoft will pay to use Anthropic’s AI in Office 365 apps, The Information reports, citing two sources.",
+              "The move means that Anthropic’s tech will help power new features in Word, Excel, Outlook, and PowerPoint alongside OpenAI’s, marking the end of Microsoft’s previous reliance solely on the ChatGPT maker for its productivity suite.",
+              "Microsoft’s move to diversify its AI partnerships comes amid a growing rift with OpenAI, which has pursued its own infrastructure projects as well as a potential LinkedIn competitor.",
+              "Microsoft’s Anthropic deal also comes as the company negotiates a new deal with OpenAI to secure access to its AI models after a pending for-profit restructuring.",
+              "Leaders at Microsoft believe Anthropic’s latest models — Claude Sonnet 4, specifically — perform better than OpenAI’s in certain functions, like creating aesthetically pleasing PowerPoint presentations.",
+              "Meanwhile, OpenAI is also seeking to step out from under Microsoft’s influence."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal",
+            "link": "https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1737cbb1eab13e3747efb6be9be4ad6b554a528f"
+          },
+          "review": {
+            "headline_rewrite": "I want to love Apple’s new iPhone Air, but the iPhone 17 is a better deal",
+            "bullets": [
+              "But my phone’s battery and touchscreen are aging, and it doesn’t have a chip powerful enough to run the promised Apple Intelligence AI future.",
+              "Today, I was within a heartbeat of preparing to preorder the new iPhone Air.",
+              "It looked like the best of all worlds to me: bigger screen yet small enough to fit in my small hand, best chip, and only $200 more than a 17, but still cheaper than a Pro.",
+              "In the Air’s favor, it has a 6.5-inch screen, compared to the 17’s 6.3-inch, yet is lighter to hold.",
+              "It also has the A19 Pro chip, rather than A19 chip.",
+              "But oddly, this isn’t the same Pro chip that’s in the Pro phone."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Verge staffers react to the iPhone Air: what we love and don’t love",
+            "link": "https://www.theverge.com/tech/774831/iphone-air-apple-reactions-thin-camera",
+            "site_name": "The Verge",
+            "novelty_hash": "7e1b2323170d1c3e6c75f6367cc243ab8e9538de"
+          },
+          "review": {
+            "headline_rewrite": "Verge staffers react to the iPhone Air: what we love and don’t love",
+            "bullets": [
+              "Determined to give us something new to talk about, Apple has introduced its ultra-thin iPhone Air.",
+              "It’s just 5.6mm thick with a 6.5-inch ProMotion display, a 48-megapixel dual camera, a selfie camera that supports Center Stage, and an add-on MagSafe battery.",
+              "Verge staffers react to the iPhone Air: what we love and don’t love\nApple’s brand new, thinnest-ever iPhone will be shipping on September 19th.",
+              "We asked the staff of The Verge for their first impressions of the iPhone Air.",
+              "Preorders for the iPhone Air begin on Friday, September 12th, and it ships on September 19th.",
+              "The iPhone 17 Air is thin and lovely."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "As hackers exploit one high-severity SAP flaw, company warns of 3 more",
+            "link": "https://arstechnica.com/security/2025/09/as-hackers-exploit-one-high-severity-sap-flaw-company-warns-of-3-more/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "890e0455c7c51d2d8e720d5eab2d26d3f7594473"
+          },
+          "review": {
+            "headline_rewrite": "As hackers exploit one high-severity SAP flaw, company warns of 3 more",
+            "bullets": [
+              "As hackers exploit a high-severity vulnerability in SAP’s flagship Enterprise Resource Planning software product, the software maker is warning users of more than two dozen newly detected vulnerabilities in its other widely used products, including a security flaw with a maximum-severity rating of 10.",
+              "SAP on Tuesday said the highest-severity vulnerability—with a rating of 10 out of a possible 10—was found in NetWeaver, a platform that serves as the technical foundation for many of the company’s other enterprise applications.",
+              "The vulnerability, tracked as CVE-2025-42944, makes it possible for unauthenticated attackers to execute commands by submitting malicious payloads to an open port.",
+              "Word of the newly documented vulnerabilities comes five days after security firm SecurityBridge reported that a separate high-severity vulnerability SAP patched last month was under active exploitation in the wild.",
+              "That vulnerability, tracked as CVE-2025-42957 and carrying a severity rating of 9.9, resides in the SAP S/4HANA an ERP (Enterprise Resource Planning) software suite developed for managing large organizations’ complex business processes, including those for finance, accounting, and HR."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3",
+            "link": "https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/",
+            "site_name": "WIRED",
+            "novelty_hash": "e3087f5970cb9edcd549bd60ecc97dff3fee3b26"
+          },
+          "review": {
+            "headline_rewrite": "Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3",
+            "bullets": [
+              "Today, Apple revealed its new iPhone 17 lineup in regular and Pro models, as well as the new and very thin iPhone Air.",
+              "The company also showed off the new Apple Watches—Series 11, Ultra 3, and SE—and the refreshed AirPods Pro 3.",
+              "There wasn’t much talk of software, or about Apple’s ongoing efforts to seamlessly integrate AI into all its products.",
+              "Gone is the Plus model, and in its place is the iPhone Air, a new ultra-slim and lightweight iPhone that’s just 5.6 millimeters thick.",
+              "The company is claiming the same 27 hours of video playback that the iPhone 16 Plus was capable of, even though this phone is much thinner and presumably has a slimmer battery.",
+              "The highlights here are a vapor chamber cooling system that helps regulate the heat generated by the beefier processor, and a 48-megapixel telephoto camera that hits 4X optical zoom and 8X “optical-like” zoom."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights",
+            "link": "https://www.wired.com/story/eff-cindy-cohn-stepping-down/",
+            "site_name": "WIRED",
+            "novelty_hash": "e7e2c4474c1850824990422c102e2958a3527fa9"
+          },
+          "review": {
+            "headline_rewrite": "Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights",
+            "bullets": [
+              "Over the past decade, EFF has expanded its influence, becoming a central force in shaping the debate over privacy, security, and digital freedom.",
+              "In an interview with WIRED, Cohn reflected on EFF’s foundational encryption victories, its unfinished battles against National Security Agency (NSA) surveillance, and the organization’s work protecting independent security researchers.",
+              "Though stepping down from leadership, Cohn tells WIRED she plans to remain active in the fight against mass surveillance and government secrecy.",
+              "The fights that we've had around the NSA and national security, those are still works in progress.",
+              "A related question is, is the government's misuse of national security justifications to violate people's rights, including their privacy?",
+              "I think it's especially important now that we do something about the misuse of national security arguments and secrecy, because in the hands of the Trump administration, it's become an all-purpose tool to go after political enemies, violate people’s rights, and to do so many other things that we have been warning about for years."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
