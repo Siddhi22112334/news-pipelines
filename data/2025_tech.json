@@ -15040,6 +15040,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:10": [
+        {
+          "item": {
+            "title": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+            "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-blackwell-rtx-launch/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "bf579464634e08777f3202f2830430dec3d01d42"
+          },
+          "review": {
+            "headline_rewrite": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+            "bullets": [
+              "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic cloud gaming.",
+              "GeForce NOW Ultimate members will see GeForce RTX 5080 performance arriving to a server near them, enabling even richer experiences in blockbuster titles like DUNE: Awakening, Borderlands 4, Hell Is Us, Dying Light: The Beast, Cronos: The New Dawn, Clair Obscur: Expedition 33 and more.",
+              "They all come with breathtaking graphics and lowest-latency gameplay, thanks to NVIDIA DLSS 4 technology and next-generation AI features.",
+              "The new Install-to-Play feature is expanding the cloud library to nearly 4,500 games for Ultimate and Performance members.",
+              "This week kicks it off with three new games, including the launch of Borderlands 4.",
+              "Blackwell to the Future\nThe future of cloud gaming has arrived."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "RSS co-creator launches new protocol for AI data licensing",
+            "link": "https://techcrunch.com/2025/09/10/rss-co-creator-launches-new-protocol-for-ai-data-licensing/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2ac67f3117d45d8df864bd239f56890909659570"
+          },
+          "review": {
+            "headline_rewrite": "RSS co-creator launches new protocol for AI data licensing",
+            "bullets": [
+              "In the wake of Anthropic’s $1.5 billion copyright settlement, the AI industry is coming to terms with its training data problem.",
+              "Without some kind of licensing system, AI companies could face an avalanche of copyright lawsuits that some worry will set the industry back permanently.",
+              "Now, a group of technologists and web publishers has launched a system that would enable data licensing at massive scale — provided AI companies take them up on it.",
+              "The question now is if that momentum will be enough to bring major AI labs to the bargaining table.",
+              "According to RSL co-founder Eckart Walther, who also co-created the RSS standard, the goal was to create a training-data licensing system that could scale across the internet.",
+              "On the technical side, the RSL Protocol lays out specific licensing terms a publisher can set for their content, whether that means AI companies need a custom license or to adopt Creative Commons provisions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning",
+            "link": "https://techcrunch.com/2025/09/10/after-selling-to-spotify-anchors-co-founders-are-back-with-oboe-an-ai-powered-app-for-learning/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "67b7968c1ebee1d9e6ecdbcaad50103fd1a9e699"
+          },
+          "review": {
+            "headline_rewrite": "After selling to Spotify, Anchor’s co-founders are back with Oboe, an AI-powered app for learning",
+            "bullets": [
+              "The co-founders who sold their last startup Anchor to Spotify are launching their next project: Oboe, an AI-powered educational app that enables anyone to create lightweight, flexible learning courses on nearly any topic they choose, simply by entering a prompt.",
+              "At launch, Oboe — a name inspired by the root of the Japanese word meaning “to learn” — will offer nine different course formats.",
+              "These allow users to learn in the way they prefer, Oboe co-founder Nir Zicherman explained to TechCrunch.",
+              "Zicherman said he was inspired to work on an AI educational product after working to scale Spotify’s audiobooks business, which made it easier for people to gain access to high-quality and educational content, as it was bundled with their music subscription.",
+              "Unlike AI chatbots, you don’t have to engage in back-and-forth conversations to learn with Oboe.",
+              "“We have agents that, in parallel, are responsible for everything from developing the course architecture to developing and verifying the base material that’s being taught, writing the script for the podcast, pulling in real images from the internet — not AI-generated images, but real images and visuals into the reading formats that we offer,” he added."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped",
+            "link": "https://www.theverge.com/hands-on/775222/nvidia-geforce-now-rtx-5080-hands-on",
+            "site_name": "The Verge",
+            "novelty_hash": "eb70b88ad03cc1fdde85502b5dff67dae0f8ef93"
+          },
+          "review": {
+            "headline_rewrite": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped",
+            "bullets": [
+              "Today, Nvidia is soft-launching its latest gaming GPUs in the cloud — upgrading its $20-a-month GeForce Now Ultimate cloud gaming service with RTX 5080 graphics for select games, with more to come down the road.",
+              "At the same time, it’s also adding thousands more titles to the bring-your-own-games service by letting you install them yourself, while also unlocking a 360Hz mode for ultra-fast desktop monitors, launching a 90Hz version of its Steam Deck app, and more.",
+              "For the uninitiated, Nvidia’s GeForce Now is a game streaming service that farms the graphical processing power out to the cloud.",
+              "Instead of controlling a game running locally on your Steam Deck or MacBook or phone, you’re effectively remote-controlling an RTX 5080 or 4080-powered* gaming rig in a server farm many miles away, which you sync with your existing Steam, Epic, Ubisoft, Xbox, and Battle.net accounts to access your games and savegames from the cloud.",
+              "In Assassin’s Creed Shadows and Cyberpunk 2077’s built-in benchmarks, two of the few I was able to run, Nvidia’s cloud-based RTX 5080 offered anywhere from 25 to 50 percent gains over the old RTX 4080 servers at 4K resolution.",
+              "There are so few RTX 5080-enabled games as of launch that I had a hard time finding them, and there’s currently no way to tell until after you launch Call of Duty: Black Ops 6 or Shadow of the Tomb Raider that it’s still running on a 4080-class GPU instead."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup",
+            "link": "https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs",
+            "site_name": "The Verge",
+            "novelty_hash": "9ec14485075c6418f96125a8704f3b6db362d212"
+          },
+          "review": {
+            "headline_rewrite": "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup",
+            "bullets": [
+              "The iPhone Air may have been the star of the show, but Apple also announced a new pair of AirPods at its “Awe dropping” event on September 9th.",
+              "The AirPods Pro 3 arrive three years after the second-generation model, which received a minor update in 2023 with a USB-C charging case and dust resistance, and will hit stores on September 19th (though you can preorder them now).",
+              "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup\nFor the first time in a couple years, we’ve got a new pair of AirPods — but are they actually worth your money?",
+              "With their debut, the official AirPods lineup now looks a little different: the fourth-gen AirPods and their ANC counterpart remain the entry-level models, but now the AirPods Pro 3 are Apple’s most premium earbuds.",
+              "The AirPods Max, meanwhile, continues to be the company’s only set of over-ears.",
+              "Priced at $249, the new AirPods Pro 3 push into fitness territory with a built-in heart rate sensor to track calories burned and over 50 types of workouts via the iPhone’s Fitness app."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Here Come the Robotaxis: Zoox and Lyft Both Launch Driverless Ride Sharing",
+            "link": "https://www.wired.com/story/here-come-the-robotaxis-zoox-lyft-may-mobility/",
+            "site_name": "WIRED",
+            "novelty_hash": "525b7edb0c3d7fe79b96d640f052ca2f183dba38"
+          },
+          "review": {
+            "headline_rewrite": "Here Come the Robotaxis: Zoox and Lyft Both Launch Driverless Ride Sharing",
+            "bullets": [
+              "The Ann Arbor tech developer May Mobility has launched its self-driving car service on the Lyft app in a section of Atlanta, Georgia.",
+              "Starting today, anyone who orders a Lyft in the area might be paired with an autonomous vehicle.",
+              "Riders can choose between five pickup and drop-off destinations—three hotels, a Topgolf, and entertainment venue AREA15—around the Las Vegas Strip.",
+              "Self-driving vehicle technology has had a rocky past decade, with venture funding rushing in and then out of the industry, and developers failing to hit ambitious service launch targets in the second half of the 2010s.",
+              "In the US, sector leader Waymo is running its paid self-driving taxi service in Phoenix, San Francisco, Los Angeles, Austin, and Atlanta.",
+              "(In the last two cities, riders can only order Waymos through the Uber app.) Across those cities, 2,000 Waymos complete hundreds of thousands of paid rides per week, the company says."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
