@@ -12512,6 +12512,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "06:42": [
+        {
+          "item": {
+            "title": "Apple says the iPhone 17 comes with a massive security upgrade",
+            "link": "https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security",
+            "site_name": "The Verge",
+            "novelty_hash": "f2038143342dbe12398bd430a5b85956aac32447"
+          },
+          "review": {
+            "headline_rewrite": "Apple says the iPhone 17 comes with a massive security upgrade",
+            "bullets": [
+              "It’s less noticeable than a thinner profile or trick camera lenses, but Apple is pointing out another upgrade in the iPhone 17 family of phones that it says is part of “the most significant upgrade to memory safety in the history of consumer operating systems.” Explicitly targeting the spyware industry that produces exploits for tools like Pegasus to hack on targeted devices, a series of changes in Apple’s chips, OS, and development tools are part of what it calls Memory Integrity Enforcement (MIE).",
+              "Apple says the iPhone 17 comes with a massive security upgrade\nMemory Integrity Enforcement is always-on safety protection designed to make life harder for spyware developers.",
+              "With the introduction of the iPhone 17 lineup and iPhone Air, we’re excited to deliver Memory Integrity Enforcement: the industry’s first ever, comprehensive, always-on memory-safety protection covering key attack surfaces — including the kernel and over 70 userland processes — built on the Enhanced Memory Tagging Extension (EMTE) and supported by secure typed allocators and tag confidentiality protections.",
+              "The approach is similar to what we’ve seen from Microsoft’s introduction of memory integrity security features for Windows 11, as well as a series of changes that have arrived to prevent speculative-execution vulnerabilities like Spectre.",
+              "Apple says its implementation goes a step further, with the ability to protect all users by default and by designing its A19 and A19 Pro chips for enhanced security, while still adding memory safety changes for older hardware that doesn’t support the new memory tagging features.",
+              "The company also says its new mitigation for Spectre V1 leaks works with “virtually zero CPU cost” — as performance hits have been an issue for memory integrity and other security features — with all of the changes making “mercenary spyware” even more expensive to develop."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years",
+            "link": "https://www.wired.com/story/apple-call-screening-ios-26-has-been-on-pixel-for-years/",
+            "site_name": "WIRED",
+            "novelty_hash": "7ee525bcc4f25c60904adf2a226c23c5fbbc486c"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years",
+            "bullets": [
+              "Literally anyone: an acquaintance, a telemarketer, a serial killer who’s menacingly breathing into the mouthpiece.",
+              "At launch, the feature will support calls coming in from nine languages, including English, Spanish, and Japanese.",
+              "Only after that information is collected, the iPhone will ring and show you these details in a notification bubble so you can decide whether to answer.",
+              "And while most of the calls will still be ignored, I no longer have to wait until the caller starts leaving a voicemail and the live transcription appears on the screen to make a decision.",
+              "Call screening will be new for iPhones owners this fall, but users of some Android smartphones, like Google’s Pixel, have had a version of this tool, named Call Screen, available to them for years.",
+              "Lyubov Farafonova, a product manager at Google, says in a statement emailed to WIRED that millions of Pixel users are using the feature in the US alone."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "iPhone Air vs. iPhone 17 Pro: Which one is right for you?",
+            "link": "https://www.engadget.com/mobile/smartphones/iphone-air-vs-iphone-17-pro-which-one-is-right-for-you-001538431.html",
+            "site_name": "Engadget",
+            "novelty_hash": "7a76e678b65d26cafa0ba9ea6e962a2bd214438f"
+          },
+          "review": {
+            "headline_rewrite": "iPhone Air vs. iPhone 17 Pro: Which one is right for you?",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Now that we've seen the actual iPhone Air and iPhone 17 Pro models — they were revealed at the Apple iPhone event today — it's time to decide if you're ready to upgrade to one of the newer devices.",
+              "If you watched Apple's keynote or pored through Engadget's liveblog, you probably noticed the Air and 17 Pro share quite a few similarities — many of the specs are identical, or nearly so.",
+              "For starters, both run the new A19 Pro chip, giving each of them a performance edge over the non-Pro A19 in the baseline iPhone 17.",
+              "And there's only a $100 delta in their price tags, with the iPhone Air starting at $999 and the iPhone 17 Pro at $1,099.",
+              "The Pro, as usual, is designed to be the no-compromise iPhone, while the Air is much more of a fashion statement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Watch Series 11 hands-on: Feels and looks the same, but real changes are deeper",
+            "link": "https://www.engadget.com/wearables/apple-watch-series-11-hands-on-feels-and-looks-the-same-but-real-changes-are-deeper-200438367.html",
+            "site_name": "Engadget",
+            "novelty_hash": "147956d4cab33509eecdb55bb5f2fc5f21938847"
+          },
+          "review": {
+            "headline_rewrite": "Apple Watch Series 11 hands-on: Feels and looks the same, but real changes are deeper",
+            "bullets": [
+              "They're the same thinness and have pretty much the same dimensions, and the main change is that the new smartwatch has an IonX coating that's two times more scratch resistant.",
+              "There's also a new space grey case option that looked nice, though I was a bigger fan of the rose gold band and case pairing.",
+              "I did like how you'll get scores once you've worn the watch to bed, and don't have to wait for a required number of nights for the insights to surface.",
+              "Apple said the wearable should last up to 24 hours on a charge now, with eight of those meant to power through overnight sleep tracking.",
+              "That's not something I can really test here at a hands-on event, so we'll have to wait for a review unit to properly measure.",
+              "Hands on with the Apple Watch SE 3\nAgain, like with the Series 11, a lot of the Watch SE's improvements weren't things I could check out at a brief preview like today."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 10, 2025 Apple removes these iPhone models from Apple Store after iPhone 17 series and iPhone Air launch Apple has launched its 2025 iPhone lineup, including the iPhone 17 series and a new iPhone Air model. Following the launch, Apple removed the iPhone 16 Pro, iPhone 16 Pro Max, and iPhone 15 from its online store, though they remain available through authorized resellers while supplies last. The remaining iPhones on Apple's website now all support Apple Intelligence.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-removes-these-iphone-models-from-apple-store-after-iphone-17-series-and-iphone-air-launch/articleshow/123794102.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "bdd3f9d8044fba3e6abc3d1bf91bc648d15d5f8e"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 10, 2025 Apple removes these iPhone models from Apple Store after iPhone 17 series and iPhone Air launch Apple has launched its 2025 iPhone lineup, including the iPhone 17 series and a new iPhone Air model. Following the launch, Apple removed the iPhone 16 Pro, iPhone 16 Pro Max, and iPhone 15 from its online store, though they remain available through authorized resellers while supplies last. The remaining iPhones on Apple's website now all support Apple Intelligence.",
+            "bullets": [
+              "Apple unveiled its 2025 iPhone lineup at the event, introducing the iPhone 17 series and the slimmest-ever iPhone Air model with new design upgrades, fresh colours, and a next-gen processor.",
+              "Following the launch, Apple has quietly pulled some older models from its online store in India and globally.",
+              "This does not mean those iPhones are discontinued completely, but theyâre still available through authorised Apple resellers, e-commerce platforms, and retail partners while stocks last.",
+              "It must be noted that while these iPhones are no longer available on the Apple website, you can buy them via authorised Apple retailers, online commerce platforms and retail stores till the stock lasts.",
+              "This means that all the iPhones that are available right now on the Apple Store come with Apple Intelligence support.",
+              "With these three models officially removed from the website, the only way to experience Apple Intelligence is by buying the base iPhone 16 or iPhone 16e models, the latest iPhone 17 series or iPhone Air models."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "96dd3e7b9ef11eaa0f23a2e18562f7da532161d9"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "This Former Brooklyn Detective is Now a Bailiff on TVBarry Cooper, the founder o...",
+              "9, 2025\nTop of the News\nOutdoors\nMore rainfall may lead to higher cases of fatal virus in deerTriumph over addiction\nOne year on the court: How pickleball became Benji Radio’s lifelineThreat nets jail time\nBellevue man sentenced to 10 years for threatening to kill judgeThe Evening Recap | September 9, 2025\nThe Central Valley's News Source\nNot Happening\nJudge Rejects Soria's Countersuit in Karbassi CaseWildfire Evacuations\nNew Evacuation Warnings for Garnet Fire in Fresno CountyStill Heating Up\nBobby Salazar's Fresno Arson Hearing PostponedBEMIDJI MINNESOTA NEWS\nLatest Headlines\nIn Brief\nThe Original Pantry Cafe\nIconic restaurant to reopen its doors this weekDog on voter rolls in OC\nWhy stunt could play a role in special electionThe motion of the ocean\nPilot project generates electricity at Port of LAEvening Headlines, Sept.",
+              "The New Mexico State Fair is underway this weekSanta Fe Mayoral Race\nCampaign finance filings show Justin Greene outraising rivalsTuesday Night News\nAfternoon rundown\nLatest news for Mountlake Terrace\nDaily Chronicle\nDetroit News Today\nLATEST CALIFORNIA NEWS\nLane County News\nWILLMAR MINNESOTA NEWS\nBRAINERD MINNESOTA NEWS\nTuesday's news in Fairfax County\nDallas-Fort Worth News - Sept.",
+              "9, 2025\nNorthwest Herald\nToledo's Leader in News, Sports & Entertainment\nEntertainment & Arts\nDanville San Ramon\nSep 9 2025, 12:58 PM\nCalifornia leaders negotiate major policy changes in secret as legislative session endsSep 9 2025, 9:18 AM\nSan Ramon council set to consider changes to waste collection feeSep 9 2025, 9:00 AM\nDanville commission poised to recommend updates to ADU regulationsLatest Boston news\nThe Afternoon Rundown | Sept.",
+              "9, 2025\nNORTHEAST GEORGIA\nCAPITOLHILLSEATTLE.COM\nTuesday's news in Arlington, Virginia\nNEW IPHONES, CRACKER BARREL BACKTRACKS\nDaily Journal\nThe Business Journal of the Boulder Valley and Northern Colorado\nThe Afternoon Recap (Sept.",
+              "9, 2025)\nDaily Briefing\nSTGNews Headlines\nSTOCK MARKET TODAY\nLATEST MARKET UDPATE\nFutures: Nasdaq Hits High, Palantir Flashes Buy SignalORACLE EARNINGS\nWhy Oracle Stock Is Surging Despite An Earnings MissNEWS ANALYSIS\n8 CEOs Make Big Bucks Even As Their Investors Lose Their ShirtsTuesday News Roundup - Evening Edition\nBureau County Republican\nPrinceton band teacher Steven Olson competes on ‘Jeopardy!’Bureau County Republican\nPhotos: 2025 Bureau County Homestead FestivalBureau County Republican\nPhotos: 2025 Bureau County Homestead Festival Car ShowHappening in Loudoun County\nPleasanton Weekly\nSep 9 2025, 7:37 AM\nClassic Car Show rolling into Junction Avenue school this weekendSep 9 2025, 7:08 AM\nDublin police investigating burglary at Hindu templeSep 9 2025, 6:56 AM\nA taste of Peru: New Bravazo restaurant opens on Main StreetThe Evening Recap | September 9, 2025\nCobb Courier Evening Update Sept 9, 2025\nCobb County Police Department\nVictim identified in decades-old Cobb cold caseCobb County Police Department\nCobb police seek suspects in Waffle House brawlAdopt, Don't Shop!"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
