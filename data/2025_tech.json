@@ -16107,6 +16107,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "OpenAI and Oracle reportedly ink historic cloud computing deal",
+            "link": "https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5807f7623d9f6ca7099c6d1c67e4ca365ac6ad91"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI and Oracle reportedly ink historic cloud computing deal",
+            "bullets": [
+              "Oracle signed a deal with OpenAI for the AI company to purchase $300 billion worth of compute power over a span of about five years, according to reporting from the Wall Street Journal.",
+              "OpenAI would start purchasing this compute in 2027.",
+              "If the WSJ’s reporting is correct, this would be one of the largest cloud contracts ever signed.",
+              "OpenAI did not respond to a request for confirmation or comment.",
+              "Oracle is no stranger to working with OpenAI.",
+              "OpenAI started tapping Oracle for compute in the summer of 2024."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta adds new features to Community Notes fact checks, including alerts for corrected posts",
+            "link": "https://techcrunch.com/2025/09/10/meta-adds-new-features-to-community-notes-fact-checks-including-alerts-for-corrected-posts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1d8509fa673261070df4d61719fe7eef0711fcb2"
+          },
+          "review": {
+            "headline_rewrite": "Meta adds new features to Community Notes fact checks, including alerts for corrected posts",
+            "bullets": [
+              "Meta is introducing a few new features for its crowdsourced fact-checking program, Community Notes, launched in the U.S.",
+              "Meta CISO Guy Rosen shared on X that since the system’s launch, over 70,000 contributors have written 15,000 notes, only 6% of which were published.",
+              "The latter has been criticized by researchers for failing to flag misinformation in a timely fashion and at scale, leaving some to wonder whether Meta’s alternative will fare any better.",
+              "It suggested that Meta should add measurements that show how many people see the corrected information and make Notes data available publicly for increased transparency."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "You can preorder the AirPods Pro 3 right now",
+            "link": "https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart",
+            "site_name": "The Verge",
+            "novelty_hash": "83655a1cc4bec9783a31990b07958f8cab96514f"
+          },
+          "review": {
+            "headline_rewrite": "You can preorder the AirPods Pro 3 right now",
+            "bullets": [
+              "Apple’s most impressive wireless earbuds are now available to preorder from Amazon, Best Buy, Walmart, and Target for $249.",
+              "The new AirPods Pro 3 won’t arrive until September 19th, but you can place your order from the retailer of your choice, then be among the first to dig into their premium features on launch day.",
+              "You can preorder the AirPods Pro 3 right now\nWant to be one of the first to own Apple’s new AirPods Pro 3?",
+              "The third-gen AirPods Pro add a new built-in heart rate sensor and live translation feature.",
+              "We’ve gone into detail about how the AirPods Pro 3 stack up against the rest of Apple’s AirPods lineup of earbuds and over-ear headphones in our comparison guide.",
+              "Also of note, Apple claims that the new buds can deliver ANC that’s twice as effective as the last-gen model, while battery life has increased."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best iPad to buy",
+            "link": "https://www.theverge.com/23639378/best-ipad-apple-buy-model-price",
+            "site_name": "The Verge",
+            "novelty_hash": "34722ab60c31cfd68263843848357ea22500f0d5"
+          },
+          "review": {
+            "headline_rewrite": "The best iPad to buy",
+            "bullets": [
+              "Buying an older but better device — last year’s Pro instead of this year’s Air, for instance — is a tried and true iPad formula.",
+              "Apple sells six different iPads — the Pro in two sizes, the Air in two sizes, the Mini, and the regular ol’ iPad — all of which come with different specs and accessory options.",
+              "The first and most common iPad user mostly uses it like a larger iPhone: it’s a bigger screen on which to send emails, do the crossword, watch Netflix, and other fairly casual activities.",
+              "You’ll also email and Netflix, of course, but you want your iPad to be a primary computing device.",
+              "If you’re looking for a device for the kids to beat up or something that will be your travel companion until you inevitably leave it somewhere, you’re going to end up with a very different device than if you’re shopping for your main computer for the next decade.",
+              "No matter which one you choose, all the models on this list will receive Apple’s iPadOS 26 update, which launches on September 15 (and may be out by the time you read this)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Developers joke about “coding like cavemen” as AI service suffers major outage",
+            "link": "https://arstechnica.com/ai/2025/09/developers-joke-about-coding-like-cavemen-as-ai-service-suffers-major-outage/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6fce08c4b7c5a7e9e721fe28ab4053ae741cc8a9"
+          },
+          "review": {
+            "headline_rewrite": "Developers joke about “coding like cavemen” as AI service suffers major outage",
+            "bullets": [
+              "On Wednesday afternoon, Anthropic experienced a brief but complete service outage that took down its AI infrastructure, leaving developers unable to access Claude.ai, the API, Claude Code, or the management console for around half an hour.",
+              "The outage affected all three of Anthropic's main services simultaneously, with the company posting at 12:28 pm Eastern that \"APIs, Console, and Claude.ai are down.",
+              "The disruption, though lasting only about 30 minutes, quickly took the top spot on tech link-sharing site Hacker News for a short time and inspired immediate reactions from developers who have become increasingly reliant on AI coding tools for their daily work.",
+              "Another user recalled a joke from a previous AI outage: \"Nooooo I'm going to have to use my brain again and write 100% of my code like a caveman from December 2024.\"\nThe most recent outage came at an inopportune time, affecting developers across the US who have integrated Claude into their workflows.",
+              "One Hacker News user observed: \"It's like every other day, the moment US working hours start, AI (in my case I mostly use Anthropic, others may be better) starts dying or at least getting intermittent errors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s AI Chief Says Machine Consciousness Is an 'Illusion'",
+            "link": "https://www.wired.com/story/microsofts-ai-chief-says-machine-consciousness-is-an-illusion/",
+            "site_name": "WIRED",
+            "novelty_hash": "69a964def2e8aa227d605a6188993e3a1e5c5f0b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s AI Chief Says Machine Consciousness Is an 'Illusion'",
+            "bullets": [
+              "He dropped out of Oxford university as an undergrad to create the Muslim Youth Helpline, before teaming up with friends to cofound DeepMind, a company that blazed a trail in building game-playing AI systems before being acquired by Google in 2014.",
+              "Suleyman left Google in 2022 to commercialize large language models (LLMs) and build empathetic chatbot assistants with a startup called Inflection.",
+              "He then joined Microsoft as its first CEO of AI in March 2024 after the software giant invested in his company and hired most of its employees.",
+              "Last month, Suleyman published a lengthy blog post in which he argues that many in the AI industry should avoid designing AI systems to mimic consciousness by simulating emotions, desires, and a sense of self.",
+              "Suleyman’s thoughts on position seem to contrast starkly with those of many in AI, especially those who worry about AI welfare.",
+              "Suleyman tells WIRED that this approach will make it more difficult to limit the abilities of AI systems and harder to ensure that AI benefits humans."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
