@@ -15988,5 +15988,126 @@
         }
       ]
     }
+  },
+  "2025-09-11": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "Meta adds new features to Community Notes fact checks, including alerts for corrected posts",
+            "link": "https://techcrunch.com/2025/09/10/meta-adds-new-features-to-community-notes-fact-checks-including-alerts-for-corrected-posts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1d8509fa673261070df4d61719fe7eef0711fcb2"
+          },
+          "review": {
+            "headline_rewrite": "Meta adds new features to Community Notes fact checks, including alerts for corrected posts",
+            "bullets": [
+              "Meta is introducing a few new features for its crowdsourced fact-checking program, Community Notes, launched in the U.S.",
+              "Meta CISO Guy Rosen shared on X that since the system’s launch, over 70,000 contributors have written 15,000 notes, only 6% of which were published.",
+              "The latter has been criticized by researchers for failing to flag misinformation in a timely fashion and at scale, leaving some to wonder whether Meta’s alternative will fare any better.",
+              "It suggested that Meta should add measurements that show how many people see the corrected information and make Notes data available publicly for increased transparency."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic reports outages, Claude and Console impacted",
+            "link": "https://techcrunch.com/2025/09/10/anthropic-reports-outages-claude-and-console-impacted/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5061bc819498a0364c0e9922b7350fad65f058a7"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic reports outages, Claude and Console impacted",
+            "bullets": [
+              "Anthropic reported a service outage impacting APIs, Console, and Claude earlier this afternoon.",
+              "Users on GitHub and Hacker News noted issues with Claude at around 12:20 ET, with Anthropic releasing a status update eight minutes later, noting that its APIs, Console, and Claude AI were down.",
+              "At press time, the company said it had implemented several fixes and was monitoring the results.",
+              "“We’re aware of a very brief outage of our API today shortly before 9:30am PT,” an Anthropic spokesperson told TechCrunch.",
+              "As Claude users awaited its reboot, some joked about what they were supposed to do since the system was down.",
+              "One user on GitHub wrote about how the software engineering community was now twiddling its thumbs, while another on Hacker News quoted what someone said last time something like this happened: “Nooooo I’m going to have to use my brain again and write 100% of my code like a caveman from December 2024.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can preorder the AirPods Pro 3 right now",
+            "link": "https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart",
+            "site_name": "The Verge",
+            "novelty_hash": "7d1d05bdee25bcd97742142d92453e91287d716d"
+          },
+          "review": {
+            "headline_rewrite": "You can preorder the AirPods Pro 3 right now",
+            "bullets": [
+              "Apple’s most impressive wireless earbuds are now available to preorder from Amazon, Best Buy, Walmart, and from Target for $249.",
+              "The new AirPods Pro 3 won’t arrive until September 19th, but you can place your order from the retailer of your choice, then be among the first to dig into their premium features on launch day.",
+              "You can preorder the AirPods Pro 3 right now\nWant to be one of the first to own Apple’s new AirPods Pro 3?",
+              "The third-gen AirPods Pro add a new built-in heart rate sensor and live translation feature.",
+              "We’ve gone into detail about the AirPods Pro 3 stack up against the rest of Apple’s AirPods lineup of earbuds and over-ear headphones in our comparison guide.",
+              "Also of note, Apple claims that the new buds can deliver ANC that’s twice as effective as the last-gen model, while battery life has increased."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best iPad to buy",
+            "link": "https://www.theverge.com/23639378/best-ipad-apple-buy-model-price",
+            "site_name": "The Verge",
+            "novelty_hash": "34722ab60c31cfd68263843848357ea22500f0d5"
+          },
+          "review": {
+            "headline_rewrite": "The best iPad to buy",
+            "bullets": [
+              "Buying an older but better device — last year’s Pro instead of this year’s Air, for instance — is a tried and true iPad formula.",
+              "Apple sells six different iPads — the Pro in two sizes, the Air in two sizes, the Mini, and the regular ol’ iPad — all of which come with different specs and accessory options.",
+              "The first and most common iPad user mostly uses it like a larger iPhone: it’s a bigger screen on which to send emails, do the crossword, watch Netflix, and other fairly casual activities.",
+              "You’ll also email and Netflix, of course, but you want your iPad to be a primary computing device.",
+              "If you’re looking for a device for the kids to beat up or something that will be your travel companion until you inevitably leave it somewhere, you’re going to end up with a very different device than if you’re shopping for your main computer for the next decade.",
+              "No matter which one you choose, all the models on this list will receive Apple’s iPadOS 26 update, which launches on September 15 (and may be out by the time you read this)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s AI Chief Says Machine Consciousness Is an 'Illusion'",
+            "link": "https://www.wired.com/story/microsofts-ai-chief-says-machine-consciousness-is-an-illusion/",
+            "site_name": "WIRED",
+            "novelty_hash": "69a964def2e8aa227d605a6188993e3a1e5c5f0b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s AI Chief Says Machine Consciousness Is an 'Illusion'",
+            "bullets": [
+              "He dropped out of Oxford university as an undergrad to create the Muslim Youth Helpline, before teaming up with friends to cofound DeepMind, a company that blazed a trail in building game-playing AI systems before being acquired by Google in 2014.",
+              "Suleyman left Google in 2022 to commercialize large language models (LLMs) and build empathetic chatbot assistants with a startup called Inflection.",
+              "He then joined Microsoft as its first CEO of AI in March 2024 after the software giant invested in his company and hired most of its employees.",
+              "Last month, Suleyman published a lengthy blog post in which he argues that many in the AI industry should avoid designing AI systems to mimic consciousness by simulating emotions, desires, and a sense of self.",
+              "Suleyman’s thoughts on position seem to contrast starkly with those of many in AI, especially those who worry about AI welfare.",
+              "Suleyman tells WIRED that this approach will make it more difficult to limit the abilities of AI systems and harder to ensure that AI benefits humans."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Can we please keep our broadband money, Republican governor asks Trump admin",
+            "link": "https://arstechnica.com/tech-policy/2025/09/can-we-please-keep-our-broadband-money-republican-governor-asks-trump-admin/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e3c0aa5a7f4b091572eaab0aeb6d8eb94a3c274c"
+          },
+          "review": {
+            "headline_rewrite": "Can we please keep our broadband money, Republican governor asks Trump admin",
+            "bullets": [
+              "\"As the first state to submit our Final Proposal ahead of the September 4th deadline, we respectfully request that you continue to hew closely to the statute by directing that remaining BEAD allocations be invested in state-led initiatives, subject to NTIA [National Telecommunications and Information Administration] review, that advance the following key national priorities,\" Landry wrote in a Monday letter to Secretary of Commerce Howard Lutnick.",
+              "The \"key national priorities\" specifically cited in Landry's letter were Trump's \"AI Action Plan\" along with Trump's \"America First\" and \"Make America Great Again\" plans for investing in education, workforce training, and growing US industries.",
+              "Request paired with praise for Trump admin\nLandry's letter praised Lutnick's overhaul of BEAD, stating that \"you have delivered in only a few months what the Biden NTIA failed to deliver in over three years of paperwork, endless reviews, and the piling-on of unnecessary and in some cases illegal regulatory burdens.\" The changes, Landry wrote, mean that \"Louisiana and many other states will have significant remaining funds that can be further invested to advance the Administration's priorities.\""
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
