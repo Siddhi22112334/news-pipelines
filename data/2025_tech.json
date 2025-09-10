@@ -14796,6 +14796,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:12": [
+        {
+          "item": {
+            "title": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+            "link": "https://blogs.nvidia.com/?p=84699",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "bf579464634e08777f3202f2830430dec3d01d42"
+          },
+          "review": {
+            "headline_rewrite": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+            "bullets": [
+              "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic cloud gaming.",
+              "GeForce NOW Ultimate members will see GeForce RTX 5080 performance arriving to a server near them, enabling even richer experiences in blockbuster titles like DUNE: Awakening, Borderlands 4, Hell Is Us, Dying Light: The Beast, Cronos: The New Dawn, Clair Obscur: Expedition 33 and more.",
+              "They all come with breathtaking graphics and lowest-latency gameplay, thanks to NVIDIA DLSS 4 technology and next-generation AI features.",
+              "The new Install-to-Play feature is expanding the cloud library to nearly 4,500 games for Ultimate and Performance members.",
+              "This week kicks it off with three new games, including the launch of Borderlands 4.",
+              "Blackwell to the Future\nThe future of cloud gaming has arrived."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen",
+            "link": "https://techcrunch.com/2025/09/10/ex-google-x-trio-wants-their-ai-to-be-your-second-brain-and-they-just-raised-6m-to-make-it-happen/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "72610e759da1ea9e18eebf8b8eb44b47ded8933a"
+          },
+          "review": {
+            "headline_rewrite": "Ex-Google X trio wants their AI to be your second brain — and they just raised $6M to make it happen",
+            "bullets": [
+              "Three former Google X scientists aim to give you a second brain virtually — not in the sci-fi or chip-in-your-head sense — but through an AI-powered app that gains context by listening to everything you say in the background.",
+              "Their startup, TwinMind, has raised $5.7 million in seed funding and released an Android version, along with a new AI speech model.",
+              "By turning spoken thoughts, meetings, lectures and conversations into structured memory, the app can generate AI-powered notes, to-dos, and answers.",
+              "It works offline, processes audio in real-time to transcribe on-device, and can capture audio continuously for 16–17 hours without draining the device’s battery, the founders say.",
+              "TwinMind differentiates itself from AI meeting note-takers like Otter, Granola, and Fireflies by capturing audio passively in the background all day.",
+              "In contrast, many competitors use React Native and rely on cloud-based processing, which Apple restricts from running in the background for extended periods, George said in an exclusive interview."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "RSS co-creator launches new protocol for AI data licensing",
+            "link": "https://techcrunch.com/2025/09/10/rss-co-creator-launches-new-protocol-for-ai-data-licensing/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2ac67f3117d45d8df864bd239f56890909659570"
+          },
+          "review": {
+            "headline_rewrite": "RSS co-creator launches new protocol for AI data licensing",
+            "bullets": [
+              "In the wake of Anthropic’s $1.5 billion copyright settlement, the AI industry is coming to terms with its training data problem.",
+              "Without some kind of licensing system, AI companies could face an avalanche of copyright lawsuits that some worry will set the industry back permanently.",
+              "Now, a group of technologists and web publishers has launched a system that would enable data licensing at massive scale — provided AI companies take them up on it.",
+              "The question now is if that momentum will be enough to bring major AI labs to the bargaining table.",
+              "According to RSL co-founder Eckart Walther, who also co-created the RSS standard, the goal was to create a training-data licensing system that could scale across the internet.",
+              "On the technical side, the RSL Protocol lays out specific licensing terms a publisher can set for their content, whether that means AI companies need a custom license or to adopt Creative Commons provisions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped",
+            "link": "https://www.theverge.com/hands-on/775222/nvidia-geforce-now-rtx-5080-hands-on",
+            "site_name": "The Verge",
+            "novelty_hash": "65eaf4683d9a7768d0e06548d4bfa837ce874998"
+          },
+          "review": {
+            "headline_rewrite": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped",
+            "bullets": [
+              "Today, Nvidia is soft-launching its latest gaming GPUs in the cloud — upgrading its $20-a-month GeForce Now Ultimate cloud gaming service with RTX 5080 graphics for select games, with more to come down the road.",
+              "At the same time, it’s also adding thousands more titles to the bring-your-own-games service by letting you install them yourself, while also unlocking a 360Hz mode for ultra-fast desktop monitors, launching a 90Hz version of its Steam Deck app, and more.",
+              "For the uninitiated, Nvidia’s GeForce Now is a game streaming service that farms the graphical processing power out to the cloud.",
+              "Instead of controlling a game running locally on your Steam Deck or MacBook or phone, you’re effectively remote-controlling an RTX 5080 or 4080-powered* gaming rig in a server farm many miles away, which you sync with your existing Steam, Epic, Ubisoft, Xbox, and Battle.net accounts to access your games and savegames from the cloud.",
+              "In Assassin’s Creed Shadows and Cyberpunk 2077’s built-in benchmarks, two of the few I was able to run, Nvidia’s cloud-based RTX 5080 offered anywhere from 25 to 50 percent gains over the old RTX 4080 servers at 4K resolution.",
+              "There are so few RTX 5080-enabled games as of launch that I had a hard time finding them, and there’s currently no way to tell until after you launch Call of Duty: Black Ops 6 or Shadow of the Tomb Raider that it’s still running on a 4080-class GPU instead."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Zoox’s robotaxis are open for business in Las Vegas",
+            "link": "https://www.theverge.com/news/774748/zoox-amazon-robotaxi-las-vegas-public",
+            "site_name": "The Verge",
+            "novelty_hash": "aa74ce1824af5f3685d12e259256d1bde64d1a15"
+          },
+          "review": {
+            "headline_rewrite": "Zoox’s robotaxis are open for business in Las Vegas",
+            "bullets": [
+              "Amazon’s Zoox announced today that it’s making its robotaxis available to all customers in Las Vegas.",
+              "Zoox says that its toaster-shaped AVs will be available for passenger trips on the Las Vegas Strip starting today.",
+              "The vehicles are limited to pickups and dropoffs at only a handful of destinations, including Resort World Las Vegas, AREA15, Topgolf, New York New York, Luxor, and other “resort and entertainment properties.” The company says it will be adding new destinations as it gradually expands it service.",
+              "And the rides will be free while the company waits for regulatory approval before it can charge for the service.",
+              "Zoox is also inviting interested riders to join its waitlist for a robotaxi service in San Francisco.",
+              "Zoox has a permit to test its driverless vehicles in two cities, San Francisco and Foster City, under certain circumstances, but has yet to receive a permit for a commercial robotaxi service in the state."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Here Come the Robotaxis: Zoox and Lyft Both Launch Driverless Ride Sharing",
+            "link": "https://www.wired.com/story/here-come-the-robotaxis-zoox-lyft-may-mobility/",
+            "site_name": "WIRED",
+            "novelty_hash": "525b7edb0c3d7fe79b96d640f052ca2f183dba38"
+          },
+          "review": {
+            "headline_rewrite": "Here Come the Robotaxis: Zoox and Lyft Both Launch Driverless Ride Sharing",
+            "bullets": [
+              "The Ann Arbor tech developer May Mobility has launched its self-driving car service on the Lyft app in a section of Atlanta, Georgia.",
+              "Starting today, anyone who orders a Lyft in the area might be paired with an autonomous vehicle.",
+              "Riders can choose between five pickup and drop-off destinations—three hotels, a Topgolf, and entertainment venue AREA15—around the Las Vegas Strip.",
+              "Self-driving vehicle technology has had a rocky past decade, with venture funding rushing in and then out of the industry, and developers failing to hit ambitious service launch targets in the second half of the 2010s.",
+              "In the US, sector leader Waymo is running its paid self-driving taxi service in Phoenix, San Francisco, Los Angeles, Austin, and Atlanta.",
+              "(In the last two cities, riders can only order Waymos through the Uber app.) Across those cities, 2,000 Waymos complete hundreds of thousands of paid rides per week, the company says."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
