@@ -16469,6 +16469,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:09": [
+        {
+          "item": {
+            "title": "OpenAI and Oracle reportedly ink historic cloud computing deal",
+            "link": "https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5807f7623d9f6ca7099c6d1c67e4ca365ac6ad91"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI and Oracle reportedly ink historic cloud computing deal",
+            "bullets": [
+              "Oracle signed a deal with OpenAI for the AI company to purchase $300 billion worth of compute power over a span of about five years, according to reporting from the Wall Street Journal.",
+              "OpenAI would start purchasing this compute in 2027.",
+              "If the WSJ’s reporting is correct, this would be one of the largest cloud contracts ever signed.",
+              "OpenAI did not respond to a request for confirmation or comment.",
+              "Oracle is no stranger to working with OpenAI.",
+              "OpenAI started tapping Oracle for compute in the summer of 2024."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "While US stalls, Australia and Anduril move to put XL undersea vehicle into service",
+            "link": "https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "42f069855c25d3af63aedbcd49b83c4ae9436efb"
+          },
+          "review": {
+            "headline_rewrite": "While US stalls, Australia and Anduril move to put XL undersea vehicle into service",
+            "bullets": [
+              "The five-year award structure is the defense-startup holy grail; it’s a program of record that essentially locks in recurring revenue by becoming a line item in the country’s defense budget.",
+              "The contract for the platform, which provides long-range, stealthy surveillance and strike operations, covers delivery, maintenance, and continued development.",
+              "And that’s what the Australian government has done,” Anduril President Chris Brose said in an interview.",
+              "The first prototype was delivered in April 2024, twelve months ahead of schedule, and production has already begun.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "Anduril put some of its own capital on the line to derisk Australia’s otherwise rapid acquisition timeline."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "One of Google’s new Pixel 10 AI features has already been removed",
+            "link": "https://arstechnica.com/google/2025/09/google-pulls-daily-hub-ai-feature-from-pixel-10-phones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "77c5f0e2053c40fe2db8cfe06df23f5a203b0504"
+          },
+          "review": {
+            "headline_rewrite": "One of Google’s new Pixel 10 AI features has already been removed",
+            "bullets": [
+              "Google is one of the most ardent proponents of generative AI technology, as evidenced by the recent launch of the Pixel 10 series.",
+              "The phones were announced with more than 20 new AI experiences, according to Google.",
+              "If you go looking for your Daily Hub, you may be disappointed.",
+              "Many of Google's new AI features only make themselves known in specific circumstances, for example when Magic Cue finds an opportunity to suggest an address or calendar appointment based on your screen context.",
+              "The Daily Hub, on the other hand, asserted itself multiple times throughout the day.",
+              "Just a few weeks after release, Google has pulled the Daily Hub preview from Pixel 10 devices."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”",
+            "link": "https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4c4993162a9ee5c31e8d45dc5ff588d414786ac4"
+          },
+          "review": {
+            "headline_rewrite": "Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”",
+            "bullets": [
+              "A prominent US senator has called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the company’s continued use of an obsolete and vulnerable form of encryption that Windows uses by default.",
+              "In a letter to FTC Chairman Andrew Ferguson, Sen.",
+              "Ron Wyden (D–Ore.) said an investigation his office conducted into the 2024 ransomware breach of the health care giant Ascension found that the default use of the RC4 encryption cipher was a direct cause.",
+              "The breach led to the theft of medical records of 5.6 million patients.",
+              "It's the second time in as many years that Wyden has used the word “negligence” to describe Microsoft's security practices.",
+              "“Microsoft has utterly failed to stop or even slow down the scourge of ransomware enabled by its dangerous software.”\nRC4 is short for Rivest Cipher 4, a nod to mathematician and cryptographer Ron Rivest of RSA Security, who developed the stream cipher in 1987."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump is slowing — but not stopping — US greenhouse gas reductions",
+            "link": "https://www.theverge.com/news/776032/us-greenhouse-gas-emissions-trump-forecast-rhodium-group",
+            "site_name": "The Verge",
+            "novelty_hash": "787daffd559a820f1de097079d0010d5b07511bf"
+          },
+          "review": {
+            "headline_rewrite": "Trump is slowing — but not stopping — US greenhouse gas reductions",
+            "bullets": [
+              "Following “the most abrupt shift in energy and climate policy in recent memory” during the first seven months of the Trump administration, according to a new Rhodium Group report published today, we can expect a significantly slower pace of progress — a 26–35 percent reduction in emissions over the next decade compared to pollution levels in 2005.",
+              "He’s been particularly combative with wind energy developers, going as far as to order a nearly complete project off the coast of Rhode Island to halt construction over purported national security concerns.",
+              "In July, it proposed rescinding the landmark 2009 finding that allows the agency to regulate gases under the Clean Air Act because they endanger public health.",
+              "The EPA says that if they finalize the rule change, which faces legal challenges, it would “repeal all resulting greenhouse gas emissions regulations for motor vehicles and engines, thereby reinstating consumer choice.”\nTrump, after receiving tens of millions of dollars in campaign contributions from the fossil fuel industry, tapped a former oil and gas company executive, Chris Wright, to lead the Department of Energy.",
+              "This week, Wright called efforts to reach net zero greenhouse gas emissions — which researchers have found needs to happen by the middle of this century to stop global average temperatures from rising much higher than they already are — a “colossal train wreck” and a “monstrous human impoverishment program.” The US, however, has managed to maintain economic growth while limiting greenhouse gas emissions.",
+              "With electricity demand suddenly on the rise because of data centers, AI, and electric vehicles, utilities are racing to add as much capacity as they can."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Charlie Kirk shot at Turning Point USA event in Utah",
+            "link": "https://www.theverge.com/news/776079/charlie-kirk-shooting",
+            "site_name": "The Verge",
+            "novelty_hash": "89a0e5107e32226135e2a8e3b425cca48f72aab4"
+          },
+          "review": {
+            "headline_rewrite": "Charlie Kirk shot at Turning Point USA event in Utah",
+            "bullets": [
+              "A spokesperson for the university, Ellen Treanor, said in a statement that “shots were fired from a building about 200 yards from the speaker.”\nCharlie Kirk shot at Turning Point USA event in Utah\nThe conservative activist is reportedly in critical condition after the shooting at Utah Valley University.",
+              "Utah Valley University initially said that a suspect was in custody, but Deseret News has reported that, according to officials, the status of the shooter is unclear."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
