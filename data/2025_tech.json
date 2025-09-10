@@ -16819,6 +16819,123 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:44": [
+        {
+          "item": {
+            "title": "Thinking Machines Lab wants to make AI models more consistent",
+            "link": "https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "377e8e9db726a6a2e62b954d91a3d833b00e0ed9"
+          },
+          "review": {
+            "headline_rewrite": "Thinking Machines Lab wants to make AI models more consistent",
+            "bullets": [
+              "There’s been great interest in what Mira Murati’s Thinking Machines Lab is building with its $2 billion in seed funding and the all-star team of former OpenAI researchers who have joined the lab.",
+              "In a blog post published on Wednesday, Murati’s research lab gave the world its first look into one of its projects: creating AI models with reproducible responses.",
+              "The research blog post, titled “Defeating Nondeterminism in LLM Inference,” tries to unpack the root cause of what introduces randomness in AI model responses.",
+              "This has largely been accepted in the AI community as a fact — today’s AI models are considered to be non-deterministic systems— but Thinking Machines Lab sees this as a solvable problem.",
+              "The post, authored by Thinking Machines Lab researcher Horace He, argues that the root cause of AI models’ randomness is the way GPU kernels — the small programs that run inside of Nvidia’s computer chips — are stitched together in inference processing (everything that happens after you press enter in ChatGPT).",
+              "He suggests that by carefully controlling this layer of orchestration, it’s possible to make AI models more deterministic."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to turn off autoplay on your social media feeds",
+            "link": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0ed8334bfafc24ac46ae5aa736f14756d3b9a34a"
+          },
+          "review": {
+            "headline_rewrite": "How to turn off autoplay on your social media feeds",
+            "bullets": [
+              "This could be because you’re trying to conserve cellular data, limit the addictiveness of these apps, or maintain better control over your viewing experience, as when a video is going viral that you don’t wish to see.",
+              "X (Twitter)\nJoin 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "Hopefully, that’s on the product roadmap."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill",
+            "site_name": "The Verge",
+            "novelty_hash": "a2fbabfed083dd40934ecfa60a0966e88498ed8d"
+          },
+          "review": {
+            "headline_rewrite": "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years",
+            "bullets": [
+              "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years\nThe SANDBOX Act would let companies request exemptions from regulation for AI products and services — and let the White House override agencies that say no.",
+              "The SANDBOX Act, if passed by Congress, would allow companies to apply for modifications to or waivers from any “obstructive regulations” to the testing and deployment of products or services that use or contain “in whole or in part” at least one AI system.",
+              "The waivers would last for two years at a time, up to 10 years, harkening back to the failed moratorium that sought to pause all state-level AI regulation for a decade.",
+              "Waivers would be automatically granted if the agency does not respond within 90 days.",
+              "If rejected, the company would be able to appeal to the White House Office of Science and Technology Policy (OSTP), which would oversee the sandbox program and have the authority to override the denial.",
+              "Every year, Congress would receive a report on the number of times federal rules were waived or modified."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Court rejects Verizon claim that selling location data without consent is legal",
+            "link": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b6bcef9dc5fbb37de71dce774cb8fdde59c6516a"
+          },
+          "review": {
+            "headline_rewrite": "Court rejects Verizon claim that selling location data without consent is legal",
+            "bullets": [
+              "Although FCC Chairman Brendan Carr voted against the fine last year, when the commission had a Democratic majority, his FCC urged the courts to uphold the Biden-era decisions.",
+              "A ruling against the FCC could gut the agency's ability to issue financial penalties.",
+              "The different rulings from different circuits raise the odds of the cases being taken up by the Supreme Court.",
+              "Today's 2nd Circuit ruling against Verizon was issued unanimously by a panel of three judges, and it comes to the same legal conclusions as the DC Circuit did in the T-Mobile case.",
+              "\"We disagree [with Verizon],\" the 2nd Circuit ruling said.",
+              "\"The customer data at issue plainly qualifies as customer proprietary network information, triggering the Communication Act's privacy protections."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Charlie Kirk fatally shot at Turning Point USA event in Utah",
+            "link": "https://www.theverge.com/news/776079/charlie-kirk-shooting",
+            "site_name": "The Verge",
+            "novelty_hash": "0fde64458f032f3c19045dcb416127732a673ec5"
+          },
+          "review": {
+            "headline_rewrite": "Charlie Kirk fatally shot at Turning Point USA event in Utah",
+            "bullets": [
+              "Deseret News had earlier reported Kirk’s death, according to Utah House Speaker Mike Schultz, and President Donald Trump said Kirk is dead in a post on Truth Social at 4:40PM ET.",
+              "A spokesperson for the university, Ellen Treanor, said in a statement that “shots were fired from a building about 200 yards from the speaker.”\nFollowing the shooting, videos on social media seemed to show the arrest of an alleged suspect.",
+              "Utah Valley University initially said that a suspect was in custody, but Deseret News reported that, according to officials, the status of the shooter is unclear.",
+              "Kirk was immediately transported by his security team to a local hospital."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "After Ukrainian testing, drone detection radar doubles range with simple software patch",
+            "link": "https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0c857c6e40a1e422be7724e2cdd73eae232ef04e"
+          },
+          "review": {
+            "headline_rewrite": "After Ukrainian testing, drone detection radar doubles range with simple software patch",
+            "bullets": [
+              "As part of its unprovoked invasion, Russia has been firing massed waves of drones and missiles into Ukraine for years, though the tempo has been raised dramatically in recent months.",
+              "Barrages of 700-plus drones now regularly attack Ukraine during overnight raids.",
+              "Many of these drones are Shahed/Geran types built with technology imported from Iran, and they have recently gained the ability to fly higher, making shootdowns more difficult.",
+              "Given the low cost of the drones (estimates suggest they cost a few tens of thousands of dollars apiece, and many are simply decoys without warheads), hitting them with multimillion-dollar missiles from traditional air defense batteries makes little sense and would quickly exhaust missile stocks.",
+              "So Ukraine has adopted widespread electronic warfare to disrupt control systems and navigation.",
+              "Drones not forced off their path are fought with mobile anti-aircraft guns, aircraft, and interceptor drones, many launched from mobile fire teams patrolling Ukraine during the night."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
