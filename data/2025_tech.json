@@ -16703,6 +16703,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Thinking Machines Lab wants to make AI models more consistent",
+            "link": "https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "377e8e9db726a6a2e62b954d91a3d833b00e0ed9"
+          },
+          "review": {
+            "headline_rewrite": "Thinking Machines Lab wants to make AI models more consistent",
+            "bullets": [
+              "There’s been great interest in what Mira Murati’s Thinking Machines Lab is building with its $2 billion in seed funding and the all-star team of former OpenAI researchers who have joined the lab.",
+              "In a blog post published on Wednesday, Murati’s research lab gave the world its first look into one of its projects: creating AI models with reproducible responses.",
+              "The research blog post, titled “Defeating Nondeterminism in LLM Inference,” tries to unpack the root cause of what introduces randomness in AI model responses.",
+              "This has largely been accepted in the AI community as a fact — today’s AI models are considered to be non-deterministic systems— but Thinking Machines Lab sees this as a solvable problem.",
+              "The post, authored by Thinking Machines Lab researcher Horace He, argues that the root cause of AI models’ randomness is the way GPU kernels — the small programs that run inside of Nvidia’s computer chips — are stitched together in inference processing (everything that happens after you press enter in ChatGPT).",
+              "He suggests that by carefully controlling this layer of orchestration, it’s possible to make AI models more deterministic."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to turn off autoplay on your social media feeds",
+            "link": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0ed8334bfafc24ac46ae5aa736f14756d3b9a34a"
+          },
+          "review": {
+            "headline_rewrite": "How to turn off autoplay on your social media feeds",
+            "bullets": [
+              "This could be because you’re trying to conserve cellular data, limit the addictiveness of these apps, or maintain better control over your viewing experience, as when a video is going viral that you don’t wish to see.",
+              "X (Twitter)\nJoin 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "Hopefully, that’s on the product roadmap."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill",
+            "site_name": "The Verge",
+            "novelty_hash": "a2fbabfed083dd40934ecfa60a0966e88498ed8d"
+          },
+          "review": {
+            "headline_rewrite": "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years",
+            "bullets": [
+              "Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years\nThe SANDBOX Act would let companies request exemptions from regulation for AI products and services — and let the White House override agencies that say no.",
+              "The SANDBOX Act, if passed by Congress, would allow companies to apply for modifications to or waivers from any “obstructive regulations” to the testing and deployment of products or services that use or contain “in whole or in part” at least one AI system.",
+              "The waivers would last for two years at a time, up to 10 years, harkening back to the failed moratorium that sought to pause all state-level AI regulation for a decade.",
+              "Waivers would be automatically granted if the agency does not respond within 90 days.",
+              "If rejected, the company would be able to appeal to the White House Office of Science and Technology Policy (OSTP), which would oversee the sandbox program and have the authority to override the denial.",
+              "Every year, Congress would receive a report on the number of times federal rules were waived or modified."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”",
+            "link": "https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4c4993162a9ee5c31e8d45dc5ff588d414786ac4"
+          },
+          "review": {
+            "headline_rewrite": "Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”",
+            "bullets": [
+              "A prominent US senator has called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the company’s continued use of an obsolete and vulnerable form of encryption that Windows uses by default.",
+              "In a letter to FTC Chairman Andrew Ferguson, Sen.",
+              "Ron Wyden (D–Ore.) said an investigation his office conducted into the 2024 ransomware breach of the health care giant Ascension found that the default use of the RC4 encryption cipher was a direct cause.",
+              "The breach led to the theft of medical records of 5.6 million patients.",
+              "It's the second time in as many years that Wyden has used the word “negligence” to describe Microsoft's security practices.",
+              "“Microsoft has utterly failed to stop or even slow down the scourge of ransomware enabled by its dangerous software.”\nRC4 is short for Rivest Cipher 4, a nod to mathematician and cryptographer Ron Rivest of RSA Security, who developed the stream cipher in 1987."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Charlie Kirk fatally shot at Turning Point USA event in Utah",
+            "link": "https://www.theverge.com/news/776079/charlie-kirk-shooting",
+            "site_name": "The Verge",
+            "novelty_hash": "0fde64458f032f3c19045dcb416127732a673ec5"
+          },
+          "review": {
+            "headline_rewrite": "Charlie Kirk fatally shot at Turning Point USA event in Utah",
+            "bullets": [
+              "Deseret News had earlier reported Kirk’s death, according to Utah House Speaker Mike Schultz, and President Donald Trump said Kirk is dead in a post on Truth Social at 4:40PM ET.",
+              "A spokesperson for the university, Ellen Treanor, said in a statement that “shots were fired from a building about 200 yards from the speaker.”\nFollowing the shooting, videos on social media seemed to show the arrest of an alleged suspect.",
+              "Utah Valley University initially said that a suspect was in custody, but Deseret News reported that, according to officials, the status of the shooter is unclear.",
+              "Kirk was immediately transported by his security team to a local hospital."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "HBO Max is “way underpriced,” Warner Bros. Discovery CEO says",
+            "link": "https://arstechnica.com/gadgets/2025/09/hbo-max-is-way-underpriced-warner-bros-discovery-ceo-says/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "480e151bed5ce5068664d0909eec56b3e02f82a7"
+          },
+          "review": {
+            "headline_rewrite": "HBO Max is “way underpriced,” Warner Bros. Discovery CEO says",
+            "bullets": [
+              "The Hollywood Reporter quoted Zaslav as saying:\nThe fact that this is quality—and that’s true across our company, motion picture, TV production [and] streaming quality—we all ...",
+              "think that gives us a chance to raise price.",
+              "The streaming platform has raised prices twice since launching (as Max) in May 2023.",
+              "The streaming service was supposed to crack down on password sharing in 2024, but Zaslav said today that HBO Max hasn't “been pushing” against password sharing yet.",
+              "Per Variety, Zaslav said today that WBD has a \"real ability\" to raise prices as \"people become more and more in love with the quality that we have, and the series that we have, and the offering that we have.\"\nThe executive reportedly recalled a time when people relied on broadcast and cable for their TV entertainment and paid more than what the average person pays for streaming today:"
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
