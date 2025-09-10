@@ -15759,6 +15759,123 @@
             "impact": "Positive"
           }
         }
+      ],
+      "23:07": [
+        {
+          "item": {
+            "title": "Generate and scale creative assets with Google AI in Asset Studio",
+            "link": "https://blog.google/products/ads-commerce/generate-creative-assets-google-ai-asset-studio/",
+            "site_name": "Google",
+            "novelty_hash": "6c169c4855e015b41d30ec52aa3f18920bf67883"
+          },
+          "review": {
+            "headline_rewrite": "Generate and scale creative assets with Google AI in Asset Studio",
+            "bullets": [
+              "As marketers increasingly turn to AI tools, a streamlined workflow is more important than ever.",
+              "Powered by Google AI, generative AI tools in Asset Studio will soon support your entire creative workflow for active accounts, helping you develop, review and share high-performing creative.",
+              "What's more — we're also upgrading image generation across campaign types with our advanced model, Imagen 4.",
+              "This brings remarkable improvements to image quality — from intricate textures and fine details to photo realistic and abstract styles.",
+              "- Showcase your product in action: With Google AI, you can turn your standalone product shots into compelling lifestyle photography.",
+              "Upload a photo of your product, like Academy Brand's Conrad Jacket, and with a simple text prompt like \"a young man walking in the park\", Google AI will generate a new image featuring a model wearing your jacket in that exact scene."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Get greater control and smarter optimization with AI Max as it expands globally.",
+            "link": "https://blog.google/products/ads-commerce/google-ai-max-expands-globally/",
+            "site_name": "Google",
+            "novelty_hash": "367f1a80d18837a494f6eff7739c28a93f724bd0"
+          },
+          "review": {
+            "headline_rewrite": "Get greater control and smarter optimization with AI Max as it expands globally.",
+            "bullets": [
+              "All advertisers globally can now use AI Max for Search campaigns, a one-click solution that brings the best of Google AI into your Search campaigns.",
+              "It's now available in beta across Google Ads, Google Ads Editor, Search Ads 360, and through the Google Ads API.",
+              "We’ve heard that you need more flexibility and creative control to make smarter optimization decisions for your campaigns.",
+              "That’s why we’ve rolled out new one-click experiments, built directly into your campaign flow to help you test AI Max with ease.",
+              "We’re also working on text guidelines, a new feature to help you create even more brand-safe creative, steering Google AI to create high-performing text assets that meet your brand and business requirements.",
+              "Look for it in both AI Max and Performance Max campaigns as we start making it available to more advertisers this fall."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft ends OpenAI exclusivity in Office, adds rival Anthropic",
+            "link": "https://arstechnica.com/ai/2025/09/report-microsoft-taps-rival-anthropics-ai-for-office-after-it-beats-openai-at-some-tasks/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "9841d98e567a801ae73af9a492922829a86940a1"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft ends OpenAI exclusivity in Office, adds rival Anthropic",
+            "bullets": [
+              "Microsoft's Office 365 suite will soon incorporate AI models from Anthropic alongside existing OpenAI technology, The Information reported, ending years of exclusive reliance on OpenAI for generative AI features across Word, Excel, PowerPoint, and Outlook.",
+              "The shift reportedly follows internal testing that revealed Anthropic's Claude Sonnet 4 model excels at specific Office tasks where OpenAI's models fall short, particularly in visual design and spreadsheet automation, according to sources familiar with the project cited by The Information, who stressed the move is not a negotiating tactic.",
+              "In an unusual arrangement showing the tangled alliances of the AI industry, Microsoft will reportedly purchase access to Anthropic's models through Amazon Web Services—both a cloud computing rival and one of Anthropic's major investors.",
+              "The integration is expected to be announced within weeks, with subscription pricing for Office's AI tools remaining unchanged, the report says.",
+              "Microsoft maintains that its OpenAI relationship remains intact.",
+              "\"As we've said, OpenAI will continue to be our partner on frontier models and we remain committed to our long-term partnership,\" a Microsoft spokesperson told Reuters following the report."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta adds new features to Community Notes fact checks, including alerts for corrected posts",
+            "link": "https://techcrunch.com/2025/09/10/meta-adds-new-features-to-community-notes-fact-checks-including-alerts-for-corrected-posts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1d8509fa673261070df4d61719fe7eef0711fcb2"
+          },
+          "review": {
+            "headline_rewrite": "Meta adds new features to Community Notes fact checks, including alerts for corrected posts",
+            "bullets": [
+              "Meta is introducing a few new features for its crowdsourced fact-checking program, Community Notes, launched in the U.S.",
+              "Meta CISO Guy Rosen shared on X that since the system’s launch, over 70,000 contributors have written 15,000 notes, only 6% of which were published.",
+              "The latter has been criticized by researchers for failing to flag misinformation in a timely fashion and at scale, leaving some to wonder whether Meta’s alternative will fare any better.",
+              "It suggested that Meta should add measurements that show how many people see the corrected information and make Notes data available publicly for increased transparency."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic reports outages, Claude and Console impacted",
+            "link": "https://techcrunch.com/2025/09/10/anthropic-reports-outages-claude-and-console-impacted/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c8bb0d2f9f728764c09396f954cb703c7faae10c"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic reports outages, Claude and Console impacted",
+            "bullets": [
+              "Anthropic reported a service outage impacting APIs, Console, and Claude earlier this afternoon.",
+              "Users on GitHub and Hacker News noted issues with Claude at around 12:20 ET, with Anthropic releasing a status update eight minutes later, noting that its APIs, Console, and Claude AI were down.",
+              "As press time, the company said it had implemented several fixes and was monitoring the results.",
+              "“We’re aware of a very brief outage of our API today shortly before 9:30am PT,” an Anthropic spokesperson told TechCrunch.",
+              "As Claude users awaited its reboot, some joked about what they were supposed to do since the system was down.",
+              "One user on GitHub wrote about how the software engineering community was now twiddling its thumbs, while another on Hacker News quoted what someone said last time something like this happened: “Nooooo I’m going to have to use my brain again and write 100% of my code like a caveman from December 2024.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Reddit is testing a way to read articles without leaving the app",
+            "link": "https://www.theverge.com/news/775722/reddit-news-publishers-beta-articles-analytics",
+            "site_name": "The Verge",
+            "novelty_hash": "5d996bc0309d7f9d6d9de852527d6f290394add9"
+          },
+          "review": {
+            "headline_rewrite": "Reddit is testing a way to read articles without leaving the app",
+            "bullets": [
+              "As AI tools gobble up news publishers’ traffic on traditional referral platforms like Google, Reddit is offering publishers another way to share their content — within its app.",
+              "On September 10th, Reddit announced a slew of new features available to some publishers that are meant to help them better understand where their stories are being shared and to encourage them to post more on the platform.",
+              "And because we are living in the age of AI recommendations, there’s also an AI tool that will suggest which subreddits publishers should share their stories with."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
