@@ -14918,6 +14918,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:45": [
+        {
+          "item": {
+            "title": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+            "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-blackwell-rtx-launch/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "bf579464634e08777f3202f2830430dec3d01d42"
+          },
+          "review": {
+            "headline_rewrite": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+            "bullets": [
+              "GeForce NOW Blackwell RTX 5080-class SuperPODs are now rolling out, unlocking a new level of ultra high-performance, cinematic cloud gaming.",
+              "GeForce NOW Ultimate members will see GeForce RTX 5080 performance arriving to a server near them, enabling even richer experiences in blockbuster titles like DUNE: Awakening, Borderlands 4, Hell Is Us, Dying Light: The Beast, Cronos: The New Dawn, Clair Obscur: Expedition 33 and more.",
+              "They all come with breathtaking graphics and lowest-latency gameplay, thanks to NVIDIA DLSS 4 technology and next-generation AI features.",
+              "The new Install-to-Play feature is expanding the cloud library to nearly 4,500 games for Ultimate and Performance members.",
+              "This week kicks it off with three new games, including the launch of Borderlands 4.",
+              "Blackwell to the Future\nThe future of cloud gaming has arrived."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "RSS co-creator launches new protocol for AI data licensing",
+            "link": "https://techcrunch.com/2025/09/10/rss-co-creator-launches-new-protocol-for-ai-data-licensing/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2ac67f3117d45d8df864bd239f56890909659570"
+          },
+          "review": {
+            "headline_rewrite": "RSS co-creator launches new protocol for AI data licensing",
+            "bullets": [
+              "In the wake of Anthropic’s $1.5 billion copyright settlement, the AI industry is coming to terms with its training data problem.",
+              "Without some kind of licensing system, AI companies could face an avalanche of copyright lawsuits that some worry will set the industry back permanently.",
+              "Now, a group of technologists and web publishers has launched a system that would enable data licensing at massive scale — provided AI companies take them up on it.",
+              "The question now is if that momentum will be enough to bring major AI labs to the bargaining table.",
+              "According to RSL co-founder Eckart Walther, who also co-created the RSS standard, the goal was to create a training-data licensing system that could scale across the internet.",
+              "On the technical side, the RSL Protocol lays out specific licensing terms a publisher can set for their content, whether that means AI companies need a custom license or to adopt Creative Commons provisions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Lyft and May Mobility launch robotaxis in Atlanta",
+            "link": "https://techcrunch.com/2025/09/10/lyfts-modest-robotaxi-launch-highlights-growing-gap-with-uber-and-waymo/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "76ac47e2b3c3bb07ac2c50284c91fbdbaa82a598"
+          },
+          "review": {
+            "headline_rewrite": "Lyft and May Mobility launch robotaxis in Atlanta",
+            "bullets": [
+              "Riders in Atlanta can now hail a May Mobility robotaxi on the Lyft app, marking the first commercial deployment in the two companies’ partnership.",
+              "Lyft’s Atlanta launch signals an effort to carve out a piece of the robotaxi market.",
+              "Earlier this year, Bank of America analysts downgraded the stock to “Underperform” from “Buy” due to concerns that the ride-hail firm would lose market share to Waymo’s California expansion and Uber’s aggressive AV partnership strategy.",
+              "Analyst sentiment has since brightened after Lyft reported strong second-quarter earnings; launching a robotaxi fleet could help sustain that momentum.",
+              "That said, the debut is modest.",
+              "May’s vehicles will be available to Lyft riders ordering on demand or via the “Wait & Save” feature starting in Midtown Atlanta from morning rush hour into the afternoon Monday through Friday, with plans to extend into evenings and weekends soon."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped",
+            "link": "https://www.theverge.com/hands-on/775222/nvidia-geforce-now-rtx-5080-hands-on",
+            "site_name": "The Verge",
+            "novelty_hash": "eb70b88ad03cc1fdde85502b5dff67dae0f8ef93"
+          },
+          "review": {
+            "headline_rewrite": "Hands-on: Nvidia’s GeForce Now RTX 5080 is better and worse than I hoped",
+            "bullets": [
+              "Today, Nvidia is soft-launching its latest gaming GPUs in the cloud — upgrading its $20-a-month GeForce Now Ultimate cloud gaming service with RTX 5080 graphics for select games, with more to come down the road.",
+              "At the same time, it’s also adding thousands more titles to the bring-your-own-games service by letting you install them yourself, while also unlocking a 360Hz mode for ultra-fast desktop monitors, launching a 90Hz version of its Steam Deck app, and more.",
+              "For the uninitiated, Nvidia’s GeForce Now is a game streaming service that farms the graphical processing power out to the cloud.",
+              "Instead of controlling a game running locally on your Steam Deck or MacBook or phone, you’re effectively remote-controlling an RTX 5080 or 4080-powered* gaming rig in a server farm many miles away, which you sync with your existing Steam, Epic, Ubisoft, Xbox, and Battle.net accounts to access your games and savegames from the cloud.",
+              "In Assassin’s Creed Shadows and Cyberpunk 2077’s built-in benchmarks, two of the few I was able to run, Nvidia’s cloud-based RTX 5080 offered anywhere from 25 to 50 percent gains over the old RTX 4080 servers at 4K resolution.",
+              "There are so few RTX 5080-enabled games as of launch that I had a hard time finding them, and there’s currently no way to tell until after you launch Call of Duty: Black Ops 6 or Shadow of the Tomb Raider that it’s still running on a 4080-class GPU instead."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup",
+            "link": "https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs",
+            "site_name": "The Verge",
+            "novelty_hash": "9ec14485075c6418f96125a8704f3b6db362d212"
+          },
+          "review": {
+            "headline_rewrite": "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup",
+            "bullets": [
+              "The iPhone Air may have been the star of the show, but Apple also announced a new pair of AirPods at its “Awe dropping” event on September 9th.",
+              "The AirPods Pro 3 arrive three years after the second-generation model, which received a minor update in 2023 with a USB-C charging case and dust resistance, and will hit stores on September 19th (though you can preorder them now).",
+              "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup\nFor the first time in a couple years, we’ve got a new pair of AirPods — but are they actually worth your money?",
+              "With their debut, the official AirPods lineup now looks a little different: the fourth-gen AirPods and their ANC counterpart remain the entry-level models, but now the AirPods Pro 3 are Apple’s most premium earbuds.",
+              "The AirPods Max, meanwhile, continues to be the company’s only set of over-ears.",
+              "Priced at $249, the new AirPods Pro 3 push into fitness territory with a built-in heart rate sensor to track calories burned and over 50 types of workouts via the iPhone’s Fitness app."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops",
+            "link": "https://www.wired.com/story/best-google-pixel-phone/",
+            "site_name": "WIRED",
+            "novelty_hash": "784f37743eea56212b9d4c68b3b8ab9af8bfbc75"
+          },
+          "review": {
+            "headline_rewrite": "The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops",
+            "bullets": [
+              "They have industry-leading cameras, get speedy software and security updates directly from Google (like iPhones do from Apple), and are priced competitively.",
+              "In black or white, it's fairly dull.",
+              "Google's Tensor G4 chipset powers it all, the same as in last year's flagship Pixel 9 series.",
+              "The caveat is that the Pixel 9a has only 8 gigabytes of RAM, so two Pixel 9 features aren't present: the Pixel Screenshots app, which uses AI to organize your screenshots, and Call Notes, which provides a text summary of your phone calls.",
+              "Those are helpful features, so it's a shame they're unavailable, but it's not a deal breaker.",
+              "The 48-megapixel is joined by a 13-MP ultrawide and a 13-MP selfie camera, and they're all reliable."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
