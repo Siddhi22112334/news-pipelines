@@ -17054,6 +17054,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:44": [
+        {
+          "item": {
+            "title": "Thinking Machines Lab wants to make AI models more consistent",
+            "link": "https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "377e8e9db726a6a2e62b954d91a3d833b00e0ed9"
+          },
+          "review": {
+            "headline_rewrite": "Thinking Machines Lab wants to make AI models more consistent",
+            "bullets": [
+              "There’s been great interest in what Mira Murati’s Thinking Machines Lab is building with its $2 billion in seed funding and the all-star team of former OpenAI researchers who have joined the lab.",
+              "In a blog post published on Wednesday, Murati’s research lab gave the world its first look into one of its projects: creating AI models with reproducible responses.",
+              "The research blog post, titled “Defeating Nondeterminism in LLM Inference,” tries to unpack the root cause of what introduces randomness in AI model responses.",
+              "This has largely been accepted in the AI community as a fact — today’s AI models are considered to be non-deterministic systems— but Thinking Machines Lab sees this as a solvable problem.",
+              "The post, authored by Thinking Machines Lab researcher Horace He, argues that the root cause of AI models’ randomness is the way GPU kernels — the small programs that run inside of Nvidia’s computer chips — are stitched together in inference processing (everything that happens after you press enter in ChatGPT).",
+              "He suggests that by carefully controlling this layer of orchestration, it’s possible to make AI models more deterministic."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon drivers could be wearing AR glasses with a built-in display next year",
+            "link": "https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors",
+            "site_name": "The Verge",
+            "novelty_hash": "3d8dfe4d2a6a57462bed3ebe2ec6ada738855bb2"
+          },
+          "review": {
+            "headline_rewrite": "Amazon drivers could be wearing AR glasses with a built-in display next year",
+            "bullets": [
+              "Amazon, like Meta, Google, Samsung, and Snap, is working on a new pair of augmented-reality (AR) glasses, according to a report from The Information.",
+              "Amazon drivers could be wearing AR glasses with a built-in display next year\nThe ecommerce giant could launch AR glasses for consumers in late 2026 or early 2027, according to The Information.",
+              "Meta is also working on a pair of AR glasses known as Orion.",
+              "Amazon launched its third-gen Echo Frame smart glasses in 2023, but their features fall flat when compared to Meta’s Ray-Bans.",
+              "Though Amazon may launch its first AR glasses in late 2026 or early 2027, The Information reports that Amazon could release a pair made for delivery drivers even earlier."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate",
+            "site_name": "The Verge",
+            "novelty_hash": "eaf604f74bd31d28e2137c5670bcc0b042e10740"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle",
+            "bullets": [
+              "OpenAI and Oracle signed a deal “to purchase $300 billion in computing power over roughly five years,” one of the largest cloud computing deals ever, reports the Wall Street Journal.",
+              "OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle\nAccording to the WSJ, their five-year deal starts in 2027.",
+              "In July, the two companies revealed their partnership to build data centers worth 4.5 gigawatts of power as part of the broader Stargate project they announced with Softbank and President Trump, without explaining how much OpenAI planned to pay for the datacenters.",
+              "OpenAI’s contract will begin in 2027, according to the report.",
+              "OpenAI, which reportedly expects $12.7 billion in revenue this year, is also likely behind another $10 billion contract with the semiconductor giant Broadcom to design its own AI chip.",
+              "While reporting quarterly earnings on Tuesday, Oracle CEO Safra Catz announced that three unnamed companies had signed “four multi-billion-dollar contracts” in Q1, part of a trend that she said is increasing Oracle’s cloud infrastructure revenue by 77 percent this year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Court rejects Verizon claim that selling location data without consent is legal",
+            "link": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b6bcef9dc5fbb37de71dce774cb8fdde59c6516a"
+          },
+          "review": {
+            "headline_rewrite": "Court rejects Verizon claim that selling location data without consent is legal",
+            "bullets": [
+              "Although FCC Chairman Brendan Carr voted against the fine last year, when the commission had a Democratic majority, his FCC urged the courts to uphold the Biden-era decisions.",
+              "A ruling against the FCC could gut the agency's ability to issue financial penalties.",
+              "The different rulings from different circuits raise the odds of the cases being taken up by the Supreme Court.",
+              "Today's 2nd Circuit ruling against Verizon was issued unanimously by a panel of three judges, and it comes to the same legal conclusions as the DC Circuit did in the T-Mobile case.",
+              "\"We disagree [with Verizon],\" the 2nd Circuit ruling said.",
+              "\"The customer data at issue plainly qualifies as customer proprietary network information, triggering the Communication Act's privacy protections."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "After Ukrainian testing, drone detection radar doubles range with simple software patch",
+            "link": "https://arstechnica.com/culture/2025/09/after-ukrainian-testing-drone-detection-radar-doubles-range-with-simple-software-patch/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0c857c6e40a1e422be7724e2cdd73eae232ef04e"
+          },
+          "review": {
+            "headline_rewrite": "After Ukrainian testing, drone detection radar doubles range with simple software patch",
+            "bullets": [
+              "As part of its unprovoked invasion, Russia has been firing massed waves of drones and missiles into Ukraine for years, though the tempo has been raised dramatically in recent months.",
+              "Barrages of 700-plus drones now regularly attack Ukraine during overnight raids.",
+              "Many of these drones are Shahed/Geran types built with technology imported from Iran, and they have recently gained the ability to fly higher, making shootdowns more difficult.",
+              "Given the low cost of the drones (estimates suggest they cost a few tens of thousands of dollars apiece, and many are simply decoys without warheads), hitting them with multimillion-dollar missiles from traditional air defense batteries makes little sense and would quickly exhaust missile stocks.",
+              "So Ukraine has adopted widespread electronic warfare to disrupt control systems and navigation.",
+              "Drones not forced off their path are fought with mobile anti-aircraft guns, aircraft, and interceptor drones, many launched from mobile fire teams patrolling Ukraine during the night."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "As Apple pursues AI, spare a thought for the poor HomePod",
+            "link": "https://www.engadget.com/home/smart-home/as-apple-pursues-ai-spare-a-thought-for-the-poor-homepod-223250670.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d7c068b4f0a0e925c40a4efc532e51b52c4e3111"
+          },
+          "review": {
+            "headline_rewrite": "As Apple pursues AI, spare a thought for the poor HomePod",
+            "bullets": [
+              "When the entire presentation then passed without another peep about the product, I was disappointed, but resigned.",
+              "And things got worse for the poor HomePod as voice-controlled AI assistants have transitioned away from being centered around dedicated speakers.",
+              "AI is now being integrated ever-more tightly into our smartphones and computers, with less need for a separate intermediary device.",
+              "Which brings us to the ongoing issue of Apple's shaky foothold in the AI race.",
+              "To show off that new AI assistant, Apple is reportedly working on an interactive smart home hub that is expected to have HomePod-like audio capabilities baked in, but won't be ready for launch until at least 2027.",
+              "The AirPods are such a great element in the Apple ecosystem, and I use mine almost daily."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
