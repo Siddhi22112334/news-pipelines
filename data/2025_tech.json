@@ -20478,6 +20478,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:49": [
+        {
+          "item": {
+            "title": "Accelerate serverless testing with LocalStack integration in VS Code IDE",
+            "link": "https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "5bd04042db62bfb067d45f128da161926dcccdbb"
+          },
+          "review": {
+            "headline_rewrite": "Accelerate serverless testing with LocalStack integration in VS Code IDE",
+            "bullets": [
+              "This enhancement builds upon our recent improvements to the AWS Lambda development experience, including the console to IDE integration and remote debugging capabilities we launched in July 2025, continuing our commitment to simplify serverless development on Amazon Web Services (AWS).",
+              "When building serverless applications, developers typically focus on three key areas to streamline their testing experience: unit testing, integration testing, and debugging resources running in the cloud.",
+              "Developers can now emulate end-to-end event-driven workflows involving services such as Lambda, Amazon SQS, and EventBridge locally, without needing to manage multiple tools, perform complex endpoint configurations, or deal with service boundary issues that previously required connecting to cloud resources.",
+              "Getting started with LocalStack in VS Code is straightforward.",
+              "In this illustration, I am using Application Composer to build a simple serverless architecture using Amazon API Gateway, Lambda, and DynamoDB.",
+              "Enhanced development workflow\nThese new capabilities complement our recently launched console-to-IDE integration and remote debugging features, creating a comprehensive development experience that addresses different testing needs throughout the development lifecycle."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others",
+            "link": "https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9dad46ecf7dcc2503aff2d4a581799633a2374f5"
+          },
+          "review": {
+            "headline_rewrite": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others",
+            "bullets": [
+              "The FTC announced on Thursday that it is launching an inquiry into seven tech companies that make AI chatbot companion products for minors: Alphabet, CharacterAI, Instagram, Meta, OpenAI, Snap, and xAI.",
+              "OpenAI and Character.AI face lawsuits from the families of children who died by suicide after being encouraged to do so by chatbot companions.",
+              "Even when these companies have guardrails set up to block or deescalate sensitive conversations, users of all ages have found ways to bypass these safeguards.",
+              "In OpenAI’s case, a teen had spoken with ChatGPT for months about his plans to end his life.",
+              "Though ChatGPT initially sought to redirect the teen toward professional help and online emergency lines, he was able to fool the chatbot into sharing detailed instructions that he then used in his suicide.",
+              "“Our safeguards work more reliably in common, short exchanges,” OpenAI wrote in a blog post at the time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "FTC orders AI companies to hand over info about chatbots&#8217; impact on kids",
+            "link": "https://www.theverge.com/policy/776545/ftc-ai-chatbot-companion-kids-teens-study",
+            "site_name": "The Verge",
+            "novelty_hash": "e694d88a4990b258ca0def7406be907a2d153d81"
+          },
+          "review": {
+            "headline_rewrite": "FTC orders AI companies to hand over info about chatbots&#8217; impact on kids",
+            "bullets": [
+              "The Federal Trade Commission (FTC) is ordering seven AI chatbot companies to provide information about how they assess the effects of their virtual companions on kids and teens.",
+              "FTC orders AI companies to hand over info about chatbots’ impact on kids\nRecent reports discuss teens engaging with AI companions shortly before dying by suicide.",
+              "OpenAI, Meta, its subsidiary Instagram, Snap, xAI, Google parent company Alphabet, and the maker of Character.AI all received orders to share information about how their AI companions make money, how they plan to maintain their user bases, and how they try to mitigate potential harm to users.",
+              "The inquiry is part of a study, rather than an enforcement action, to learn more about how tech firms evaluate the safety of their AI chatbots.",
+              "Amid a broader conversation about kids safety on the internet, the risks of AI chatbots have broken out as a particular cause for concern among many parents and policymakers because of the human-like way they can communicate with users.",
+              "“For all their uncanny ability to simulate human cognition, these chatbots are products like any other, and those who make them available have a responsibility to comply with the consumer protection laws,” FTC Commissioner Mark Meador said in a statement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can now play Silksong on flagship Android phones — and pick up where you left off on PC",
+            "link": "https://www.theverge.com/hands-on/776180/hollow-knight-silksong-android-phone-windows-emulation-gamehub",
+            "site_name": "The Verge",
+            "novelty_hash": "b1e2ceaa71649f5c62c96c1637111952e084e669"
+          },
+          "review": {
+            "headline_rewrite": "You can now play Silksong on flagship Android phones — and pick up where you left off on PC",
+            "bullets": [
+              "Hollow Knight: Silksong, one of the hottest games of the year with a reported five million players in its first week, didn’t launch on smartphones.",
+              "I’m talking about GameHub, the app from Chinese mobile gamepad manufacturer GameSir, which just launched version 5.0 with two key features that help it rise above the Windows-on-phone emulation scene.",
+              "First, it automatically configures itself with the right graphics drivers, translation layer, and other components when you launch the game — something that I spent hours trying to do manually with rivals Winlator, GameNative, and an earlier version of GameHub with far worse results.",
+              "The result: you can download this app, log into your Steam account, tap to install the game, tap to play the game, tap a couple more times to enable Steam cloud saves… and then you’re playing a Steam game on a phone!",
+              "But with the X3 Pro I was able to maintain framerates of over 100fps even in big fights, so long as I plugged the gamepad’s Peltier cooling plate and noisy fan into USB-C power.",
+              "Some in the Android emulation community have turned to the Nintendo Switch emulator Eden for better sustained performance in Silksong, and I’ve heard that one runs at a stable 120fps without extra cooling."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Save Big on Our Favorite Outdoor Security Cam",
+            "link": "https://www.wired.com/story/arlo-deal-september-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "6abc55961160a1f27f5e7c46b451d166a4ce8c88"
+          },
+          "review": {
+            "headline_rewrite": "Save Big on Our Favorite Outdoor Security Cam",
+            "bullets": [
+              "Our favorite outdoor security camera, the Arlo Pro 5 (9/10, WIRED Recommends) is currently marked down almost half off.",
+              "The video quality is surprisingly good for an outdoor security camera, with a 1440p output resolution, which is bolstered by a new and improved 12-bit sensor.",
+              "The result is great coverage in both dark and bright areas, without losing details or overexposing.",
+              "It loads quickly too, with notifications for both iOS and Android that are detailed and easy to access.",
+              "Arlo even offers a color night vision mode, which our reviewer said is excellent, although moving objects can look a bit blurry.",
+              "Unfortunately you'll need a subscription to use all of those fancy features, with plans starting at $5 per month for one camera, but we found it was worth it for the cloud storage and excellent app support."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The FTC is investigating companies that make AI companion chatbots",
+            "link": "https://www.engadget.com/ai/the-ftc-is-investigating-companies-that-make-ai-companion-chatbots-181413615.html",
+            "site_name": "Engadget",
+            "novelty_hash": "bf2b1fa2a3294765322e62aae92917e9e0bebb93"
+          },
+          "review": {
+            "headline_rewrite": "The FTC is investigating companies that make AI companion chatbots",
+            "bullets": [
+              "The Federal Trade Commission is making a formal inquiry into companies that provide AI chatbots that can act as companions.",
+              "The investigation isn't tied to any kind of regulatory action as of yet, but does aim to reveal how companies \"measure, test, and monitor potentially negative impacts of this technology on children and teens.\"\nSeven companies are being asked to participate in the FTC's investigation: Google's parent company Alphabet, Character Technologies (the creator of Character.AI), Meta, its subsidiary Instagram, OpenAI, Snap and X.AI.",
+              "The FTC is asking companies to provide a variety of different information, including how they develop and approve AI characters and \"monetize user engagement.\" Data practices and how companies protect underage users are also areas the FTC hopes to learn more about, in part to see if chatbot makers \"comply with the Children’s Online Privacy Protection Act Rule.\"\n\"If the facts — as developed through subsequent and appropriately targeted law enforcement inquiries, if warranted — indicate that the law has been violated, the Commission should not hesitate to act to protect the most vulnerable among us,\" Meador writes.",
+              "As the long-term productivity benefits of using AI become less and less certain, the more immediate negative privacy and health impacts have become red meat for regulators.",
+              "Texas' Attorney General has already launched a separate investigation into Character.",
+              "AI and Meta AI Studio over similar concerns of data privacy and chatbots claiming to be mental health professionals."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
