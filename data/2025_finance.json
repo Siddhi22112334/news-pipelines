@@ -8701,5 +8701,43 @@
         }
       ]
     }
+  },
+  "2025-09-12": {
+    "runs": {
+      "00:13": [
+        {
+          "item": {
+            "title": "Infosys board approves record ₹18,000 crore share buyback programme",
+            "link": "https://www.thehindubusinessline.com/markets/stock-markets/infosys-board-approves-record-18000-crore-share-buyback-programme/article70039156.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Infosys board approves record ₹18,000 crore share buyback programme",
+            "bullets": [
+              "Infosys will buy 10 crore fully paid-up equity shares of a face value of Rs 5 each, representing up to 2.41 per cent of",
+              "Shares of the company closed at Rs 1509.50 apiece, down by 1.51 per cent compared to the previous close at BSE, on Thursday."
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "SIAM convention: GST rate cut would not generate much traction for small hatchbacks, but compact SUVs, says Hyundai",
+            "link": "https://www.thehindubusinessline.com/news/siam-convention-gst-rate-cut-would-not-generate-much-traction-to-small-hatchbacks-but-compact-suvs-says-hyundai/article70038684.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "SIAM convention: GST rate cut would not generate much traction for small hatchbacks, but compact SUVs, says Hyundai",
+            "bullets": [
+              "Speaking to mediapersons on the sidelines of the 65th Society of Indian Automobile Manufacturers (SIAM) annual convention, Tarun Garg, Whole-Time Director and Chief Operating",
+              "“A combination of factors, including income tax relief on annual income of up to ₹12 lakh, transmission of the impact of repo rate cuts"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
