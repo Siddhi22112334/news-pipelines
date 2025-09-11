@@ -21777,6 +21777,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:06": [
+        {
+          "item": {
+            "title": "OpenAI secures Microsoft’s blessing to transition its for-profit arm",
+            "link": "https://techcrunch.com/2025/09/11/openai-secures-microsofts-blessing-to-transition-its-for-profit-arm/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ec140685635973f291779dfedfbc10845bd34cd7"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI secures Microsoft’s blessing to transition its for-profit arm",
+            "bullets": [
+              "OpenAI announced Thursday it reached a non-binding agreement with Microsoft, its largest investor, on a revised partnership that would allow the startup to convert its for-profit arm into a public benefit corporation (PBC).",
+              "The transition, should it be cleared by state regulators, could allow OpenAI to raise additional capital from investors and, eventually, become a public company.",
+              "In a blog post, OpenAI Board Chairman Bret Taylor said under the non-binding agreement with Microsoft, OpenAI’s nonprofit would continue to exist and retain control over the startup’s operations.",
+              "OpenAI’s nonprofit would obtain a stake in the company’s PBC worth upwards of $100 billion, Taylor said.",
+              "“Microsoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership,” the companies said in a joint statement.",
+              "MOUs are not legally binding, but aim to document each party’s expectations and intent."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s latest iPhone security feature just made life more difficult for spyware makers",
+            "link": "https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d3b17543cb99ddb1a6a7aeeee31810b6ac0a3ce2"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s latest iPhone security feature just made life more difficult for spyware makers",
+            "bullets": [
+              "Buried in an ocean of flashy novelties announced by Apple this week, the tech giant also revealed new security technology for its latest iPhone 17 and iPhone Air devices.",
+              "This new security technology was made specifically to fight against surveillance vendors and the types of vulnerabilities they rely on the most, according to Apple.",
+              "“Known mercenary spyware chains used against iOS share a common denominator with those targeting Windows and Android: they exploit memory safety vulnerabilities, which are interchangeable, powerful, and exist throughout the industry,” Apple wrote in its blog post.",
+              "Cybersecurity experts, including people who make hacking tools and exploits for iPhones, tell TechCrunch that this new security technology could make Apple’s newest iPhones some of the most secure devices on the planet.",
+              "“The iPhone 17 is probably now the most secure computing environment on the planet that is still connected to the internet,” a security researcher, who has worked on developing and selling zero-days and other cyber capabilities to the U.S.",
+              "The researcher told TechCrunch that MIE will raise the cost and time to develop their exploits for the latest iPhones, and consequently up their prices for paying customers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft is making &#8216;significant investments&#8217; in training its own AI models",
+            "link": "https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models",
+            "site_name": "The Verge",
+            "novelty_hash": "a29dc181f80957633672ea87c425b8205f9e0f4e"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft is making &#8216;significant investments&#8217; in training its own AI models",
+            "bullets": [
+              "Microsoft AI launched its first in-house models last month, adding to the already complicated relationship with its OpenAI partner.",
+              "Now, Microsoft AI chief Mustafa Suleyman says the company is making “significant investments” in the compute capacity required to Microsoft’s own future frontier models.",
+              "Microsoft is making ‘significant investments’ in training its own AI models\nMicrosoft AI’s first in-house models were just the beginning.",
+              "“We should have the capacity to build world class frontier models in house of all sizes, but we should be very pragmatic and use other models where we need to,” said Suleyman during Microsoft’s employee-only town hall on Thursday.",
+              "“We’re also going to be making significant investments in our own cluster, so today MAI-1-preview was only trained on 15,000 H100s, a tiny cluster in the grand scheme of things.”\nSuleyman hinted that Microsoft has ambitions to train models that are comparable to Meta, Google, and xAI’s efforts on clusters that are “six to ten times larger in size” than what Microsoft used for its MAI-1-preview.",
+              "“Much more to do, but it’s good to take the first steps,” said Suleyman."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft and OpenAI have a new deal that could clear the way for an IPO",
+            "link": "https://www.theverge.com/news/776884/openai-microsoft-mou",
+            "site_name": "The Verge",
+            "novelty_hash": "3ddf2bca4792ff24de31358e66b6770acf9e1ca1"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft and OpenAI have a new deal that could clear the way for an IPO",
+            "bullets": [
+              "As OpenAI attempts to restructure itself and eventually go public, a hurdle for the startup, recently valued at $500 billion, is its increasingly complicated partnership with Microsoft.",
+              "Microsoft and OpenAI have a new deal that could clear the way for an IPO\nAs OpenAI reworks its nonprofit structure, it’s made progress with Microsoft on their partnership’s ‘next phase’.",
+              "Microsoft & OpenAI:\nMicrosoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership.",
+              "Together, we remain focused on delivering the best AI tools for everyone, grounded in our shared commitment to safety.",
+              "Microsoft has invested $13 billion in OpenAI since 2019, and shares in the revenue earned by ChatGPT as well as its API.",
+              "Microsoft also now includes OpenAI as a competitor, allows OpenAI to lean on other cloud providers for compute power, and has started to increase its reliance on its own AI models."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI and Microsoft sign preliminary deal to revise partnership terms",
+            "link": "https://arstechnica.com/ai/2025/09/openai-and-microsoft-sign-preliminary-deal-to-revise-partnership-terms/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "9c7853d7c35d98ac4a80fd037759c6cbb8b6c9c4"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI and Microsoft sign preliminary deal to revise partnership terms",
+            "bullets": [
+              "On Thursday, OpenAI and Microsoft announced they have signed a non-binding agreement to revise their partnership, marking the latest development in a relationship that has grown increasingly complex as both companies compete for customers in the AI market and seek new partnerships for growing infrastructure needs.",
+              "\"Microsoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership,\" the companies wrote in a joint statement.",
+              "Together, we remain focused on delivering the best AI tools for everyone, grounded in our shared commitment to safety.\"\nThe announcement comes as OpenAI seeks to restructure from a nonprofit to a for-profit entity, a transition that requires Microsoft's approval, as the company is OpenAI's largest investor with more than $13 billion committed since 2019.",
+              "The partnership has shown increasing strain as OpenAI has grown from a research lab into a company valued at $500 billion.",
+              "Both companies now compete for customers, and OpenAI seeks more compute capacity than Microsoft can provide.",
+              "The relationship has also faced complications over contract terms, including provisions that would limit Microsoft's access to OpenAI technology once the company reaches so-called AGI (artificial general intelligence)—a nebulous milestone both companies now economically define as AI systems capable of generating at least $100 billion in profit."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Child dies of horrifying measles complication in Los Angeles",
+            "link": "https://arstechnica.com/health/2025/09/child-dies-of-horrifying-measles-complication-in-los-angeles/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "32306e71e75056402f25aa51eb79413f6ed43054"
+          },
+          "review": {
+            "headline_rewrite": "Child dies of horrifying measles complication in Los Angeles",
+            "bullets": [
+              "A child in Los Angeles has died of a measles-related brain disorder stemming from an infection in infancy, the Los Angeles County health department reported Thursday.",
+              "The health department's announcement offered few details about the child, including the child's age, but said that the child had contracted the virus before they were old enough to be vaccinated against measles.",
+              "\"This case is a painful reminder of how dangerous measles can be, especially for our most vulnerable community members,\" Muntu Davis, a Los Angeles County health officer, said in a statement.",
+              "But, for a small few, the virus remains and SSPE emerges years later, often seven to 10 years after the initial infection."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
