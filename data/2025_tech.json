@@ -21425,6 +21425,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:44": [
+        {
+          "item": {
+            "title": "A joint statement from Microsoft and OpenAI",
+            "link": "https://blogs.microsoft.com/blog/2025/09/11/a-joint-statement-from-microsoft-and-openai/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "21432056da5b2a4a17d5feea79faea605d88437d"
+          },
+          "review": {
+            "headline_rewrite": "A joint statement from Microsoft and OpenAI",
+            "bullets": [
+              "Microsoft and OpenAI have signed a non-binding memorandum of understanding (MOU) for the next phase of our partnership.",
+              "Together, we remain focused on delivering the best AI tools for everyone, grounded in our shared commitment to safety."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s latest iPhone security feature just made life more difficult for spyware makers",
+            "link": "https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "55716c63ef507596167a8b934ff00341548dddac"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s latest iPhone security feature just made life more difficult for spyware makers",
+            "bullets": [
+              "Buried in an ocean of flashy novelties announced by Apple this week, the tech giant also revealed new security technology for its latest iPhone 17 and iPhone Air devices.",
+              "This new security technology was made specifically to fight against surveillance vendors and the types of vulnerabilities they rely on the most, according to Apple.",
+              "“Known mercenary spyware chains used against iOS share a common denominator with those targeting Windows and Android: they exploit memory safety vulnerabilities, which are interchangeable, powerful, and exist throughout the industry,” Apple wrote in its blog post.",
+              "Cybersecurity experts, including people who make hacking tools and exploits for iPhones, tell TechCrunch that this new security technology could make Apple’s newest iPhones some of the most secure devices on the planet.",
+              "“The iPhone 17 is probably now the most secure computing environment on the planet that is still connected to the internet,” a security researcher, who has worked on developing and selling zero-days and other cyber capabilities to the U.S.",
+              "The researcher told TechCrunch that MIE will raise the cost and time to develop their exploits for the latest iPhones, and consequently up their prices for paying customers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The music industry is broken. OpenWav’s new app aims to change that",
+            "link": "https://techcrunch.com/2025/09/11/the-music-industry-is-broken-openwavs-new-app-aims-to-change-that/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2f0dd51535e3b5f711a6400259eba74e1f853c8a"
+          },
+          "review": {
+            "headline_rewrite": "The music industry is broken. OpenWav’s new app aims to change that",
+            "bullets": [
+              "Through the OpenWav app, launched over the summer, artists can drop new music and exclusives, connect directly with fans, sell merch, host concerts, pop-ups, and listening parties, and more.",
+              "Later, the startup plans to offer more assistance to artists using AI tools.",
+              "Speaking at the Fortune Brainstorm Tech conference this week, Jean, now Chief Creative Officer at OpenWav, had harsh words for the state of the music industry, particularly criticizing the business model of streaming services.",
+              "So now you have a constant revolt,” he said.",
+              "To put things in perspective, OpenWav co-founder and CEO Jaeson Ma, who spoke alongside Jean at the event, said that, “Right now on Spotify…for $3,000 you have to hit 1 million streams.” Ma is a media industry entrepreneur, investor, and advisor who has backed numerous startups, including Musical.ly (which became TikTok), Triller, Coinbase, Grab, and others, and co-founded multiple media companies and the NFT app OP3N.",
+              "Ma explained that the industry’s broken model is why the team at OpenWav is building a direct-to-fan music platform."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Claude AI can now automatically ‘remember’ past chats",
+            "link": "https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise",
+            "site_name": "The Verge",
+            "novelty_hash": "133599eb970e4b9b5107482cd4d48ada3241494c"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude AI can now automatically ‘remember’ past chats",
+            "bullets": [
+              "Anthropic will now let its Claude AI chatbot “remember” the details of previous conversations without prompting.",
+              "The feature is only rolling out for Team and Enterprise users for now, allowing Claude to automatically incorporate someone’s preferences, the context of the project they’re working on, and their main priorities into each of its responses.",
+              "Anthropic’s Claude AI can now automatically ‘remember’ past chats\nClaude’s upgraded memory is only coming to Team and Enterprise users for now.",
+              "Anthropic rolled out the ability for paid users to prompt Claude to remember past chats last month, but now the chatbot can pull up these details without Team and Enterprise users having to ask.",
+              "It seems to be particularly focused on work-related details, like a “team’s processes” and “client needs.” Anthropic notes that memory is “fully optional.”\nAnthropic says users can view and edit the memory Claude has stored from their settings menu.",
+              "Both OpenAI and Google have already launched cross-chat memories for their chatbots."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter",
+            "link": "https://www.theverge.com/news/776793/charlie-kirk-fbi-person-of-interest-photos-shooter",
+            "site_name": "The Verge",
+            "novelty_hash": "ae32b42f51af343dc5a6709214a25eaac1ad3b6b"
+          },
+          "review": {
+            "headline_rewrite": "Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter",
+            "bullets": [
+              "Numerous users replied with AI-upscaled, “enhanced” versions of the pictures almost immediately, turning the pixelated surveillance shots into sharp, high-resolution images.",
+              "But AI tools aren’t uncovering secret details in a fuzzy picture, they’re inferring what might be there — and they have a track record of showing things that don’t exist.",
+              "Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter\nThe FBI shared photos of a ‘person of interest,’ but people online are upscaling them using AI.",
+              "Many AI-generated photo variations were posted under the original images, some apparently created with X’s own Grok bot, others with tools like ChatGPT.",
+              "They vary in plausibility, though some are obviously off, like an “AI-based textual rendering” showing a clearly different shirt and Gigachad-level chin.",
+              "In past incidents, AI upscaling has done things like “depixelating” a low-resolution picture of President Barack Obama into a white man and adding a nonexistent lump to President Donald Trump’s head."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return?",
+            "link": "https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "74cacdb373ec54432a27db06a4be0eb298474208"
+          },
+          "review": {
+            "headline_rewrite": "NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return?",
+            "bullets": [
+              "\"This is exciting news,\" said Duffy about an arrow-shaped rock on Mars found by NASA's Perseverance rover.",
+              "The rock contained chemical signatures and structures that could have been formed by ancient microbial life.",
+              "Duffy was ready, he said, to discuss the scientific results along with NASA experts on the call with reporters.",
+              "However, the very first question—and for any space reporter, the obvious one—concerned NASA's on-again, off-again plan to return rocks from the surface of Mars for study on Earth.",
+              "Amit (Kshatriya, the new Associate Administrator of NASA) even said maybe we'll send our equipment to test this sample to Mars itself."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
