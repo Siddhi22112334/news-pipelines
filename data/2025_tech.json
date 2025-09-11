@@ -20843,6 +20843,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "Accelerate serverless testing with LocalStack integration in VS Code IDE",
+            "link": "https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "5bd04042db62bfb067d45f128da161926dcccdbb"
+          },
+          "review": {
+            "headline_rewrite": "Accelerate serverless testing with LocalStack integration in VS Code IDE",
+            "bullets": [
+              "This enhancement builds upon our recent improvements to the AWS Lambda development experience, including the console to IDE integration and remote debugging capabilities we launched in July 2025, continuing our commitment to simplify serverless development on Amazon Web Services (AWS).",
+              "When building serverless applications, developers typically focus on three key areas to streamline their testing experience: unit testing, integration testing, and debugging resources running in the cloud.",
+              "Developers can now emulate end-to-end event-driven workflows involving services such as Lambda, Amazon SQS, and EventBridge locally, without needing to manage multiple tools, perform complex endpoint configurations, or deal with service boundary issues that previously required connecting to cloud resources.",
+              "Getting started with LocalStack in VS Code is straightforward.",
+              "In this illustration, I am using Application Composer to build a simple serverless architecture using Amazon API Gateway, Lambda, and DynamoDB.",
+              "Enhanced development workflow\nThese new capabilities complement our recently launched console-to-IDE integration and remote debugging features, creating a comprehensive development experience that addresses different testing needs throughout the development lifecycle."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook",
+            "link": "https://techcrunch.com/2025/09/11/what-comes-after-twitter-and-meta-the-founders-of-01a-share-their-playbook-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f355947dfff6e3dffedc41120113b4ad827a8e5b"
+          },
+          "review": {
+            "headline_rewrite": "VC leaders from 01 Advisors take the Builders Stage at TechCrunch Disrupt 2025 to share the scaling playbook",
+            "bullets": [
+              "On October 28, Adam Bain, Dick Costolo, and David Fischer — now at 01 Advisors — will sit down for an exclusive fireside chat on what it takes to build, scale, and fund startups in today’s ever-shifting landscape.",
+              "Adam Bain — Former COO of Twitter, Bain built its sales, product, and ad operations from scratch, growing revenue from millions to billions in five years.",
+              "Inside the fireside: Scaling, funding, and what’s next\nThis conversation isn’t just about what they’ve done — it’s about where they believe tech is headed next.",
+              "Expect insights on finding product-market fit, scaling with intention, fundraising in today’s market, and what they look for when backing founders through 01A."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others",
+            "link": "https://techcrunch.com/2025/09/11/ftc-launches-inquiry-into-ai-chatbot-companions-from-meta-openai-and-others/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9dad46ecf7dcc2503aff2d4a581799633a2374f5"
+          },
+          "review": {
+            "headline_rewrite": "FTC launches inquiry into AI chatbot companions from Meta, OpenAI, and others",
+            "bullets": [
+              "The FTC announced on Thursday that it is launching an inquiry into seven tech companies that make AI chatbot companion products for minors: Alphabet, CharacterAI, Instagram, Meta, OpenAI, Snap, and xAI.",
+              "OpenAI and Character.AI face lawsuits from the families of children who died by suicide after being encouraged to do so by chatbot companions.",
+              "Even when these companies have guardrails set up to block or deescalate sensitive conversations, users of all ages have found ways to bypass these safeguards.",
+              "In OpenAI’s case, a teen had spoken with ChatGPT for months about his plans to end his life.",
+              "Though ChatGPT initially sought to redirect the teen toward professional help and online emergency lines, he was able to fool the chatbot into sharing detailed instructions that he then used in his suicide.",
+              "“Our safeguards work more reliably in common, short exchanges,” OpenAI wrote in a blog post at the time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can now play Silksong on flagship Android phones — and pick up where you left off on PC",
+            "link": "https://www.theverge.com/hands-on/776180/hollow-knight-silksong-android-phone-windows-emulation-gamehub",
+            "site_name": "The Verge",
+            "novelty_hash": "b1e2ceaa71649f5c62c96c1637111952e084e669"
+          },
+          "review": {
+            "headline_rewrite": "You can now play Silksong on flagship Android phones — and pick up where you left off on PC",
+            "bullets": [
+              "Hollow Knight: Silksong, one of the hottest games of the year with a reported five million players in its first week, didn’t launch on smartphones.",
+              "I’m talking about GameHub, the app from Chinese mobile gamepad manufacturer GameSir, which just launched version 5.0 with two key features that help it rise above the Windows-on-phone emulation scene.",
+              "First, it automatically configures itself with the right graphics drivers, translation layer, and other components when you launch the game — something that I spent hours trying to do manually with rivals Winlator, GameNative, and an earlier version of GameHub with far worse results.",
+              "The result: you can download this app, log into your Steam account, tap to install the game, tap to play the game, tap a couple more times to enable Steam cloud saves… and then you’re playing a Steam game on a phone!",
+              "But with the X3 Pro I was able to maintain framerates of over 100fps even in big fights, so long as I plugged the gamepad’s Peltier cooling plate and noisy fan into USB-C power.",
+              "Some in the Android emulation community have turned to the Nintendo Switch emulator Eden for better sustained performance in Silksong, and I’ve heard that one runs at a stable 120fps without extra cooling."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "New black hole merger bolsters Hawking area theorem",
+            "link": "https://arstechnica.com/science/2025/09/new-black-hole-merger-bolsters-hawking-area-theorem/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5573bbcffe023a44143ce69b9567bab2cb79628f"
+          },
+          "review": {
+            "headline_rewrite": "New black hole merger bolsters Hawking area theorem",
+            "bullets": [
+              "Back in 1971, the late physicist Stephen Hawking made an intriguing prediction: The total surface area of a black hole cannot decrease, only increase or remain stable.",
+              "Analysis of the gravitational signal from a black hole merger detected in January provides the best observational evidence to date in support of Hawking's theorem, according to a new paper published in the journal Physical Review Letters.",
+              "The breakthrough just happens to coincide with the 10-year anniversary of the LIGO collaboration's Nobel Prize-winning first detection of a black hole merger.",
+              "Now known as LIGO/Virgo/KAGRA (LVK), the collaboration searches the Universe for gravitational waves produced by the mergers of black holes and neutron stars.",
+              "Each instrument is so sensitive that it also picks up small ambient vibrations, like a rumbling freight train or natural thermal vibrations in the detectors themselves."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ted Cruz AI bill could let firms bribe Trump to avoid safety laws, critics warn",
+            "link": "https://arstechnica.com/tech-policy/2025/09/ted-cruz-bill-would-let-big-tech-go-wild-with-ai-experiments-for-10-years/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "922c2b31926ee7597c0405c7cc85218d4c0abe63"
+          },
+          "review": {
+            "headline_rewrite": "Ted Cruz AI bill could let firms bribe Trump to avoid safety laws, critics warn",
+            "bullets": [
+              "Ted Cruz's (R-Texas) new AI policy framework, which they claim would give the White House unprecedented authority to allow Big Tech companies to make \"sweetheart\" deals with the Trump administration to void laws designed to protect the public from reckless AI experiments.",
+              "Under the framework, Cruz calls for a \"light-touch\" regulatory approach to \"advance American leadership\" in AI and ensure that \"American values\" are at the heart of the world's leading technology—not Chinese values.",
+              "Unsurprisingly, the framework requires blocking \"burdensome\" state AI regulations, as well as foreign ones.",
+              "Cruz unsuccessfully helped push for a similar decadelong moratorium on state AI laws as part of Republicans' \"big beautiful\" budget bill.",
+              "And more recently, he lost a bid to punish states for regulating AI, ultimately voting against his own measure in the face of overwhelming bipartisan opposition.",
+              "As the first step toward limiting AI regulations to prioritize innovation, Cruz announced the SANDBOX Act—which is shorthand for \"Strengthening Artificial intelligence Normalization and Diffusion By Oversight and eXperimentation.\"\nIf passed, the SANDBOX Act would let AI companies apply to temporarily avoid enforcement of federal laws that could limit their testing of new AI products."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
