@@ -19878,6 +19878,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:07": [
+        {
+          "item": {
+            "title": "Sierra CEO Bret Taylor on why the AI bubble feels like the dotcom boom",
+            "link": "https://www.theverge.com/decoder-podcast-with-nilay-patel/773904/sierra-ceo-bret-taylor-ai-agents-openai-bubble-interview",
+            "site_name": "The Verge",
+            "novelty_hash": "b4961d29c33c437c3c42de4c3af0aab3903efc9e"
+          },
+          "review": {
+            "headline_rewrite": "Sierra CEO Bret Taylor on why the AI bubble feels like the dotcom boom",
+            "bullets": [
+              "For my final episode as your Thursday guest host, I recently sat down with Bret Taylor, the CEO of AI startup Sierra and the chairman of OpenAI, for a live event in San Francisco, California, hosted by Alix Partners.",
+              "Sierra CEO Bret Taylor on why the AI bubble feels like the dotcom boom\nThe OpenAI chairman, now working on AI agents at his new startup Sierra, on why he’s all in on AI.",
+              "After eventually becoming co-CEO of Salesforce, he left to start Sierra, which is rethinking how businesses use AI for customer support.",
+              "Along the way, he led Twitter’s board during Elon Musk’s takeover and became chairman of the OpenAI board after the firing and rehiring of CEO Sam Altman.",
+              "As you’ll hear in our conversation, Bret is all in on AI.",
+              "Just this week, Sierra raised a new round of funding, valuing it at $10 billion."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is shutting down Tables, its Airtable rival",
+            "link": "https://techcrunch.com/2025/09/11/google-is-shutting-down-tables-its-airtable-rival/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3dd7e73a82c7741af6c30a08a99cf38da2fdf726"
+          },
+          "review": {
+            "headline_rewrite": "Google is shutting down Tables, its Airtable rival",
+            "bullets": [
+              "Google Tables, a work-tracking tool and competitor to the popular spreadsheet-database hybrid Airtable, is shutting down.",
+              "In an email sent to Tables users this week, Google said the app will not be supported after December 16, 2025, and advised that users export or migrate their data to either Google Sheets or AppSheet instead, depending on their needs.",
+              "Launched in 2020, Tables focused on making project tracking more efficient with automation.",
+              "Some of these projects later graduated to become a part of Google’s core offerings across Cloud, Search, Shopping and more.",
+              "Tables was one of those early successes: Google said in 2021 that the service was moving from a beta test to become an official Google Cloud product.",
+              "At the time, the company said it saw Tables as a potential solution for a variety of use cases, including project management, IT operations, customer service tracking, CRM, recruiting, product development and more."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "France says Apple notified victims of new spyware attacks",
+            "link": "https://techcrunch.com/2025/09/11/france-says-apple-notified-victims-of-new-spyware-attacks/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1b6dfbbff445f7a9c6c085b2d0d64ad66dddd52a"
+          },
+          "review": {
+            "headline_rewrite": "France says Apple notified victims of new spyware attacks",
+            "bullets": [
+              "Apple has notified a number of individuals that their devices were targeted in a spyware campaign, according to the French government.",
+              "France’s national cybersecurity response unit said on Thursday that it was aware that Apple on September 3 sent a new notification to affected customers whose Apple devices may have been hacked.",
+              "The cybersecurity unit said receiving a threat notification means that at least one of the devices linked to a customer’s iCloud account “has been targeted and would be potentially compromised.”\nIt’s unclear how many individuals, including in France, received the September 3 threat notification, which spyware was used, or when the intrusions began.",
+              "Apple periodically notifies victims that their devices were targeted and advises victims to seek help from Access Now’s digital security lab."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s faster MagSafe Charger can now charge other phones at 25W",
+            "link": "https://www.theverge.com/news/776411/apple-magsafe-charger-qi2-2-wireless-charging-25w",
+            "site_name": "The Verge",
+            "novelty_hash": "3690acc4b15daa1dd056f41a75516c35e4857504"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s faster MagSafe Charger can now charge other phones at 25W",
+            "bullets": [
+              "A new version of Apple’s MagSafe Charger is now available, and like the iPhone 17, 17 Pro, and 17 Pro Max, it now fully supports the Qi2.2 standard and can be used to charge other compatible devices (like the Google Pixel 10) at 25W rates, as spotted by MacRumors and 9to5Mac.",
+              "The new charger, which was first leaked last June through Taiwan’s National Communications Commission’s website, is now available through Apple’s online store with a 1-meter USB-C cable for $39, or a 2-meter cable for $49.",
+              "Apple introduced 25W wireless charging with the iPhone 16 ahead of the Qi2.2 specification being officially introduced early this year, which is why the faster rate was only available when using Apple’s own wireless charger.",
+              "However, if you’re upgrading to the iPhone Air, you’re only going to see a maximum of 20W rates when charging wirelessly."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s Big Bet to Eliminate the iPhone’s Most Targeted Vulnerabilities",
+            "link": "https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/",
+            "site_name": "WIRED",
+            "novelty_hash": "98187b8cd266a3c7849e95edeaa7e3812e245237"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s Big Bet to Eliminate the iPhone’s Most Targeted Vulnerabilities",
+            "bullets": [
+              "Apple launched a slate of new iPhones on Tuesday loaded with the company's new A19 and A19 Pro chips.",
+              "Along with an ultrathin iPhone Air and other redesigns, the new phones come with a less flashy upgrade that could turn out to be the true killer feature.",
+              "A security improvement called Memory Integrity Enforcement combines always-on, chip-level protections with software defenses in an effort to harden iPhones against the most common—and commonly exploited—software vulnerabilities.",
+              "When developers—even experienced and security-conscious developers—write software in ubiquitous, historic programming languages, like C and C++, it's easy to make mistakes that lead to memory safety vulnerabilities.",
+              "That's why proactive tools like special programming languages have been proliferating with the goal of making it structurally impossible for software to contain these vulnerabilities, rather than attempting to avoid introducing them or catch all of them.",
+              "“The importance of memory safety cannot be overstated,” the US National Security Agency and Cybersecurity and Infrastructure Security Agency wrote in a June report."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Best Travel Cameras (2025), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-travel-cameras/",
+            "site_name": "WIRED",
+            "novelty_hash": "3bcc72d8283256e7b367756c3f025f75585d36fb"
+          },
+          "review": {
+            "headline_rewrite": "Best Travel Cameras (2025), Tested and Reviewed",
+            "bullets": [
+              "Heck, even pros on assignment don't want to lug around huge cameras and lenses, but at least they get paid to do it.",
+              "If you aren't getting paid, I suggest sticking with something small.",
+              "Here are a few other things to look look for in a travel camera:\n- JPEG quality: This is related to the above, but focused specifically on the JPGs that come straight out of the camera.",
+              "That said, shooting in a downpour is unlikely to end well for your camera, no matter what the IP rating might be.",
+              "You certainly can.",
+              "It inhabits a no man's land between normal and portrait, and I use it for both."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
