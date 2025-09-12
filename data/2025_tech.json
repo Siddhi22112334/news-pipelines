@@ -25710,6 +25710,116 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:46": [
+        {
+          "item": {
+            "title": "Why the Oracle-OpenAI deal caught Wall Street by surprise",
+            "link": "https://techcrunch.com/2025/09/12/why-the-oracle-openai-deal-caught-wall-street-by-surprise/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ea4f65a6a83467b42faeb31459ddc5dc71559d25"
+          },
+          "review": {
+            "headline_rewrite": "Why the Oracle-OpenAI deal caught Wall Street by surprise",
+            "bullets": [
+              "This week, OpenAI and Oracle shocked the markets with a surprise $300 billion, five-year agreement, part of a surge of new business that sent the cloud provider’s stock skyrocketing.",
+              "The deal is a reminder that, despite Oracle’s legacy status, the company still plays a major role in AI infrastructure.",
+              "On the OpenAI side, the agreement was more revealing than the lack of details suggest.",
+              "For one, the startup’s willingness to pay so much for compute provides a measurement of the startup’s appetite — even if it’s unclear where the electricity to power said compute is coming from or how it will pay for it.",
+              "It makes sense for OpenAI to work with several infrastructure providers, he noted.",
+              "It also diversifies the company’s infrastructure — spreading out risk among several cloud providers — and gives OpenAI a scaling advantage compared to competitors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is a ‘bad actor’ says People CEO, accusing the company of stealing content",
+            "link": "https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d573a257dc207cc0d25d4b31e24b3caf4eb8769b"
+          },
+          "review": {
+            "headline_rewrite": "Google is a ‘bad actor’ says People CEO, accusing the company of stealing content",
+            "bullets": [
+              "has accused Google of being a bad actor for crawling its websites to support the search giant’s AI products.",
+              "(formerly Dotdash Meredith), a publisher that operates over 40 brands, including People, Food & Wine, Travel + Leisure, Better Homes & Gardens, Real Simple, Southern Living, Allrecipes, and others, said that Google is not playing fair because it uses the same bot to crawl websites to index them for the Google search engine as it does to support its AI features.",
+              "“Google has one crawler, which means they use the same crawler for their search, where they still send us traffic, as they do for their AI products, where they steal our content,” said Vogel, speaking at the Fortune Brainstorm Tech conference this week.",
+              "“I’m not complaining.",
+              "What is not right about this is: You cannot take our content to compete with us.”\nVogel believes publishers need more leverage in the AI era, which is why he feels it’s necessary to block AI crawlers — automated programs that scan websites to train AI systems — as that can force them into content deals.",
+              "His company, for example, has a deal with OpenAI, which Vogel described as a “good actor.”\nPeople Inc."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GameHub fixed its Silksong save game uploads and now I&#8217;m playing across phone and PC",
+            "link": "https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc",
+            "site_name": "The Verge",
+            "novelty_hash": "19bef5cc24f5fb14777d79df20c1e757a2c86bdf"
+          },
+          "review": {
+            "headline_rewrite": "GameHub fixed its Silksong save game uploads and now I&#8217;m playing across phone and PC",
+            "bullets": [
+              "Most Popular\n- Charlie Kirk’s alleged killer scratched bullets with a Helldivers combo and a furry sex meme\n- Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter\n- Why does Apple think three lenses are eight lenses?",
+              "- Xbox Cloud is getting a much-needed upgrade\n- Apple Watch hypertension alerts cleared by FDA for new and old watches"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "California bill lets renters escape exclusive deals between ISPs and landlords",
+            "link": "https://arstechnica.com/tech-policy/2025/09/california-snubs-cable-lobby-with-bill-to-boost-isp-competition-in-rental-housing/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ca2b7cfd337cfa5a5c5a491bf5971dfd545b5631"
+          },
+          "review": {
+            "headline_rewrite": "California bill lets renters escape exclusive deals between ISPs and landlords",
+            "bullets": [
+              "The bill says that by January 1, a landlord must \"allow the tenant to opt out of paying for any subscription from a third-party Internet service provider, such as through a bulk-billing arrangement, to provide service for wired Internet, cellular, or satellite service that is offered in connection with the tenancy.\" If a landlord fails to do so, the tenant \"may deduct the cost of the subscription to the third-party Internet service provider from the rent,\" and the landlord would be prohibited from retaliating.",
+              "\"I strongly believe that the governor is going to look at what this bill provides as far as protections for tenants and sign it into law,\" Ransom said in a phone interview.",
+              "“Just treat people fairly”\nRansom disputed claims from lobby groups that bulk billing reduces Internet prices for tenants.",
+              "\"This is kind of like a first step in trying to give this industry an opportunity to just treat people fairly.",
+              "What we're saying here with this bill is that if a tenant wants to opt out of the arrangement, they should be allowed to opt out,\" she said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Save $70 on One of Our Favorite Android Tablets",
+            "link": "https://www.wired.com/story/samsung-galaxy-tab-s10-fe-deal/",
+            "site_name": "WIRED",
+            "novelty_hash": "e7412b0a7924a5e6ff816edef84dbb4b78b5ca29"
+          },
+          "review": {
+            "headline_rewrite": "Save $70 on One of Our Favorite Android Tablets",
+            "bullets": [
+              "At its core is the Samsung Exynos 1580 processor, the same chip found in the Galaxy A56, with 8 GB of memory.",
+              "Samsung also sweetens the deal by including a stylus, something most of our other favorite tablets can't claim.",
+              "It adds some great functionality without being super disruptive like other manufacturer launchers can be, but if that's a deal-breaker, make sure to check out our other favorite Android tablets for more options."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Instagram fixed an issue that caused posting multiple Stories to tank your reach",
+            "link": "https://www.engadget.com/social-media/instagram-fixed-an-issue-that-caused-posting-multiple-stories-to-tank-your-reach-184714482.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9717ed11be4d10e82b067a47dddd32efb5ca1245"
+          },
+          "review": {
+            "headline_rewrite": "Instagram fixed an issue that caused posting multiple Stories to tank your reach",
+            "bullets": [
+              "The fix addresses a common complaint shared by creators in the last year that they were disincentivized to use Stories because of how regularly using the feature impacted the number of people who actually saw their posts.",
+              "\"People were complaining about getting less reach with their Stories if they posted lots of Stories in the same day,\" Mosseri said in a video announcing the change."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
