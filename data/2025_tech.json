@@ -24538,6 +24538,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:45": [
+        {
+          "item": {
+            "title": "Google kicks off the Pennsylvania AI Accelerator for small businesses.",
+            "link": "https://blog.google/outreach-initiatives/grow-with-google/google-ai-accelerator-pennsylvania-small-businesses/",
+            "site_name": "Google",
+            "novelty_hash": "278d261001f3f8eef6f34b899e9f6fbb74431a88"
+          },
+          "review": {
+            "headline_rewrite": "Google kicks off the Pennsylvania AI Accelerator for small businesses.",
+            "bullets": [
+              "Yesterday, at the AI Horizons Summit in Pittsburgh, President of Google Customer Solutions Selin Song, alongside Pennsylvania Governor Josh Shapiro, the Pennsylvania Chamber of Commerce and Team Pennsylvania, launched Google's AI Accelerator for Pennsylvania small businesses.",
+              "This program is part of the AI Works for America initiative, initially announced in July.",
+              "The Accelerator offers all small businesses in Pennsylvania a variety of no-cost resources, including:\n- A series of live, hands-on workshops across the state led by a Pennsylvania AI Coach in partnership with local community organizations.",
+              "- Google AI and Prompting Essentials courses, which are foundational, online offerings to help Pennsylvania small businesses and their teams learn how to use AI tools for work, at their own pace.",
+              "- Google Career Certificates, which offer businesses the opportunity to upskill their workforce in fields like cybersecurity, data analytics and project management with no previous experience required.",
+              "Pennsylvania small businesses can sign up for training at grow.google/AIWorksforPA."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "It’s time for Meta to add a display to its smart glasses",
+            "link": "https://www.theverge.com/optimizer-newsletter/776772/optimizer-newsletter-meta-connect-ray-ban-oakley-smart-glasses",
+            "site_name": "The Verge",
+            "novelty_hash": "a46d509ff21c21d1a73c7e273b46cc7858780070"
+          },
+          "review": {
+            "headline_rewrite": "It’s time for Meta to add a display to its smart glasses",
+            "bullets": [
+              "It wasn’t until we were walking to the train that I noticed they were wearing a pair of Ray-Ban Meta glasses.",
+              "No one expected much when the company launched its second-generation Ray-Bans nearly two years ago.",
+              "(I mean, its first-gen glasses were a bonafide flop, with 90 percent of users abandoning the device.) Now, it’s 2025, and the company has sold 2 million pairs.",
+              "Its partner company EssilorLuxottica plans to ramp up production to as many as 10 million by the end of 2026.",
+              "Until now, most people have associated smart glasses with the abject failure that was the original Google Glass Explorer Edition.",
+              "There’s a confluence of things happening right now: the AI craze, the search for AI hardware, and the TikTok era has normalized filming in public, to name a few."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now",
+            "link": "https://www.wired.com/story/anthropic-settlement-books-copyright/",
+            "site_name": "WIRED",
+            "novelty_hash": "6be2e834a5119fdb23c26c79c6496c6e1e9b4342"
+          },
+          "review": {
+            "headline_rewrite": "I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now",
+            "bullets": [
+              "At least it did for me when I heard that the AI company Anthropic agreed to an at least $1.5 billion settlement for authors and publishers whose books were used to train an early version of its large language model, Claude.",
+              "Since the settlement is based on pirated books, it doesn’t really address the big issue of whether it’s OK for AI companies to train their models on copyrighted works.",
+              "Previously the argument over AI copyright was based on legal, moral, and even political hypotheticals.",
+              "Now that things are getting real, it’s time to tackle the fundamental issue: Since elite AI depends on book content, is it fair for companies to build trillion-dollar businesses without paying authors?",
+              "Fine-Print Disclaimer\nBefore I go farther, let me drop a whopper of a disclaimer.",
+              "As I mentioned, I’m an author myself, and stand to gain or lose from the outcome of this argument."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ultraloq adds Android tap-to-unlock to its Apple Home Key smart lock",
+            "link": "https://www.theverge.com/news/777055/ultraloq-adds-android-tap-to-unlock-to-its-apple-home-key-smart-lock",
+            "site_name": "The Verge",
+            "novelty_hash": "a3d0f954b753e872c83d1427e932ce5634b6b6a3"
+          },
+          "review": {
+            "headline_rewrite": "Ultraloq adds Android tap-to-unlock to its Apple Home Key smart lock",
+            "bullets": [
+              "The ability comes via a free software upgrade to the U Home app, available now in the Google Play Store.",
+              "According to Xthings, its NFC unlocking on Android works by setting the U Home app as the phone’s NFC handler, allowing it to “run as a lightweight background service to listen for NFC intents.” When you tap the phone against the lock, it triggers the Android system to wake the correct NFC handler and pass it to U Home for authentication.",
+              "An upcoming smart lock standard called Aliro aims to make NFC unlocking universal, regardless of phone manufacturer, but it hasn’t launched yet.",
+              "Most Popular\n- Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter\n- Why does Apple think three lenses are eight lenses?",
+              "- Xbox Cloud is getting a much-needed upgrade\n- Gmail is launching a tab for all your Amazon purchases\n- You can now play Silksong on flagship Android phones — and pick up where you left off on PC"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How an over-the-air update made Quilt’s heat pumps more powerful",
+            "link": "https://techcrunch.com/2025/09/12/how-an-over-the-air-update-made-quilts-heat-pumps-more-powerful/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "24e98c7e39d6699398c1c13b7b027b7a72ff0898"
+          },
+          "review": {
+            "headline_rewrite": "How an over-the-air update made Quilt’s heat pumps more powerful",
+            "bullets": [
+              "But outside consumer electronics and automobiles, over-the-air updates aren’t commonplace yet.",
+              "Yet that’s beginning to change, starting with an unlikely product: heat pumps.",
+              "Last week, heat pump startup Quilt said that it pushed an update last week to heat pumps already installed in customers’ homes.",
+              "“From the very beginning, we wanted to design the systems to be able to be continuously improved, updated over the air.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "“We got some feedback from both [installation] partners and some customers that it’d be really useful if we were able to have a slightly higher maximum operating capacity,” McQuillen said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nissan Leaf 2026 Review: Superb Steering, Competitive Pricing",
+            "link": "https://www.wired.com/review/nissan-leaf-2026/",
+            "site_name": "WIRED",
+            "novelty_hash": "9c5a07ca4d982ae44f18e631b507c6ce038320f7"
+          },
+          "review": {
+            "headline_rewrite": "Nissan Leaf 2026 Review: Superb Steering, Competitive Pricing",
+            "bullets": [
+              "The regen overall isn’t that strong against some of the competitors, but frustratingly, it drops out around 7 mph, meaning the driver must brake to a full stop.",
+              "In general, steering feel and response is more noticeable in EVs than gasoline cars, because the powertrain is smoother and the weight of the battery is at the bottom of the vehicle, lowering the center of gravity and reducing body roll.",
+              "Engineers moved the motor from the steering column to the rack itself, giving them greater flexibility in tailoring steering feel to different models and customer desires—as measured by factors like the rise in steering effort, linearity, and through-the-wheel response feel against its own criteria."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
