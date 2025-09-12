@@ -25004,6 +25004,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:43": [
+        {
+          "item": {
+            "title": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "9529db4dc4a94a01d03c3814a559dfc699d647d3"
+          },
+          "review": {
+            "headline_rewrite": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
+            "bullets": [
+              "Announcing Amazon EC2 M4 and M4 Pro Mac instances\nAs someone who has been using macOS since 2001 and Amazon EC2 Mac instances since their launch 4 years ago, I’ve helped numerous customers scale their continuous integration and delivery (CI/CD) pipelines on AWS.",
+              "Today, I’m excited to share that Amazon EC2 M4 and M4 Pro Mac instances are now generally available.",
+              "As development projects grow larger and more sophisticated, teams require increased performance and memory capacity to maintain rapid development cycles.",
+              "Apple M4 Mac mini at the core\nEC2 M4 Mac instances (known as mac-m4.metal\nin the API) are built on Apple M4 Mac mini computers and are built on the AWS Nitro System.",
+              "They feature Apple silicon M4 chips with 10-core CPU (four performance and six efficiency cores), 10-core GPU, 16-core Neural Engine, and 24 GB unified memory, delivering enhanced performance for iOS and macOS application build workloads.",
+              "EC2 M4 Pro Mac (mac-m4pro.metal\nin the API) instances are powered by Apple silicon M4 Pro chips with 14-core CPU, 20-core GPU, 16-core Neural Engine, and 48 GB unified memory."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Micro1, a competitor to Scale AI, raises funds at $500M valuation",
+            "link": "https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f479b2cc6a7ee91a4af9a9709a2dcf01635e7c0f"
+          },
+          "review": {
+            "headline_rewrite": "Micro1, a competitor to Scale AI, raises funds at $500M valuation",
+            "bullets": [
+              "Micro1, a three-year-old startup that helps AI companies find and manage human contractors for data labeling and training, has raised a $35 million Series A funding round that values the company at $500 million.",
+              "The round was led by O1 Advisors, a venture capital firm co-founded by Dick Costolo and Adam Bain, the former CEO and COO of Twitter.",
+              "The startup is one of many companies looking to fill the gap in the data market created by recent changes involving Scale AI.",
+              "After Meta invested $14 billion in Scale AI and hired its CEO, AI labs including OpenAI and Google said they planned to cut ties with the startup, presumably over concerns that their research could end up in Meta’s hands.",
+              "(Scale AI denies that it shares confidential information with Meta as part of its partnership).",
+              "However, AI labs still need these data services, and startups like Micro1 aim to pick up the slack."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model",
+            "link": "https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "e320b6de247cce7ce8fce7f1848e6a191f88e7e2"
+          },
+          "review": {
+            "headline_rewrite": "The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model",
+            "bullets": [
+              "It also inherits the Galaxy Watch Ultra’s Quick Button, which you can customize to launch your favorite app or workout.",
+              "It monitors your heart rate, blood oxygen levels, and can even take an EKG or detect sleep apnea when paired with a Samsung Galaxy phone.",
+              "Still, if you’re a Samsung phone owner looking for a premium wearable, the Galaxy Watch 8 Classic is one of the best options available, especially now that it costs about the same as the standard model.",
+              "A few more deals to wrap up the week\n- The tiny Anker Soundcore Select 4 Go is available at Amazon for $22.99 ($11 off), which is $3 shy of its all-time low.",
+              "It can last up to 20 hours on a single charge, and can produce stereo sound when paired with another Select 4 Go.",
+              "The fitness-centric earbuds are some of the best on the market, offering heart rate monitoring (move over, AirPods Pro 3), secure ear hooks for intense workouts, and IPX4 water resistance."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26",
+            "link": "https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26",
+            "site_name": "The Verge",
+            "novelty_hash": "26b62f3e33020839a20e2d1813ab9e655fa2b1ba"
+          },
+          "review": {
+            "headline_rewrite": "The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26",
+            "bullets": [
+              "Released earlier this year, they were Apple’s first earbuds with heart rate monitoring but after next week’s big iPhone update their functionality will closely match the new AirPods Pro 3 announced earlier this week at Apple’s “Awe dropping” event.",
+              "The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26\nThe earbuds’ health features will mirror the functionality of the recently announced AirPods Pro 3.",
+              "You’ll now be able to monitor your heart rate in real time through the Apple Fitness app during 50 different workout types while wearing the Powerbeats Pro 2 – a feature only supported through partner apps like Nike Run Club at launch.",
+              "Most Popular\n- Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter\n- Why does Apple think three lenses are eight lenses?",
+              "- Xbox Cloud is getting a much-needed upgrade\n- Gmail is launching a tab for all your Amazon purchases\n- Charlie Kirk’s alleged killer scratched bullets with a Helldivers combo and a furry sex meme"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "New FAA program will let eVTOL startups test some operations before full certification",
+            "link": "https://techcrunch.com/2025/09/12/new-faa-program-will-let-evtol-startups-test-some-operations-before-full-certification/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "511aefd9cfd2dbeba949f7cdd1fcc03655ddc9d8"
+          },
+          "review": {
+            "headline_rewrite": "New FAA program will let eVTOL startups test some operations before full certification",
+            "bullets": [
+              "It’s a potentially big change for these companies, as they’ve spent the last few years performing limited test flights of their aircraft while working toward FAA approval.",
+              "The FAA says it will approve at least five projects that can run for up to three years, covering short-range air taxis, longer-range fixed wing flights, cargo hauling, logistics and supply for emergency or medical purposes, and “increasing automation safety.”\n“These projects, once successful, are expected to deliver substantial data and lessons learned to inform the broader regulatory framework that will support and oversee the AAM [advanced air mobility] sector,” the agency writes.",
+              "Neither company has said which government entity they plan to apply with, though Archer noted it will work with existing partner (and investor) United Airlines."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best iPad deals you can get right now include the iPad A16 for $299",
+            "link": "https://www.engadget.com/deals/the-best-ipad-deals-you-can-get-right-now-include-the-ipad-a16-for-299-150020765.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9a13e33055870e9f92892b126e1464ccf6dda140"
+          },
+          "review": {
+            "headline_rewrite": "The best iPad deals you can get right now include the iPad A16 for $299",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Best iPad deals\nThe new base-model iPad now comes with twice the storage of the previous model, plus the A16 chip.",
+              "It’s wonderfully thin, its OLED display is one of the best we’ve seen on a consumer device and its M4 chip can handle virtually anything you’d ever do on an iPad.",
+              "It’s also the only Apple tablet with Face ID and it has a better speaker setup than the iPad Air.",
+              "Best Apple deals\nApple AirPods Pro 2 for $199 ($50 off): Now that the AirPods Pro 3 is open for pre-orders, the Pro 2 model isn't likely to be around much longer.",
+              "Apple Watch Series 10 (GPS only, 46 mm) for $429 ($70 off): This is another Apple device that's soon to be gone from the shelves — but it's worth noting that the new Series 11 and this model have the same hardware design (though the new one has a tougher screen) and both use the same processor chip."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
