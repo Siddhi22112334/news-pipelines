@@ -25122,6 +25122,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:07": [
+        {
+          "item": {
+            "title": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "9529db4dc4a94a01d03c3814a559dfc699d647d3"
+          },
+          "review": {
+            "headline_rewrite": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
+            "bullets": [
+              "Announcing Amazon EC2 M4 and M4 Pro Mac instances\nAs someone who has been using macOS since 2001 and Amazon EC2 Mac instances since their launch 4 years ago, I’ve helped numerous customers scale their continuous integration and delivery (CI/CD) pipelines on AWS.",
+              "Today, I’m excited to share that Amazon EC2 M4 and M4 Pro Mac instances are now generally available.",
+              "As development projects grow larger and more sophisticated, teams require increased performance and memory capacity to maintain rapid development cycles.",
+              "Apple M4 Mac mini at the core\nEC2 M4 Mac instances (known as mac-m4.metal\nin the API) are built on Apple M4 Mac mini computers and are built on the AWS Nitro System.",
+              "They feature Apple silicon M4 chips with 10-core CPU (four performance and six efficiency cores), 10-core GPU, 16-core Neural Engine, and 24 GB unified memory, delivering enhanced performance for iOS and macOS application build workloads.",
+              "EC2 M4 Pro Mac (mac-m4pro.metal\nin the API) instances are powered by Apple silicon M4 Pro chips with 14-core CPU, 20-core GPU, 16-core Neural Engine, and 48 GB unified memory."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Micro1, a competitor to Scale AI, raises funds at $500M valuation",
+            "link": "https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f479b2cc6a7ee91a4af9a9709a2dcf01635e7c0f"
+          },
+          "review": {
+            "headline_rewrite": "Micro1, a competitor to Scale AI, raises funds at $500M valuation",
+            "bullets": [
+              "Micro1, a three-year-old startup that helps AI companies find and manage human contractors for data labeling and training, has raised a $35 million Series A funding round that values the company at $500 million.",
+              "The round was led by O1 Advisors, a venture capital firm co-founded by Dick Costolo and Adam Bain, the former CEO and COO of Twitter.",
+              "The startup is one of many companies looking to fill the gap in the data market created by recent changes involving Scale AI.",
+              "After Meta invested $14 billion in Scale AI and hired its CEO, AI labs including OpenAI and Google said they planned to cut ties with the startup, presumably over concerns that their research could end up in Meta’s hands.",
+              "(Scale AI denies that it shares confidential information with Meta as part of its partnership).",
+              "However, AI labs still need these data services, and startups like Micro1 aim to pick up the slack."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Encyclopedia Britannica and Merriam-Webster sue Perplexity AI for copyright and trademark infringement",
+            "link": "https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster",
+            "site_name": "The Verge",
+            "novelty_hash": "1b06688266b2ef95f49c3b81d14385c1eeb554ac"
+          },
+          "review": {
+            "headline_rewrite": "Encyclopedia Britannica and Merriam-Webster sue Perplexity AI for copyright and trademark infringement",
+            "bullets": [
+              "The AI web search company Perplexity is being hit by another lawsuit alleging copyright and trademark infringement, this time from Encyclopedia Britannica and Merriam-Webster.",
+              "Encyclopedia Britannica and Merriam-Webster sue Perplexity AI for copyright and trademark infringement\nPerplexity plagiarized Merriam-Webster’s definition of the word plagiarize, the lawsuit alleges.",
+              "The AI company is also accused of “stealth crawling” websites with crawler blockers, a practice used by other AI companies.",
+              "Another popular encyclopedia, World History Encyclopedia, joined Perplexity’s publisher program, and on September 8th, it launched a Perplexity-powered AI chatbot that allows users to sift through the encyclopedia’s database of sources and academic articles.",
+              "Most Popular\n- Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter\n- Charlie Kirk’s alleged killer scratched bullets with a Helldivers combo and a furry sex meme\n- Why does Apple think three lenses are eight lenses?",
+              "- Xbox Cloud is getting a much-needed upgrade\n- Gmail is launching a tab for all your Amazon purchases"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New FAA program will let eVTOL startups test some operations before full certification",
+            "link": "https://techcrunch.com/2025/09/12/new-faa-program-will-let-evtol-startups-test-some-operations-before-full-certification/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "511aefd9cfd2dbeba949f7cdd1fcc03655ddc9d8"
+          },
+          "review": {
+            "headline_rewrite": "New FAA program will let eVTOL startups test some operations before full certification",
+            "bullets": [
+              "It’s a potentially big change for these companies, as they’ve spent the last few years performing limited test flights of their aircraft while working toward FAA approval.",
+              "The FAA says it will approve at least five projects that can run for up to three years, covering short-range air taxis, longer-range fixed wing flights, cargo hauling, logistics and supply for emergency or medical purposes, and “increasing automation safety.”\n“These projects, once successful, are expected to deliver substantial data and lessons learned to inform the broader regulatory framework that will support and oversee the AAM [advanced air mobility] sector,” the agency writes.",
+              "Neither company has said which government entity they plan to apply with, though Archer noted it will work with existing partner (and investor) United Airlines."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Charlie Kirk&#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme",
+            "link": "https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme",
+            "site_name": "The Verge",
+            "novelty_hash": "7bcf57e581ad806fffa4f1967a803bca1a654de9"
+          },
+          "review": {
+            "headline_rewrite": "Charlie Kirk&#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme",
+            "bullets": [
+              "As described, the bullets read (exact capitalization not confirmed at this point):\n- “Notices bulges OWO what’s this?”\n- “Hey fascist!",
+              "Cox said in response to a question during the conference that the “hey fascist” message “speaks for itself.” Three downward-slanting arrows are a symbol used by both historical and contemporary antifascists.",
+              "The messages on the shooter’s bullet casings can best be described as bizarre and extremely online\nIn the aftermath of Kirk’s death, his allies in the MAGA movement, including lawmakers and influencers, promised swift retribution against the left should the killer share their ideology.",
+              "The themes of Helldivers 2 could have an ideological meaning, albeit not necessarily a straightforward one.",
+              "A thread, now deleted, was titled: “Hey Facist Catch!” with the poster asking, “Did anyone else hear/notice?!” A commenter, responding to the thread, said, “The moment I heard [the arrows] my eyes widened.”\nAnother thread, also apparently deleted by moderators, referenced the arrows that authorities say were on one of the unfired bullet casings recovered at the scene.",
+              "A thread in the separate r/Helldivers2 subreddit remains active, with people discussing the apparent parallels."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Education report calling for ethical AI use contains over 15 fake sources",
+            "link": "https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "f7f278e6c9f9f8d3b2478c26e1e666999f750bdf"
+          },
+          "review": {
+            "headline_rewrite": "Education report calling for ethical AI use contains over 15 fake sources",
+            "bullets": [
+              "On Friday, CBC News reported that a major education reform document prepared for the Canadian province of Newfoundland and Labrador contains at least 15 fabricated citations that academics suspect were generated by an AI language model—despite the same report calling for \"ethical\" AI use in schools.",
+              "The 418-page document took 18 months to complete and was unveiled by co-chairs Anne Burke and Karen Goodnough, both professors at Memorial University's Faculty of Education, alongside Education Minister Bernard Davis.",
+              "Yet someone (or some AI chatbot) copied the fake example directly into the Education Accord report as if it were a real source.",
+              "Aaron Tucker, a Memorial assistant professor whose research focuses on AI history in Canada, told CBC he could not find numerous sources cited in the report despite searching the MUN Library, other academic databases, and Google.",
+              "\"The fabrication of sources at least begs the question: did this come from generative AI?\" Tucker told CBC.",
+              "\"Whether that's AI, I don't know, but fabricating sources is a telltale sign of artificial intelligence.\"\nSince the inception of AI language models, generating fabricated citations has been a continuous problem."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
