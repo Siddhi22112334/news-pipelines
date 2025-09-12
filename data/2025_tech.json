@@ -24888,6 +24888,122 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:11": [
+        {
+          "item": {
+            "title": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "9529db4dc4a94a01d03c3814a559dfc699d647d3"
+          },
+          "review": {
+            "headline_rewrite": "Announcing Amazon EC2 M4 and M4 Pro Mac instances",
+            "bullets": [
+              "Announcing Amazon EC2 M4 and M4 Pro Mac instances\nAs someone who has been using macOS since 2001 and Amazon EC2 Mac instances since their launch 4 years ago, I’ve helped numerous customers scale their continuous integration and delivery (CI/CD) pipelines on AWS.",
+              "Today, I’m excited to share that Amazon EC2 M4 and M4 Pro Mac instances are now generally available.",
+              "As development projects grow larger and more sophisticated, teams require increased performance and memory capacity to maintain rapid development cycles.",
+              "Apple M4 Mac mini at the core\nEC2 M4 Mac instances (known as mac-m4.metal\nin the API) are built on Apple M4 Mac mini computers and are built on the AWS Nitro System.",
+              "They feature Apple silicon M4 chips with 10-core CPU (four performance and six efficiency cores), 10-core GPU, 16-core Neural Engine, and 24 GB unified memory, delivering enhanced performance for iOS and macOS application build workloads.",
+              "EC2 M4 Pro Mac (mac-m4pro.metal\nin the API) instances are powered by Apple silicon M4 Pro chips with 14-core CPU, 20-core GPU, 16-core Neural Engine, and 48 GB unified memory."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now",
+            "link": "https://www.wired.com/story/anthropic-settlement-books-copyright/",
+            "site_name": "WIRED",
+            "novelty_hash": "6be2e834a5119fdb23c26c79c6496c6e1e9b4342"
+          },
+          "review": {
+            "headline_rewrite": "I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now",
+            "bullets": [
+              "At least it did for me when I heard that the AI company Anthropic agreed to an at least $1.5 billion settlement for authors and publishers whose books were used to train an early version of its large language model, Claude.",
+              "Since the settlement is based on pirated books, it doesn’t really address the big issue of whether it’s OK for AI companies to train their models on copyrighted works.",
+              "Previously the argument over AI copyright was based on legal, moral, and even political hypotheticals.",
+              "Now that things are getting real, it’s time to tackle the fundamental issue: Since elite AI depends on book content, is it fair for companies to build trillion-dollar businesses without paying authors?",
+              "Fine-Print Disclaimer\nBefore I go farther, let me drop a whopper of a disclaimer.",
+              "As I mentioned, I’m an author myself, and stand to gain or lose from the outcome of this argument."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mastodon rolls out quote posts with protections to prevent ‘dunking’",
+            "link": "https://techcrunch.com/2025/09/12/mastodon-rolls-out-quote-posts-with-protections-to-prevent-dunking/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5ae3313bb3110318fe4f8389ddbc66bad879dc09"
+          },
+          "review": {
+            "headline_rewrite": "Mastodon rolls out quote posts with protections to prevent ‘dunking’",
+            "bullets": [
+              "Mastodon, an open source, decentralized alternative to X, is rolling out a somewhat controversial feature by adding quote posts, which will launch next week.",
+              "Plus, users will have control of their posts even after they’re quoted, the Mastodon blog post about the new feature explains.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "It will then become available in Mastodon’s 4.5 software update."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model",
+            "link": "https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "d492a50adc13d0ae18ae5e6dc36e78bf1a47b9d4"
+          },
+          "review": {
+            "headline_rewrite": "The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model",
+            "bullets": [
+              "It also inherits the Galaxy Watch Ultra’s Quick Button, which you can customize to launch your favorite app or workout.",
+              "It monitors your heart rate, blood oxygen levels, and can even take an EKG or detect sleep apnea when paired with a Samsung Galaxy phone.",
+              "Still, if you’re a Samsung phone owner looking for a premium wearable, the Galaxy Watch 8 Classic is one of the best options available, especially now that it costs about the same as the standard model.",
+              "A few more deals to wrap up the week\n- The tiny Anker Soundcore Select 4 Go is available at Amazon for $22.99 ($11 off), which is $3 shy of its all-time low.",
+              "It can last up to 20 hours on a single charge, and can produce stereo sound when paired with another Select 4 Go.",
+              "The fitness-centric earbuds are some of the best on the market, offering heart rate monitoring (move over, AirPods Pro 3), secure ear hooks for intense workouts, and IPX4 water resistance."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26",
+            "link": "https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26",
+            "site_name": "The Verge",
+            "novelty_hash": "88d165adb28fcf13b3e0829b6dc7e13d62962b94"
+          },
+          "review": {
+            "headline_rewrite": "The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26",
+            "bullets": [
+              "Released earlier this year, they were Apple’s first earbuds with heart rate monitoring but after next week’s big iPhone update their functionality will closely match the new AirPods Pro 3 announced earlier this week at Apple’s “Awe dropping” event.",
+              "The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26\nThe earbuds’ health features will mirror the functionality of the recently announced AirPods Pro 3.",
+              "You’ll now be able to monitor your heart rate in real time through the Apple Fitness app during 50 different workout types while wearing the Powerbeats Pro 2 – a feature only supported through partner apps like Nike Run Club at launch.",
+              "Most Popular\n- Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter\n- Why does Apple think three lenses are eight lenses?",
+              "- Xbox Cloud is getting a much-needed upgrade\n- Gmail is launching a tab for all your Amazon purchases\n- You can now play Silksong on flagship Android phones — and pick up where you left off on PC"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "New FAA program will let eVTOL startups test some operations before full certification",
+            "link": "https://techcrunch.com/2025/09/12/new-faa-program-will-let-evtol-startups-test-some-operations-before-full-certification/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "511aefd9cfd2dbeba949f7cdd1fcc03655ddc9d8"
+          },
+          "review": {
+            "headline_rewrite": "New FAA program will let eVTOL startups test some operations before full certification",
+            "bullets": [
+              "It’s a potentially big change for these companies, as they’ve spent the last few years performing limited test flights of their aircraft while working toward FAA approval.",
+              "The FAA says it will approve at least five projects that can run for up to three years, covering short-range air taxis, longer-range fixed wing flights, cargo hauling, logistics and supply for emergency or medical purposes, and “increasing automation safety.”\n“These projects, once successful, are expected to deliver substantial data and lessons learned to inform the broader regulatory framework that will support and oversee the AAM [advanced air mobility] sector,” the agency writes.",
+              "Neither company has said which government entity they plan to apply with, though Archer noted it will work with existing partner (and investor) United Airlines."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
