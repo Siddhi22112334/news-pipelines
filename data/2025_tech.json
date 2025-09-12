@@ -24069,6 +24069,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:53": [
+        {
+          "item": {
+            "title": "Microsoft slips unscathed through EU competition probe after promising to unbundle Teams",
+            "link": "https://techcrunch.com/2025/09/12/microsoft-slips-unscathed-through-eu-competition-probe-after-promising-to-unbundle-teams/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2187948d9c1c857735244571ffc673961664d672"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft slips unscathed through EU competition probe after promising to unbundle Teams",
+            "bullets": [
+              "Thanks to a pledge to unbundle its corporate messaging app Teams from its productivity suites, Microsoft has managed to slip unscathed through a major antitrust investigation by the European Commission that could have resulted in massive fines for the tech giant.",
+              "The Commission on Friday okayed Microsoft’s concessions to address the EU’s competition concerns over the company including Teams along with the rest of its Office productivity suite for free, concluding a multi-year investigation that was sparked by complaints from rival office messaging app Slack in 2020.",
+              "The Commission has also managed to get Microsoft to agree to open up its APIs to enable interoperability for key features between its suite and third-party messaging and collaboration tools, as well as let them export their data out of teams for the next five years.",
+              "Microsoft did not immediately return a request for further details about its commitments.",
+              "In its investigation, the European authority accused Microsoft of breaching competition rules by bundling teams with its productivity suites, abusing its dominant position and granting Teams an undue advantage.",
+              "In its preliminary findings, the Commission also said that advantage was improved because Teams was integrated with other Microsoft 365 apps like Excel, Outlook, SharePoint, and Word."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple delays release of iPhone Air in China due to pending approval of eSIM",
+            "link": "https://techcrunch.com/2025/09/12/apple-delays-release-of-iphone-air-in-china-due-to-pending-approval-of-esim/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "aa018a5e6911283f90832365620d8945ecbf402e"
+          },
+          "review": {
+            "headline_rewrite": "Apple delays release of iPhone Air in China due to pending approval of eSIM",
+            "bullets": [
+              "However, the eSIM-only iPhone Air’s release is being delayed in China, likely due to regulatory issues around the approval of the embedded SIM.",
+              "Apple’s website notes that all three Chinese state-owned network providers, China Mobile, China Telecom and China Unicom, will offer eSIM support for the iPhone Air, but says the timing of the release will be subject to regulatory approval.",
+              "According to South China Morning Post, Apple told local media that it was working with regulatory authorities to bring the iPhone Air to China “as soon as possible.” The report referred to a post by China Mobile on social network Weibo, that said the network has enabled eSIM services for mobile phones, though a launch date was not mentioned.",
+              "China Telecom posted on RedNote about launching its own eSIM service on September 19, when the iPhone 17 line is supposed to be released."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s 2025 iPhone lineup is now available to preorder",
+            "link": "https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date",
+            "site_name": "The Verge",
+            "novelty_hash": "3c4c71588ebf73d539867e980e4ac3d637809a10"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s 2025 iPhone lineup is now available to preorder",
+            "bullets": [
+              "Apple’s complete 2025 lineup, including the iPhone 17, the 17 Pro, the 17 Pro Max, and the thin iPhone Air, are available to preorder.",
+              "They’ll be available next Friday, September 19th, and ordering now is how you can ensure you’ll be among the first to receive your order.",
+              "Apple’s 2025 iPhone lineup is now available to preorder\nThe iPhone 17, 17 Pro, 17 Pro Max, and Air launch on September 19th, with new chips, new designs, and more.",
+              "Beyond the Air’s shockingly slim design, Apple’s latest iPhone lineup features a number of notable updates that seem worth upgrading for, especially if you have a phone that’s a few generations old.",
+              "The iPhone Air and Pro models have a lot in common, including having a raised “plateau” bump on the back, which contains not just cameras but some internal components, too, leaving some extra room in the phones for larger batteries.",
+              "The iPhone 17, 17 Pro, 17 Pro Max, and Air start at $799, $1,099, $1,199, and $999, respectively, and each model starts with 256GB of storage."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft dodges EU fine by unbundling Teams from Office",
+            "link": "https://www.ft.com/content/2a3242d4-ba06-40a6-84f3-ab6b15dc18f3",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0fff7eac4de87a9146265cf72b9a2fba4b38cb9b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft dodges EU fine by unbundling Teams from Office",
+            "bullets": [
+              "Microsoft has avoided an EU fine after the US tech group offered concessions on how it packages together its Teams and Office products, ending a long-running antitrust investigation by the bloc’s regulators.",
+              "The probe, which began after a 2020 complaint from Slack, now part of Salesforce, accused Microsoft of abusing its market dominance by tying its video conferencing tool to its widely used suite of productivity applications.",
+              "Since the initial complaint, Microsoft has unbundled Teams from Office 365 in the EU, but critics said the changes were too narrow.",
+              "After a market test, Microsoft has since made additional commitments, such as publishing more information on so-called “interoperability” or the ability to use its products with others made by rivals.",
+              "These new pledges have satisfied the EU’s regulator, which said on Friday that it helped to restore fair competition and open the market to other providers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "iPhone Air launch delayed in China over eSIM issues",
+            "link": "https://www.theverge.com/news/777023/iphone-air-launch-delayed-china-esim-issues",
+            "site_name": "The Verge",
+            "novelty_hash": "fb7e0c7215c9ed7e378dfbbe6455fdc4d150f4b4"
+          },
+          "review": {
+            "headline_rewrite": "iPhone Air launch delayed in China over eSIM issues",
+            "bullets": [
+              "Apple has postponed preorders of the iPhone Air in mainland China, which were due to open today, with regulatory issues around eSIM almost certainly to blame.",
+              "iPhone Air launch delayed in China over eSIM issues\nAir preorders haven’t opened in China, and Apple no longer lists a release date.",
+              "Apple had originally announced that the Air would go on preorder in China at the same time as in the US, 8AM ET today, with full availability from September 19th.",
+              "Its other three new iPhones — the 17, 17 Pro, and 17 Pro Max — are all available to preorder now, and ship from next week.",
+              "The issue is most likely Apple’s decision to make the Air eSIM-only worldwide.",
+              "eSIM has never been widely available in mainland China, and phones manufactured for the local market still don’t include support (which has tripped me up a few times when I’ve gone traveling in Europe with a review unit of a Chinese phone!)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Rocket Report: Russia’s rocket engine predicament; 300th launch to the ISS",
+            "link": "https://arstechnica.com/space/2025/09/rocket-report-russias-rocket-engine-predicament-300th-launch-to-the-iss/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8f788a8f56f0c1573d7905eac821caa8fcd8d3e0"
+          },
+          "review": {
+            "headline_rewrite": "Rocket Report: Russia’s rocket engine predicament; 300th launch to the ISS",
+            "bullets": [
+              "Yes, there are good reasons to question NASA's long-term plans for the Artemis lunar program—the woeful cost of the Space Launch System rocket, the complexity of new commercial landers, and a bleak budget outlook.",
+              "But many of us who were born after the Apollo Moon landings have been waiting for this moment our whole lives.",
+              "Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.",
+              "North Korea said Tuesday it had conducted the final ground test of a solid-fuel rocket engine for a long-range ballistic missile in its latest advancement toward having an arsenal that could viably threaten the continental United States, the Associated Press reports.",
+              "Solid rocket motors can be stored for longer periods of time and are easier to conceal, transport, and launch on demand."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
