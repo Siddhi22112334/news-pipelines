@@ -37883,5 +37883,130 @@
         }
       ]
     }
+  },
+  "2025-09-16": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management",
+            "link": "https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-cloud-native-application-platforms-and-container-management/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "ba02ba92210c7c3b839939dec2fe6e6367cacaa9"
+          },
+          "review": {
+            "headline_rewrite": "AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management",
+            "bullets": [
+              "AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management\nA month ago, I shared that Amazon Web Services (AWS) is recognized as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services (SCPS), with Gartner naming AWS a Leader for the fifteenth consecutive year.",
+              "In 2024, AWS was named as a Leader in the Gartner Magic Quadrant for AI Code Assistants, Cloud-Native Application Platforms, Cloud Database Management Systems, Container Management, Data Integration Tools, Desktop as a Service (DaaS), and Data Science and Machine Learning Platforms as well as the SCPS.",
+              "Today, I’m happy to share recent Magic Quadrant reports that named AWS as a Leader in more cloud technology markets: Cloud-Native Application Platforms (aka Cloud Application Platforms) and Container Management.",
+              "2025 Gartner Magic Quadrant for Cloud-Native Application Platforms\nAWS has been named a Leader in the Gartner Magic Quadrant for Cloud-Native Application Platforms for 2 consecutive years.",
+              "Gartner defines cloud-native application platforms as those that provide managed application runtime environments for applications and integrated capabilities to manage the lifecycle of an application or application component in the cloud environment.",
+              "The following image is the graphical representation of the 2025 Magic Quadrant for Cloud-Native Application Platforms."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI upgrades Codex with a new version of GPT-5",
+            "link": "https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a500ac3d5241978f1d1b25d97918c881cdf9f819"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI upgrades Codex with a new version of GPT-5",
+            "bullets": [
+              "OpenAI announced Monday that it’s releasing a new version of GPT-5 to its AI coding agent, Codex.",
+              "The new model is now rolling out in Codex products — which can be accessed via a terminal, IDE, GitHub, or ChatGPT — to all ChatGPT Plus, Pro, Business, Edu, and Enterprise users.",
+              "OpenAI says it plans to make the model available to API customers in the future.",
+              "The update is part of OpenAI’s effort to make Codex more competitive with other AI coding products, such as Claude Code, Anysphere’s Cursor, or Microsoft’s GitHub Copilot.",
+              "The market for AI coding tools has become much more crowded in the last year, as a result of intense user demand.",
+              "Cursor surpassed $500 million in ARR earlier in 2025 and Windsurf, a similar code editor, was the subject of a chaotic acquisition attempt that saw its team split between Google and Cognition."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone",
+            "link": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bca7d945d72d03052d3b1d715bac6f00679d14e6"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone",
+            "bullets": [
+              "Apple’s iOS 26 software update for iPhones is available Monday to people who have an iPhone 11, iPhone SE 2, and later.",
+              "This visual change might take a bit of time for users to adjust, and they might not like certain elements right away.",
+              "Apple apps\nThe Phone app has a new unified look where your favorites are up top in a card format with recents and voicemails on the same screen.",
+              "Transcription of voicemail doesn’t work well for all languages, but call screening has reduced the number of calls I’ve had to pick up.",
+              "There’s also a holding assist for when a restaurant or a helpline places you on hold; you can use call assist to notify when an agent starts talking again.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple releases macOS Tahoe 26 with more powerful Spotlight search and its own Phone app",
+            "link": "https://www.theverge.com/news/777521/apple-macos-tahoe-26-now-available-download-update",
+            "site_name": "The Verge",
+            "novelty_hash": "b913320f42ce68c2288ef242eb1195dd98ef2e55"
+          },
+          "review": {
+            "headline_rewrite": "Apple releases macOS Tahoe 26 with more powerful Spotlight search and its own Phone app",
+            "bullets": [
+              "macOS Tahoe 26 is now available to everyone using compatible MacBooks and Mac desktops.",
+              "It was first announced last June at WWDC 25 and made available for testing through developer and public betas released over the past three months.",
+              "This will be the last major macOS update for older Intel-based Macs – specifically those featuring Apple’s T2 Security Chip.",
+              "macOS’ Spotlight search tool and launcher will be more useful with Tahoe, ranking search results intelligently based on relevance and allowing users to perform specific actions with apps like sending an email or creating a note without having to actually open those specific apps.",
+              "It will include access to recents and voicemails, as well as new iOS features like Call Screening that can answer calls from unknown numbers for you and Hold Assist that can stay on the line until a real person responds."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google thinks it can have AI summaries and a healthy web, too",
+            "link": "https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "2913d7a0399b645394a56af80b6f624dadc0d234"
+          },
+          "review": {
+            "headline_rewrite": "Google thinks it can have AI summaries and a healthy web, too",
+            "bullets": [
+              "One of Google’s top executives defended its use of AI summaries in search results during an AI summit in New York on Monday.",
+              "Google thinks it can have AI summaries and a healthy web, too\nWhen asked about a new lawsuit over AI Overviews, Google said users increasingly want the AI summaries.",
+              "When asked about a new lawsuit by Rolling Stone’s parent company, Penske Media Corporation, over Google’s AI Overviews, the company’s vice president of government affairs and public policy Markham Erickson said user preferences are shifting away from “factual answers” provided by original websites to the contextual summaries provided by AI Overviews, which appear at the top of the main page of search results.",
+              "The company’s goal, Erickson said, is to maintain a “healthy ecosystem” with both AI summaries and regular search results, sometimes referred to as 10 blue links.",
+              "Evidence has emerged recently that suggests that search traffic plummets with AI summaries.",
+              "Here is what Erickson said when asked about the lawsuit:\nSo, I don’t want to speak about the specifics of the lawsuit, but I can speak to our philosophy here, which is, look, we want a healthy ecosystem."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Top New Features in Apple’s iOS 26 and iPadOS 26",
+            "link": "https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/",
+            "site_name": "WIRED",
+            "novelty_hash": "674b80994ad46c9250c7cb2611f67585d77c797d"
+          },
+          "review": {
+            "headline_rewrite": "The Top New Features in Apple’s iOS 26 and iPadOS 26",
+            "bullets": [
+              "Apple has changed the naming structure of its OS updates to make them all consistent—visionOS 26, watchOS 26, macOS 26—so they’re now tied to the year after their launch, similar to what car makers do when debuting new models.",
+              "The main highlight across all of Apple’s updates, first announced at WWDC 2025, revolves around the new look and feel of the interface, a design language the company calls Liquid Glass.",
+              "More significant are the updates to iPadOS, which will now support windowed apps that are resizable and can be tiled, bringing it closer to the desktop computing experience people have been waiting for.",
+              "Apple recently retired the “generations” and is now using the chipset to denote the model.",
+              "- iPad: 8th gen and later, including A16\n- iPad Mini: 5th gen and later, including A17 Pro\n- iPad Air: 3rd gen and later, including M2 and M3\n- iPad Pro 11-inch: 1st gen and later\n- iPad Pro 12.9-inch: 3rd gen and later\n- iPad Pro: M4\nHow to Install iOS 26 or iPadOS 26\nApple has released the final version of iOS 26 and iPadOS 26.",
+              "Head to Settings, tap your name at the top, and select iCloud."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
