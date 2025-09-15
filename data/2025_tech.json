@@ -38239,6 +38239,120 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:47": [
+        {
+          "item": {
+            "title": "Listen to a discussion on how AI can power scientific breakthroughs.",
+            "link": "https://blog.google/technology/google-deepmind/ai-release-notes-science/",
+            "site_name": "Google",
+            "novelty_hash": "0ad849c9b4bf4c461c87ca116b3e58dea47593cb"
+          },
+          "review": {
+            "headline_rewrite": "Listen to a discussion on how AI can power scientific breakthroughs.",
+            "bullets": [
+              "In the latest episode of the Google AI: Release Notes podcast, host Logan Kilpatrick chats with Pushmeet Kohli, who leads Google DeepMind’s science and strategic initiatives team.",
+              "Learn how the team's unique problem-solving framework led to innovations like AlphaFold and AlphaEvolve, and how new tools like AI co-scientist aim to enable these types of breakthroughs for everyone.",
+              "Hear the full conversation below, or listen to the Google AI: Release Notes podcast on Apple Podcasts or Spotify."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Snap unveils Snap OS 2.0 with native browser, WebXR support, and more",
+            "link": "https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6b418e8beb2eeb83e8164132e92130c900fa462f"
+          },
+          "review": {
+            "headline_rewrite": "Snap unveils Snap OS 2.0 with native browser, WebXR support, and more",
+            "bullets": [
+              "The launch comes as the company rolled out its fifth-generation Snap Spectacles for developers last year and plans to launch a consumer version sometime in 2026.",
+              "The release also comes just ahead of Meta’s Connect conference this week, where the company is expected to reveal its latest updates in smart glasses, AI, and other technology.",
+              "“The portrait orientation of our Spectacles’ field of view is a perfect fit for vertical video, allowing you to enjoy content without ever having to look down at your phone,” Snap explained in a blog post.",
+              "“Easily anchor Spotlight in one place, or have it follow you as you move around.”\nJoin 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "There’s also a new Travel Mode feature that stabilizes AR content and tracking systems while you’re on the move, such as in a car or on an airplane."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 9 most sought-after startups from YC Demo Day",
+            "link": "https://techcrunch.com/2025/09/15/the-9-most-sought-after-startups-from-yc-demo-day/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "affbd42e662230d23f71690979c33fbdf850321a"
+          },
+          "review": {
+            "headline_rewrite": "The 9 most sought-after startups from YC Demo Day",
+            "bullets": [
+              "As with recent batches, the majority of startups presented AI-centric solutions.",
+              "Instead of “AI-powered” products, many companies are now building AI agents or the infrastructure and tools needed to develop them.",
+              "For instance, this batch had a flurry of voice AI solutions and new businesses focused on helping others monetize the “AI economy” with ads and marketing tools.",
+              "Below are the most frequently mentioned ones:\nWhat it does: Stripe for AI startups\nWhy it’s a fave: Many AI startups use complex pricing models that often blend a flat subscription fee per seat with usage-based charges, credits, and various add-on costs.",
+              "Managing complex AI pricing on Stripe is a time-consuming, manual process.",
+              "That’s why Autumn developed an open-source infrastructure that simplifies Stripe integration for AI startups."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Supreme Court is Google’s last hope to avoid an Epic reckoning in October",
+            "link": "https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court",
+            "site_name": "The Verge",
+            "novelty_hash": "2a6d6674d80449d7d5f409986ecd3d4d071c0a79"
+          },
+          "review": {
+            "headline_rewrite": "The Supreme Court is Google’s last hope to avoid an Epic reckoning in October",
+            "bullets": [
+              "For a period of three years ending on November 1, 2027, Google may not share revenue generated by the Google Play Store with any person or entity that distributes Android apps, or has stated that it will launch or is considering launching an Android app distribution platform or store.",
+              "For a period of three years ending on November 1, 2027, Google may not condition a payment, revenue share, or access to any Google product or service, on an agreement by an app developer to launch an app first or exclusively in the Google Play Store.",
+              "For a period of three years ending on November 1, 2027, Google may not condition a payment, revenue share, or access to any Google product or service, on an agreement by an app developer not to launch on a third-party Android app distribution platform or store a version of an app that includes features not available in, or is otherwise different from, the version of the app offered on the Google Play Store.",
+              "For a period of three years ending on November 1, 2027, Google may not condition a payment, revenue share, or access to any Google product or service, on an agreement with an original equipment manufacturer (OEM) or carrier to preinstall the Google Play Store on any specific location on an Android device.",
+              "Google may not prohibit a developer from communicating with users about the availability of a payment method other than Google Play Billing.",
+              "For a period of three years ending on November 1, 2027, Google may not prohibit a developer from communicating with users about the availability or pricing of an app outside the Google Play Store, and may not prohibit a developer from providing a link to download the app outside the Google Play Store."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta leaks its new smart glasses with a display",
+            "link": "https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect",
+            "site_name": "The Verge",
+            "novelty_hash": "2fe9336c806fa20ca330a5524070851926be426c"
+          },
+          "review": {
+            "headline_rewrite": "Meta leaks its new smart glasses with a display",
+            "bullets": [
+              "An unlisted and now-removed video from Meta showed off a new pair of Ray-Ban branded smart glasses with a display and a wristband to help control them, as reported by UploadVR.",
+              "The video also features a new pair of wraparound “Sphaera” Oakley smart glasses with a camera on the nose, meaning that Meta itself may have inadvertently leaked two of its biggest announcements from its Connect event this week.",
+              "Based on a brief clip included in UploadVR’s article, the actual display is in the right lens of the glasses, and the clip shows how the glasses will let you do things like ask Meta AI a question, look at a map on the glasses to help you navigate, translate a sign, or use your hand with the wristband to “write” a reply to a chat.",
+              "And according to another clip shared by UploadVR from Meta’s unlisted video, in addition to the Sphaera glasses, Meta will also be launching a translucent version of the Oakley HSTN smart glasses, like it did with the translucent Ray-Bans last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ars Live: CTA policy expert explains why tariff stacking is a nightmare",
+            "link": "https://arstechnica.com/tech-policy/2025/09/ars-live-cta-policy-expert-explains-why-tariff-stacking-is-a-nightmare/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "cefbb4d653945f28b9614f7a35988df14426627a"
+          },
+          "review": {
+            "headline_rewrite": "Ars Live: CTA policy expert explains why tariff stacking is a nightmare",
+            "bullets": [
+              "Brzytwa has led CTA's research helping tech firms prepare for Trump's trade war, but during our talk, he confirmed that \"the reality has been a lot more difficult and far worse, because of not just the height of the tariffs, but the variability, the tariffs on, tariffs off.\"\nCurrently, every tech company is in a \"slightly different position,\" depending on its specific supply chains, he explained.",
+              "However, until semiconductor tariffs are announced, \"it's impossible\" for any tech company to make the kind of long-term plans that could help keep consumer prices low as Trump's negotiations with foreign partners and investigations into various products drag on, Brzytwa said.",
+              "Ahead of the busy holiday shopping season, Brzytwa suggested that many companies may be prepared to maintain prices, based on front-loading of inventory by firms in anticipation of more complicated tariff regimes coming.",
+              "But some companies, notably in the video game industry, have already begun warning of tariff-related price hikes, Brzytwa noted, and for others likely delaying for as long as they can, there remains a question of \"what happens when that inventory disappears?\""
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
