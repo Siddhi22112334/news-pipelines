@@ -38819,6 +38819,120 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:08": [
+        {
+          "item": {
+            "title": "With no DOJ breakup, Alphabet becomes a $3 trillion company",
+            "link": "https://techcrunch.com/2025/09/15/with-no-doj-breakup-alphabet-becomes-a-3-trillion-company/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7e00ce59e537584dc926cd5a956b48d3ecb37f90"
+          },
+          "review": {
+            "headline_rewrite": "With no DOJ breakup, Alphabet becomes a $3 trillion company",
+            "bullets": [
+              "Mehta outlined softer-than-feared remedies for his year-ago ruling that Google maintained an illegal monopoly in search.",
+              "Beyond Google’s cash cow of search, its cloud computing business is also growing rapidly on the strength of its AI offerings."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?",
+            "link": "https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "52b84eecf4a468dde48a15c9754c07fb37f18c43"
+          },
+          "review": {
+            "headline_rewrite": "Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?",
+            "bullets": [
+              "Rodatherm Energy, a new geothermal startup, emerged from stealth Monday with $38 million in funding and a plan to build a pilot plan in Utah.",
+              "Rodatherm faces stiff competition with an established field of players, including Fervo Energy, Sage Geosystems, XGS Energy, and Quaise.",
+              "Fervo is considered the frontrunner in the space having raised nearly $1 billion.",
+              "Air-source heat pumps, commonly called minisplits, use hydrocarbon-based refrigerants to shift heat between indoors and out.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "But Rodatherm’s approach will almost certainly come with increased drilling and installation costs relative to simpler systems."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google releases VaultGemma, its first privacy-preserving LLM",
+            "link": "https://arstechnica.com/ai/2025/09/google-releases-vaultgemma-its-first-privacy-preserving-llm/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "f5b0b0f4e2380a5f7a57cd85278679b2f504d129"
+          },
+          "review": {
+            "headline_rewrite": "Google releases VaultGemma, its first privacy-preserving LLM",
+            "bullets": [
+              "The companies seeking to build larger AI models have been increasingly stymied by a lack of high-quality training data.",
+              "A team at Google Research is exploring new techniques to make the resulting large language models (LLMs) less likely to \"memorize\" any of that content.",
+              "LLMs have non-deterministic outputs, meaning you can't exactly predict what they'll say.",
+              "While the output varies even for identical inputs, models do sometimes regurgitate something from their training data—if trained with personal data, the output could be a violation of user privacy.",
+              "In the event copyrighted data makes it into training data (either accidentally or on purpose), its appearance in outputs can cause a different kind of headache for devs.",
+              "Differential privacy can prevent such memorization by introducing calibrated noise during the training phase."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Here are the best AirPods deals you can get right now",
+            "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+            "site_name": "The Verge",
+            "novelty_hash": "93961cd1d31d380b699562295be1ae27741d8883"
+          },
+          "review": {
+            "headline_rewrite": "Here are the best AirPods deals you can get right now",
+            "bullets": [
+              "If you know where to look, you can often score discounts on Apple’s ever-expanding AirPods lineup.",
+              "Both the newer AirPods Max and AirPods 4 (with and without ANC) now consistently receive discounts, as do the latest AirPods Pro with USB-C.",
+              "Here are the best AirPods deals you can get right now\nThere are deals available on every model, from the latest entry-level AirPods 4 to the noise-canceling AirPods Pro.",
+              "Below, we’ve rounded up the best deals currently available on each model, including both iterations of the AirPods 4, the latest AirPods Pro, and the AirPods Max.",
+              "The best AirPods 4 deals\nAt its September 2024 event, Apple introduced the AirPods 4, a pair of wireless earbuds available in two variations: a $129 standard model and a $179 noise-canceling model.",
+              "Both versions represent significant upgrades over the third-gen AirPods, with a more comfortable design and improved audio performance."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook gave our data to Cambridge Analytica and all I got was this $38.36",
+            "link": "https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36",
+            "site_name": "The Verge",
+            "novelty_hash": "0fe5b7c5a98feba290a561d4c626d12c61aeb97c"
+          },
+          "review": {
+            "headline_rewrite": "Facebook gave our data to Cambridge Analytica and all I got was this $38.36",
+            "bullets": [
+              "I received an email earlier this week saying my claim had been approved in In re: Facebook, Inc.",
+              "The agreement settled a variety of privacy accusations against Facebook (now Meta), including that it allowed Cambridge Analytica and others to improperly access user data."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "iOS 26 has arrived: Everything to know about the free iPhone software update",
+            "link": "https://www.engadget.com/mobile/ios-26-has-arrived-everything-to-know-about-the-free-iphone-software-update-135749937.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a35926f9bc874d91820df32e8c712d12469c2588"
+          },
+          "review": {
+            "headline_rewrite": "iOS 26 has arrived: Everything to know about the free iPhone software update",
+            "bullets": [
+              "iOS 26 is finally available to download, as well as all of Apple's other new operating systems.",
+              "For instance, the ability to weed out spam texts or unknown senders and an option to hold your spot on a phone call when you've been waiting for a representative to pick up.",
+              "Other new improvements coming include a confirmed AirPods live translation feature, and a new bouncy animation on the passcode screen and in the Control Center.",
+              "If you don't have a compatible phone but plan to upgrade, Apple unveiled several new models at its iPhone 17 event — that includes the new iPhone 17 lineup and the all-new ultra-thin iPhone Air.",
+              "If you missed the keynote, you can catch up on everything Apple announced here or rewatch the full iPhone 17 launch.",
+              "The company rounded out its announcements with three new Apple Watch models, as well as the brand-new AirPods Pro 3."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
