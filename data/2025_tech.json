@@ -42811,6 +42811,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "Silicon Valley bets big on ‘environments’ to train AI agents",
+            "link": "https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a723dc81d8f934d18dab85423bcfb30f32c8ae0f"
+          },
+          "review": {
+            "headline_rewrite": "Silicon Valley bets big on ‘environments’ to train AI agents",
+            "bullets": [
+              "For years, Big Tech CEOs have touted visions of AI agents that can autonomously use software applications to complete tasks for people.",
+              "But take today’s consumer AI agents out for a spin, whether it’s OpenAI’s ChatGPT Agent or Perplexity’s Comet, and you’ll quickly realize how limited the technology still is.",
+              "Making AI agents more robust may take a new set of techniques that the industry is still discovering.",
+              "One of those techniques is carefully simulating workspaces where agents can be trained on multi-step tasks — known as reinforcement learning (RL) environments.",
+              "Much like labeled datasets powered the last wave of AI, RL environments are starting to look like a critical element in the development of agents.",
+              "AI researchers, founders, and investors tell TechCrunch that leading AI labs are now demanding more RL environments, and there’s no shortage of startups hoping to supply them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google rolls out new Windows desktop app with Spotlight-like search tool",
+            "link": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2b084604683dfe5c2964b9e2b5fa8245f280b56a"
+          },
+          "review": {
+            "headline_rewrite": "Google rolls out new Windows desktop app with Spotlight-like search tool",
+            "bullets": [
+              "Google announced on Tuesday that it’s launching a new experimental app for Windows that’s designed to help people find what they need faster.",
+              "The new app is available via Search Labs, Google’s experimental program that lets people test early-stage features and provide feedback before they are broadly released.",
+              "Users can also get deeper responses in Google’s AI Mode, its search feature that lets users ask complex, multi-part questions via an AI interface.",
+              "Users have the option to switch between all results, AI mode, images, shopping, and videos, and more.",
+              "The new app is available in English and for users in the U.S."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft trumps Google with $30 billion investment in the UK",
+            "link": "https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer",
+            "site_name": "The Verge",
+            "novelty_hash": "dbfdc5b65d17f07ffb6b56d95d928e4a5b551b45"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft trumps Google with $30 billion investment in the UK",
+            "bullets": [
+              "Microsoft is announcing that it’s investing £22 billion (around $30 billion) in the UK to help support AI infrastructure and ongoing operations from 2025 through 2028.",
+              "The investment includes $15 billion in capital expenditures to build a supercomputer to support AI demand and adoption.",
+              "Microsoft trumps Google with $30 billion investment in the UK\nMicrosoft’s announcement comes on the same day President Trump visits Britain and Google makes its own UK investment.",
+              "“This will account for more than two-thirds of the tech sector’s total investment announcements in the UK that are being made this week,” says Microsoft vice chair and president Brad Smith in a press briefing attended by The Verge.",
+              "“We’re focused on British pounds, not empty tech promises, because it’s easy to have big numbers, but we’ll be good for every cent of this investment.”\nSmith is clearly referencing Google’s own investment of £5 billion (around $6.8 billion) that it announced earlier today to help power the UK’s AI efforts.",
+              "“This investment will enable us to build the country’s largest supercomputer — with more than 23,000 advanced GPUs — in partnership with Nscale,” says Smith."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s experimental Windows app is better than Microsoft’s built-in search",
+            "link": "https://arstechnica.com/gadgets/2025/09/experimental-google-app-brings-web-and-local-search-to-your-windows-pc/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1240ce5f45a6e12c54e04596caddbf75a7ea5221"
+          },
+          "review": {
+            "headline_rewrite": "Google’s experimental Windows app is better than Microsoft’s built-in search",
+            "bullets": [
+              "Google has so many products that it can be near-impossible to keep track.",
+              "There are a handful, like Drive and Quick Share, but the company's flagship product is only now coming to the desktop.",
+              "The new Google app for Windows is available now, allowing you to search the web, Google Drive, and even your local files."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Verizon to offer $20 broadband in California to obtain merger approval",
+            "link": "https://arstechnica.com/tech-policy/2025/09/verizon-to-offer-20-broadband-in-california-to-obtain-merger-approval/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1f2fce815f859b8d049e2e5c747ed70fbaa61e65"
+          },
+          "review": {
+            "headline_rewrite": "Verizon to offer $20 broadband in California to obtain merger approval",
+            "bullets": [
+              "Verizon agreed to offer $20-per-month broadband service to people with low incomes in California in exchange for a merger approval.",
+              "After three years, Verizon would need to \"make commercially reasonable efforts\" to increase the speeds \"while retaining the $20 price point.\" The joint motion filed by Verizon and the California Public Advocates Office seeks approval from the California Public Utilities Commission (CPUC).",
+              "The $20 plans would be available to people who meet income eligibility guidelines and can be paired with Lifeline discounts.",
+              "\"If the merger is approved, Verizon will deliver 75,000 new fiber-to-the-home connections in California beyond Frontier's entire buildout plan with a priority for low-income households,\" he wrote."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 50 Best Shows on Hulu Right Now (September 2025)",
+            "link": "https://www.wired.com/story/best-tv-shows-hulu-this-week/",
+            "site_name": "WIRED",
+            "novelty_hash": "0e8ef02853ed05b73446cf7ec5f878a50e9b54bd"
+          },
+          "review": {
+            "headline_rewrite": "The 50 Best Shows on Hulu Right Now (September 2025)",
+            "bullets": [
+              "Hulu has continued to make TV history in the years since, most notably in 2017 when it became the first streamer to win an Emmy Award for Outstanding Drama Series with The Handmaid’s Tale (which recently dropped its long-awaited final season).",
+              "In the years since, the streamer has continued to match—and often exceed—that high bar for quality entertainment with shows like The Bear and Shōgun, which set an Emmy record in 2024 with 18 wins in a single season, and The Bear.",
+              "While more competition has popped up since Hulu started gaining critical credibility, the network has continued to stand out for its carefully curated selection of original series and network partnerships that make it the home of FX series and more.",
+              "The show has also managed to attract an increasingly stellar list of guest stars, some of them recurring characters, that includes Meryl Streep, Paul Rudd, Eugene Levy, Kumail Nanjiani, Tina Fey, Melissa McCarthy, Zach Galifianakis, Sting, Nathan Lane, and Jane Lynch.",
+              "Season 5, which contains some fun nods to The Godfather, kicked off on September 9 and features Bobby Cannavale, Renée Zellweger, Christoph Waltz, Keegan-Michael Key, Téa Leoni, Logan Lerman, Beanie Feldstein, Dianne Wiest, and Richard Kind.",
+              "Nearly 20 years—and one controversial murder conviction—later, Knox is reclaiming her own narrative to tell her version of events in this new Hulu series, which is based on Knox’s own memoir and executive produced by Knox and Monica Lewinsky."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
