@@ -43040,6 +43040,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:09": [
+        {
+          "item": {
+            "title": "Silicon Valley bets big on ‘environments’ to train AI agents",
+            "link": "https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "36d82324483449a4ea86085e1174aa02c79fc246"
+          },
+          "review": {
+            "headline_rewrite": "Silicon Valley bets big on ‘environments’ to train AI agents",
+            "bullets": [
+              "For years, Big Tech CEOs have touted visions of AI agents that can autonomously use software applications to complete tasks for people.",
+              "But take today’s consumer AI agents out for a spin, whether it’s OpenAI’s ChatGPT Agent or Perplexity’s Comet, and you’ll quickly realize how limited the technology still is.",
+              "Making AI agents more robust may take a new set of techniques that the industry is still discovering.",
+              "One of those techniques is carefully simulating workspaces where agents can be trained on multi-step tasks — known as reinforcement learning (RL) environments.",
+              "Similarly to how labeled datasets powered the last wave of AI, RL environments are starting to look like a critical element in the development of agents.",
+              "AI researchers, founders, and investors tell TechCrunch that leading AI labs are now demanding more RL environments, and there’s no shortage of startups hoping to supply them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M",
+            "link": "https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f267510619aef9e820d753051765e93b5d288399"
+          },
+          "review": {
+            "headline_rewrite": "CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M",
+            "bullets": [
+              "“We had a team of remote engineers who were starting to adopt AI code generation on GitHub Copilot,” Gill told TechCrunch.",
+              "“We saw that adoption happen, and it was very clear to me that as a second-order effect, it’s going to cause bottlenecks in the code review.”\nIn early 2023, Gill started CodeRabbit, an AI-powered code review platform, and it acquired FlexNinja.",
+              "Gill’s prediction has come true: developers are now regularly using AI coding assistants to generate code, but the output is often buggy, forcing engineers to spend a lot of time on corrections.",
+              "On Tuesday, CodeRabbit announced that it raised a $60 million Series B, valuing the company at $550 million.",
+              "The round, which brought the startup’s total funding to $88 million, was led by Scale Venture Partners with participation of NVentures, Nvidia’s venture capital arm, and returning investors including CRV.",
+              "CodeRabbit is helping companies like Chegg, Groupon, and Mercury, along with over 8,000 other businesses, save time on the famously frustrating task of code review, which has become even more time-consuming with the rise of AI-generated code."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sam Altman says ChatGPT will stop talking about suicide with teens",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens",
+            "site_name": "The Verge",
+            "novelty_hash": "0c1f2a1e531ab0fef63f3dde2cced334d4ba7c0a"
+          },
+          "review": {
+            "headline_rewrite": "Sam Altman says ChatGPT will stop talking about suicide with teens",
+            "bullets": [
+              "On Tuesday, OpenAI CEO Sam Altman said that the company was attempting to balance privacy, freedom, and teen safety — principles that, he admitted, were in conflict.",
+              "His blog post came hours before a Senate hearing focused on examining the harm of AI chatbots, held by the subcommittee on crime and counterterrorism and featuring some parents of children who died by suicide after talking to chatbots.",
+              "Altman also said the company plans to apply different rules to teen users, including veering away from flirtatious talk or engaging in conversations about suicide or self-harm, “even in a creative writing setting.",
+              "And, if an under-18 user is having suicidal ideation, we will attempt to contact the users’ parents and if unable, will contact the authorities in case of imminent harm.”\nAltman’s comments come after the company shared plans earlier this month for parental controls within ChatGPT, including linking an account with a parent’s, disabling chat history and memory for a teen’s account, and sending notifications to a parent when ChatGPT flags the teen to be “in a moment of acute distress.” The blog post came after a lawsuit by the family of Adam Raine, a teen who died by suicide after months of talking with ChatGPT.",
+              "ChatGPT spent “months coaching him toward suicide,” Matthew Raine, the father of the late Adam Raine, said on Tuesday during the hearing.",
+              "What began as a homework helper gradually turned itself into a confidant and then a suicide coach.”\nDuring the teen’s conversations with ChatGPT, Raine said that the chatbot mentioned suicide 1,275 times."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft trumps Google with $30 billion investment in the UK",
+            "link": "https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer",
+            "site_name": "The Verge",
+            "novelty_hash": "dbfdc5b65d17f07ffb6b56d95d928e4a5b551b45"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft trumps Google with $30 billion investment in the UK",
+            "bullets": [
+              "Microsoft is announcing that it’s investing £22 billion (around $30 billion) in the UK to help support AI infrastructure and ongoing operations from 2025 through 2028.",
+              "The investment includes $15 billion in capital expenditures to build a supercomputer to support AI demand and adoption.",
+              "Microsoft trumps Google with $30 billion investment in the UK\nMicrosoft’s announcement comes on the same day President Trump visits Britain and Google makes its own UK investment.",
+              "“This will account for more than two-thirds of the tech sector’s total investment announcements in the UK that are being made this week,” says Microsoft vice chair and president Brad Smith in a press briefing attended by The Verge.",
+              "“We’re focused on British pounds, not empty tech promises, because it’s easy to have big numbers, but we’ll be good for every cent of this investment.”\nSmith is clearly referencing Google’s own investment of £5 billion (around $6.8 billion) that it announced earlier today to help power the UK’s AI efforts.",
+              "“This investment will enable us to build the country’s largest supercomputer — with more than 23,000 advanced GPUs — in partnership with Nscale,” says Smith."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s experimental Windows app is better than Microsoft’s built-in search",
+            "link": "https://arstechnica.com/gadgets/2025/09/experimental-google-app-brings-web-and-local-search-to-your-windows-pc/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1240ce5f45a6e12c54e04596caddbf75a7ea5221"
+          },
+          "review": {
+            "headline_rewrite": "Google’s experimental Windows app is better than Microsoft’s built-in search",
+            "bullets": [
+              "Google has so many products that it can be near-impossible to keep track.",
+              "There are a handful, like Drive and Quick Share, but the company's flagship product is only now coming to the desktop.",
+              "The new Google app for Windows is available now, allowing you to search the web, Google Drive, and even your local files."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Verizon to offer $20 broadband in California to obtain merger approval",
+            "link": "https://arstechnica.com/tech-policy/2025/09/verizon-to-offer-20-broadband-in-california-to-obtain-merger-approval/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1f2fce815f859b8d049e2e5c747ed70fbaa61e65"
+          },
+          "review": {
+            "headline_rewrite": "Verizon to offer $20 broadband in California to obtain merger approval",
+            "bullets": [
+              "Verizon agreed to offer $20-per-month broadband service to people with low incomes in California in exchange for a merger approval.",
+              "After three years, Verizon would need to \"make commercially reasonable efforts\" to increase the speeds \"while retaining the $20 price point.\" The joint motion filed by Verizon and the California Public Advocates Office seeks approval from the California Public Utilities Commission (CPUC).",
+              "The $20 plans would be available to people who meet income eligibility guidelines and can be paired with Lifeline discounts.",
+              "\"If the merger is approved, Verizon will deliver 75,000 new fiber-to-the-home connections in California beyond Frontier's entire buildout plan with a priority for low-income households,\" he wrote."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
