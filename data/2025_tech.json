@@ -42094,6 +42094,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:14": [
+        {
+          "item": {
+            "title": "We’re launching a new Google app for Windows experiment in Labs.",
+            "link": "https://blog.google/products/search/google-app-windows-labs/",
+            "site_name": "Google",
+            "novelty_hash": "75734243dbf2a48dd8b739a6b0311a47f03b3215"
+          },
+          "review": {
+            "headline_rewrite": "We’re launching a new Google app for Windows experiment in Labs.",
+            "bullets": [
+              "Today, we’re launching a new experimental Google app for Windows in Labs to help you find what you need, faster.",
+              "You can also get deeper AI-powered responses in AI Mode and keep exploring with follow-up questions and helpful links."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Hit the road with Shaboozey and Google Maps.",
+            "link": "https://blog.google/products/maps/google-maps-shaboozey/",
+            "site_name": "Google",
+            "novelty_hash": "87e9887b0f95b752169f0262ae8832e304323df3"
+          },
+          "review": {
+            "headline_rewrite": "Hit the road with Shaboozey and Google Maps.",
+            "bullets": [
+              "Shaboozey is about to hit the road for his The Great American Roadshow tour, when he’ll bring his one-of-a-kind mix of country and hip-hop to stages across the country.",
+              "And we have 🎵Good News🎵— we’ve teamed up with Shaboozey to bring his favorite spots right to Google Maps.",
+              "Navigate like a modern cowboy with the new Shaboozey Pegman, complete with his signature cowboy hat and silver bolo tie.",
+              "You'll see him pop up whenever you explore one of Shaboozey’s tour venues.",
+              "Shaboozey also curated his own Google Maps list showing neighborhood gems like roadside smokehouses, pool halls and vintage stores where you will 🎵Blink Twice🎵at all the cool finds."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI will apply new restrictions to ChatGPT users under 18",
+            "link": "https://techcrunch.com/2025/09/16/openai-will-apply-new-restrictions-to-chatgpt-users-under-18/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "51967713c17807a47524d4919382915e9478a171"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI will apply new restrictions to ChatGPT users under 18",
+            "bullets": [
+              "OpenAI CEO Sam Altman announced on Tuesday a raft of new user policies, including a pledge to significantly change how ChatGPT interacts with users under the age of 18.",
+              "Under the new policy, ChatGPT will be trained to no longer engage in “flirtatious talk” with underage users, and additional guardrails will be placed around discussions of suicide.",
+              "OpenAI is currently facing a wrongful death lawsuit from the parents of Adam Raine, who died by suicide after months of interactions with ChatGPT.",
+              "Character.AI, another consumer chatbot, is facing a similar lawsuit.",
+              "While the risks are particularly urgent for underage users considering self-harm, the broader phenomenon of chatbot-fueled delusion has drawn widespread concern, particularly as consumer chatbots have become capable of more sustained and detailed interactions.",
+              "Along with the content-based restrictions, parents who register an underage user account will have the power to set “blackout hours” in which ChatGPT is not available, a feature that was not previously available."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Samsung patches zero-day security flaw used to hack into its customers’ phones",
+            "link": "https://techcrunch.com/2025/09/16/samsung-patches-zero-day-security-flaw-used-to-hack-into-its-customers-phones/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c484d0b7c61e996eceff35a7ecd7912c9191197a"
+          },
+          "review": {
+            "headline_rewrite": "Samsung patches zero-day security flaw used to hack into its customers’ phones",
+            "bullets": [
+              "Samsung says it has fixed a zero-day security vulnerability that is being used to hack into its customers’ phones.",
+              "The phone maker said the security flaw, discovered in a software library for displaying images on Samsung devices, allows hackers to remotely plant malicious code on Samsung devices running Android 13 through the most recent version, Android 16.",
+              "Samsung’s advisory said security teams from Meta and WhatsApp privately notified the company on August 13 and was told that “an exploit for this issue has existed in the wild.”\nSamsung did not provide a list of devices affected by the vulnerability.",
+              "It’s not immediately clear who is behind the hacking campaign or how many Samsung customers are affected, and a spokesperson for Samsung did not respond to a request for comment sent prior to publication.",
+              "But the security fixes coincide with a flurry of security updates from other phone software vendors aimed at countering an ongoing spyware campaign.",
+              "Samsung’s security patches follow separate security fixes issued by Apple and WhatsApp in August, fixing vulnerabilities that security researchers say were used to target both iPhone owners and Android users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta created its own super PAC to politically kneecap its AI rivals",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/778767/meta-mark-zuckerberg-super-pac-kneecap-ai-rivals-california",
+            "site_name": "The Verge",
+            "novelty_hash": "245414c1bf15db47fd8f61ef6ef06f683011dfb6"
+          },
+          "review": {
+            "headline_rewrite": "Meta created its own super PAC to politically kneecap its AI rivals",
+            "bullets": [
+              "In late August, two pro-AI super PACs were announced on the same day, intent on shaping the upcoming midterm elections.",
+              "One was a fairly traditional super PAC, announced via a splashy press release, with multiple major industry players planning to donate over $100 million to boost AI-friendly candidates across the country.",
+              "Meta had quietly filed to create the Mobilizing Economic Transformation Across (Meta) California, a state-only super PAC that would allow Meta to spend its own money to run political ads on behalf of their AI interests — and only their interests.",
+              "After the Supreme Court’s 2010 decision in Citizens United loosened campaign finance restrictions, corporations and the super-wealthy have poured billions into super PACs: political action committees that can accept unlimited amounts of corporate money to spend on ads, advocacy, and voter turnout during elections.",
+              "(The only requirement is that they cannot directly coordinate with candidates or campaigns, or directly donate to them.)\nBut while corporations and individual billionaires have donated to super PACs, campaign finance experts tell The Verge that to their knowledge, it is exceedingly rare for a company to create its own super PAC — especially a company controlled by one person.",
+              "Thanks to a unique corporate ownership structure that gives him complete control of Meta, Mark Zuckerberg has essentially created his own personal California super PAC, allowing him to spend Meta’s money on politically protecting his priorities in the heart of the tech industry — and, possibly, against the interests of his corporate rivals."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google&#8217;s new Windows desktop app brings a Spotlight-like search bar to PC",
+            "link": "https://www.theverge.com/news/778940/google-app-windows-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "2ddfa9a592dc0792f5dfc5d69c532e121f0d4d74"
+          },
+          "review": {
+            "headline_rewrite": "Google&#8217;s new Windows desktop app brings a Spotlight-like search bar to PC",
+            "bullets": [
+              "A blog post on Tuesday said the app, currently available on personal accounts via Google’s Search Labs, will allow you to use an Alt + Space shortcut to search for information from the files on your computer, in your Drive, and on the web.",
+              "In one example shared by Google, you can highlight a math problem on your homework and then ask Google’s AI Mode to help you find the answer.",
+              "Just like Google’s search engine on the web, you can switch between all results, AI Mode, Images, Videos, and more.",
+              "It’s currently only available in English and for users in the US."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
