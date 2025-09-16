@@ -42574,5 +42574,126 @@
         }
       ]
     }
+  },
+  "2025-09-17": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "Gemini overtakes ChatGPT on App Store, as its Nano Banana AI model drives downloads up 45%",
+            "link": "https://techcrunch.com/2025/09/16/gemini-overtakes-chatgpt-on-app-store-as-its-nano-banana-ai-model-drives-downloads-up-45/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fc42b0577fd665bee01dd47f592cbd0a8857518d"
+          },
+          "review": {
+            "headline_rewrite": "Gemini overtakes ChatGPT on App Store, as its Nano Banana AI model drives downloads up 45%",
+            "bullets": [
+              "Gemini’s mobile adoption has been soaring since the August launch of its Nano Banana image editor model, which has received positive reviews, particularly from users who say they can now more easily perform complex edits and create realistic images.",
+              "Though the month is only half over, Gemini’s app has already gained 12.6 million downloads in September, up from 8.7 million in August.",
+              "1 app on September 12, where it has remained, after knocking OpenAI’s ChatGPT down to No.",
+              "No other dedicated AI apps are in the top 10 on the App Store at this time.",
+              "However, despite Android being Google’s own platform, ChatGPT remains in the top spot as of the time of writing.",
+              "Google has been touting Gemini’s growth, as more mainstream users have been trying out the new image editing features."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google rolls out new Windows desktop app with Spotlight-like search tool",
+            "link": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2b084604683dfe5c2964b9e2b5fa8245f280b56a"
+          },
+          "review": {
+            "headline_rewrite": "Google rolls out new Windows desktop app with Spotlight-like search tool",
+            "bullets": [
+              "Google announced on Tuesday that it’s launching a new experimental app for Windows that’s designed to help people find what they need faster.",
+              "The new app is available via Search Labs, Google’s experimental program that lets people test early-stage features and provide feedback before they are broadly released.",
+              "Users can also get deeper responses in Google’s AI Mode, its search feature that lets users ask complex, multi-part questions via an AI interface.",
+              "Users have the option to switch between all results, AI mode, images, shopping, and videos, and more.",
+              "The new app is available in English and for users in the U.S."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Wyze’s new palm-scanning door lock has a second, backup battery",
+            "link": "https://www.theverge.com/news/779046/wyze-palm-scanning-door-smart-lock",
+            "site_name": "The Verge",
+            "novelty_hash": "148f78713800a8276902590af4e299eb6f84a391"
+          },
+          "review": {
+            "headline_rewrite": "Wyze’s new palm-scanning door lock has a second, backup battery",
+            "bullets": [
+              "The Wyze Palm Lock is launching today for $129.98 making it more affordable than similar palm-scanning smart locks including the $359.99 Philips Smart Deadbolt that launched last year.",
+              "Palm vein recognition has been shown to be a more secure and accurate method of biometric security than fingerprint readers, and simply waving your hand over an infrared sensor requires less precision than scanning a fingerprint.",
+              "For added security, the lock incorporates a gyroscope that detects the door’s angle and movements."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Waymo gets green light for airport service in San Francisco",
+            "link": "https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi",
+            "site_name": "The Verge",
+            "novelty_hash": "297913f1213bb847fbb2304f3205090ada4079ef"
+          },
+          "review": {
+            "headline_rewrite": "Waymo gets green light for airport service in San Francisco",
+            "bullets": [
+              "Waymo is now permitted to test its robotaxi service at San Francisco International Airport (SFO), a big win for the company as it seeks to expand its service area and tackle more popular, revenue-generating destinations.",
+              "After years of back-and-forth negotiations, Waymo signed “Testing and Operations Pilot Permit” with SFO, San Francisco Mayor Daniel Lurie said in a release.",
+              "Waymo will start its tests with employees before eventually inviting members of the public to take trips to and from the airport.",
+              "Pickups and dropoffs will initially take place at SFO’s Kiss & Fly lot, which is accessible to the terminals via the AirTrain.",
+              "Waymo operates in five cities, but currently only serves one airport: Phoenix’s Sky Harbor.",
+              "But airports represent a huge money-making opportunity for robotaxis, with airport trips accounting for an estimated 20 percent of human-driven ridehail car trips."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users",
+            "link": "https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/",
+            "site_name": "WIRED",
+            "novelty_hash": "d6a575228150d0cbb8e1868134d5a45aee559bb2"
+          },
+          "review": {
+            "headline_rewrite": "A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users",
+            "bullets": [
+              "The Department of Homeland Security's mandate to carry out domestic surveillance has been a concern for privacy advocates since the organization was first created in the wake of the September 11 attacks.",
+              "An internal DHS memo obtained by a Freedom of Information Act (FOIA) request and shared with WIRED reveals that from March to May of 2023, a DHS online platform used by the DHS Office of Intelligence and Analysis (I&A) to share sensitive but unclassified intelligence information and investigative leads among the DHS, the FBI, the National Counterterrorism Center, local law enforcement, and intelligence fusion centers across the US was misconfigured, accidentally exposing restricted intelligence information to all users of the platform.",
+              "Access to the data, according to a DHS inquiry described in the memo, was meant to be limited to users of the Homeland Security Information Network's intelligence section, known as HSIN-Intel.",
+              "“DHS advertises HSIN as secure and says the information it holds is sensitive, critical national security information,” says Spencer Reynolds, an attorney for the Brennan Center for Justice who obtained the memo via FOIA and shared it with WIRED.",
+              "“But this incident raises questions about how seriously they take information security.",
+              "Thousands and thousands of users gained access to information they were never supposed to have.”\nHSIN-Intel's data includes everything from law enforcement leads and tips to reports on foreign hacking and disinformation campaigns, to analysis of domestic protest movements."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Another lawsuit blames an AI company of complicity in a teenager's suicide",
+            "link": "https://www.engadget.com/ai/another-lawsuit-blames-an-ai-company-of-complicity-in-a-teenagers-suicide-184529475.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1ff24e280bc4762fc8ed2e7c257409219230e702"
+          },
+          "review": {
+            "headline_rewrite": "Another lawsuit blames an AI company of complicity in a teenager's suicide",
+            "bullets": [
+              "Another family has filed a wrongful death lawsuit against popular AI chatbot tool Character AI.",
+              "This is the third suit of its kind after a 2024 lawsuit, also against Character AI, involving the suicide of a 14-year-old in Florida, and a lawsuit last month alleging OpenAI's ChatGPT helped a teenage boy commit suicide.",
+              "The family of 13-year-old Juliana Peralta alleges that their daughter turned to a chatbot inside the app Character AI after feeling isolated by her friends, and began confiding in the chatbot.",
+              "These exchanges took place over the course of months in 2023, at a time when the Character AI app was rated 12+ in Apple's App Store, meaning parental approval was not required.",
+              "In a statement shared with The Washington Post before the suit was filed, a Character spokesperson said that the company could not comment on potential litigation, but added “We take the safety of our users very seriously and have invested substantial resources in Trust and Safety.\"\nThe suit asks the court to award damages to Juliana's parents and requires Character to make changes to its app to better protect minors."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
