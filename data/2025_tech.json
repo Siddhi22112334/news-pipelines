@@ -41390,6 +41390,123 @@
             "impact": "Positive"
           }
         }
+      ],
+      "19:15": [
+        {
+          "item": {
+            "title": "Y Combinator-backed Rulebase wants to be the AI coworker for fintech",
+            "link": "https://techcrunch.com/2025/09/16/y-combinator-backed-rulebase-wants-to-be-the-ai-coworker-for-fintech/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b4773aa4995975093f9d9fd7eddc8be60e706342"
+          },
+          "review": {
+            "headline_rewrite": "Y Combinator-backed Rulebase wants to be the AI coworker for fintech",
+            "bullets": [
+              "Y Combinator-alum Rulebase is betting that the next wave of automation in financial services won’t be about flashy AI interfaces, but the unglamorous back-office tasks like compliance.",
+              "The startup, founded by Gideon Ebose and Chidi Williams, two Nigerian engineers who met in London, just raised a $2.1 million pre-seed round led by Bowery Capital, with participation from Y Combinator, Commerce Ventures, Transpose Platform VC, alongside several angels.",
+              "Its AI agent can evaluate customer interactions, flag regulatory risks, and trigger the right follow-ups across tools like Zendesk, Jira, and Slack without losing the human-in-the-loop oversight that financial firms demand.",
+              "“Our ‘Coworker’ tool integrates across platforms and collaborates with human agents and back-office teams to fully manage the dispute lifecycle while saving time, reducing errors, and maintaining compliance,” said CTO Williams.",
+              "Ebose, a former product lead at Microsoft and Williams, a former backend engineer at Goldman Sachs, built several products together like an AI customer feedback tool before eventually settling on Rulebase.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google launches new protocol for agent-driven purchases",
+            "link": "https://techcrunch.com/2025/09/16/google-launches-new-protocol-for-agent-driven-purchases/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "174fde8e8c463238567ef2c82b421dff85695539"
+          },
+          "review": {
+            "headline_rewrite": "Google launches new protocol for agent-driven purchases",
+            "bullets": [
+              "On Tuesday, Google announced a new open protocol for purchases initiated by AI agents — automated software programs that can shop and make decisions on behalf of users — with backing from more than 60 merchants and financial institutions.",
+              "Called the Agent Payments Protocol (AP2), the system is meant to be interoperable between AI platforms, payment systems and vendors, providing a traceable paper trail for each transaction.",
+              "“We are committed to evolving this protocol in an open, collaborative process, including through standards bodies, and invite the entire payments and technology community to build this future with us,” wrote Stavan Parikh and Rao Surapaneni, who are VPs at Google and Google Cloud, respectively.",
+              "The protocol is built for a future in which AI agents routinely shop for products on customers’ behalf, and engage in complex real-time interactions with retailers’ AI agents.",
+              "“The agent can then interact with both airline and hotel agents, as well as online travel agencies and booking platforms,” the post explains, “and once it finds a combination that fits the budget, it can execute both cryptographically-signed bookings simultaneously.”\nEnabling that kind of transaction is complex, from both a technological and social standpoint.",
+              "AP2 requires agents to register two separate approvals before a purchase can be made: first the “intent mandate” (essentially telling the AI, “I’m looking for a polka dot neck tie”), which enables the agent to search for a specific item and negotiate with sellers; then the “cart mandate,” which gives final approval for a purchase once a specific item has been found."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "This is the first Roku TV smart projector",
+            "link": "https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector",
+            "site_name": "The Verge",
+            "novelty_hash": "f17ac4e055eef371d5e26a82719b5aaced9d403a"
+          },
+          "review": {
+            "headline_rewrite": "This is the first Roku TV smart projector",
+            "bullets": [
+              "The D1R Cube is available starting today for $169.99 through Amazon and Aurzen’s online store in gray, white, and green color options.",
+              "It also supports Apple AirPlay so you can stream video and audio directly from your iPhone and iPad.",
+              "You can use Roku’s mobile app as a remote control with voice commands, and Roku Smart Home lets you get notifications from other smart devices around your home, including access to live feeds from security cameras.",
+              "The majority of the all-in-one projectors available today, including models from Xgimi and Anker, feature Google TV."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta&#8217;s new smart glasses are coming this week",
+            "link": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect",
+            "site_name": "The Verge",
+            "novelty_hash": "85a6ac34c31b4330dfd32437b87acfa02f895e09"
+          },
+          "review": {
+            "headline_rewrite": "Meta&#8217;s new smart glasses are coming this week",
+            "bullets": [
+              "AI-focused hardware is all the rage, and Meta arguably already has the best gadgets around in its Ray-Ban and Oakley glasses.",
+              "At this year’s show, we’re expecting to see more about glasses, but also some standalone AI updates and even some talk of the metaverse.",
+              "Meta is very optimistic about sEMG technology; in a recent blog post, it said that “sEMG could revolutionize how we interact with our devices” and that sEMG “may just prove to be the perfect input for virtually any device.”\nThe new glasses are expected to cost “about $800,” CNBC says, and could be thicker and heavier than some of Meta’s other smart glasses offerings.",
+              "And a now-removed video from Meta caught by UploadVR actually showed a pair of new glasses with a display with the branding “Meta | Ray-Ban” and “Display,” so it seems like Meta is on the cusp of actually launching these.",
+              "Smart glasses without a display\nMeta’s smart glasses have been a big success — EssilorLuxottica, which produces the Ray-Ban Metas, said that the company has sold 2 million pairs of the glasses — and rumors indicate that Meta could introduce new models at Connect.",
+              "Meta launched the previous-generation Ray-Bans about two years ago, and this year’s Oakley Meta HSTN Limited Edition glasses have a better 3K video resolution and double the battery life, so perhaps Meta will bring some of those improvements over to the Ray-Ban line."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Watch Series 11 review: A reliable wearable for when it matters most",
+            "link": "https://www.engadget.com/wearables/apple-watch-series-11-review-a-reliable-wearable-for-when-it-matters-most-120016945.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a515ba98105f973f29beb9315ad484e54f8ecd32"
+          },
+          "review": {
+            "headline_rewrite": "Apple Watch Series 11 review: A reliable wearable for when it matters most",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "The most noteworthy of these is Apple’s new hypertension alerts system, which only received FDA clearance last week soon after the “Awe dropping” launch event.",
+              "The feature has yet to roll out to review units, and will remain untested until later this week, when I can enable it.",
+              "Thankfully, it’s not a tool that will impact my experience with the Series 11 in my daily life, as it’s something that should work mostly in the background and only alert me if it notices I might have high blood pressure.",
+              "The idea is that the routine helps your body maintain some consistency and better prepare for recovery.",
+              "When I finally got home and forced myself to wear the watch to bed, a combination of jetlag and general anxiety brought my score down to 53, with the duration of 2 hours and 17 minutes being the main contributing factor."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Clean AirPods (and Other Earbuds)",
+            "link": "https://www.wired.com/story/how-to-clean-earbuds-and-airpods/",
+            "site_name": "WIRED",
+            "novelty_hash": "be8212e9e74d1c9f39cb64f5e1c542ebbe9cbe3d"
+          },
+          "review": {
+            "headline_rewrite": "How to Clean AirPods (and Other Earbuds)",
+            "bullets": [
+              "That means that the more you put your precious new AirPods Pro in your ear holes, the dirtier they are likely to get.",
+              "Read below to learn how to clean your earbuds and over-ear headphones, as well as other ways to rehab an old pair.",
+              "Get New Pads or Tips\nMost brands, Apple included, offer replacement eartips and pads for their headphones, which can really make an older pair feel new again, especially if the foam is collapsed and dirty."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
