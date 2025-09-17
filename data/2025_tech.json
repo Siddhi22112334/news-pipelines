@@ -47490,6 +47490,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:07": [
+        {
+          "item": {
+            "title": "Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX",
+            "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-logitech-streamlabs-agent/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "975dc8914ec179b4e4d46fdd98f7a9b950a2fde3"
+          },
+          "review": {
+            "headline_rewrite": "Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX",
+            "bullets": [
+              "Today’s creators are equal parts entertainer, producer and gamer, juggling game commentary, scene changes, replay clips, chat moderation and technical troubleshooting — all while trying to play their best.",
+              "Agentic AI presents huge potential for creators.",
+              "At Logitech G PLAY 2025, Streamlabs released its Intelligent Streaming Agent, an AI assistant developed using technologies from NVIDIA and InWorld, that helps livestreamers produce high-quality broadcasts with remarkable ease.",
+              "From Solo Producer to AI-Powered Streams\nFirst previewed at the CES trade show in January, the Streamlabs Intelligent Streaming Agent, now in Streamlabs Desktop, acts as a cohost, producer and technical expert.",
+              "“With NVIDIA ACE Audio2Face integrated into Streamlabs, creators can bring lifelike avatars and real-time intelligence to their streams, enabling them to deliver more engaging content right from their NVIDIA GeForce RTX AI PCs,” said Jason Paul, vice president of GeForce platform technology at NVIDIA.",
+              "The AI agent makes streams more dynamic by acting as a producer, changing scenes where needed or running audio or video cues."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The iPhone Air’s real breakthrough is its battery",
+            "link": "https://techcrunch.com/2025/09/17/the-iphone-airs-real-breakthrough-is-its-battery/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2986343bebf625353323c39f5cc6144d7df13bd4"
+          },
+          "review": {
+            "headline_rewrite": "The iPhone Air’s real breakthrough is its battery",
+            "bullets": [
+              "The iPhone Air’s thin design might be eye catching, and the amount of engineering that went into miniaturizing its logic board is impressive.",
+              "“It’s a revolutionary piece of battery tech.”\nThe iPhone Air’s notched design is made possible by a technology Apple has patented called a metal can battery.",
+              "The key detail is in the name: a metal casing that surrounds the entire cell, adding strength and physical durability.",
+              "You can now build batteries in any two-dimensional shape you want,” Berdichevsky said.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "Metal can batteries allow Apple to make the most of the small space within the iPhone Air."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump admin says Social Security database wasn’t “leaked, hacked, or shared”",
+            "link": "https://arstechnica.com/tech-policy/2025/09/trump-admin-denies-doge-put-social-security-data-into-insecure-cloud-system/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ef96298f6280b2383dd3b989e907fb2cbf1f79b0"
+          },
+          "review": {
+            "headline_rewrite": "Trump admin says Social Security database wasn’t “leaked, hacked, or shared”",
+            "bullets": [
+              "The Trump administration yesterday issued a lengthier denial of a whistleblower's allegation that DOGE officials at the Social Security Administration (SSA) copied the agency's database to an insecure cloud system.",
+              "The allegation centers on the Numerical Identification System (NUMIDENT) database containing Americans' personally identifiable information.",
+              "The cloud location described by the whistleblower report \"is actually a secured server in the agency's cloud infrastructure which historically has housed this data and is continuously monitored and overseen—SSA's standard practice,\" said a letter sent yesterday to Senate Finance Committee Chairman Mike Crapo (R-Idaho).",
+              "SSA defends security controls\nAs we reported last month, then-SSA Chief Data Officer Chuck Borges alleged that DOGE officials created \"a live copy of the country's Social Security information in a cloud environment that circumvents oversight.\" The nonprofit Government Accountability Project, which represents Borges, told members of Congress and the US Office of Special Counsel that the \"vulnerable cloud environment is effectively a live copy of the entire country's Social Security information from the Numerical Identification System (NUMIDENT) database, that apparently lacks any security oversight from SSA or tracking to determine who is accessing or has accessed the copy of this data.\"\nBisignano's letter yesterday said the SSA has been storing personally identifiable information in Amazon Web Services (AWS) for nearly 10 years.",
+              "\"SSA never transferred the Numident database to a private cloud server within SSA's AWS cloud.",
+              "SSA does not have a private cloud within its secure AWS,\" he wrote."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "&#8216;Ask Gemini&#8217; AI will tell you what you missed during a Google Meet call",
+            "link": "https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant",
+            "site_name": "The Verge",
+            "novelty_hash": "11c4dc6729ef164f56866cc3a3d2ff5e8b021368"
+          },
+          "review": {
+            "headline_rewrite": "&#8216;Ask Gemini&#8217; AI will tell you what you missed during a Google Meet call",
+            "bullets": [
+              "Google is starting the rollout of its Ask Gemini AI assistant in Google Meet, but it will initially only be available to “select Google Workspace customers.” The assistant can answer participant’s questions by referring to captions generated during the call, resources like Google Docs, Sheets, and Slides they have permission to view, and public websites.",
+              "It can also provide summaries of what a specific participant said, identify important decisions and action items, and generate a summary of what you missed when joining a meeting late, but only when Google Meet’s Take Notes for Me feature has been activated by the host.",
+              "‘Ask Gemini’ AI will tell you what you missed during a Google Meet call\nThe AI assistant can also summarize what individual participants said, and highlight key decisions made during a call.",
+              "Ask Gemini in Meet is only available on the desktop for now, and it only works during meetings held in English.",
+              "In Q1 of 2026, Google plans to also make it available to Workspace Business Starter, Enterprise Standard, and Enterprise Plus customers once the company has “collected and applied critical user feedback to improve the feature.”\nGoogle cautions that “Gemini in Workspace can make mistakes, including about people, so users should review its output.” Using it to catch up on missed parts of a meeting is useful, but it’s potentially worth your time to go back and review those parts yourself after it’s over."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Americans want AI to stay out of their personal lives",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/780184/pew-research-americans-want-ai-out-of-their-personal-lives",
+            "site_name": "The Verge",
+            "novelty_hash": "519e3bece54e0f811cb656c2e2ca2387e47ab8ba"
+          },
+          "review": {
+            "headline_rewrite": "Americans want AI to stay out of their personal lives",
+            "bullets": [
+              "A new study from Pew suggests that Americans aren’t particularly optimistic about AI.",
+              "A full 50 percent of respondents said they were more concerned than excited about the use of AI in their daily lives.",
+              "Americans want AI to stay out of their personal lives\nThey’re fine with it predicting the weather, but don’t want it to give them religious or dating advice.",
+              "Americans expressed a number of concerns about AI, chief among them that it will negatively impact our ability to think creatively and form meaningful relationships with other people.",
+              "Just 18 percent believed that AI should play any role at all in dating and matchmaking, with just 3 percent being comfortable with it playing a “big role.” The theme in general was that Americans are okay with AI performing analysis on large data to, say, predict the weather, or find cures for disease, but they wanted it to stay out of their personal lives.",
+              "Americans felt that it was very important to be able to identify AI-generated work, but 53 percent said they were not confident in their ability to do so."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google will upgrade its revenge porn defenses with help from a UK nonprofit",
+            "link": "https://www.engadget.com/big-tech/google-will-upgrade-its-revenge-porn-defenses-with-help-from-a-uk-nonprofit-181016291.html",
+            "site_name": "Engadget",
+            "novelty_hash": "27f6e76b5a1bbf42b5d714e4f4afa2be68f68ef3"
+          },
+          "review": {
+            "headline_rewrite": "Google will upgrade its revenge porn defenses with help from a UK nonprofit",
+            "bullets": [
+              "The organization then shares the hash (again, not the spicy pic) with participating platforms.",
+              "Then, if an asshole ex takes the liberty of uploading said photo to one of those companies' services, it should be removed automatically.",
+              "It's a pretty solid defense against an ugly problem.",
+              "StopNCII doesn't work for AI-generated images, audio recordings or saucy text chats.",
+              "On Wednesday, Google product manager Griffin Hunt explained that \"given the scale of the open web, there's more to be done to reduce the burden on those who are affected by it.\"\nIf you're 18 or older and have any photos of yourself that you want to flag proactively, you can start using StopNCII right now.",
+              "And remember, the photo itself never leaves your device, so your privacy remains intact."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
