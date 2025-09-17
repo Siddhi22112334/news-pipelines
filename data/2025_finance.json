@@ -20413,5 +20413,28 @@
         }
       ]
     }
+  },
+  "2025-09-18": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "US Fed meeting: Jerome Powell-led FOMC cuts interest rate by 25 bps; 5 key highlights",
+            "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-jerome-powell-led-fomc-cuts-interest-rate-by-25-bps-5-key-highlights-11758124942527.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US Fed meeting: Jerome Powell-led FOMC cuts interest rate by 25 bps; 5 key highlights",
+            "bullets": [
+              "Recent weakness in the job market had raised expectations that the Fed would cut rates even though inflation remains above its 2% target level.",
+              "Inflation has moved up and remains somewhat elevated,\" said the Federal Reserve.",
+              "Here are five key takeaways from the US Fed's September policy decision: The US Fed trimmed benchmark interest rates by 25 bps and said"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
