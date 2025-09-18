@@ -52710,6 +52710,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:43": [
+        {
+          "item": {
+            "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+            "link": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "412a73e6e4581f4498a7f1663ef20e12dedc520e"
+          },
+          "review": {
+            "headline_rewrite": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+            "bullets": [
+              "was the center of the AI world this week as NVIDIA, U.K.",
+              "leaders announced new initiatives toward making the nation an AI superpower.",
+              "this week culminated in an NVIDIA AI ecosystem celebration today at Vision Hall in London, where he welcomed U.K.",
+              "Secretary of State for Science, Innovation and Technology Liz Kendall on stage to discuss the nation’s “Goldilocks moment” where world-class universities, researchers, startups and venture capitalists converge to create a golden network for building out the nation’s AI.",
+              "Huang also highlighted plans for the U.K.’s AI infrastructure on a panel with Peter Kyle, U.K.",
+              "The United Kingdom was the birthplace of the industrial revolution, Huang said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "DeepSeek-V3.1 model now available in Amazon Bedrock",
+            "link": "https://aws.amazon.com/blogs/aws/deepseek-v3-1-now-available-in-amazon-bedrock/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "2ab32a2695cab925738366ed643e132885d9e9fc"
+          },
+          "review": {
+            "headline_rewrite": "DeepSeek-V3.1 model now available in Amazon Bedrock",
+            "bullets": [
+              "DeepSeek-V3.1 model now available in Amazon Bedrock\nIn March, Amazon Web Services (AWS) became the first cloud service provider to deliver DeepSeek-R1 in a serverless way by launching it as a fully managed, generally available model in Amazon Bedrock.",
+              "Since then, customers have used DeepSeek-R1’s capabilities through Amazon Bedrock to build generative AI applications, benefiting from the Bedrock’s robust guardrails and comprehensive tooling for safe AI deployment.",
+              "Today, I am excited to announce DeepSeek-V3.1 is now available as a fully managed foundation model in Amazon Bedrock.",
+              "DeepSeek-V3.1 is a hybrid open weight model that switches between thinking mode (chain-of-thought reasoning) for detailed step-by-step analysis and non-thinking mode (direct answers) for faster responses.",
+              "According to DeepSeek, the thinking mode of DeepSeek-V3.1 achieves comparable answer quality with better results, stronger multi-step reasoning for complex search tasks, and big gains in thinking efficiency compared with DeepSeek-R1-0528.",
+              "DeepSeek-V3.1 model performance in tool usage and agent tasks has significantly improved through post-training optimization compared to previous DeepSeek models."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Qwen models are now available in Amazon Bedrock",
+            "link": "https://aws.amazon.com/blogs/aws/qwen-models-are-now-available-in-amazon-bedrock/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "68c4f62498e807dd562a3be8235821df44e24f4f"
+          },
+          "review": {
+            "headline_rewrite": "Qwen models are now available in Amazon Bedrock",
+            "bullets": [
+              "Qwen models are now available in Amazon Bedrock\nToday we are adding Qwen models from Alibaba in Amazon Bedrock.",
+              "With this launch, Amazon Bedrock continues to expand model choice by adding access to Qwen3 open weight foundation models (FMs) in a full managed, serverless way.",
+              "Amazon Bedrock provides access to industry-leading FMs through a unified API without requiring infrastructure management.",
+              "With Amazon Bedrock, customer data is never used to train the underlying models.",
+              "With the addition of Qwen3 models, Amazon Bedrock offers even more options for use cases like:\n- Code generation and repository analysis with extended context understanding\n- Building agentic workflows that orchestrate multiple tools and APIs for business automation\n- Balancing AI costs and performance using hybrid thinking modes for adaptive reasoning\nQwen3 models in Amazon Bedrock\nThese four Qwen3 models are now available in Amazon Bedrock, each optimized for different performance and cost requirements:\n- Qwen3-235B-A22B-Instruct-2507 – This is an instruction-tuned MoE model with 235B total parameters and 22B active parameters.",
+              "It is suitable for real-time or resource-constrained environments such as mobile devices and edge computing deployments where consistent performance is critical."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI startups are fueling Google’s booming cloud business",
+            "link": "https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eac4d0c596b6e4c0ca95345e51c1eafd75550445"
+          },
+          "review": {
+            "headline_rewrite": "How AI startups are fueling Google’s booming cloud business",
+            "bullets": [
+              "Google Cloud announced Thursday it has added fast-rising AI coding startups Lovable and Windsurf to its roster of customers.",
+              "Both companies have chosen Google Cloud as their primary cloud computing provider, the latest sign of Google’s rising prominence against larger rivals AWS and Microsoft Azure.",
+              "The deals also highlight Google’s efforts to make its cloud business more central to the company’s future.",
+              "Today, Google Cloud is overshadowed by larger competitors like AWS and Microsoft, as well as Google’s much larger advertising business.",
+              "Google Cloud is one of the company’s fastest-growing business lines.",
+              "On its last earnings call, Google said its cloud division hit an annual run rate of $50 billion, and cloud chief Thomas Kurian said this week the unit lined up $58 billion in new revenue over the next two years."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch",
+            "link": "https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd",
+            "site_name": "The Verge",
+            "novelty_hash": "c9791ec64d677cb5450399d6d78dbf8cbc4a2540"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch",
+            "bullets": [
+              "Today, Nvidia CEO Jensen Huang and Intel CEO Lip-Bu Tan held a joint webcast to explain just why the world’s most valuable company (Nvidia’s at $4.28 trillion) is throwing a $5 billion lifeline to a struggling competitor.",
+              "Huang claimed it had nothing to do with Trump, who famously shook down Intel CEO Lip-Bu Tan for the United States’ own 10 percent stake of Intel, shortly after shaking down Nvidia for 15 percent of its revenue selling chips to China.",
+              "“We’re fully committed to the Arm roadmap, we have lots and lots of customers for Arm,” he said, adding later that “this doesn’t affect any of that.” Nor is it a shift from TSMC to Intel as manufacturing partner for Nvidia’s chips — Huang quickly turned to effuse praise for TSMC as soon as a reporter asked — or about manufacturing in the US.",
+              "Instead, over the course of the 40-minute call, Nvidia and Intel basically said they were going to eat AMD’s lunch.",
+              "AMD is the one chipmaker that competes with both Intel and Nvidia, and it’s long been competitive in one hugely important way: while Intel has always specialized in CPUs, and Nvidia has always specialized in GPUs, AMD does both, and it’s become very good at putting both into the same chip.",
+              "That’s why Sony put AMD into the PS4, PS5 and reportedly the PS6; why Microsoft put them in the Xbox One, Xbox Series and the next Xbox, and why almost every handheld gaming PC since the Steam Deck uses an AMD chip."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to find the best deals during Amazon’s October Prime Day sale",
+            "link": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+            "site_name": "The Verge",
+            "novelty_hash": "b8703ce52419c893c102c8de9e4b86ae27e37b5e"
+          },
+          "review": {
+            "headline_rewrite": "How to find the best deals during Amazon’s October Prime Day sale",
+            "bullets": [
+              "The two-day shopping affair will grant Prime members access to some of the best prices of the year on Amazon devices, as well as products from Sony, Sonos, Microsoft, Apple, Withings, and other well-known brands.",
+              "As always, you can count on us to publish only the best deals during Prime Big Deal Days — as well as any worthwhile ones featured at Walmart, Best Buy, Target, and other competing retailers.",
+              "That said, if you want to be sure you catch any and all deals that are most important to you — or be among the first to know of certain price drops — we’ve compiled some helpful tools and advice.",
+              "Use a price-tracking tool or deal aggregator\nCamelCamelCamel tracks the price of every product sold on Amazon and can send you alerts only when they reach the price that’s right for you.",
+              "Once a product reaches the desired price you’ve set (or goes below it), you’ll get an email about it.",
+              "CamelCamelCamel only works for products on Amazon, so you’ll need to use one of the other methods below if you want to track price movement at Walmart, Best Buy, Target, and other retailers."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
