@@ -52589,6 +52589,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+            "link": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "412a73e6e4581f4498a7f1663ef20e12dedc520e"
+          },
+          "review": {
+            "headline_rewrite": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+            "bullets": [
+              "was the center of the AI world this week as NVIDIA, U.K.",
+              "leaders announced new initiatives toward making the nation an AI superpower.",
+              "this week culminated in an NVIDIA AI ecosystem celebration today at Vision Hall in London, where he welcomed U.K.",
+              "Secretary of State for Science, Innovation and Technology Liz Kendall on stage to discuss the nation’s “Goldilocks moment” where world-class universities, researchers, startups and venture capitalists converge to create a golden network for building out the nation’s AI.",
+              "Huang also highlighted plans for the U.K.’s AI infrastructure on a panel with Peter Kyle, U.K.",
+              "The United Kingdom was the birthplace of the industrial revolution, Huang said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch",
+            "link": "https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd",
+            "site_name": "The Verge",
+            "novelty_hash": "8841a08c1498dcb91cb6d048d52dcd15b03af98b"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch",
+            "bullets": [
+              "Today, Nvidia CEO Jensen Huang and Intel CEO Lip-Bu Tan held a joint webcast to explain just why the world’s most valuable company (Nvidia’s at $4.28 trillion) is throwing a $5 billion lifeline to a struggling competitor.",
+              "Huang claimed it had nothing to do with Trump, who famously shook down Intel CEO Lip-Bu Tan for the United States’ own 10 percent stake of Intel, shortly after shaking down Nvidia for 15 percent of its revenue selling chips to China.",
+              "“We’re fully committed to the Arm roadmap, we have lots and lots of customers for Arm,” he said, adding later that “this doesn’t affect any of that.” Nor is it a shift from TSMC to Intel as manufacturing partner for Nvidia’s chips — Huang quickly turned to effuse praise for TSMC as soon as a reporter asked — or about manufacturing in the US.",
+              "Instead, over the course of the 40-minute call, Nvidia and Intel basically said they were going to eat AMD’s lunch.",
+              "AMD is the one chipmaker that competes with both Intel and Nvidia, and it’s long been competitive in one hugely important way: while Intel has always specialized in CPUs, and Nvidia has always specialized in GPUs, AMD does both, and it’s become very good at putting both into the same chip.",
+              "That’s why Sony put AMD into the PS4, PS5 and reportedly the PS6; why Microsoft put them in the Xbox One, Xbox Series and the next Xbox, and why almost every handheld gaming PC since the Steam Deck uses an AMD chip."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI startups are fueling Google’s booming cloud business",
+            "link": "https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eac4d0c596b6e4c0ca95345e51c1eafd75550445"
+          },
+          "review": {
+            "headline_rewrite": "How AI startups are fueling Google’s booming cloud business",
+            "bullets": [
+              "Google Cloud announced Thursday it has added fast-rising AI coding startups Lovable and Windsurf to its roster of customers.",
+              "Both companies have chosen Google Cloud as their primary cloud computing provider, the latest sign of Google’s rising prominence against larger rivals AWS and Microsoft Azure.",
+              "The deals also highlight Google’s efforts to make its cloud business more central to the company’s future.",
+              "Today, Google Cloud is overshadowed by larger competitors like AWS and Microsoft, as well as Google’s much larger advertising business.",
+              "Google Cloud is one of the company’s fastest-growing business lines.",
+              "On its last earnings call, Google said its cloud division hit an annual run rate of $50 billion, and cloud chief Thomas Kurian said this week the unit lined up $58 billion in new revenue over the next two years."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Huawei announces new AI infrastructure as Nvidia gets locked out of China",
+            "link": "https://techcrunch.com/2025/09/18/huawei-announces-new-ai-infrastructure-as-nvidia-gets-locked-out-of-china/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b10f666fd9cf319b82cdc0df4961a29a5ff5b06b"
+          },
+          "review": {
+            "headline_rewrite": "Huawei announces new AI infrastructure as Nvidia gets locked out of China",
+            "bullets": [
+              "Tech giant Huawei unveiled new AI infrastructure meant to help boost compute power and allow the company to better compete with rival chipmaker Nvidia.",
+              "At a keynote at its Huawei Connect conference on Thursday, Shenzhen, China-based Huawei announced new SuperPoD Interconnect technology that can link up to 15,000 graphics cards, including Huawei’s Ascend AI chips, together to increase compute power.",
+              "This tech seems to be a competitor for Nvidia’s NVLink infrastructure, which facilitates high-speed communication between AI chips.",
+              "Technology like this is critical for Huawei to better compete with semiconductors like Nvidia’s.",
+              "While Huawei’s AI chips are less powerful than Nvidia’s, being able to cluster them together will give its users access to more compute power, which is needed for training and scaling AI systems."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal",
+            "link": "https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/",
+            "site_name": "WIRED",
+            "novelty_hash": "57789fe0e8d1481cfadaec91c670426b000cbdf2"
+          },
+          "review": {
+            "headline_rewrite": "Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal",
+            "bullets": [
+              "Nvidia, which has a market cap of $4.3 trillion, said today that it will invest $5 billion in Intel, the struggling US chipmaker that was recently at the center of an unorthodox investment deal with the US government.",
+              "The two American chipmakers are also entering into a product collaboration.",
+              "Intel said in a statement early Thursday morning that “Intel’s leading CPUs and x86 ecosystem will be seamlessly connected with Nvidia’s AI and accelerated computing capabilities using NVLink,” referring to Nvidia technology that connects CPUs with GPUs.",
+              "Tan wrote that he was excited to team up with his “good friend Jensen” to jointly develop custom data center and PC chips.",
+              "In a press briefing, Huang emphasized that the deal will allow Nvidia to scale its rack architecture systems that combine 72 GPUs with custom CPUs.",
+              "Huang also said that working with Intel means Nvidia can take a bigger slice of the personal device market."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Hyundai CEO distances company from ICE raid: ‘not our facility’",
+            "link": "https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump",
+            "site_name": "The Verge",
+            "novelty_hash": "f7e1fe22ccb69510dce8f4422e64178686245ad1"
+          },
+          "review": {
+            "headline_rewrite": "Hyundai CEO distances company from ICE raid: ‘not our facility’",
+            "bullets": [
+              "Today, the CEO of Hyundai sought to distance his company from the Immigration and Customs Enforcement raid earlier this month at the company’s battery factory in Georgia, which resulted in the arrest of hundreds of South Korean workers.",
+              "Hyundai CEO distances company from ICE raid: ‘not our facility’\nHyundai CEO José Muñoz clarified that the immigration raid that resulted in the arrest of hundreds of South Koreans had targeted a facility operated by LG Energy Solutions.",
+              "The factory is operated by LG Energy Solutions, and most of the workers that were detained were employed by suppliers for that company, not Hyundai, José Muñoz said in a briefing with reporters on Thursday after the automaker’s CEO Investor Day event in New York City.",
+              "“I could not believe what I saw because I would have known, probably before the news,” Muñoz said, when asked about his initial reaction to the raid.",
+              "“So I said, something is weird here.",
+              "And when I go into the details, then I realize it’s not our facility."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
