@@ -52953,6 +52953,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:44": [
+        {
+          "item": {
+            "title": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+            "link": "https://blogs.nvidia.com/blog/uk-ai-ecosystem-celebration/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "412a73e6e4581f4498a7f1663ef20e12dedc520e"
+          },
+          "review": {
+            "headline_rewrite": "The UK’s ‘Goldilocks Moment for AI’: NVIDIA, UK and US Leaders Highlight AI Infrastructure Investments",
+            "bullets": [
+              "was the center of the AI world this week as NVIDIA, U.K.",
+              "leaders announced new initiatives toward making the nation an AI superpower.",
+              "this week culminated in an NVIDIA AI ecosystem celebration today at Vision Hall in London, where he welcomed U.K.",
+              "Secretary of State for Science, Innovation and Technology Liz Kendall on stage to discuss the nation’s “Goldilocks moment” where world-class universities, researchers, startups and venture capitalists converge to create a golden network for building out the nation’s AI.",
+              "Huang also highlighted plans for the U.K.’s AI infrastructure on a panel with Peter Kyle, U.K.",
+              "The United Kingdom was the birthplace of the industrial revolution, Huang said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "DeepSeek-V3.1 model now available in Amazon Bedrock",
+            "link": "https://aws.amazon.com/blogs/aws/deepseek-v3-1-now-available-in-amazon-bedrock/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "2ab32a2695cab925738366ed643e132885d9e9fc"
+          },
+          "review": {
+            "headline_rewrite": "DeepSeek-V3.1 model now available in Amazon Bedrock",
+            "bullets": [
+              "DeepSeek-V3.1 model now available in Amazon Bedrock\nIn March, Amazon Web Services (AWS) became the first cloud service provider to deliver DeepSeek-R1 in a serverless way by launching it as a fully managed, generally available model in Amazon Bedrock.",
+              "Since then, customers have used DeepSeek-R1’s capabilities through Amazon Bedrock to build generative AI applications, benefiting from the Bedrock’s robust guardrails and comprehensive tooling for safe AI deployment.",
+              "Today, I am excited to announce DeepSeek-V3.1 is now available as a fully managed foundation model in Amazon Bedrock.",
+              "DeepSeek-V3.1 is a hybrid open weight model that switches between thinking mode (chain-of-thought reasoning) for detailed step-by-step analysis and non-thinking mode (direct answers) for faster responses.",
+              "According to DeepSeek, the thinking mode of DeepSeek-V3.1 achieves comparable answer quality with better results, stronger multi-step reasoning for complex search tasks, and big gains in thinking efficiency compared with DeepSeek-R1-0528.",
+              "DeepSeek-V3.1 model performance in tool usage and agent tasks has significantly improved through post-training optimization compared to previous DeepSeek models."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Qwen models are now available in Amazon Bedrock",
+            "link": "https://aws.amazon.com/blogs/aws/qwen-models-are-now-available-in-amazon-bedrock/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "68c4f62498e807dd562a3be8235821df44e24f4f"
+          },
+          "review": {
+            "headline_rewrite": "Qwen models are now available in Amazon Bedrock",
+            "bullets": [
+              "Qwen models are now available in Amazon Bedrock\nToday we are adding Qwen models from Alibaba in Amazon Bedrock.",
+              "With this launch, Amazon Bedrock continues to expand model choice by adding access to Qwen3 open weight foundation models (FMs) in a full managed, serverless way.",
+              "Amazon Bedrock provides access to industry-leading FMs through a unified API without requiring infrastructure management.",
+              "With Amazon Bedrock, customer data is never used to train the underlying models.",
+              "With the addition of Qwen3 models, Amazon Bedrock offers even more options for use cases like:\n- Code generation and repository analysis with extended context understanding\n- Building agentic workflows that orchestrate multiple tools and APIs for business automation\n- Balancing AI costs and performance using hybrid thinking modes for adaptive reasoning\nQwen3 models in Amazon Bedrock\nThese four Qwen3 models are now available in Amazon Bedrock, each optimized for different performance and cost requirements:\n- Qwen3-235B-A22B-Instruct-2507 – This is an instruction-tuned MoE model with 235B total parameters and 22B active parameters.",
+              "It is suitable for real-time or resource-constrained environments such as mobile devices and edge computing deployments where consistent performance is critical."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s research on AI models deliberately lying is wild",
+            "link": "https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "620cada790a6a743177e27f046313e492a1d42a8"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s research on AI models deliberately lying is wild",
+            "bullets": [
+              "There was the time Google said its latest quantum chip indicated multiple universes exist.",
+              "Or when Anthropic gave its AI agent Claudius a snack vending machine to run and it went amok, calling security on people, and insisting it was human.",
+              "This week, it was OpenAI’s turn to raise our collective eyebrows.",
+              "OpenAI released on Monday some research that explained how it’s stopping AI models from “scheming.” It’s a practice in which an “AI behaves one way on the surface while hiding its true goals,” OpenAI defined in its tweet about the research.",
+              "In the paper, conducted with Apollo Research, researchers went a bit further, likening AI scheming to a human stock broker breaking the law to make as much money as possible.",
+              "The researchers, however, argued that most AI “scheming” wasn’t that harmful."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to find the best deals during Amazon’s October Prime Day sale",
+            "link": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+            "site_name": "The Verge",
+            "novelty_hash": "b8703ce52419c893c102c8de9e4b86ae27e37b5e"
+          },
+          "review": {
+            "headline_rewrite": "How to find the best deals during Amazon’s October Prime Day sale",
+            "bullets": [
+              "The two-day shopping affair will grant Prime members access to some of the best prices of the year on Amazon devices, as well as products from Sony, Sonos, Microsoft, Apple, Withings, and other well-known brands.",
+              "As always, you can count on us to publish only the best deals during Prime Big Deal Days — as well as any worthwhile ones featured at Walmart, Best Buy, Target, and other competing retailers.",
+              "That said, if you want to be sure you catch any and all deals that are most important to you — or be among the first to know of certain price drops — we’ve compiled some helpful tools and advice.",
+              "Use a price-tracking tool or deal aggregator\nCamelCamelCamel tracks the price of every product sold on Amazon and can send you alerts only when they reach the price that’s right for you.",
+              "Once a product reaches the desired price you’ve set (or goes below it), you’ll get an email about it.",
+              "CamelCamelCamel only works for products on Amazon, so you’ll need to use one of the other methods below if you want to track price movement at Walmart, Best Buy, Target, and other retailers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel says Arc GPUs will live on after Nvidia deal",
+            "link": "https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal",
+            "site_name": "The Verge",
+            "novelty_hash": "5e7fe5419bec4ea76d4c802a1b1f7a88569cc0e1"
+          },
+          "review": {
+            "headline_rewrite": "Intel says Arc GPUs will live on after Nvidia deal",
+            "bullets": [
+              "In the future, Intel will make CPUs with Nvidia graphics inside — among other things, Nvidia CEO Jensen Huang confirmed today that Nvidia will contribute “GPU chiplets” that Intel can place alongside its x86 CPU cores instead of the Arc integrated graphics it develops in-house today.",
+              "“We’re not discussing specific roadmaps at this time, but the collaboration is complementary to Intel’s roadmap and Intel will continue to have GPU product offerings,” Intel told PCWorld, reiterating the commitment that Intel’s Michelle Johnston Holthaus made before she abruptly left the company.",
+              "Most Popular\n- I regret to inform you Meta’s new smart glasses are the best I’ve ever tried\n- Here’s the Jimmy Kimmel clip that got him pulled off the air\n- Meta Connect 2025: the 6 biggest announcements\n- Jimmy Kimmel Live pulled ‘indefinitely’ for joke about Charlie Kirk’s killer after FCC threat\n- Samsung brings ads to US fridges"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
