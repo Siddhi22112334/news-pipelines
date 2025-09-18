@@ -52226,6 +52226,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:48": [
+        {
+          "item": {
+            "title": "Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch",
+            "link": "https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd",
+            "site_name": "The Verge",
+            "novelty_hash": "8841a08c1498dcb91cb6d048d52dcd15b03af98b"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch",
+            "bullets": [
+              "Today, Nvidia CEO Jensen Huang and Intel CEO Lip-Bu Tan held a joint webcast to explain just why the world’s most valuable company (Nvidia’s at $4.28 trillion) is throwing a $5 billion lifeline to a struggling competitor.",
+              "Huang claimed it had nothing to do with Trump, who famously shook down Intel CEO Lip-Bu Tan for the United States’ own 10 percent stake of Intel, shortly after shaking down Nvidia for 15 percent of its revenue selling chips to China.",
+              "“We’re fully committed to the Arm roadmap, we have lots and lots of customers for Arm,” he said, adding later that “this doesn’t affect any of that.” Nor is it a shift from TSMC to Intel as manufacturing partner for Nvidia’s chips — Huang quickly turned to effuse praise for TSMC as soon as a reporter asked — or about manufacturing in the US.",
+              "Instead, over the course of the 40-minute call, Nvidia and Intel basically said they were going to eat AMD’s lunch.",
+              "AMD is the one chipmaker that competes with both Intel and Nvidia, and it’s long been competitive in one hugely important way: while Intel has always specialized in CPUs, and Nvidia has always specialized in GPUs, AMD does both, and it’s become very good at putting both into the same chip.",
+              "That’s why Sony put AMD into the PS4, PS5 and reportedly the PS6; why Microsoft put them in the Xbox One, Xbox Series and the next Xbox, and why almost every handheld gaming PC since the Steam Deck uses an AMD chip."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Tim Cook, Sam Altman, and more attend Trump’s UK state banquet",
+            "link": "https://techcrunch.com/2025/09/18/tim-cook-sam-altman-and-more-attend-trumps-uk-state-banquet/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d94b297f7d56ee6b63046f82f1c41a759fbf217b"
+          },
+          "review": {
+            "headline_rewrite": "Tim Cook, Sam Altman, and more attend Trump’s UK state banquet",
+            "bullets": [
+              "The banquet seating chart included NVIDIA CEO Jensen Huang; Apple CEO Tim Cook; venture capitalist and White House AI and crypto czar David Sacks; Alphabet and Google president Ruth Porat; Microsoft CEO Satya Nadella; Salesforce CEO Marc Benioff; and OpenAI’s Sam Altman, according to the New York Times.",
+              "On Thursday, the US and UK signed a partnership called the Tech Prosperity Deal to focus on developing nuclear, AI, and quantum technologies.",
+              "Google, Microsoft, NVIDIA, and OpenAI also made announcements earlier this week to build data centers in the UK, while CoreWeave and Salesforce announced a multi-billion-pound investment in the country.",
+              "Overall, American tech firms committed a total of £31 billion ($42 billion) to boost AI infrastructure in the UK.",
+              "This state banquet guest list seems to have featured more tech and business names rather than the Hollywood types that often attend such affairs.",
+              "This change reveals the shifting economic needs of the UK and US in the age of AI, and the rising prominence of technology and its leaders in Trump’s second administration."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal",
+            "link": "https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/",
+            "site_name": "WIRED",
+            "novelty_hash": "2230665bdf178ea441d02c0a45b76c47fb611ff1"
+          },
+          "review": {
+            "headline_rewrite": "Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal",
+            "bullets": [
+              "Nvidia, which has a market cap of $4.3 trillion, said today that it will invest $5 billion in Intel, the struggling US chipmaker that was recently at the center of an unorthodox investment deal with the US government.",
+              "The two American chip makers are also entering into a product collaboration.",
+              "Intel said in a statement early Thursday morning that “Intel’s leading CPUs and x86 ecosystem will be seamlessly connected with NVIDIA’s AI and accelerated computing capabilities using NVLink,” referring to Nvidia technology that connects CPUs with GPUs.",
+              "Tan wrote that he was excited to team up with his “good friend Jensen” to jointly develop custom data center and PC chips.",
+              "In a press briefing, Huang emphasized that the deal will allow Nvidia to scale its rack architecture systems that combine 72 GPUs with custom CPUs.",
+              "Huang also said that working with Intel means Nvidia can take a bigger slice of the personal device market."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "US government charges British teenager accused of at least 120 ‘Scattered Spider’ hacks",
+            "link": "https://techcrunch.com/2025/09/18/us-government-charges-british-teenager-accused-of-at-least-120-scattered-spider-hacks/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "44a1dba60bf2e04a742c15a8d6484b7d5f80a44d"
+          },
+          "review": {
+            "headline_rewrite": "US government charges British teenager accused of at least 120 ‘Scattered Spider’ hacks",
+            "bullets": [
+              "Department of Justice on Thursday unsealed federal charges against British teenager Thalha Jubair, who prosecutors accuse of being involved in at least 120 cyberattacks, including the U.S.",
+              "Jubair, 19, was arrested on Tuesday at his home in East London, according to a statement by the National Crime Agency.",
+              "Both are accused of involvement in a 2024 cyberattack targeting Transport for London, the government body that oversees the London public transit system, which resulted in a data breach and a monthslong recovery effort.",
+              "The National Crime Agency said the hack on the London transit system’s IT network was attributed to the Scattered Spider hacking group.",
+              "Both Jubair and Flowers were taken into custody to appear in court at a later date, per BBC News.",
+              "prosecutors said Jubair also faces computer hacking, extortion, and money laundering charges in relation to dozens of hacks that saw corporate victims pay over $115 million in ransom payments."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ubiquiti’s new desktop NAS looks more like a wireless router",
+            "link": "https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup",
+            "site_name": "The Verge",
+            "novelty_hash": "232b9d9f3c33bfe82215cf98acedaf9781ecfac8"
+          },
+          "review": {
+            "headline_rewrite": "Ubiquiti’s new desktop NAS looks more like a wireless router",
+            "bullets": [
+              "Ubiquiti has announced a collection of new storage solutions compatible with its UniFi lineup of networking devices that already includes routers, switches, and security cameras.",
+              "The entry-level UNAS 2 is now available in a black or white finish for $199 and accommodates a pair of 3.5-inch hard drives in a RAID 1 configuration.",
+              "It’s expected to ship later this year for $379 and while it features a similar design and functionality as the UNAS 2, it’s much larger and can accommodate up to four 2.5-inch or 3.5-inch hard drives plus a pair of M.2 NVMe SSD drives.",
+              "Although Ubiquiti’s rack-mounted NAS solutions offer more capacity and RAID options, the company hasn’t yet shared what RAID configurations the UNAS 4 will support, or if like the UNAS 2 it will be limited to RAID 1.",
+              "Most Popular\n- I regret to inform you Meta’s new smart glasses are the best I’ve ever tried\n- Here’s the Jimmy Kimmel clip that got him pulled off the air\n- Meta Connect 2025: the 6 biggest announcements\n- Jimmy Kimmel Live pulled ‘indefinitely’ for joke about Charlie Kirk’s killer after FCC threat\n- Apple iPhone Air review: statement piece"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Move Aside, Chatbots: AI Humanoids Are Here",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/",
+            "site_name": "WIRED",
+            "novelty_hash": "7b42dcb0428331bfe66d57359d4b93ff4c4b15b0"
+          },
+          "review": {
+            "headline_rewrite": "Move Aside, Chatbots: AI Humanoids Are Here",
+            "bullets": [
+              "This week, WIRED learned that OpenAI is ramping up its efforts in robotics—specifically, by hiring researchers who work on AI systems for humanoid robots.",
+              "Humanoids, robots built to resemble us and perform daily tasks, were famous for their clumsiness just a few years ago.",
+              "Senior writer Will Knight tells us about how that's rapidly changing on today's episode cohosted by Michael Calore and senior correspondent Kylie Robison.",
+              "Mentioned in this episode:\nOpenAI Ramps Up Robotics Work in Race Toward AGI by Will Knight\nHumanoid Robots Are Coming of Age by Will Knight\n2025 Is the Year of the Humanoid Robot Factory Worker by Russell Brandom\nYou can follow Michael Calore on Bluesky at @snackfight, Will Knight on Bluesky at @willknight, and Kylie Robison on Bluesky at @kylierobison.com.",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Good to see you here in the chair-\nKylie Robison: I know."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
