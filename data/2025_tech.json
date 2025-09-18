@@ -51045,6 +51045,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "20:46": [
+        {
+          "item": {
+            "title": "Inside the world’s most powerful AI datacenter",
+            "link": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "f41cb6b42939ed3c4caebc57b6051ccc1944ceb5"
+          },
+          "review": {
+            "headline_rewrite": "Inside the world’s most powerful AI datacenter",
+            "bullets": [
+              "This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services.",
+              "Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet.",
+              "In addition to our Fairwater datacenter in Wisconsin, we also have multiple identical Fairwater datacenters under construction in other locations across the US.",
+              "In Narvik, Norway, Microsoft announced plans with nScale and Aker JV to develop a new hyperscale AI datacenter.",
+              "These AI datacenters are significant capital projects, representing tens of billions of dollars of investments and hundreds of thousands of cutting-edge AI chips, and will seamlessly connect with our global Microsoft Cloud of over 400 datacenters in 70 regions around the world.",
+              "Through innovation that can enable us to link these AI datacenters in a distributed network, we multiply the efficiency and compute in an exponential way to further democratize access to AI services globally."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+            "link": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "abef5ab400b228bd944795e9d557dd9eb4394ad0"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+            "bullets": [
+              "The NVIDIA Blackwell architecture is the reigning leader of the AI revolution.",
+              "Many think of Blackwell as a chip, but it may be better to think of it as a platform powering large-scale AI infrastructure.",
+              "Blackwell is the core of an entire system architecture designed specifically to power AI factories that produce intelligence using the largest and most complex AI models.",
+              "Today’s frontier AI models have hundreds of billions of parameters and are estimated to serve nearly a billion users per week.",
+              "The next generation of models are expected to have well over a trillion parameters — and are being trained on tens of trillions of tokens of data drawn from text, image and video datasets.",
+              "AI factories are the machines of the next industrial revolution."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia buys $5 billion stake in Intel, planning AI chip collaboration",
+            "link": "https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "42f19c26620ace7f8a403a5aca16d588022051e0"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia buys $5 billion stake in Intel, planning AI chip collaboration",
+            "bullets": [
+              "Nvidia has agreed to buy a $5 billion stake in Intel as part of a broader deal to together develop “multiple generations” of data center and PC products.",
+              "The companies will integrate their two architectures using Nvidia’s NVLink interface, which enables data and control code transfers between CPUs and GPUs.",
+              "NVLink enables faster transfers between chips compared with other standards like PCI Express, which is crucial for AI applications, which require many GPUs to run together and process immense workloads.",
+              "For data centers, Intel will manufacture a new line of x86 CPUs specifically customized for Nvidia’s AI infrastructure platforms, to be offered to enterprise and hyperscale customers.",
+              "For the consumer PC segment, Intel will build x86 system-on-chips that will incorporate chiplets of Nvidia’s RTX GPUs, which will no doubt give Intel an edge over rival AMD’s CPUs.",
+              "The companies are calling these chips “x86 RTX SoCs,” at the moment, and claim these chips will power a “wide range of PCs.”\nThe deal comes after a rough few years for Intel, which has struggled to capitalize on the AI chip race unlike its new partner."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google and PayPal team up on agentic commerce",
+            "link": "https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7562f9d942bb4762ba31548229fd3e4846cfef85"
+          },
+          "review": {
+            "headline_rewrite": "Google and PayPal team up on agentic commerce",
+            "bullets": [
+              "PayPal announced on Wednesday a new multi-year partnership with Google that will see the payments giant using Google’s AI technology to create new AI-powered shopping experiences.",
+              "PayPal’s solutions, meanwhile, will be integrated across Google’s products, and PayPal will work with Google Cloud on hosting and improving its technology infrastructure.",
+              "The companies did not detail what specific types of agentic shopping experiences they would work together to create, but said Google would contribute its AI technology and expertise, and PayPal would leverage its global payment infrastructure, personalization, and identity solutions.",
+              "This open protocol is meant to enable purchases that are initiated by AI agents, and has already been backed by over 60 merchants and financial institutions.",
+              "As part of the deal, PayPal will be listed as a key payment provider for card payments in areas like Google Cloud, Google Ads, and Google Play.",
+              "Other products being integrated by Google include PayPal’s branded checkout, Hyperwallet payouts service, and PayPal Payouts service."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta’s $799 Ray-Ban Display is the company’s first big step from VR to AR",
+            "link": "https://arstechnica.com/gadgets/2025/09/metas-799-ray-ban-display-is-the-companys-first-big-step-from-vr-to-ar/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "395b6ea2ac66b12e22b2e4a1ca2842a54a924ec8"
+          },
+          "review": {
+            "headline_rewrite": "Meta’s $799 Ray-Ban Display is the company’s first big step from VR to AR",
+            "bullets": [
+              "At last year's Meta Connect, Mark Zuckerberg focused less on the company's line of Quest VR headsets and more on the \"Orion\" prototype see-through augmented reality glasses, which he said could launch in some form or another \"in the next few years.\" At the Meta Connect keynote Wednesday evening, though, Zuckerberg announced that the company's Meta Ray-Ban Display AR glasses would be available starting at $799 as soon as Sept.",
+              "While Meta's new AR glasses look a little chunkier on your face than standard sunglasses, the slim form factor is still in a completely different class from failed experiments like Google Glass or \"mixed reality\" (MR) headsets like the Quest 3 or Apple Vision Pro (which rely on pass-through video, rather than clear lenses, for a view of the real world)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How chatbots — and their makers — are enabling AI psychosis",
+            "link": "https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health",
+            "site_name": "The Verge",
+            "novelty_hash": "10358786f2596bd6762f63319e2cba19b33f9885"
+          },
+          "review": {
+            "headline_rewrite": "How chatbots — and their makers — are enabling AI psychosis",
+            "bullets": [
+              "The explosive growth of AI chatbots in the past three years, since ChatGPT launched in 2022, has started to have some really noticeable, profound, and honestly disturbing effects on some users.",
+              "How chatbots — and their makers — are enabling AI psychosis\nNew York Times reporter Kashmir Hill on AI psychosis, user delusions, and teen safety.",
+              "One of Kashmir’s recent stories was about a teenager, Adam Raine, who died by suicide in April.",
+              "And it’s not just ChatGPT: Several families have filed wrongful death suits against Character AI, alleging that a lack of safety protocols on the company’s chatbots contributed to their teenage kids’ deaths by suicide.",
+              "Then there are the AI-induced delusions.",
+              "You’ll hear us talk about this at length, but pretty much every tech and AI reporter — honestly, maybe every reporter, period — has seen an uptick in the past year of people writing in with some grand or disturbing discovery that they say ChatGPT sparked."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
