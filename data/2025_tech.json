@@ -50927,6 +50927,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:11": [
+        {
+          "item": {
+            "title": "Inside the world’s most powerful AI datacenter",
+            "link": "https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "f41cb6b42939ed3c4caebc57b6051ccc1944ceb5"
+          },
+          "review": {
+            "headline_rewrite": "Inside the world’s most powerful AI datacenter",
+            "bullets": [
+              "This week we have introduced a wave of purpose-built datacenters and infrastructure investments we are making around the world to support the global adoption of cutting-edge AI workloads and cloud services.",
+              "Today in Wisconsin we introduced Fairwater, our newest US AI datacenter, the largest and most sophisticated AI factory we’ve built yet.",
+              "In addition to our Fairwater datacenter in Wisconsin, we also have multiple identical Fairwater datacenters under construction in other locations across the US.",
+              "In Narvik, Norway, Microsoft announced plans with nScale and Aker JV to develop a new hyperscale AI datacenter.",
+              "These AI datacenters are significant capital projects, representing tens of billions of dollars of investments and hundreds of thousands of cutting-edge AI chips, and will seamlessly connect with our global Microsoft Cloud of over 400 datacenters in 70 regions around the world.",
+              "Through innovation that can enable us to link these AI datacenters in a distributed network, we multiply the efficiency and compute in an exponential way to further democratize access to AI services globally."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud",
+            "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-dying-light-the-beast/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "4b762b92896e82987f33465857b79779f84479ca"
+          },
+          "review": {
+            "headline_rewrite": "GeForce NOW Unleashes ‘Dying Light: The Beast’ in the Cloud",
+            "bullets": [
+              "Dying Light: The Beast, the latest adrenaline‑fueled chapter in Techland’s parkour‑meets‑survival‑horror saga, is clawing its way into the cloud — ready for members to stream instantly.",
+              "Also this week, Dying Light: The Beast joins the lineup of GeForce RTX 5080-ready titles, alongside Kingdom Come: Deliverance II and Monster Hunter Wilds, which are already available on the service.",
+              "Unleash the Beast\nDying Light: The Beast is clawing its way into the cloud — and it’s hungry.",
+              "With GeForce NOW, members can stream the chaos across their devices with GeForce RTX 5080-class performance, enabling cinematic visuals, fast load times and ultra‑responsive gameplay straight from the cloud.",
+              "Degrees of Delight\nFire them up on GeForce NOW to gain instant access to imaginative worlds, smooth animations and vibrant visuals on any screen, wherever members are.",
+              "19)\n- Call of Duty: Modern Warfare III (Steam, Battle.net, and Xbox, available on PC Game Pass)\n- Field of Glory II: Medieval (Steam)\n- Two Point Campus (Steam, Epic Games Store)\n- Two Point Museum (Steam, Epic Games Store)\nNew GeForce RTX 5080 Ready games, in addition to Dying Light: The Beast:\n- Kingdom Come: Deliverance II (Steam and Epic Games Store, GeForce RTX 5080-ready)\n- Monster Hunter Wilds (Steam, GeForce RTX 5080-ready)\nWhat are you planning to play this weekend?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia buys $5 billion stake in Intel, planning AI chip collaboration",
+            "link": "https://techcrunch.com/2025/09/18/nvidia-buys-5-billion-stake-in-intel-planning-ai-chip-collaboration/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "022546291f58a58e84249383e199991525250d34"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia buys $5 billion stake in Intel, planning AI chip collaboration",
+            "bullets": [
+              "Nvidia has agreed to buy a $5 billion stake in Intel as part of a broader deal to together develop “multiple generations” of data center and PC products.",
+              "The companies will integrate their two architectures using Nvidia’s NVLink interface, which enables data and control code transfers between CPUs and GPUs.",
+              "NVLink enables faster transfers between chips compared with other standards like PCI Express, which is crucial for AI applications, which require many GPUs to run together and process immense workloads.",
+              "For data centers, Intel will manufacture a new line of x86 CPUs specifically customized for Nvidia’s AI infrastructure platforms, to be offered to enterprise and hyperscale customers.",
+              "For the consumer PC segment, Intel will build x86 system-on-chips that will incorporate chiplets of Nvidia’s RTX GPUs, which will no doubt give Intel an edge over rival AMD’s CPUs.",
+              "The companies are calling these chips “x86 RTX SoCs,” at the moment, and claim these chips will power a “wide range of PCs.”\nThe deal comes after a rough few years for Intel, which has struggled to capitalize on the AI chip race unlike its new partner."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/18/building-the-future-of-open-ai-with-thomas-wolf-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "31d39f8a8004c5e95466ca3fe26d19897b8ef4b2"
+          },
+          "review": {
+            "headline_rewrite": "Building the future of Open AI with Thomas Wolf at TechCrunch Disrupt 2025",
+            "bullets": [
+              "AI is moving fast — but who decides how it’s built, shared, and scaled?",
+              "Catch him on the AI Stage, along with thousands of other like-minded tech leaders and innovators.",
+              "Why you can’t miss this session\nThe future of AI won’t just be defined by closed labs and big tech budgets — it will be written in open-source repos, global research collaborations, and moonshot experiments that anyone can build on.",
+              "Whether you’re a founder, developer, or investor, this session offers a clear view of where AI is headed — and how openness can drive the next wave of breakthroughs.",
+              "The architect behind today’s AI breakthroughs\nWolf has been at the center of some of the most important advances in AI.",
+              "At Hugging Face, he helped launch the Transformers and Datasets libraries, led the BigScience Workshop on large language models that produced BLOOM, and has championed open science across industry and academia."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How chatbots — and their makers — are enabling AI psychosis",
+            "link": "https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health",
+            "site_name": "The Verge",
+            "novelty_hash": "9e0e15b19ea7da123ddc7b5fe48cff4d1b71d2cc"
+          },
+          "review": {
+            "headline_rewrite": "How chatbots — and their makers — are enabling AI psychosis",
+            "bullets": [
+              "The explosive growth of AI chatbots in the past three years, since ChatGPT launched in 2022, has started to have some really noticeable, profound, and honestly disturbing effects on some users.",
+              "How chatbots — and their makers — are enabling AI psychosis\nNew York Times reporter Kashmir Hill on AI psychosis, user delusions, and teen safety.",
+              "One of Kashmir’s recent stories was about a teenager, Adam Raine, who died by suicide in April.",
+              "And it’s not just ChatGPT: Several families have filed wrongful death suits against Character AI, alleging that a lack of safety protocols on the company’s chatbots contributed to their teenage kids’ deaths by suicide.",
+              "Then there are the AI-induced delusions.",
+              "You’ll hear us talk about this at length, but pretty much every tech and AI reporter — honestly, maybe every reporter, period — has seen an uptick in the past year of people writing in with some grand or disturbing discovery that they say ChatGPT sparked."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google will use hashes to find and remove nonconsensual intimate imagery from Search",
+            "link": "https://www.theverge.com/news/780852/google-stopncii-nonconsensual-intimate-imagery-hashes",
+            "site_name": "The Verge",
+            "novelty_hash": "1db0eb6afc8b0602f62b01b9663b125e95329143"
+          },
+          "review": {
+            "headline_rewrite": "Google will use hashes to find and remove nonconsensual intimate imagery from Search",
+            "bullets": [
+              "While flagging and removing content, especially AI-generated content, without victims having to create and submit hashes from their own devices would be challenging, it’s a challenge some advocates would like to see Google tackle.",
+              "Most Popular\n- I regret to inform you Meta’s new smart glasses are the best I’ve ever tried\n- Here’s the Jimmy Kimmel clip that got him pulled off the air\n- Apple iPhone Air review: statement piece\n- Republicans are honoring Charlie Kirk’s memory by declaring war on the First Amendment\n- Meta Connect 2025: the 6 biggest announcements"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
