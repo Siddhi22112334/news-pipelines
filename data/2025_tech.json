@@ -55506,6 +55506,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:46": [
+        {
+          "item": {
+            "title": "AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses",
+            "link": "https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "bf9e0784b508442290a41252c5c6e59b8d992a4e"
+          },
+          "review": {
+            "headline_rewrite": "AI On: How Onboarding Teams of AI Agents Drives Productivity and Revenue for Businesses",
+            "bullets": [
+              "AI is no longer solely a back-office tool.",
+              "Whether users aim to reduce operational overhead or personalize customer experiences at scale, custom AI agents are key.",
+              "As AI agents are adopted across enterprises, managing their deployment will require a deliberate strategy.",
+              "The first steps are architecting the enterprise AI infrastructure to optimize for fast, cost-efficient inference and creating a data pipeline that keeps agents continuously fed with timely, contextual information.",
+              "Alongside human and hardware resourcing, onboarding AI agents will become a core strategic function for businesses as leaders orchestrate digital talent across the organization.",
+              "Here’s how to onboard teams of AI agents:\n1."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How the U.S. Patent and Trademark Office can help America maintain its AI leadership",
+            "link": "https://blog.google/outreach-initiatives/public-policy/uspto-ai-policy-recommendations/",
+            "site_name": "Google",
+            "novelty_hash": "897b66faaf7cfea9ecdef6cbdc13122d392a8e3f"
+          },
+          "review": {
+            "headline_rewrite": "How the U.S. Patent and Trademark Office can help America maintain its AI leadership",
+            "bullets": [
+              "Patent and Trademark Office can help America maintain its AI leadership\nGenerative AI is a powerful tool that’s already helping inventors create faster, smarter and more ambitiously than ever before.",
+              "At Google, 17% of our inventions were created with the help of AI in the past year and we are the leader in patented generative AI innovations — including some of the seminal inventions in the field.",
+              "to maintain its lead during this next wave of innovation, our patent system needs to evolve too.",
+              "Patent and Trademark Office (USPTO) plays a key role in AI’s development and U.S.",
+              "has an opportunity to promote American leadership in AI by prioritizing efforts to ensure valid patents are granted, and making sure invalid patents can be efficiently addressed.",
+              "Currently, it relies on patent application fees, which aren't fully paid until years after a patent is granted, if ever."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How developers are using Apple’s local AI models with iOS 26",
+            "link": "https://techcrunch.com/2025/09/19/how-developers-are-using-apples-local-ai-models-with-ios-26/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "578b274fd4151f409e50763456e6fb2bb14bfa11"
+          },
+          "review": {
+            "headline_rewrite": "How developers are using Apple’s local AI models with iOS 26",
+            "bullets": [
+              "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.",
+              "The company touted that with this framework, developers gain access to AI models without worrying about any inference cost.",
+              "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple’s local AI models.",
+              "Apple’s models are small compared with leading models from OpenAI, Anthropic, Google, or Meta.",
+              "Below are some of the first apps to tap into Apple’s AI framework.",
+              "Developer Arima Jain shipped an AI story creator with the iOS 26 update."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta&#8217;s quest to own your face",
+            "link": "https://www.theverge.com/podcast/781830/meta-smart-glasses-ray-ban-vergecast",
+            "site_name": "The Verge",
+            "novelty_hash": "dcc1841427851e094601a00f71a19e028ff0a874"
+          },
+          "review": {
+            "headline_rewrite": "Meta&#8217;s quest to own your face",
+            "bullets": [
+              "Then we talk about Meta’s differing approaches to each model, and whether any of them are likely to convince people who wear glasses — and, even tougher, people who don’t — to put on a new pair.",
+              "If you want to know more about everything we discuss in this episode, here are some links to get you started, first on Brendan Carr and the FCC:\n- Jimmy Kimmel Live pulled after FCC threat over Charlie Kirk joke\n- Here’s the Jimmy Kimmel clip that got him pulled off the air\n- Republicans are honoring Charlie Kirk’s memory by declaring war on the First Amendment\n- Charlie Kirk’s death got complicated by “extremely online” culture\n- The right wing is creating a society of snitches\nAnd in Meta Connect news:\n- Meta Ray-Ban Display hands-on: the best smart glasses I’ve ever tried\n- Oakley Meta Vanguard hands-on: what athletes actually want\n- Meta’s new Ray-Ban smart glasses have twice the battery life\n- I sat down with Mark Zuckerberg to try Meta’s impressive new Ray-Ban Display glasses\n- Meta is opening up its smart glasses to developers\nAnd in the lightning round:\n- The US and China might finally have a TikTok deal\n- Reddit wants a better AI deal with Google: users in exchange for content\n- Android’s next flagship processor is the ‘Snapdragon 8 Elite Gen 5’\n- Nothing wants you to talk to your earbuds’ charging case\n- Nvidia invests $5 billion into Intel to jointly develop PC and data center chips\n- YouTube is inching closer to becoming a shopping channel\n- Samsung brings ads to US refrigerators\nMost Popular\n- I regret to inform you Meta’s new smart glasses are the best I’ve ever tried\n- Yes, Jimmy Kimmel’s suspension was government censorship\n- Anker’s recent power bank recall involves over 481,000 units\n- Samsung brings ads to US fridges\n- Satya Nadella is haunted at the prospect of Microsoft not surviving the AI era"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI medical tools found to downplay symptoms of women, ethnic minorities",
+            "link": "https://www.ft.com/content/128ee880-acdb-42fb-8bc0-ea9b71ca11a8",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a9ae781f04457567a96739564924cc2f8e126ab5"
+          },
+          "review": {
+            "headline_rewrite": "AI medical tools found to downplay symptoms of women, ethnic minorities",
+            "bullets": [
+              "A series of recent studies have found that the uptake of AI models across the healthcare sector could lead to biased medical decisions, reinforcing patterns of under treatment that already exist across different groups in western societies.",
+              "The findings by researchers at leading US and UK universities suggest that medical AI tools powered by LLMs have a tendency to not reflect the severity of symptoms among female patients, while also displaying less “empathy” towards Black and Asian ones.",
+              "The warnings come as the world’s top AI groups such as Microsoft, Amazon, OpenAI and Google rush to develop products that aim to reduce physicians’ workloads and speed up treatment, all in an effort to help overstretched health systems around the world.",
+              "Many hospitals and doctors globally are using LLMs such as Gemini and ChatGPT as well as AI medical note-taking apps from start-ups including Nabla and Heidi to auto-generate transcripts of patient visits, highlight medically relevant details and create clinical summaries.",
+              "In June, Microsoft revealed it had built an AI-powered medical tool it claims is four times more successful than human doctors at diagnosing complex ailments.",
+              "But research by the MIT’s Jameel Clinic in June found that AI models, such as OpenAI’s GPT-4, Meta’s Llama 3 and Palmyra-Med—a healthcare focused LLM—recommended a much lower level of care for female patients, and suggested some patients self-treat at home instead of seeking help."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin",
+            "link": "https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin",
+            "site_name": "The Verge",
+            "novelty_hash": "2007f57c2365ae8362f083b61c8270bee1f6c04c"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin",
+            "bullets": [
+              "One of the mysterious AI devices that OpenAI is considering developing with Apple’s former chief design officer, Jony Ive, “resembles a smart speaker without a display,” The Information reports.",
+              "People “with direct knowledge of the matter” told the publication that OpenAI has already secured a contract with Luxshare, and has also approached Goertek — two of Apple’s product assemblers — to supply components like speaker modules for its future lineup of AI gadgets.",
+              "OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin\nAnd it’s reportedly poaching suppliers and employees from Apple to do so.",
+              "OpenAI has also considered building glasses, a digital voice recorder, and a wearable pin, according to sources speaking to The Information, with the first products being targeted for release in late 2026 or early 2027.",
+              "In May, OpenAI CEO Sam Altman said that he envisioned a “family of devices” being born from the partnership with Ive, the first of which was described as being pocket-size, contextually aware, and screen-free.",
+              "That tracks with these new rumors about OpenAI’s first device, but this is the first time that information has leaked about additional gadgets."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
