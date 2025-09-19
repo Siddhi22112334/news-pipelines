@@ -54919,6 +54919,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:03": [
+        {
+          "item": {
+            "title": "Meta&#8217;s failed smart glasses demos had nothing to do with the Wi-Fi",
+            "link": "https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures",
+            "site_name": "The Verge",
+            "novelty_hash": "9de48a1c96ff0efcfd3d75bffadf440484857242"
+          },
+          "review": {
+            "headline_rewrite": "Meta&#8217;s failed smart glasses demos had nothing to do with the Wi-Fi",
+            "bullets": [
+              "Andrew Bosworth, Meta’s chief technology officer, explained in an Instagram AMA why two notable demos — an influencer asking the AI assistant for cooking instructions, and Mark Zuckerberg attempting to pick up a WhatsApp call — failed.",
+              "Meta’s failed smart glasses demos had nothing to do with the Wi-Fi\n‘We DDoS’d ourselves, basically.‘\n“When the chef said ‘hey Meta, start Live AI,’ it started every single Meta Ray-Ban’s Live AI in the building,” said Bosworth.",
+              "“We had routed Live AI traffic to our dev server, in theory, to isolate it, but we had done it for everyone in that building on those access points.",
+              "We DDoS’d ourselves, basically.” So yeah, it wasn’t the Wi-Fi, as Zuck claimed on stage.",
+              "Even with the technical blunders, Meta providing an honest live product demonstration is a nice break from the usual fare of pre-recorded videos and generative AI errors that companies like Apple and Google showcase these days."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT tricked to swipe sensitive data from Gmail",
+            "link": "https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak",
+            "site_name": "The Verge",
+            "novelty_hash": "7c8c67e23ea56dcd40fc351abe9c7872a0252519"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT tricked to swipe sensitive data from Gmail",
+            "bullets": [
+              "Security researchers employed ChatGPT as a co-conspirator to plunder sensitive data from Gmail inboxes without alerting users.",
+              "The vulnerability exploited has been closed by OpenAI but it’s a good example of the new risks inherent to agentic AI.",
+              "ChatGPT tricked to swipe sensitive data from Gmail\nSecurity researchers say the vulnerability has been plugged but highlights the risks of outsourcing to AI agents.",
+              "The heist, called Shadow Leak and published by security firm Radware this week, relied on a quirk in how AI agents work.",
+              "AI Agents are assistants that can act on your behalf without constant oversight, meaning they can surf the web and click on links.",
+              "AI companies laud them as a massive timesaver after users authorize their access to personal emails, calendars, work documents, etc."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II",
+            "link": "https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "32a7c121d7fe57c99a50a5a2cf31872e04f54496"
+          },
+          "review": {
+            "headline_rewrite": "Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II",
+            "bullets": [
+              "As for Artemis II, it seems to be far enough along that a launch next February seems possible as long as any government closure does not drag on for weeks and weeks.",
+              "Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar.",
+              "The space company said Tuesday that it intends to raise up to $750 million by selling common shares, MSN reports.",
+              "The larger offering indicates that Rocket Lab is aiming to bolster its cash reserves to support ongoing development of its launch services, including the medium-lift Neutron rocket and spacecraft manufacturing operations.",
+              "Astra is targeting next summer for the first flight of its Rocket 4 vehicle as the company prepares to reenter the launch market, Space News reports.",
+              "At the World Space Business Week conference in Paris, Chris Kemp, chief executive of Astra, said the company was on track for a first launch of Rocket 4 in summer 2026 from Cape Canaveral, Florida."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Watch Series 11 review: A reliable wearable for when it matters most",
+            "link": "https://www.engadget.com/wearables/apple-watch-series-11-review-a-reliable-wearable-for-when-it-matters-most-120016945.html",
+            "site_name": "Engadget",
+            "novelty_hash": "8cc3939e60c73d413c6efe032f0442879adf9cfb"
+          },
+          "review": {
+            "headline_rewrite": "Apple Watch Series 11 review: A reliable wearable for when it matters most",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Editor's note (on September 19, 8:00AM ET): The Apple Watch Series 11 is now officially available in retail outlets, and those who have pre-ordered their devices will be receiving them starting today.",
+              "As you make your decisions on whether or which of these you should buy, make sure to check out our reviews of the iPhone Air, the iPhone 17, the iPhone 17 Pro and Pro Max, as well as the AirPods Pro 3.",
+              "The most noteworthy of these is Apple’s new hypertension alerts system, which only received FDA clearance last week soon after the “Awe dropping” launch event.",
+              "I’ll have to wait till I’m near one (at a pharmacy, doctor’s clinic or with my parents where they have their cuff) to do so.",
+              "The idea is that the routine helps your body maintain some consistency and better prepare for recovery."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "iPhone 17 Pro and Pro Max review: An impactful redesign",
+            "link": "https://www.engadget.com/mobile/smartphones/iphone-17-pro-and-pro-max-review-an-impactful-redesign-120002202.html",
+            "site_name": "Engadget",
+            "novelty_hash": "938049b647419d1c4d5cdd248b60d2c71fca66d6"
+          },
+          "review": {
+            "headline_rewrite": "iPhone 17 Pro and Pro Max review: An impactful redesign",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "That thermal management feature, together with the aluminum unibody redesign and three 48-megapixel rear cameras, is among the most compelling updates for this generation.",
+              "Throw in the powerful A19 Pro chip (now situated in the “plateau”), a novel Center Stage selfie camera, promises of longer battery life and an eye-catching new color, and frankly the latest Pro phones seem like a serious leap.",
+              "Editor's note (on September 19, 8:00AM ET): The iPhone 17 Pro and Pro Max are now officially available in retail outlets, and those who have pre-ordered their devices will be receiving them starting today.",
+              "As you make your decisions on whether or which of these you should buy, make sure to check out our reviews of the iPhone Air and the iPhone 17, as well as the AirPods Pro 3 and the Apple Watch Series 11.",
+              "- Innovative and useful Center Stage selfie camera\n- Versatile triple-sensor system for rear cameras\n- Aluminum unibody feels sturdy and scratch-resistant\n- Improved AI and thermal performance\n- Expensive\nAn aluminum unibody design that’s new and familiar all at once\nTwo weeks before the iPhone launch event, my iPhone 16 Pro slipped out of my hand and crashed to the floor of a grimy public bathroom."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "11 Best Hoodies for Style, Comfort, and Warmth (2025)",
+            "link": "https://www.wired.com/gallery/best-hoodies/",
+            "site_name": "WIRED",
+            "novelty_hash": "2501816c8aedfc258e26fc9c0cfd7955b3e7dd02"
+          },
+          "review": {
+            "headline_rewrite": "11 Best Hoodies for Style, Comfort, and Warmth (2025)",
+            "bullets": [
+              "I also added product specifications, our testing methodology, and what we're currently testing.",
+              "There are all manner of stains on it from daily abuse and countless fishing trips, but the fabric remains in great condition, the shape is true, and there’s virtually no fraying.",
+              "And the hand warmers pair well with mittens on cold days.",
+              "—Scott Gilbertson\nPopflex Cloud Hoodie for $70: I got this on a recommendation from a fellow WIRED staffer who said this was the perfect hoodie (for women), and I’m here to tell you that they were absolutely right.",
+              "The Popflex Cloud Hoodie has a nice midweight to it, a soft (though not overly plush) interior lining, and a baggy design that doesn’t make me look like a marshmallow looking for a campfire.",
+              "The waist of the hoodie gathered nicely at my natural waist, and the drop shoulders and massive hood draped over my upper body while still retaining its form and structure."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
