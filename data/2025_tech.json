@@ -57246,6 +57246,121 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:07": [
+        {
+          "item": {
+            "title": "Why California’s SB 53 might provide a meaningful check on big AI companies",
+            "link": "https://techcrunch.com/2025/09/19/why-californias-sb-53-might-provide-a-meaningful-check-on-big-ai-companies/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "37b3079168b686e5ea7ed005904556ea01265004"
+          },
+          "review": {
+            "headline_rewrite": "Why California’s SB 53 might provide a meaningful check on big AI companies",
+            "bullets": [
+              "California’s state senate recently gave final approval to a new AI safety bill, SB 53, sending it to Governor Gavin Newsom to either sign or veto.",
+              "If this all sounds familiar, that’s because Newsom vetoed another AI safety bill, also written by state senator Scott Wiener, last year.",
+              "But SB 53 is narrower than Wiener’s previous SB 1047, with a focus on big AI companies making more than $500 million in annual revenue.",
+              "Max believes that Wiener’s new bill has a better shot of becoming law, partly because of that big company focus, and because it’s been endorsed by AI company Anthropic.",
+              "Read a preview of our conversation about AI safety and state-level legislation below.",
+              "(I’ve edited the transcript for length and clarity, and to make us sound slightly smarter.)\nMax: Why should you care about AI safety legislation that’s passing a chamber in California?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia eyes $500M investment into self-driving tech startup Wayve",
+            "link": "https://techcrunch.com/2025/09/19/nvidia-eyes-500m-investment-into-self-driving-tech-startup-wayve/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a29017078000f405e2761b25f191c0a190a4a5df"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia eyes $500M investment into self-driving tech startup Wayve",
+            "bullets": [
+              "Nvidia CEO Jensen Huang descended on the United Kingdom this week, armed with a pledge to invest £2 billion ($2.6 billion) to supercharge the country’s AI startup ecosystem.",
+              "Wayve, the U.K.-based self-driving tech startup, could be one of those to receive funds from Nvidia’s AI investment commitment, the company told TechCrunch.",
+              "Wayve said it has signed a letter of intent with Nvidia to evaluate a $500 million strategic investment in the U.K.",
+              "startup’s next funding round.",
+              "A Wayve spokesperson confirmed that the $500 million tentative commitment is part of Nvidia’s AI startup investment pledge.",
+              "Nvidia said during an event Thursday the £2 billion commitment would include funds from venture-capital investors Accel, Air Street Capital, Balderton, Hoxton Ventures, and Phoenix Court."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Windows 11 is adding another Copilot button nobody asked for",
+            "link": "https://www.theverge.com/news/782194/windows-11-share-with-copilot-button",
+            "site_name": "The Verge",
+            "novelty_hash": "ba5ee7519ffae3768e6a7e8b58cc451e9253c10c"
+          },
+          "review": {
+            "headline_rewrite": "Windows 11 is adding another Copilot button nobody asked for",
+            "bullets": [
+              "Copilot Vision scans what’s on your screen, analyzes it, and lets you discuss the contents of the window with Microsoft’s AI chatbot to get more context, including offering tutorials.",
+              "There’s already buttons popping up in Microsoft Paint, Notepad, in the taskbar, on your keyboard, and right on the front of some PCs."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "iOS 26 is ready to download: Everything to know about the free iPhone software update",
+            "link": "https://www.engadget.com/mobile/ios-26-is-ready-to-download-everything-to-know-about-the-free-iphone-software-update-135749287.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1e9d834ad6666df8248657492a9d6e3233427435"
+          },
+          "review": {
+            "headline_rewrite": "iOS 26 is ready to download: Everything to know about the free iPhone software update",
+            "bullets": [
+              "(You can't turn it off, but you can reduce the transparency to make it less clear.) The overhaul is one of several big changes that come with iOS, macOS, iPadOS, watchOS and the rest of Apple's software suite — the new operating system updates for those gadgets are also available to download now.",
+              "For instance, the ability to weed out spam texts or unknown senders and an option to hold your spot on a phone call when you've been waiting for a representative to pick up.",
+              "Other new improvements coming include a confirmed AirPods live translation feature, and a new bouncy animation on the passcode screen and in the Control Center.",
+              "If you're planning to upgrade your phone this year, take a look at all the new models Apple unveiled during its iPhone 17 event, from the iPhone 17 lineup (check out our review of the iPhone 17) to the all-new ultra-thin iPhone Air (take a look at our hands-on review).",
+              "If you missed the keynote, you can catch up on everything Apple announced here or rewatch the full iPhone 17 launch.",
+              "The company rounded out its announcements with three new Apple Watch models, as well as the brand-new AirPods Pro 3."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "After a very slow start, Europe’s reusable rocket program shows signs of life",
+            "link": "https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5c8797025060436a797f5455e8101f48f167e43d"
+          },
+          "review": {
+            "headline_rewrite": "After a very slow start, Europe’s reusable rocket program shows signs of life",
+            "bullets": [
+              "This week, the France-based ArianeGroup aerospace company announced that it had completed the integration of the Themis vehicle, a prototype rocket that will test various landing technologies, on a launch pad in Sweden.",
+              "Low-altitude hop tests, a precursor for developing a rocket's first stage that can vertically land after an orbital launch, could start late this year or early next.",
+              "\"This milestone marks the beginning of the 'combined tests,' during which the interface between Themis and the launch pad's mechanical, electrical, and fluid systems will be thoroughly trialed, with the aim of completing a test under cryogenic conditions,\" the company said.",
+              "Most of its funding focused on developing the Ariane 6.",
+              "However, by the middle of 2017, the space agency began to initiate programs that would eventually lead to a reusable launch vehicle."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”",
+            "link": "https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation",
+            "site_name": "The Verge",
+            "novelty_hash": "936306737b7ccb71b4150e0cba348b0f5e7526cb"
+          },
+          "review": {
+            "headline_rewrite": "Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”",
+            "bullets": [
+              "Michael Eisner, Disney’s former CEO who ran the company for 21 years and oversaw its acquisition of ABC in 1995, does not think his successor, Bob Iger, made the right decision in moving to put Jimmy Kimmel Live!",
+              "On indefinite pause following threats from Trump-appointed FCC chairman Brendan Carr.",
+              "Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”\nThe Former Disney head said “corporate chief executives” are not standing up to the Trump Administration’s bullying.",
+              "In a post to X about the Kimmel situation, Eisner — who once opted to suppress the theatrical release of Martin Scorsese’s Kundun in response to pressure from the Chinese government — questioned “where has all the leadership gone?”\nEisner did not call Iger or Disney’s TV head Dana Walden out by name, but he described the FCC’s threats against Disney “hollow” and “another example of out-of-control intimidation.”"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
