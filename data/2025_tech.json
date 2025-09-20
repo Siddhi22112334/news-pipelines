@@ -59384,6 +59384,122 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "18:31": [
+        {
+          "item": {
+            "title": "Microsoft’s Entra ID vulnerabilities could have been catastrophic",
+            "link": "https://www.wired.com/story/microsoft-entra-id-vulnerability-digital-catastrophe/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2d0406566f153ba58295877073e5da5b00f3ecfb"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s Entra ID vulnerabilities could have been catastrophic",
+            "bullets": [
+              "As businesses around the world have shifted their digital infrastructure over the last decade from self-hosted servers to the cloud, they’ve benefitted from the standardized, built-in security features of major cloud providers like Microsoft.",
+              "Case in point: Security researcher Dirk-jan Mollema recently stumbled upon a pair of vulnerabilities in Microsoft Azure’s identity and access management platform that could have been exploited for a potentially cataclysmic takeover of all Azure customer accounts.",
+              "Known as Entra ID, the system stores each Azure cloud customer’s user identities, sign-in access controls, applications, and subscription management tools.",
+              "Mollema has studied Entra ID security in depth and published multiple studies about weaknesses in the system, which was formerly known as Azure Active Directory.",
+              "But while preparing to present at the Black Hat security conference in Las Vegas in July, Mollema discovered two vulnerabilities that he realized could be used to gain global administrator privileges—essentially god mode—and compromise every Entra ID directory, or what is known as a “tenant.” Mollema says that this would have exposed nearly every Entra ID tenant in the world other than, perhaps, government cloud infrastructure.",
+              "I was like, ‘No, this shouldn’t really happen,’” says Mollema, who runs the Dutch cybersecurity company Outsider Security and specializes in cloud security."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "An ICE raid at an EV factory raises fears about US instability",
+            "link": "https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling",
+            "site_name": "The Verge",
+            "novelty_hash": "9db4e26b49db400c46d606a692421b1fcb32e527"
+          },
+          "review": {
+            "headline_rewrite": "An ICE raid at an EV factory raises fears about US instability",
+            "bullets": [
+              "An ICE raid at an EV factory raises fears about US instability\nInternational automotive companies like Hyundai spend billions of dollars building plants and training workers in the US, and the ICE raid is likely to have a long-term cooling effect on those investments.",
+              "So it didn’t raise any eyebrows when two South Korean companies, Hyundai and LG Energy Solutions, sent hundreds of their workers to Ellabell, Georgia, to oversee the construction of a $7.6 billion EV battery factory.",
+              "On September 4th, ICE officers raided the plant, detaining 475 people, mostly South Koreans.",
+              "The workers, many of whom were here legally, were handcuffed and chained together, spurring calls from South Korea about possible human rights violations.",
+              "When a company like Hyundai starts a plant in the US, it sends its best and brightest employees to get it up and running.",
+              "To have those employees cuffed, chained, and detained, Wheaton says, “has a cooling effect on something that has been very normal and typical, particularly in the automotive sector for decades.”\nA delayed plant opening\nOn the raid’s heels, Hyundai announced that the battery plant’s opening would be delayed by as much as three months."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Henry Halfhead is full of heart",
+            "link": "https://www.theverge.com/games-review/776873/henry-halfhead-review-pc-ps5-switch",
+            "site_name": "The Verge",
+            "novelty_hash": "71825a9dc12ffdd0a4e80986f9591c9d20371a4b"
+          },
+          "review": {
+            "headline_rewrite": "Henry Halfhead is full of heart",
+            "bullets": [
+              "It’s a strange concept, but the developers at Lululu Entertainment use the goofy ideas to tell a poignant story and have a lot of fun along the way.",
+              "Without getting into the details, a good chunk of the game takes place during Henry’s soul-crushing adult job, and the final chapter of the game stars an elderly Henry.",
+              "Henry Halfhead is available now on PC, PS5, and Nintendo Switch."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Set Up Your New iPhone (2025)",
+            "link": "https://www.wired.com/story/how-to-set-up-a-new-iphone/",
+            "site_name": "WIRED",
+            "novelty_hash": "717483539a03d9cc9def4f321fd45fe839f59a44"
+          },
+          "review": {
+            "headline_rewrite": "How to Set Up Your New iPhone (2025)",
+            "bullets": [
+              "- Your old phone (not essential, but it's smart to have it handy)\n- Your SIM card (not required for eSIM activation)\n- Your Wi-Fi details\n- Your Apple account details (you must have an Apple account to use an iPhone)\nAfter you set up your device, check out our guides on cases—the Best iPhone 16 Cases, Best iPhone 15 Cases, Best iPhone 14 Cases, and Best iPhone 13 Cases—to protect your handset, and see our Best MagSafe Accessories guide to kit it out.",
+              "The simplest method is to back up to iCloud by going to Settings, scrolling down to iCloud, iCloud Backup, and then tapping Back Up Now.",
+              "You can find alternative methods and more details in our guide on how to back up your iPhone.",
+              "Wait until you see Set Up New iPhone on your old iPhone.",
+              "Alternatively, you can simply select Set Up Without Another Device, From iCloud Backup, or From Mac or PC.",
+              "You can’t transfer everything, but you can bring over your contacts, messages, photos and videos, calendars, and email accounts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "17 Best iPhone 17 Cases and Accessories (2025)",
+            "link": "https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/",
+            "site_name": "WIRED",
+            "novelty_hash": "df8dbdf8f5e2822e98524bf1d0377e7c46801e2b"
+          },
+          "review": {
+            "headline_rewrite": "17 Best iPhone 17 Cases and Accessories (2025)",
+            "bullets": [
+              "So why do I already see a few micro scratches on my iPhone Air and iPhone 17?",
+              "Whether you have an iPhone 17 Pro Max or iPhone Air, we've got something for you.",
+              "They're fairly new additions to the iPhone.",
+              "It sits below the power button and lets you press it once to open the camera, and press it again to take a picture.",
+              "- The iPhone 17 has a 6.3-inch screen\n- The iPhone Air has a 6.5-inch screen\n- The iPhone 17 Pro has a 6.3-inch screen\n- The iPhone 17 Pro Max has a 6.9-inch screen\nJust because the iPhone 17 and iPhone 17 Pro share the same screen size, doesn't mean you can mix cases between them.",
+              "However, I install every case that comes my way onto the latest iPhones, inspect the cutouts for the speakers and microphones, make sure the buttons are responsive, and analyze the edges around the screen and cameras to see how raised they are."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New subscribers to Apple Music can get three free months of the Family Plan",
+            "link": "https://www.engadget.com/deals/new-subscribers-to-apple-music-can-get-three-free-months-of-the-family-plan-151240893.html",
+            "site_name": "Engadget",
+            "novelty_hash": "08a406d4036cd370651e3ba0b58533ca97edf40c"
+          },
+          "review": {
+            "headline_rewrite": "New subscribers to Apple Music can get three free months of the Family Plan",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "All music is available in CD quality or higher and there are plenty of personalized playlists and the like.",
+              "The service is available for Android devices, but it really shines on Apple products."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
