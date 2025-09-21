@@ -65466,6 +65466,62 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:44": [
+        {
+          "item": {
+            "title": "VCs are still hiring MBAs, but firms are starting to need other experience more",
+            "link": "https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d6c20c40665501298783bbedfb6331edacafe39a"
+          },
+          "review": {
+            "headline_rewrite": "VCs are still hiring MBAs, but firms are starting to need other experience more",
+            "bullets": [
+              "The MBA-to-VC pipeline remains a very real thing.",
+              "The MBA’s grip on venture capital is loosening, however, according to Stanford professor Ilya Strebulaev, who found that 44% of mid-career venture professionals held MBAs in the early 2000s, compared to 32% today.",
+              "VC has evolved beyond traditional sectors into AI and hardware, where technical experience beats business school credentials, so firms are increasingly scanning talent from companies like OpenAI and SpaceX rather than elite MBA programs."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/nano-banana-ai-how-to-detect-ai-generated-images-understand-privacy-risks-and-keep-your-data-safe/articleshow/123976855.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7addbb2c61f942f4dd105fe82e14f67cb9aacbb9"
+          },
+          "review": {
+            "headline_rewrite": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "bullets": [
+              "India has rapidly become the leading market for Googleâs latest AI innovation, Nano Banana, powered by the Gemini engine and cutting-edge machine learning algorithms.",
+              "However, its rise also raises important discussions about AI-generated content, including issues of authenticity, privacy, ethical use, and image detection.",
+              "As AI visuals grow increasingly sophisticated, learning to identify AI-generated images has become essential for social media users, digital creators, and enthusiasts seeking to navigate this evolving technological landscape responsibly.",
+              "Nano Banana leads Indiaâs surge in AI-powered creativity\nIndia is leading the global surge in AI-powered creativity, thanks to Google's Gemini 2.5 Flash Image model, popularly known as Nano Banana.",
+              "Since its launch in late August 2025, Nano Banana has transformed the way users engage with AI, enabling them to create hyper-realistic 3D figurines, retro-style portraits, and imaginative visual effects from simple photos and text prompts.",
+              "This surge in AI-driven creativity reflects a broader cultural shift, where technology and tradition intersect, allowing individuals to explore new forms of self-expression and artistic innovation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "17df54ef7d4b5891a98bee94bedbe63973587fb5"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Zoom unveils AI Companion 3.0 at annual conference: Availability, key features and more\nZoom Communications unveiled AI Companion 3.0 at Zoomtopia 2025, offering advanced AI tools for meeting management, task automation, and customer interaction enhancement.",
+              "Available in November 2025, it analyzes data to provide insights, summaries, and real-time voice translation.",
+              "Zoom also introduced updates to its Customer Experience suite and Zoom Revenue Accelerator, aiming to boost workplace collaboration and customer management efficiency."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
