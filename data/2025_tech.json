@@ -69004,5 +69004,131 @@
         }
       ]
     }
+  },
+  "2025-09-23": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’",
+            "link": "https://blogs.nvidia.com/blog/openai-nvidia/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "15ce7ae23b0b277d992e7c3629f8181f5138e548"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’",
+            "bullets": [
+              "OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute with multi-gigawatt data centers powered by millions of NVIDIA GPUs.",
+              "To discuss what this means for the next generation of AI development and deployment, the two companies’ CEOs, and the president of OpenAI, spoke this morning with CNBC’s Jon Fortt.",
+              "“This is the biggest AI infrastructure project in history,” said NVIDIA founder and CEO Jensen Huang in the interview.",
+              "“This partnership is about building an AI infrastructure that enables AI to go from the labs into the world.”\nThrough the partnership, OpenAI will deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure, including the NVIDIA Vera Rubin platform.",
+              "NVIDIA also intends to invest up to $100 billion in OpenAI progressively as each gigawatt is deployed.",
+              "“There’s no partner but NVIDIA that can do this at this kind of scale, at this kind of speed,” said Sam Altman, CEO of OpenAI."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The billion-dollar infrastructure deals powering the AI boom",
+            "link": "https://techcrunch.com/2025/09/22/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f12ea48d549d55859e6e6fbbb18b5040c4670871"
+          },
+          "review": {
+            "headline_rewrite": "The billion-dollar infrastructure deals powering the AI boom",
+            "bullets": [
+              "It takes a lot of computing power to run an AI product – and as the tech industry races to tap the power of AI models, there’s a parallel race underway to build the infrastructure that will power them.",
+              "On a recent earnings call, Nvidia CEO Jensen Huang estimated that between $3 and $4 trillion will be spent on AI infrastructure by the end of the decade – with much of that money coming from AI companies themselves.",
+              "Along the way, they’re placing immense strain on power grids, and pushing the industry’s building capacity to its limit.",
+              "Below, we’ve laid out everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+              "Microsoft’s $1 billion investment in OpenAI\nThis is arguably the deal that kicked off the whole contemporary AI boom: in 2019, Microsoft made a $1 billion investment in a buzzy non-profit called OpenAI, known mostly for its association with Elon Musk.",
+              "Crucially, the deal made Microsoft the exclusive cloud provider for OpenAI – and as the demands of model-training became more intense, more of Microsoft’s investment started to come in the form of Azure cloud credit rather than cash."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia plans to invest up to $100B in OpenAI",
+            "link": "https://techcrunch.com/2025/09/22/nvidia-plans-to-invest-up-to-100b-in-openai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9f24c36ce2d0a3df2aaf4515eef23b5bb9238f2c"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia plans to invest up to $100B in OpenAI",
+            "bullets": [
+              "Nvidia announced Monday it plans to invest up to $100 billion in OpenAI as part of a deal to build out massive data centers for training and running AI models.",
+              "The companies say they signed a letter of intent to deploy 10 gigawatts — enough to power millions of homes — worth of Nvidia systems to power OpenAI’s next generation of AI infrastructure.",
+              "The deal may help OpenAI as it reduces its reliance on Microsoft, its largest investor and supplier of cloud computing resources.",
+              "In January, Microsoft announced changes to its partnership with OpenAI, allowing the ChatGPT-maker to build additional AI infrastructure with other partners.",
+              "Since then, OpenAI has teamed up with various partners on AI data center projects, such as Stargate.",
+              "Nvidia says the deal will complement existing partnerships OpenAI has, including agreements with Microsoft, Oracle, and SoftBank."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations",
+            "site_name": "The Verge",
+            "novelty_hash": "ef5eb5e2d2d7ca9c934a8db5ffd4a5a67b1ef8ec"
+          },
+          "review": {
+            "headline_rewrite": "A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy",
+            "bullets": [
+              "On Monday, more than 200 former heads of state, diplomats, Nobel laureates, AI leaders, scientists, and others all agreed on one thing: There should be an international agreement on “red lines” that AI should never cross — for instance, not allowing AI to impersonate a human being or self-replicate.",
+              "A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy\nSignatories included an OpenAI co-founder, Anthropic’s CISO, and Nobel laureate Geoffrey Hinton.",
+              "They, along with more than 70 organizations that address AI, have all signed the Global Call for AI Red Lines initiative, a call for governments to reach an “international political agreement on ‘red lines’ for AI by the end of 2026.” Signatories include British Canadian computer scientist Geoffrey Hinton, OpenAI cofounder Wojciech Zaremba, Anthropic CISO Jason Clinton, Google DeepMind research scientist Ian Goodfellow, and others.",
+              "“The goal is not to react after a major incident occurs… but to prevent large-scale, potentially irreversible risks before they happen,” Charbel-Raphaël Segerie, executive director of the French Center for AI Safety (CeSIA), said during a Monday briefing with reporters.",
+              "He added, “If nations cannot yet agree on what they want to do with AI, they must at least agree on what AI must never do.”\nThe announcement comes ahead of the 80th United Nations General Assembly high-level week in New York, and the initiative was led by CeSIA, the Future Society, and UC Berkeley’s Center for Human-Compatible Artificial Intelligence.",
+              "Nobel Peace Prize laureate Maria Ressa mentioned the initiative during her opening remarks at the assembly when calling for efforts to “end Big Tech impunity through global accountability.”\nSome regional AI red lines do exist."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to sign up for Amazon Prime",
+            "link": "https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free",
+            "site_name": "The Verge",
+            "novelty_hash": "3c7f5fa019ae5af7e613b109f947483ba1168407"
+          },
+          "review": {
+            "headline_rewrite": "How to sign up for Amazon Prime",
+            "bullets": [
+              "If you’re attracted by the goodies being offered but haven’t signed up for Prime, Amazon makes it very easy\nBesides giving access to Prime Day bargains, Amazon includes a bunch of features to entice people to sign up for its Prime service.",
+              "- If you’re on any of a variety of government assistance programs, like SNAP and Medicaid, you can also join for less with Prime Access: $6.99 a month with a free 30-day trial.",
+              "Click on Start your free 30-day trial and then Create your Amazon account to set one up with your name, email, and password.",
+              "- On the next page, Amazon will verify your account by sending what it calls an OTP (one-time password) to your email.",
+              "Go to your email, copy the OTP, paste it into the Amazon page, and click Verify.",
+              "Most Popular\n- Why your outdoorsy friend suddenly has a gummy bear power bank\n- Why PlayStation and Xbox are no longer about the station or the box\n- Amazon, Google, and Microsoft warn employees to rush back to the US\n- Anker’s latest sleep buds can silence snoring\n- The foldable iPhone might look like two iPhone Airs stuck together"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "WIRED Roundup: The Right Embraces Cancel Culture",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/",
+            "site_name": "WIRED",
+            "novelty_hash": "dd721a57365d71daaac645550073de2c0c31ba2b"
+          },
+          "review": {
+            "headline_rewrite": "WIRED Roundup: The Right Embraces Cancel Culture",
+            "bullets": [
+              "In today’s episode, our host Zöe Schiffer is joined by WIRED’s senior culture editor Manisha Krishnan to run through five of the best stories we published this week—from OpenAI implementing teen safety features to how human design is the new astrology.",
+              "Mentioned in this episode:\nCancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death by Manisha Krishnan\nOpenAI's Teen Safety Features Will Walk a Thin Line by Kylie Robison\nUS Tech Giants Race to Spend Billions in UK AI Push by Natasha Bernal\nHow China’s Propaganda and Surveillance Systems Really Operate by Zeyi Yang and Louise Matsakis\nHuman Design Is Blowing Up.",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Zoë Schiffer: So Manisha, our first story this week is about OpenAI making this announcement about new teen safety features for ChatGPT.",
+              "This comes at a moment when we've seen tons and tons of headlines about people dying by suicide or committing acts of violence after engaging in pretty lengthy conversations with AI chatbots.",
+              "And while I think there obviously is a lot to be concerned about with young people having unfettered access to ChatGPT, I think these efforts always raise a lot of questions like how is age going to be verified?"
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }

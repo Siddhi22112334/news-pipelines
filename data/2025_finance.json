@@ -29993,5 +29993,45 @@
         }
       ]
     }
+  },
+  "2025-09-23": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "Wall St lifted by tech stocks; Fed officials cast doubts on further rate cuts",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-st-lifted-by-tech-stocks-fed-officials-cast-doubts-on-further-rate-cuts-11758560153133.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall St lifted by tech stocks; Fed officials cast doubts on further rate cuts",
+            "bullets": [
+              "Investors parsed through comments from Fed policymakers, who cast doubt on the need for further rate cuts when inflation was above the central bank's",
+              "Numerous datasets are scheduled for release this week, including that for personal consumption expenditure - the Fed's preferred gauge of inflation - and gross",
+              "Metsera soared 62% as Pfizer said it would acquire weight-loss drug developer in a deal valued up to $7.3 billion."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "What is Putin proposing to Trump on nuclear arms?",
+            "link": "https://www.thehindubusinessline.com/news/world/what-is-putin-proposing-to-trump-on-nuclear-arms/article70081993.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "What is Putin proposing to Trump on nuclear arms?",
+            "bullets": [
+              "Here is a look at what's at stake and what presidents Vladimir Putin and Donald Trump have said so far on the issue.",
+              "In 2023, Putin suspended Russia's participation, but Moscow said it would continue to observe the warhead limits.",
+              "After an August summit in Alaska that failed to yield any tangible results, Putin and Trump could also present it as a concrete step"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
