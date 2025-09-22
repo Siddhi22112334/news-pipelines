@@ -69248,6 +69248,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’",
+            "link": "https://blogs.nvidia.com/blog/openai-nvidia/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "15ce7ae23b0b277d992e7c3629f8181f5138e548"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’",
+            "bullets": [
+              "OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute with multi-gigawatt data centers powered by millions of NVIDIA GPUs.",
+              "To discuss what this means for the next generation of AI development and deployment, the two companies’ CEOs, and the president of OpenAI, spoke this morning with CNBC’s Jon Fortt.",
+              "“This is the biggest AI infrastructure project in history,” said NVIDIA founder and CEO Jensen Huang in the interview.",
+              "“This partnership is about building an AI infrastructure that enables AI to go from the labs into the world.”\nThrough the partnership, OpenAI will deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure, including the NVIDIA Vera Rubin platform.",
+              "NVIDIA also intends to invest up to $100 billion in OpenAI progressively as each gigawatt is deployed.",
+              "“There’s no partner but NVIDIA that can do this at this kind of scale, at this kind of speed,” said Sam Altman, CEO of OpenAI."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors",
+            "link": "https://arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-power-equal-to-10-nuclear-reactors/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e0403e9420fb8f4ae8d2dbb3a30706d86ac4233a"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors",
+            "bullets": [
+              "On Monday, OpenAI and Nvidia jointly announced a letter of intent for a strategic partnership to deploy at least 10 gigawatts of Nvidia systems for OpenAI's AI infrastructure, with Nvidia planning to invest up to $100 billion as the systems roll out.",
+              "The companies said the first gigawatt of Nvidia systems will come online in the second half of 2026 using Nvidia's Vera Rubin platform.",
+              "\"Everything starts with compute,\" said Sam Altman, CEO of OpenAI, in the announcement.",
+              "\"Compute infrastructure will be the basis for the economy of the future, and we will utilize what we're building with NVIDIA to both create new AI breakthroughs and empower people and businesses with them at scale.\"\nThe 10-gigawatt project represents an astoundingly ambitious and as-yet-unproven scale for AI infrastructure.",
+              "Nvidia CEO Jensen Huang told CNBC that the planned 10 gigawatts equals the power consumption of between 4 million and 5 million graphics processing units, which matches the company's total GPU shipments for this year and doubles last year's volume.",
+              "\"This is a giant project,\" Huang said in an interview alongside Altman and OpenAI President Greg Brockman."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f2f72863019ef1178665de753484756af107ade6"
+          },
+          "review": {
+            "headline_rewrite": "What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025",
+            "bullets": [
+              "This honest and tactical conversation will cover what really matters when raising your first institutional check — from telling a compelling story to building trust without traction.",
+              "Charles Hudson and Wesley Chan will share the traits they consistently look for in zero-to-one founders, the red flags that raise eyebrows, and the most common mistakes first-time entrepreneurs make when fundraising.",
+              "Betting on people before the product\nPre-seed and seed fundraising often happens before there’s a product, user base, or traction.",
+              "A Google veteran, he helped create Google Analytics and Google Voice before moving into venture, where he’s backed unicorns like Canva, Robinhood, and Plaid.",
+              "Actionable insights on raising your first round\nWhether you’re currently raising or planning for the future, this session will equip you with real, actionable advice on navigating early venture with clarity and conviction."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8bf53186c74b71921fbdd46f2f6fc8e189937e63"
+          },
+          "review": {
+            "headline_rewrite": "Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Before most of the world had even asked ChatGPT its first question, Elad Gil was writing early checks into companies like Perplexity, Character.AI, and Harvey.",
+              "His track record spans seed and Series A investments in over 30 unicorns and involvement with some of the most iconic names in tech, including Stripe, Airbnb, Coinbase, Instacart, Notion, Figma, Flexport, GitLab, and many more.",
+              "He’ll cover his approach to spotting breakout potential early, decoding emerging markets, and what’s next across AI, crypto, health tech, and enterprise SaaS."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "DeepMind AI safety report explores the perils of “misaligned” AI",
+            "link": "https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d197d3661da3350f507301f1e8f66a4fdc4dc0cf"
+          },
+          "review": {
+            "headline_rewrite": "DeepMind AI safety report explores the perils of “misaligned” AI",
+            "bullets": [
+              "Generative AI models are far from perfect, but that hasn't stopped businesses and even governments from giving these robots important tasks.",
+              "But what happens when AI goes bad?",
+              "Researchers at Google DeepMind spend a lot of time thinking about how generative AI systems can become threats, detailing it all in the company's Frontier Safety Framework.",
+              "DeepMind recently released version 3.0 of the framework to explore more ways AI could go off the rails, including the possibility that models could ignore user attempts to shut them down.",
+              "These are essentially risk assessment rubrics that aim to measure an AI model's capabilities and define the point at which its behavior becomes dangerous in areas like cybersecurity or biosciences.",
+              "The document also details the ways developers can address the CCLs DeepMind identifies in their own models."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook Dating tries using AI to end ‘swipe fatigue’",
+            "link": "https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue",
+            "site_name": "The Verge",
+            "novelty_hash": "de340e1257f45272f86a298b745bb7d80e8b9bb8"
+          },
+          "review": {
+            "headline_rewrite": "Facebook Dating tries using AI to end ‘swipe fatigue’",
+            "bullets": [
+              "Facebook Dating is getting new AI features to help users avoid “swipe fatigue,” Meta announced today.",
+              "The new features include a new “dating assistant” AI chatbot that helps you find potential matches as well as a new “Meet Cute” feature that automatically matches you with someone using a “personalized” algorithm.",
+              "With the dating assistant, you can type out specific prompts to try and match up with certain types of people; Meta gives the example of “find me a Brooklyn girl in tech.” The assistant can also help “level up your profile” or offer dating ideas.",
+              "The chatbot will be available in the Matches tab and is “gradually” rolling out in the US and Canada, Meta says.",
+              "The Meet Cute feature will pair you with someone every week and is “ideal for anyone who’s tired of swiping and is looking for a fresh, easy way to expand their typical pool of dating candidates,” Meta says."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
