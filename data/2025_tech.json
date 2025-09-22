@@ -67925,6 +67925,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "19:48": [
+        {
+          "item": {
+            "title": "US v. Google redux: all the news from the ad tech trial",
+            "link": "https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search",
+            "site_name": "The Verge",
+            "novelty_hash": "ff9ccd1202214c01e8541c920e37c016de6eeca9"
+          },
+          "review": {
+            "headline_rewrite": "US v. Google redux: all the news from the ad tech trial",
+            "bullets": [
+              "On April 17th, 2025, Judge Brinkema ruled that Google did act illegally to acquire and maintain monopoly power in online advertising.",
+              "In the initial trial, the DOJ argued that Google unfairly locked up the market for ad tech tools that publishers and advertisers rely on to monetize their websites and market their goods.",
+              "Google responded that it created efficient products that work well for customers and said it faced plenty of competition.",
+              "- DOJ antitrust chief praises Google ad tech court’s efficiency.",
+              "In a statement outside the courthouse, Antitrust Division chief Gail Slater notes how the court known as the “rocket docket” has a statute of the tortoise and the hare outside.",
+              "Speed is important in tech antitrust cases because of how quickly the markets change."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Record labels claim AI generator Suno illegally ripped their songs from YouTube",
+            "link": "https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube",
+            "site_name": "The Verge",
+            "novelty_hash": "5357055a1e7b5f048051c68ed6abd4076295f294"
+          },
+          "review": {
+            "headline_rewrite": "Record labels claim AI generator Suno illegally ripped their songs from YouTube",
+            "bullets": [
+              "Major record labels have escalated their lawsuit against Suno, alleging that the AI startup knowingly pirated songs from YouTube to train its generative AI music models.",
+              "In the amended complaint filed on September 19th, the Recording Industry Association of America (RIAA) accuses Suno of unlawfully “stream ripping” tracks on YouTube — a practice that involves turning content captured from streaming platforms into downloadable files — and circumventing measures designed to prevent unauthorized copying.",
+              "Record labels claim AI generator Suno illegally ripped their songs from YouTube\nThe updated complaint alleges that Suno knowingly circumvented YouTube’s protections against unauthorized copying.",
+              "This circumvention of YouTube’s technological measures “has facilitated Suno’s ongoing and mass-scale infringement,” according to the complaint, and violates the anti-circumvention provisions of the Digital Millennium Copyright Act (DMCA).",
+              "Section 1201 of the DMCA states that “no person shall circumvent a technological measure that effectively controls access to a work protected under this title.” Its uses have become extraordinarily broad in recent years, creating roadblocks for everything from unlocking phones to repairing ice cream machines.",
+              "Section 1201 has a process for getting exceptions that allow circumvention under certain circumstances, but so far, no specific exception exists for training AI tools."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Unit 221B raises $5 million to help track and disrupt today’s top hacking groups",
+            "link": "https://techcrunch.com/2025/09/22/unit-221b-raises-5-million-to-help-track-and-disrupt-todays-top-hacking-groups/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d641d5bd2bee73a2cdfeec560471a5d30154f3a0"
+          },
+          "review": {
+            "headline_rewrite": "Unit 221B raises $5 million to help track and disrupt today’s top hacking groups",
+            "bullets": [
+              "For years, some of the most dangerous hacking threats have come from adversarial nation-state hackers conducting espionage, Russian ransomware gangs targeting critical infrastructure, and governments targeting journalists with spyware that can punch through the security of almost any phone.",
+              "One of the few companies with eyes on this subculture is Unit 221B, a New Jersey-based security company that has made a name for itself by tracking these hackers and disrupting their operations where others have struggled or outright failed.",
+              "Investors have taken notice of the security company.",
+              "Unit 221B said it raised the $5 million seed round from J2 Ventures, whose general partner Christine Keung said in prepared remarks that the company is “the missing puzzle piece in threat disruption and attribution.”\nLaw enforcement has been slow to combat the threat from these sometimes-called “advanced persistent teenagers,” who paved the way for some of the world’s biggest hacks to date, including dozens of corporate giants whose Snowflake cloud accounts were hacked, and the ransomware attack on the MGM Resorts.",
+              "The $5 million in seed funding will be used to expand and improve its eWitness threat intelligence platform, with the aim of helping law enforcement and government investigators track and arrest malicious hackers faster.",
+              "“We’re hyper focused on that current problem,” said Chen-Contino."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "EU cyber agency confirms ransomware attack causing airport disruptions",
+            "link": "https://techcrunch.com/2025/09/22/eu-cyber-agency-confirms-ransomware-attack-causing-airport-disruptions/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dec0b90ed3af87b05065e2dfd6d3e3a27dfa7908"
+          },
+          "review": {
+            "headline_rewrite": "EU cyber agency confirms ransomware attack causing airport disruptions",
+            "bullets": [
+              "The airport disruptions across Europe that began over the weekend were caused by a ransomware attack, according to the European Union’s cybersecurity agency ENISA on Monday.",
+              "“ENISA is aware of the ongoing disruption of airports’ operations, which were caused by third-party ransomware incident.",
+              "At this moment, ENISA cannot share further information regarding the cyberattack,” the agency said in an emailed statement to TechCrunch.",
+              "The ransomware attack targeted Collins Aerospace, a company that provides among other things check-in systems to several airports, including Berlin, Brussels, and London’s Heathrow.",
+              "The company said it was working with affected airports to restore services, according to Reuters, which first reported ENISA’s statement.",
+              "On Saturday, The Guardian reported that Collins Aerospace said that the software targeted was the company’s passenger processing system called MUSE, which “allows multiple airlines to share check-in desks and boarding gate positions at an airport rather than having their own dedicated infrastructure,” according to Collins Aerospace’s official website."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A history of the Internet, part 3: The rise of the user",
+            "link": "https://arstechnica.com/gadgets/2025/09/a-history-of-the-internet-part-3-the-rise-of-the-user/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "60db33944410cb5c905bb94a7771ed277f836b50"
+          },
+          "review": {
+            "headline_rewrite": "A history of the Internet, part 3: The rise of the user",
+            "bullets": [
+              "As a refresher, here’s the story so far:\nThe ARPANET was a project started by the Defense Department’s Advanced Research Project Agency in 1969 to network different mainframe computers together across the country.",
+              "But when Berners-Lee published the web’s protocols and made them available for free, people built web browsers for many different operating systems.",
+              "The most popular of these was Mosaic, written by Marc Andreessen, who formed a company to create its successor, Netscape.",
+              "Because the web was growing so rapidly, they decided to start a project to improve the way people found information on the Internet.",
+              "The pair filled their dorm rooms with any computers they could find, paid for by a $10,000 grant from the Stanford Digital Libraries Project.",
+              "Their web scraping project was so bandwidth-intensive that it briefly disrupted the university’s internal network."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What climate targets? Top fossil fuel producing nations keep boosting output",
+            "link": "https://insideclimatenews.org/news/22092025/top-fossil-fuel-nations-will-blow-past-climate-targets/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e5e9a8c7739ff38d7b822a6238ae951e6150029f"
+          },
+          "review": {
+            "headline_rewrite": "What climate targets? Top fossil fuel producing nations keep boosting output",
+            "bullets": [
+              "That level is slightly higher than what it was in 2023, the last time the biennial Production Gap report was published.",
+              "The increase is driven by a slower projected phaseout of coal and higher outlook for gas production by some of the top producers, including China and the United States.",
+              "“The Production Gap Report has long served as a mirror held up to the world, revealing the stark gap between fossil fuel production plans and international climate goals,” said Christiana Figueres, former executive secretary of the United Nations Framework Convention on Climate Change, in a foreword to the report.",
+              "Despite record climate impacts, a winning economic case for renewables, and strong societal appetite for action, governments continue to expand fossil fuel production beyond what the climate can withstand.”\nThe peer-reviewed report, written by researchers at the Stockholm Environment Institute, Climate Analytics and the International Institute for Sustainable Development, aims to focus attention on the supply side of the climate equation and the government policies that encourage or steer fossil fuel production.",
+              "“Governments have such a significant role in setting up the rules of the game,” said Neil Grant, a senior expert at Climate Analytics and one of the authors, in a briefing for reporters."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
