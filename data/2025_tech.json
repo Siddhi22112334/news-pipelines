@@ -69365,6 +69365,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:48": [
+        {
+          "item": {
+            "title": "NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’",
+            "link": "https://blogs.nvidia.com/blog/openai-nvidia/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "15ce7ae23b0b277d992e7c3629f8181f5138e548"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA, OpenAI Announce ‘the Biggest AI Infrastructure Deployment in History’",
+            "bullets": [
+              "OpenAI and NVIDIA just announced a landmark AI infrastructure partnership — an initiative that will scale OpenAI’s compute with multi-gigawatt data centers powered by millions of NVIDIA GPUs.",
+              "To discuss what this means for the next generation of AI development and deployment, the two companies’ CEOs, and the president of OpenAI, spoke this morning with CNBC’s Jon Fortt.",
+              "“This is the biggest AI infrastructure project in history,” said NVIDIA founder and CEO Jensen Huang in the interview.",
+              "“This partnership is about building an AI infrastructure that enables AI to go from the labs into the world.”\nThrough the partnership, OpenAI will deploy at least 10 gigawatts of NVIDIA systems for OpenAI’s next-generation AI infrastructure, including the NVIDIA Vera Rubin platform.",
+              "NVIDIA also intends to invest up to $100 billion in OpenAI progressively as each gigawatt is deployed.",
+              "“There’s no partner but NVIDIA that can do this at this kind of scale, at this kind of speed,” said Sam Altman, CEO of OpenAI."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best deals on MacBooks right now",
+            "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+            "site_name": "The Verge",
+            "novelty_hash": "8aba2067827468ff92c501180d9dfdb0f2945b1c"
+          },
+          "review": {
+            "headline_rewrite": "The best deals on MacBooks right now",
+            "bullets": [
+              "Apple currently sells MacBooks equipped with its own M-series chips in a wide range of sizes and price points, all of which run the company’s new operating system, macOS 26.",
+              "It discontinued the M1 MacBook Air to make room for newer models, but Walmart is still selling the 2020 laptop starting at $599 — $50 off its previous low and a far cry from the $2,499 starting price of the latest 16-inch MacBook Pro with M4 Pro.",
+              "The best deals on MacBooks right now\nApple’s latest MacBook Air and Pro laptops are on sale, as is the newest Mac Mini.",
+              "For example, the latest MacBook Air 13 with Apple’s M4 chip, 16GB of RAM, and a 256GB SSD is down to $799 ($200 off) at Best Buy.",
+              "Alternatively, purchasing refurbished options directly from Apple is another way to save money without waiting for the changing deal winds to blow your way.",
+              "It’s also the only option to find certain configurations of older models as Apple continues to move forward on newer releases."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook Dating tries using AI to end ‘swipe fatigue’",
+            "link": "https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue",
+            "site_name": "The Verge",
+            "novelty_hash": "96e4fc636a3b98df7ac2487c4fe73850995e7758"
+          },
+          "review": {
+            "headline_rewrite": "Facebook Dating tries using AI to end ‘swipe fatigue’",
+            "bullets": [
+              "Facebook Dating is getting new AI features to help users avoid “swipe fatigue,” Meta announced today.",
+              "The new features include a new “dating assistant” AI chatbot that helps you find potential matches as well as a new “Meet Cute” feature that automatically matches you with someone using a “personalized” algorithm.",
+              "With the dating assistant, you can type out specific prompts to try and match up with certain types of people; Meta gives the example of “find me a Brooklyn girl in tech.” The assistant can also help “level up your profile” or offer dating ideas.",
+              "The chatbot will be available in the Matches tab and is “gradually” rolling out in the US and Canada, Meta says.",
+              "The Meet Cute feature will pair you with someone every week and is “ideal for anyone who’s tired of swiping and is looking for a fresh, easy way to expand their typical pool of dating candidates,” Meta says.",
+              "Most Popular\n- Why your outdoorsy friend suddenly has a gummy bear power bank\n- Apple’s iPhone 17 Pro can be easily scratched\n- Why PlayStation and Xbox are no longer about the station or the box\n- Amazon, Google, and Microsoft warn employees to rush back to the US\n- The foldable iPhone might look like two iPhone Airs stuck together"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors",
+            "link": "https://arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-power-equal-to-10-nuclear-reactors/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e0403e9420fb8f4ae8d2dbb3a30706d86ac4233a"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI and Nvidia’s $100B AI plan will require power equal to 10 nuclear reactors",
+            "bullets": [
+              "On Monday, OpenAI and Nvidia jointly announced a letter of intent for a strategic partnership to deploy at least 10 gigawatts of Nvidia systems for OpenAI's AI infrastructure, with Nvidia planning to invest up to $100 billion as the systems roll out.",
+              "The companies said the first gigawatt of Nvidia systems will come online in the second half of 2026 using Nvidia's Vera Rubin platform.",
+              "\"Everything starts with compute,\" said Sam Altman, CEO of OpenAI, in the announcement.",
+              "\"Compute infrastructure will be the basis for the economy of the future, and we will utilize what we're building with NVIDIA to both create new AI breakthroughs and empower people and businesses with them at scale.\"\nThe 10-gigawatt project represents an astoundingly ambitious and as-yet-unproven scale for AI infrastructure.",
+              "Nvidia CEO Jensen Huang told CNBC that the planned 10 gigawatts equals the power consumption of between 4 million and 5 million graphics processing units, which matches the company's total GPU shipments for this year and doubles last year's volume.",
+              "\"This is a giant project,\" Huang said in an interview alongside Altman and OpenAI President Greg Brockman."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Oakland Ballers let an AI manage the team. What could go wrong?",
+            "link": "https://techcrunch.com/2025/09/22/the-oakland-ballers-let-an-ai-manage-the-team-what-could-go-wrong/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dd337421183125915a81dae26d0c8ecd1c4d81a7"
+          },
+          "review": {
+            "headline_rewrite": "The Oakland Ballers let an AI manage the team. What could go wrong?",
+            "bullets": [
+              "“It’s what smart managers do to win ballgames.”\nThe Oakland Ballers, an independent Pioneer League baseball team, took that concept of “playing the percentages” to the next level: they let an AI manage the team for a game.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "This time around, once the team clinched their postseason berth, the Ballers partnered with the AI company Distillery to commission AI software that could manage a baseball game in real time.",
+              "“You have the pace to be able to do something literally after every pitch.”\nDistillery trained OpenAI’s ChatGPT on over a century’s worth of baseball data and analytics, including Ballers games, to approximate what decisions Ballers manager Aaron Miles would make.",
+              "“What the AI did was figure out what our human coach would have done – the ingenuity on strategy and the concepts came from [Miles], and the ability to use the data and recognize patterns… is what the AI did throughout the course of the game,” Freedman said.",
+              "“So I think the role of human ingenuity is safe for now, and AI is a tool to be deployed to optimize decisions, but not to make them.”\nThe AI-controlled game went smoothly – in fact, the AI made all of the same choices regarding pitching changes, lineup construction, and pinch hitters that Miles would have made."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f2f72863019ef1178665de753484756af107ade6"
+          },
+          "review": {
+            "headline_rewrite": "What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025",
+            "bullets": [
+              "This honest and tactical conversation will cover what really matters when raising your first institutional check — from telling a compelling story to building trust without traction.",
+              "Charles Hudson and Wesley Chan will share the traits they consistently look for in zero-to-one founders, the red flags that raise eyebrows, and the most common mistakes first-time entrepreneurs make when fundraising.",
+              "Betting on people before the product\nPre-seed and seed fundraising often happens before there’s a product, user base, or traction.",
+              "A Google veteran, he helped create Google Analytics and Google Voice before moving into venture, where he’s backed unicorns like Canva, Robinhood, and Plaid.",
+              "Actionable insights on raising your first round\nWhether you’re currently raising or planning for the future, this session will equip you with real, actionable advice on navigating early venture with clarity and conviction."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
