@@ -68636,6 +68636,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:44": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon Q Developer, AWS Step Functions, AWS Cloud Club Captain deadline, and more (September 22, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-step-functions-aws-cloud-club-captain-deadline-and-more-september-22-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "df777ae828d6db4ccb9e42541d76dc5f8017bdbb"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon Q Developer, AWS Step Functions, AWS Cloud Club Captain deadline, and more (September 22, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Q Developer, AWS Step Functions, AWS Cloud Club Captain deadline, and more (September 22, 2025)\nThree weeks ago, I published a post about the new AWS Region in New Zealand (ap-southeast-6).",
+              "This led to an incredible opportunity to visit New Zealand, where I met passionate builders and presented at several events including Serverless and Platform Engineering meetup, AWS Tools and Programming meetup, AWS Cloud Clubs in Auckland, and AWS Community Day New Zealand.",
+              "This feature has transformed how I stay focused by creating conversation checkpoints that let you explore side topics without losing your main thread.",
+              "Last week’s launches\nHere are some launches that got my attention:\n- New Foundation Models in Amazon Bedrock — Amazon Bedrock expands its model selection with Qwen model family, DeepSeek-V3.1, and Stability AI image services now generally available, giving developers access to powerful multilingual models and advanced image generation capabilities for text generation, code generation, image creation, and complex problem-solving tasks.",
+              "- Amazon VPC Reachability Analyzer Expands to Seven New Regions — Network Access Analyzer capabilities are now available in additional regions, helping customers analyze and troubleshoot network connectivity issues across their VPC infrastructure with improved global coverage.",
+              "- Amazon Q Developer Supports Remote MCP Servers — Amazon Q Developer now integrates with remote Model Context Protocol (MCP) servers, enabling developers to extend their AI assistant capabilities with custom tools and data sources for enhanced development workflows."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini comes to Google TV",
+            "link": "https://blog.google/products/google-tv/gemini-google-tv/",
+            "site_name": "Google",
+            "novelty_hash": "11fcc266d02f59204e8bc31ebc86d163085457a9"
+          },
+          "review": {
+            "headline_rewrite": "Gemini comes to Google TV",
+            "bullets": [
+              "For years, Google TV has made it easy to find great entertainment, and Google Assistant has helped TVs do more just by voice, from getting recommendations to dimming the lights.",
+              "Get help finding the perfect show for whatever mood you’re in, brainstorm a family trip or answer complex homework questions.",
+              "Effortless entertainment\nA quick conversation with Gemini makes finding your next watch easy.",
+              "I like dramas, but she likes lighthearted comedies.\"\n- For the catch-up: When a new season of your favorite show launches, get up to speed in an instant.",
+              "Ask Gemini: \"Explain why volcanoes erupt to my third grader.\" Then follow up with, \"How do I make a model volcano?\"\n- For new skills: Ready to learn a new skill?",
+              "Gemini is available on the TCL QM9K series starting today."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Oracle promotes two presidents to co-CEO role",
+            "link": "https://techcrunch.com/2025/09/22/oracle-promotes-two-presidents-to-co-ceo-role/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "939ee09b4e4dde76c9fa1a50a3d9d74284bc303e"
+          },
+          "review": {
+            "headline_rewrite": "Oracle promotes two presidents to co-CEO role",
+            "bullets": [
+              "Oracle is shaking up its executive suite as it sets its sights set on AI infrastructure dominance.",
+              "He was a founding member of Oracle’s cloud engineering team and has served as the president of Oracle’s cloud infrastructure business unit for more than a decade.",
+              "He held several different roles at the company since he joined through Oracle’s acquisition of project portfolio management company Primavera Systems in 2008.",
+              "Safra Catz, who has been Oracle’s CEO since 2014, is moving into a new role as the executive vice chair of Oracle’s board of directors.",
+              "“Today, Oracle is recognized as the cloud of choice for both AI training and inferencing.",
+              "I’m very proud of that,” Catz said in a statement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia is partnering up with OpenAI to offer compute and cash",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/782624/nvidia-is-partnering-up-with-openai-to-offer-compute-and-cash",
+            "site_name": "The Verge",
+            "novelty_hash": "c61f4ffe645123d661a29d0fcc12f1c27ddb3ba8"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia is partnering up with OpenAI to offer compute and cash",
+            "bullets": [
+              "OpenAI is teaming up with Nvidia via a “strategic partnership” that will get the ChatGPT-maker more compute and more cash to develop new models on the road to superintelligence.",
+              "Nvidia is partnering up with OpenAI to offer compute and cash\nNvidia will invest up to $100 billion in OpenAI “as each gigawatt is deployed.”\nThe partnership, announced Monday, will allow OpenAI to “build and deploy at least 10 gigawatts of AI datacenters with NVIDIA systems,” which translates to millions of GPUs that can help power OpenAI’s new models.",
+              "One of the most important points here, besides more data centers and compute — which are always in high demand for companies like OpenAI — is that as part of the deal, NVIDIA “intends to invest up to $100 billion in OpenAI progressively as each gigawatt is deployed,” per the release.",
+              "The details will be finalized in the next few weeks, according to the companies.",
+              "Nvidia will now be a “preferred strategic compute and networking partner for [OpenAI’s] AI factory growth plans,” OpenAI said.",
+              "“Everything starts with compute,” OpenAI CEO Sam Altman said in a statement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini AI is coming to your TV",
+            "link": "https://techcrunch.com/2025/09/22/googles-gemini-ai-is-coming-to-your-tv/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6f8d1d8810d9c9b6388244461a9c1c44be9ce5c9"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini AI is coming to your TV",
+            "bullets": [
+              "Google’s AI assistant, Gemini, is coming to your TV.",
+              "On Monday, the company announced it’s introducing Gemini for Google TV, allowing TV owners to engage in free-flowing, natural language conversations with the AI.",
+              "When fully rolled out, this expansion of Gemini to a new platform will bring Google’s AI to over 300 million active Google TV and other Android TV OS-powered devices.",
+              "In terms of TV-related questions, Google suggests its Gemini AI could be used to help people with different interests settle on something to watch that they would both like, or to catch you up on what you missed in a past season of a favorite show.",
+              "However, because it’s Gemini, you can ask any other type of question, too, just as you could with the AI chatbot on your smartphone.",
+              "For instance, kids and parents could use the AI to get homework help or brainstorm school project ideas, families could use Gemini to plan their next vacation, or individual users could leverage the AI to teach themselves a new skill, among other things."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TCL’s Google TVs with an mmWave presence sensor are out now",
+            "link": "https://www.theverge.com/news/782625/tcl-google-tv-qm9k-mmwave-presence-sensor-gemini",
+            "site_name": "The Verge",
+            "novelty_hash": "8d99ee24b5e942bba668424663e3f31f25cf210e"
+          },
+          "review": {
+            "headline_rewrite": "TCL’s Google TVs with an mmWave presence sensor are out now",
+            "bullets": [
+              "You can now buy TCL’s new QM9K series QD-Mini LED TVs, and they run Google TV, are the first to come with Gemini AI, and have a built-in mmWave presence sensor, as reported by 9to5Google.",
+              "TCL’s Google TVs with an mmWave presence sensor are out now\nThe TVs, which are the first with Gemini AI support, start at $2,999.",
+              "Using the mmWave presence sensor, the TVs can automatically turn on or off when you get close to it, and they can show a screensaver or a widget “based on your proximity,” according to the description on the Best Buy product listing.",
+              "Samsung’s The Frame TVs (and some of its appliances) can also detect and respond to motion in a room, though the company hasn’t said what technology powers its motion detectors.",
+              "These new TCL TVs are the first to come with Gemini, but the AI assistant will be coming to other 2025 TCL TVs as well as some Hisense TVs, the Google TV Streamer, and the Walmart Onn 4K Pro.",
+              "Most Popular\n- Why your outdoorsy friend suddenly has a gummy bear power bank\n- Why PlayStation and Xbox are no longer about the station or the box\n- Anker’s latest sleep buds can silence snoring\n- Amazon, Google, and Microsoft warn employees to rush back to the US\n- The foldable iPhone might look like two iPhone Airs stuck together"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
