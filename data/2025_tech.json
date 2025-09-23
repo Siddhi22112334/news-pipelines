@@ -74558,6 +74558,122 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:08": [
+        {
+          "item": {
+            "title": "Google’s AI Mode arrives in Spanish globally",
+            "link": "https://techcrunch.com/2025/09/23/googles-ai-mode-arrives-in-spanish-globally/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5dc74ff0dcfe9d0ae165fa1a55d6ca1c2112d214"
+          },
+          "review": {
+            "headline_rewrite": "Google’s AI Mode arrives in Spanish globally",
+            "bullets": [
+              "Google Search is bringing its AI Mode feature — its AI-powered search experience — to Spanish-speaking users, the company announced on Tuesday.",
+              "The Spanish-language rollout comes on the heels of Google’s major AI Mode expansion in August, when the company released the feature to 180 more countries worldwide.",
+              "Previously, it had only been available in the U.S., U.K., and India.",
+              "During that August rollout, Google also introduced advanced AI capabilities to its Google AI Ultra subscribers, allowing them to request restaurant reservations in AI Mode.",
+              "Google has been rapidly rolling out AI across its products and services, often with multiple product announcements occurring simultaneously.",
+              "It also announced the same day that its more affordable Google AI Plus subscription plan, first introduced in Indonesia, is now arriving in 40 more countries."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI is building five new Stargate data centers with Oracle and SoftBank",
+            "link": "https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "34b07c2eefe0da53e48bfea3867b8b0a926a981e"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is building five new Stargate data centers with Oracle and SoftBank",
+            "bullets": [
+              "OpenAI announced on Tuesday that it plans to build five new AI data centers across the United States with partners Oracle and SoftBank through its Stargate project.",
+              "The new Stargate AI data centers are part of OpenAI’s massive infrastructure buildout, as the company works to train and serve more powerful AI models.",
+              "On Monday, OpenAI said it would receive a $100 billion investment from Nvidia to buy the chipmaker’s AI processors and build out even more AI data centers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette",
+            "link": "https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3e4cf16d6ef572e57999469b4ba1da8c000a25c2"
+          },
+          "review": {
+            "headline_rewrite": "When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette",
+            "bullets": [
+              "This dance of refusal and counter-refusal, called taarof, governs countless daily interactions in Persian culture.",
+              "And AI models are terrible at it.",
+              "New research released earlier this month titled \"We Politely Insist: Your LLM Must Learn the Persian Art of Taarof\" shows that mainstream AI language models from OpenAI, Anthropic, and Meta fail to absorb these Persian social rituals, correctly navigating taarof situations only 34 to 42 percent of the time.",
+              "This performance gap persists across large language models such as GPT-4o, Claude 3.5 Haiku, Llama 3, DeepSeek V3, and Dorna, a Persian-tuned variant of Llama 3.",
+              "A study led by Nikta Gohari Sadr of Brock University, along with researchers from Emory University and other institutions, introduces \"TAAROFBENCH,\" the first benchmark for measuring how well AI systems reproduce this intricate cultural practice.",
+              "The researchers' findings show how recent AI models default to Western-style directness, completely missing the cultural cues that govern everyday interactions for millions of Persian speakers worldwide."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "No, Apple isn’t trying to buy up all the 13 Pro Maxes",
+            "link": "https://www.theverge.com/news/783963/apple-iphone-13-pro-max-trade-in-offer",
+            "site_name": "The Verge",
+            "novelty_hash": "d5d9cb10414830fcf691008109b613f5710eb82e"
+          },
+          "review": {
+            "headline_rewrite": "No, Apple isn’t trying to buy up all the 13 Pro Maxes",
+            "bullets": [
+              "The inciting event seems to have come from the iPhone 17 launch as Apple marketing chief Greg “Joz” Joswiak lists pricing for the new models.",
+              "The thing is, Joz said almost the exact same thing last year of the iPhone 12 Pro.",
+              "More likely it’s the product of a weird equation that determines how much value the carriers can extract from the old phone."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers",
+            "link": "https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/",
+            "site_name": "WIRED",
+            "novelty_hash": "2eda7ce3bd010449b4b23c5d0f2854c8a9cb1a59"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers",
+            "bullets": [
+              "OpenAI is planning to build five new data centers in the United States as part of the Stargate initiative, the company announced on Tuesday.",
+              "“AI is different from the internet in a lot of ways, but one of them is just how much infrastructure it takes,” OpenAI CEO Sam Altman said during a press briefing in Abilene, Texas, on Tuesday.",
+              "The move follows an agreement Oracle and OpenAI announced in July to develop up to 4.5 gigawatts of US data center capacity on top of what the two companies are already building at the first Stargate facility in Abilene.",
+              "OpenAI claims the new data centers, along with a planned 600 megawatt expansion of the Abilene site, will create more than 25,000 onsite jobs, though the number of workers required to build data centers typically dwarfs the amount needed to maintain them afterwards.",
+              "The two remaining sites are being helmed by OpenAI and SB Energy, a SoftBank subsidiary that develops solar and battery projects.",
+              "OpenAI said in January that the $500 billion, 10 gigawatt commitment between the ChatGPT maker, SoftBank, Oracle, and MGX would “secure American leadership in AI” and “create hundreds of thousands of American jobs.”\nTrump touted the mammoth initiative just two days after he returned to the White House, promising that it would accelerate American progress in artificial intelligence and help the US compete against China and other nations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple TV Plus has quietly pulled its new show about domestic extremism",
+            "link": "https://www.theverge.com/entertainment/784185/apple-tv-plus-the-savant-domestic-terrorism",
+            "site_name": "The Verge",
+            "novelty_hash": "96e1f28ea14dbfb5837be431c4f5c4c797481d81"
+          },
+          "review": {
+            "headline_rewrite": "Apple TV Plus has quietly pulled its new show about domestic extremism",
+            "bullets": [
+              "Based on Andrea Stanley’s 2019 Cosmopolitan article “Is It Possible to Stop a Mass Shooting Before It Happens?”, The Savant follows as investigator Jodi Goodwin (Jessica Chastain) infiltrates an online group of US extremists who are planning a deadly terror attack.",
+              "In a trailer for the series released last month, Chastain’s character specializes in hunting down snipers, would-be bombers, and people who intend to commit acts of “serious violence.” She does not know what kind of plan her latest target is working on, but she’s certain that he is “out to make a statement.”\nIt is not entirely clear what prompted Apple’s decision to suddenly pull The Savant from its previously announced premiere date.",
+              "But in a statement to Deadline, the streamer said that it does still plan to release the show at an unspecified time in the future.",
+              "“After careful consideration, we have made the decision to postpone The Savant,” Apple said.",
+              "off the air after its host made a joke about President Donald Trump’s response to the deadly event.",
+              "Given how swiftly the Trump appointed FCC chairman Brendan Carr began threatening Disney-owned ABC and its affiliate TV stations for commenting on the Kirk shooting, Apple might have pulled The Savant to preemptively avoid ruffling any feathers."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
