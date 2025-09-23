@@ -73154,6 +73154,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "21:50": [
+        {
+          "item": {
+            "title": "Accelerate AI agent development with the Nova Act IDE extension",
+            "link": "https://aws.amazon.com/blogs/aws/accelerate-ai-agent-development-with-the-nova-act-ide-extension/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "556b23ede6d7ab7290bf299496257166e0721cf6"
+          },
+          "review": {
+            "headline_rewrite": "Accelerate AI agent development with the Nova Act IDE extension",
+            "bullets": [
+              "Accelerate AI agent development with the Nova Act IDE extension\nHere’s a quick look at the Nova Act extension in Visual Studio Code:\nThe Nova Act extension is built on top of the Amazon Nova Act SDK (preview), our browser automation agents SDK (Software Development Kit).",
+              "You can now build, customize, and test production-grade agent scripts—all within your IDE—using features like natural language based generation, atomic cell-style editing, and integrated browser testing.",
+              "Customize it using the notebook-style builder mode to integrate APIs, data sources, and authentication, then validate it with local testing tools that simulate real-world conditions, including live step-by-step debugging of lengthy multi-step workflows.",
+              "To get started, I need to obtain an API key.",
+              "To do this, I navigate to the Nova Act page and follow the instructions to get the API key.",
+              "I select Set API Key by opening the Command Palette with Cmd+Shift+P / Ctrl+Shift+P\n."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Join the 5-day AI Agents Intensive course with Google and Kaggle.",
+            "link": "https://blog.google/technology/developers/ai-agents-intensive/",
+            "site_name": "Google",
+            "novelty_hash": "30c1aa568f14c28044e55a06aaf79a715b46637e"
+          },
+          "review": {
+            "headline_rewrite": "Join the 5-day AI Agents Intensive course with Google and Kaggle.",
+            "bullets": [
+              "Earlier this year, we launched the second iteration of our GenAI Intensive course, which attracted over 280,000 learners.",
+              "Now, we're taking things to the next level with the 5-Day AI Agents Intensive, designed to help you master AI agents: the next frontier of artificial intelligence.",
+              "Crafted by Google’s own AI researchers and engineers, you’ll learn to build everything from simple AI agents to sophisticated multi-agent systems.",
+              "The curriculum covers agent architectures, tools, memory and evaluation, moving from prototype to production."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta launches super PAC to fight AI regulation as state policies mount",
+            "link": "https://techcrunch.com/2025/09/23/meta-launches-super-pac-to-fight-ai-regulation-as-state-policies-mount/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5d30af176b0c3ef7e37ee7f9b2be30cd2b83e259"
+          },
+          "review": {
+            "headline_rewrite": "Meta launches super PAC to fight AI regulation as state policies mount",
+            "bullets": [
+              "Meta has raised the stakes in Big Tech’s fight against AI regulation.",
+              "The Facebook-maker is investing “tens of millions” of dollars into a new super PAC to fight state-level tech policy proposals that could stifle AI advancement, reports Axios.",
+              "Meta’s pro-AI PAC, called the American Technology Excellence Project, is the company’s latest effort to combat policies it sees as harmful to the development of AI.",
+              "Last month, Meta launched a California-focused PAC to back tech-friendly candidates in state races.",
+              "tech companies and leadership, advocating for AI progress, and putting parents in charge of how their children experience online apps and AI technologies.",
+              "The focus on parental control comes amid comes growing child safety concerns surrounding AI tools."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b855f130dd1486c55db24a74bd449b1b7482b40b"
+          },
+          "review": {
+            "headline_rewrite": "Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025",
+            "bullets": [
+              "On the AI Stage at TechCrunch Disrupt 2025, Mercor co-founder and CEO Brendan Foody will break down how artificial intelligence is transforming not just how we work, but also who gets to work in the first place.",
+              "From talent access to hiring pipelines to the rise of AI-augmented teams, it’s a conversation that could reshape the way you think about your next hire.",
+              "At the 20th anniversary of TechCrunchDon’t, miss this session on how AI is redefining hiring practices.",
+              "Redefining the global workforce\nBacked by names like Peter Thiel and Jack Dorsey, Mercor has gone from $1 to $500 million in revenue run rate in just 17 months — a staggering pace that reflects how quickly AI is changing the labor landscape.",
+              "Foody will share how his team is using AI to match companies with elite technical talent, what it takes to build a truly distributed hiring model, and why upskilling is becoming mission-critical in today’s global economy.",
+              "In his session, Foody will also explore how startups and enterprise leaders alike can harness AI to unlock new talent pools, eliminate bias in hiring, and build workforces equipped for what’s next — not just what’s now."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Former Spotify execs launch AI-powered &#8216;learning platform&#8217; for the &#8216;curiously minded&#8217;",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/783624/oboe-ai-education-learning",
+            "site_name": "The Verge",
+            "novelty_hash": "1dd8eddd3314892aec0a90705c579755ee34ece6"
+          },
+          "review": {
+            "headline_rewrite": "Former Spotify execs launch AI-powered &#8216;learning platform&#8217; for the &#8216;curiously minded&#8217;",
+            "bullets": [
+              "The creators of Oboe know what everyone’s thinking about AI.",
+              "“Is AI going to make us all stupid?” the company asks in a recent ad.",
+              "“Are we going to forget how to think for ourselves?”\nFormer Spotify execs launch AI-powered ‘learning platform’ for the ‘curiously minded’\nOboe creates ‘courses’ based on user prompts.",
+              "The AI education platform, which launched this month, uses AI to craft “courses” about any topic that strikes a user’s fancy.",
+              "Zicherman wants to “democratize access to a great learning experience” on the cheap with AI, he tells The Verge.",
+              "That’s a lofty claim, especially considering how many products are branded as AI-powered learning tools already — and how rampant hallucinations continue to be across AI products."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Play is getting a Gemini-powered AI Sidekick to help you in games",
+            "link": "https://arstechnica.com/gaming/2025/09/googles-big-play-store-revamp-includes-better-gamer-profiles-gemini-live-in-game-help/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "346dd9734c9d3edc686246c414e8c2dfb55e78f7"
+          },
+          "review": {
+            "headline_rewrite": "Google Play is getting a Gemini-powered AI Sidekick to help you in games",
+            "bullets": [
+              "The era of Google's Play's unrivaled dominance may be coming to an end in the wake of the company's antitrust loss, but Google's app store isn't going anywhere.",
+              "In fact, the Play Store experience is getting a massive update with more personalization, content, and yes, AI.",
+              "Play Games will track your activity for daily streaks, which will be shown on your profile and unlock new Play Points rewards.",
+              "At the core of Google's app store revamp is the You Tab, which will soon take its place in the main navigation bar of the Play Store."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
