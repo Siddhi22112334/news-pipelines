@@ -73390,6 +73390,117 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:07": [
+        {
+          "item": {
+            "title": "Accelerate AI agent development with the Nova Act IDE extension",
+            "link": "https://aws.amazon.com/blogs/aws/accelerate-ai-agent-development-with-the-nova-act-ide-extension/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "556b23ede6d7ab7290bf299496257166e0721cf6"
+          },
+          "review": {
+            "headline_rewrite": "Accelerate AI agent development with the Nova Act IDE extension",
+            "bullets": [
+              "Accelerate AI agent development with the Nova Act IDE extension\nHere’s a quick look at the Nova Act extension in Visual Studio Code:\nThe Nova Act extension is built on top of the Amazon Nova Act SDK (preview), our browser automation agents SDK (Software Development Kit).",
+              "You can now build, customize, and test production-grade agent scripts—all within your IDE—using features like natural language based generation, atomic cell-style editing, and integrated browser testing.",
+              "Customize it using the notebook-style builder mode to integrate APIs, data sources, and authentication, then validate it with local testing tools that simulate real-world conditions, including live step-by-step debugging of lengthy multi-step workflows.",
+              "To get started, I need to obtain an API key.",
+              "To do this, I navigate to the Nova Act page and follow the instructions to get the API key.",
+              "I select Set API Key by opening the Command Palette with Cmd+Shift+P / Ctrl+Shift+P\n."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Android users can now use conversational editing in Google Photos.",
+            "link": "https://blog.google/products/photos/android-conversational-editing-google-photos/",
+            "site_name": "Google",
+            "novelty_hash": "75a732fd726696eb0674e38441d141540f03c31a"
+          },
+          "review": {
+            "headline_rewrite": "Android users can now use conversational editing in Google Photos.",
+            "bullets": [
+              "Use one of the provided suggestions or simply say “make it better.” Or get creative with out-of-this-world edits like transporting an alpaca from a petting zoo to Waikiki (tropical beverage included).",
+              "With simple gestures and one-tap editing suggestions, AI-powered creative tools and now conversational AI editing, it’s never been easier to bring your creativity to life."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Join the 5-day AI Agents Intensive course with Google and Kaggle.",
+            "link": "https://blog.google/technology/developers/ai-agents-intensive/",
+            "site_name": "Google",
+            "novelty_hash": "30c1aa568f14c28044e55a06aaf79a715b46637e"
+          },
+          "review": {
+            "headline_rewrite": "Join the 5-day AI Agents Intensive course with Google and Kaggle.",
+            "bullets": [
+              "Earlier this year, we launched the second iteration of our GenAI Intensive course, which attracted over 280,000 learners.",
+              "Now, we're taking things to the next level with the 5-Day AI Agents Intensive, designed to help you master AI agents: the next frontier of artificial intelligence.",
+              "Crafted by Google’s own AI researchers and engineers, you’ll learn to build everything from simple AI agents to sophisticated multi-agent systems.",
+              "The curriculum covers agent architectures, tools, memory and evaluation, moving from prototype to production."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Photos users on Android can now edit their photos by talking to or texting the AI",
+            "link": "https://techcrunch.com/2025/09/23/google-photos-users-on-android-can-now-edit-their-photos-by-talking-to-or-texting-the-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bd3aba71e9bf283f0f9e7cff27ad38709de4a009"
+          },
+          "review": {
+            "headline_rewrite": "Google Photos users on Android can now edit their photos by talking to or texting the AI",
+            "bullets": [
+              "Android users are now able to edit their photos with AI, Google announced on Tuesday.",
+              "In Google Photos, users will be able to talk to the AI using natural language to describe how they want to edit their photo via either voice or text, Google says.",
+              "The Gemini-powered feature was initially made available to those with the newly launched Pixel 10 devices in the U.S., introduced in August.",
+              "If you’re not sure where to start to make improvements, you can also use one of the provided Gemini suggestions or simply tell the AI to “make it better.”\nThe feature supports the usual types of edits, like lighting adjustments or removing distractions from the images, as well as more advanced edits, like removing objects in the background or restoring an old image.",
+              "Plus, it can change photos to have fantastical AI elements added, for a bit of creativity.",
+              "AI editing is currently available to users 18 and up in the U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Do startups still need Silicon Valley? Leaders at Signalfire, Lago, and Revolution debate at TechCrunch Disrupt 2025.",
+            "link": "https://techcrunch.com/2025/09/23/do-startups-still-need-silicon-valley-hear-from-the-founders-and-funders-challenging-old-assumptions-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "387d128abc588fdf31bc859a71cfe159374eafff"
+          },
+          "review": {
+            "headline_rewrite": "Do startups still need Silicon Valley? Leaders at Signalfire, Lago, and Revolution debate at TechCrunch Disrupt 2025.",
+            "bullets": [
+              "Why this conversation matters now\nAs distributed teams, regional hubs, and global fundraising become more normalized, founders are increasingly asking if their ZIP code actually gives them an edge.",
+              "Who’s taking the Builders Stage for this session\n- Anh-Tho Chuong is rethinking open source billing with Lago, a YC-backed platform trusted by AI leaders like Mistral and Together.",
+              "She’s helped steer companies through rapid growth phases while shaping talent strategies that work far beyond the Valley."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to make sure The Verge shows up in your Google search results",
+            "link": "https://www.theverge.com/tech/782887/how-to-the-verge-google-search-results",
+            "site_name": "The Verge",
+            "novelty_hash": "f8a5a7854702076a743ab85e0dbaf82475741700"
+          },
+          "review": {
+            "headline_rewrite": "How to make sure The Verge shows up in your Google search results",
+            "bullets": [
+              "Google is showing fewer standard blue links and more YouTube videos, social posts, forum pages, sponsored results, and, of course, AI Overviews — and these are all subject to change every time Google’s algorithms reevaluate the web.",
+              "AI Overviews continue to simply give bad information.",
+              "When you do a search, you may indeed want to watch a video, poke around on discussion forums, or get a quick answer from AI, but sometimes you do just want to click on a link.",
+              "It remains to be seen how the company will keep serving its users’ needs in these ways while maintaining a healthy internet ecosystem."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
