@@ -78341,6 +78341,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "Cohere hits $7B valuation a month after its last raise, partners with AMD",
+            "link": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "950a25ce8c97a67be38be472415369f757971024"
+          },
+          "review": {
+            "headline_rewrite": "Cohere hits $7B valuation a month after its last raise, partners with AMD",
+            "bullets": [
+              "On Wednesday, Enterprise AI model maker Cohere said it raised an additional $100 million — bumping its valuation to $7 billion — in an extension to a round announced in August.",
+              "The August round was an oversubscribed $500 million round at a $6.8 billion valuation, the company said at the time.",
+              "While competitor OpenAI just nabbed an up-to $100 billion investment from the biggest GPU player, Nvidia, Cohere has signed a deal with AMD, which is one of its investors.",
+              "The company’s full suite of Command-family AI models, including the Command vision, translate, and reasoning models, can now run on AMD’s Instinct GPU, an Nvidia GPU competitor.",
+              "Cohere is not, however, abandoning support of Nvidia GPUs to strictly support AMD, the company tells TechCrunch.",
+              "Cohere began as a front-runner in the AI model race."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft adds Anthropic’s AI to Copilot",
+            "link": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "493032b96d5bbf126c145e1af0434464d99a840b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft adds Anthropic’s AI to Copilot",
+            "bullets": [
+              "Microsoft is leaning into its new partnership with OpenAI’s chief rival, Anthropic.",
+              "Starting Wednesday, the software giant will incorporate Anthropic’s AI models into its AI assistant Copilot, which has previously been fueled mainly by OpenAI.",
+              "The deal signals yet another step toward the slow disentangling between the erstwhile exclusive partners, and comes a couple of weeks after Microsoft inked a deal to use Anthropic’s AI in Office 365 apps like Word, Excel, and Outlook.",
+              "Copilot business users will be able to choose between OpenAI’s deep reasoning models and Anthropic’s Claude Opus 4.1 and Claude Sonnet 4 for help with certain tasks, like complex researching and help building custom AI tools and enterprise-grade agents."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The best foldable phone you can buy",
+            "link": "https://www.theverge.com/tech/635839/best-foldable-phone",
+            "site_name": "The Verge",
+            "novelty_hash": "64eb75870b9e2cd49da6ef85249bbe277506adf7"
+          },
+          "review": {
+            "headline_rewrite": "The best foldable phone you can buy",
+            "bullets": [
+              "A foldable phone isn’t for the faint of heart.",
+              "I set up each phone from scratch, load it up with my apps, and go about living my life — stress testing the battery, using GPS navigation on my bike while streaming radio, taking rapid-fire portrait mode photos of my kid — everything I can throw at it.",
+              "For me, switching has become so routine that it’s mostly painless.",
+              "The phones listed here have powerful processors and enough RAM to keep up for years, so it’s fair to expect more than a handful of OS updates throughout the life of your phone.",
+              "Four years of new OS versions and five years of security updates is a healthy benchmark for this class, and many of the phones here meet or exceed that standard.",
+              "The devices listed here offer a little something extra, like a useful telephoto lens, a great portrait mode, or impressive low-light shooting — and many include all three."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is opening pop-up shops to show off its smart glasses with a display",
+            "link": "https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display",
+            "site_name": "The Verge",
+            "novelty_hash": "cf4483c591244f0682bfb67b692811c7a12d491f"
+          },
+          "review": {
+            "headline_rewrite": "Meta is opening pop-up shops to show off its smart glasses with a display",
+            "bullets": [
+              "Meta is just about to launch its impressive smart glasses with a display, and to give more people a chance to try them out and see its other smart glasses and VR hardware, the company is going to open new pop-up shops starting in October.",
+              "Meta’s Bay Area shop in Burlingame, California, remains open, too.",
+              "Here’s when you’ll be able to visit each of the new stores, according to Meta:\n- The Las Vegas shop at the Wynn Las Vegas will open on October 16th\n- The Los Angeles shop on Melrose Avenue will open on October 24th, and it will be expanded to more than 20,000 square feet\n- The New York shop on Fifth Avenue is “currently scheduled” to open on November 13th\nThe $799 Meta Ray-Ban Display glasses are set to launch on September 30th.",
+              "Meta also recently released a second-generation version of the Ray-Ban Meta glasses and is scheduled to launch the $499 Oakley Meta Vanguard glasses on October 21st."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NordVPN review 2025: Innovative features, a few missteps",
+            "link": "https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html",
+            "site_name": "Engadget",
+            "novelty_hash": "23f0d48c7a168129573b096e9f931712a099ec3f"
+          },
+          "review": {
+            "headline_rewrite": "NordVPN review 2025: Innovative features, a few missteps",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "NordVPN may not be perfect, but it's easily top-five caliber and excels in certain use cases.",
+              "Editor's note (9/24/25): We've overhauled our VPN coverage to provide more detailed, actionable buying advice.",
+              "Windows\nThe Windows app is the first instance of NordVPN's UI being not bad enough to complain about, but not good enough to be considered excellent.",
+              "The minor problems continue in the settings list, which makes the mistake of not keeping all its tabs visible in the window — if you open one, you have to click back to the main menu to reach another page.",
+              "The vast majority of the main window is taken up by a large map, which is mostly useless."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft adds Claude models to Copilot 365",
+            "link": "https://www.engadget.com/ai/microsoft-adds-claude-models-to-copilot-365-185032970.html",
+            "site_name": "Engadget",
+            "novelty_hash": "7c6c277218f7f3ec67e23ac1f015a1b2b6b57e3b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft adds Claude models to Copilot 365",
+            "bullets": [
+              "As The Information's sources tipped, Microsoft 365 Copilot is adding Anthropic's AI models.",
+              "\"Copilot will continue to be powered by OpenAI's latest models,\" Microsoft's announcement was quick to stress.",
+              "It didn't help that the story came on the heels of reports of uneasy negotiations between the pair.",
+              "Whether or not there's anything to that, OpenAI models like GPT-5 still fuel most of Copilot… for now.",
+              "Copilot's reasoning tool launched earlier this year.",
+              "Copilot Studio, Microsoft's AI agent dev tool, offers similar functionality."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
