@@ -77525,6 +77525,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:10": [
+        {
+          "item": {
+            "title": "Google makes real-world data more accessible to AI — and training pipelines will love it",
+            "link": "https://techcrunch.com/2025/09/24/google-makes-real-world-data-more-accessible-to-ai-and-training-pipelines-will-love-it/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f61bcb1c60feaae33e472ff459370d2d106217d4"
+          },
+          "review": {
+            "headline_rewrite": "Google makes real-world data more accessible to AI — and training pipelines will love it",
+            "bullets": [
+              "Google is turning its vast public data trove into a goldmine for AI with the debut of the Data Commons Model Context Protocol (MCP) Server — enabling developers, data scientists, and AI agents to access real-world statistics using natural language and better train AI systems.",
+              "Launched in 2018, Google’s Data Commons organizes public datasets from a range of sources, including government surveys, local administrative data, and statistics from global bodies such as the United Nations.",
+              "With the release of the MCP Server, this data is now accessible via natural language, allowing developers to integrate it into AI agents or applications.",
+              "AI systems are often trained on noisy, unverified web data.",
+              "As a result, companies looking to fine-tune AI systems for specific use cases often need access to large, high-quality datasets.",
+              "By publicly releasing the MCP Server for its Data Commons, Google aims to tackle both challenges."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps",
+            "link": "https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature",
+            "site_name": "The Verge",
+            "novelty_hash": "91022d6e36231b3843688361ef94d5de0fb447bf"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps",
+            "bullets": [
+              "Microsoft is bringing Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 AI models to its Microsoft 365 Copilot today.",
+              "It’s a big move that expands model choice beyond just OpenAI’s range of models in Microsoft 365 Copilot, and it will allow Microsoft’s customers to access Anthropic models in Researcher and Microsoft Copilot Studio.",
+              "Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps\nMicrosoft is bringing Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 to Microsoft 365 Copilot users.",
+              "“Copilot will continue to be powered by OpenAI’s latest models, and now our customers will have the flexibility to use Anthropic models too — starting in Researcher or when building agents in Microsoft Copilot Studio,” explains Charles Lamanna, president of Microsoft’s business and industry Copilot team.",
+              "“The addition of Claude Sonnet 4 and Claude Opus 4.1 advances our commitment to bring the best AI innovation from across the industry to Microsoft 365 Copilot, tuned for work and tailored to your business needs.”\nMicrosoft’s Researcher agent can now use OpenAI’s deep reasoning models or Anthropic’s Claude Opus 4.1.",
+              "Researcher users will see a “Try Claude” button at the top of the Microsoft 365 Copilot app that provides access to Opus 4.1 instead of OpenAI’s models."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google launches an AI-powered mood board app, Mixboard",
+            "link": "https://techcrunch.com/2025/09/24/google-launches-an-ai-powered-mood-board-app-mixboard/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "233c4b6e40d70de44d3f744b5ccbd0c493699569"
+          },
+          "review": {
+            "headline_rewrite": "Google launches an AI-powered mood board app, Mixboard",
+            "bullets": [
+              "Google’s latest AI project ventures into Pinterest’s territory, as the company announced the launch of Mixboard, software that enables anyone to create AI-powered mood boards.",
+              "Instead, users can start their own project using text prompts to have AI fill in the ideas.",
+              "(Pre-populated boards you can edit are also available if you need a little help in the creativity department.)\nThe service is initially available as a public beta in the U.S.",
+              "After you create images using AI, you can then ask the AI to make edits and other small changes, or even combine images.",
+              "Following its launch, Google’s Gemini AI app pushed ChatGPT out of the top spot on the U.S.",
+              "With Mixboard, Google is catering to user demand for Nano Banana by incorporating it in its own product, which it suggests could be used to brainstorm ideas involving home decor and design, event themes, DIY projects, and more, with both images and text."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Samsung’s latest Galaxy earbuds come with a free Galaxy SmartTag2 tracker",
+            "link": "https://www.theverge.com/tech/784644/samsung-galaxy-buds-3-fe-blink-video-doorbell-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "4d25dc7f8fb897e976a7619f596f1113f147629c"
+          },
+          "review": {
+            "headline_rewrite": "Samsung’s latest Galaxy earbuds come with a free Galaxy SmartTag2 tracker",
+            "bullets": [
+              "The bundle saves you $30 and is available until September 28th.",
+              "The Galaxy Buds 3 FE are Samsung’s latest pair of noise-canceling true wireless earbuds.",
+              "If you have a Samsung Galaxy smartphone, the earbuds support an easy pairing mode, and allow you to switch between your phone and a Galaxy Tablet or Galaxy Book easily.",
+              "You can use the earbuds to access Google Gemini hands free if you have a supported device, and get real-time translations via Samsung’s Galaxy AI.",
+              "Both wall-mountable smart lights have an IP66 rating, which means they shouldn’t be damaged by heavy rain.",
+              "Paying for an optional Blink Subscription Plan ($3 per month or $30 per year) adds person detection and unlimited cloud storage for video clips recorded in the past 60 days."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The DHS has been quietly harvesting DNA from Americans for years",
+            "link": "https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "bbc03ac54b69aed4c0e75517f3b6ec7ba674939a"
+          },
+          "review": {
+            "headline_rewrite": "The DHS has been quietly harvesting DNA from Americans for years",
+            "bullets": [
+              "This expansion of genetic surveillance was never authorized by Congress for citizens, children, or civil detainees.",
+              "According to newly released government data analyzed by Georgetown Law’s Center on Privacy & Technology, the Department of Homeland Security, which oversees CBP, collected the DNA of nearly 2,000 US citizens between 2020 and 2024 and had it sent to CODIS, the FBI’s nationwide system for policing investigations."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-magsafe-power-banks/",
+            "site_name": "WIRED",
+            "novelty_hash": "61a2f46880c986b3abf75ba3e4011495896df4f4"
+          },
+          "review": {
+            "headline_rewrite": "13 Best MagSafe Power Banks for iPhones (2025), Tested and Reviewed",
+            "bullets": [
+              "Compared to the original Qi standard, it brings MagSafe-style magnetic charging, faster charging rates, and improved efficiency—but where MagSafe is an Apple technology designed for Apple products, any device can support Qi2.",
+              "But other factors are more important if you want to preserve battery health (such as never fully draining your battery).",
+              "Apple's MagSafe Battery for iPhone Air for $99: The super svelte iPhone Air doesn’t have room for a big battery, so Apple offers this perfectly sized MagSafe add-on, capable of charging wirelessly at 12 watts.",
+              "But, with just 3,149 mAh of power (it charged the iPhone Air to 68 percent), it’s awfully pricey.",
+              "Still, it's one of the few perfectly designed for the iPhone Air.",
+              "Mous MagSafe Compatible Wireless Power Bank for $40: I don’t have any major complaints about this MagSafe power bank."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
