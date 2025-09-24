@@ -78224,5 +78224,124 @@
         }
       ]
     }
+  },
+  "2025-09-25": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "Cohere hits $7B valuation a month after its last raise, partners with AMD",
+            "link": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1005d8a9f050ebc0cb8c7d63dfc4470218283529"
+          },
+          "review": {
+            "headline_rewrite": "Cohere hits $7B valuation a month after its last raise, partners with AMD",
+            "bullets": [
+              "On Wednesday, Enterprise AI model-maker Cohere said it raised an additional $100 million — bumping its valuation to $7 billion — in an extension to a round announced in August.",
+              "The August round was an oversubscribed $500 million round at a $6.8 billion valuation, the company said at the time.",
+              "While competitor OpenAI just nabbed an up-to $100 billion investment from the biggest GPU player, Nvidia, Cohere has signed a deal with AMD, which is one of its investors.",
+              "Cohere’s full suite of Command-family AI models, including the Command vision, translate, and reasoning models, can now run on AMD’s Instinct GPU, a Nvidia GPU competitor.",
+              "Cohere is not, however, abandoning support of Nvidia GPUs to strictly support AMD, the company tells TechCrunch.",
+              "Cohere began as a front runner in the AI model race."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft adds Anthropic’s AI to Copilot",
+            "link": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "493032b96d5bbf126c145e1af0434464d99a840b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft adds Anthropic’s AI to Copilot",
+            "bullets": [
+              "Microsoft is leaning into its new partnership with OpenAI’s chief rival, Anthropic.",
+              "Starting Wednesday, the software giant will incorporate Anthropic’s AI models into its AI assistant Copilot, which has previously been fueled mainly by OpenAI.",
+              "The deal signals yet another step toward the slow disentangling between the erstwhile exclusive partners, and comes a couple of weeks after Microsoft inked a deal to use Anthropic’s AI in Office 365 apps like Word, Excel, and Outlook.",
+              "Copilot business users will be able to choose between OpenAI’s deep reasoning models and Anthropic’s Claude Opus 4.1 and Claude Sonnet 4 for help with certain tasks, like complex researching and help building custom AI tools and enterprise-grade agents."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Jessica Chastain says she and Apple are &#8216;not aligned&#8217; on decision to halt The Savant",
+            "link": "https://www.theverge.com/news/784839/jessica-chastain-respone-the-savant-pause-apple-tv-plus",
+            "site_name": "The Verge",
+            "novelty_hash": "8e4d8a3a5227068a5013a94ffc09b5c2d6ba70b5"
+          },
+          "review": {
+            "headline_rewrite": "Jessica Chastain says she and Apple are &#8216;not aligned&#8217; on decision to halt The Savant",
+            "bullets": [
+              "Just a day after Apple announced that it was pausing the premiere of The Savant, its upcoming show about domestic extremism, star Jessica Chastain says that she disagrees with the decision.",
+              "Jessica Chastain says she and Apple are ‘not aligned’ on decision to halt The Savant\n‘I remain hopeful the show will reach audiences soon.’\nIn a lengthy statement on Instagram, Chastain said that while the team at Apple TV Plus are “incredible collaborators … we’re not aligned on the decision to pause the release of The Savant.” Here’s the bulk of her statement:\nIn the last five years since we’ve been making the show, we’ve seen an unfortunate amount of violence in the United States: the kidnapping attempt on Michigan Governor Gretchen Whitmer; the January 6th attack on the Capitol; the assassination attempts on President Trump; the political assassinations of Democratic representatives in Minnesota; the attack on Speaker Pelosi’s husband; the assassination of conservative commentator Charlie Kirk; the recent shooting at an ABC affiliate station in California; and over 300 school shootings across this country.",
+              "In the show Chastain plays an investigator who “infiltrates online hate groups in an effort to stop domestic extremists before they act.”\nThe Savant was originally planned to start streaming on September 26th, and it’s not clear at the moment when it’ll end up airing.",
+              "In a previous statement about the pause, Apple said, “We appreciate your understanding and look forward to releasing the series at a future date.” Chastain, meanwhile, said today that “I remain hopeful the show will reach audiences soon.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meet the first person to own over 40,000 paid Steam games",
+            "link": "https://arstechnica.com/gaming/2025/09/meet-the-first-person-to-own-over-40000-paid-steam-games/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2e2d37ce298ce769ea9c9694bf37ed53f85f98af"
+          },
+          "review": {
+            "headline_rewrite": "Meet the first person to own over 40,000 paid Steam games",
+            "bullets": [
+              "However, we're willing to bet your backlog can't hold a candle to that of SonixLegend, who recently earned a unique Steam badge as the first person to own 40,000 distinct paid games on Valve's platform.",
+              "Based in Shanghai, SonixLegend obtained their 40,000th Steam game this week, according to Steam's badge data, putting them atop an elite club of just 19 Steam users with at least 30,000 paid games.",
+              "That's because Steam's Game Collector badges don't track any of the many, many shovelware titles that have failed to reach \"broad player engagement and some commercial success\" on the service under Valve's \"profile features\" guidelines."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw",
+            "link": "https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/",
+            "site_name": "WIRED",
+            "novelty_hash": "6b61dde503685e65354562d2bf1c270d0c7cd6d1"
+          },
+          "review": {
+            "headline_rewrite": "This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw",
+            "bullets": [
+              "A four-legged robot that keeps crawling even after all four of its legs have been hacked off with a chainsaw is the stuff of nightmares for most people.",
+              "For Deepak Pathak, cofounder and CEO of the startup Skild AI, the dystopian feat of adaptation is an encouraging sign of a new, more general kind of robotic intelligence.",
+              "“This is something we call an omni-bodied brain,” Pathak tells me.",
+              "His startup developed the generalist artificial intelligence algorithm to address a key challenge with advancing robotics: “Any robot, any task, one brain.",
+              "It is absurdly general.”\nMany researchers believe the AI models used to control robots could experience a profound leap forward, similar to the one that produced language models and chatbots, if enough training data can be gathered.",
+              "Existing methods for training robotic AI models, such as having algorithms learn to control a particular system through teleoperation or in simulation, do not generate enough data, Pathak says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 15 Best Tried and Tested Gifts for Bird Lovers (2025)",
+            "link": "https://www.wired.com/gallery/gifts-for-bird-lovers/",
+            "site_name": "WIRED",
+            "novelty_hash": "e0c79f13732e76ee689335524afc596f94cc51b0"
+          },
+          "review": {
+            "headline_rewrite": "The 15 Best Tried and Tested Gifts for Bird Lovers (2025)",
+            "bullets": [
+              "Featured in this article\nYou may be familiar with the various memes detailing the fact that once you reach middle age, you're automatically sorted, Harry Potter hat-style, into one of a handful of hobbies, such as sourdough bread making, gardening, or bird watching.",
+              "I have learned more about birds in the past year of testing smart bird feeders than I have over my entire lifetime, such as the fact that cowbirds will lay their eggs in other birds' nests (such as juncos') and the “host” birds will raise the cowbird chicks as their own, even if they look nothing alike.",
+              "If you'd rather not deal with the aforementioned but still want to see birds up close, then a smart hummingbird feeder might be a more low-maintenance choice.",
+              "Sure, you still have to change the nectar every few days, but if you're not able to site a feeder where squirrels won't ravage it, this is the smart hummingbird feeder I like most, with an easy-to-maintain reservoir and exceedingly user-friendly app.",
+              "For Bird-Loving Gamers\nWIRED reviewer Simon Hill, our staff board game aficionado, says this award-winning card-driven game will appeal to anyone interested in birds, as it pairs strategy with plenty of educational information about different bird species.",
+              "A Smart Birdbath\nThis camera-equipped birdbath from Birdfy, maker of our favorite smart bird feeder, will send your recipient entertaining 1080p photos and 2K videos of birds—and other backyard visitors—drinking, bathing, or just pausing to ponder their next move."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
