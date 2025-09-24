@@ -79020,6 +79020,121 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:45": [
+        {
+          "item": {
+            "title": "Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development",
+            "link": "https://blogs.nvidia.com/blog/nemotron-open-source-ai/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "fdc68e99c8f851704d4eb910c9b17ef697738c7d"
+          },
+          "review": {
+            "headline_rewrite": "Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development",
+            "bullets": [
+              "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been part of every major technology shift, from the birth of the internet to the early days of cloud computing.",
+              "AI should follow the same path.",
+              "That’s why the NVIDIA Nemotron family of multimodal AI models, datasets and techniques is openly available.",
+              "Accessible for research and commercial use, from local PCs to enterprise-scale systems, Nemotron provides an open foundation for building AI applications.",
+              "It’s available for developers to get started on GitHub, Hugging Face and OpenRouter.",
+              "Nemotron enables developers, startups and enterprises of any size to use models trained with transparent, open-source training data."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Listen to a podcast deep dive on how Tensor G5 makes Pixel 10 better than ever.",
+            "link": "https://blog.google/products/pixel/made-by-google-podcast-tensor-g5/",
+            "site_name": "Google",
+            "novelty_hash": "2c2c927cfb05b491a6651485b191faa866915c01"
+          },
+          "review": {
+            "headline_rewrite": "Listen to a podcast deep dive on how Tensor G5 makes Pixel 10 better than ever.",
+            "bullets": [
+              "In this episode of the Made by Google Podcast, we take a deep dive into the Tensor G5 chip, the brains behind the new Pixel 10, Pixel 10 Pro and Pixel Fold.",
+              "Host Rachid Finge talks with Jesse Seed, group product manager for Google's silicon team, about how Tensor is driving AI breakthroughs on Pixel devices.",
+              "The two discuss the engineering breakthroughs that make Tensor G5 Google's biggest upgrade yet, and learn how it powers new AI features like Live Translate in your own voice, the agentic helper Magic Cue and the 100x ProRes Zoom on the Pixel 10 Pro."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs",
+            "link": "https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs",
+            "site_name": "The Verge",
+            "novelty_hash": "712c90724de0bb90a1cb2b3a0796ed25b3c36169"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs",
+            "bullets": [
+              "Today, we’re learning about the second generation of the chip that made it happen, one which’ll now come in two distinct flavors: the Snapdragon X2 Elite and Snapdragon X2 Elite Extreme.",
+              "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs\nQualcomm claims they’re the fastest and most efficient chips for Windows ever.",
+              "Qualcomm is making a gigantic claim right in the headline of its press release: it says these are “the fastest and most efficient processors for Windows PCs.” I’m sure Intel and AMD will have something to say about that!",
+              "But for now, the company claims its 3nm chips offer up to 31 percent faster CPU performance than the previous-gen Snapdragon X Elite at the same power, or can require 43 percent less power, and with up to 2.3x the GPU performance from a new 1.85GHz GPU.",
+              "On the CPU side, it’s using a 3rd-gen Oryon CPU that’ll also feature in Qualcomm’s new mobile flagship Snapdragon 8 Elite 5 chip, but here with up to 18 cores, 12 of which can run up to 4.4GHz, or up to two of them at 5GHz — a clockspeed which Qualcomm says is a first for Arm CPUs.",
+              "There’s also a new 80 TOPS Hexagon NPU, for AI tasks, that offers 37 percent more performance with a 16 percent power consumption improvement, and the company claims it’s the fastest laptop NPU by far:\nQualcomm’s characterizing all of this as a “legendary leap in performance,” claiming the Elite Extreme in particular offers “up to 75 percent faster CPU performance” than competitors at the same power."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips",
+            "link": "https://www.wired.com/story/qualcomm-snapdragon-x2-chips-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "5eefc4e8e53ff53480e12155a7ed08a3b85e2660"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips",
+            "bullets": [
+              "It might not sound very exciting, but these chips continue to bring Windows laptops up to par with Apple Silicon–powered MacBooks.",
+              "The company took the PC world by storm last year with its Snapdragon X chips, breaking the long-held duopoly of Intel and AMD powering most Windows laptops.",
+              "Nearly every major laptop manufacturer was on board, launching a bevy of Qualcomm-powered laptops.",
+              "It was a shake-up that the Windows ecosystem needed to better compete with Apple, which began designing its own chips in 2020 with the M1 MacBook Air—a move that helped cement MacBooks as some of the best laptops around.",
+              "The first two chips in the lineup, announced at its annual Snapdragon Summit in Hawaii, are the X2 Elite and X2 Elite Extreme, the latter of which is a new configuration in the Snapdragon X series, with the clock speed cranked up to 5 GHz.",
+              "(The company paid for a portion of my travel expenses to attend the Snapdragon Summit.)\nContinued Momentum\nThe new processors employ the third-gen Oryon CPU with up to 18 cores onboard, six more than their predecessors."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’",
+            "link": "https://techcrunch.com/2025/09/24/billionaire-vc-mike-moritz-slams-new-h-1b-visa-fee-as-brutish-extortion-scheme/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0c8d9e7707ff634f593bd5a6666a6d42deba2aae"
+          },
+          "review": {
+            "headline_rewrite": "Billionaire VC Mike Moritz slams new H-1B visa fee as ‘brutish extortion scheme’",
+            "bullets": [
+              "Veteran venture capitalist Michael Moritz isn’t having it.",
+              "In a new, scathing Financial Times op-ed, the former Sequoia Capital honcho compares the White House to Tony Soprano’s pork store, calling the move another “brutish extortion scheme.”\nMoritz argues that Trump fundamentally misunderstands why tech companies hire foreign workers, saying it’s about skills and filling labor shortages, not replacing Americans or cutting costs.",
+              "The policy will backfire, he warns, by pushing companies to relocate work to Istanbul, Warsaw, or Bangalore instead of keeping it stateside.",
+              "He points to foreign-born CEOs like Microsoft’s Satya Nadella and Google’s Sundar Pichai as examples of H-1B program success.",
+              "(Elon Musk and Instagram co-founder Mike Krieger are two others.)\nMoritz himself received the precursor visa to the H-1B in 1979, and ever since, writes the billionaire, “I have felt grateful to the country that welcomed me.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Chipiron’s big idea: rethinking MRI access, not replacing old machines",
+            "link": "https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ebac2833e870e679cd5f766d94798eed6cc15934"
+          },
+          "review": {
+            "headline_rewrite": "Chipiron’s big idea: rethinking MRI access, not replacing old machines",
+            "bullets": [
+              "Medical device funding is hitting levels we haven’t seen since 2021, with investors pouring billions into diagnostics and imaging companies.",
+              "So how do you take one of the most expensive, hospital-bound technologies and make it available anywhere?",
+              "Evan Kervella, founder and CEO of Paris-based startup Chipiron, joined Equity to walk us through the problem and his vision for solving it."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
