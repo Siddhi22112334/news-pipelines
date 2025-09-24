@@ -77993,6 +77993,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:09": [
+        {
+          "item": {
+            "title": "Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy",
+            "link": "https://blogs.nvidia.com/blog/canada-all-in/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "3b20db54aa1f123bfe16fcb3cddfd1eb208ccd43"
+          },
+          "review": {
+            "headline_rewrite": "Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy",
+            "bullets": [
+              "Canada’s role as a leader in artificial intelligence was on full display at this week’s All In Canada AI Ecosystem event.",
+              "NVIDIA Vice President of Generative AI Software Kari Briski today joined Canada’s Minister of Artificial Intelligence and Digital Innovation Evan Solomon and Aiden Gomez, cofounder and CEO of Cohere, in a special address moderated by SiriusXM host Amber Mac.",
+              "“The AI revolution is the birth not just of a new technology — this is the birth of the age of the entrepreneur.”\nThe session comes as Canadian communications technology company and NVIDIA Cloud Partner TELUS announces the launch of Canada’s first fully sovereign AI factory in Rimouski, Quebec, powered by the latest NVIDIA accelerated computing, and financial services company RBC Capital Markets continues building AI agents for capital markets using NVIDIA software.",
+              "“For our government, for our country, ‘All In’ means building digital sovereignty — the most pressing policy, democratic issue of our time,” Solomon said.",
+              "“Every nation should develop its own AI — not just outsource it,” Briski said during the panel conversation following Solomon’s address.",
+              "“AI must reflect local values, understand cultural context and align with national norms and policies."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google AI Pro and Ultra subscribers now get Gemini CLI and Gemini Code Assist with higher limits.",
+            "link": "https://blog.google/technology/developers/gemini-cli-code-assist-higher-limits/",
+            "site_name": "Google",
+            "novelty_hash": "389b4e8a052ef28d2438bb7721d602934f9467d6"
+          },
+          "review": {
+            "headline_rewrite": "Google AI Pro and Ultra subscribers now get Gemini CLI and Gemini Code Assist with higher limits.",
+            "bullets": [
+              "Good news for your development workflows: starting today, we’re giving all Google AI Pro and Ultra subscribers Gemini CLI and Gemini Code Assist with a higher model request limits 1 .",
+              "In case you missed it, we launched Gemini Code Assist in VS Code and IntelliJ back in May, and the open-source Gemini CLI (which puts Gemini in your terminal) in June.",
+              "If you’re not subscribed to Google AI Pro or Ultra, you can sign up today."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "These YC founders pivoted 5 times before building a social app that nabbed 300K users and over $1M ARR in 6 months",
+            "link": "https://techcrunch.com/2025/09/24/these-yc-founders-pivoted-5-times-before-building-a-social-app-that-nabbed-300k-users-and-over-1m-arr-in-6-months/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "93926eb284e2458b8b93546d28f73d747a5c58cf"
+          },
+          "review": {
+            "headline_rewrite": "These YC founders pivoted 5 times before building a social app that nabbed 300K users and over $1M ARR in 6 months",
+            "bullets": [
+              "Alex Ruber, previously an engineer at Apple, and Parth Chopra, formerly an engineer at Asana and Twitter, had built multiple projects together, including Encore, a conversational AI shopping tool that got them into YC and with which they raised $2 million.",
+              "That wasn’t a target we wanted to pursue.”\nWhat followed were months of rapid experiments between last December and April, with pivots around ideas in areas like fashion and sports, none of which stuck.",
+              "“We tried more than 10 different ideas in the span of four or five months,” Ruber said.",
+              "The pressure began to strain their own relationships with friends and partners, a familiar story for many early-stage founders.",
+              "Then an intern, now marketing lead at the startup, shared a TikTok about the app that went viral, unexpectedly gaining traction in Europe.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Oracle is reportedly looking to raise $15B in corporate bond sale",
+            "link": "https://techcrunch.com/2025/09/24/oracle-is-reportedly-looking-to-raise-15b-in-corporate-bond-sale/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "918a03b073f43a6e15b05dc887bd956aab63f3fd"
+          },
+          "review": {
+            "headline_rewrite": "Oracle is reportedly looking to raise $15B in corporate bond sale",
+            "bullets": [
+              "Oracle is reportedly looking to raise funds just weeks after the company inked an historic AI infrastructure deal with OpenAI.",
+              "Cloud infrastructure giant Oracle is looking to raise $15 billion through corporate bond sales, according to reporting from Bloomberg, citing sources.",
+              "The sale could include up to seven different parts, with the potential for one said part to be an uncommon 40-year bond, Bloomberg reported.",
+              "This report comes just a few weeks after Oracle reportedly signed a sizable deal with OpenAI to supply the AI research lab with $300 billion worth of compute.",
+              "Oracle announced Monday that Safra Catz was transitioning from the company’s CEO to instead serve as the executive vice chair of Oracle’s board of directors after 11 years at the helm."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "A Former Apple Luminary Sets Out to Create the Ultimate GPU Software",
+            "link": "https://www.wired.com/story/semiconductor-software-startups-chips/",
+            "site_name": "WIRED",
+            "novelty_hash": "067cff66e9d1b2ba7898f3f4005951a3f2b98d7c"
+          },
+          "review": {
+            "headline_rewrite": "A Former Apple Luminary Sets Out to Create the Ultimate GPU Software",
+            "bullets": [
+              "At a certain point between building Apple’s developer tools, leading a core part of Google’s AI infrastructure team, and clashing with Elon Musk during a stint as Tesla’s Autopilot chief, Chris Lattner’s vision for his life’s work started to come into focus.",
+              "AI was taking over the world, and demand was growing for the chips that powered it.",
+              "But the software stack for those chips was dominated by just a few big companies.",
+              "Would developers be able to easily run their code across all the different chips dotting the AI landscape?",
+              "Modular makes a unifying software layer that helps cloud businesses squeeze as much juice as possible out of GPUs and CPUs—the high-powered chips that underpin generative AI.",
+              "The startup has also built a new coding language, based on Python, that lets developers use a single language to build AI apps that run across multiple GPUs and CPUs."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Why does OpenAI need six giant data centers?",
+            "link": "https://arstechnica.com/ai/2025/09/why-does-openai-need-six-giant-data-centers/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c9da4e3a8f3fc6d58cb57e9eb293b8b5b4a5dedb"
+          },
+          "review": {
+            "headline_rewrite": "Why does OpenAI need six giant data centers?",
+            "bullets": [
+              "On Tuesday, OpenAI, Oracle, and SoftBank announced plans for five new US AI data center sites for Stargate, their joint AI infrastructure project, bringing the platform to nearly 7 gigawatts of planned capacity and over $400 billion in investment over the next three years.",
+              "The massive buildout aims to handle ChatGPT's 700 million weekly users and train future AI models, although critics question whether the investment structure can sustain itself.",
+              "The companies said the expansion puts them on track to secure the full $500 billion, 10-gigawatt commitment they announced in January by the end of 2025.",
+              "The five new sites will include three locations developed through an OpenAI and Oracle partnership: Shackelford County, Texas; Doña Ana County, New Mexico; and an unspecified Midwest location.",
+              "Two of the sites will be developed through a partnership between SoftBank and OpenAI.",
+              "Oracle began delivering Nvidia hardware to that site in June, and OpenAI has already begun training (building new models) and inference (running ChatGPT) using the data center."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
