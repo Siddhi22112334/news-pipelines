@@ -79135,6 +79135,121 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:06": [
+        {
+          "item": {
+            "title": "Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development",
+            "link": "https://blogs.nvidia.com/blog/nemotron-open-source-ai/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "fdc68e99c8f851704d4eb910c9b17ef697738c7d"
+          },
+          "review": {
+            "headline_rewrite": "Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development",
+            "bullets": [
+              "Open technologies — made available to developers and businesses to adopt, modify and innovate with — have been part of every major technology shift, from the birth of the internet to the early days of cloud computing.",
+              "AI should follow the same path.",
+              "That’s why the NVIDIA Nemotron family of multimodal AI models, datasets and techniques is openly available.",
+              "Accessible for research and commercial use, from local PCs to enterprise-scale systems, Nemotron provides an open foundation for building AI applications.",
+              "It’s available for developers to get started on GitHub, Hugging Face and OpenRouter.",
+              "Nemotron enables developers, startups and enterprises of any size to use models trained with transparent, open-source training data."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs",
+            "link": "https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs",
+            "site_name": "The Verge",
+            "novelty_hash": "dfdbc36d6ee452738677a5a9a4ff1f585c3ad65f"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs",
+            "bullets": [
+              "Today, we’re learning about the second generation of the chip that made it happen, one which’ll now come in two distinct flavors: the Snapdragon X2 Elite and Snapdragon X2 Elite Extreme.",
+              "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs\nQualcomm claims they’re the fastest and most efficient chips for Windows ever.",
+              "Qualcomm is making a gigantic claim right in the headline of its press release: it says these are “the fastest and most efficient processors for Windows PCs.” I’m sure Intel and AMD will have something to say about that!",
+              "But for now, the company claims its 3nm chips offer up to 31 percent faster CPU performance than the previous-gen Snapdragon X Elite at the same power, or can require 43 percent less power, and with up to 2.3x the GPU performance per watt (not a pure performance boost) from a new 1.85GHz GPU.",
+              "On the CPU side, it’s using a 3rd-gen Oryon CPU that’ll also feature in Qualcomm’s new mobile flagship Snapdragon 8 Elite 5 chip, but here with up to 18 cores, 12 of which can run up to 4.4GHz, or up to two of them at 5GHz — a clockspeed which Qualcomm says is a first for Arm CPUs.",
+              "There’s also a new 80 TOPS Hexagon NPU, for AI tasks, that offers 37 percent more performance with a 16 percent power consumption improvement, and the company claims it’s the fastest laptop NPU by far:\nQualcomm’s characterizing all of this as a “legendary leap in performance,” claiming the Elite Extreme in particular offers “up to 75 percent faster CPU performance” than competitors at the same power."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "link": "https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "0b9ee452e44fb9256cfab2c4c345d924573925b6"
+          },
+          "review": {
+            "headline_rewrite": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "bullets": [
+              "If the past is any indication, Prime Big Deal Days — Amazon’s upcoming fall Prime Day event — should deliver a wave of deals on Apple devices, letting you save on everything from AirPods and AirTags to the latest iPad.",
+              "But if you can’t wait until the sale kicks off on October 7th to land a bargain, you don’t have to.",
+              "A few Apple products are already receiving sizable discounts at Amazon and other retailers, giving you the chance to save ahead of Amazon’s two-day sales event next month.",
+              "The best Apple deals to shop ahead of Amazon’s fall Prime Day event\nFrom the AirPods 4 to the latest MacBook Air, here are the best Apple deals you can grab in the run-up to Prime Big Deal Days.",
+              "Admittedly, the current discounts aren’t as steep as what we’ve seen during previous Prime Day events — and possibly this year’s October Prime Day — but they’re still a solid way to save on a lot of older Apple devices if you can’t wait.",
+              "The last-gen Apple Watch Ultra 2 has returned to its all-time low, for instance, while the M1-powered MacBook Air is available at its best price to date."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Chipiron’s big idea: rethinking MRI access, not replacing old machines",
+            "link": "https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ebac2833e870e679cd5f766d94798eed6cc15934"
+          },
+          "review": {
+            "headline_rewrite": "Chipiron’s big idea: rethinking MRI access, not replacing old machines",
+            "bullets": [
+              "Medical device funding is hitting levels we haven’t seen since 2021, with investors pouring billions into diagnostics and imaging companies.",
+              "So how do you take one of the most expensive, hospital-bound technologies and make it available anywhere?",
+              "Evan Kervella, founder and CEO of Paris-based startup Chipiron, joined Equity to walk us through the problem and his vision for solving it."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "India court rejects X’s “free speech” argument, backs government takedown powers",
+            "link": "https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "655d6130ea28bef2fba7aa784fb8639931396ee7"
+          },
+          "review": {
+            "headline_rewrite": "India court rejects X’s “free speech” argument, backs government takedown powers",
+            "bullets": [
+              "The court said this constitutional of free expression applies only to Indian citizens.",
+              "X filed the case in March, challenging a series of Indian government orders directing the platform to block certain accounts and posts, including content critical of official policies.",
+              "At the heart of the dispute was the use of “Sahyog” — a government portal launched in October that allows authorities to directly order social media companies to remove content.",
+              "“Article 19 of the Constitution of India, noble in its spirit and luminous in its promise, remains, nevertheless, a Charter of Rights conferred upon citizens only.",
+              "The petitioner who seeks sanctuary under its canopy must be a citizen of the nation, failing which the protective embrace of Article 19 cannot be invoked,” senior judge M Nagaprasanna said in his ruling, which was also livestreamed, as the court rejected X’s petition.",
+              "The ruling comes as Musk expands his footprint in India beyond X, having recently launched Tesla operations and secured final regulatory approval for his satellite internet service Starlink."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US",
+            "link": "https://arstechnica.com/health/2025/09/flesh-eating-parasite-just-70-miles-from-us-check-pets-texas-officials-say/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "65c1b18c73780dcfafd593d250cb39c48f4c29e5"
+          },
+          "review": {
+            "headline_rewrite": "“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US",
+            "bullets": [
+              "Texas officials are telling residents to check their pets and livestock, and insisting on immediate use of pesticide bait after officials in Mexico confirmed an infection with the flesh-eating New World Screwworm (NWS) less than 70 miles from the US border.",
+              "However, in 2022, the gap was breached, and the flies have been steadily moving northward."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
