@@ -78905,6 +78905,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Listen to a podcast deep dive on how Tensor G5 makes Pixel 10 better than ever.",
+            "link": "https://blog.google/products/pixel/made-by-google-podcast-tensor-g5/",
+            "site_name": "Google",
+            "novelty_hash": "2c2c927cfb05b491a6651485b191faa866915c01"
+          },
+          "review": {
+            "headline_rewrite": "Listen to a podcast deep dive on how Tensor G5 makes Pixel 10 better than ever.",
+            "bullets": [
+              "In this episode of the Made by Google Podcast, we take a deep dive into the Tensor G5 chip, the brains behind the new Pixel 10, Pixel 10 Pro and Pixel Fold.",
+              "Host Rachid Finge talks with Jesse Seed, group product manager for Google's silicon team, about how Tensor is driving AI breakthroughs on Pixel devices.",
+              "The two discuss the engineering breakthroughs that make Tensor G5 Google's biggest upgrade yet, and learn how it powers new AI features like Live Translate in your own voice, the agentic helper Magic Cue and the 100x ProRes Zoom on the Pixel 10 Pro."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs",
+            "link": "https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs",
+            "site_name": "The Verge",
+            "novelty_hash": "ed0c5e2f943b5f2633b424ef93eb7e2d892bdceb"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs",
+            "bullets": [
+              "Today, we’re learning about the second generation of the chip that made it happen, one which’ll now come in two distinct flavors: the Snapdragon X2 Elite and Snapdragon X2 Elite Extreme.",
+              "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs\nQualcomm claims they’re the fastest and most efficient chips for Windows ever.",
+              "Qualcomm is making a gigantic claim right in the headline of its press release: it says these are “the fastest and most efficient processors for Windows PCs.” I’m sure Intel and AMD will have something to say about that!",
+              "But for now, the company claims its 3nm chips offer up to 31 percent faster CPU performance than the previous-gen Snapdragon X Elite at the same power, or can require 43 percent less power, and with up to 2.3x the GPU performance from a new 1.85GHz GPU.",
+              "On the CPU side, it’s using a 3rd-gen Oryon CPU that’ll also feature in Qualcomm’s new mobile flagship Snapdragon 8 Elite 5 chip, but here with up to 18 cores, 12 of which can run up to 4.4GHz, or up to two of them at 5GHz — a clockspeed which Qualcomm says is a first for Arm CPUs.",
+              "There’s also a new 80 TOPS Hexagon NPU, for AI tasks, that offers 37 percent more performance with a 16 percent power consumption improvement, and the company claims it’s the fastest laptop NPU by far:\nQualcomm’s characterizing all of this as a “legendary leap in performance,” claiming the Elite Extreme in particular offers “up to 75 percent faster CPU performance” than competitors at the same power."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips",
+            "link": "https://www.wired.com/story/qualcomm-snapdragon-x2-chips-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "8bbcef6bf81652291476619ecb4926feac2184d4"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips",
+            "bullets": [
+              "It might not sound very exciting, but these chips continue to bring Windows laptops up to par with Apple Silicon-powered MacBooks.",
+              "The company took the PC world by storm last year with its Snapdragon X chips, breaking the long-held duopoly of Intel and AMD powering most Windows laptops.",
+              "Nearly every major laptop manufacturer was on board, launching a bevy of Qualcomm-powered laptops.",
+              "It was a shake-up that the Windows ecosystem needed to better compete with Apple, which began designing its own chips in 2020 with the M1 MacBook Air—a move that helped cement MacBooks as some of the best laptops around.",
+              "The first two chips in the lineup, announced at its annual Snapdragon Summit in Hawaii, are the X2 Elite and X2 Elite Extreme, the latter of which is a new configuration in the Snapdragon X series, with the clock speed cranked up to 5 GHz.",
+              "(The company paid for a portion of my travel expenses to attend the Snapdragon Summit.)\nContinued Momentum\nThe new processors employ the third-gen Oryon CPU with up to 18 cores onboard, six more than their predecessors."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms",
+            "link": "https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bf78d53dafd3abdaf3b005759aef33a5797c3352"
+          },
+          "review": {
+            "headline_rewrite": "Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms",
+            "bullets": [
+              "A new app offering to record your phone calls and pay you for the audio so it can sell the data to AI companies is, unbelievably, the No.",
+              "However, Neon’s marketing claims to only record your side of the call unless it’s with another Neon user.",
+              "That data is being sold to “AI companies,” Neon’s terms of service state, “for the purpose of developing, training, testing, and improving machine learning models, artificial intelligence tools and systems, and related technologies.”\nThe fact that such an app exists and is permitted on the app stores is an indication of how far AI has encroached into users’ lives and areas once thought of as private.",
+              "Despite what Neon’s privacy policy says, its terms include a very broad license to its user data, where Neon grants itself a:\n…worldwide, exclusive, irrevocable, transferable, royalty-free, fully paid right and license (with the right to sublicense through multiple tiers) to sell, use, host, store, transfer, publicly display, publicly perform (including by means of a digital audio transmission), communicate to the public, reproduce, modify for the purpose of formatting for display, create derivative works as authorized in these Terms, and distribute your Recordings, in whole or in part, in any media formats and through any media channels, in each instance whether now known or hereafter developed.",
+              "That leaves plenty of wiggle room for Neon to do more with users’ data than it claims.",
+              "Though Neon’s app raises many red flags, it may be technically legal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Zoox asks federal regulators for exemption to launch a commercial robotaxi service",
+            "link": "https://techcrunch.com/2025/09/24/zoox-asks-federal-regulators-for-exemption-to-launch-a-commercial-robotaxi-service/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "16402f29927b78fa703c872ce388253a3f2345f9"
+          },
+          "review": {
+            "headline_rewrite": "Zoox asks federal regulators for exemption to launch a commercial robotaxi service",
+            "bullets": [
+              "Earlier this month, Zoox launched a free robotaxi service that is open to the public in Las Vegas.",
+              "This latest application is separate and would broaden the scope and pave the way for Zoox to launch a commercial robotaxi service."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft Flight Simulator 2024 is coming to PS5 in December",
+            "link": "https://www.theverge.com/tech/785181/microsoft-flight-simulator-2024-ps5-release-date",
+            "site_name": "The Verge",
+            "novelty_hash": "a19bed8802c3a7c3879ff61cfd4b081770ff602d"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft Flight Simulator 2024 is coming to PS5 in December",
+            "bullets": [
+              "Microsoft Flight Simulator 2024 on PS5 will support the adaptive triggers found on Sony’s DualSense controller, and communications from air traffic control towers can even play through the controller speaker.",
+              "“Gyro controls, lightbar support, and a customizable touchpad further enhance the immersion during flight,” explains Asobo Studio.",
+              "PS VR2 owners will be able to play the whole game through the headset and Sense controllers with a free update that will be available in 2026, according to Asobo.",
+              "Microsoft Flight Simulator 2024 originally launched on Xbox and PC in November 2024, complete with hot air balloon trips, aerial firefighting, and more.",
+              "Asobo Studio has also added commercial flight, air ambulances, and aerial advertising.",
+              "Forza Horizon 5 launched on PS5 earlier this year, as well as Indiana Jones and the Great Circle, Hellblade II, and Gears of War Reloaded."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
