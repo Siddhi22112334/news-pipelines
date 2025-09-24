@@ -77643,6 +77643,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:51": [
+        {
+          "item": {
+            "title": "Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy",
+            "link": "https://blogs.nvidia.com/blog/canada-all-in/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "68b4d1f084c5e58fe995e2bcbc1b69607f97c54a"
+          },
+          "review": {
+            "headline_rewrite": "Canada Goes All In on AI: NVIDIA Joins Nations’ Technology Leaders in Montreal to Shape Sovereign AI Strategy",
+            "bullets": [
+              "Canada’s role as a leader in artificial intelligence was on full display at this week’s All In Canada AI Ecosystem event.",
+              "On Wednesday, NVIDIA Vice President of Generative AI Software Kari Briski joined Canada’s Minister of Artificial Intelligence and Digital Innovation Evan Solomon and Aiden Gomez, cofounder and CEO of Cohere, in a special address moderated by SiriusXM host Amber Mac.",
+              "“The AI revolution is the birth not just of a new technology — this is the birth of the age of the entrepreneur.”\nThe session comes as Canadian communications technology company and NVIDIA Cloud Partner TELUS announces the launch of Canada’s first fully sovereign AI factory in Rimouski, Quebec, powered by the latest NVIDIA accelerated computing, and financial services company RBC Capital Markets continues building AI agents for capital markets using NVIDIA software.",
+              "“For our government, for our country, ‘All In’ means building digital sovereignty — the most pressing policy, democratic issue of our time,” Solomon said.",
+              "Caption: From left to right, Amber Mac, SiriusXM podcast host and moderator; Kari Briski, vice president, generative AI software for enterprise, NVIDIA; Aiden Gomez, co-founder and CEO, Cohere; Evan Solomon, minister of artificial intelligence, Canada.",
+              "“Every nation should develop its own AI — not just outsource it,” said Kari Briski, vice president of Generative AI Software at NVIDIA during he panel conversation following Solomon’s address."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re making public data more usable for AI developers with the Data Commons MCP Server.",
+            "link": "https://blog.google/technology/developers/ai-agents-datacommons/",
+            "site_name": "Google",
+            "novelty_hash": "85d4b0e6e248886f69a5c9382db45dd86d49aa4a"
+          },
+          "review": {
+            "headline_rewrite": "We’re making public data more usable for AI developers with the Data Commons MCP Server.",
+            "bullets": [
+              "Today marks the launch of the Data Commons Model Context Protocol (MCP) Server, which allows developers to query our connected public data with simple, natural language.",
+              "This means Data Commons’ public datasets are instantly accessible and actionable for AI developers and data scientists—without the need for custom code or complex API interactions.",
+              "MCP Server also advances Data Commons’ larger mission of using trustworthy data to reduce large language model (LLM) hallucinations.",
+              "Global organization ONE is using Data Commons MCP Server with the free ONE Data Agent, a powerful new tool for advocates shaping policy and driving change."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google AI Pro and Ultra subscribers now get Gemini CLI and Gemini Code Assist with higher limits.",
+            "link": "https://blog.google/technology/developers/gemini-cli-code-assist-higher-limits/",
+            "site_name": "Google",
+            "novelty_hash": "389b4e8a052ef28d2438bb7721d602934f9467d6"
+          },
+          "review": {
+            "headline_rewrite": "Google AI Pro and Ultra subscribers now get Gemini CLI and Gemini Code Assist with higher limits.",
+            "bullets": [
+              "Good news for your development workflows: starting today, we’re giving all Google AI Pro and Ultra subscribers Gemini CLI and Gemini Code Assist with a higher model request limits 1 .",
+              "In case you missed it, we launched Gemini Code Assist in VS Code and IntelliJ back in May, and the open-source Gemini CLI (which puts Gemini in your terminal) in June.",
+              "If you’re not subscribed to Google AI Pro or Ultra, you can sign up today."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google makes real-world data more accessible to AI — and training pipelines will love it",
+            "link": "https://techcrunch.com/2025/09/24/google-makes-real-world-data-more-accessible-to-ai-and-training-pipelines-will-love-it/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f61bcb1c60feaae33e472ff459370d2d106217d4"
+          },
+          "review": {
+            "headline_rewrite": "Google makes real-world data more accessible to AI — and training pipelines will love it",
+            "bullets": [
+              "Google is turning its vast public data trove into a goldmine for AI with the debut of the Data Commons Model Context Protocol (MCP) Server — enabling developers, data scientists, and AI agents to access real-world statistics using natural language and better train AI systems.",
+              "Launched in 2018, Google’s Data Commons organizes public datasets from a range of sources, including government surveys, local administrative data, and statistics from global bodies such as the United Nations.",
+              "With the release of the MCP Server, this data is now accessible via natural language, allowing developers to integrate it into AI agents or applications.",
+              "AI systems are often trained on noisy, unverified web data.",
+              "As a result, companies looking to fine-tune AI systems for specific use cases often need access to large, high-quality datasets.",
+              "By publicly releasing the MCP Server for its Data Commons, Google aims to tackle both challenges."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Oracle is reportedly looking to raise $15B in corporate bond sale",
+            "link": "https://techcrunch.com/2025/09/24/oracle-is-reportedly-looking-to-raise-15b-in-corporate-bond-sale/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "918a03b073f43a6e15b05dc887bd956aab63f3fd"
+          },
+          "review": {
+            "headline_rewrite": "Oracle is reportedly looking to raise $15B in corporate bond sale",
+            "bullets": [
+              "Oracle is reportedly looking to raise funds just weeks after the company inked an historic AI infrastructure deal with OpenAI.",
+              "Cloud infrastructure giant Oracle is looking to raise $15 billion through corporate bond sales, according to reporting from Bloomberg, citing sources.",
+              "The sale could include up to seven different parts, with the potential for one said part to be an uncommon 40-year bond, Bloomberg reported.",
+              "This report comes just a few weeks after Oracle reportedly signed a sizable deal with OpenAI to supply the AI research lab with $300 billion worth of compute.",
+              "Oracle announced Monday that Safra Catz was transitioning from the company’s CEO to instead serve as the executive vice chair of Oracle’s board of directors after 11 years at the helm."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps",
+            "link": "https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature",
+            "site_name": "The Verge",
+            "novelty_hash": "91022d6e36231b3843688361ef94d5de0fb447bf"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps",
+            "bullets": [
+              "Microsoft is bringing Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 AI models to its Microsoft 365 Copilot today.",
+              "It’s a big move that expands model choice beyond just OpenAI’s range of models in Microsoft 365 Copilot, and it will allow Microsoft’s customers to access Anthropic models in Researcher and Microsoft Copilot Studio.",
+              "Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps\nMicrosoft is bringing Anthropic’s Claude Sonnet 4 and Claude Opus 4.1 to Microsoft 365 Copilot users.",
+              "“Copilot will continue to be powered by OpenAI’s latest models, and now our customers will have the flexibility to use Anthropic models too — starting in Researcher or when building agents in Microsoft Copilot Studio,” explains Charles Lamanna, president of Microsoft’s business and industry Copilot team.",
+              "“The addition of Claude Sonnet 4 and Claude Opus 4.1 advances our commitment to bring the best AI innovation from across the industry to Microsoft 365 Copilot, tuned for work and tailored to your business needs.”\nMicrosoft’s Researcher agent can now use OpenAI’s deep reasoning models or Anthropic’s Claude Opus 4.1.",
+              "Researcher users will see a “Try Claude” button at the top of the Microsoft 365 Copilot app that provides access to Opus 4.1 instead of OpenAI’s models."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
