@@ -82434,6 +82434,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:15": [
+        {
+          "item": {
+            "title": "Elon Musk’s xAI offers Grok to federal government for 42 cents",
+            "link": "https://techcrunch.com/2025/09/25/elon-musks-xai-offers-grok-to-federal-government-for-42-cents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d561ada571af64d9d3e32eb29cc4cb87e499fd08"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk’s xAI offers Grok to federal government for 42 cents",
+            "bullets": [
+              "Elon Musk’s xAI has reached an agreement with the U.S.",
+              "government’s purchasing arm to sell its AI chatbot Grok to the federal government for under a dollar, pitting it against OpenAI and Anthropic.",
+              "Under the agreement between xAI and the General Services Administration (GSA), federal agencies will be charged 42 cents to use xAI’s chatbot Grok for a year and a half.",
+              "OpenAI and Anthropic are offering their respective enterprise and government versions of ChatGPT and Claude for $1 for a year.",
+              "The steep discount for federal agencies includes access to xAI engineers to help integrate the technology.",
+              "xAI had been close to being approved as a GSA vendor earlier this year, but after Grok began generating antisemitic posts and calling itself “MechaHitler” on X, the planned partnership reportedly fell through."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search",
+            "link": "https://techcrunch.com/2025/09/25/juicebox-raises-30m-from-sequoia-to-revolutionize-hiring-with-llm-powered-search/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c52ee9b07dd7d71ecdd3d8defe57e853c1a99421"
+          },
+          "review": {
+            "headline_rewrite": "Juicebox raises $30M from Sequoia to revolutionize hiring with LLM-powered search",
+            "bullets": [
+              "David Paffenholz (pictured left) and Ishan Gupta, then just 22 and 19, realized that LLMs could find talent faster and more efficiently.",
+              "They built Juicebox, an AI-powered search engine that uses natural language to analyze professional profiles, personal websites, and other publicly available information to identify the most qualified candidates.",
+              "After attending startup accelerator Y Combinator in the summer of 2022, Paffenholz and Gupta spent a couple more years refining their product.",
+              "When their AI search engine, PeopleGPT, was ready in late 2023, it was quickly adopted by a wide range of customers, from small startups to large companies like Cogntion, Ramp, and Perplexity.",
+              "On Thursday, Juicebox announced that it had raised $36 million in total funding, including a $30 million Series A round led by Sequoia.",
+              "Sequoia partner David Cahn learned about the company while catching up with an early-stage startup founder who said that he is using Juicebox for all of his recruiting efforts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft blocks the Israeli military from some cloud and AI services",
+            "link": "https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests",
+            "site_name": "The Verge",
+            "novelty_hash": "674841e89282a955740716f13c3040eb11655b5e"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft blocks the Israeli military from some cloud and AI services",
+            "bullets": [
+              "Microsoft is blocking the Israeli military’s access to cloud and AI services that have been used in the mass surveillance of Palestinian civilians.",
+              "Microsoft vice chair and president Brad Smith announced the decision in an internal memo to employees on Thursday, after The Guardian and others reported last month that the Israeli government stored recordings and data on Azure of up to “a million calls an hour” made by Palestinians.",
+              "Microsoft blocks the Israeli military from some cloud and AI services\nThe Guardian revealed last month that Microsoft’s services were being used for mass surveillance of Palestinians.",
+              "“We therefore have informed Israel Ministry of Defense (IMOD) of Microsoft’s decision to cease and disable specified IMOD subscriptions and their services, including their use of specific cloud storage and AI services and technologies.",
+              "We have reviewed this decision with IMOD and the steps we are taking to ensure compliance with our terms of service, focused on ensuring our services are not used for mass surveillance of civilians.”\nThe block applies to “a set of services” used by a unit within the IMOD, and Smith makes it clear that Microsoft “do not provide technology to facilitate mass surveillance of civilians.” This move doesn’t affect other contracts that Microsoft holds with the Israeli government, and Smith notes it “does not impact the important work that Microsoft continues to do to protect the cybersecurity of Israel and other countries in the Middle East, including under the Abraham Accords.”\nThe Guardian reports that the Israeli military has already moved as much as 8TB data off of Azure, just days after the original reports surfaced last month.",
+              "Microsoft’s review of the use of its Azure cloud and AI technologies by the Israeli military follows reporting by The Guardian and pressure from current and former Microsoft employees."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google DeepMind unveils its first “thinking” robotics AI",
+            "link": "https://arstechnica.com/google/2025/09/google-deepmind-unveils-its-first-thinking-robotics-ai/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "aeb19ec221f83827a1a0fca18cc2f9da75178fb3"
+          },
+          "review": {
+            "headline_rewrite": "Google DeepMind unveils its first “thinking” robotics AI",
+            "bullets": [
+              "Generative AI systems that create text, images, audio, and even video are becoming commonplace.",
+              "In the same way AI models output those data types, they can also be used to output robot actions.",
+              "That's the foundation of Google DeepMind's Gemini Robotics project, which has announced a pair of new models that work together to create the first robots that \"think\" before acting.",
+              "Traditional LLMs have their own set of problems, but the introduction of simulated reasoning did significantly upgrade their capabilities, and now the same could be happening with AI robotics.",
+              "The team at DeepMind contends that generative AI is a uniquely important technology for robotics because it unlocks general functionality.",
+              "Current robots have to be trained intensively on specific tasks, and they are typically bad at doing anything else."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google DeepMind’s new AI models can search the web to help robots complete tasks",
+            "link": "https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search",
+            "site_name": "The Verge",
+            "novelty_hash": "8f4ceee7f2673e25b78a4876366596df81f1d9dc"
+          },
+          "review": {
+            "headline_rewrite": "Google DeepMind’s new AI models can search the web to help robots complete tasks",
+            "bullets": [
+              "Google DeepMind says its upgraded AI models enable robots to complete more complex tasks — and even tap into the web for help.",
+              "During a press briefing, Google DeepMind’s head of robotics, Carolina Parada, told reporters that the company’s new AI models work in tandem to allow robots to “think multiple steps ahead” before taking action in the physical world.",
+              "Google DeepMind’s new AI models can search the web to help robots complete tasks\nThe new Gemini Robotics 1.5 models enable robots to carry out multistep tasks and even learn from each other.",
+              "The system is powered by the newly launched Gemini Robotics 1.5 alongside the embodied reasoning model, Gemini Robotics-ER 1.5, which are updates to AI models that Google DeepMind introduced in March.",
+              "They can now do things like separate laundry by dark and light colors, pack a suitcase based on the current weather in London, as well as help someone sort trash, compost, and recyclables based on a web search tailored to a location’s specific requirements.",
+              "“The models up to now were able to do really well at doing one instruction at a time in a way that is very general,” Parada said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple iPhone 17 review: Sometimes boring is best",
+            "link": "https://arstechnica.com/gadgets/2025/09/review-apples-injects-just-the-right-amount-of-pro-into-the-regular-iphone-17/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c3b0e618cbc012f5d02477f0ec44a056dcdd78f5"
+          },
+          "review": {
+            "headline_rewrite": "Apple iPhone 17 review: Sometimes boring is best",
+            "bullets": [
+              "One feature that Apple has been particularly slow to move down the chain is ProMotion, the branding the company uses to refer to a screen that can refresh up to 120 times per second rather than the more typical 60 times per second.",
+              "If you jumped on the Pro train a few years back and don't want to spend that much again, this might be a good year to switch back.",
+              "The iPhone 17 has very little that we haven't seen in an iPhone before, compared to the redesigned Pro or the all-new Air."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
