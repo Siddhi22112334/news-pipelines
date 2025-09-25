@@ -35746,5 +35746,46 @@
         }
       ]
     }
+  },
+  "2025-09-26": {
+    "runs": {
+      "00:17": [
+        {
+          "item": {
+            "title": "US GDP growth revised up to 3.8% in Q2, fastest in nearly two years",
+            "link": "https://www.thehindubusinessline.com/news/world/us-gdp-growth-revised-up-to-38-in-q2-fastest-in-nearly-two-years/article70094878.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US GDP growth revised up to 3.8% in Q2, fastest in nearly two years",
+            "bullets": [
+              "economy grew faster than previously estimated in the second quarter amid strong consumer spending and business investment, though momentum appears to have ebbed against",
+              "The quickest growth pace in nearly two years reported by the Commerce Department on Thursday also reflected a sharp contraction in the trade deficit",
+              "Gross domestic product increased at an upwardly revised 3.8% annualized rate last quarter, the fastest pace since the third quarter of 2023, the Commerce",
+              "Economists polled by Reuters had expected GDP growth would be unrevised."
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Citigroup relocates 1,000 tech roles to India after China staff cuts",
+            "link": "https://www.thehindubusinessline.com/money-and-banking/citigroup-relocates-1000-tech-roles-to-india-after-china-staff-cuts/article70094851.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Citigroup relocates 1,000 tech roles to India after China staff cuts",
+            "bullets": [
+              "Citigroup Inc.",
+              "has moved close to 1,000 tech jobs to India’s business support centers following cuts to its workforce in China, according to people familiar with",
+              "The Wall Street lender shifted the jobs in phases over the past few months after it reduced staffing in China as part of a"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
