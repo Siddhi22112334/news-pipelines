@@ -83501,6 +83501,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:44": [
+        {
+          "item": {
+            "title": "‘Vietnam Puts AI at the Center of Its Economic Strategy,’ Deputy Director of the Vietnam National Innovation Center Says at NVIDIA AI Day Ho Chi Minh City",
+            "link": "https://blogs.nvidia.com/blog/ai-day-ho-chi-minh-city/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "5fc0f0c7a0fd8c3d86f348bcf0748f42a4e7fab4"
+          },
+          "review": {
+            "headline_rewrite": "‘Vietnam Puts AI at the Center of Its Economic Strategy,’ Deputy Director of the Vietnam National Innovation Center Says at NVIDIA AI Day Ho Chi Minh City",
+            "bullets": [
+              "AI is making advancements across the globe and across industries, creating impacts that will last across time.",
+              "To help foster AI innovation for everyone, everywhere, NVIDIA hosts specialized events — including AI Days — for and in different pockets of the world.",
+              "These events draw in hundreds of enthusiasts, developers, researchers and startups to explore the latest technologies making AI breakthroughs possible.",
+              "On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign AI — including 15 breakout sections on physical, agentic and generative AI, as well as AI factories that are enabling innovation at the regional, national and global scales.",
+              "Chuck Tybur, head of the NVIDIA Partner Network, gave opening remarks, highlighting the importance of sovereign AI.",
+              "He said key components for sovereign AI success include:\nHo Chi Minh City showcases “dynamic economic growth, relentless innovation and an entrepreneurial spirit,” Tybur said at the conference."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Digital Markets Act: time for a reset",
+            "link": "https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/",
+            "site_name": "Google",
+            "novelty_hash": "b54494342fedf2ae8ebb1b6d79e757e6c03b24f6"
+          },
+          "review": {
+            "headline_rewrite": "The Digital Markets Act: time for a reset",
+            "bullets": [
+              "This week we detailed these impacts in our response to the European Commission’s consultation on this new law and provided our thoughts on how to improve it.",
+              "The DMA requires Google Search to stop showing useful travel results that link directly to airline and hotel sites, and instead show links to intermediary websites that charge for inclusion.",
+              "This raises prices for consumers, reduces traffic to businesses, and makes it harder for people to quickly find reliable, direct booking information.",
+              "Favoring the few\nWe remain concerned that these changes to Search are a result of the DMA prioritizing the commercial interests of a small set of intermediary sites — who often shout the loudest in these debates — over the ability of most businesses to sell directly to their customers.",
+              "Beyond Search, the DMA is making it difficult to protect users from scams and malicious links on Android by forcing us to remove our legitimate safeguards that protect users’ security and safety.",
+              "Competitiveness needs clarity\nThe DMA’s biggest challenge remains: How do we boost innovation and deliver cutting-edge products to Europe while navigating complex and untested new rules?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts",
+            "link": "https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "feec7303d310a1016c4ea643ab54b30f21a4c43b"
+          },
+          "review": {
+            "headline_rewrite": "Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts",
+            "bullets": [
+              "A viral app called Neon, which offers to record your phone calls and pay you for the audio so it can sell that data to AI companies, has rapidly risen to the ranks of the top-five free iPhone apps since its launch last week.",
+              "Neon pitches itself as a way for users to make by providing call recordings that help train, improve, and test AI models.",
+              "But now Neon has gone offline, at least for now, after a security flaw allowed anyone to access the phone numbers, call recordings, and transcripts of any other user, TechCrunch can now report.",
+              "TechCrunch discovered the security flaw during a short test of the app on Thursday.",
+              "Kiam told TechCrunch later Thursday that he took down the app’s servers and began notifying users about pausing the app, but fell short of informing his users about the security lapse.",
+              "But our network analysis tool revealed details that were not visible to regular users in the Neon app."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance",
+            "link": "https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8482a8125f262124233dae5d25dc6b572b732361"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance",
+            "bullets": [
+              "The tech giant announced on Thursday that it made the decision to “cease and disable” certain subscriptions from the Israeli military.",
+              "This affects subscriptions to Azure cloud storage and certain AI services.",
+              "“We do not provide technology to facilitate mass surveillance of civilians,” Microsoft vice chair and president Brad Smith wrote in a blog post.",
+              "This is why we explained publicly on August 15 that Microsoft’s standard terms of service prohibit the use of our technology for mass surveillance of civilians.”\nMicrosoft informed Israel of its decision last week, according to The Guardian.",
+              "The investigation was sparked by a story in The Guardian that reported that Unit 8200, the elite Israel military intelligence unit, was using Azure cloud storage to house data on phone calls obtained through the surveillance of Palestinians in Gaza and the West Bank.",
+              "In his blog post, Smith also said the company appreciated The Guardian’s initial reporting."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers",
+            "link": "https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency",
+            "site_name": "The Verge",
+            "novelty_hash": "d7d371d62455d9b9d73a75665a1618019707ba33"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft says this new cooling method could enable more powerful chips and efficient data centers",
+            "bullets": [
+              "Microsoft is making advances with a new way to cool microchips that it says could lead to more energy-efficient data centers in the future.",
+              "Microsoft says this new cooling method could enable more powerful chips and efficient data centers\nFiguring out how to keep a chip cool is one of the biggest challenges to designing a more powerful and sustainable chip.",
+              "It could also lead to more powerful chips that current cooling systems would struggle to keep from overheating.",
+              "It could lead to more powerful chips that current cooling systems would struggle to keep from overheating\nCompared to data centers of yore, the next generation being built to train and run new AI models house more powerful chips.",
+              "Not only do those GPUs use a lot of energy, they also get very hot.",
+              "Typically, a data center might use fans to pass cool air over a chip."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT Pulse delivers morning updates based on your chat history",
+            "link": "https://arstechnica.com/ai/2025/09/chatgpt-pulse-delivers-morning-updates-based-on-your-chat-history/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "905e706e371cc2f262df3a937bf9efc83254bde0"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT Pulse delivers morning updates based on your chat history",
+            "bullets": [
+              "On Thursday, OpenAI announced ChatGPT Pulse, a new \"push\" feature that generates personalized daily updates for users without having to ask each time.",
+              "The preview feature, available now for Pro subscribers on mobile, marks OpenAI's latest attempt to make ChatGPT proactive rather than reactive, with the AI model conducting overnight research to deliver morning updates based on user history and connected apps.",
+              "OpenAI calls it \"personalized research and timely updates that appear regularly to keep you informed.\"\nChatGPT Pulse works by analyzing a user's chat history, saved preferences, and optional connections to Gmail and Google Calendar each night.",
+              "The next morning, users receive visual \"cards\" (small illustrated squares with topic summaries that can be expanded for detail) containing updates on topics the model determines are relevant, such as project follow-ups, dinner suggestions, or travel recommendations.",
+              "OpenAI says that rather than waiting for users to initiate conversations, ChatGPT now attempts to deliver information preemptively using what OpenAI calls \"asynchronous research,\" essentially having the model generate queries and responses overnight using traditional methods.",
+              "Updates appear once daily and disappear after 24 hours unless users save them or ask follow-up questions, which converts them into standard chat conversations."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
