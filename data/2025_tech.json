@@ -82312,6 +82312,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:50": [
+        {
+          "item": {
+            "title": "Elon Musk’s xAI offers Grok to federal government for 42 cents",
+            "link": "https://techcrunch.com/2025/09/25/elon-musks-xai-offers-grok-to-federal-government-for-42-cents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d561ada571af64d9d3e32eb29cc4cb87e499fd08"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk’s xAI offers Grok to federal government for 42 cents",
+            "bullets": [
+              "Elon Musk’s xAI has reached an agreement with the U.S.",
+              "government’s purchasing arm to sell its AI chatbot Grok to the federal government for under a dollar, pitting it against OpenAI and Anthropic.",
+              "Under the agreement between xAI and the General Services Administration (GSA), federal agencies will be charged 42 cents to use xAI’s chatbot Grok for a year and a half.",
+              "OpenAI and Anthropic are offering their respective enterprise and government versions of ChatGPT and Claude for $1 for a year.",
+              "The steep discount for federal agencies includes access to xAI engineers to help integrate the technology.",
+              "xAI had been close to being approved as a GSA vendor earlier this year, but after Grok began generating antisemitic posts and calling itself “MechaHitler” on X, the planned partnership reportedly fell through."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI says GPT-5 stacks up to humans in a wide range of jobs",
+            "link": "https://techcrunch.com/2025/09/25/openai-says-gpt-5-stacks-up-to-humans-in-a-wide-range-of-jobs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2b500535088846b9e34975c14a701b455550717f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI says GPT-5 stacks up to humans in a wide range of jobs",
+            "bullets": [
+              "OpenAI released a new benchmark on Thursday that tests how its AI models perform compared to human professionals across a wide range of industries and jobs.",
+              "The test, GDPval, is an early attempt at understanding how close OpenAI’s systems are to outperforming humans at economically valuable work — a key part of the company’s founding mission to develop artificial general intelligence or AGI.",
+              "OpenAI says its found that its GPT-5 model and Anthropic’s Claude Opus 4.1 “are already approaching the quality of work produced by industry experts.”\nThat’s not to say that OpenAI’s models are going to start replacing humans in their jobs immediately.",
+              "Despite some CEOs’ predictions that AI will take the jobs of humans in just a few years, OpenAI admits that GDPval today covers a very limited number of tasks people do in their real jobs.",
+              "However, it is one of the latest ways the company is measuring AI’s progress towards this milestone.",
+              "GDPval is based on nine industries that contribute the most to America’s gross domestic product, including domains such as healthcare, finance, manufacturing, and government."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft blocks the Israeli military from some cloud and AI services",
+            "link": "https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests",
+            "site_name": "The Verge",
+            "novelty_hash": "997b49aef3d887fd5518eefe7aca53c5a0bc7a45"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft blocks the Israeli military from some cloud and AI services",
+            "bullets": [
+              "Microsoft is blocking the Israeli military’s access to cloud and AI services that have been used in the mass surveillance of Palestinian civilians.",
+              "Microsoft vice chair and president Brad Smith announced the decision in an internal memo to employees on Thursday, after The Guardian and others reported last month that the Israeli government stored recordings and data on Azure of up to “a million calls an hour” made by Palestinians.",
+              "Microsoft blocks the Israeli military from some cloud and AI services\nThe Guardian revealed last month that Microsoft’s services were being used for mass surveillance of Palestinians.",
+              "“We therefore have informed Israel Ministry of Defense (IMOD) of Microsoft’s decision to cease and disable specified IMOD subscriptions and their services, including their use of specific cloud storage and AI services and technologies.",
+              "We have reviewed this decision with IMOD and the steps we are taking to ensure compliance with our terms of service, focused on ensuring our services are not used for mass surveillance of civilians.”\nThe block applies to “a set of services” used by a unit within the IMOD, and Smith makes it clear that Microsoft “do not provide technology to facilitate mass surveillance of civilians.” This move doesn’t affect other contracts that Microsoft holds with the Israeli government, and Smith notes it “does not impact the important work that Microsoft continues to do to protect the cybersecurity of Israel and other countries in the Middle East, including under the Abraham Accords.”\nThe Guardian reports that the Israeli military has already moved as much as 8TB data off of Azure, just days after the original reports surfaced last month.",
+              "Microsoft’s review of the use of its Azure cloud and AI technologies by the Israeli military follows reporting by The Guardian and pressure from current and former Microsoft employees."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google DeepMind’s new AI models can search the web to help robots complete tasks",
+            "link": "https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search",
+            "site_name": "The Verge",
+            "novelty_hash": "8f4ceee7f2673e25b78a4876366596df81f1d9dc"
+          },
+          "review": {
+            "headline_rewrite": "Google DeepMind’s new AI models can search the web to help robots complete tasks",
+            "bullets": [
+              "Google DeepMind says its upgraded AI models enable robots to complete more complex tasks — and even tap into the web for help.",
+              "During a press briefing, Google DeepMind’s head of robotics, Carolina Parada, told reporters that the company’s new AI models work in tandem to allow robots to “think multiple steps ahead” before taking action in the physical world.",
+              "Google DeepMind’s new AI models can search the web to help robots complete tasks\nThe new Gemini Robotics 1.5 models enable robots to carry out multistep tasks and even learn from each other.",
+              "The system is powered by the newly launched Gemini Robotics 1.5 alongside the embodied reasoning model, Gemini Robotics-ER 1.5, which are updates to AI models that Google DeepMind introduced in March.",
+              "They can now do things like separate laundry by dark and light colors, pack a suitcase based on the current weather in London, as well as help someone sort trash, compost, and recyclables based on a web search tailored to a location’s specific requirements.",
+              "“The models up to now were able to do really well at doing one instruction at a time in a way that is very general,” Parada said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "xAI accuses OpenAI of stealing its trade secrets in new lawsuit",
+            "link": "https://www.engadget.com/ai/xai-accuses-openai-of-stealing-its-trade-secrets-in-new-lawsuit-152926944.html",
+            "site_name": "Engadget",
+            "novelty_hash": "06670f2d116a906e150d7fcb9c2f2e2252d6beb0"
+          },
+          "review": {
+            "headline_rewrite": "xAI accuses OpenAI of stealing its trade secrets in new lawsuit",
+            "bullets": [
+              "Elon Musk's xAI is suing OpenAI, alleging that the ChatGPT maker has stolen its trade secrets.",
+              "The lawsuit comes after the company recently sued a former employee, Xuechen Li, for allegedly stealing confidential information from the company before taking a job at OpenAI.",
+              "In its latest lawsuit, which was reported by Sherwood, xAI says that Li's alleged actions are part of \"a broader and deeply troubling pattern of trade secret misappropriation, unfair competition, and intentional interference with economic relationships by OpenAI.\" According to xAI's lawyers, OpenAI also hired two other xAI employees who stole proprietary information from Musk's company.",
+              "\"Another early xAI engineer—Jimmy Fraiture—was also harvesting xAI’s source code and airdropping it to his personal devices to take to OpenAI, where he now works,\" the lawsuit states.",
+              "\"Meanwhile, a senior finance executive brought another piece of the puzzle to OpenAI—xAI’s 'secret sauce' of rapid data center deployment—with no intention to abide by his legal obligations to xAI.\"\nOpenAI didn't immediately respond to a request for comment on the lawsuit.",
+              "Musk, of course, has a complicated history with the ChatGPT maker, and this isn't the first time his rival AI company has sued OpenAI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best October Prime Day deals to get today: Early sales on tech from Apple, Roku, Shark, Anker and more",
+            "link": "https://www.engadget.com/deals/the-best-october-prime-day-deals-to-get-today-early-sales-on-tech-from-apple-roku-shark-anker-and-more-050801467.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f197b6bc9106b586a96018da3aecdee127dd0750"
+          },
+          "review": {
+            "headline_rewrite": "The best October Prime Day deals to get today: Early sales on tech from Apple, Roku, Shark, Anker and more",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Most discounts will be exclusively available to Prime subscribers, but there are always a few that anyone shopping on Amazon can grab.",
+              "Best Prime Day deals: Engadget's top picks\nApple MagSafe charger (25W, 2m) for $35 (30 percent off): The latest version of Apple's MagSafe puck is Qi2.2-certified and supports up to 25W of wireless power when paired with a 30W adapter.",
+              "Apple iPad (A16) for $299 ($50 off): The new base-model iPad now comes with twice the storage of the previous model and the A16 chip.",
+              "Not only does it come with an M4 chipset, but it also includes 16GB of RAM in the base model, plus front-facing USB-C and headphone ports for easier access.",
+              "Apple iPad Air (11-inch, M3) for $449 ($150 off): The only major difference between the latest iPad Air and the previous generation is the addition of the faster M3 chip."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
