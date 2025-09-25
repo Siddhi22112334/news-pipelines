@@ -84083,6 +84083,122 @@
             "impact": "Positive"
           }
         }
+      ],
+      "05:06": [
+        {
+          "item": {
+            "title": "Meta launches ‘Vibes,’ a short-form video feed of AI slop",
+            "link": "https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "13a57b137198b3d55c1e9c59a204783e6976b444"
+          },
+          "review": {
+            "headline_rewrite": "Meta launches ‘Vibes,’ a short-form video feed of AI slop",
+            "bullets": [
+              "In a move no one asked for, Meta is introducing “Vibes,” a new feed in the Meta AI app and on meta.ai for sharing and creating short-form, AI-generated videos.",
+              "Think TikTok or Instagram Reels, but every single video you come across is essentially AI slop.",
+              "Meta CEO Mark Zuckerberg announced the rollout of Vibes in a post on Instagram that features a series of AI-generated videos.",
+              "According to Meta, as you browse the new feed, you’ll see AI-generated videos from both creators and other users.",
+              "Meta’s chief AI officer Alexandr Wang shared in a post that the company has partnered with AI image generators Midjourney and Black Forest Labs for the early version of Vibes, while Meta continues developing its own AI models.",
+              "Since no one really wants an AI-generated version of TikTok, the user comments in response to Zuckerberg’s announcement were about what you’d expect."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "82b058c143d715cec6fb1b6577ad96f5ad4100f3"
+          },
+          "review": {
+            "headline_rewrite": "Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025",
+            "bullets": [
+              "At TechCrunch Disrupt 2025, happening October 27–29 at Moscone West in San Francisco, Box CEO and co-founder Aaron Levie takes the Disrupt Stage for a candid conversation on what invention really looks like inside a public company, what AI is changing (and not changing) in enterprise software, and why staying sharp means questioning everything — even your own best ideas.",
+              "The evolution of a cloud original\nBox launched before “the cloud” was a buzzword and outlasted a wave of competitors that couldn’t scale or adapt.",
+              "Why you don’t want to miss it\nAaron Levie helped define cloud collaboration before it was a trend, and he’s still setting the bar.",
+              "This fireside chat will go deep on what it takes to build something that lasts — not just in terms of product, but also culture, strategy, and mindset."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Senate staff probes DOGE, finds locked doors and windows covered with trash bags",
+            "link": "https://arstechnica.com/tech-policy/2025/09/senate-staff-probes-doge-finds-locked-doors-and-windows-covered-with-trash-bags/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "dfc7a985ae2703cf17e71beff2c274cf1687134e"
+          },
+          "review": {
+            "headline_rewrite": "Senate staff probes DOGE, finds locked doors and windows covered with trash bags",
+            "bullets": [
+              "Multiple whistleblowers alleged that DOGE uploaded a highly sensitive Social Security Administration (SSA) database to an unmonitored cloud environment, according to a report by Senate Democratic staff.",
+              "The staff report describes an investigation into DOGE activities at three agencies, including a site visit at the General Services Administration (GSA) in which DOGE officials appeared to be hiding certain areas from view.",
+              "As we reported last month, then-SSA Chief Data Officer Chuck Borges alleged that DOGE officials created \"a live copy of the country's Social Security information in a cloud environment that circumvents oversight.\" At least one other whistleblower has apparently made the same allegation.",
+              "Whistleblowers, including Borges, alleged \"that Edward Coristine, the 19-year-old DOGE staffer who was previously fired from a job for leaking company data to a competitor, and other DOGE personnel had been granted permission to move highly sensitive SSA data into an unmonitored cloud environment,\" the Senate Democratic report said.",
+              "\"The whistleblowers said that DOGE has uploaded a live copy of NUMIDENT, which contains highly sensitive personal data on anyone who has held a social security number, including every American.",
+              "This includes social security numbers (SSNs), place and date of birth, work permit status, and parents' names, among other sensitive personal information, for all Americans, to a cloud environment.\"\nSSA Chief Information Officers Michael Russo and Aram Moghaddassi, who are described as \"DOGE-affiliated,\" allegedly \"granted approval for the data move despite a June 12, 2025 internal risk assessment flagging a high level of risk and potentially catastrophic impact to SSA beneficiaries and SSA programs absent additional controls to safeguard against unauthorized access,\" the report said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sierra’s Dream Chaser is starting to resemble a nightmare",
+            "link": "https://arstechnica.com/space/2025/09/sierras-dream-chaser-is-starting-to-resemble-a-nightmare/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a3064eff6d29e775dab031da42db0edaef13bfec"
+          },
+          "review": {
+            "headline_rewrite": "Sierra’s Dream Chaser is starting to resemble a nightmare",
+            "bullets": [
+              "On Thursday, NASA, confirming an earlier Ars Technica report, said the first flight of the winged spacecraft will no longer berth with the International Space Station.",
+              "Rather, the space agency said, the Dream Chaser program would be \"best served\" by a free flight demonstration.",
+              "\"Development of new space transportation systems is difficult and can take longer than what’s originally planned,\" said Dana Weigel, manager of NASA's International Space Station Program, in a news release."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Call-recording app Neon goes offline after security flaw uncovered",
+            "link": "https://www.engadget.com/call-recording-app-neon-goes-offline-after-security-flaw-uncovered-223425297.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a752b76da5b05ccecd1d68656476c19a6d7dc7d9"
+          },
+          "review": {
+            "headline_rewrite": "Call-recording app Neon goes offline after security flaw uncovered",
+            "bullets": [
+              "Neon is an call-recording app that pays users for access to the audio, which the app in turn sells to AI companies for training their models.",
+              "Since its launch last week, it quickly rose in popularity, but the service was taken offline today.",
+              "TechCrunch reported that it found a security flaw that allowed any logged-in user to access other accounts' phone numbers, the phone numbers called, call recordings and transcripts.",
+              "TechCrunch said that it contacted Neon founder Alex Kiam about the issue.",
+              "\"Kiam told TechCrunch later Thursday that he took down the app’s servers and began notifying users about pausing the app, but fell short of informing his users about the security lapse,\" the publication reported.",
+              "Neon does not appear to have a timeline about if or when the service will resume or what additional security protections it may add."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Bowser is leaving Nintendo of America",
+            "link": "https://www.engadget.com/gaming/nintendo/bowser-is-leaving-nintendo-of-america-221650389.html",
+            "site_name": "Engadget",
+            "novelty_hash": "8ed4a2e5746f39d2acea8297e1aec2920c79f88b"
+          },
+          "review": {
+            "headline_rewrite": "Bowser is leaving Nintendo of America",
+            "bullets": [
+              "Bowser first joined Nintendo in 2015 as Vice President of Sales and Marketing, before replacing long-time President Reggie Fils-Aimé in 2019.",
+              "Movie and a successful console launch with the release of the Switch 2 earlier this year.",
+              "Bowser also weathered his fair share of controversies, including reports that Nintendo of America was failing to address issues of gender discrimination among its employees.",
+              "\"Leading Nintendo of America has been the honor of a lifetime, and I am proud of what our team has accomplished in both business results and the experiences we’ve created for consumers,\" Bowser said in a statement.",
+              "“She is an exceptional leader, and her promotion is a testament to her strong performance and strategic contributions to the company’s growth.\"\nAccording to Nintendo, \"Pritchard plans to build on the many experiences that allow consumers to connect with Nintendo's characters and worlds, from video games to entertainment to retail experiences.\" The company might be too big and successful now to feature someone with as much personality as Fils-Aimé, but if Pritchard plans to stick with business-as-usual, maybe Shibata could become the public face Nintendo has been missing."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
