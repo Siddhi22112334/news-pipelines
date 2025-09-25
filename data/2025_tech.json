@@ -83855,6 +83855,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:08": [
+        {
+          "item": {
+            "title": "‘Vietnam Puts AI at the Center of Its Economic Strategy,’ Deputy Director of the Vietnam National Innovation Center Says at NVIDIA AI Day Ho Chi Minh City",
+            "link": "https://blogs.nvidia.com/blog/ai-day-ho-chi-minh-city/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "5fc0f0c7a0fd8c3d86f348bcf0748f42a4e7fab4"
+          },
+          "review": {
+            "headline_rewrite": "‘Vietnam Puts AI at the Center of Its Economic Strategy,’ Deputy Director of the Vietnam National Innovation Center Says at NVIDIA AI Day Ho Chi Minh City",
+            "bullets": [
+              "AI is making advancements across the globe and across industries, creating impacts that will last across time.",
+              "To help foster AI innovation for everyone, everywhere, NVIDIA hosts specialized events — including AI Days — for and in different pockets of the world.",
+              "These events draw in hundreds of enthusiasts, developers, researchers and startups to explore the latest technologies making AI breakthroughs possible.",
+              "On Tuesday, more than 800 attendees joined NVIDIA AI Day Ho Chi Minh City to learn about sovereign AI — including 15 breakout sections on physical, agentic and generative AI, as well as AI factories that are enabling innovation at the regional, national and global scales.",
+              "Chuck Tybur, head of the NVIDIA Partner Network, gave opening remarks, highlighting the importance of sovereign AI.",
+              "He said key components for sovereign AI success include:\nHo Chi Minh City showcases “dynamic economic growth, relentless innovation and an entrepreneurial spirit,” Tybur said at the conference."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta launches ‘Vibes,’ a short-form video feed of AI slop",
+            "link": "https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "14ab22917948a52916d8db7af237918ec5dbb7a4"
+          },
+          "review": {
+            "headline_rewrite": "Meta launches ‘Vibes,’ a short-form video feed of AI slop",
+            "bullets": [
+              "In a move no one asked for, Meta is introducing “Vibes,” a new feed in the Meta AI app and on meta.ai for sharing and creating short-form, AI-generated videos.",
+              "Think TikTok or Instagram Reels, but every single video you come across is essentially AI slop.",
+              "Meta CEO Mark Zuckerberg announced the rollout of Vibes in a post on Instagram that features a series of AI-generated videos.",
+              "According to Meta, as you browse the new feed, you’ll see AI-generated videos from both creators and other users.",
+              "Meta’s chief AI officer Alexandr Wang shared in a post that the company has partnered with AI image generators Midjourney and Black Forest Labs for the early version of Vibes, while Meta continues developing its own AI models.",
+              "Since no one really wants an AI-generated version of TikTok, the user comments in response to Zuckerberg’s announcement were about what you’d expect."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts",
+            "link": "https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3fb826f547cc562c5846387c83b582449a0006be"
+          },
+          "review": {
+            "headline_rewrite": "Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts",
+            "bullets": [
+              "A viral app called Neon, which offers to record your phone calls and pay you for the audio so it can sell that data to AI companies, has rapidly risen to the ranks of the top-five free iPhone apps since its launch last week.",
+              "Neon pitches itself as a way for users to make money by providing call recordings that help train, improve, and test AI models.",
+              "But Neon has gone offline, at least for now, after a security flaw allowed anyone to access the phone numbers, call recordings, and transcripts of any other user, TechCrunch can now report.",
+              "TechCrunch discovered the security flaw during a short test of the app on Thursday.",
+              "Kiam told TechCrunch later Thursday that he took down the app’s servers and began notifying users about pausing the app, but fell short of informing his users about the security lapse.",
+              "But our network analysis tool revealed details that were not visible to regular users in the Neon app."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon Fire TV devices expected to ditch Android for Linux in 2025",
+            "link": "https://arstechnica.com/gadgets/2025/09/amazon-fire-tv-devices-expected-to-ditch-android-for-linux-in-2025/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "347c6312a4efa7c31a8d3c2dfa8709b45f0e5002"
+          },
+          "review": {
+            "headline_rewrite": "Amazon Fire TV devices expected to ditch Android for Linux in 2025",
+            "bullets": [
+              "The current Echo Hub smart home control panel, Echo Show 5 (3rd Gen) smart home display, and Echo Spot smart speaker all run an OS based on the Linux 5.16 kernel, per details in Amazon’s source code notice for Alexa devices.",
+              "The team is responsible for the dedicated Prime Video app on Vega OS, as well as all [Prime Video] experiences on the Vega Launcher.",
+              "With the app launching in 2025, you will get to shape the future of this product as well as the culture of the team."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia is letting anyone use its AI voice animation tech",
+            "link": "https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source",
+            "site_name": "The Verge",
+            "novelty_hash": "43cba994b3a14ad008686a610e5cb5dc60f627a8"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia is letting anyone use its AI voice animation tech",
+            "bullets": [
+              "Nvidia is open-sourcing Audio2Face, its AI-powered tool that generates realistic facial animations for 3D avatars — all based on audio input.",
+              "Nvidia is letting anyone use its AI voice animation tech\nNvidia is open sourcing Audio2Face, its AI tool that generates facial animations for 3D avatars based on audio input.",
+              "In addition to open sourcing the Audio2Face models and software development kits, Nvidia is making the tool’s training frame available, allowing users to tweak its models for different use cases."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Silicon Valley’s latest argument against regulating AI: that would literally be the Antichrist",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation",
+            "site_name": "The Verge",
+            "novelty_hash": "666fa45720c816d8145bf2b06bec7d5b1e3b2e5d"
+          },
+          "review": {
+            "headline_rewrite": "Silicon Valley’s latest argument against regulating AI: that would literally be the Antichrist",
+            "bullets": [
+              "In a four-part series of religious lectures in San Francisco, Peter Thiel — yes, that Peter Thiel — has argued that the End Times are nigh and that a biblical Antichrist — yes, that Antichrist — will come to Earth in the form of onerous government regulations placed on science, technology, and AI.",
+              "Silicon Valley’s latest argument against regulating AI: that would literally be the Antichrist\nThis is a real thing Peter Thiel told a group of tech professionals recently.",
+              "These are, incidentally, areas where the tech billionaire, venture capitalist, and cofounder of Palantir has a vested financial interest.",
+              "“There still is a natural way where if things go wrong in the US, it would be the fulfillment of [Franklin D.",
+              "Roosevelt’s] vision of the New Dealers running the world,” said Thiel.",
+              "The president of the United States maybe is the katechon [or] maybe it’s a type of Antichrist, but presidential elections matter.” (Incidentally, Thiel has been a staunch political and financial supporter of both President Donald Trump and Vice President JD Vance, a former employee at Thiel’s venture capital firm.)\nExistential risks will present themselves in the form of nuclear war, environmental disaster, dangerously engineered bioweapons and even autonomous killer robots guided by AI."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
