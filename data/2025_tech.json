@@ -81232,6 +81232,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "16:44": [
+        {
+          "item": {
+            "title": "Apple warns of more feature delays in Europe",
+            "link": "https://www.theverge.com/news/785515/apple-eu-dma-complaint-interoperability-feature-delays",
+            "site_name": "The Verge",
+            "novelty_hash": "23a67b34834d9b2a3a02965e371cc38102341fd0"
+          },
+          "review": {
+            "headline_rewrite": "Apple warns of more feature delays in Europe",
+            "bullets": [
+              "Apple says it’s having to delay bringing some product features to Europe because it’s struggling to make them compliant with the EU’s Digital Markets Act (DMA).",
+              "In a statement published on Wednesday, Apple said that DMA rules have created “more complexity and more risks for our EU users,” blaming the obligation to open Apple features to third-party devices for the delays.",
+              "Features impacted include AI-powered Live Translation for AirPods, iPhone Mirroring, and Visited Places and Preferred Routes on Apple Maps.",
+              "While interoperability requirements under the DMA specify that companies make proprietary apps and device features available on third-party hardware, Apple says it hasn’t found a way to make these features available on non-Apple devices without compromising users’ data security and privacy.",
+              "DMA requirements to make it easier to pair, transfer data, and display notifications between iPhones and third-party devices are bearing some fruit, however.",
+              "The beta also includes references to a feature that will make it easier to pair iPhones with third-party accessories."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Uber Eats is offering grocery discounts to combat ‘veggie-flation’",
+            "link": "https://www.theverge.com/transportation/784953/uber-eats-fresh-day-grocery-discount-price",
+            "site_name": "The Verge",
+            "novelty_hash": "8076c9c870cfcf1ec362b2459aafc77f343803cb"
+          },
+          "review": {
+            "headline_rewrite": "Uber Eats is offering grocery discounts to combat ‘veggie-flation’",
+            "bullets": [
+              "Uber is launching a new discount program aimed at fighting against rising produce prices.",
+              "The company is launching a new feature called “Fresh Days,” in which customers will receive discounts of up to 50 percent on “local fruits, vegetables, meats, and dairy.” The exact day and discount amount will vary from market to market, but Uber plans on launching the new feature in the US, Canada, the UK, South Africa, France, Japan, Taiwan, and Spain — with more countries to follow.",
+              "This “veggie-flation” comes as farmers and growers face increasing costs of their own, with the USDA estimating that farm production expenses will reach $467 billion in 2025, up 2.6 percent from the previous year and more than 36 percent higher than in 2018.",
+              "The company is offering its steepest discounts to its Uber One subscribers; for example, an Uber One member in the US could get an exclusive 30 percent off every Tuesday on select fresh produce, meats, dairy, and eggs.",
+              "Uber Eats is also rolling out a number of other updates, including an new AI-powered replacement suggestion tool in case the item you ordered isn’t in stock.",
+              "Most Popular\n- Google’s Android for PC: ‘I’ve seen it, it is incredible’\n- Logitech’s new light-powered keyboard doesn’t even need the sun\n- PlayStation State of Play September 2025: all the news and trailers\n- Samsung now owns Denon, Bowers & Wilkins, Marantz, Polk, and more audio brands\n- Google’s Mixboard is an AI moodboard builder"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google's Conversational Photo Editor Is the Rare AI Feature People Will Actually Use",
+            "link": "https://www.wired.com/story/google-photos-conversational-photo-editor/",
+            "site_name": "WIRED",
+            "novelty_hash": "f73b940edcebfc63110473d8659d361bfe0774d6"
+          },
+          "review": {
+            "headline_rewrite": "Google's Conversational Photo Editor Is the Rare AI Feature People Will Actually Use",
+            "bullets": [
+              "The smartphone has become the playground for new AI and generative AI features.",
+              "That's what AI is supposed to do, right?",
+              "That's until I tried Google's new Ask Photos conversational editing feature in Google Photos which first debuted on the Pixel 10 phones and is now available on Android devices that can support it.",
+              "Most people have no idea how powerful the software on their phones already is, and so by being able to access all the editing tools that are available and use them to execute your desired task, this feature not only gives you the results you want in a nearly frictionless way, but it also helps you better understand what your smartphone is capable of.",
+              "It's powerful, simple, and controlled by plain English.",
+              "”AI should be making things easier to use, and this is a great example consumers will have a genuine interest in.\"\nClear signposting makes Google's photo editor more accessible."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to (Mostly) Get Rid of Liquid Glass",
+            "link": "https://www.wired.com/story/how-to-mostly-get-rid-of-liquid-glass/",
+            "site_name": "WIRED",
+            "novelty_hash": "c43989257ac24a8ea26e3736e67f6fd2d28bee25"
+          },
+          "review": {
+            "headline_rewrite": "How to (Mostly) Get Rid of Liquid Glass",
+            "bullets": [
+              "Toggle this and you'll notice right away that the menu bar is whole again.",
+              "Like I said: None of this will give you back the old, pre-Glass operating system you preferred."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Proton Mail's redesigned mobile app is built for speed",
+            "link": "https://www.engadget.com/mobile/smartphones/proton-mails-redesigned-mobile-app-is-built-for-speed-100042054.html",
+            "site_name": "Engadget",
+            "novelty_hash": "ee6e0f4db4f7f19e95f53fc721a84f7cdf187700"
+          },
+          "review": {
+            "headline_rewrite": "Proton Mail's redesigned mobile app is built for speed",
+            "bullets": [
+              "If you use Proton Mail on your phone, things are about to pick up.",
+              "The company says the new Proton Mail lets you scroll, archive and reply twice as fast as before.",
+              "A redesigned interface aims for simpler navigation, with areas like the composer button now sitting within easier reach.",
+              "Product lead Anant Vijay Singh credited the update to Proton's community and business model.",
+              "\"The new Proton Mail mobile apps reflect this feedback and show what is possible if you build an email app without the constraints imposed by trying to monetize user data, allowing for a cleaner, faster, and more private experience,\" he said.",
+              "This summer, it even joined the chatbot fracas with Lumo, which it believes can carve a niche as a more ethical AI assistant."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "b7a9251ed1833cbe71097f4e1b6cf12c128fb13e"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Sara Rodriguez brings her campaign for governor to RacineNews Showcase\nStories selected by newsroom editors\nCOLORADO NEWS\nAfternoon rundown\nSoMD Morning Headlines for 9/25/2025\nThe Herald News\nTampa Bay Times Top Stories\nBaltimore news to know\nNews from the Central Valley\nWednesday Evening Update 9-24-2025\nWednesday's news in Fairfax County\nNews\nWednesday News Roundup - Evening Edition\nLATEST CALIFORNIA NEWS\nDaily Chronicle\nNorthwest Herald\nGood News\nLatest Vermont News\nHEALTH\nA Chittenden County family court program to help parents with substance use will end as federal funding dries upLIFE & CULTURE\nFrom deep seas to far space: UVM Medical School alum chosen as one of NASA’s next astronautsLOCAL GOVERNMENT\nBurlington musician Kevin Bloom launches early bid for Chittenden County sheriffThe Evening Recap | September 24, 2025\nSan Antonio Flavor\nHalloween cocktail pop-up will again take over Three Star BarMusic Stories & Interviews\nRevamped Levitation festival taking over Austin this weekendSan Antonio Flavor\nCulinary events abound in San Antonio this autumnMountain View Voice\nSep 24 2025, 11:30 AM\nThis lesser-known tax strategy is giving some buyers an edge in competitive housing marketsSep 24 2025, 11:26 AM\nMountain View’s homeless population jumps by 56% in last two years, report findsSep 24 2025, 9:35 AM\nPalo Alto to prioritize residents for tennis court reservationsLA County Approves $30 Million Emergency Rent Relief\nLatest Boston news\nNew York City News Today\nMy Suburban Life\nHinsdale Central’s Michael Jorski fires career-best 65 to win West Suburban Silver titleMy Suburban Life\nBerwyn man accused of leading police on high-speed chase: prosecutorsMy Suburban Life\nSuburban Life football notebook: Illinois commit Will Vala takes expanded role for short-handed Downers NorthToday's Top Headlines\nPost and Courier\n2 storm tropical storm systems could impact SCPost and Courier\nThis former SC fire chief is behind Conway’s Halloween showsPost and Courier\nMount Pleasant property tax bills to be higher in 2026Wednesday's news in Arlington, Virginia\nHappening in Loudoun County\nThe Morning Rundown (Sept.",
+              "25, 2025)\nMorning Rundown\nMilitary Base Renaming\nGeorgia’s Fort Benning could get a new name again New Litigation Tactic\nGeorgia hotel pays $5M to end sex trafficking lawsuitRoadside Attraction\nAmerica’s ‘smallest church’ is a bit of a big deal on Ga.",
+              "coastWhat to know in Baton Rouge\nGJ Sentinel Headlines 9/24/25\nSparks are flying\nLeitner-Poma keeping busy as lift construction demand risingSeeking greater collaboration\nCommissioners: forests should be actively managed, not left wildContamination averted\nRifle mill tailings site work earns federal worker honorsDetroit Does\nEbony JJ Curry\nDetroit Metro Airport Nominated for USA Today 10Best AwardsBlack Information Network\nPriscilla Williams-Till, Cousin Of Emmett Till, Launches Senate BidEbony JJ Curry\nMichigan Nears Government Shutdown as Budget Deadline ApproachesNews, art & life in Fayetteville, Arkansas\nLatest headlines\nDaily News\nMorris Herald News\nOperation St.",
+              "Nick’s Christmas in July helps 17 veterans, provides $42,943 in aidMorris Herald News\nLincoln-Way East girls golf claims Southwest Suburban title: Wednesday’s Herald-News Sports RoundupMorris Herald News\nMinooka scores four goals in final 23 minutes to down Romeoville on senior nightWhat to know in New Orleans\nLatest and Local – Gillette, WY\nBerkeley news to know\nFires around Cal campus\nUC police car firebomber sentenced to 20 years in prisonImmigration enforcement\nLeaders blast ICE arrest in Alameda County courthouseNew restaurants\nRose Pizzeria team debuts Cafe BruscoSCV News from The Signal for Sept.",
+              "24, 2025\nStart the day with must-read news and opinion\nGRAND FORKS ND NEWS\nWednesday Night News\nHealth & Wellness\nMeasles cases in Georgia rise to 10, GSU student linkedDining\nSandy Springs figure skater a regular of 'Restaurant Row'Arts & Entertainment\nDirector Chris Appelhans talks 'Kpop Demon Hunters'BRAINERD MINNESOTA NEWS\nFort Worth & Tarrant County Headlines\nDallas-Fort Worth News - Sept.",
+              "24, 2025\nDaily updates from 🌈 America's LGBTQ newspaper\nFOLSOM STREET FAIR 2025:\nSF bound by community at Folsom fairPOLITICAL NOTEBOOK:\nPolitical Notebook: SF church leaders ring a toll for gun preventionGUEST OPINION:\nUS Supreme Court ruling creates a closet for some studentsUNITED STATES\nIntense lobbying campaign\nWhy Nobel experts aren't betting on Trump for the Peace PrizeExplainer\nHow a government shutdown could affect financial marketsBid to toss conviction\nSean 'Diddy' Combs due back in courtPOWELL WARNING, LITHIUM MINER DEAL\nWILLMAR MINNESOTA NEWS\nNews from Gainesville, FL\nPittsburgh Does\nMarc Morial\nTo Be Equal: Gun violence is eroding public safety, spiking our collective anxiety and threatening democracyAnthony Diala, The Conversation\nSouth African men may now take their wife’s surname – why traditional leaders are upsetWilliam Cornwell, The Conversation\nMore Americans meet criteria for high blood pressure under new guidelinesMorning Headlines, Sept."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
