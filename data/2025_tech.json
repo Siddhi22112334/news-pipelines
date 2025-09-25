@@ -83034,6 +83034,117 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "Amazon blamed AI for layoffs, then hired cheap H1-B workers, senators allege",
+            "link": "https://arstechnica.com/tech-policy/2025/09/amazon-blamed-ai-for-layoffs-then-hired-cheap-h1-b-workers-senators-allege/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ce96583fe5831ef28ae52a0dbfad4116518db516"
+          },
+          "review": {
+            "headline_rewrite": "Amazon blamed AI for layoffs, then hired cheap H1-B workers, senators allege",
+            "bullets": [
+              "Senators are demanding answers from Big Tech companies accused of \"filing thousands of H-1B skilled labor visa petitions after conducting mass layoffs of American employees.\"\nThe letters came shortly after Grassley sent a letter to Department of Homeland Security Secretary Kristi Noem requesting that DHS stop \"issuing work authorizations to student visa holders.\" According to Grassley, \"foreign student work authorizations put America at risk of technological and corporate espionage,\" in addition to allegedly \"contributing to rising unemployment rates among college-educated Americans.\"\nIf DHS refuses to stop authorizing the visas, Grassley requested a \"detailed explanation of what legal authority DHS is relying on to issue these authorizations.\" He suggested that the authorization violates a law intended to ensure that only highly skilled workers and top talents that can't be found in the US are granted visas.",
+              "Senators alleged that Amazon blamed layoffs of \"tens of thousands\" on the \"adoption of generative AI tools,\" then hired more than 10,000 foreign H-1B employees in 2025."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla asks EPA not to roll back emissions rules as Trump calls climate change a ‘con job’",
+            "link": "https://techcrunch.com/2025/09/25/tesla-asks-epa-not-to-roll-back-emissions-rules-as-trump-calls-climate-change-a-con-job/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e7a86c196edffb65ffc1c938104ce7d06c4c453c"
+          },
+          "review": {
+            "headline_rewrite": "Tesla asks EPA not to roll back emissions rules as Trump calls climate change a ‘con job’",
+            "bullets": [
+              "Tesla said that finding is “based on a robust factual and scientific record,” according to the company’s letter to the agency.",
+              "The agency’s administrator Lee Zeldin said at the time that, if passed, the rollbacks would drive “a dagger into the heart of the climate change religion.”\nTesla’s nominal mission is to “accelerate the world’s transition to sustainable energy.” But the company financially benefits from stricter environmental regulations.",
+              "(Those credits technically come from a California program that has also been a Republican target.) While Tesla is asking for the standards to be maintained, the company told the EPA it is “open to discussing mechanisms to streamline” them in order to keep them around."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Spotify denies recent accusation that it changed its terms for artists",
+            "link": "https://techcrunch.com/2025/09/25/spotify-denies-recent-accusation-that-it-changed-its-terms-for-artists/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "31b139b1efd068360eff8cf8efe7d42e5c2c445e"
+          },
+          "review": {
+            "headline_rewrite": "Spotify denies recent accusation that it changed its terms for artists",
+            "bullets": [
+              "Spotify issued a public statement this week, clarifying that these claims are false and reassuring users that these updated terms do not affect the distribution rights of artists, podcasters, creators, and authors regarding their music, shows, and audiobooks.",
+              "It’s fairly common for streaming platforms and music services to use user-generated content.",
+              "Last year, Congresswoman Rashida Tlaib and Congressman Jamaal Bowman proposed the Living Wage for Musicians Act, which aims to increase streaming royalties to one cent per stream.",
+              "Despite these concerns, Spotify asserts that its payments are improving, stating it paid out $10 billion to the music industry in 2024."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini now explains why your Sheets formula failed",
+            "link": "https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula",
+            "site_name": "The Verge",
+            "novelty_hash": "d954ae646bd84b7f318e85804d32981d5484bf8b"
+          },
+          "review": {
+            "headline_rewrite": "Gemini now explains why your Sheets formula failed",
+            "bullets": [
+              "Nine months after Google infused Gemini AI into Google Sheets, the AI system graduated from text and charts to taking on formulas.",
+              "(Even those plopped into messy wedding planning spreadsheets, I found.)\nGemini now explains why your Sheets formula failed\nGemini in Sheets can also provide step-by-step instructions on how to calculate, for example, the distance that your wedding guests have to travel.",
+              "Now, when you ask how to manipulate data, Gemini will respond with suggested formulas and step-by-step instructions about how to make the formulas work — and why the formulas fail when they do.",
+              "If multiple formulas can do the same thing, Gemini will explain the options to the user.",
+              "(Is it COUNTIF or COUNTIFS, or maybe the wild card of COUNTUNIQUE?) So, I tried Gemini’s formula capability out for my wedding guest spreadsheet, a massive jumble of names, categories, email addresses, and checkboxes that my partner and I used to attempt to keep a handle on an ever-growing list of people with whom we wanted to celebrate our big day.",
+              "I expected that the math I would need to examine my guest list would be fairly straightforward, but testing Gemini’s explanation feature on this messy spreadsheet would be the test, for me, about whether it would help my daily life."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Experts urge caution about using ChatGPT to pick stocks",
+            "link": "https://arstechnica.com/information-technology/2025/09/experts-urge-caution-about-using-chatgpt-to-pick-stocks/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "f175e6e78f8ad2dd7ffbc1da6d1e2e6a0e4ba282"
+          },
+          "review": {
+            "headline_rewrite": "Experts urge caution about using ChatGPT to pick stocks",
+            "bullets": [
+              "With AI chatbots growing in popular usage, it was only a matter of time before large numbers of people began applying them to the stock market.",
+              "In fact, at least 1 in 10 retail investors now consult ChatGPT or other AI chatbots for stock-picking advice, according to a Reuters report published Thursday.",
+              "Data from a survey by trading platform eToro of 11,000 retail investors worldwide suggests that 13 percent of individual investors already use AI tools like ChatGPT or Google's Gemini for stock selection, while about half say they would consider using these tools for portfolio decisions.",
+              "They type questions, read the AI model's analysis, and then manually decide whether to place trades through their brokers.",
+              "Reuters reports that financial products comparison website Finder asked ChatGPT in March 2023 to select stocks from high-quality businesses based on criteria like debt levels and sustained growth.",
+              "But there's a huge caveat to that kind of AI success story: US stocks sit near record highs, Reuters notes, with the S&P 500 index up 13 percent this year after surging 23 percent last year."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "A number of great chargers are already on sale ahead of October Prime Day",
+            "link": "https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal",
+            "site_name": "The Verge",
+            "novelty_hash": "a2e1a94be88fae713dd6885eee2c1488018cd062"
+          },
+          "review": {
+            "headline_rewrite": "A number of great chargers are already on sale ahead of October Prime Day",
+            "bullets": [
+              "Amazon’s October Prime Day event (also known as Prime Big Deal Days) doesn’t officially start until October 7th, but that doesn’t mean you have to wait to find a good deal on charging accessories.",
+              "Most of these products are great for keeping your smartphone, laptop, or tablet charged at a cafe, while others are made to power your small appliances while you’re out camping.",
+              "For starters, Anker’s 633 Magnetic Battery is available in multiple colors from Amazon and Anker (with code WS7DV2FSCH8D) for $39.99 ($20 off), its best price to date.",
+              "Jackery says the power station’s battery cells should retain around 70 percent of their maximum capacity after 4,000 power cycles, which is equivalent to about 10 years."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
