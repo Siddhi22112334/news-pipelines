@@ -86151,6 +86151,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:04": [
+        {
+          "item": {
+            "title": "How developers are using Apple’s local AI models with iOS 26",
+            "link": "https://techcrunch.com/2025/09/26/how-developers-are-using-apples-local-ai-models-with-ios-26/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7bc167de21cc108fcd16016eec8d42b8373aa590"
+          },
+          "review": {
+            "headline_rewrite": "How developers are using Apple’s local AI models with iOS 26",
+            "bullets": [
+              "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.",
+              "The company touted that with this framework, developers gain access to AI models without worrying about any inference cost.",
+              "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple’s local AI models.",
+              "Apple’s models are small compared with leading models from OpenAI, Anthropic, Google, or Meta.",
+              "Below are some of the first apps to tap into Apple’s AI framework.",
+              "Developer Arima Jain and Aman Jain shipped an AI story creator with the iOS 26 update."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles",
+            "link": "https://www.theverge.com/report/785828/microsoft-xbox-ally-x-pricing-next-gen-consoles-report",
+            "site_name": "The Verge",
+            "novelty_hash": "7a36d4cdcdb70024d615affe1fdf9411d0f8ec31"
+          },
+          "review": {
+            "headline_rewrite": "A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles",
+            "bullets": [
+              "When Microsoft announced the launch date of its first Asus-powered handhelds without announcing prices, I had hoped it was a sign the leaked prices were too high.",
+              "As my colleague Andrew Webster put it last week:\nEstablished wisdom used to be that buying a game console at launch was a bad idea.",
+              "It was the worst-possible version of the experience: launch consoles cost more and had fewer games, and often these consoles got not only cheaper but better over time, through revisions that made them smaller or added features.",
+              "For the current generation, though, those who bought at launch look like geniuses — video game consoles just keep getting more expensive.",
+              "They appear in the cloud, where Microsoft is trying to bring them to your phone, too, if or when Apple and Google make it easier.",
+              "But we also live in an era of nostalgia and escapism, in which people want opportunities to retreat from the chaos, tune it out, and try to return to a simpler and happier time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Sierra Space’s spaceplane faces a reinvention after NASA contract change",
+            "link": "https://techcrunch.com/2025/09/26/sierra-spaces-spaceplane-faces-a-reinvention-after-nasa-contract-change/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "57c0860daaf37f56b37524c1786acd810700e7b4"
+          },
+          "review": {
+            "headline_rewrite": "Sierra Space’s spaceplane faces a reinvention after NASA contract change",
+            "bullets": [
+              "When Sierra Space won a contract to deliver cargo to the International Space Station nearly a decade ago, the company promised a first for the commercial space market: a privately built, rapid reuse and cargo return spaceplane capable of landing on commercial runways.",
+              "NASA said it will provide “minimal support” for that test, and only afterward decide whether to order ISS resupply missions at all.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "Its executive chair Fatih Ozmen said the transition will allow Sierra to provide “unique capabilities to meet the needs of diverse mission profiles, including emerging and existential threats and national security priorities that align with our acceleration into the Defense Tech market.”\nThe free-flying demo could help Sierra showcase Dream Chaser’s flexibility — it could host different payloads and demonstrate other capabilities, without having to dock with the ISS."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Your OnePlus phone is probably at risk from a major SMS vulnerability",
+            "link": "https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184",
+            "site_name": "The Verge",
+            "novelty_hash": "453da2415b5559de1afebe63f0dfdc19689fef21"
+          },
+          "review": {
+            "headline_rewrite": "Your OnePlus phone is probably at risk from a major SMS vulnerability",
+            "bullets": [
+              "The majority of OnePlus phones in use today may be vulnerable to a security flaw that leaves SMS and MMS data exposed, and it won’t be patched until mid-October.",
+              "Security company Rapid7 was first to discover the vulnerability, which relates to changes OnePlus made to the Telephony service within Android.",
+              "While Rapid7 only tested two types of hardware — the OnePlus 8T and 10 Pro 5G — it says the flaw “affects a core component of Android,” and so is unlikely to be hardware-specific.",
+              "We acknowledge the recent disclosure of CVE-2025-10184 and have implemented a fix.",
+              "OnePlus remains committed to protecting customer data and will continue to prioritize security improvements.",
+              "Rapid7 announced the discovery on its blog on Monday this week, but OnePlus didn’t respond until Wednesday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Yamaha YH-L500A Review: Extremely Comfortable Headphones",
+            "link": "https://www.wired.com/review/yamaha-yh-l500a/",
+            "site_name": "WIRED",
+            "novelty_hash": "ab19cfcbea0d0dc63f1a069ea9db5334c4b9941e"
+          },
+          "review": {
+            "headline_rewrite": "Yamaha YH-L500A Review: Extremely Comfortable Headphones",
+            "bullets": [
+              "Yamaha has a stellar reputation for many of its audio products, especially those in the home hi-fi category.",
+              "To be fair, the L500A aren’t entirely bare-bones.",
+              "They support Google Fast Pair, Bluetooth Multipoint, and Qualcomm’s high-quality aptX Adaptive Bluetooth codec, which are all desirable (but also quite common, even on less-expensive models)."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Best Wireless Earbuds (2025): Apple, Sony, Bose, and More",
+            "link": "https://www.wired.com/gallery/best-wirefree-earbuds/",
+            "site_name": "WIRED",
+            "novelty_hash": "1ae8848a16a46097e2f8d90ca8dff2c12a769079"
+          },
+          "review": {
+            "headline_rewrite": "Best Wireless Earbuds (2025): Apple, Sony, Bose, and More",
+            "bullets": [
+              "After testing hundreds of pairs of wireless earbuds over several years, these are our favorites in a wide range of styles and prices.",
+              "These days, if a pair of earbuds connects to your phone/computer via Bluetooth and has no cord that connects the left bud to the right, we just call them wireless.",
+              "That said, this is one of the most innovative categories in tech, offering a flurry of new features from heart rate monitors to OTC hearing aid functionality, with more added in each new generation.",
+              "If you're after a clean-looking pair of headphones with fantastic vocal definition, they're worth considering.",
+              "Soundcore Space A40 for $60: While they're no longer on our main list, the Space A40 are still some of my favorite buds for the money, providing good features, clear sound, and excellent noise canceling for their price class.",
+              "Samsung Galaxy Buds 2 Pro for $100-200: The Galaxy Buds 2 Pro are getting older, but they're still among the best buds to pair with a Samsung phone."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
