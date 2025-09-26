@@ -88285,6 +88285,121 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "What’s behind the massive AI data center headlines?",
+            "link": "https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "53ed519d2e9967de3843a76e9787e84fa535fdc8"
+          },
+          "review": {
+            "headline_rewrite": "What’s behind the massive AI data center headlines?",
+            "bullets": [
+              "Silicon Valley flooded the news this week with headlines about wild AI infrastructure investments.",
+              "Nvidia said it would invest up to $100 billion in OpenAI.",
+              "Then OpenAI said it would build out five more Stargate AI data centers with Oracle and Softbank, adding gigawatts of new capacity online in the coming years.",
+              "But in aggregate, we see how Silicon Valley is moving heaven and Earth to give OpenAI enough power to train and serve future versions of ChatGPT.",
+              "This week on Equity, Anthony Ha and I (Max Zeff) go beyond the headlines to break down what’s really going on in these AI infrastructure deals.",
+              "Rather conveniently, OpenAI also gave the world a glimpse this week of a power-intensive feature it could serve more broadly if it had access to more AI data centers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
+            "link": "https://www.theverge.com/column/786759/humanoid-robots-meta",
+            "site_name": "The Verge",
+            "novelty_hash": "66d693fb0c644a55d42739ec845d0030e232adb1"
+          },
+          "review": {
+            "headline_rewrite": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
+            "bullets": [
+              "During a recent conversation at Meta’s headquarters, CTO Andrew Bosworth said he stood up a robotics “research effort” earlier this year at the direction of CEO Mark Zuckerberg.",
+              "“If you know robotics, one of the biggest problems that you have is dexterous manipulation,” he said.",
+              "“I don’t care about us being the hardware manufacturers,” he explained.",
+              "The idea, according to Bosworth, is to take the software blueprint Meta develops and let any company use it “as long as your robot meets these specs.”\nHe said that Meta’s new Superintelligence AI lab is collaborating with the robotics group to build a “world model” that can “do the software simulation required to animate a dexterous hand.” (Google DeepMind’s Demis Hassabis has also talked frequently about his goal of building a world model that brings spatial awareness to AI.) The “sensor loop doesn’t exist” for a humanoid to be able to gingerly fetch a set of keys out of a jeans pocket like a human could, Bosworth explained.",
+              "“So you have to build that data set.”\n“We wouldn’t be doing this if we didn’t have the lab, if we didn’t think we were going to be building the models that could do it,” he said, referring to the new team being led by ex-Scale CEO Alexandr Wang.",
+              "When I asked about the approach Elon Musk is taking with Optimus, Bosworth said that building humanoids won’t work in the same way that Tesla has built its self-driving platform: “They’re like, ‘Look, we’re not doing LiDAR."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "46a7978cfd66ac27f4d0b58758d0fb1dfdbcafec"
+          },
+          "review": {
+            "headline_rewrite": "Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Join Lauri Moore, partner at Bessemer Venture Partners, and David Cramer, co-founder and chief product officer at Sentry, and Zach Lloyd, founder and CEO of Warp, on the Builders Stage for a candid conversation about how developer tools are reshaping early product development.",
+              "Moore brings deep expertise in AI, infrastructure, and developer tooling from both the investor and founder perspectives.",
+              "Cramer, who launched Sentry as an open source side project in 2012 and scaled it into a platform used by over 4 million developers, offers firsthand insights into how the right tools — and hires — can accelerate product velocity without overbuilding.",
+              "Lloyd, who founded Warp to reinvent the terminal with AI-driven developer experiences, adds the perspective of a founder building for builders at the bleeding edge of coding workflows.",
+              "We’ll dig into what today’s founders actually need from their first engineering hires, what AI-enabled tooling can and can’t replace, and how the entire GTM (go-to-market) and product life cycle is adapting to this new dev world.",
+              "Whether you’re a founder, a CTO, or just curious if code is still king, this panel gets into the messy, tactical details of modern startup building."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "One of our favorite video doorbells is 47 percent off in the run-up to Prime Day",
+            "link": "https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "639e7e9ca66579bda828d021732b8c8e86159e2b"
+          },
+          "review": {
+            "headline_rewrite": "One of our favorite video doorbells is 47 percent off in the run-up to Prime Day",
+            "bullets": [
+              "One of our favorite video doorbells is 47 percent off in the run-up to Prime Day\nThe Ring Battery Doorbell Plus is once again matching its July Prime Day low.",
+              "It also retains support for color night vision, pre-recorded Quick Replies, and two-way talk, and, for $4.99 a month, you also get bonus features like package and people alerts.",
+              "Most Popular\n- OpenAI really, really wants you to start your day with ChatGPT Pulse\n- Xiaomi 17 series arrives with secondary screens and enormous batteries\n- Microsoft and Asus open Xbox Ally preorders — the X costs $999\n- It costs $895 per year to get American Express’ premium app theme\n- Microsoft forced to make Windows 10 extended security updates truly free in Europe"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Sinclair gets nothing it asked for, puts Jimmy Kimmel back on anyway",
+            "link": "https://arstechnica.com/tech-policy/2025/09/sinclair-gets-nothing-it-asked-for-puts-jimmy-kimmel-back-on-anyway/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "06a7d8737e1816a117225502b601addce05c197a"
+          },
+          "review": {
+            "headline_rewrite": "Sinclair gets nothing it asked for, puts Jimmy Kimmel back on anyway",
+            "bullets": [
+              "Conservative broadcaster Sinclair is putting Jimmy Kimmel Live!",
+              "back on the air.",
+              "In a statement today, Sinclair said it will end its preemption of the show on its ABC affiliates starting tonight, even though ABC and owner Disney haven't accepted its request for an ombudsman and other changes.",
+              "Facing the threat of lost advertising dollars, Sinclair said it \"received thoughtful feedback from viewers, advertisers, and community leaders representing a wide range of perspectives.\" Nexstar separately announced an end to its blackout of Kimmel shortly after this article published.",
+              "Sinclair said its decision to preempt Kimmel \"was independent of any government interaction or influence.\" Sinclair's preempting of Kimmel last week came just as Federal Communications Commission Chairman Brendan Carr said TV station owners that didn't preempt the show could lose their FCC licenses.",
+              "Sinclair last week said it wouldn't air Kimmel on its stations \"until formal discussions are held with ABC regarding the network's commitment to professionalism and accountability.\" Sinclair at the time praised Carr for his stance against Kimmel and urged the FCC to \"take immediate regulatory action to address control held over local broadcasters by the big national networks.\"\nSinclair also announced it would air a special in remembrance of Kirk in Kimmel's time slot, but then decided to put it on YouTube instead."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You should care more about the stabilizers in your mechanical keyboard—here’s why",
+            "link": "https://arstechnica.com/gadgets/2025/09/you-should-care-more-about-the-stabilizers-in-your-mechanical-keyboard-heres-why/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5d5d8d15e2d2201f9148b469c53017ea0fd8eee6"
+          },
+          "review": {
+            "headline_rewrite": "You should care more about the stabilizers in your mechanical keyboard—here’s why",
+            "bullets": [
+              "While most people don't spend a lot of time thinking about the keys they tap all day, mechanical keyboard enthusiasts certainly do.",
+              "Stabilizers have to adhere to certain physical measurements to properly mount on PCBs and connect to standard keycaps."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
