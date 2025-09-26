@@ -86268,6 +86268,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:55": [
+        {
+          "item": {
+            "title": "How developers are using Apple’s local AI models with iOS 26",
+            "link": "https://techcrunch.com/2025/09/26/how-developers-are-using-apples-local-ai-models-with-ios-26/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7bc167de21cc108fcd16016eec8d42b8373aa590"
+          },
+          "review": {
+            "headline_rewrite": "How developers are using Apple’s local AI models with iOS 26",
+            "bullets": [
+              "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.",
+              "The company touted that with this framework, developers gain access to AI models without worrying about any inference cost.",
+              "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple’s local AI models.",
+              "Apple’s models are small compared with leading models from OpenAI, Anthropic, Google, or Meta.",
+              "Below are some of the first apps to tap into Apple’s AI framework.",
+              "Developer Arima Jain and Aman Jain shipped an AI story creator with the iOS 26 update."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles",
+            "link": "https://www.theverge.com/report/785828/microsoft-xbox-ally-x-pricing-next-gen-consoles-report",
+            "site_name": "The Verge",
+            "novelty_hash": "7a36d4cdcdb70024d615affe1fdf9411d0f8ec31"
+          },
+          "review": {
+            "headline_rewrite": "A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles",
+            "bullets": [
+              "When Microsoft announced the launch date of its first Asus-powered handhelds without announcing prices, I had hoped it was a sign the leaked prices were too high.",
+              "As my colleague Andrew Webster put it last week:\nEstablished wisdom used to be that buying a game console at launch was a bad idea.",
+              "It was the worst-possible version of the experience: launch consoles cost more and had fewer games, and often these consoles got not only cheaper but better over time, through revisions that made them smaller or added features.",
+              "For the current generation, though, those who bought at launch look like geniuses — video game consoles just keep getting more expensive.",
+              "They appear in the cloud, where Microsoft is trying to bring them to your phone, too, if or when Apple and Google make it easier.",
+              "But we also live in an era of nostalgia and escapism, in which people want opportunities to retreat from the chaos, tune it out, and try to return to a simpler and happier time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Battery startup Moxion went bankrupt. Now its founder is back to ‘finish what we started’",
+            "link": "https://techcrunch.com/2025/09/26/battery-startup-moxion-went-bankrupt-now-its-founder-is-back-to-finish-what-we-started/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "76e1e59d8d0dc726b45dab289150f45c5806c001"
+          },
+          "review": {
+            "headline_rewrite": "Battery startup Moxion went bankrupt. Now its founder is back to ‘finish what we started’",
+            "bullets": [
+              "The portable battery startup had raised more than $110 million in a bid to replace diesel generators at festivals and construction sites, but even that wasn’t enough to get it through the valley of death.",
+              "Moxion laid off more than 400 employees and its assets were liquidated.",
+              "Anode has been operating quietly, but it is now emerging with $9 million in seed funding.",
+              "“You need a mini power plant to charge 150 vans, and that infrastructure does not exist at depots,” Behl said.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "Other companies, like Sparkcharge and Power Sonic, provide EV charging using mobile batteries, but Huelskamp claims Anode’s integrated hardware should set it apart."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Your OnePlus phone is probably at risk from a major SMS vulnerability",
+            "link": "https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184",
+            "site_name": "The Verge",
+            "novelty_hash": "453da2415b5559de1afebe63f0dfdc19689fef21"
+          },
+          "review": {
+            "headline_rewrite": "Your OnePlus phone is probably at risk from a major SMS vulnerability",
+            "bullets": [
+              "The majority of OnePlus phones in use today may be vulnerable to a security flaw that leaves SMS and MMS data exposed, and it won’t be patched until mid-October.",
+              "Security company Rapid7 was first to discover the vulnerability, which relates to changes OnePlus made to the Telephony service within Android.",
+              "While Rapid7 only tested two types of hardware — the OnePlus 8T and 10 Pro 5G — it says the flaw “affects a core component of Android,” and so is unlikely to be hardware-specific.",
+              "We acknowledge the recent disclosure of CVE-2025-10184 and have implemented a fix.",
+              "OnePlus remains committed to protecting customer data and will continue to prioritize security improvements.",
+              "Rapid7 announced the discovery on its blog on Monday this week, but OnePlus didn’t respond until Wednesday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Norton VPN review: A VPN that fails to meet Norton's standards",
+            "link": "https://www.engadget.com/cybersecurity/vpn/norton-vpn-review-a-vpn-that-fails-to-meet-nortons-standards-170037086.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f9729bbc342fec16ef1bb5ce450131cb2f4f8370"
+          },
+          "review": {
+            "headline_rewrite": "Norton VPN review: A VPN that fails to meet Norton's standards",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "For this review, I ran rigorous tests that highlighted Norton VPN's strengths (well-designed user interfaces, a verified privacy policy) along with its weaknesses (holes in its security, renewals that double the price, weak customer support).",
+              "Editor's note (9/26/25): We've overhauled our VPN coverage to provide more detailed, actionable buying advice.",
+              "- Apps are easy to use\n- IP rotation and double-hop connections\n- Verified privacy policy\n- Exposes IP address while switching servers\n- Poor customer support\n- Not all servers unblock Netflix\nTable of contents\nFindings at a glance\nUse this table as a quick reference for my test results, investigations and thoughts about Norton VPN.",
+              "For more details, jump to the relevant section using the table of contents above.",
+              "There's no wasted detail on the front page."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Best Wireless Earbuds (2025): Apple, Sony, Bose, and More",
+            "link": "https://www.wired.com/gallery/best-wirefree-earbuds/",
+            "site_name": "WIRED",
+            "novelty_hash": "1ae8848a16a46097e2f8d90ca8dff2c12a769079"
+          },
+          "review": {
+            "headline_rewrite": "Best Wireless Earbuds (2025): Apple, Sony, Bose, and More",
+            "bullets": [
+              "After testing hundreds of pairs of wireless earbuds over several years, these are our favorites in a wide range of styles and prices.",
+              "These days, if a pair of earbuds connects to your phone/computer via Bluetooth and has no cord that connects the left bud to the right, we just call them wireless.",
+              "That said, this is one of the most innovative categories in tech, offering a flurry of new features from heart rate monitors to OTC hearing aid functionality, with more added in each new generation.",
+              "If you're after a clean-looking pair of headphones with fantastic vocal definition, they're worth considering.",
+              "Soundcore Space A40 for $60: While they're no longer on our main list, the Space A40 are still some of my favorite buds for the money, providing good features, clear sound, and excellent noise canceling for their price class.",
+              "Samsung Galaxy Buds 2 Pro for $100-200: The Galaxy Buds 2 Pro are getting older, but they're still among the best buds to pair with a Samsung phone."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
