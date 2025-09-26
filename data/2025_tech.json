@@ -88400,6 +88400,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:44": [
+        {
+          "item": {
+            "title": "Microsoft Photos will soon auto-categorize your pictures",
+            "link": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
+            "site_name": "The Verge",
+            "novelty_hash": "10e695e9ef6a8c77212c62ff3b0bf846ea653f6a"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft Photos will soon auto-categorize your pictures",
+            "bullets": [
+              "An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts, screenshots, identity documents, and handwritten notes in their own folders.",
+              "Microsoft Photos will soon auto-categorize your pictures\nA test uses AI to sort your receipts, screenshots, identity documents, and notes into specific folders.",
+              "Most Popular\n- OpenAI really, really wants you to start your day with ChatGPT Pulse\n- Xiaomi 17 series arrives with secondary screens and enormous batteries\n- Microsoft and Asus open Xbox Ally preorders — the X costs $999\n- It costs $895 per year to get American Express’ premium app theme\n- Microsoft forced to make Windows 10 extended security updates truly free in Europe"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide",
+            "link": "https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air",
+            "site_name": "The Verge",
+            "novelty_hash": "7d6450bd9ac6f1a9ea54029db77c1b5689cd3c40"
+          },
+          "review": {
+            "headline_rewrite": "ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide",
+            "bullets": [
+              "Sinclair Broadcasting and Nexstar Media Group, whose stations account for about 25 percent of ABCs national audience, will air Jimmy Kimmel’s late-night talk show on their ABC affiliate stations once again.",
+              "Sinclair and Nexstar had suspended airing Kimmel’s show under pressure from FCC Chairman Brendan Carr after Disney reinstated Kimmel from a suspension earlier this week, but both companies chose to replace Jimmy Kimmel Live!",
+              "ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide\nDisney reinstated Kimmel after a suspension on Tuesday, and now Sinclair and Nexstar are bringing his show back to their ABC affiliate stations.",
+              "In a statement, Sinclair downplayed the influence of FCC Chairman Brendan Carr, who last week threatened broadcasters that aired Kimmel’s show.",
+              "The threats came after Kimmel made a joke about the alleged shooter of right-wing activist Charlie Kirk, and they were almost immediately followed by Jimmy Kimmel Live!’s removal from Sinclair and Nexstar and his suspension at ABC.",
+              "“Our decision to preempt this program was independent of any government interaction or influence,” Sinclair said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "YouTube Music is testing AI hosts that will interrupt your tunes",
+            "link": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5246cfbad52525ecdc2d308ba4de312540acdc45"
+          },
+          "review": {
+            "headline_rewrite": "YouTube Music is testing AI hosts that will interrupt your tunes",
+            "bullets": [
+              "YouTube has a new Labs program, allowing listeners to \"discover the next generation of YouTube.\" In case you were wondering, that generation is apparently all about AI.",
+              "The streaming site says Labs will offer a glimpse of the AI features it's developing for YouTube Music, and it starts with AI \"hosts\" that will chime in while you're listening to music.",
+              "The new AI music hosts are supposed to provide a richer listening experience, according to YouTube.",
+              "As you're listening to tunes, the AI will generate audio snippets similar to, but shorter than, the fake podcasts you can create in NotebookLM.",
+              "It sounds a bit like Spotify's AI DJ, but the YouTube AI doesn't create playlists like Spotify's robot.",
+              "This is still generative AI, which comes with the risk of hallucinations and low-quality slop, neither of which belongs in your music."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple AirPods Pro 3 Review: Still The Best for iOS",
+            "link": "https://www.wired.com/review/apple-airpods-pro-3/",
+            "site_name": "WIRED",
+            "novelty_hash": "13d51ccac03b9677a059bb98163f87827ebc5900"
+          },
+          "review": {
+            "headline_rewrite": "Apple AirPods Pro 3 Review: Still The Best for iOS",
+            "bullets": [
+              "Apple’s AirPods Pro are the best-selling headphones on the planet for good reason.",
+              "The AirPods Pro 3 are better than ever, with much-needed improvements, like increased battery life joining nice-to-have additions like twice the sound reduction (according to Apple), heartbeat monitoring, and software extras like real-time translation.",
+              "The third-gen AirPods Pro ever are the best sounding, easiest to use, and most life-proof buds for iOS I’ve tried.",
+              "Sure, but the AirPods Pro remain an excellent product from a brand that knows a thing or two about audio.",
+              "Small Changes\nUnless you live under a rock, you know what the AirPods Pro look like by now.",
+              "The latest white elephant trunks are just a bit smaller and easier to fit in more ears, thanks to some ungodly number of laser ear scans the brand claims to have done between the last gen and this one."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "YouTube Premium adds high-quality audio and 4x playback for iOS, Android and desktop",
+            "link": "https://www.engadget.com/entertainment/youtube/youtube-premium-adds-high-quality-audio-and-4x-playback-for-ios-android-and-desktop-212214797.html",
+            "site_name": "Engadget",
+            "novelty_hash": "e63056566bc9dcad787158532f76bc775fc926c6"
+          },
+          "review": {
+            "headline_rewrite": "YouTube Premium adds high-quality audio and 4x playback for iOS, Android and desktop",
+            "bullets": [
+              "Now those features will be available in more places.",
+              "YouTube Premium's faster playback speeds (in 0.5x increments from 1x to 4x speed) are now available on Android, iOS and the web, after initially only being available in the mobile YouTube app.",
+              "The ability to have YouTube automatically download Shorts to view offline or watch Shorts in a picture-in-picture window is now also available on both iOS and Android, after originally launching on Android.",
+              "Google says Premium's Jump Ahead feature for skipping to \"key moments\" of a video is now also available on smart TVs and game consoles.",
+              "This change applies to \"Art Tracks\" as well, which are videos of songs available on the wider YouTube platform that don't have an official music video.",
+              "The \"High\" quality option was originally only available in the YouTube Music app, but now Google says you can access it across the Android and iOS version of both YouTube Music and YouTube."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 26, 2025 Amazon Web Services CEO Matt Garman has a 'warning' for employees: \"The first and very most important thing we've got to do is...\" Amazon Web Services CEO Matt Garman has urged his staff to expedite product rollouts, particularly in AI, ahead of the Reinvent conference. This comes amid growing concerns that AWS is falling behind in the AI race, despite CEO Andy Jassy's defense of their position. Garman showcased 'Quick,' a new AI agent designed to automate tasks, signaling a strategic shift.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-web-services-ceo-matt-garman-has-a-warning-for-employees-the-first-and-very-most-important-thing-weve-got-to-do-is-/articleshow/124157568.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "37a6fa3be6121d0e759d0380d4631430ae482212"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 26, 2025 Amazon Web Services CEO Matt Garman has a 'warning' for employees: \"The first and very most important thing we've got to do is...\" Amazon Web Services CEO Matt Garman has urged his staff to expedite product rollouts, particularly in AI, ahead of the Reinvent conference. This comes amid growing concerns that AWS is falling behind in the AI race, despite CEO Andy Jassy's defense of their position. Garman showcased 'Quick,' a new AI agent designed to automate tasks, signaling a strategic shift.",
+            "bullets": [
+              "Amazon Web Services CEO Matt Garman delivered a pointed message to staff during an internal meeting, criticizing the cloud computing giant for slow product rollouts ahead of its flagship Reinvent conference in December.",
+              "The AWS chief emphasized that customers expect immediate access to announced products rather than mere pre-announcements.",
+              "\"Increasingly, we're finding that when we launch innovative new things at Reinvent it's valuable if we can actually launch them, as opposed to just pre-announce them,\" Garman said during the all-hands meeting.",
+              "Amazon faces growing AI competition pressure\nThe internal critique comes as Amazon grapples with mounting criticism over its artificial intelligence strategy.",
+              "During the company's most recent earnings call, a Morgan Stanley analyst questioned CEO\nAndy Jassy about Wall Street concerns that \"AWS is falling behind in genAI with concerns about share loss to peers.\"\nJassy defended Amazon's position in an unusually lengthy eight-minute response, arguing that AI development remains in early stages with room for multiple winners.",
+              "However, the internal pressure from Garman suggests ongoing urgency within the organization to accelerate product delivery timelines."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
