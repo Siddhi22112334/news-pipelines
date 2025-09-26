@@ -86390,6 +86390,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:13": [
+        {
+          "item": {
+            "title": "How developers are using Apple’s local AI models with iOS 26",
+            "link": "https://techcrunch.com/2025/09/26/how-developers-are-using-apples-local-ai-models-with-ios-26/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7bc167de21cc108fcd16016eec8d42b8373aa590"
+          },
+          "review": {
+            "headline_rewrite": "How developers are using Apple’s local AI models with iOS 26",
+            "bullets": [
+              "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.",
+              "The company touted that with this framework, developers gain access to AI models without worrying about any inference cost.",
+              "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple’s local AI models.",
+              "Apple’s models are small compared with leading models from OpenAI, Anthropic, Google, or Meta.",
+              "Below are some of the first apps to tap into Apple’s AI framework.",
+              "Developer Arima Jain and Aman Jain shipped an AI story creator with the iOS 26 update."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles",
+            "link": "https://www.theverge.com/report/785828/microsoft-xbox-ally-x-pricing-next-gen-consoles-report",
+            "site_name": "The Verge",
+            "novelty_hash": "aba1af871e66891fc9043a03a7c731a7089c19d1"
+          },
+          "review": {
+            "headline_rewrite": "A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles",
+            "bullets": [
+              "When Microsoft announced the launch date of its first Asus-powered handhelds without announcing prices, I had hoped it was a sign the leaked prices were too high.",
+              "As my colleague Andrew Webster put it last week:\nEstablished wisdom used to be that buying a game console at launch was a bad idea.",
+              "It was the worst-possible version of the experience: launch consoles cost more and had fewer games, and often these consoles got not only cheaper but better over time, through revisions that made them smaller or added features.",
+              "For the current generation, though, those who bought at launch look like geniuses — video game consoles just keep getting more expensive.",
+              "They appear in the cloud, where Microsoft is trying to bring them to your phone, too, if or when Apple and Google make it easier.",
+              "But we also live in an era of nostalgia and escapism, in which people want opportunities to retreat from the chaos, tune it out, and try to return to a simpler and happier time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Battery startup Moxion went bankrupt. Now its founder is back to ‘finish what we started’",
+            "link": "https://techcrunch.com/2025/09/26/battery-startup-moxion-went-bankrupt-now-its-founder-is-back-to-finish-what-we-started/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "76e1e59d8d0dc726b45dab289150f45c5806c001"
+          },
+          "review": {
+            "headline_rewrite": "Battery startup Moxion went bankrupt. Now its founder is back to ‘finish what we started’",
+            "bullets": [
+              "The portable battery startup had raised more than $110 million in a bid to replace diesel generators at festivals and construction sites, but even that wasn’t enough to get it through the valley of death.",
+              "Moxion laid off more than 400 employees and its assets were liquidated.",
+              "Anode has been operating quietly, but it is now emerging with $9 million in seed funding.",
+              "“You need a mini power plant to charge 150 vans, and that infrastructure does not exist at depots,” Behl said.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "Other companies, like Sparkcharge and Power Sonic, provide EV charging using mobile batteries, but Huelskamp claims Anode’s integrated hardware should set it apart."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Your OnePlus phone is probably at risk from a major SMS vulnerability",
+            "link": "https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184",
+            "site_name": "The Verge",
+            "novelty_hash": "aedeb18c6de9382b5936befdb30bb7e3945c2951"
+          },
+          "review": {
+            "headline_rewrite": "Your OnePlus phone is probably at risk from a major SMS vulnerability",
+            "bullets": [
+              "The majority of OnePlus phones in use today may be vulnerable to a security flaw that leaves SMS and MMS data exposed, and it won’t be patched until mid-October.",
+              "Security company Rapid7 was first to discover the vulnerability, which relates to changes OnePlus made to the Telephony service within Android.",
+              "While Rapid7 only tested two types of hardware — the OnePlus 8T and 10 Pro 5G — it says the flaw “affects a core component of Android,” and so is unlikely to be hardware-specific.",
+              "We acknowledge the recent disclosure of CVE-2025-10184 and have implemented a fix.",
+              "OnePlus remains committed to protecting customer data and will continue to prioritize security improvements.",
+              "Rapid7 announced the discovery on its blog on Monday this week, but OnePlus didn’t respond until Wednesday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Asus’ new ROG Xbox Ally X set to break the bank at $999.99",
+            "link": "https://arstechnica.com/gaming/2025/09/ready-for-a-1000-handheld-gaming-pc-asus-rog-xbox-ally-x-set-to-find-out/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "60aa5e7ca4f7b9ed5df5fa84fd27b51890430e3e"
+          },
+          "review": {
+            "headline_rewrite": "Asus’ new ROG Xbox Ally X set to break the bank at $999.99",
+            "bullets": [
+              "Microsoft and ASUS first revealed the ROG Xbox Ally handheld PC gaming line back in June and promised an October 16 launch date back in August.",
+              "But they waited all the way until Thursday night to reveal preorder pricing set at $599.99 for the base ROG Xbox Ally hardware and a whopping $999.99 for the souped-up ROG Xbox Ally X.",
+              "But the higher-grade ROG Xbox Ally X is significantly more expensive than almost all competing gaming handhelds, thanks in part to components like a Ryzen Z2 Extreme processor and an NPU that Asus says will ensure it is ready for a future when \"AI enhancements\" are rolling out in new games.",
+              "That may seem like overkill when Steam Deck users seem content using their handheld mainly for low-end games like Vampire Survivors and Hades.",
+              "But Asus said that, in pre-release hardware tests, the ROG Xbox Ally X gets \"up to a 30% performance boost\" over 2024's ROG Ally X on high-end games like Indiana Jones and the Great Circle.",
+              "The newer hardware also gets \"up to twice the battery life\" over the ROG Ally X on a game like Hollow Knight Silksong, Asus said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Rocket Report: Keeping up with Kuiper; New Glenn’s second flight slips",
+            "link": "https://arstechnica.com/space/2025/09/rocket-report-keeping-up-with-kuiper-new-glenns-second-flight-slips/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0d5859fb1fcaf4a6e498f82a98b727d9459357d7"
+          },
+          "review": {
+            "headline_rewrite": "Rocket Report: Keeping up with Kuiper; New Glenn’s second flight slips",
+            "bullets": [
+              "We often hear from satellite operators—from the military to venture-backed startups—about their appetite for more launch capacity.",
+              "With so many rocket launches happening around the world, some might want to dismiss these statements as a corporate plea for more competition, and therefore lower prices.",
+              "SpaceX is on pace to launch more than 150 times this year.",
+              "China could end the year with more than 70 orbital launches.",
+              "These are staggering numbers compared to global launch rates just a few years ago.",
+              "All of the world's planned mega-constellations will need immense launch capacity just to get off the ground, and if successful, they'll go into regular replacement and replenishment cycles."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
