@@ -87935,6 +87935,122 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:47": [
+        {
+          "item": {
+            "title": "What’s behind the massive AI data center headlines?",
+            "link": "https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "53ed519d2e9967de3843a76e9787e84fa535fdc8"
+          },
+          "review": {
+            "headline_rewrite": "What’s behind the massive AI data center headlines?",
+            "bullets": [
+              "Silicon Valley flooded the news this week with headlines about wild AI infrastructure investments.",
+              "Nvidia said it would invest up to $100 billion in OpenAI.",
+              "Then OpenAI said it would build out five more Stargate AI data centers with Oracle and Softbank, adding gigawatts of new capacity online in the coming years.",
+              "But in aggregate, we see how Silicon Valley is moving heaven and Earth to give OpenAI enough power to train and serve future versions of ChatGPT.",
+              "This week on Equity, Anthony Ha and I (Max Zeff) go beyond the headlines to break down what’s really going on in these AI infrastructure deals.",
+              "Rather conveniently, OpenAI also gave the world a glimpse this week of a power-intensive feature it could serve more broadly if it had access to more AI data centers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
+            "link": "https://www.theverge.com/column/786759/humanoid-robots-meta",
+            "site_name": "The Verge",
+            "novelty_hash": "97df285784da0481c89a2cec4125aa3851457818"
+          },
+          "review": {
+            "headline_rewrite": "Humanoid robots are Meta&#8217;s next &#8216;AR-size bet&#8217;",
+            "bullets": [
+              "During a recent conversation at Meta’s headquarters, CTO Andrew Bosworth said he stood up a robotics “research effort” earlier this year at the direction of CEO Mark Zuckerberg.",
+              "“If you know robotics, one of the biggest problems that you have is dexterous manipulation,” he said.",
+              "“I don’t care about us being the hardware manufacturers,” he explained.",
+              "The idea, according to Bosworth, is to take the software blueprint Meta develops and let any company use it “as long as your robot meets these specs.”\nHe said that Meta’s new Superintelligence AI lab is collaborating with the robotics group to build a “world model” that can “do the software simulation required to animate a dexterous hand.” (Google DeepMind’s Demis Hassabis has also talked frequently about his goal of building a world model that brings spatial awareness to AI.) The “sensor loop doesn’t exist” for a humanoid to be able to gingerly fetch a set of keys out of a jeans pocket like a human could, Bosworth explained.",
+              "“So you have to build that data set.”\n“We wouldn’t be doing this if we didn’t have the lab, if we didn’t think we were going to be building the models that could do it,” he said, referring to the new team being led by ex-Scale CEO Alexandr Wang.",
+              "When I asked about the approach Elon Musk is taking with Optimus, Bosworth said that building humanoids won’t work in the same way that Tesla has built its self-driving platform: “They’re like, ‘Look, we’re not doing LiDAR."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "46a7978cfd66ac27f4d0b58758d0fb1dfdbcafec"
+          },
+          "review": {
+            "headline_rewrite": "Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Join Lauri Moore, partner at Bessemer Venture Partners, and David Cramer, co-founder and chief product officer at Sentry, and Zach Lloyd, founder and CEO of Warp, on the Builders Stage for a candid conversation about how developer tools are reshaping early product development.",
+              "Moore brings deep expertise in AI, infrastructure, and developer tooling from both the investor and founder perspectives.",
+              "Cramer, who launched Sentry as an open source side project in 2012 and scaled it into a platform used by over 4 million developers, offers firsthand insights into how the right tools — and hires — can accelerate product velocity without overbuilding.",
+              "Lloyd, who founded Warp to reinvent the terminal with AI-driven developer experiences, adds the perspective of a founder building for builders at the bleeding edge of coding workflows.",
+              "We’ll dig into what today’s founders actually need from their first engineering hires, what AI-enabled tooling can and can’t replace, and how the entire GTM (go-to-market) and product life cycle is adapting to this new dev world.",
+              "Whether you’re a founder, a CTO, or just curious if code is still king, this panel gets into the messy, tactical details of modern startup building."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Is Silicon Valley Still the Tech Capital?",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-still-the-tech-capital/",
+            "site_name": "WIRED",
+            "novelty_hash": "42398f5a1ae1bc12d4085153d94cc6933dbf23cc"
+          },
+          "review": {
+            "headline_rewrite": "Is Silicon Valley Still the Tech Capital?",
+            "bullets": [
+              "WIRED's Lauren Goode, Katie Drummond, and Jason Kehe asked themselves and answered a perennial question: Is Silicon Valley still the tech capital of the world?",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Our global editorial director, Katie Drummond, had a really fun and sharp conversation with Jack Conte, the CEO of Patreon, about what it takes to make authentic work in the era of AI and influencers.",
+              "He said we can share that, but we are so glad to have Jason here in his stead.",
+              "So without any further ado, welcome again everyone to our first live edition of the Uncanny Valley Roundtable here in San Francisco with our partners, KQED.",
+              "Each week on this podcast, we take a close look at the people and power of Silicon Valley and its influence on our daily lives."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "One of our favorite video doorbells is 47 percent off in the run-up to Prime Day",
+            "link": "https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "9830c9dd3c47fcd610fc1b9c51d0d8b8717d5552"
+          },
+          "review": {
+            "headline_rewrite": "One of our favorite video doorbells is 47 percent off in the run-up to Prime Day",
+            "bullets": [
+              "One of our favorite video doorbells is 47 percent off in the run-up to Prime Day\nThe Ring Battery Doorbell Plus is once again matching its July Prime Day low.",
+              "It also retains support for color night vision, pre-recorded Quick Replies, and two-way talk, and, for $4.99 a month, you also get bonus features like package and people alerts.",
+              "Most Popular\n- OpenAI really, really wants you to start your day with ChatGPT Pulse\n- Xiaomi 17 series arrives with secondary screens and enormous batteries\n- It costs $895 per year to get American Express’ premium app theme\n- Microsoft and Asus open Xbox Ally preorders — the X costs $999\n- Microsoft forced to make Windows 10 extended security updates truly free in Europe"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry",
+            "link": "https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "83a40d520c6e1d0522b2ad077ee4ff48911bcd39"
+          },
+          "review": {
+            "headline_rewrite": "Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry",
+            "bullets": [
+              "An Ebola outbreak in a southwestern province of the Democratic Republic of the Congo is escalating quickly, as some health responders say they have less than a tenth of the funding needed to contain the deadly disease.",
+              "The first case was identified in a 34-year-old pregnant woman on August 20, when she sought care at a local hospital in the Kasai province for fever, bloody vomiting, and hemorrhages.",
+              "Susan Nzisa Mbalu, head of communications for IFRC, told the AP, \"We urgently need our partners and donors to step up and support this lifesaving response to ensure we can contain the outbreak quickly and protect the most vulnerable communities.\""
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
