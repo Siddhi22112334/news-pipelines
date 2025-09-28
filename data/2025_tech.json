@@ -96341,6 +96341,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades",
+            "link": "https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot",
+            "site_name": "The Verge",
+            "novelty_hash": "b8dc35782135ca48caeb21b76981a82c10362b01"
+          },
+          "review": {
+            "headline_rewrite": "Apple&#8217;s &#8216;Veritas&#8217; chatbot is reportedly an employee-only test of Siri&#8217;s AI upgrades",
+            "bullets": [
+              "The company’s struggles as it tries to keep pace in the AI race are no secret.",
+              "Veritas gives Apple the ability to quickly develop, test, and collect feedback on new Siri features like “search[ing] through personal data… and perform[ing] in-app actions like editing photos.“\nApple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades\nThere’s no plans for a public release as Cupertino will likely rely on Google’s Gemini for AI search.",
+              "Instead it’s looking increasingly likely that Apple is going to rely on Google’s Gemini for its AI-powered search.",
+              "Most Popular\n- What to expect from Amazon’s big fall hardware event on Tuesday\n- I spent three months with Telly, the free TV that’s always showing ads\n- When this EV maker collapsed, its customers became the car company\n- Raleigh One e-bike review: redemption tour\n- Trump posts, then pulls bizarre AI video promoting MedBed conspiracy"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DJI loses lawsuit over classification as Chinese military company",
+            "link": "https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "68cc044990c0e9a7ea1e3ff12c747870ff28b843"
+          },
+          "review": {
+            "headline_rewrite": "DJI loses lawsuit over classification as Chinese military company",
+            "bullets": [
+              "District Judge Paul Friedman ruled Friday that the DoD had provided “substantial evidence” that DJI contributes “to the Chinese defense industrial base.”\nPointing to the use of modified DJI drones in the conflict between Russia and Ukraine, Friedman wrote, “Whether or not DJI’s policies prohibit military use is irrelevant.",
+              "When DJI filed the lawsuit last year, the company said it was “not owned or controlled by the Chinese military” and that “the DoD itself acknowledges that DJI makes consumer and commercial drones, not military drones.”\nThe lawsuit also said the company had “suffered ongoing financial and reputational harm, including lost business” as a result of the listing.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nNetflix, Box, a16z, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "The company told Reuters that it’s considering its legal options and said Judge Friedman’s decision was “based on a single rationale that applies to many companies that have never been listed.”\nDJI faces other legal hurdles in the United States, including a potential ban on sales starting in December unless a national security agency determines that its drones do not “pose an unacceptable risk to the national security of the United States.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta has introduced revised guardrails for its AI chatbots to prevent inappropriate conversations with children",
+            "link": "https://www.engadget.com/social-media/meta-has-introduced-revised-guardrails-for-its-ai-chatbots-to-prevent-inappropriate-conversations-with-children-200444230.html",
+            "site_name": "Engadget",
+            "novelty_hash": "6531c30cfa537d400619ddb31fa291bb6f44173d"
+          },
+          "review": {
+            "headline_rewrite": "Meta has introduced revised guardrails for its AI chatbots to prevent inappropriate conversations with children",
+            "bullets": [
+              "Business Insider has obtained the guidelines that Meta contractors are reportedly now using to train its AI chatbots, showing how it's attempting to more effectively address potential child sexual exploitation and prevent kids from engaging in age-inappropriate conversations.",
+              "The company said in August that it was updating the guardrails for its AIs after Reuters reported that its policies allowed the chatbots to \"engage a child in conversations that are romantic or sensual,\" which Meta said at the time was \"erroneous and inconsistent\" with its policies and removed that language.",
+              "The document, which Business Insider has shared an excerpt from, outlines what kinds of content are \"acceptable\" and \"unacceptable\" for its AI chatbots.",
+              "It explicitly bars content that \"enables, encourages, or endorses\" child sexual abuse, romantic roleplay if the user is a minor or if the AI is asked to roleplay as a minor, advice about potentially romantic or intimate physical contact if the user is a minor, and more.",
+              "The company's AI chatbots have been the subject of numerous reports in recent months that have raised concerns about their potential harms to children.",
+              "The FTC in August launched a formal inquiry into companion AI chatbots not just from Meta, but other companies as well, including Alphabet, Snap, OpenAI and X.AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Snapchat introduces a paid storage option for all the Memories hoarders out there",
+            "link": "https://www.engadget.com/social-media/snapchat-introduces-a-paid-storage-option-for-all-the-memories-hoarders-out-there-203013294.html",
+            "site_name": "Engadget",
+            "novelty_hash": "51acde162204a19491ecbae9473c568ceeabc9cf"
+          },
+          "review": {
+            "headline_rewrite": "Snapchat introduces a paid storage option for all the Memories hoarders out there",
+            "bullets": [
+              "In a press release, Snap detailed that the introductory storage plan allows up to 100GB of storage for Memories for $1.99 a month.",
+              "Snap said that a \"vast majority\" of its Snapchat users won't notice any changes since they're far from hitting the 5GB limit.",
+              "To ease the transition from unlimited storage to paid options, Snap will give anyone exceeding 5GB of Memories a year of temporary storage.",
+              "These new storage subscriptions follow Snap's latest paid option for its Lens+ subscription, which costs $9 a month."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Sep 28, 2025 iPhone users, Apple has created an 'internal ChatGPT' to test out ... Apple is aggressively overhauling Siri, aiming to win the AI race with a major revamp slated for March. An internal tool, \"Veritas,\" is testing new features like personal data search and in-app actions for the LLM-powered Siri, codenamed \"Linwood.\" This high-stakes effort seeks to redefine Apple's AI capabilities against rivals.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/iphone-users-apple-has-created-an-internal-chatgpt-to-test-out-/articleshow/124194550.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "0c7fb0e4cc4ec6fed99cc33bd9c64d583c8c1057"
+          },
+          "review": {
+            "headline_rewrite": "Technology Sep 28, 2025 iPhone users, Apple has created an 'internal ChatGPT' to test out ... Apple is aggressively overhauling Siri, aiming to win the AI race with a major revamp slated for March. An internal tool, \"Veritas,\" is testing new features like personal data search and in-app actions for the LLM-powered Siri, codenamed \"Linwood.\" This high-stakes effort seeks to redefine Apple's AI capabilities against rivals.",
+            "bullets": [
+              "Apple has been planning big for its AI comeback.",
+              "In a recent meeting with employees, CEO Tim Cook said that the company must win in AI, calling it the biggest transformation in decades.",
+              "âThis is sort of ours to grab,â Cook said.",
+              "âWe will make the investment to do it.â According to a report in Bloomberg, iPhone maker has been overhauling its Siri voice assistant in hopes of making it comparable to AI tools from companies like OpenAI and Google.",
+              "The report adds that Apple has created its own version of OpenAI's AI chatbot to test out the new and improved Siri.",
+              "The companyâs AI division is said to be using the app to quickly evaluate new features for Siri."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/nano-banana-ai-how-to-detect-ai-generated-images-understand-privacy-risks-and-keep-your-data-safe/articleshow/123976855.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7addbb2c61f942f4dd105fe82e14f67cb9aacbb9"
+          },
+          "review": {
+            "headline_rewrite": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "bullets": [
+              "India has rapidly become the leading market for Googleâs latest AI innovation, Nano Banana, powered by the Gemini engine and cutting-edge machine learning algorithms.",
+              "However, its rise also raises important discussions about AI-generated content, including issues of authenticity, privacy, ethical use, and image detection.",
+              "As AI visuals grow increasingly sophisticated, learning to identify AI-generated images has become essential for social media users, digital creators, and enthusiasts seeking to navigate this evolving technological landscape responsibly.",
+              "Nano Banana leads Indiaâs surge in AI-powered creativity\nIndia is leading the global surge in AI-powered creativity, thanks to Google's Gemini 2.5 Flash Image model, popularly known as Nano Banana.",
+              "Since its launch in late August 2025, Nano Banana has transformed the way users engage with AI, enabling them to create hyper-realistic 3D figurines, retro-style portraits, and imaginative visual effects from simple photos and text prompts.",
+              "This surge in AI-driven creativity reflects a broader cultural shift, where technology and tradition intersect, allowing individuals to explore new forms of self-expression and artistic innovation."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
