@@ -94142,6 +94142,120 @@
             "impact": "Positive"
           }
         }
+      ],
+      "18:00": [
+        {
+          "item": {
+            "title": "How generative AI boosters are trying to break into Hollywood",
+            "link": "https://www.theverge.com/column/785975/hollywood-ai-stepback",
+            "site_name": "The Verge",
+            "novelty_hash": "c338e3a16131413b04d248324e5b4f8f6c3c973b"
+          },
+          "review": {
+            "headline_rewrite": "How generative AI boosters are trying to break into Hollywood",
+            "bullets": [
+              "How generative AI boosters are trying to break into Hollywood\nAI startups want to brute force their way into the movie business, even though the tech isn’t ready for its closeup.",
+              "How it started\nIn just a few short years, text-to-image models went from only being able to churn out smudgy, “dreamlike” approximations of their input to producing detailed visualizations of whatever you describe.",
+              "As the AI image generators got better, text-to-video models like Runway’s Gen series, Meta’s Make-A-Video, and Google’s Veo also came into their own.",
+              "Now, some of Hollywood’s biggest studios have signaled that they are ready to start riding the gen AI wave.",
+              "Even with all of the obvious concerns about copyright infringement and job displacement that generative AI presents, a steady chorus of voices has been insisting that this technology is going to be the future of filmmaking.",
+              "A lot of gen AI supporters see it as a tool that’s “democratizing” art by lowering traditional barriers to entry like “learning how to draw,” “learning how to play an instrument,” or “learning how to write a story.”\nAnd even though much of what we’ve seen out of the AI generated video space hasn’t been especially good, more and more entertainment studios seem to be betting on this technology to pay off (for them, especially) so long as everyone commits to it and ignores all of the potential harms that come along with it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "I need a life cool enough for the new GoPro",
+            "link": "https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer",
+            "site_name": "The Verge",
+            "novelty_hash": "639788f7d1dd928c0cbabccf4128089fd692077f"
+          },
+          "review": {
+            "headline_rewrite": "I need a life cool enough for the new GoPro",
+            "bullets": [
+              "(If you’re new here, welcome, happy pumpkin spice season, and also you can read all the old editions at the Installer homepage.)\nI need a life cool enough for the new GoPro\nPlus, in this week’s Installer: ChatGPT’s daily digest, a terrific iPhone review, a nice Proton Mail upgrade, and more.",
+              "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen, obsessing over both Black Rabbit and The Lowdown, eating aggressively too many Pop’ums pretzels, listening to everything in the AirPods Pro 3s, updating my old Ray-Ban Metas to see if the AI is any good, meal planning with Crouton, and posting all my junk for free on Nextdoor.",
+              "I also have for you an impressive new GoPro, an email service worth trying, a couple of exciting new games, and much more.",
+              "I’ve gotten a million great emails about what lists you make and how you make them — we’re going to do something big here next week, and I’d love to feature everybody’s thoughts.",
+              "Here are a couple of key things:\n- If you’re already subscribed to Installer via email, you’ll continue to get it for free whether or not you subscribe to The Verge.",
+              "That means, if you want to get Installer for free and you haven’t signed up via email yet… do it now."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Keep Your Old Laptop Alive by Installing ChromeOS Flex",
+            "link": "https://www.wired.com/story/how-to-install-chromeos-flex/",
+            "site_name": "WIRED",
+            "novelty_hash": "6413e6b3debc4b8253adc3a3ae4b3f177d56882e"
+          },
+          "review": {
+            "headline_rewrite": "Keep Your Old Laptop Alive by Installing ChromeOS Flex",
+            "bullets": [
+              "When prompted to identify your Chromebook, click Select a model from a list, then choose Google ChromeOS Flex as the manufacturer and ChromeOS Flex as the product.",
+              "For Macs, start up the system either by pressing the power key and then the Option key (Intel chips), or holding down the power key (Apple chips) until the boot options appear.",
+              "Use the launcher button down in the bottom left hand corner to show all the installed apps, which will include links to web apps as well as the Files app for local files and Settings for configuring ChromeOS Flex."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "30 years later, I’m still obliterating planets in Master of Orion II—and you can, too",
+            "link": "https://arstechnica.com/gaming/2025/09/30-years-later-im-still-obliterating-planets-in-master-of-orion-ii-and-you-can-too/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5f8a9622e6d9019aa1d100b1c4a8f677127f9c19"
+          },
+          "review": {
+            "headline_rewrite": "30 years later, I’m still obliterating planets in Master of Orion II—and you can, too",
+            "bullets": [
+              "I suspect that the first 4X game most people played was some entry in the Civilization franchise—though certainly, a select few played precursors dating back to text-based games in the 1970s.",
+              "But for me, the title that kicked off my obsession was Master of Orion II (MOO2)—a game that has you develop and build up planets across a simple galaxy map, researching speculative future technologies, and ultimately wiping out your opponents and claiming dominion over the known universe.",
+              "I'll take that over games with bite-sized, contained challenges and short play times any day.",
+              "Nostalgic but flawed\nThat said, it's not a perfect game."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "150 million-year-old pterosaur cold case has finally been solved",
+            "link": "https://arstechnica.com/science/2025/09/150-million-year-old-pterosaur-cold-case-has-finally-been-solved/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6a520b659d834efea2a8b8ec22d27f15b967ad12"
+          },
+          "review": {
+            "headline_rewrite": "150 million-year-old pterosaur cold case has finally been solved",
+            "bullets": [
+              "Unable to fly, they drowned and were rapidly buried in the lagoon depths.",
+              "“Our results show that most pterosaurs are preserved predominantly through catastrophic events, often reflecting mass mortality episodes,” Smyth and his research team said in a study he led, recently published in Current Biology.",
+              "That raises the question of how their delicate bones and soft tissues were preserved while larger casualties of the storm only left behind fragmented skeletons."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Proton Pass Review (2025): Finally Standing Tall",
+            "link": "https://www.wired.com/review/proton-pass-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "941a7c8852d945dadf2f58ebe7b97052d1148d6f"
+          },
+          "review": {
+            "headline_rewrite": "Proton Pass Review (2025): Finally Standing Tall",
+            "bullets": [
+              "Even as I write this review, Proton launched an emergency access feature less than two weeks ago.",
+              "It’s a company with a long history when it comes to security and privacy, and those same principles are at play with Pass, from end-to-end encryption to open source applications.",
+              "You get 10 GB of storage with a paid plan, but Proton shares your storage space across your Proton account.",
+              "Proton has several other starting points to choose from, including everything from medical records to API credentials, or you can start from scratch and add fields as you see fit.",
+              "Regardless of whether you choose one of Proton’s starting points or start an entry from scratch, everything that falls outside of those five main categories is considered a “custom item,\" which can make organization a little tricky.",
+              "I resorted to using vaults as my main method of organization."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
