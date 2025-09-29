@@ -98877,6 +98877,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "19:16": [
+        {
+          "item": {
+            "title": "Microsoft launches ‘vibe working’ in Excel and Word",
+            "link": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+            "site_name": "The Verge",
+            "novelty_hash": "17f3d7330a1e27d1d485efbb917862a532792e61"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft launches ‘vibe working’ in Excel and Word",
+            "bullets": [
+              "You’ve probably heard of vibe coding — novices writing apps by creating a simple AI prompt — but now Microsoft wants to introduce a similar thing for its Office apps.",
+              "The software maker is launching a new Agent Mode in Excel and Word that can generate complex spreadsheets and documents with just a prompt.",
+              "A new Office Agent in Copilot chat, powered by Anthropic models, is also launching today that can create PowerPoint presentations and Word documents from a “vibe working” chatbot.",
+              "Microsoft launches ‘vibe working’ in Excel and Word\nA new Agent Mode comes to Office apps today, alongside an Office Agent in Copilot chat.",
+              "“Today we’re bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat,” says Sumit Chauhan, corporate vice president of Microsoft’s Office Product Group.",
+              "“In the same way vibe coding has transformed software development, the latest reasoning models in Copilot unlock agentic productivity for Office artifacts.”\nAgent Mode essentially takes a complex task and breaks it down with planning and reasoning that you can follow."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
+            "link": "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9ee13b78ab4d15926f630580950b789ff1e989b3"
+          },
+          "review": {
+            "headline_rewrite": "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
+            "bullets": [
+              "Former Yahoo CEO Marissa Meyer is closing the doors on her consumer software startup Sunshine, and is selling the company’s assets to her new AI startup, Dazzle.",
+              "The news was first reported by Wired, which cited an email sent to Sunshine’s shareholders.",
+              "Dazzle is setting out to build an AI personal assistant, the report cited anonymous sources as saying, and added that all of Sunshine’s employees will move to the new company.",
+              "Originally founded in 2018, Sunshine first launched with a subscription app for contact management, dubbed “Sunshine Contacts.” That product saw little adoption due to privacy concerns about privacy, and pretty much languished.",
+              "In 2024, the service added event management and photo sharing — with a touch of AI, of course — but with little success.",
+              "Both apps have been downloaded just over 1,000 times on the Google Play Store.)\nThe company had raised about $20 million in 2020, and according to Meyer, was largely self-funded."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The startup behind open source tool Polars raises $21M from Accel",
+            "link": "https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6bf5370429e0ee67a7cfa4f2bf363dba2e072baa"
+          },
+          "review": {
+            "headline_rewrite": "The startup behind open source tool Polars raises $21M from Accel",
+            "bullets": [
+              "Polars, the Amsterdam-based company behind the popular open source project of the same name, has raised €18 million (about $21 million) in a Series A round led by Accel, with participation from Bain Capital Partners and angel investors.",
+              "But while raising this kind of money is the dream of many developers, its creator Ritchie Vink didn’t set out to do so.",
+              "Two years after launching as a company, the company in February launched Polars Cloud, a managed data platform that lets users run queries in the cloud at scale.",
+              "“In the open-source community, the joke is that you can rewrite anything in Rust and it becomes better,” said Accel partner Zhenya Loginov, who led the funding round.",
+              "“The reason that it’s a joke is that it is not a real sustainable advantage, and you need to do a lot more.”\nFor Viks and his co-founder, former Xomnia CTO Chiel Peters, doing more means building products around the tool, like Polars Cloud and Polars Distributed.",
+              "The latter is a distributed engine that will support use cases involving petabytes of data, rather than small datasets, and is currently available in public beta."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple",
+            "link": "https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/",
+            "site_name": "WIRED",
+            "novelty_hash": "25d80270b4f97a9aba85046fac83cb272448495a"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple",
+            "bullets": [
+              "Last week at Snapdragon Summit, Qualcomm announced its next-gen line of PC chips, Snapdragon X2.",
+              "The chips will come in two flavors: the X2 Elite and X2 Elite Extreme.",
+              "At a benchmarking session at the conference, held in Hawaii, I was given a closer look at just how the X2 Elite Extreme will perform across a variety of common tests, using reference laptops Qualcomm brought to the event.",
+              "(Qualcomm paid for a portion of my travel expenses to attend the Snapdragon Summit, but the company has no say in our reporting.)\nTesting the Elite Extreme\nLet's start with Cinebench 2024, a popular benchmark based on Maxon's Cinema 4D, an industry standard in the world of 3D modeling and animation.",
+              "The test I ran earned a Cinebench multi-core score of 1,974, a whopping 62 percent faster than the base M4 on a 15-inch MacBook Air.",
+              "It's even 15 percent faster than the M4 Pro in a 16-inch MacBook Pro, only surpassed by Apple's most powerful laptop chip, the M4 Max."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Get a look at the OnePlus 15 from every angle",
+            "link": "https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass",
+            "site_name": "The Verge",
+            "novelty_hash": "9cd3619066ba6a30bca4fe5f01b8657d57ff28ed"
+          },
+          "review": {
+            "headline_rewrite": "Get a look at the OnePlus 15 from every angle",
+            "bullets": [
+              "Just a few days after first teasing the upcoming launch of the OnePlus 15, the company is already showing off the phone in plenty of detail.",
+              "Today OnePlus confirmed that the new flagship is getting a global launch, and over the weekend it dropped multiple photo sets on Chinese social media giving us a better look at the hardware.",
+              "Get a look at the OnePlus 15 from every angle\nThe phone will launch globally, and this is its new ‘sand storm’ color.",
+              "We now know that the phone is launching in a color called “sand storm,” which is presumably in addition to the black model the company revealed at a Qualcomm event last week, and what appears to be a white handset shown in photos with a Chinese esports influencer.",
+              "The company confirmed a couple build details too, revealing that the phone — at least in its sand storm version — has a fiberglass back and a ceramic-coated metal frame that the company says is tougher than either aluminum or titanium.",
+              "OnePlus has repeatedly teased on Weibo that the 15 will launch in China next month, but it remains to be seen if there’ll be a longer wait for the phone to reach the US."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Smart Rings, Tested and Reviewed (2025)",
+            "link": "https://www.wired.com/gallery/best-smart-rings/",
+            "site_name": "WIRED",
+            "novelty_hash": "103833b8febb98dc93c2ab55ca746269db825125"
+          },
+          "review": {
+            "headline_rewrite": "The Best Smart Rings, Tested and Reviewed (2025)",
+            "bullets": [
+              "Although our top pick is still the Finnish pioneer Oura with the Oura Ring 4 ($349), the company is now under pressure from upstarts like the Ultrahuman Ring Air ($349), established fitness-tracking brands like Amazfit, and even tech giants like Samsung.",
+              "RingConn retained the distinctive squared-off design, but this second-generation ring brought major improvements to sleep tracking (including sleep apnea detection), better battery life, and is very slightly slimmer and lighter.",
+              "Despite more available exercise types, you must manually trigger workout tracking, and it struggles with accuracy at higher heart rates.",
+              "Luna Smart Ring for $300: The Luna smart ring is a new titanium smart ring with five days of battery life that purports to offer many new AI features, like menstrual health coaching and nutrition advice, in addition to by-now-standard blood oxygen and skin temperature measurements for cycle tracking.",
+              "You don’t need a subscription, but there is Aura AI ($70/year) for sleep insights and content or Fitness ($30/year), which includes an AI coach.",
+              "My Oura and Ultrahuman rings with black finishes have visible scratches and chips after a few months."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
