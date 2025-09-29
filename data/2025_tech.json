@@ -99243,6 +99243,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:47": [
+        {
+          "item": {
+            "title": "Complex Chaos thinks AI can help people find common ground",
+            "link": "https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f052c6c07c0ac75d62d42a795c86060efaa4c835"
+          },
+          "review": {
+            "headline_rewrite": "Complex Chaos thinks AI can help people find common ground",
+            "bullets": [
+              "But one startup is hoping that AI could help bridge some differences instead of widen them.",
+              "“I had an a-ha moment one day when I realized people are asking AI to explain something like they’re five years old,” Tommy Lorsch, co-founder and CEO of Complex Chaos, told TechCrunch.",
+              "“What if we use it as a facilitator to help people understand each other and find common ground?”\n“Everyone is building software for collaboration like Slack, Google Docs, whatever,” Lorsch said.",
+              "“Cooperation is a different piece.”\nFacilitating cooperation isn’t something that scales well, he said.",
+              "Typically, trained facilitators will spend time with groups to help them arrive at a consensus, but that process can slow down when negotiations or preparations happen across time zones or even in different rooms.",
+              "Lorsch was buoyed by a recent LLM developed by Google called the Habermas Machine, which was developed explicitly with that goal in mind."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft launches ‘vibe working’ in Excel and Word",
+            "link": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+            "site_name": "The Verge",
+            "novelty_hash": "17f3d7330a1e27d1d485efbb917862a532792e61"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft launches ‘vibe working’ in Excel and Word",
+            "bullets": [
+              "You’ve probably heard of vibe coding — novices writing apps by creating a simple AI prompt — but now Microsoft wants to introduce a similar thing for its Office apps.",
+              "The software maker is launching a new Agent Mode in Excel and Word that can generate complex spreadsheets and documents with just a prompt.",
+              "A new Office Agent in Copilot chat, powered by Anthropic models, is also launching today that can create PowerPoint presentations and Word documents from a “vibe working” chatbot.",
+              "Microsoft launches ‘vibe working’ in Excel and Word\nA new Agent Mode comes to Office apps today, alongside an Office Agent in Copilot chat.",
+              "“Today we’re bringing vibe working to Microsoft 365 Copilot with Agent Mode in Office apps and Office Agent in Copilot chat,” says Sumit Chauhan, corporate vice president of Microsoft’s Office Product Group.",
+              "“In the same way vibe coding has transformed software development, the latest reasoning models in Copilot unlock agentic productivity for Office artifacts.”\nAgent Mode essentially takes a complex task and breaks it down with planning and reasoning that you can follow."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI rolls out safety routing system, parental controls on ChatGPT",
+            "link": "https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d1579c7a7189483660171fb669879c5bcfee03b7"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI rolls out safety routing system, parental controls on ChatGPT",
+            "bullets": [
+              "OpenAI began testing a new safety routing system in ChatGPT over the weekend, and on Monday introduced parental controls to the chatbot – drawing mixed reactions from users.",
+              "The safety features come in response to numerous incidents of certain ChatGPT models validating users’ delusional thinking instead of redirecting harmful conversations.",
+              "OpenAI is facing a wrongful death lawsuit tied to one such incident, after a teenage boy died by suicide after months of interactions with ChatGPT.",
+              "In particular, the GPT-5 models were trained with a new safety feature that OpenAI calls “safe completions,” which allows them to answer sensitive questions in a safe way, rather than simply refusing to engage.",
+              "GPT-4o has come under particular scrutiny because of its overly sycophantic, agreeable nature, which has both fueled incidents of AI-induced delusions and drawn a large base of devoted users.",
+              "When OpenAI rolled out GPT-5 as the default in August, many users pushed back and demanded access to GPT-4o."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Big AI firms pump money into world models as LLM advances slow",
+            "link": "https://www.ft.com/content/ae1c6de2-691e-448d-8bf3-8837cc1e6efb",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a4a8be83e0e49b984b7f051f2db357d9e1337ada"
+          },
+          "review": {
+            "headline_rewrite": "Big AI firms pump money into world models as LLM advances slow",
+            "bullets": [
+              "The world’s top artificial intelligence groups are stepping up their focus on so-called world models that can better understand human environments, in the search for new ways to achieve machine “superintelligence.”\nGoogle DeepMind, Meta, and Nvidia are among the companies attempting to gain ground in the AI race by developing systems that aim to navigate the physical world by learning from videos and robotic data rather than just language.",
+              "This push comes as questions rise about whether large language models—the technology that powers popular chatbots such as OpenAI’s ChatGPT—are reaching a ceiling in their progress.",
+              "The leaps in performance between LLMs released by companies across the sector, such as OpenAI, Google, and Elon Musk’s xAI, have been slowing, despite the vast sums invested in their development.",
+              "The potential market for world models could be huge, almost the size of the global economy, according to Rev Lebaredian, vice-president of Omniverse and simulation technology at Nvidia, as it brings the technology into the physical domain, such as the manufacturing and health care sectors.",
+              "$100 trillion if we can make an intelligence that can understand the physical world and operate in the physical world,” he said.",
+              "World models are trained using data streams of real or simulated environments."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s parental controls are out — here’s what you should know",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know",
+            "site_name": "The Verge",
+            "novelty_hash": "11d76ee98e4a858bcd233aeac3e7c6728ca155be"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s parental controls are out — here’s what you should know",
+            "bullets": [
+              "OpenAI has rolled out some long-awaited parental controls for ChatGPT to all web users, with mobile coming “soon,” according to the company.",
+              "OpenAI’s parental controls are out — here’s what you should know\nParents must have their own accounts to access the controls, and teens must opt in.",
+              "The controls, announced last month, allow for reducing or removing certain content — like sexual roleplay and the ability to generate images — and reducing the level of personalization on ChatGPT conversations by turning off its memory of past transcripts.",
+              "The only potential exception: “in rare cases where our system and trained reviewers detect possible signs of serious safety risk, parents may be notified — but only with the information needed to support their teen’s safety,” per OpenAI.",
+              "There’s also a parent resource page available.",
+              "- Reduce sensitive content: Parents can add additional protections like reducing “graphic content, viral challenges, sexual, romantic or violent roleplay and extreme beauty ideals,” per OpenAI, and the setting is on by default for teen accounts once they’re linked to a parent’s account."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can now install iOS 26 on your iPhone: Everything to know about the free software update",
+            "link": "https://www.engadget.com/mobile/you-can-now-install-ios-26-on-your-iphone-everything-to-know-about-the-free-software-update-135749775.html",
+            "site_name": "Engadget",
+            "novelty_hash": "e760bf99fefaafc4bc25bb9f416e8558e6184b8f"
+          },
+          "review": {
+            "headline_rewrite": "You can now install iOS 26 on your iPhone: Everything to know about the free software update",
+            "bullets": [
+              "(You can't turn it off, but you can reduce the transparency to make it less clear.) The overhaul is one of several big changes that come with iOS, macOS, iPadOS, watchOS and the rest of Apple's software suite — the new operating system updates for those gadgets are also available to download now.",
+              "For instance, the ability to weed out spam texts or unknown senders and an option to hold your spot on a phone call when you've been waiting for a representative to pick up.",
+              "Other new improvements coming include a confirmed AirPods live translation feature, and a new bouncy animation on the passcode screen and in the Control Center.",
+              "If you're planning to upgrade your phone this year, take a look at all the new models Apple unveiled during its iPhone 17 event, from the iPhone 17 lineup (check out our review of the iPhone 17) to the all-new ultra-thin iPhone Air (take a look at our hands-on review).",
+              "If you missed the keynote, you can catch up on everything Apple announced here or rewatch the full iPhone 17 launch.",
+              "The company rounded out its announcements with three new Apple Watch models, as well as the brand-new AirPods Pro 3."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
