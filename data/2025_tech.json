@@ -99729,6 +99729,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:45": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon S3, Amazon Bedrock AgentCore, AWS X-Ray and more (September 29, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-bedrock-agentcore-aws-x-ray-and-more-september-29-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "806ad3c5c09272d22abde07cc73042d91d1353f3"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon S3, Amazon Bedrock AgentCore, AWS X-Ray and more (September 29, 2025)",
+            "bullets": [
+              "However, there are plenty of new exciting new releases between now and then, so, as usual, let’s take a quick look at some of the highlights from last week so you can catch up on what’s been recently launched, starting with one of the most popular services: Amazon S3!",
+              "Amazon Bedrock AgentCore expands enterprise integration and automation options — Bedrock AgentCore services are leveling up their enterprise readiness with new support for Amazon VPC connectivity, AWS PrivateLink, AWS CloudFormation, and resource tagging, giving developers more control over security and infrastructure automation.",
+              "These enhancements let you deploy AI agents that can securely access private resources, automate infrastructure deployment, and maintain organized resource management whether you’re using AgentCore Runtime for scalable agent deployment, Browser for web interactions, or Code Interpreter for secure code execution.",
+              "This improvement helps measurement providers maintain fresh datasets with advertisers and publishers while preserving privacy controls, enabling always-on campaign measurement without the need to reprocess entire datasets.",
+              "Amazon GameLift has launched a new Local Zone in Dallas bringing ultra-low latency game servers closer to players in Texas.",
+              "The AWS AI Agent Global Hackathon continues until October 20, offering developers a unique opportunity to build innovative AI agents using AWS’s comprehensive gen AI stack."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic launches Claude Sonnet 4.5, its best AI model for coding",
+            "link": "https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "51f9478ec9129c9c785733a9fd0c14d975d69c15"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic launches Claude Sonnet 4.5, its best AI model for coding",
+            "bullets": [
+              "On Monday, Anthropic launched a new frontier model called Claude Sonnet 4.5, which it claims to offer state-of-the-art performance on coding benchmarks.",
+              "The company says Claude Sonnet 4.5 is capable of building “production-ready” applications, rather than just prototypes, representing a leap in reliability from previous AI models.",
+              "Claude Sonnet 4.5 will be available via the Claude API and in the Claude chatbot.",
+              "In the last year, Anthropic’s AI models have emerged as a favorite among developers and enterprises, in large part due to their strong performance on software engineering tasks.",
+              "Apple and Meta reportedly use Claude AI models internally, and Anthropic has made a significant business selling API access to AI coding applications such as Cursor, Windsurf, and Replit.",
+              "Recently, OpenAI’s GPT-5 has challenged Anthropic’s dominance in the space, outperforming Claude models on a variety of coding benchmarks."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Brave updates its AI-powered search with a detailed answers feature",
+            "link": "https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "25098b26ca886690b563bd71f60592073f50eff1"
+          },
+          "review": {
+            "headline_rewrite": "Brave updates its AI-powered search with a detailed answers feature",
+            "bullets": [
+              "Browser maker and Google Search alternative Brave announced on Monday that it’s adding a new feature to its AI-powered search suite, Ask Brave, to provide detailed answers on a topic based on the query.",
+              "The search company said that this new feature will co-exist next to its AI Answers feature, which was introduced last year to give summarized responses to search queries.",
+              "The company said that people are getting more than 15 million answers every day.",
+              "You can also turn your normal search query into an AI search query by tapping into the ask tab on the search page result.",
+              "“While AI Answers give our users quick summaries, Ask Brave provides longer answers, follow-ups, and a chat mode enhanced with Deep Research, and most importantly, contextually relevant enrichments such as videos, news articles, products, businesses, shopping, and more – in the right place, at the right time,” said Chief of Search at Brave, Josep M.",
+              "“Search makes it possible, LLMs glue it together."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy",
+            "site_name": "The Verge",
+            "novelty_hash": "0d0a8453683415ea7ee579a0db7dcc912c28aca1"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
+            "bullets": [
+              "Anthropic’s latest AI model spent 30 hours running by itself to code a chat app akin to Slack or Teams.",
+              "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy\nIt can run autonomously for 30 hours straight, per Anthropic.",
+              "The model, Claude Sonnet 4.5, was announced today, and its ability to operate autonomously for 30 hours straight is a huge jump forward.",
+              "It’s all a significant step in Anthropic’s battle to corner the market on both AI agents and AI coding.",
+              "The company called Claude Sonnet 4.5 “the best model in the world for real-world agents, coding, and computer use” and said it “leads the market at using computers,” referencing the Computer Use feature Anthropic debuted nearly a year ago.",
+              "The new model is particularly adept in fields like cybersecurity, financial services, and research, according to Anthropic."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Alexa Plus is smarter — but it’s not yet smart enough",
+            "link": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home",
+            "site_name": "The Verge",
+            "novelty_hash": "16b1246a33744e697680bddf2e5eacefa6c8f125"
+          },
+          "review": {
+            "headline_rewrite": "Alexa Plus is smarter — but it’s not yet smart enough",
+            "bullets": [
+              "This week, Amazon will launch new Echo hardware designed to supercharge Alexa Plus, the AI-powered upgrade to its voice assistant.",
+              "Alexa Plus is smarter — but it’s not yet smart enough\nAs Amazon prepares to launch new hardware this week, it needs to push Alexa to the next level.",
+              "Alexa Plus should make the smart home smarter\nGenerative AI is supposed to be a watershed moment for the smart home.",
+              "By cutting through the complexity of programming your home and removing the frustrations of clunky commands, LLMs should make the smart home more accessible.",
+              "I can now say, “Alexa, dim the lights in here, adjust the thermostat down a few degrees, lock the front door, and turn the upstairs lights off.",
+              "Instead of scrolling through thumbnail clips in the Ring app, I can ask an Echo Show 21 when the cat was last on the porch and instantly see a full-screen video."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Taiwan pressured to move 50% of chip production to US or lose protection",
+            "link": "https://arstechnica.com/tech-policy/2025/09/taiwan-pressured-to-move-50-of-chip-production-to-us-or-lose-protection/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8cffcfa372c2a773c3c89e9904b97e3356c192fd"
+          },
+          "review": {
+            "headline_rewrite": "Taiwan pressured to move 50% of chip production to US or lose protection",
+            "bullets": [
+              "The Trump administration is pressuring Taiwan to rapidly move 50 percent of its chip production into the US if it wants ensured protection against a threatened Chinese invasion, US Commerce Secretary Howard Lutnick told NewsNation this weekend.",
+              "In the interview, Lutnick noted that Taiwan currently makes about 95 percent of chips used in smartphones and cars, as well as in critical military defense technology.",
+              "It's bad for the US, Lutnick said, that \"95 percent of our chips are made 9,000 miles away,\" while China is not being \"shy\" about threats to \"take\" Taiwan.",
+              "Were the US to lose access to Taiwan's supply chain, the US could be defenseless as its economy takes a hit, Lutnick alleged, asking, \"How are you going to get the chips here to make your drones, to make your equipment?\"\n\"The model is: if you can't make your own chips, how can you defend yourself, right?\" Lutnick argued.",
+              "That's why he confirmed his \"objective\" during his time in office is to shift US chip production from 2 percent to 40 percent.",
+              "To achieve that, he plans to bring Taiwan's \"whole supply chain\" into the US, a move experts have suggested could take much longer than a single presidential term to accomplish."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
