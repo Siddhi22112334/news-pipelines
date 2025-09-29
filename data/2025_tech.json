@@ -98761,6 +98761,122 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "18:57": [
+        {
+          "item": {
+            "title": "The startup behind open source tool Polars raises $21M from Accel",
+            "link": "https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6bf5370429e0ee67a7cfa4f2bf363dba2e072baa"
+          },
+          "review": {
+            "headline_rewrite": "The startup behind open source tool Polars raises $21M from Accel",
+            "bullets": [
+              "Polars, the Amsterdam-based company behind the popular open source project of the same name, has raised €18 million (about $21 million) in a Series A round led by Accel, with participation from Bain Capital Partners and angel investors.",
+              "But while raising this kind of money is the dream of many developers, its creator Ritchie Vink didn’t set out to do so.",
+              "Two years after launching as a company, the company in February launched Polars Cloud, a managed data platform that lets users run queries in the cloud at scale.",
+              "“In the open-source community, the joke is that you can rewrite anything in Rust and it becomes better,” said Accel partner Zhenya Loginov, who led the funding round.",
+              "“The reason that it’s a joke is that it is not a real sustainable advantage, and you need to do a lot more.”\nFor Viks and his co-founder, former Xomnia CTO Chiel Peters, doing more means building products around the tool, like Polars Cloud and Polars Distributed.",
+              "The latter is a distributed engine that will support use cases involving petabytes of data, rather than small datasets, and is currently available in public beta."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple",
+            "link": "https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/",
+            "site_name": "WIRED",
+            "novelty_hash": "25d80270b4f97a9aba85046fac83cb272448495a"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple",
+            "bullets": [
+              "Last week at Snapdragon Summit, Qualcomm announced its next-gen line of PC chips, Snapdragon X2.",
+              "The chips will come in two flavors: the X2 Elite and X2 Elite Extreme.",
+              "At a benchmarking session at the conference, held in Hawaii, I was given a closer look at just how the X2 Elite Extreme will perform across a variety of common tests, using reference laptops Qualcomm brought to the event.",
+              "(Qualcomm paid for a portion of my travel expenses to attend the Snapdragon Summit, but the company has no say in our reporting.)\nTesting the Elite Extreme\nLet's start with Cinebench 2024, a popular benchmark based on Maxon's Cinema 4D, an industry standard in the world of 3D modeling and animation.",
+              "The test I ran earned a Cinebench multi-core score of 1,974, a whopping 62 percent faster than the base M4 on a 15-inch MacBook Air.",
+              "It's even 15 percent faster than the M4 Pro in a 16-inch MacBook Pro, only surpassed by Apple's most powerful laptop chip, the M4 Max."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Honda and Astrobotic team up to keep the lights on through the long lunar night",
+            "link": "https://techcrunch.com/2025/09/29/honda-and-astrobotic-team-up-to-keep-the-lights-on-through-the-long-lunar-night/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "96d80edf8e2c4ae429cb3da774cb826bbdcc4808"
+          },
+          "review": {
+            "headline_rewrite": "Honda and Astrobotic team up to keep the lights on through the long lunar night",
+            "bullets": [
+              "Honda’s RFC addresses that problem by storing solar power as hydrogen during the lunar day and converting it back into electricity at night, producing water as the only byproduct.",
+              "The aim is a real moonshot: continuous, reliable power on the lunar surface.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nFounded in 2007, Pittsburgh-based Astrobotic is best known for its Peregrine lunar lander, which launched at the beginning of this year but did not complete its mission.",
+              "Power systems like LunarGrid, paired with Honda’s RFC, could open the door to more ambitious future missions, and eventually, a sustained human presence on the Moon."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Get a look at the OnePlus 15 from every angle",
+            "link": "https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass",
+            "site_name": "The Verge",
+            "novelty_hash": "9cd3619066ba6a30bca4fe5f01b8657d57ff28ed"
+          },
+          "review": {
+            "headline_rewrite": "Get a look at the OnePlus 15 from every angle",
+            "bullets": [
+              "Just a few days after first teasing the upcoming launch of the OnePlus 15, the company is already showing off the phone in plenty of detail.",
+              "Today OnePlus confirmed that the new flagship is getting a global launch, and over the weekend it dropped multiple photo sets on Chinese social media giving us a better look at the hardware.",
+              "Get a look at the OnePlus 15 from every angle\nThe phone will launch globally, and this is its new ‘sand storm’ color.",
+              "We now know that the phone is launching in a color called “sand storm,” which is presumably in addition to the black model the company revealed at a Qualcomm event last week, and what appears to be a white handset shown in photos with a Chinese esports influencer.",
+              "The company confirmed a couple build details too, revealing that the phone — at least in its sand storm version — has a fiberglass back and a ceramic-coated metal frame that the company says is tougher than either aluminum or titanium.",
+              "OnePlus has repeatedly teased on Weibo that the 15 will launch in China next month, but it remains to be seen if there’ll be a longer wait for the phone to reach the US."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "$55 billion EA buyout hands Madden over to investors including Saudi Arabia and Jared Kushner",
+            "link": "https://www.theverge.com/news/787112/electronic-arts-55-billion-privacte-acquisition-pif-silver-lake-affinity-partners",
+            "site_name": "The Verge",
+            "novelty_hash": "4c8b28c5cda920fd7c1855b43461f99487904f2d"
+          },
+          "review": {
+            "headline_rewrite": "$55 billion EA buyout hands Madden over to investors including Saudi Arabia and Jared Kushner",
+            "bullets": [
+              "Each of PIF, Silver Lake, and Affinity Partners plan to fund the equity component of the financing entirely from capital under their respective control.",
+              "Upon completion of the transaction, EA will remain headquartered in Redwood City, California and continue to be led by Andrew Wilson as CEO.",
+              "The companies announced the agreement just days before EA plans to launch Battlefield 6 on October 10th.",
+              "EA also said in January that Dragon Age: The Veilguard “underperformed” expectations.",
+              "This moment is a powerful recognition of their remarkable work,” said EA CEO Andrew Wilson."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ZR1, GTD, and America’s new Nürburgring war",
+            "link": "https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5cb96cc8cd53cce34bb99a2196bdb238de94c3c4"
+          },
+          "review": {
+            "headline_rewrite": "ZR1, GTD, and America’s new Nürburgring war",
+            "bullets": [
+              "But the Nürburgring, a 13-mile (20 km) track often called the Green Hell, rarely hits the radar of mainstream US performance aficionados.",
+              "That's because American car companies rarely take the time to run cars there, and if they do, it's in secrecy, to test pre-production machines cloaked in camouflage without publishing official times.",
+              "\"If you can develop a car that goes fast on the Nürburgring, it's going to be fast everywhere in the whole world,\" said Brian Wallace, the Corvette ZR1's vehicle dynamics engineer and the driver who set that car's fast lap of 6:50.763."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
