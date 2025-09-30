@@ -103646,6 +103646,126 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "18:57": [
+        {
+          "item": {
+            "title": "Into the Omniverse: Open-Source Physics Engine and OpenUSD Advance Robot Learning",
+            "link": "https://blogs.nvidia.com/?p=85387",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "6d76a97370c1e21a8743d952a879a0f1994d5a17"
+          },
+          "review": {
+            "headline_rewrite": "Into the Omniverse: Open-Source Physics Engine and OpenUSD Advance Robot Learning",
+            "bullets": [
+              "A “sim-first” approach unlocks these critical skills by enabling parallel training of hundreds or thousands of robot instances using real robot-captured data and synthetic data in simulation environments.",
+              "Accelerating Physical AI Development\nNVIDIA announced at the Conference on Robot Learning this week groundbreaking advances in open-source physics simulation, open foundation models and development frameworks, including:\nNewton Physics Engine: While robots learn faster and safer in simulation, humanoid robots — with complex joints, balance and movements — are pushing today’s physics engines to the limit.",
+              "Codeveloped by Google DeepMind, Disney Research and NVIDIA, and managed by the Linux Foundation, Newton is an open-source, GPU-accelerated physics engine to advance robot learning.",
+              "The latest Isaac GR00T N1.6 open robot foundation model, available soon on Hugging Face, integrates NVIDIA Cosmos Reason, an open reasoning vision language model built for physical AI.",
+              "Cosmos Reason serves as the robot’s deep-thinking brain and transforms vague instructions into step-by-step action plans using prior knowledge, common sense and physics understanding.",
+              "NVIDIA Isaac Lab: The latest version of Isaac Lab, an open-source, modular robot learning framework built on NVIDIA Isaac Sim and OpenUSD, is now available as an early developer release."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Zoox chooses Washington DC as its next autonomous vehicle testbed",
+            "link": "https://techcrunch.com/2025/09/30/zooxs-next-autonomous-vehicle-testbed-is-washington-dc/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d75b39c10f347bdc2d2188bfc2564793c71c8950"
+          },
+          "review": {
+            "headline_rewrite": "Zoox chooses Washington DC as its next autonomous vehicle testbed",
+            "bullets": [
+              "as it ramps up to begin testing its self-driving vehicles in the nation’s capital this year.",
+              "Zoox said in a blog post on Tuesday that it would begin by manually driving Toyota Highlanders equipped with its sensors and self-driving software to map the city.",
+              "Zoox wouldn’t share details on how many autonomous vehicles will be used for testing in the city.",
+              "Zoox is also working towards launching a commercial robotaxi service with its growing fleet of custom-built robotaxis that lack traditional controls like a steering wheel or pedals.",
+              "The company recently launched a free robotaxi service in Las Vegas, an anchor market where it has had offices and conducted testing since 2019.",
+              "The company is ultimately aiming to launch a commercial robotaxi service in multiple markets."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Drive adds AI to detect ransomware before it spreads",
+            "link": "https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect",
+            "site_name": "The Verge",
+            "novelty_hash": "9a5a27823e44126a7aab18a884bb60bf8b5c4216"
+          },
+          "review": {
+            "headline_rewrite": "Google Drive adds AI to detect ransomware before it spreads",
+            "bullets": [
+              "Google Drive for desktop is adding ransomware detection using an AI model trained on “millions of real-world ransomware samples” that will “look for signals that a file has been maliciously modified.” When Google’s AI believes it has detected ransomware activity on a Windows or macOS system, like trying to encrypt or corrupt files en masse, it will automatically stop syncing Drive files, alert users on their desktop and over email, and allow users to restore their files to an older version.",
+              "Google Drive adds AI to detect ransomware before it spreads\nWhen the tool detects potentially malicious activity, you’ll get a notification and be able to roll back your files.",
+              "The feature is rolling out in open beta starting today, and in a briefing with reporters, Google’s Luke Camery said the company aims to make it generally available by the end of the year.",
+              "“We’ve built a specialized AI model, trained on millions of real-world ransomware samples, to look for signals that a file has been maliciously modified,” Google says in a blog post.",
+              "Most Popular\n- Microsoft launches ‘vibe working’ in Excel and Word\n- Ford’s CEO isn’t impressed with Apple CarPlay Ultra\n- Anker’s fastest airline-friendly power bank is now available\n- Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy\n- Logitech’s MX Master 4 adds haptic feedback, mostly just for fun"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards",
+            "link": "https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "56d6ca097868ac388c1904a9b8f7bd776cdf1b05"
+          },
+          "review": {
+            "headline_rewrite": "DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards",
+            "bullets": [
+              "DoorDash said on Tuesday that it’s launching a creator program that will compensate users for short-form videos posted on its app.",
+              "The company also introduced “Going Out,” which rewards users for dining at local restaurants, along with new AI features.",
+              "The program will be launched in more cities through the end of the year.",
+              "DoorDash is also launching “Going Out,” a feature it’s been testing in select cities that lets DashPass members earn in-store rewards when dining at local restaurants.",
+              "“With Going Out, you can find and redeem exclusive in-app offers when you dine in and earn rewards just for coming back,” said Parisa Sadrzadeh, vice president of strategy and operations, at a press event on Monday.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nAs for the new AI features, the DoorDash app now offers personalized recommendations at the top of the homepage, taking into account the user’s past orders, budget preferences, dietary restrictions, time of day, and location."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s new Security Store is like an app store for cybersecurity",
+            "link": "https://www.theverge.com/news/788195/microsoft-security-store-launch-copilot-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "22f98a6def9cf1e8eaa0d9913388fe5e95736b97"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s new Security Store is like an app store for cybersecurity",
+            "bullets": [
+              "Microsoft is launching a Security Store that will be full of security software-as-a-service (SaaS) solutions and AI agents.",
+              "It’s part of a broader effort to sell Microsoft’s Sentinel security platform to businesses, complete with Microsoft Security Copilot AI agents that can be built by security teams to help tackle the latest threats.",
+              "Microsoft’s new Security Store is like an app store for cybersecurity\nCybersecurity workers can also start creating their own Security Copilot AI agents.",
+              "The Microsoft Security Store is a storefront designed for security professionals to buy and deploy SaaS solutions and AI agents from Microsoft’s ecosystem partners.",
+              "A lot of the solutions will integrate with Microsoft Defender, Sentinel, Entra, Purview, or Security Copilot, making them quick to onboard for businesses that are fully reliant on Microsoft for their security needs.",
+              "Alongside the Security Store, Microsoft is also allowing Security Copilot users to build their own AI agents."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The SUV that saved Porsche goes electric, and the tech is interesting",
+            "link": "https://arstechnica.com/features/2025/09/heres-what-we-know-about-porsches-electric-cayenne-suv/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ebbc63659348716250e067e613922f39deebc2b9"
+          },
+          "review": {
+            "headline_rewrite": "The SUV that saved Porsche goes electric, and the tech is interesting",
+            "bullets": [
+              "\"It's not just a product update; it's a complete new chapter in the story,\" said Sajjad Khan, a member of Porsche's management board in charge of car IT.",
+              "Inside, the cockpit is also new, with OLED screens for the main instrument panel and a curved infotainment display that will probably dominate the discussion.",
+              "OLED me tell you about my screens\nAlthough the 14.25-inch digital main instrument display looks pretty similar to the one you'll find in most modern Porsches, all of the hardware for the Cayenne Electric is new and now uses an OLED panel.",
+              "The curved central 12.25-inch infotainment screen is also an OLED panel, which keeps customizable widgets on its lower third and allows for a variety of content on the upper portion, including Android Auto or Apple CarPlay.",
+              "The UI has taken cues from iOS, but it retains a look and feel that's consistent with other Porsches."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
