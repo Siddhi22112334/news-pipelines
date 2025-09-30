@@ -105556,6 +105556,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:44": [
+        {
+          "item": {
+            "title": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
+            "link": "https://blogs.nvidia.com/blog/how-quantum-computings-biggest-challenges-solved-accelerated-computing/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2ccfd5b2a598128012bd82e374b926757d0c798e"
+          },
+          "review": {
+            "headline_rewrite": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
+            "bullets": [
+              "From faster decoding of quantum errors to designing larger systems of qubits, researchers are using GPU-accelerated tools to expand classical computation and bring useful quantum applications closer to reality.",
+              "It was developed using CUDA-Q’s GPU-accelerated BP-OSD decoding functionality, which parallelizes the decoding process, increasing the odds that error correction works.",
+              "In a separate collaboration with QuEra, the NVIDIA PhysicsNeMo framework and cuDNN library were used to develop an AI decoder with a transformer architecture.",
+              "AI methods offer a promising means to scale decoding to the larger-distance codes needed in future quantum computers.",
+              "AI models can frontload the computationally intensive portions of the workloads by training ahead of time and running more efficient inference at runtime.",
+              "Using an AI model developed with NVIDIA CUDA-Q, QuEra achieved a 50x boost in decoding speed — along with improved accuracy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "BBVA Secures 100,000 Devices with Android Enterprise",
+            "link": "https://blog.google/products/android-enterprise/bbva-android-enterprise/",
+            "site_name": "Google",
+            "novelty_hash": "02c6eccee14457ee81ca4dcab31f67fd75ebac1f"
+          },
+          "review": {
+            "headline_rewrite": "BBVA Secures 100,000 Devices with Android Enterprise",
+            "bullets": [
+              "Android Enterprise has helped us accelerate the growth of our global mobile device management (MDM) program, which allows more than 100,000 Android devices to be managed centrally, while keeping our teams productive — and with the always-on security needed for the financial industry.",
+              "Standard security and AI policies across all teams, in all countries\nBefore Android Enterprise, our global mobile solutions were composed of fragmented systems across different countries.",
+              "Regional discrepancies strained IT resources by requiring staff on site to troubleshoot.",
+              "Building a truly global system was impossible without centralized visibility, making device setup and security a constant challenge.",
+              "We were unable to balance strong security with a great employee experience.",
+              "Features like zero-touch enrollment and Work Profile created a digital shield for us and our global teams, while helping us streamline our operations and give our teams the modern tools they needed."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A breach every month raises doubts about South Korea’s digital defenses",
+            "link": "https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d9199a1fa5f923d8f852d6925b290e87c3a15729"
+          },
+          "review": {
+            "headline_rewrite": "A breach every month raises doubts about South Korea’s digital defenses",
+            "bullets": [
+              "South Korea is world-famous for its blazing-fast internet, near-universal broadband coverage, and as a leader in digital innovation, hosting global tech brands like Hyundai, LG, and Samsung.",
+              "But this very success has made the country a prime target for hackers and exposed how fragile its cybersecurity defenses remain.",
+              "“The government’s approach to cybersecurity remains largely reactive, treating it as a crisis management issue rather than as critical national infrastructure,” Brian Pak, the chief executive of Seoul-based cybersecurity firm Theori, told TechCrunch.",
+              "Pak, who also serves as an advisor to SK Telecom’s parent company’s special committee on cybersecurity innovations, told TechCrunch that because government agencies tasked with cybersecurity work in silos, developing digital defenses and training skilled workers often get overlooked.",
+              "The country is also facing a severe shortage of skilled cybersecurity experts.",
+              "“[That’s] mainly because the current approach has held back workforce development."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TikTok, #freedom edition",
+            "link": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
+            "site_name": "The Verge",
+            "novelty_hash": "3f981ff7d3432de4dacad5230bec4177b0893d0a"
+          },
+          "review": {
+            "headline_rewrite": "TikTok, #freedom edition",
+            "bullets": [
+              "When we launched Regulator two months ago, the premise was that I’d write about the collision between Big Tech and Big Government.",
+              "Here are the ones that have been stuck in my brain for a while…\nUnder the current deal, ByteDance will still retain control of that algorithm and lease it to its US counterpart.",
+              "But it’s not going to work out that way, unfortunately,” Trump said, adding that, “every group, every philosophy, every policy will be treated fairly.”\nJimmy Kimmel Live!",
+              "returns: The first part of this saga was heavily shaped by the power that the FCC has over broadcast: Brendan Carr threatened to revoke TV station licenses over Kimmel cracking a joke about Charlie Kirk’s killer, Nexstar and Sinclair caved, and ABC parent company Disney immediately suspended the show.",
+              "According to overnight numbers from Nielsen, Kimmel’s return episode drew a staggering 6.2 million viewers the night it was aired live on television — four times its normal viewing audience, despite only 80 percent of television stations airing it.",
+              "(Nexstar and Sinclair both preempted it with other content.) But those numbers are dwarfed by internet viewership."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ted Cruz blocks bill that would extend privacy protections to all Americans",
+            "link": "https://techcrunch.com/2025/09/30/ted-cruz-blocks-bill-that-would-extend-privacy-protections-to-all-americans/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b96896e28006e45c75fbc8c105890700021b8aac"
+          },
+          "review": {
+            "headline_rewrite": "Ted Cruz blocks bill that would extend privacy protections to all Americans",
+            "bullets": [
+              "“Members of Congress should not receive special treatment,” Wyden said on the Senate floor.",
+              "Cruz was the sole objecting senator, who claimed without evidence that Wyden’s bill could disrupt law enforcement, “such as knowing where sexual predators are living.”\nData brokers are part of a worldwide multibillion-dollar industry of companies that profit from hoarding and selling access to huge amounts of Americans’ personal, financial, and granular location information, often collected from phones and other devices connected to the internet.",
+              "This data gets sold, including to governments, who don’t need a warrant for commercially obtainable data.",
+              "The collection of huge banks of data also comes with its own risks, including security lapses and data breaches.",
+              "Information bought by data brokers has been used to dox people, and in recent cases linked to the recent murders of two Minnesota state lawmakers, whose killer allegedly obtained their home addresses from data brokers.",
+              "In response, Cruz said that he was “interested in expanding the protection to as wide a universe as is feasible, as is practicable, but that answer is not yet worked out.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
+            "link": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "32a3b54f214252f12b830ff26cefb14a6cb296ac"
+          },
+          "review": {
+            "headline_rewrite": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
+            "bullets": [
+              "Two distinct products were announced, each using different models and accessed from within different tools—though the similar names Microsoft chose make it confusing to parse what's what.",
+              "Driven by OpenAI's GPT-5 large language model, Agent Mode is built into Word and Excel, and it allows the creation of complex documents and spreadsheets from user prompts.",
+              "It's only available in the web versions of Word and Excel at present, but the plan is to bring it to native desktop applications later.",
+              "Based on Anthropic models, this feature is built into Microsoft's Copilot AI assistant chatbot, and it too can generate documents from prompts—specifically, Word or PowerPoint files.",
+              "Office Agent doesn't run through all the steps as Agent Mode, but Microsoft believes it offers a dramatic improvement over prior, OpenAI-driven document-generation capabilities in Copilot, which users complained were prone to all sorts of problems and shortcomings.",
+              "It is available first in the Frontier Program for Microsoft 365 subscribers."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
