@@ -103887,6 +103887,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:47": [
+        {
+          "item": {
+            "title": "Into the Omniverse: Open-Source Physics Engine and OpenUSD Advance Robot Learning",
+            "link": "https://blogs.nvidia.com/blog/newton-physics-engine-openusd/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "6d76a97370c1e21a8743d952a879a0f1994d5a17"
+          },
+          "review": {
+            "headline_rewrite": "Into the Omniverse: Open-Source Physics Engine and OpenUSD Advance Robot Learning",
+            "bullets": [
+              "A “sim-first” approach unlocks these critical skills by enabling parallel training of hundreds or thousands of robot instances using real robot-captured data and synthetic data in simulation environments.",
+              "Accelerating Physical AI Development\nNVIDIA announced at the Conference on Robot Learning this week groundbreaking advances in open-source physics simulation, open foundation models and development frameworks, including:\nNewton Physics Engine: While robots learn faster and safer in simulation, humanoid robots — with complex joints, balance and movements — are pushing today’s physics engines to the limit.",
+              "Codeveloped by Google DeepMind, Disney Research and NVIDIA, and managed by the Linux Foundation, Newton is an open-source, GPU-accelerated physics engine to advance robot learning.",
+              "The latest Isaac GR00T N1.6 open robot foundation model, available soon on Hugging Face, integrates NVIDIA Cosmos Reason, an open reasoning vision language model built for physical AI.",
+              "Cosmos Reason serves as the robot’s deep-thinking brain and transforms vague instructions into step-by-step action plans using prior knowledge, common sense and physics understanding.",
+              "NVIDIA Isaac Lab: The latest version of Isaac Lab, an open-source, modular robot learning framework built on NVIDIA Isaac Sim and OpenUSD, is now available as an early developer release."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI Mode can now help you search and explore visually",
+            "link": "https://blog.google/products/search/search-ai-updates-september-2025/",
+            "site_name": "Google",
+            "novelty_hash": "8174596c43ef4424715e1f63df6d302bf7719f91"
+          },
+          "review": {
+            "headline_rewrite": "AI Mode can now help you search and explore visually",
+            "bullets": [
+              "AI Mode can now help you search and explore visually\nWe’ve all been there: staring at a screen, searching for something you can’t quite put into words.",
+              "With a major new update to AI Mode in Google Search, you can now do just that.",
+              "Making visual exploration more natural\nStarting today, you can ask a question conversationally and get a range of visual results in AI Mode, with the ability to continuously refine your search in the way that’s most natural for you.",
+              "Now, AI Mode will help you turn your vague idea into a clear vision.",
+              "Rather than sifting through filters to find the right style, rise, color, size or brand, just say “barrel jeans that aren’t too baggy,” and AI Mode will intelligently provide a relevant set of shoppable options.",
+              "You can easily visit the retailer’s site and purchase: With our Shopping Graph of more than 50 billion product listings, you’ll get results you can trust."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Composite gets backing from NFDG for its cross-browser agent tool",
+            "link": "https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "86658435956de6fd8669f61bf07d56678ef852df"
+          },
+          "review": {
+            "headline_rewrite": "Composite gets backing from NFDG for its cross-browser agent tool",
+            "bullets": [
+              "The central pitch of AI browsers like Perplexity’s Comet, Opera’s Neon, and The Browser Company’s Dia is that they’ll help you complete daily tasks more efficiently.",
+              "While these are agents that are limited to one browser, Composite aims to build an agentic solution that helps professionals with their tasks, regardless of which browser they use.",
+              "Yun is a former product manager at Uber, while Deane founded a company selling server proxies.",
+              "“I saw people in different roles, including marketing, sales, recruitment, and security engineers, do a lot of tedious work in their browsers.",
+              "The company said today that it has raised $5.6 million in seed funding in a round led by Nat Friedman and Daniel Gross’s venture firm NFDG, with participation from Menlo Ventures and Anthropic’s Anthology Fund.",
+              "The startup says security engineers can use it for looking up candidates across sites and draft personalized emails, security engineers can create vulnerability tickets based on alerts, and marketers can pull reports from different sources to create short insights reports."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Zoox chooses Washington DC as its next autonomous vehicle testbed",
+            "link": "https://techcrunch.com/2025/09/30/zooxs-next-autonomous-vehicle-testbed-is-washington-dc/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d75b39c10f347bdc2d2188bfc2564793c71c8950"
+          },
+          "review": {
+            "headline_rewrite": "Zoox chooses Washington DC as its next autonomous vehicle testbed",
+            "bullets": [
+              "as it ramps up to begin testing its self-driving vehicles in the nation’s capital this year.",
+              "Zoox said in a blog post on Tuesday that it would begin by manually driving Toyota Highlanders equipped with its sensors and self-driving software to map the city.",
+              "Zoox wouldn’t share details on how many autonomous vehicles will be used for testing in the city.",
+              "Zoox is also working towards launching a commercial robotaxi service with its growing fleet of custom-built robotaxis that lack traditional controls like a steering wheel or pedals.",
+              "The company recently launched a free robotaxi service in Las Vegas, an anchor market where it has had offices and conducted testing since 2019.",
+              "The company is ultimately aiming to launch a commercial robotaxi service in multiple markets."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Drive adds AI to detect ransomware before it spreads",
+            "link": "https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect",
+            "site_name": "The Verge",
+            "novelty_hash": "29502a857897913464e59dcecf1f67f9a444ac73"
+          },
+          "review": {
+            "headline_rewrite": "Google Drive adds AI to detect ransomware before it spreads",
+            "bullets": [
+              "Google Drive for desktop is adding ransomware detection using an AI model trained on “millions of real-world ransomware samples” that will “look for signals that a file has been maliciously modified.” When Google’s AI believes it has detected ransomware activity on a Windows or macOS system, like trying to encrypt or corrupt files en masse, it will automatically stop syncing Drive files, alert users on their desktop and over email, and allow users to restore their files to an older version.",
+              "Google Drive adds AI to detect ransomware before it spreads\nWhen the tool detects potentially malicious activity, you’ll get a notification and be able to roll back your files.",
+              "The feature is rolling out in open beta starting today, and in a briefing with reporters, Google’s Luke Camery said the company aims to make it generally available by the end of the year.",
+              "“We’ve built a specialized AI model, trained on millions of real-world ransomware samples, to look for signals that a file has been maliciously modified,” Google says in a blog post.",
+              "Most Popular\n- Microsoft launches ‘vibe working’ in Excel and Word\n- Ford’s CEO isn’t impressed with Apple CarPlay Ultra\n- Anker’s fastest airline-friendly power bank is now available\n- Logitech’s MX Master 4 adds haptic feedback, mostly just for fun\n- Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s new Security Store is like an app store for cybersecurity",
+            "link": "https://www.theverge.com/news/788195/microsoft-security-store-launch-copilot-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "22f98a6def9cf1e8eaa0d9913388fe5e95736b97"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s new Security Store is like an app store for cybersecurity",
+            "bullets": [
+              "Microsoft is launching a Security Store that will be full of security software-as-a-service (SaaS) solutions and AI agents.",
+              "It’s part of a broader effort to sell Microsoft’s Sentinel security platform to businesses, complete with Microsoft Security Copilot AI agents that can be built by security teams to help tackle the latest threats.",
+              "Microsoft’s new Security Store is like an app store for cybersecurity\nCybersecurity workers can also start creating their own Security Copilot AI agents.",
+              "The Microsoft Security Store is a storefront designed for security professionals to buy and deploy SaaS solutions and AI agents from Microsoft’s ecosystem partners.",
+              "A lot of the solutions will integrate with Microsoft Defender, Sentinel, Entra, Purview, or Security Copilot, making them quick to onboard for businesses that are fully reliant on Microsoft for their security needs.",
+              "Alongside the Security Store, Microsoft is also allowing Security Copilot users to build their own AI agents."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
