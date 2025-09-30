@@ -105800,6 +105800,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:45": [
+        {
+          "item": {
+            "title": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
+            "link": "https://blogs.nvidia.com/blog/how-quantum-computings-biggest-challenges-solved-accelerated-computing/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2ccfd5b2a598128012bd82e374b926757d0c798e"
+          },
+          "review": {
+            "headline_rewrite": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
+            "bullets": [
+              "From faster decoding of quantum errors to designing larger systems of qubits, researchers are using GPU-accelerated tools to expand classical computation and bring useful quantum applications closer to reality.",
+              "It was developed using CUDA-Q’s GPU-accelerated BP-OSD decoding functionality, which parallelizes the decoding process, increasing the odds that error correction works.",
+              "In a separate collaboration with QuEra, the NVIDIA PhysicsNeMo framework and cuDNN library were used to develop an AI decoder with a transformer architecture.",
+              "AI methods offer a promising means to scale decoding to the larger-distance codes needed in future quantum computers.",
+              "AI models can frontload the computationally intensive portions of the workloads by training ahead of time and running more efficient inference at runtime.",
+              "Using an AI model developed with NVIDIA CUDA-Q, QuEra achieved a 50x boost in decoding speed — along with improved accuracy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A breach every month raises doubts about South Korea’s digital defenses",
+            "link": "https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d9199a1fa5f923d8f852d6925b290e87c3a15729"
+          },
+          "review": {
+            "headline_rewrite": "A breach every month raises doubts about South Korea’s digital defenses",
+            "bullets": [
+              "South Korea is world-famous for its blazing-fast internet, near-universal broadband coverage, and as a leader in digital innovation, hosting global tech brands like Hyundai, LG, and Samsung.",
+              "But this very success has made the country a prime target for hackers and exposed how fragile its cybersecurity defenses remain.",
+              "“The government’s approach to cybersecurity remains largely reactive, treating it as a crisis management issue rather than as critical national infrastructure,” Brian Pak, the chief executive of Seoul-based cybersecurity firm Theori, told TechCrunch.",
+              "Pak, who also serves as an advisor to SK Telecom’s parent company’s special committee on cybersecurity innovations, told TechCrunch that because government agencies tasked with cybersecurity work in silos, developing digital defenses and training skilled workers often get overlooked.",
+              "The country is also facing a severe shortage of skilled cybersecurity experts.",
+              "“[That’s] mainly because the current approach has held back workforce development."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TikTok, #freedom edition",
+            "link": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
+            "site_name": "The Verge",
+            "novelty_hash": "3f981ff7d3432de4dacad5230bec4177b0893d0a"
+          },
+          "review": {
+            "headline_rewrite": "TikTok, #freedom edition",
+            "bullets": [
+              "When we launched Regulator two months ago, the premise was that I’d write about the collision between Big Tech and Big Government.",
+              "Here are the ones that have been stuck in my brain for a while…\nUnder the current deal, ByteDance will still retain control of that algorithm and lease it to its US counterpart.",
+              "But it’s not going to work out that way, unfortunately,” Trump said, adding that, “every group, every philosophy, every policy will be treated fairly.”\nJimmy Kimmel Live!",
+              "returns: The first part of this saga was heavily shaped by the power that the FCC has over broadcast: Brendan Carr threatened to revoke TV station licenses over Kimmel cracking a joke about Charlie Kirk’s killer, Nexstar and Sinclair caved, and ABC parent company Disney immediately suspended the show.",
+              "According to overnight numbers from Nielsen, Kimmel’s return episode drew a staggering 6.2 million viewers the night it was aired live on television — four times its normal viewing audience, despite only 80 percent of television stations airing it.",
+              "(Nexstar and Sinclair both preempted it with other content.) But those numbers are dwarfed by internet viewership."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel and AMD trusted enclaves, the backbone of network security, fall to physical attacks",
+            "link": "https://arstechnica.com/security/2025/09/intel-and-amd-trusted-enclaves-the-backbone-of-network-security-fall-to-physical-attacks/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "59bfd36002d421c7564df0bc14167b4d1e6c2e8e"
+          },
+          "review": {
+            "headline_rewrite": "Intel and AMD trusted enclaves, the backbone of network security, fall to physical attacks",
+            "bullets": [
+              "In the age of cloud computing, protections baked into chips from Intel, AMD, and others are essential for ensuring confidential data and sensitive operations can’t be viewed or manipulated by attackers who manage to compromise servers running inside a data center.",
+              "In many cases, these protections—which work by storing certain data and processes inside encrypted enclaves known as TEEs (Trusted Execution Enclaves)—are essential for safeguarding secrets stored in the cloud by the likes of Signal Messenger and WhatsApp.",
+              "All major cloud providers recommend that customers use it.",
+              "Over the years, researchers have repeatedly broken the security and privacy promises that Intel and AMD have made about their respective protections.",
+              "A separate attack known as Wiretap is able to passively decrypt sensitive data protected by SGX and remain invisible at all times.",
+              "They exploit both Intel’s and AMD’s use of deterministic encryption, which produces the same ciphertext each time the same plaintext is encrypted with a given key."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anonymous question app Sendit deceived children and illegally collected their data, FTC alleges",
+            "link": "https://techcrunch.com/2025/09/30/anonymous-question-app-sendit-deceived-children-and-illegally-collected-their-data-ftc-alleges/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5f98c52c0f2001a557c3f8eb7b37fc1d1fe9e87b"
+          },
+          "review": {
+            "headline_rewrite": "Anonymous question app Sendit deceived children and illegally collected their data, FTC alleges",
+            "bullets": [
+              "The Federal Trade Commission (FTC) filed a complaint against Sendit, an anonymous question app that became popular with Gen Z and younger, for unlawfully collecting children’s data, deceiving users about who sent them messages, and tricking users into buying memberships.",
+              "After that suspension, Sendit quickly gained 3.5 million downloads, as users flocked to the app to replace those that were no longer available.",
+              "This reporting was echoed in the FTC’s complaint, which stated that Sendit sent users fake, provocative messages (like “would you ever get with me?” or “have you done drugs?”).",
+              "If a user wanted to see who sent a message, they could spend $9.99 for a “Diamond Membership,” but the FTC claims that it was not clear that this was a recurring weekly payment, and not a one-time cost.",
+              "That same year, TechCrunch found that Sendit users were complaining in App Store reviews that the Sendit for Instagram app had solicited downloads by marketing itself as “Sendit Reveal,” an app that would “reveal” who sent them anonymous messages.",
+              "At the time, when TechCrunch asked Sendit founder Hunter Rice about these dark patterns, he suggested that we were looking for clickbait."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is blocking AI searches for Trump and dementia",
+            "link": "https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden",
+            "site_name": "The Verge",
+            "novelty_hash": "3248cf73feff685167a8d5da83109593c1c8d36b"
+          },
+          "review": {
+            "headline_rewrite": "Google is blocking AI searches for Trump and dementia",
+            "bullets": [
+              "Google appears to have blocked AI search results for the query “does trump show signs of dementia” as well as other questions about his mental acuity, even though it will show AI results for similar searches about other presidents.",
+              "Google is blocking AI searches for Trump and dementia\nAI Mode uncharacteristically pulls up a list of 10 web links instead of a written explanation.",
+              "When making the search about President Trump, AI Overviews will display a message that says, “An AI Overview is not available for this search”:\nGo directly to AI Mode, and you’ll only receive a list of 10 web results instead of a summarized page of information:\nSimilar searches about Trump are limited in the same way.",
+              "Various queries about dementia, Alzheimer’s, and senility display no AI overview and only produce a list of links inside AI Mode.",
+              "When asking “does biden show signs of dementia”, Google doesn’t show an AI Overview at all:\nBut in AI Mode, it will offer a summarized response.",
+              "When I searched for it, the response started with, “It’s not possible to definitively state whether former President Joe Biden has dementia based solely on publicly available information.”\nGoogle also displayed AI overviews for queries about Biden and Alzheimer’s, stating there is “no clinical diagnosis or public proof that former President Joe Biden has Alzheimer’s disease.”\nThis is all different from what you get when using the names of other public figures or recent presidents."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
