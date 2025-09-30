@@ -103175,6 +103175,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "16:12": [
+        {
+          "item": {
+            "title": "Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out",
+            "link": "https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/",
+            "site_name": "WIRED",
+            "novelty_hash": "5e9bfd1e945e739c79f1d38c7ea1323d46677b84"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out",
+            "bullets": [
+              "Anthropic is prepared to repurpose conversations users have with its Claude chatbot as training data for its large language models—unless those users opt out.",
+              "Previously, the company did not train its generative AI models on user chats.",
+              "When Anthropic’s privacy policy updates on October 8 to start allowing for this, users will have to opt out, or else their new chat logs and coding tasks will be used to train future Anthropic models.",
+              "“All large language models, like Claude, are trained using large amounts of data,” reads part of Anthropic’s blog explaining why the company made this policy change.",
+              "“Data from real-world interactions provide valuable insights on which responses are most useful and accurate for users.” With more user data thrown into the LLM blender, Anthropic’s developers hope to make a better version of their chatbot over time.",
+              "“We wanted to give users more time to review this choice and ensure we have a smooth technical transition,” Gabby Curtis, a spokesperson for Anthropic, wrote in an email to WIRED."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Scientists unlock secret to Venus flytrap’s hair-trigger response",
+            "link": "https://arstechnica.com/science/2025/09/scientists-unlock-secret-to-venus-flytraps-hair-trigger-response/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d5c543c54b822631f23124e476d16f74de56889d"
+          },
+          "review": {
+            "headline_rewrite": "Scientists unlock secret to Venus flytrap’s hair-trigger response",
+            "bullets": [
+              "To trap its prey, the Venus flytrap sends rapid electrical impulses, which are generated in response to touch or stress.",
+              "But the molecular identity of the touch sensor has remained unclear.",
+              "When an insect lands on a leaf, it stimulates the highly sensitive trigger hairs that line the leaf.",
+              "When the pressure becomes strong enough to bend those hairs, the plant will snap its leaves shut and trap the insect inside.",
+              "In 2016, Rainer Hedrich, a biophysicist at Julius-Maximilians-Universität Würzburg in Bavaria, Germany, led the team that discovered that the Venus flytrap could actually \"count\" the number of times something touches its hair-lined leaves—an ability that helps the plant distinguish between the presence of prey and a small nut or stone, or even a dead insect.",
+              "The plant detects the first \"action potential\" but doesn't snap shut right away, waiting until a second zap confirms the presence of actual prey, at which point the trap closes."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Over-the-Counter Sleep Aids (2025), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-over-the-counter-sleep-aid/",
+            "site_name": "WIRED",
+            "novelty_hash": "1160f84442185a116301e384aaab8802aab6d1ee"
+          },
+          "review": {
+            "headline_rewrite": "The Best Over-the-Counter Sleep Aids (2025), Tested and Reviewed",
+            "bullets": [
+              "The best over-the-counter sleep aid is subjective, and I recommend everyone try out a myriad of products to find which works best for the individual sleeper because these days, there seems to be a never-ending list of nonprescription and alternative products touted to cure insomnia or ease falling-asleep woes.",
+              "I've been having trouble with insomnia since I was a child, and after years of dependence on medications, I wanted to try an alternative, more natural over-the-counter sleep aid that would take a gentler approach to falling asleep.",
+              "None of the sleep aids on this list has the common medications found in prescription or over-the-counter medicines (more on that below), and many on this list contain supplements like magnesium, functional mushrooms, and melatonin.",
+              "During testing, I cut out all of my other usual sleep aids and tried to have the same nighttime routine in order to compare the individual products.",
+              "I'd still encourage others to try since bodies react differently to the active ingredients in these over-the-counter sleep aids.",
+              "Everyday Alchemist Deep Sleep Solution for $49: This melatonin-free powder sleep aid is super cute, with great branding and a cute reusable glass straw and stirring spoon included."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The best Nintendo Switch 2 games for 2025",
+            "link": "https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-games-070007467.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4ce6328a6355f00f77a837a1dcc382a5810859b0"
+          },
+          "review": {
+            "headline_rewrite": "The best Nintendo Switch 2 games for 2025",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "But we’re a few months into the console’s lifecycle now and there are a variety of Switch 2-only games that are worth your cash, as well as a bunch of original Switch games that have received improvements for the new console And there’s also a robust selection of third-party games that have been on other consoles for a while, but not available on the Switch.",
+              "And keep an eye on this list, as there should be a lot more Switch 2 exclusives coming this fall that we're excited to try, including eagerly-awaited titles like Metroid Prime 4.",
+              "At each checkpoint, you have to be higher than a certain ranking or you’ll be eliminated.",
+              "— Nathan Ingraham, Deputy Editor\nNintendo hasn’t made a 3D Donkey Kong platformer since 1999, but Donkey Kong Bananza is more than worth the wait.",
+              "As a launch title for the original Switch, The Legend of Zelda: Breath of the Wild was a massive critical and commercial success for Nintendo."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/nano-banana-ai-how-to-detect-ai-generated-images-understand-privacy-risks-and-keep-your-data-safe/articleshow/123976855.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7addbb2c61f942f4dd105fe82e14f67cb9aacbb9"
+          },
+          "review": {
+            "headline_rewrite": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "bullets": [
+              "India has rapidly become the leading market for Googleâs latest AI innovation, Nano Banana, powered by the Gemini engine and cutting-edge machine learning algorithms.",
+              "However, its rise also raises important discussions about AI-generated content, including issues of authenticity, privacy, ethical use, and image detection.",
+              "As AI visuals grow increasingly sophisticated, learning to identify AI-generated images has become essential for social media users, digital creators, and enthusiasts seeking to navigate this evolving technological landscape responsibly.",
+              "Nano Banana leads Indiaâs surge in AI-powered creativity\nIndia is leading the global surge in AI-powered creativity, thanks to Google's Gemini 2.5 Flash Image model, popularly known as Nano Banana.",
+              "Since its launch in late August 2025, Nano Banana has transformed the way users engage with AI, enabling them to create hyper-realistic 3D figurines, retro-style portraits, and imaginative visual effects from simple photos and text prompts.",
+              "This surge in AI-driven creativity reflects a broader cultural shift, where technology and tradition intersect, allowing individuals to explore new forms of self-expression and artistic innovation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "d210af369003b99e9fec0934ca7d7e2943142cac"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Daily Chronicle\nFlu vaccines now available through DeKalb County Health DepartmentNews Showcase\nStories selected by newsroom editors\nMonday's news in Alexandria\nNews, art & life in Fayetteville, Arkansas\nBKReader: Brooklyn Reader - Latest\nIn a \"Stand Against ICE\" ma...",
+              "29 meetingMy Suburban Life\nPeople’s Resource Center seeks volunteer driversLatest Vermont News\nMonday Evening Update 9-29-2025\nDULUTH MINNESOTA NEWS\nDaily Dose of Neighborhood News 9.29.25\nLatest and Local – Cheyenne, WY\nStart the day with must-read news and opinion\nSHUTDOWN WATCH, RETIREMENT STRATEGY\nWhat Utah is buzzing about\nBig 12 football\nColorado apologizes for anti-LDS chant at BYU football gameNew technology\nWalk Your Plans franchise helping Utahns save on home buildingQuest for godhood\nJoseph Smith's final LDS General Conference sermonWhat to know in New Orleans\nLatest news for Mountlake Terrace\nLatest Headlines\nDaily Journal\nKendall County Now\nSomonauk/Leland/Newark boys soccer clinches Little 10 titleKendall County Now\nNewark volleyball beats Sandwich: Monday’s Record Newspapers sports roundupKendall County Now\nTaste of Sandwich provided plenty of local food optionsAfternoon rundown\nBest of Monday\nLocal Commerce\n'Unexpected': Glencoe Starbucks shuttersParks and Recreation\nCommissioners like new dog-beach idea but hold offNews Briefs\nPolice's new unit; Highland Park's new website; Wilmette Ave crossing closureHeadlines after deadlines\nCelebration venue\nRoseto Event Venue: From setback to stronger comebackOutdoor honors\nOhio State Mansfield recognized for natural resource conservationState report card\nLexington earns top early literacy scores on Ohio School Report CardLatest and Local – Gillette, WY\nDetroit Does\nEbony JJ Curry\nMichigan Expands Reentry ID Program to Wayne County, A Lifeline for Detroiters Returning HomeKristen Barnes-Holiday\nHave You Considered Your Calling Lately?Black Information Network\nMother Accused Of Trying To Drown Her 3 Children On Instagram LiveLATEST CALIFORNIA NEWS\nKane County Chronicle\nYo, Joan!",
+              "I never Metta Meditation I didn’t likeKane County Chronicle\nBatavia man reports $34K stolen from bank accountKane County Chronicle\nFoxFest brings live Rock ‘n Roll to GenevaSan Jose Spotlight: Your search for truth starts here\nBridge Michigan\nSep 29 2025, 5:18 PM\nCannabis group plots lawsuit over new Michigan weed tax planSep 29 2025, 3:55 PM\nUnited in tragedy, Oxford and Rochester Hills offer lesso...Sep 29 2025, 3:23 PM\nIn win for Michigan cities, court clears South Haven in b...Top stories\nFollow live updates\n‘I think we’re headed to a shutdown,’ says JD VancePostwar plan\nAuthority led by Tony Blair ‘would sideline Palestinians’'Toughing it out'\nShortage of drugs leaves Gaza’s wounded without pain reliefGJ Sentinel Headlines 9/29/25\nAvoiding arrest\nJudicial District hosting warrant forgiveness event | gjsentinel.comEscorted down the mountain\nPowderhorn chairlift malfunctions during color weekend | gjsentinel.comFreedom to fail\nCMU graduate Kane builds widely recognized AI tool Cobb Courier Evening Update Sept 29, 2025\nTransportation\nGeorgia gasoline prices fall with the onset of cooler weatherFood Safety\nLatest health inspection scores for Cobb County restaurantsAdopt, Don't Shop!",
+              "Are you here to adopt me?\"CAPITOLHILLSEATTLE.COM\nWILLMAR MINNESOTA NEWS\nNew York City News Today\nDaily News\nTucson's watchdog news\nThe Afternoon Recap (Sept.",
+              "29, 2025\n'The City Abandoned Them'\nTrial in 8-year-old's killing sharpens focus on Bottoms’ tenureElection 2026\nRuwa Romman to run for Georgia governor on progressive platformShooting Death\nSlain Gwinnett deputy previously lost son in hit-and-run crashFort Worth & Tarrant County Headlines\nMonday's news in Fairfax County\nNews\nWashington Examiner\nHow an illegal immigrant landed an Iowa school superintendent jobWashington Examiner\nSenate votes against proposed legislation to prevent government shutdownWashington Examiner\nNewsom signs ‘AI safety’ law to ‘build public trust’ in technologyTODAY IN SANTA CRUZ COUNTY\nCZU FIRE, FIVE YEARS LATER\nThe Renegades' complicated CZU fire legacyCARMAGEDDON\nCapitola City Council reverses Bay Avenue intersection redesignHIGHER ED\nUCSC recovers funds cut by Trump, but disruption roils campusMIDDLE EAST\nHamas support in question\nTrump secures Netanyahu's agreement to Gaza deal20-point proposal\nTrump envisions 'New Gaza' and Trump-led 'Board of Peace'Istanbul monitors aid flotilla\nDrones from Turkey circle Gaza aid flotilla as boats sail eastHappening in Loudoun County\nToday's Top Headlines\nPost and Courier\nCharleston area should expect less rainfall from TS ImeldaPost and Courier\nClemson accused of neglect at historic Charleston farmPost and Courier\nMoncks Corner firefighter dies in the line of dutyThe Evening Recap | September 29, 2025\nSan Antonio Music\nDoja Cat adds fall 2026 date in San Antonio to current tourSan Antonio News\nProject Marvel forum featuring Spurs, COPS/Metro this TuesdayConcert Reviews\nMastodon, Pavement headline historic year for LevitationMonday News Roundup - Evening Edition\nTop Stories from The Wilson Times\nToday's Rundown\nThe Almanac\nSep 29 2025, 6:00 AM\nCA prepares for possible federal government shutdownSep 29 2025, 5:30 AM\nNewsom to decide on renter protections tied to Social Security changes under TrumpSep 29 2025, 5:30 AM\nCalifornia needs to take a bolder stand for universities targeted by the White HouseThe Business Journal of the Boulder Valley and Northern Colorado\nToledo's Leader in News, Sports & Entertainment\nThe Herald News\nSan Diego Monday Evening Report\n'I will keep fighting'\nToni Atkins drops out of 2026 California governor's raceImmigrant tracking\nICE straps ankle, wrist monitors on more migrants in San DiegoSilent film star\nHollywood lights to Fallbrook nights: Dolores Costello BarrymoreNorthwest Herald\nNorthwest Herald\nRichmond-Burton can’t keep momentum in 2-set loss to LakesNorthwest Herald\nCrash into utility pole shuts down part of Route 14 in HarvardNorthwest Herald\nFree gun safes, locks to be handed out Monday in WoodstockOakland news to know\nA major new grant\nA dangerous roadway in Oakland is getting safety upgradesAffordable housing project\nOakland gets $33 million for supportive housing on 35th Ave.A much-deserved makeover\nOakland starts renovations on Tyrone Carney ParkImmigration News"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
