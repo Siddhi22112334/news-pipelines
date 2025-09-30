@@ -104955,5 +104955,128 @@
         }
       ]
     }
+  },
+  "2025-10-01": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "link": "https://techcrunch.com/2025/09/30/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bb9dee349f8cb7a77d7bb4c05965326d19cbddc8"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "bullets": [
+              "ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022.",
+              "What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users.",
+              "2024 was a big year for OpenAI, from its partnership with Apple for its generative AI offering, Apple Intelligence, the release of GPT-4o with voice capabilities, and the highly-anticipated launch of its text-to-video model Sora.",
+              "OpenAI also faced its share of internal drama, including the notable exits of high-level execs like co-founder and longtime chief scientist Ilya Sutskever and CTO Mira Murati.",
+              "OpenAI has also been hit with lawsuits from Alden Global Capital-owned newspapers alleging copyright infringement, as well as an injunction from Elon Musk to halt OpenAI’s transition to a for-profit.",
+              "In 2025, OpenAI is battling the perception that it’s ceding ground in the AI race to Chinese rivals like DeepSeek."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+            "link": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e768f9834fdcca03fe65522bf1257bfbdf698b4f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+            "bullets": [
+              "On Tuesday, OpenAI announced the release of Sora 2, an audio and video generator to succeed last year’s Sora.",
+              "Along with the model, the company also launched a linked social app called Sora, where users can be able to generate videos of themselves and their friends to share on a TikTok-style algorithmic feed.",
+              "OpenAI’s work on a new social platform was previously reported by Wired.",
+              "While we haven’t been able to test the invite-only app and Sora 2 model ourselves yet, OpenAI has shared impressive examples.",
+              "OpenAI’s public clips depict a beach volleyball game, skateboard tricks, gymnastics routines, and cannonball jumps from a diving board, among others.",
+              "“Prior video models are overoptimistic — they will morph objects and deform reality to successfully execute upon a text prompt,” OpenAI wrote in a blog post."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft is giving Copilot AI faces you can chat with",
+            "link": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
+            "site_name": "The Verge",
+            "novelty_hash": "af72cbf5cad709e4e383fdea4848bc86ccea9680"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft is giving Copilot AI faces you can chat with",
+            "bullets": [
+              "Microsoft is trying to make Copilot more approachable by giving the AI assistant an animated face to talk with.",
+              "The experimental “Portraits” feature in Copilot Labs is currently available in the US, UK, and Canada, and provides 40 stylized human avatars that respond with natural expressions during real-time voice conversations.",
+              "Microsoft is giving Copilot AI faces you can chat with\nCopilot Portraits provides 40 stylized human avatars that make expressions during voice conversations.",
+              "Announcing the new feature on X, Microsoft AI CEO Mustafa Suleyman says Portraits was developed in response to some Copilot users saying “they’d feel more comfortable talking to a face when using voice.” The feature allows users to select a portrait and pair it with a voice, aiming to make verbal conversations with the chatbot feel more natural compared to text-based interactions.",
+              "The notable difference between the two is that Portraits is based on human appearances instead of an animated cartoon blob.",
+              "”This experiment leverages VASA-1, an advanced AI technology developed by Microsoft Research to create real-time, visual AI conversations,” Microsoft announced on the Copilot Discord server."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s new social video app will let you deepfake your friends",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends",
+            "site_name": "The Verge",
+            "novelty_hash": "ef0144766e03655d02a5b03e90950a557488d9dd"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s new social video app will let you deepfake your friends",
+            "bullets": [
+              "OpenAI has a new version of the Sora AI video generator that it launched at the end of last year, and it’s arriving today alongside a new social video app, also called Sora, for iPhones.",
+              "But instead of encouraging people to stitch together duets, it asks you to record short videos that anyone can spin into new AI-generated deepfakes — with your consent.",
+              "OpenAI’s new social video app will let you deepfake your friends\nOpenAI’s new Sora AI video app is iPhone-only, for now.",
+              "In a briefing with reporters on Monday, employees called it the potential “ChatGPT moment for video generation.” The Sora app is currently only available to US and Canada users, with other countries set to follow, and when someone receives access, they also get four additional invites to share with friends.",
+              "The person whose likeness is being generated is a “co-owner” of that end result, OpenAI employees said, and they can delete it or revoke access to others at any time.",
+              "Like TikTok, OpenAI’s Sora app allows you to interact with other videos and trends using a “Remix” feature, but it only allows for the generation of 10-second videos for now."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Apple Watch Series 10 Is $170 Off",
+            "link": "https://www.wired.com/story/apple-watch-series-10-deal-1025/",
+            "site_name": "WIRED",
+            "novelty_hash": "552b9323c86d297c9d81dac00039887ef0fb9faf"
+          },
+          "review": {
+            "headline_rewrite": "The Apple Watch Series 10 Is $170 Off",
+            "bullets": [
+              "While the Apple devout are already chasing the new Apple Watch Series 11, you and I know that a product announcements means a great deals on the last generation.",
+              "It all pairs nicely with Apple's other health monitoring features, which can track fitness across a variety of activities, as well as monitor your sleep.",
+              "You could certainly spend more and get the newly announced Apple Watch Series 11 (9/10, WIRED Review) with better battery, and the return of the blood oxygen sensor, but if cellular is a key feature, you'll save some bucks grabbing the older model."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything announced at Amazon's fall hardware event",
+            "link": "https://www.engadget.com/home/everything-announced-at-amazons-fall-hardware-event-143557140.html",
+            "site_name": "Engadget",
+            "novelty_hash": "c6552fbcba186626f383f9dd2986c62814e314b3"
+          },
+          "review": {
+            "headline_rewrite": "Everything announced at Amazon's fall hardware event",
+            "bullets": [
+              "Amazon doesn’t usually livestream its product events and that remained the case here.",
+              "And, with Amazon looking to push Alexa+, it's certainly time for some new models.",
+              "The Echo Dot Max delivers almost three times the bass of the fifth-gen Echo Dot and sound that adapts to your space, Amazon claims.",
+              "As with the rest of its new products, Amazon built the Echo Show 8 and Echo Show 11 with Alexa+ in mind.",
+              "It might show you, for instance, an AI-powered summary of footage from your Ring devices.",
+              "The idea, according to Amazon, is to boost color without washing out details."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
