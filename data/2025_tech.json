@@ -104831,6 +104831,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "23:51": [
+        {
+          "item": {
+            "title": "Announcing AWS Outposts third-party storage integration with Dell and HPE",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-aws-outposts-third-party-storage-integration-with-dell-and-hpe/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "63ac397c3a3e54675dd1be863f85030597bc329d"
+          },
+          "review": {
+            "headline_rewrite": "Announcing AWS Outposts third-party storage integration with Dell and HPE",
+            "bullets": [
+              "Announcing AWS Outposts third-party storage integration with Dell and HPE\nSince announcing second-generation AWS Outposts racks in April with breakthrough performance and scalability, we’ve continued to innovate on behalf of our customers at the edge of the cloud.",
+              "The solution integration is particularly important for organizations migrating VMware workloads to AWS who need to maintain their existing storage infrastructure during the transition, and for those who must meet strict data residency requirements by keeping their data on-premises while using AWS services.",
+              "With this comprehensive approach, customers can centrally manage their storage resources while maintaining the consistent hybrid experience that Outposts provides.",
+              "Through the Amazon EC2 Launch Instance Wizard in the AWS Management Console, customers can configure their instances to use external storage from any of our supported partners.",
+              "For boot volumes, we provide AWS-verified AMIs for Windows Server 2022 and Red Hat Enterprise Linux 9, with automation scripts available through AWS Samples to simplify the setup process.",
+              "After the Outposts servers are connected to your network, AWS will remotely provision compute and storage resources so you can start launching applications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "link": "https://techcrunch.com/2025/09/30/chatgpt-everything-to-know-about-the-ai-chatbot/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bb9dee349f8cb7a77d7bb4c05965326d19cbddc8"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+            "bullets": [
+              "ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm since its launch in November 2022.",
+              "What started as a tool to supercharge productivity through writing essays and code with short text prompts has evolved into a behemoth with 300 million weekly active users.",
+              "2024 was a big year for OpenAI, from its partnership with Apple for its generative AI offering, Apple Intelligence, the release of GPT-4o with voice capabilities, and the highly-anticipated launch of its text-to-video model Sora.",
+              "OpenAI also faced its share of internal drama, including the notable exits of high-level execs like co-founder and longtime chief scientist Ilya Sutskever and CTO Mira Murati.",
+              "OpenAI has also been hit with lawsuits from Alden Global Capital-owned newspapers alleging copyright infringement, as well as an injunction from Elon Musk to halt OpenAI’s transition to a for-profit.",
+              "In 2025, OpenAI is battling the perception that it’s ceding ground in the AI race to Chinese rivals like DeepSeek."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best Fitbits for your fitness and health",
+            "link": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
+            "site_name": "The Verge",
+            "novelty_hash": "c5457bdcc81d96642f941b46589ebc72bf2c4d67"
+          },
+          "review": {
+            "headline_rewrite": "The best Fitbits for your fitness and health",
+            "bullets": [
+              "Despite getting acquired by Google, Fitbit remains one of the most recognizable names in the industry.",
+              "Fitbit trackers aren’t meant for the most hardcore of athletes, but they’re still excellent devices for tracking overall activity as well as monitoring certain health and wellness metrics, like EKGs and blood oxygen levels.",
+              "That said, we’re still in the transitional period from the Fitbit of old to whatever Fitbit will be in the future.",
+              "(Google has since made adjustments based on feedback.) And in 2024, much of Fitbit’s leadership, including co-founders James Park and Eric Friedman, left the company as roughly a thousand Google employees were laid off.",
+              "We also evaluate how easy fitness trackers pair with iPhones and Android devices, their durability, accuracy, battery life, and performance.",
+              "If it’s aimed at kids or athletes, are the straps durable enough?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s M5 iPad Pro might have leaked in Russia",
+            "link": "https://www.theverge.com/news/788743/apple-ipad-pro-m5-russia-leak-youtube-wylsacom",
+            "site_name": "The Verge",
+            "novelty_hash": "a81944df75f55cc82ad93816318721934b685ff9"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s M5 iPad Pro might have leaked in Russia",
+            "bullets": [
+              "A Russian YouTuber just posted a video unboxing what appears to be an unannounced iPad Pro with an M5 chip.",
+              "Rumors have indicated that Apple would launch an M5 iPad Pro as early as October, and this video could be our first look at the actual product.",
+              "Based on what’s shown in the video, the new device is still a big, thin tablet with a relatively unobtrusive bezel, and it once again looks to only have one camera on the back.",
+              "The M5 iPad Pro is rumored to get a portrait front camera in addition to the landscape front camera available on the M4 model, but in the video, it’s difficult to see if this alleged new iPad has both of those cameras.",
+              "For the GPU tests, the M5 iPad Pro got a score of 74,568 and the M4 iPad Pro got a score of 55,702.",
+              "If Apple is indeed going to launch an M5 iPad Pro sometime soon, we may not have to wait too much longer to see if the tablet in this video is the real deal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Hance will demo its kilobyte-size AI audio processing software at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/09/30/hance-will-demo-its-kilobyte-size-ai-audio-processing-software-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6bbb0bff53e4c6d325e96a0252f9b6e46b18bbc2"
+          },
+          "review": {
+            "headline_rewrite": "Hance will demo its kilobyte-size AI audio processing software at TechCrunch Disrupt 2025",
+            "bullets": [
+              "So a few years ago they started training their own models on Soundly’s high-quality recordings, including everything from the roar of F1 cars to the crack-and-rumble of Icelandic volcanoes.",
+              "Since then, they’ve been able to shrink the Hance processing models to just 242 kB, meaning they can run on device instead of in the cloud, saving time and energy.",
+              "Hance has been working with the technology giant to adopt its models to work on different versions of its chips, including its latest “neural processing units.” The startup is talking with other chipmakers, too, Hika said, and an undisclosed smartphone maker.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nHika said these professional partnerships will likely last at least a few years and that they’re non-exclusive.",
+              "That’s good for the startup’s ability to scale, but he said Hance will have to keep developing at a rapid pace to stay ahead of the competition.",
+              "The company has just brought on its first chief commercial officer, but Hika said he expects Hance to stay heavily focused on R&D, and that the company will preference “AI-capable” workers to stay lean."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything Amazon Announced Today at Its Fall Hardware Event (2025)",
+            "link": "https://www.wired.com/story/everything-amazon-announced-today-at-its-fall-hardware-event/",
+            "site_name": "WIRED",
+            "novelty_hash": "4cac318d615b3a42f8e461a468a8aad53d4f56a3"
+          },
+          "review": {
+            "headline_rewrite": "Everything Amazon Announced Today at Its Fall Hardware Event (2025)",
+            "bullets": [
+              "It got a large language model power-up earlier this year in the form of Alexa+ (a paid upgrade for non-Amazon Prime subscribers), and now, Amazon has fresh hardware to take advantage of the assistant’s new capabilities.",
+              "The Echo Dot Max is powered by Amazon’s new AZ3 chip, with the other devices utilizing the AZ3 Pro.",
+              "Amazon says they’re faster, more powerful, with faster wake-word detection and up-to-date on-device AI processing.",
+              "Over on the Show models, they now have a 13-megapixel camera for richer details on your video calls, with improved audio quality as well.",
+              "All of these Echo devices are available for preorder today.",
+              "These devices are 5.4 mm thick, which is thinner than the new iPhone Air."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
