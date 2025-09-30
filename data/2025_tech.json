@@ -105194,6 +105194,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "Announcing Amazon ECS Managed Instances for containerized applications",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ecs-managed-instances-for-containerized-applications/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "4695b9b49da853ed6be8f087b49262ed42c63dbe"
+          },
+          "review": {
+            "headline_rewrite": "Announcing Amazon ECS Managed Instances for containerized applications",
+            "bullets": [
+              "Announcing Amazon ECS Managed Instances for containerized applications\nToday, we’re announcing Amazon ECS Managed Instances, a new compute option for Amazon Elastic Container Service (Amazon ECS) that enables developers to use the full range of Amazon Elastic Compute Cloud (Amazon EC2) capabilities while offloading infrastructure management responsibilities to Amazon Web Service (AWS).",
+              "This new offering combines the operational simplicity of offloading infrastructure with the flexibility and control of Amazon EC2, which means customers can focus on building applications that drive innovation, while reducing total cost of ownership (TCO) and maintaining AWS best practices.",
+              "Customers running containerized workloads told us they want to combine the simplicity of serverless with the flexibility of self-managed EC2 instances.",
+              "Although serverless options provide an excellent general-purpose solution, some applications require specific compute capabilities, such as GPU acceleration, particular CPU architectures, or enhanced networking performance.",
+              "Amazon ECS Managed Instances provides a fully managed container compute environment that supports a broad range of EC2 instance types and deep integration with AWS services.",
+              "AWS handles all aspects of infrastructure management, including provisioning, scaling, security patching, and cost optimization, enabling you to concentrate on building and running your applications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science",
+            "link": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bc6e03603bb5f6efe7f0ef80c2622caa78b76ed0"
+          },
+          "review": {
+            "headline_rewrite": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science",
+            "bullets": [
+              "Cubuk led the materials and chemistry team at Google Brain and DeepMind, where one of his projects was, for instance, an AI tool called GNoME.",
+              "Fedus is a former VP of Research at OpenAI, and one of the researchers who helped create ChatGPT.",
+              "Its small team is likewise filled with researchers who have worked on other major AI and materials science projects, from building OpenAI’s agent Operator to working on Microsoft’s MatterGen, an LLM materials science discovery AI.",
+              "The goal of Periodic Labs is nothing less than to automate scientific discovery, creating AI scientists, the company says.",
+              "This means building labs where robots conduct physical experiments, collect data, iterate, and try again, learning and improving as they go.",
+              "Another goal is to collect all the physical world data that its AI scientists produce as they mix and heat and otherwise manipulate various powers and raw materials in their search for something new."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+            "link": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e768f9834fdcca03fe65522bf1257bfbdf698b4f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+            "bullets": [
+              "On Tuesday, OpenAI announced the release of Sora 2, an audio and video generator to succeed last year’s Sora.",
+              "Along with the model, the company also launched a linked social app called Sora, where users can be able to generate videos of themselves and their friends to share on a TikTok-style algorithmic feed.",
+              "OpenAI’s work on a new social platform was previously reported by Wired.",
+              "While we haven’t been able to test the invite-only app and Sora 2 model ourselves yet, OpenAI has shared impressive examples.",
+              "OpenAI’s public clips depict a beach volleyball game, skateboard tricks, gymnastics routines, and cannonball jumps from a diving board, among others.",
+              "“Prior video models are overoptimistic — they will morph objects and deform reality to successfully execute upon a text prompt,” OpenAI wrote in a blog post."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now",
+            "link": "https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "8d7eaa2088c72304b22d5d55eb249ac2b825c805"
+          },
+          "review": {
+            "headline_rewrite": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now",
+            "bullets": [
+              "If you want wireless headphones that can seamlessly integrate with your Sonos setup, a refurbished pair of Ace wireless headphones are currently $239, saving you $160 off the price of a new pair.",
+              "In his review of the smart speaker, former senior reviewer Chris Welch said the Era 100 provides rich sound that’s consistently strong across genres.",
+              "The Era 100 has two tweeters, enabling proper left and right channel reproduction, and a larger midwoofer compared to its predecessor, resulting in more booming bass.",
+              "They’re the company’s first set of wireless headphones that nail style, fit, and comfort.",
+              "In his review, Chris Welch called the Move 2 a “slam-dunk sequel,” praising its stereo sound, extra-long battery life, and line-in playback.",
+              "The speaker initially launched for $449 and has since gone up to $499, making this price drop a great deal."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000",
+            "link": "https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder",
+            "site_name": "The Verge",
+            "novelty_hash": "85ff5b932d505c77697fc8ce9660e08bd490d564"
+          },
+          "review": {
+            "headline_rewrite": "You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000",
+            "bullets": [
+              "Ahead of the display launching in South Korea and Japan in September, followed by a US launch next month, LG has shared more specs and pricing details.",
+              "It’s currently available for preorder through B&H’s online store for $1,999.99 with shipping expected to start on October 20th.",
+              "It offers a 2,000:1 contrast ratio with 450 nits of brightness which helps explain why LG’s 6K display is nearly $3,000 cheaper than Apple’s similarly-styled but aging 6K Pro Display XDR which instead offers up to 1,600 nits of brightness.",
+              "Thunderbolt 5 support means LG’s display can move files around at speeds up to 120Gbps when connected to other T5 devices, but its port selection isn’t quite as extensive as what you’ll find on the many Thunderbolt 5 hubs now available.",
+              "The UltraFine 32U990A features HDMI 2.1, DisplayPort, a pair of 96W T5 USB-C ports, a USB-C upstream port for connecting to your computer, and a pair of slower USB-C 3.2 Gen 2 ports."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Apple Watch Series 10 Is $170 Off",
+            "link": "https://www.wired.com/story/apple-watch-series-10-deal-1025/",
+            "site_name": "WIRED",
+            "novelty_hash": "552b9323c86d297c9d81dac00039887ef0fb9faf"
+          },
+          "review": {
+            "headline_rewrite": "The Apple Watch Series 10 Is $170 Off",
+            "bullets": [
+              "While the Apple devout are already chasing the new Apple Watch Series 11, you and I know that a product announcements means a great deals on the last generation.",
+              "It all pairs nicely with Apple's other health monitoring features, which can track fitness across a variety of activities, as well as monitor your sleep.",
+              "You could certainly spend more and get the newly announced Apple Watch Series 11 (9/10, WIRED Review) with better battery, and the return of the blood oxygen sensor, but if cellular is a key feature, you'll save some bucks grabbing the older model."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
