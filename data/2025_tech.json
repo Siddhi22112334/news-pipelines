@@ -103414,6 +103414,120 @@
             "impact": "Negative"
           }
         }
+      ],
+      "17:07": [
+        {
+          "item": {
+            "title": "Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out",
+            "link": "https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/",
+            "site_name": "WIRED",
+            "novelty_hash": "5e9bfd1e945e739c79f1d38c7ea1323d46677b84"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out",
+            "bullets": [
+              "Anthropic is prepared to repurpose conversations users have with its Claude chatbot as training data for its large language models—unless those users opt out.",
+              "Previously, the company did not train its generative AI models on user chats.",
+              "When Anthropic’s privacy policy updates on October 8 to start allowing for this, users will have to opt out, or else their new chat logs and coding tasks will be used to train future Anthropic models.",
+              "“All large language models, like Claude, are trained using large amounts of data,” reads part of Anthropic’s blog explaining why the company made this policy change.",
+              "“Data from real-world interactions provide valuable insights on which responses are most useful and accurate for users.” With more user data thrown into the LLM blender, Anthropic’s developers hope to make a better version of their chatbot over time.",
+              "“We wanted to give users more time to review this choice and ensure we have a smooth technical transition,” Gabby Curtis, a spokesperson for Anthropic, wrote in an email to WIRED."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Use Passkeys With Google Password Manager (2025)",
+            "link": "https://www.wired.com/story/how-to-use-google-passkeys/",
+            "site_name": "WIRED",
+            "novelty_hash": "3a8e90d54301c5335579c2f20db21127c9056d9f"
+          },
+          "review": {
+            "headline_rewrite": "How to Use Passkeys With Google Password Manager (2025)",
+            "bullets": [
+              "You can use a passkey for your Google account, but you can also store passkeys for other websites with the Google Password Manager, which is available on Chrome or directly through Android.",
+              "Apple devices sync your passkeys across other Apple devices with iCloud Keychain, but otherwise you’ll need the device you created the passkey on to log in.",
+              "There, select Security, and then choose Passkeys and Security Keys to see the passkeys you have.",
+              "Passkeys rely on asymmetric encryption with a public-private key pair, and only you have access to your private key.",
+              "Even in the event of a breach or phishing scheme, an attacker can't access your account without your private key, which never leaves your device.",
+              "A password uses symmetric encryption, and it's what you'd call a “shared secret” in the world of cybersecurity."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Garmin’s eTrex Touch navigator can go almost a month without charging",
+            "link": "https://www.theverge.com/news/788213/garmins-etrex-touch-navigator-can-go-almost-a-month-without-charging",
+            "site_name": "The Verge",
+            "novelty_hash": "517b16670eb12f52acbd19cff66929942484a80b"
+          },
+          "review": {
+            "headline_rewrite": "Garmin’s eTrex Touch navigator can go almost a month without charging",
+            "bullets": [
+              "It features a 3-inch touchscreen for swiping and zooming in on roads and trails, and comes preloaded with TopoActive maps and the option to add an Outdoor Maps Plus plan ($4.99/month) for premium content like highly detailed elevation contours and satellite imagery, land boundaries, and wildlife areas.",
+              "Garmin’s eTrex Touch navigator can go almost a month without charging\n130 hours of trails and roads out of the box or 650 hours in expedition mode."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Morning After: What to expect from Amazon’s big devices event today",
+            "link": "https://www.engadget.com/general/the-morning-after-what-to-expect-from-amazons-big-devices-event-2025-113059183.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1f99d7570526e47516af85275b40ff8740591697"
+          },
+          "review": {
+            "headline_rewrite": "The Morning After: What to expect from Amazon’s big devices event today",
+            "bullets": [
+              "While Alexa and Kindle will be the main draws, Amazon's other tech brands, such as Ring and Eero, may also be present.",
+              "Electronic Arts has agreed to a $55 billion acquisition that will take the company private."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI will let you buy things from Etsy within ChatGPT",
+            "link": "https://www.engadget.com/ai/openai-will-let-you-buy-things-from-etsy-within-chatgpt-110032055.html",
+            "site_name": "Engadget",
+            "novelty_hash": "78864025cb3147c8c6bbbd35da77e7967610dc29"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI will let you buy things from Etsy within ChatGPT",
+            "bullets": [
+              "OpenAI has launched a new feature called Instant Checkout, which is powered by Agentic Commerce Protocol, a technology it developed with Stripe.",
+              "When you search for items to buy through ChatGPT, you'll be able to see which ones you can buy from within the chatbot among the products it shows you.",
+              "The feature is available for both free and paid users, but it only supports single-item purchases from Etsy sellers in the US at the moment.",
+              "OpenAI says over a million sellers that use Shopify, including Glossier, SKIMS and Spanx, will support the Instant Checkout \"soon.\" It's also adding multi-item cart checkout and is expanding the feature's reach to more regions in the future.",
+              "In its post, OpenAI said that it will continue ranking the product results most relevant to your search query based on availability, price and quality.",
+              "It will not give products that support Instant Checkout a boost and will not rank them higher than other options just because of the feature."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/nano-banana-ai-how-to-detect-ai-generated-images-understand-privacy-risks-and-keep-your-data-safe/articleshow/123976855.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7addbb2c61f942f4dd105fe82e14f67cb9aacbb9"
+          },
+          "review": {
+            "headline_rewrite": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "bullets": [
+              "India has rapidly become the leading market for Googleâs latest AI innovation, Nano Banana, powered by the Gemini engine and cutting-edge machine learning algorithms.",
+              "However, its rise also raises important discussions about AI-generated content, including issues of authenticity, privacy, ethical use, and image detection.",
+              "As AI visuals grow increasingly sophisticated, learning to identify AI-generated images has become essential for social media users, digital creators, and enthusiasts seeking to navigate this evolving technological landscape responsibly.",
+              "Nano Banana leads Indiaâs surge in AI-powered creativity\nIndia is leading the global surge in AI-powered creativity, thanks to Google's Gemini 2.5 Flash Image model, popularly known as Nano Banana.",
+              "Since its launch in late August 2025, Nano Banana has transformed the way users engage with AI, enabling them to create hyper-realistic 3D figurines, retro-style portraits, and imaginative visual effects from simple photos and text prompts.",
+              "This surge in AI-driven creativity reflects a broader cultural shift, where technology and tradition intersect, allowing individuals to explore new forms of self-expression and artistic innovation."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
