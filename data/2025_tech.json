@@ -105312,6 +105312,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:47": [
+        {
+          "item": {
+            "title": "Announcing Amazon ECS Managed Instances for containerized applications",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ecs-managed-instances-for-containerized-applications/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "491196e82410599e00ab059baddbdba8000dfa30"
+          },
+          "review": {
+            "headline_rewrite": "Announcing Amazon ECS Managed Instances for containerized applications",
+            "bullets": [
+              "Announcing Amazon ECS Managed Instances for containerized applications\nToday, we’re announcing Amazon ECS Managed Instances, a new compute option for Amazon Elastic Container Service (Amazon ECS) that enables developers to use the full range of Amazon Elastic Compute Cloud (Amazon EC2) capabilities while offloading infrastructure management responsibilities to Amazon Web Service (AWS).",
+              "This new offering combines the operational simplicity of offloading infrastructure with the flexibility and control of Amazon EC2, which means customers can focus on building applications that drive innovation, while reducing total cost of ownership (TCO) and maintaining AWS best practices.",
+              "Customers running containerized workloads told us they want to combine the simplicity of serverless with the flexibility of self-managed EC2 instances.",
+              "Although serverless options provide an excellent general-purpose solution, some applications require specific compute capabilities, such as GPU acceleration, particular CPU architectures, or enhanced networking performance.",
+              "Amazon ECS Managed Instances provides a fully managed container compute environment that supports a broad range of EC2 instance types and deep integration with AWS services.",
+              "AWS handles all aspects of infrastructure management, including provisioning, scaling, security patching, and cost optimization, enabling you to concentrate on building and running your applications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science",
+            "link": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bc6e03603bb5f6efe7f0ef80c2622caa78b76ed0"
+          },
+          "review": {
+            "headline_rewrite": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science",
+            "bullets": [
+              "Cubuk led the materials and chemistry team at Google Brain and DeepMind, where one of his projects was, for instance, an AI tool called GNoME.",
+              "Fedus is a former VP of Research at OpenAI, and one of the researchers who helped create ChatGPT.",
+              "Its small team is likewise filled with researchers who have worked on other major AI and materials science projects, from building OpenAI’s agent Operator to working on Microsoft’s MatterGen, an LLM materials science discovery AI.",
+              "The goal of Periodic Labs is nothing less than to automate scientific discovery, creating AI scientists, the company says.",
+              "This means building labs where robots conduct physical experiments, collect data, iterate, and try again, learning and improving as they go.",
+              "Another goal is to collect all the physical world data that its AI scientists produce as they mix and heat and otherwise manipulate various powers and raw materials in their search for something new."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+            "link": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e768f9834fdcca03fe65522bf1257bfbdf698b4f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model",
+            "bullets": [
+              "On Tuesday, OpenAI announced the release of Sora 2, an audio and video generator to succeed last year’s Sora.",
+              "Along with the model, the company also launched a linked social app called Sora, where users can be able to generate videos of themselves and their friends to share on a TikTok-style algorithmic feed.",
+              "OpenAI’s work on a new social platform was previously reported by Wired.",
+              "While we haven’t been able to test the invite-only app and Sora 2 model ourselves yet, OpenAI has shared impressive examples.",
+              "OpenAI’s public clips depict a beach volleyball game, skateboard tricks, gymnastics routines, and cannonball jumps from a diving board, among others.",
+              "“Prior video models are overoptimistic — they will morph objects and deform reality to successfully execute upon a text prompt,” OpenAI wrote in a blog post."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
+            "link": "https://arstechnica.com/ai/2025/09/with-new-agent-mode-for-excel-and-word-microsoft-touts-vibe-working/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "32a3b54f214252f12b830ff26cefb14a6cb296ac"
+          },
+          "review": {
+            "headline_rewrite": "With new agent mode for Excel and Word, Microsoft touts “vibe working”",
+            "bullets": [
+              "Two distinct products were announced, each using different models and accessed from within different tools—though the similar names Microsoft chose make it confusing to parse what's what.",
+              "Driven by OpenAI's GPT-5 large language model, Agent Mode is built into Word and Excel, and it allows the creation of complex documents and spreadsheets from user prompts.",
+              "It's only available in the web versions of Word and Excel at present, but the plan is to bring it to native desktop applications later.",
+              "Based on Anthropic models, this feature is built into Microsoft's Copilot AI assistant chatbot, and it too can generate documents from prompts—specifically, Word or PowerPoint files.",
+              "Office Agent doesn't run through all the steps as Agent Mode, but Microsoft believes it offers a dramatic improvement over prior, OpenAI-driven document-generation capabilities in Copilot, which users complained were prone to all sorts of problems and shortcomings.",
+              "It is available first in the Frontier Program for Microsoft 365 subscribers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now",
+            "link": "https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "8d7eaa2088c72304b22d5d55eb249ac2b825c805"
+          },
+          "review": {
+            "headline_rewrite": "Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now",
+            "bullets": [
+              "If you want wireless headphones that can seamlessly integrate with your Sonos setup, a refurbished pair of Ace wireless headphones are currently $239, saving you $160 off the price of a new pair.",
+              "In his review of the smart speaker, former senior reviewer Chris Welch said the Era 100 provides rich sound that’s consistently strong across genres.",
+              "The Era 100 has two tweeters, enabling proper left and right channel reproduction, and a larger midwoofer compared to its predecessor, resulting in more booming bass.",
+              "They’re the company’s first set of wireless headphones that nail style, fit, and comfort.",
+              "In his review, Chris Welch called the Move 2 a “slam-dunk sequel,” praising its stereo sound, extra-long battery life, and line-in playback.",
+              "The speaker initially launched for $449 and has since gone up to $499, making this price drop a great deal."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro",
+            "link": "https://arstechnica.com/gadgets/2025/09/youtuber-unboxes-what-seems-to-be-a-pre-release-version-of-an-m5-ipad-pro/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2dd5f4d9369e1ac81ca63f4cfffc87f652a81993"
+          },
+          "review": {
+            "headline_rewrite": "YouTuber unboxes what seems to be a pre-release version of an M5 iPad Pro",
+            "bullets": [
+              "Apple's biggest product event of the year happens in September, when the company puts out a new batch of iPhones and Apple Watches and other odds and ends.",
+              "But in most years, Apple either has another smaller event or just a handful of additional product announcements later in the fall in October or November—usually the focus is on the Mac, the iPad, or both.",
+              "Russian YouTube channel Wylsacom has posted an unboxing video and early tour of what appears to be a retail boxed version of a new 256GB 13-inch iPad Pro, as well as an M5 processor that we haven't seen in any other Apple product yet.",
+              "And while the video is mostly dedicated to complaining about packaging, the wattage of the included power adapter, and how boring it is that Apple doesn't introduce dramatic design changes every generation, it does also give us some early performance numbers for the new M5.",
+              "While we don't have details on the chip's manufacturing process or other changes, quick Geekbench 6 runs show the M5 in this iPad Pro improving CPU performance by roughly 10 to 15 percent and GPU performance by about 34 percent compared to the M4 in the old iPad Pro.",
+              "We don't know how many GPU cores the M5 has, though, given the larger performance improvements, it's at least theoretically possible that Apple has added additional graphics cores on top of the 10 that the M4 includes."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
