@@ -105922,6 +105922,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:08": [
+        {
+          "item": {
+            "title": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
+            "link": "https://blogs.nvidia.com/blog/how-quantum-computings-biggest-challenges-solved-accelerated-computing/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2ccfd5b2a598128012bd82e374b926757d0c798e"
+          },
+          "review": {
+            "headline_rewrite": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
+            "bullets": [
+              "From faster decoding of quantum errors to designing larger systems of qubits, researchers are using GPU-accelerated tools to expand classical computation and bring useful quantum applications closer to reality.",
+              "It was developed using CUDA-Q’s GPU-accelerated BP-OSD decoding functionality, which parallelizes the decoding process, increasing the odds that error correction works.",
+              "In a separate collaboration with QuEra, the NVIDIA PhysicsNeMo framework and cuDNN library were used to develop an AI decoder with a transformer architecture.",
+              "AI methods offer a promising means to scale decoding to the larger-distance codes needed in future quantum computers.",
+              "AI models can frontload the computationally intensive portions of the workloads by training ahead of time and running more efficient inference at runtime.",
+              "Using an AI model developed with NVIDIA CUDA-Q, QuEra achieved a 50x boost in decoding speed — along with improved accuracy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Starbase hires Cameron County to police its streets and jail its offenders",
+            "link": "https://techcrunch.com/2025/09/30/starbase-hires-cameron-county-to-police-its-streets-and-jail-its-offenders/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "61b8bb84490c4d0bee5767997e01e073afd50d4e"
+          },
+          "review": {
+            "headline_rewrite": "Starbase hires Cameron County to police its streets and jail its offenders",
+            "bullets": [
+              "Now, less than a year after Starbase residents voted to incorporate, the city has signed formal agreements making those deputies its de facto police force and Cameron County jails the destination for anyone arrested within city limits.",
+              "The other sees Cameron County providing “jail services,” with Starbase agreeing to pay $100 per day per inmate and to reimburse the county for additional expenses, like medical care or psychiatric services for inmates.",
+              "The city itself was finalized only after SpaceX bought up old properties in Boca Chica Village and spread its launch-and-manufacturing activities further afield.",
+              "Starbase can also opt to pay for security during “special events” — likely rocket launches, when thousands of spectators descend on the small beach town of Boca Chica to watch Starship’s spectacular flights.",
+              "Body camera footage and other records remain with the county, per the agreement, and Starbase residents who have an issue with the local policing will have to take it up with their nextdoor neighbors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TikTok, #freedom edition",
+            "link": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
+            "site_name": "The Verge",
+            "novelty_hash": "3f981ff7d3432de4dacad5230bec4177b0893d0a"
+          },
+          "review": {
+            "headline_rewrite": "TikTok, #freedom edition",
+            "bullets": [
+              "When we launched Regulator two months ago, the premise was that I’d write about the collision between Big Tech and Big Government.",
+              "Here are the ones that have been stuck in my brain for a while…\nUnder the current deal, ByteDance will still retain control of that algorithm and lease it to its US counterpart.",
+              "But it’s not going to work out that way, unfortunately,” Trump said, adding that, “every group, every philosophy, every policy will be treated fairly.”\nJimmy Kimmel Live!",
+              "returns: The first part of this saga was heavily shaped by the power that the FCC has over broadcast: Brendan Carr threatened to revoke TV station licenses over Kimmel cracking a joke about Charlie Kirk’s killer, Nexstar and Sinclair caved, and ABC parent company Disney immediately suspended the show.",
+              "According to overnight numbers from Nielsen, Kimmel’s return episode drew a staggering 6.2 million viewers the night it was aired live on television — four times its normal viewing audience, despite only 80 percent of television stations airing it.",
+              "(Nexstar and Sinclair both preempted it with other content.) But those numbers are dwarfed by internet viewership."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Toyota adds another $1.5B to its bet on startups at every stage",
+            "link": "https://techcrunch.com/2025/09/30/toyota-adds-another-1-5b-to-its-bet-on-startups-at-every-stage/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "04c632aad518d619f23ca81b25cf14b722c27984"
+          },
+          "review": {
+            "headline_rewrite": "Toyota adds another $1.5B to its bet on startups at every stage",
+            "bullets": [
+              "Toyota is looking for the next new thing in mobility, climate, AI, and industrial automation.",
+              "Its answer is $1.5 billion in new capital that will focus on, and invest in, the life cycle of startups — from the first seeds of an invention through its growth stage and eventually to mature companies.",
+              "The Japanese automaker said Tuesday it has created a strategic investment subsidiary called Toyota Invention Partners Co.",
+              "with about $670 million in capital, while its growth-stage venture arm Woven Capital launched a second $800 million fund.",
+              "Woven Capital general partner George Kellerman described Toyota Invention Partners Co.",
+              "“One way to think about them (Toyota Invention Partners) is they’re bookending what Toyota Ventures and Woven Capital are doing,” Kellerman said in a phone interview."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is blocking AI searches for Trump and dementia",
+            "link": "https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden",
+            "site_name": "The Verge",
+            "novelty_hash": "3248cf73feff685167a8d5da83109593c1c8d36b"
+          },
+          "review": {
+            "headline_rewrite": "Google is blocking AI searches for Trump and dementia",
+            "bullets": [
+              "Google appears to have blocked AI search results for the query “does trump show signs of dementia” as well as other questions about his mental acuity, even though it will show AI results for similar searches about other presidents.",
+              "Google is blocking AI searches for Trump and dementia\nAI Mode uncharacteristically pulls up a list of 10 web links instead of a written explanation.",
+              "When making the search about President Trump, AI Overviews will display a message that says, “An AI Overview is not available for this search”:\nGo directly to AI Mode, and you’ll only receive a list of 10 web results instead of a summarized page of information:\nSimilar searches about Trump are limited in the same way.",
+              "Various queries about dementia, Alzheimer’s, and senility display no AI overview and only produce a list of links inside AI Mode.",
+              "When asking “does biden show signs of dementia”, Google doesn’t show an AI Overview at all:\nBut in AI Mode, it will offer a summarized response.",
+              "When I searched for it, the response started with, “It’s not possible to definitively state whether former President Joe Biden has dementia based solely on publicly available information.”\nGoogle also displayed AI overviews for queries about Biden and Alzheimer’s, stating there is “no clinical diagnosis or public proof that former President Joe Biden has Alzheimer’s disease.”\nThis is all different from what you get when using the names of other public figures or recent presidents."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Critics slam OpenAI’s parental controls while users rage, “Treat us like adults”",
+            "link": "https://arstechnica.com/tech-policy/2025/09/critics-slam-openais-parental-controls-while-users-rage-treat-us-like-adults/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2efdf401149cf0163880a7ba6782c36de9534dc6"
+          },
+          "review": {
+            "headline_rewrite": "Critics slam OpenAI’s parental controls while users rage, “Treat us like adults”",
+            "bullets": [
+              "As OpenAI tells it, the company has been consistently rolling out safety updates ever since parents, Matthew and Maria Raine, sued OpenAI, alleging that \"ChatGPT killed my son.\"\nOn August 26, the day that the lawsuit was filed, OpenAI seemed to publicly respond to claims that ChatGPT acted as a \"suicide coach\" for 16-year-old Adam Raine by posting a blog promising to do better to help people \"when they need it most.\"\nBy September 2, that meant routing all users' sensitive conversations to a reasoning model with stricter safeguards, sparking backlash from users who feel like ChatGPT is handling their prompts with kid gloves.",
+              "Two weeks later, OpenAI announced it would start predicting users' ages to improve safety more broadly.",
+              "Then, this week, OpenAI introduced parental controls for ChatGPT and its video generator Sora 2.",
+              "Those controls allow parents to limit their teens' use and even get access to information about chat logs in \"rare cases\" where OpenAI's \"system and trained reviewers detect possible signs of serious safety risk.\"\nWhile dozens of suicide prevention experts in an open letter credited OpenAI for making some progress toward improving safety for users, they also joined critics in urging OpenAI to take their efforts even further, and much faster, to protect vulnerable ChatGPT users.",
+              "Jay Edelson, the lead attorney for the Raine family, told Ars that some of the changes OpenAI has made are helpful.",
+              "But they all come \"far too late.\" According to Edelson, OpenAI's messaging on safety updates is also \"trying to change the facts.\"\n\"What ChatGPT did to Adam was validate his suicidal thoughts, isolate him from his family, and help him build the noose—in the words of ChatGPT, 'I know what you’re asking, and I won’t look away from it.'\" Edelson said."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
