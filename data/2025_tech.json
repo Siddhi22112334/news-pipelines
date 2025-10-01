@@ -108642,6 +108642,123 @@
             "impact": "Positive"
           }
         }
+      ],
+      "20:13": [
+        {
+          "item": {
+            "title": "How to Get Started With Large Language Models on NVIDIA RTX PCs",
+            "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-how-to-get-started-with-llms/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "8e40dd20166219c1936239ee2560e55ee5b86ddf"
+          },
+          "review": {
+            "headline_rewrite": "How to Get Started With Large Language Models on NVIDIA RTX PCs",
+            "bullets": [
+              "Many users want to run large language models (LLMs) locally for more privacy and control, but until recently, this meant a trade-off in output quality.",
+              "Newly released open-weight models, like OpenAI’s gpt-oss and Alibaba’s Qwen 3, can run directly on PCs, delivering useful high-quality outputs, especially for local agentic AI.",
+              "This opens up new opportunities for students, hobbyists and developers to explore generative AI applications locally.",
+              "NVIDIA RTX PCs accelerate these experiences, delivering fast and snappy AI to users.",
+              "Getting Started With Local LLMs Optimized for RTX PCs\nNVIDIA has worked to optimize top LLM applications for RTX PCs, extracting maximum performance of Tensor Cores in RTX GPUs.",
+              "One of the easiest ways to get started with AI on a PC is with Ollama, an open-source tool that provides a simple interface for running and interacting with LLMs."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re introducing the new Google Home Premium subscription plus new benefits for AI Pro and Ultra subscribers.",
+            "link": "https://blog.google/products/google-nest/googe-home-premium-google-ai-pro-subscription/",
+            "site_name": "Google",
+            "novelty_hash": "60fa952239e1f36335b2cb6beba13438b04b4d97"
+          },
+          "review": {
+            "headline_rewrite": "We’re introducing the new Google Home Premium subscription plus new benefits for AI Pro and Ultra subscribers.",
+            "bullets": [
+              "The Advanced Plan ($20/month or $200/year) includes all Standard features plus new Gemini camera capabilities, such as AI event descriptions, Home Brief summaries and searchable video history with Ask Home.",
+              "Google Home Premium is included at no extra cost for Google AI Pro and Ultra subscribers.",
+              "AI Pro members get the Standard plan (and can upgrade to Advanced for $10/month), while AI Ultra members receive the Advanced plan automatically."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "A new Google Home app, redesigned for Gemini",
+            "link": "https://blog.google/products/google-nest/google-home-app-gemini-redesign/",
+            "site_name": "Google",
+            "novelty_hash": "697dab1cb793088f997c4cc234096dc5f682434f"
+          },
+          "review": {
+            "headline_rewrite": "A new Google Home app, redesigned for Gemini",
+            "bullets": [
+              "A faster, more reliable foundation\nWe heard from you that in order to deliver exciting new AI features, the app first needs to be fast and reliable — and this was our top priority.",
+              "For users with cameras, live views now load 30% faster with a 40% decrease in playback failures.",
+              "And this will remain a focus, so you’ll see it continue to get better and better in the months to come.",
+              "Your camera understands what it sees with Gemini, and can provide rich detail accordingly.*\nGet a daily summary of what happened at home with Daily Brief.*\nThe rebuilt Google Home app is fast, reliable and complete — and powered by Gemini."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell",
+            "link": "https://techcrunch.com/2025/10/01/google-unveils-ai-powered-nest-indoor-and-outdoor-cameras-and-a-new-doorbell/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b5cb138bed850b4c45a62d62c80251d14f730a69"
+          },
+          "review": {
+            "headline_rewrite": "Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell",
+            "bullets": [
+              "As part of its Google Home event on Wednesday, the company unveiled a revamped lineup of Nest devices — Google’s brand of smart home security cameras and doorbells — including a new $149.99 Nest Cam Outdoor, $99.99 Nest Cam Indoor, and $179.99 Nest Doorbell.",
+              "All devices are designed to showcase Google’s AI assistant Gemini AI in the smart home, and all three come with 2K HDR video, a high-definition format that delivers sharper images than previous models and the highest resolution Google has shipped yet, it says\nThe company notes it chose this sensor because it would offer the level of fidelity that its Gemini models could use both now and going forward as the technology evolves.",
+              "Plus, it wanted to ensure that users would be able to zoom and see a certain degree of detail — like a license plate on an unknown vehicle outside their home, perhaps — and balance that with a desire not to consume too much data.",
+              "This should allow the device to see a more detailed view, including the head and feet of somebody standing at the door, and to the left and right of them, including packages on the ground.",
+              "Gemini smarts come to Nest\nHowever, where Google hopes to compete against rivals is with its Gemini capabilities and improved baseline features.",
+              "This experience is all underpinned by what we call ‘semantic scene understanding,’” said Anish Kattukaran, Chief Product Officer at Google Home and Nest, in a press briefing ahead of Wednesday’s announcement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI ropes in Samsung, SK Hynix to source memory chips for Stargate",
+            "link": "https://techcrunch.com/2025/10/01/openai-ropes-in-samsung-sk-hynix-to-source-memory-chips-for-stargate/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "395d8425b120379429f70e3ba805cdd156217879"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI ropes in Samsung, SK Hynix to source memory chips for Stargate",
+            "bullets": [
+              "OpenAI is leaving few stones unturned in the race to build compute capacity for its AI efforts.",
+              "The ChatGPT maker on Wednesday said it had struck agreements with two of the world’s biggest manufacturers of memory chips, Samsung Electronics and SK Hynix, to make DRAM wafers for the Stargate AI infrastructure project, and build data centers in South Korea.",
+              "The companies signed the letters of intent following a meeting in Seoul between OpenAI CEO Sam Altman, South Korea’s president Lee Jae-myung, Samsung Electronics’ executive chairman Jay Y.",
+              "Lee, and SK chairman Chey Tae-won.",
+              "Under the deal, Samsung and SK Hynix plan to scale their manufacturing to produce up to 900,000 high-bandwidth memory DRAM memory chips per month for use in Stargate and AI data centers.",
+              "SK Group noted in a separate statement that this would be more than double the current industry capacity for high-bandwidth memory chips."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Xbox Cloud Gaming comes out of beta with improved 1440p resolution",
+            "link": "https://www.theverge.com/news/789461/xbox-cloud-gaming-launch-1440p-resolution-bitrate-changes",
+            "site_name": "The Verge",
+            "novelty_hash": "99a4a65fae95efcc3b5e3b271a6333c7db9f6fcf"
+          },
+          "review": {
+            "headline_rewrite": "Xbox Cloud Gaming comes out of beta with improved 1440p resolution",
+            "bullets": [
+              "Xbox Cloud Gaming is finally coming out of its preview state, more than five years after the streaming service first launched in 2020.",
+              "“We’re officially removing the beta tag from Xbox Cloud Gaming,” says Dustin Blackwell, director of gaming and platform communications at Microsoft, in a briefing with The Verge.",
+              "Xbox Cloud Gaming comes out of beta with improved 1440p resolution\nMicrosoft is also upping the bitrate quality of Xbox Cloud Gaming streams for select games.",
+              "The beta tag removal coincides with some key changes to Xbox Cloud Gaming today, and a big price increase to Xbox Game Pass Ultimate.",
+              "Microsoft is also expanding Xbox Cloud Gaming to more Game Pass tiers, and it’s improving the streaming quality and resolution exclusively for Game Pass Ultimate subscribers.",
+              "“It’ll go up to 1440p for select games and select devices, and still deliver the shortest wait times for players.”\nSome Xbox Cloud Gaming users already spotted the 1440p support in games like Avatar: Frontiers of Pandora last month, with bitrates that can peak at 27Mbps."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
