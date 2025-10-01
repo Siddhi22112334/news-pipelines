@@ -107327,6 +107327,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "14:16": [
+        {
+          "item": {
+            "title": "From ambition to action: seizing Europe's AI opportunity",
+            "link": "https://blog.google/outreach-initiatives/public-policy/ai-turning-ambition-into-action/",
+            "site_name": "Google",
+            "novelty_hash": "8f4cc7ca2b559e35cd85d1928150f9f7806dc9c3"
+          },
+          "review": {
+            "headline_rewrite": "From ambition to action: seizing Europe's AI opportunity",
+            "bullets": [
+              "From ambition to action: seizing Europe's AI opportunity\nEditor’s note: This week, Kent Walker, President of Global Affairs for Google and Alphabet, delivered opening remarks to Politico’s Competitive Europe Summit.",
+              "At the center of this change is the remarkable opportunity of AI — what philosophers and economists call an “invention of a method of invention” — a tool that changes how we make breakthroughs.",
+              "Like the compound microscope, which accelerated progress across chemistry and biology by revealing hidden structures, AI will provide a new lens for scientific progress.",
+              "And beyond that: AI will define the future of geopolitical leadership, supporting not just technological and economic leadership but the security of Europe in a multipolar world.",
+              "It’s no wonder in her recent State of the Union speech, President von der Leyen said getting AI right would be essential for the continent.",
+              "With widespread AI adoption, the EU could boost its GDP by over €1.2 trillion."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New project makes Wikipedia data more accessible to AI",
+            "link": "https://techcrunch.com/2025/10/01/new-project-makes-wikipedia-data-more-accessible-to-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1291815ddd084fcab01b7aebf2220d64509a9105"
+          },
+          "review": {
+            "headline_rewrite": "New project makes Wikipedia data more accessible to AI",
+            "bullets": [
+              "On Wednesday, Wikimedia Deutschland announced a new database that will make Wikipedia’s wealth of knowledge more accessible to AI models.",
+              "Combined with new support for the Model Context Protocol (MCP), a standard that helps AI systems communicate with data sources, the project makes the data more accessible to natural language queries from LLMs.",
+              "The project was undertaken by Wikimedia’s German branch in collaboration with the neural search company Jina.AI and DataStax, a real-time training-data company owned by IBM.",
+              "The new system will work better with retrieval-augmented generation (RAG) systems that allow AI models to pull in external information, giving developers a chance to ground their models in knowledge verified by Wikipedia editors.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nThe new project comes as AI developers are scrambling for high-quality data sources that can be used to fine-tune models.",
+              "The training systems themselves have become more sophisticated — often assembled as complex training environments rather than simple datasets — but they still require closely curated data to function well."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+            "link": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
+            "site_name": "The Verge",
+            "novelty_hash": "00e795f17da2d1fc6b271079163addb3e8513424"
+          },
+          "review": {
+            "headline_rewrite": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+            "bullets": [
+              "Wikimedia wants to make it easier for you and AI developers to search through its data\nWikipedia’s sister project Wikidata just got a new database that is easier for AI models to ingest.",
+              "Now, Wikidata is getting a new AI-friendly database that makes it easier for large language models to ingest the information.",
+              "While the front-end user experience will remain the same — no, Wikipedia is not becoming a chatbot, the project leaders say — the back end will become easier for AI developers to access when building, for example, their own chatbots using the data.",
+              "The goal of the project is to level the playing field for AI developers outside the monied core of Big Tech, Pintscher said.",
+              "Companies like OpenAI and Anthropic have the resources to vectorize Wikidata, just like Pintscher and her team did.",
+              "“Really, for me, it’s about giving them that edge up and to at least give them a chance, right?” Pintscher said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Roland’s TR-1000 is its first analog drum machine in over 40 years",
+            "link": "https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909",
+            "site_name": "The Verge",
+            "novelty_hash": "1c5c7d83c56bd13375cacdd4ddbe83b4bc805d7a"
+          },
+          "review": {
+            "headline_rewrite": "Roland’s TR-1000 is its first analog drum machine in over 40 years",
+            "bullets": [
+              "Roland has largely decided sit out the analog synth renaissance of the last decade.",
+              "But it’s (belatedly) making amends for that error with the launch of the TR-1000 Rhythm Generator.",
+              "Unlike previous instruments that tried to cash in on Roland’s long legacy through digital technologies like its Zen-Core engine, Analogue Circuit Behavior (ACB) modeling, and Roland Cloud subscription service, the TR-1000 embraces the true analog sound of iconic Roland machines like the TR-808 and TR-909,\nRoland’s TR-1000 is its first analog drum machine in over 40 years\nIt’s a premium instrument that harkens back to the 808 and 909.",
+              "Unlike other TR instruments from Roland over the last several years that simply invoke the branding, the TR-1000 actually recreates 16 analog sound circuits from the 808 and the 909 while adding plenty of modern sound-shaping and sequencing conveniences.",
+              "It pairs those authentic analog voices with digital ACB sound, FM percussion, PCM samples, and more.",
+              "Still, that’s about half of what a functioning TR-808 or TR-909 will cost you on the vintage market so, maybe the TR-1000 is actually a bargain?"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best power banks and portable chargers for every device in 2025",
+            "link": "https://www.engadget.com/computing/accessories/best-power-bank-143048526.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1c662ddfd51c877c0c0ab42b1ac7180df5cb9bb0"
+          },
+          "review": {
+            "headline_rewrite": "The best power banks and portable chargers for every device in 2025",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Table of contents\nBest power banks for 2025\nCapacity: 10,000mAh | Maximum Output: 15W (wireless) | Ports: One USB-C in/out | Included cable: USB-C to USB-C | Number of charges iPhone 15: 1.64 | Charge time iPhone: 4 to 100% in 2h 26m and 0 to 70% in 1h 8m\nAnker’s MagGo Power Bank was one of the first Qi2-certified products to come on the market, and the new standard has made the brand’s popular MagSafe/kickstand model much faster.",
+              "Four indicator lights let you know how much charge remains in the battery.",
+              "It’s bigger in size and capacity (10,000mAh) and includes a display indicating the remaining charge percentage.",
+              "- Very portable\n- Affordable\n- Small enough to get misplaced\nThe onboard display indicates the Fusion’s remaining charge in terms of a percentage and was one of the more accurate readouts I’ve tested.",
+              "- Has a built-in USB-C cable\n- Also has built-in wall prongs\n- Display is fairly accurate\n- iPhone charging is slower than other banks in its range\nAn integrated cable seems to be the hot new feature in portable chargers — and I’m all for it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Roland just released a follow-up to its most famous drum machines from the 1980s",
+            "link": "https://www.engadget.com/audio/roland-just-released-a-follow-up-to-its-most-famous-drum-machines-from-the-1980s-070046806.html",
+            "site_name": "Engadget",
+            "novelty_hash": "5eaf8a1a376bbca564baf926a284d0ad32bd5427"
+          },
+          "review": {
+            "headline_rewrite": "Roland just released a follow-up to its most famous drum machines from the 1980s",
+            "bullets": [
+              "\"The TR-1000 feels like the true, classic lineage of the 808 and 909, not a digital remake,\" El-P of the rap group Run The Jewels said in a press release.",
+              "The drum machine is available right now to order, but there's a spot of bad news."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
