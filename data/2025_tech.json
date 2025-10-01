@@ -109818,6 +109818,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "OpenAI’s new social app is filled with terrifying Sam Altman deepfakes",
+            "link": "https://techcrunch.com/2025/10/01/openais-new-social-app-is-filled-with-terrifying-sam-altman-deepfakes/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a496f154a009bde58bb2fe54c6c63aa933ab9b79"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s new social app is filled with terrifying Sam Altman deepfakes",
+            "bullets": [
+              "In a video on OpenAI’s new TikTok-like social media app Sora, a never-ending factory farm of pink pigs are grunting and snorting in their pens — each is equipped with a feeding trough and a smartphone screen, which plays a feed of vertical videos.",
+              "The AI-generated Altman asks, “Are my piggies enjoying their slop?”\nThis is what it’s like using the Sora app, less than 24 hours after it was launched to the public in an invite-only early access period.",
+              "In the next video on Sora’s For You feed, Altman appears again.",
+              "The OpenAI CEO looks at the camera and says, “I hope Nintendo doesn’t sue us.” Then, there are many more fantastical yet realistic scenes, which often feature Altman himself.",
+              "He steals NVIDIA GPUs from a Target and runs away, only to get caught and beg the police not to take his precious technology.",
+              "People on Sora who generate videos of Altman are especially getting a kick out of how blatantly OpenAI appears to be violating copyright laws."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Why California’s new AI safety law succeeded where SB 1047 failed",
+            "link": "https://techcrunch.com/video/why-californias-new-ai-safety-law-succeeded-where-sb-1047-failed/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9256b5e5065e1f2cb0e081454c1d5c9fd378e47f"
+          },
+          "review": {
+            "headline_rewrite": "Why California’s new AI safety law succeeded where SB 1047 failed",
+            "bullets": [
+              "California just made history as the first state to require AI safety transparency from the biggest labs in the industry.",
+              "Governor Newsom signed SB 53 into law this week, mandating that AI giants like OpenAI and Anthropic disclose, and stick to, their safety protocols.",
+              "Adam Billen, vice president of public policy at Encode AI, joined Equity to break down what California’s new AI transparency law actually means — from whistleblower protections to safety incident reporting requirements.",
+              "He also explains why SB 53 succeeded where SB 1047 failed, what “transparency without liability” looks like in practice, and what’s still on Governor Newsom’s desk, including rules for AI companion chatbots."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s Sora 2 lets users insert themselves into AI videos with sound",
+            "link": "https://arstechnica.com/ai/2025/10/openais-sora-2-lets-users-insert-themselves-into-ai-videos-with-sound/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1eec1feb6c4efb019c452b6e92d9112c23c97b0c"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s Sora 2 lets users insert themselves into AI videos with sound",
+            "bullets": [
+              "On Tuesday, OpenAI announced Sora 2, its second-generation video-synthesis AI model that can now generate videos in various styles with synchronized dialogue and sound effects, which is a first for the company.",
+              "OpenAI also launched a new iOS social app that allows users to insert themselves into AI-generated videos through what OpenAI calls \"cameos.\"\nOpenAI showcased the new model in an AI-generated video that features a photorealistic version of OpenAI CEO Sam Altman talking to the camera in a slightly unnatural-sounding voice amid fantastical backdrops, like a competitive ride-on duck race and a glowing mushroom garden.",
+              "Regarding that voice, the new model can create what OpenAI calls \"sophisticated background soundscapes, speech, and sound effects with a high degree of realism.\" In May, Google's Veo 3 became the first video-synthesis model from a major AI lab to generate synchronized audio as well as video.",
+              "Now OpenAI has joined the audio party with Sora 2.",
+              "The model also features notable visual consistency improvements over OpenAI's previous video model, and it can also follow more complex instructions across multiple shots while maintaining coherency between them.",
+              "The new model represents what OpenAI describes as its \"GPT-3.5 moment for video,\" comparing it to the ChatGPT breakthrough during the evolution of its text-generation models over time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Plenty of robot vacuums are already discounted ahead of October Prime Day",
+            "link": "https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "bf5d570d10e75b3104818998ab548318f8085c1e"
+          },
+          "review": {
+            "headline_rewrite": "Plenty of robot vacuums are already discounted ahead of October Prime Day",
+            "bullets": [
+              "- Roborock’s Saros Z70 is available for $1,999.99 from Amazon, Roborock, and Best Buy, which isn’t as low as its previous sale price of $1,599 but still a solid $400 discount.",
+              "It even works with Roborock’s Multifunctional Dock 4.0, which allows it to automatically empty, charge, refill, and drain its own water tanks with minimal effort on your part.",
+              "- The SwitchBot S10 is available from SwitchBot for $459.99 when you use coupon code OPOP700, down from $1,199.99 and approximately $60 shy of its all-time low.",
+              "The Matter-compatible vac can also run for as long as 90 days and offers decent AI-powered obstacle avoidance; however, in our experience, it can still get tripped up by laundry and other objects on the floor.",
+              "It also features reliable AI-powered obstacle detection, dual oscillating brushes for mopping up floors, and a dock that handles auto-emptying, washing, and refilling.",
+              "The Deebot X8 Pro Omni remains our favorite robot vacuum / mop."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment",
+            "link": "https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/",
+            "site_name": "WIRED",
+            "novelty_hash": "f79f4c6c63fe3656f7985ec7b1cfb16547f22745"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment",
+            "bullets": [
+              "On Tuesday, OpenAI released an AI video app called Sora.",
+              "The platform is powered by OpenAI’s latest video generation model, Sora 2, and revolves around a TikTok-like For You page of user-generated clips.",
+              "This is the first product release from OpenAI that adds AI-generated sounds to videos.",
+              "For now, it’s available only on iOS and requires an invite code to join.",
+              "“You are about to enter a creative world of AI-generated content,” reads an advisory page displayed during the app sign-up process.",
+              "“Some videos may depict people you recognize, but the actions and events shown are not real.”\nOpenAI is betting that creating and sharing AI deepfakes will become a popular form of entertainment."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+            "link": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+            "site_name": "WIRED",
+            "novelty_hash": "0de65ebb559e763f9a1cca711fb95c3a05599c04"
+          },
+          "review": {
+            "headline_rewrite": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+            "bullets": [
+              "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first product—a tool called Tinker that automates the creation of custom frontier AI models.",
+              "Big companies and academic labs already fine-tune open source AI models to create new variants that are optimized for specific tasks, like solving math problems, drafting legal agreements, or answering medical questions.",
+              "Typically, this work involves acquiring and managing clusters of GPUs and using various software tools to ensure that large-scale training runs are stable and efficient.",
+              "Tinker promises to allow more businesses, researchers, and even hobbyists to fine-tune their own AI models by automating much of this work.",
+              "Essentially, the team is betting that helping people fine-tune frontier models will be the next big thing in AI.",
+              "Murati says that Thinking Machines Lab hopes to demystify the work involved in tuning the world’s most powerful AI models, and make it possible for more people to explore the outer limits of AI."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
