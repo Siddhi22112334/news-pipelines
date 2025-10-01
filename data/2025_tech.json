@@ -109583,5 +109583,125 @@
         }
       ]
     }
+  },
+  "2025-10-02": {
+    "runs": {
+      "00:17": [
+        {
+          "item": {
+            "title": "Google Labs’ Portraits experiment expands internationally with Scott Galloway.",
+            "link": "https://blog.google/technology/google-labs/scott-galloway-portrait/",
+            "site_name": "Google",
+            "novelty_hash": "d47f8d795f50ad9b70b47f9195d717d1d867d5fc"
+          },
+          "review": {
+            "headline_rewrite": "Google Labs’ Portraits experiment expands internationally with Scott Galloway.",
+            "bullets": [
+              "Today, Portraits from Google Labs is adding a new partner and expanding internationally with the launch of the Scott Galloway (Prof G) Portrait.",
+              "Prof G (NYU Stern Professor, author, and host of “Prof G and Pivot”) designed his Portrait to be a decision mentor for when you’re at a crossroads, bringing his popular \"Office Hours\" content to life for a global audience.",
+              "Powered by the latest Gemini 2.5 Flash model, his Portrait is grounded in his archive of over 1,200 works, including books, podcasts, blog posts and YouTube videos, making it a comprehensive and interactive way to ask his Portrait questions and get advice in his voice.",
+              "This international expansion (EN only), which includes India, Japan, Germany, Brazil and the UK, reaffirms our commitment in exploring how AI can help make knowledge from the people who inspire you more accessible.",
+              "Try Portraits today at labs.google/portraits."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re introducing the new Google Home Premium subscription plus new benefits for AI Pro and Ultra subscribers.",
+            "link": "https://blog.google/products/google-nest/googe-home-premium-google-ai-pro-subscription/",
+            "site_name": "Google",
+            "novelty_hash": "60fa952239e1f36335b2cb6beba13438b04b4d97"
+          },
+          "review": {
+            "headline_rewrite": "We’re introducing the new Google Home Premium subscription plus new benefits for AI Pro and Ultra subscribers.",
+            "bullets": [
+              "The Advanced Plan ($20/month or $200/year) includes all Standard features plus new Gemini camera capabilities, such as AI event descriptions, Home Brief summaries and searchable video history with Ask Home.",
+              "Google Home Premium is included at no extra cost for Google AI Pro and Ultra subscribers.",
+              "AI Pro members get the Standard plan (and can upgrade to Advanced for $10/month), while AI Ultra members receive the Advanced plan automatically."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s new social app is filled with terrifying Sam Altman deepfakes",
+            "link": "https://techcrunch.com/2025/10/01/openais-new-social-app-is-filled-with-terrifying-sam-altman-deepfakes/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a496f154a009bde58bb2fe54c6c63aa933ab9b79"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s new social app is filled with terrifying Sam Altman deepfakes",
+            "bullets": [
+              "In a video on OpenAI’s new TikTok-like social media app Sora, a never-ending factory farm of pink pigs are grunting and snorting in their pens — each is equipped with a feeding trough and a smartphone screen, which plays a feed of vertical videos.",
+              "The AI-generated Altman asks, “Are my piggies enjoying their slop?”\nThis is what it’s like using the Sora app, less than 24 hours after it was launched to the public in an invite-only early access period.",
+              "In the next video on Sora’s For You feed, Altman appears again.",
+              "The OpenAI CEO looks at the camera and says, “I hope Nintendo doesn’t sue us.” Then, there are many more fantastical yet realistic scenes, which often feature Altman himself.",
+              "He steals NVIDIA GPUs from a Target and runs away, only to get caught and beg the police not to take his precious technology.",
+              "People on Sora who generate videos of Altman are especially getting a kick out of how blatantly OpenAI appears to be violating copyright laws."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Why California’s new AI safety law succeeded where SB 1047 failed",
+            "link": "https://techcrunch.com/video/why-californias-new-ai-safety-law-succeeded-where-sb-1047-failed/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9256b5e5065e1f2cb0e081454c1d5c9fd378e47f"
+          },
+          "review": {
+            "headline_rewrite": "Why California’s new AI safety law succeeded where SB 1047 failed",
+            "bullets": [
+              "California just made history as the first state to require AI safety transparency from the biggest labs in the industry.",
+              "Governor Newsom signed SB 53 into law this week, mandating that AI giants like OpenAI and Anthropic disclose, and stick to, their safety protocols.",
+              "Adam Billen, vice president of public policy at Encode AI, joined Equity to break down what California’s new AI transparency law actually means — from whistleblower protections to safety incident reporting requirements.",
+              "He also explains why SB 53 succeeded where SB 1047 failed, what “transparency without liability” looks like in practice, and what’s still on Governor Newsom’s desk, including rules for AI companion chatbots."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions",
+            "link": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
+            "site_name": "The Verge",
+            "novelty_hash": "1d62536b16ef1813911f5b1fe96c9d4a747949de"
+          },
+          "review": {
+            "headline_rewrite": "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions",
+            "bullets": [
+              "Today, the same day that Meta announced that it will soon use your AI chats to personalize the ads it shows you, Instagram head Adam Mosseri made a “myth busting” video attempting to set the record straight on a persistent rumor about Meta: “I swear, we do not listen to your microphone,” he says.",
+              "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions\nThe head of Instagram posted a video attempting to dispel a ‘myth’ that Meta has been trying to combat for years.",
+              "- In 2016, the company, then known as Facebook, said that it “does not use your phone’s microphone to inform ads or to change what you see in News Feed.”\n- In a 2018 Senate hearing, CEO Mark Zuckerberg responded to the question on the topic with a direct “no.”\n- In a support document titled “are Facebook and Instagram listening to your conversations without your knowledge?”, Meta says “No.",
+              "“We do not use the phone’s microphone to eavesdrop on you.” Listening to you through your phone’s microphone “would be a gross violation of privacy” and would drain your phone’s battery, he says.",
+              "Mosseri also offers a few possible explanations of why you “might see an ad for something that you recently talked to somebody about,” which I’ve block-quoted below:\nOne, maybe you actually tapped on something that was related or even searched for that product online on a website, maybe before you had that conversation.",
+              "So if you were looking at a product on a website, then that advertiser might have paid us to reach you with an ad."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The UK&#8217;s war on Apple encryption is back",
+            "link": "https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor",
+            "site_name": "The Verge",
+            "novelty_hash": "9e58ef18a91c76fe83169cf56458effecaa9c2b7"
+          },
+          "review": {
+            "headline_rewrite": "The UK&#8217;s war on Apple encryption is back",
+            "bullets": [
+              "The UK government is reportedly once again demanding that Apple provide it with backdoor access to encrypted iCloud user data, following claims that the effort had been abandoned in August.",
+              "The Financial Times reports that a new technical capability notice (TCN) was issued by the UK Home Office in early September, this time specifically targeting access to British citizens’ iCloud backups.",
+              "The UK’s war on Apple encryption is back\nA new secret order has reportedly been issued, this time specifically targeting British users’ private iCloud data.",
+              "This follows the UK issuing a broader secret order in January, demanding that Apple create a backdoor for security officials to access global encrypted user files.",
+              "While it’s a criminal offense to reveal the existence of these secret TCN orders, Apple responded by filing an appeal and removing a feature, Advanced Data Protection, its end-to-end encrypted iCloud storage, from the UK.",
+              "After facing pressure from the US regarding potential violations of the Cloud Act, it was announced by US Director of National Intelligence Tulsi Gabbard that Britain had rescinded the order."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
