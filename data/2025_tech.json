@@ -107445,6 +107445,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "14:48": [
+        {
+          "item": {
+            "title": "From ambition to action: seizing Europe's AI opportunity",
+            "link": "https://blog.google/outreach-initiatives/public-policy/ai-turning-ambition-into-action/",
+            "site_name": "Google",
+            "novelty_hash": "8f4cc7ca2b559e35cd85d1928150f9f7806dc9c3"
+          },
+          "review": {
+            "headline_rewrite": "From ambition to action: seizing Europe's AI opportunity",
+            "bullets": [
+              "From ambition to action: seizing Europe's AI opportunity\nEditor’s note: This week, Kent Walker, President of Global Affairs for Google and Alphabet, delivered opening remarks to Politico’s Competitive Europe Summit.",
+              "At the center of this change is the remarkable opportunity of AI — what philosophers and economists call an “invention of a method of invention” — a tool that changes how we make breakthroughs.",
+              "Like the compound microscope, which accelerated progress across chemistry and biology by revealing hidden structures, AI will provide a new lens for scientific progress.",
+              "And beyond that: AI will define the future of geopolitical leadership, supporting not just technological and economic leadership but the security of Europe in a multipolar world.",
+              "It’s no wonder in her recent State of the Union speech, President von der Leyen said getting AI right would be essential for the continent.",
+              "With widespread AI adoption, the EU could boost its GDP by over €1.2 trillion."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Epic Games says Apple’s new install process cuts user drop-offs by 60%",
+            "link": "https://techcrunch.com/2025/10/01/epic-games-says-apples-new-install-process-cuts-user-drop-offs-by-60/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7d9957741da07dc6666327c4532db7330e3a02d5"
+          },
+          "review": {
+            "headline_rewrite": "Epic Games says Apple’s new install process cuts user drop-offs by 60%",
+            "bullets": [
+              "Fortnite maker Epic Games said that Apple’s new installation workflow, implemented in iOS 18.6, has had a positive impact on its user growth, with a 60% decrease in drop-offs.",
+              "Developers complained that Apple’s tactics resulted in people abandoning the installation process.",
+              "Epic Games said that prior to the iOS 18.6 update, 65% of users attempting to install its game store abandoned the process.",
+              "Despite this improvement, the company remains critical of Apple’s policies, including charging a core technology fee, imposing notarization and approval policies, and implementing rules that make it difficult for developers to distribute their apps through alternative app stores.",
+              "Epic Games repeated an argument from its lawsuit against the iPhone maker: that Apple allows users more freedom to install apps from outside the App Store on Mac computers.",
+              "During that lawsuit, Apple’s SVP of software, Craig Federighi, said that if the company allowed the same level of freedom on iOS as on Macs, the platform would be overrun by malware."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New project makes Wikipedia data more accessible to AI",
+            "link": "https://techcrunch.com/2025/10/01/new-project-makes-wikipedia-data-more-accessible-to-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1291815ddd084fcab01b7aebf2220d64509a9105"
+          },
+          "review": {
+            "headline_rewrite": "New project makes Wikipedia data more accessible to AI",
+            "bullets": [
+              "On Wednesday, Wikimedia Deutschland announced a new database that will make Wikipedia’s wealth of knowledge more accessible to AI models.",
+              "Combined with new support for the Model Context Protocol (MCP), a standard that helps AI systems communicate with data sources, the project makes the data more accessible to natural language queries from LLMs.",
+              "The project was undertaken by Wikimedia’s German branch in collaboration with the neural search company Jina.AI and DataStax, a real-time training-data company owned by IBM.",
+              "The new system will work better with retrieval-augmented generation (RAG) systems that allow AI models to pull in external information, giving developers a chance to ground their models in knowledge verified by Wikipedia editors.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nThe new project comes as AI developers are scrambling for high-quality data sources that can be used to fine-tune models.",
+              "The training systems themselves have become more sophisticated — often assembled as complex training environments rather than simple datasets — but they still require closely curated data to function well."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+            "link": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
+            "site_name": "The Verge",
+            "novelty_hash": "00e795f17da2d1fc6b271079163addb3e8513424"
+          },
+          "review": {
+            "headline_rewrite": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+            "bullets": [
+              "Wikimedia wants to make it easier for you and AI developers to search through its data\nWikipedia’s sister project Wikidata just got a new database that is easier for AI models to ingest.",
+              "Now, Wikidata is getting a new AI-friendly database that makes it easier for large language models to ingest the information.",
+              "While the front-end user experience will remain the same — no, Wikipedia is not becoming a chatbot, the project leaders say — the back end will become easier for AI developers to access when building, for example, their own chatbots using the data.",
+              "The goal of the project is to level the playing field for AI developers outside the monied core of Big Tech, Pintscher said.",
+              "Companies like OpenAI and Anthropic have the resources to vectorize Wikidata, just like Pintscher and her team did.",
+              "“Really, for me, it’s about giving them that edge up and to at least give them a chance, right?” Pintscher said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The best cheap Windows laptops for 2025",
+            "link": "https://www.engadget.com/computing/laptops/best-affordable-windows-laptops-123000512.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a87fd6530733454d51d13281fb116d03a330107c"
+          },
+          "review": {
+            "headline_rewrite": "The best cheap Windows laptops for 2025",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Many Windows laptops under $500 run on Intel Celeron or Pentium chipsets, but you can find some with Core i3/i5 and AMD Ryzen 3/5 CPUs at the higher end of the price spectrum.",
+              "If you primarily work in Google Docs or save most things in the cloud, you may not need a machine with a ton of onboard storage.",
+              "Those include a 1GHz or faster processor that includes two or more cores, at least 4GB of RAM and 64GB of available storage space.",
+              "Microsoft’s AI features and Copilot assistant require certain specs to run, namely a powerful neural processing unit (NPU), 16GB of RAM and 256GB of storage.",
+              "Currently, the cheapest Copilot+ AI PCs will run you about $700, so if you’re willing to pay more for those perks, check out our best laptops guide for more options."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "ef57ba831d4e903ee0dd4e522cc6d9939088e33e"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "VALLEY CITY, ND\nVCSU stablishes AI Institute for Teaching and LearningNews Showcase\nStories selected by newsroom editors\nJAMESTOWN ND NEWS\nNew York City News Today\nWhat to know in New Orleans\nCRIME, POLICE\nPedestrian killed by 18-wheeler near busy New Orleans bridge'They lived to serve'\nFamily, employers mourn young couple killed in Amtrak crash'Always about doing good'\nVictim in Bayou St.",
+              "Here’s whyFederal impact\nHow the looming government shutdown could affect the Bay AreaDubai chocolate craze\nThis chocolatier made gluten- and dairy-free dubai chocolateDaily updates from 🌈 America's LGBTQ newspaper\nSAN FRANCISCO:\nSF LGBT center names deputy director Valles as new EDARTS & CULTURE • MUSIC:\nB-52s' Kate Pierson’s new music is ‘Rainbows’ brightNEWS:\nSara Jane Moore, who tried to assassinate President Ford, diesLuxury Real Estate News\nThe Afternoon Rundown | Sept.",
+              "30, 2025\nWhat to know in Baton Rouge\nBaltimore news to know\nCAPITOLHILLSEATTLE.COM\nOakland news to know\nA menu of potential taxes\nOakland needs to raise $40 million.",
+              "Is a new tax the answer?East Bay housing crunch\nMeet the sword-wielding man hired to kick squattersEvents this week\nSome of the most anticipated Oakland events of the yearThe Evening Recap | September 30, 2025\nSan Antonio Music\nLive Music: Marty Stuart, LA LOM, Cage the ElephantSan Antonio Flavor\nHASH Vegan Eats warns it will close without customer helpSan Antonio News\nCongress staffer doused self in gasoline before catching fireToday's Rundown\nTuesday News Roundup - Evening Edition\nLatest Headlines\nZoning Battle\nGeorgia court sides with Gullah Geechee in Sapelo Island disputeBig Investment\n$50M stadium coming to Georgia for a sport you might not expectDowntown Development\nCentennial Yards lands popular burger chainA wrap on the day’s hard-hitting news and opinion\nWhat Utah is buzzing about\nAce Bailey’s NBA reset\nJazz rookie drops agent linked to draft controversyLDS Church president\nWhat BYU football coach Kalani Sitake said about Russell NelsonNew book on coal\nUtah women’s movement fought against air pollution a century agoNews from the Central Valley\nSeptember 30, 2025 News\nTop stories\nUS government\nGovernment heads toward first shutdown in six yearsMichigan church shooting\nShooting suspect bore a hatred of Mormon religion, locals sayDallas Ice facility shooting\nSecond victim dies following shooting at Texas Ice facilityNews\nWashington Examiner\nDHS touts Trump administration’s border security efforts with increase in drug seizures Washington Examiner\nFederal government enters shutdown after Congress lets funding expireWashington Examiner\nThune hopeful GOP will pick up enough Democratic votes to reopen governmentDULUTH MINNESOTA NEWS\nSHUTDOWN DRAMA, MARKET MOVES\nNorthwest Herald\nDaily Dose of Neighborhood News 9.30.25\nHawaii’s In-Depth News Source\nNews, art & life in Fayetteville, Arkansas\nALEXANDRIA MINNESOTA NEWS\nMilwaukee Area Business News\nCobb Courier Evening Update Sept 30, 2025\nCobb Senior Services\nMableton's Café Social House opens at Senior Wellness CenterSustainable construction\nKSU research on road construction: quarry waste to opportunityAdopt, Don't Shop!",
+              "30, 2025\nSanta Monica Reaffirms Airport Closure Despite JSX Application\nGovernment & Politics\nExploring the Future of Santa Monica Airport Closure by 2028Government & Politics\nMalibu Fight for Fair Treatment Amid SCE Power OutagesFood\nSanta Monica Bakers Bring Sweet Creations to Venice Pop-UpBKReader: Brooklyn Reader - Latest\nA key advisory committee on...",
+              "Late Night Art Returns to DUMBO This FallEntertainment & Arts\nKendall County Now\nDaily Briefing\nTop of the News\nAgribusiness\nLoudonville farm wins Ohio Department of Agriculture awardBaseball postseason\nColumn: Ohio baseball somehow will be played in OctoberHomecoming 2025\nMadison crowns 2025 Homecoming King & QueenTODAY IN SANTA CRUZ COUNTY\nDaily News\nLatest news for Mountlake Terrace\nTucson's watchdog news\nTucson City Council\nCandidates split on high-density zoning for Tucson neighborhoodsWhat the Devil won't tell you\nRTA Next campaign kicks off; what can go wrong?"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
