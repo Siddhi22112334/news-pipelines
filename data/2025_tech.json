@@ -110535,6 +110535,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:08": [
+        {
+          "item": {
+            "title": "Japan’s AI Demand Will Increase 320x by 2030, Industry Leader Says at NVIDIA AI Day Tokyo",
+            "link": "https://blogs.nvidia.com/blog/ai-day-tokyo/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "0df11d8bfa1c59516b4908ab8bde8b4f743e9aed"
+          },
+          "review": {
+            "headline_rewrite": "Japan’s AI Demand Will Increase 320x by 2030, Industry Leader Says at NVIDIA AI Day Tokyo",
+            "bullets": [
+              "Editor’s note: This post is part of a blog series highlighting NVIDIA AI Days across the globe.",
+              "NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds of enthusiasts, developers, researchers and startups to discuss and explore the latest technologies making AI breakthroughs possible.",
+              "Last week, over 900 attendees joined NVIDIA AI Day Tokyo to learn about sovereign AI — including two-dozen breakout sections on agentic and physical AI, quantum computing and AI factories.",
+              "NVIDIA Cloud Partners SoftBank, GMO Internet and KDDI each introduced the latest advancements to their AI factories and showcased how they’re supporting developers to build AI models and services.",
+              "“Japan will see a 320x increase from 2020 in demand for AI computing power by 2030,” Kuniyoshi Suzuki, senior director of the cloud AI service division at SoftBank Corp., said at the event.",
+              "“To ensure transparency and safety as AI adoption expands, it is crucial to build a foundation of domestic technologies — high performance, Japan-made large language models and large-scale domestic computing infrastructure capable of continuous LLM development.”\nThe Japanese government is placing AI at the core of its national strategy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses",
+            "link": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
+            "site_name": "The Verge",
+            "novelty_hash": "5742130eb24594fb8b0b287d3a5704ed19d1e4b7"
+          },
+          "review": {
+            "headline_rewrite": "Apple sidelines lighter Vision Pro to prioritize smart glasses",
+            "bullets": [
+              "The company is apparently working on at least two different versions: a pair without a display that it could reveal next year and launch in 2027, and a pair with a display originally planned for 2028 that the company wants to “accelerate development” on.",
+              "Apple sidelines lighter Vision Pro to prioritize smart glasses\nThe company may not release its first pair of smart glasses until 2027, putting it well behind Meta.",
+              "Apple is also working on a chip specifically designed for its smart glasses, Bloomberg has previously reported.",
+              "Meta just announced a bunch of new glasses of its own, including a second-generation version of the Ray-Ban Meta glasses with much better battery life that are available now, a new pair of Oakley-branded glasses designed for athletes launching this month, and the Meta Ray-Ban Display glasses, which my colleague Victoria Song called the best smart glasses she’s ever tried.",
+              "As for the lighter Vision Pro headset, Apple had been rumored to launch the product in 2027, but the company told staff that it was pulling people from that headset to help with the glasses.",
+              "Apple has reportedly scaled back production of the original Vision Pro, but regulatory filings spotted this week revealed that a new version is in the works, which Bloomberg called a “modest refresh” that could launch “as early as the end of this year.”\nMost Popular\n- Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month\n- Google is blocking AI searches for Trump and dementia\n- Amazon finally did the damn hardware right\n- Satya Nadella appoints a new CEO to run Microsoft’s biggest businesses\n- Anker’s fastest airline-friendly power bank is now available"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI staff grapples with the company’s social media push",
+            "link": "https://techcrunch.com/2025/10/01/openai-staff-grapples-with-the-companys-social-media-push/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bc13ec29a687ea47a5a4a82d272d6644ac6c685a"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI staff grapples with the company’s social media push",
+            "bullets": [
+              "Several current and former OpenAI researchers are speaking out over the company’s first foray into social media: the Sora app, a TikTok-style feed filled with AI-generated videos and a lot of Sam Altman deepfakes.",
+              "The researchers, airing their grievances on X, seem torn over how the launch fits into OpenAI’s nonprofit mission to develop advanced AI that benefits humanity.",
+              "“AI-based feeds are scary,” said OpenAI pretraining researcher John Hallman in a post on X.",
+              "That said, I think the team did the absolute best job they possibly could in designing a positive experience … We’re going to do our best to make sure AI helps and does not hurt humanity.”\nBoaz Barak, another OpenAI researcher and Harvard professor, replied: “I share a similar mix of worry and excitement.",
+              "Sora 2 is technically amazing but it’s premature to congratulate ourselves on avoiding the pitfalls of other social media apps and deepfakes.”\nFormer OpenAI researcher Rohan Pandey used the moment to plug a new startup, Periodic Labs, which is made up of former AI lab researchers trying to build AI systems for scientific discovery: “If you don’t want to build the infinite AI TikTok slop machine but want to develop AI that accelerates fundamental science … come join us at Periodic Labs.”\nThere were many other posts along the same lines.",
+              "The Sora launch highlights a core tension for OpenAI that flares up time and time again."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Instagram head says company is not using your microphone to listen to you (with AI data, it won’t need to)",
+            "link": "https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bfe1589651c91c081d25ec0df93e3e2dc6ac5eff"
+          },
+          "review": {
+            "headline_rewrite": "Instagram head says company is not using your microphone to listen to you (with AI data, it won’t need to)",
+            "bullets": [
+              "But, ironically, Mosseri’s new myth-busting claim comes just as Meta has announced it will soon target ads to users across its social apps using data collected from their interactions with its AI products.",
+              "(Even his wife has brought up the topic, he says.)\nBy now, most of us have either had the experience ourselves or at least know someone who claims that Meta must have been secretly recording them to know what they were likely to click on.",
+              "Sometimes, you are only thinking about a topic or product, and then see the content appear in your feed, making it seem as if Meta is a mind reader.",
+              "The company has repeatedly disputed these claims, trying to explain that it doesn’t have to record your conversations to make its recommendations so successful.",
+              "Years later, Meta CEO Mark Zuckerberg testified before Congress, denying once again that the company was collecting users’ audio data for this purpose.",
+              "He says that, for starters, users would know if their phone’s microphone was on because they would see a light at the top of their screen, and the phone’s battery would drain faster."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI mocks Musk’s math in suit over iPhone/ChatGPT integration",
+            "link": "https://arstechnica.com/tech-policy/2025/10/openai-mocks-musks-math-in-suit-over-iphone-chatgpt-integration/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "bc33058bae4991e4b7b6409227bbbf5c15fd8ce7"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI mocks Musk’s math in suit over iPhone/ChatGPT integration",
+            "bullets": [
+              "OpenAI and Apple have moved to dismiss a lawsuit by Elon Musk's xAI alleging that ChatGPT's integration into a \"handful\" of iPhone features violated antitrust laws by giving OpenAI a monopoly on prompts and Apple a new path to block rivals in the smartphone industry.",
+              "According to Musk, Apple linking ChatGPT to Siri and other native iPhone features gave OpenAI exclusive access to billions of prompts that only OpenAI can use as valuable training data to maintain its dominance in the chatbot market.",
+              "However, OpenAI and Apple are now mocking Musk's math in court filings, urging the court to agree that xAI's lawsuit is doomed.",
+              "As OpenAI argued, the estimates in xAI's complaint seemed \"baseless,\" with Musk hesitant to even \"hazard a guess\" at what portion of the chatbot market is being foreclosed by the OpenAI/Apple deal.",
+              "xAI suggested that the ChatGPT integration may give OpenAI \"up to 55 percent\" of the potential chatbot prompts in the market, which could mean anywhere from 0 to 55 percent, OpenAI and Apple noted.",
+              "Musk's company apparently arrived at this vague estimate by doing \"back-of-the-envelope math,\" and the court should reject his complaint, OpenAI argued."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon says its AI will let NBA fans track brand-new stats",
+            "link": "https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats",
+            "site_name": "The Verge",
+            "novelty_hash": "7d40c9b41e7cabdd3b0cb1d744c501522975213a"
+          },
+          "review": {
+            "headline_rewrite": "Amazon says its AI will let NBA fans track brand-new stats",
+            "bullets": [
+              "New analysis of basketball players and games is coming to NBA fans live and online this 2025–2026 season thanks to Amazon Web Services’ AI and some seriously detailed movement tracking.",
+              "Amazon says its AI will let NBA fans track brand-new stats\nLet’s see just how easy that shot is for Steph Curry.",
+              "The movements will feed into the AI system to deliver stats that “capture previously unmeasured aspects of basketball,” the company says.",
+              "Another stat, called the Expected Field Goal Percentage, can predict the odds of their making that shot by factoring in metrics like the orientation and pose of the shooter and the positions of the defenders, among other details.",
+              "And if detailed game statistics aren’t enough, diehard fans can search NBA footage at the level of individual plays with a new tool called Play Finder housed alongside the new statistics on NBA Inside the Game.",
+              "Wimbledon’s decision to use the Hawk-Eye line-calling system to make calls on tennis balls shocked staid tennis fans."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
