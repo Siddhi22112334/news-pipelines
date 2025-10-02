@@ -50038,5 +50038,47 @@
         }
       ]
     }
+  },
+  "2025-10-03": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "BOC Suggests Markets Too Focused on Its Core Inflation Gauges",
+            "link": "https://www.livemint.com/market/stock-market-news/boc-suggests-markets-too-focused-on-its-core-inflation-gauges-11759428122546.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "BOC Suggests Markets Too Focused on Its Core Inflation Gauges",
+            "bullets": [
+              "(Bloomberg) -- The Bank of Canada continued to fade its preferred measures of underlying price pressures, saying it’s weighing a broader suite of gauges",
+              "On Thursday, Deputy Governor Rhys Mendes outlined how the central bank has been assessing core consumer price inflation, which strips out more volatile price",
+              "In prepared remarks of a speech in London, Ontario, Mendes said the bank’s so-called “preferred” gauges of CPI-trim and CPI-median show yearly price pressures",
+              "The Bank of Canada lowered its benchmark policy rate to 2.5% in September, amid evidence the tariff dispute with the US had struck the"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Top FX Forecaster Says Fed Remarks Key for Dollar Amid Shutdown",
+            "link": "https://www.livemint.com/market/stock-market-news/top-fx-forecaster-says-fed-remarks-key-for-dollar-amid-shutdown-11759428000509.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Top FX Forecaster Says Fed Remarks Key for Dollar Amid Shutdown",
+            "bullets": [
+              "Absent economic data, words uttered by monetary policymakers will give traders clues on the Federal Reserve’s interest-rate path, said Jason Schenker, president at Prestige",
+              "There will be no shortage of Fed speak in the coming weeks leading up to the late October policy meeting to help guide traders,",
+              "On Thursday, Dallas Fed President Lorie Logan said that the central bank needs to be cautious on rate cuts as risks are rising for",
+              "Chicago Fed President Austan Goolsbee had said a lack of official data will make it harder for policymakers to interpret the economy."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }

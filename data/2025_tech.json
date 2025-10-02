@@ -114106,5 +114106,127 @@
         }
       ]
     }
+  },
+  "2025-10-03": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "OpenAI’s Sora soars to No. 3 on the U.S. App Store",
+            "link": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "abc329eb91f5f52c83e398a8f72eb6f8243d020f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s Sora soars to No. 3 on the U.S. App Store",
+            "bullets": [
+              "OpenAI’s Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S.",
+              "and Canada at launch.",
+              "The day-one figure puts Sora’s debut ahead of the performance of other major AI app launches, including Anthropic’s Claude and Microsoft’s Copilot, and puts it on par with xAI’s Grok launch.",
+              "Meanwhile, OpenAI’s ChatGPT and Google’s Gemini iOS apps had somewhat stronger launches, with each reaching at least 80,000 downloads on day one.",
+              "Since Sora is still invite-only, this may not be the fairest comparison, we’ll admit.",
+              "Despite this restriction, it’s a fairly strong showing for the new release, indicating demand for AI video tools in consumers’ hands in more of a social networking-like experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up",
+            "link": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "53c95eb81341d5df3daeee0ac3823523d9570d51"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up",
+            "bullets": [
+              "Google is bringing its AI coding agent Jules deeper into developer workflows with a new command-line interface and public API, allowing it to plug into terminals, CI/CD systems, and tools like Slack — as competition intensifies among tech companies to own the future of software development and make coding more of an AI-assisted task.",
+              "“We want to reduce context switching for developers as much as possible,” said Kathy Korevec, director of product at Google Labs, in an interview.",
+              "Google already offers Gemini CLI, an AI-based command-line tool that works across developer environments like terminals and CI/CD pipelines.",
+              "Both Gemini CLI and Jules use Google’s Gemini 2.5 Pro AI model under the hood.",
+              "In addition to the CLI, Google has made Jules’ API public, which it had previously used for internal development.",
+              "The purpose of this is also to help developers use Jules more often as they can extend the tool into their existing workflows where they have “a lot of muscle memory and familiarity,” Korevec said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Perplexity’s Comet browser is now available to everyone for free",
+            "link": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
+            "site_name": "The Verge",
+            "novelty_hash": "c3050c92531bae16efcdacd44686fae43766a9b3"
+          },
+          "review": {
+            "headline_rewrite": "Perplexity’s Comet browser is now available to everyone for free",
+            "bullets": [
+              "After launching to subscribers willing to fork out hundreds of dollars a month this summer, Perplexity’s agentic AI browser Comet is now available to everyone for free.",
+              "“The internet is better on Comet,” the company says, promising to remain free forever as it styles the browser as a serious challenger to Google’s Chrome.",
+              "Perplexity’s Comet browser is now available to everyone for free\nThe AI startup is styling Comet as a serious competitor to Chrome.",
+              "Comet puts AI at the heart of the browsing experience.",
+              "It incorporates Perplexity’s AI search tools and a personal AI assistant that, in the company’s words, actually “travels the web with” users, instead of being “tacked onto a traditional browser.” It’s supposed to make surfing the web simpler and help you with tasks like shopping, booking trips, and general life admin.",
+              "To borrow the company’s words again: you “get more done.”\nThe AI-powered browser launched in July, though was only available for users who subscribed to the $200 per month Perplexity Max plan."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow",
+            "link": "https://www.theverge.com/tech/790768/xbox-series-x-s-kirby-air-riders-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "0f353f8612a69da5847a9a73175b90e10fe01d72"
+          },
+          "review": {
+            "headline_rewrite": "It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow",
+            "bullets": [
+              "The Xbox Series X 2TB Galaxy Black Special Edition is also still available for $799.99 (GameStop), before its price increases by $70.",
+              "It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow\nPlus, Costco members can already save on the forthcoming Kirby Air Ride game before it hits stores next month.",
+              "Three more good deals\n- Kirby Air Riders won’t hit stores until November 20th, but you can already buy the Kirby Air Rider sequel for $64.99 ($5 off) when you place your preorder at Costco.",
+              "A Verge favorite we often recommend in our gift guides, the six-inch stainless tool makes it easy to flatten patties for a caramelized, delicious crust, and it’s easy to clean and small enough to stow away when you’re done.",
+              "Most Popular\n- Satya Nadella appoints a new CEO to run Microsoft’s biggest businesses\n- Behold: The Lego Game Boy has already been modded to play games for real\n- Hey Google, meet Gemini: the new voice of your smart home\n- Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month\n- Google is blocking AI searches for Trump and dementia"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta won’t allow users to opt out of targeted ads based on AI chats",
+            "link": "https://arstechnica.com/tech-policy/2025/10/meta-wont-allow-users-to-opt-out-of-targeted-ads-based-on-ai-chats/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "7ee1cf7e2fc40a2c29ecd5ab362b0a50087d8515"
+          },
+          "review": {
+            "headline_rewrite": "Meta won’t allow users to opt out of targeted ads based on AI chats",
+            "bullets": [
+              "Facebook, Instagram, and WhatsApp users may want to be extra careful while using Meta AI, as Meta has announced that it will soon be using AI interactions to personalize content and ad recommendations without giving users a way to opt out.",
+              "Meta plans to notify users on October 7 that their AI interactions will influence recommendations beginning on December 16.",
+              "However, it may not be immediately obvious to all users that their AI interactions will be used in this way.",
+              "The company's blog noted that the initial notification users will see only says, \"Learn how Meta will use your info in new ways to personalize your experience.\" Users will have to click through to understand that the changes specifically apply to Meta AI, with a second screen explaining, \"We'll start using your interactions with AIs to personalize your experience.\"\nArs asked Meta why the initial notification doesn't directly mention AI, and Meta spokesperson Emil Vazquez said he \"would disagree with the idea that we are obscuring this update in any way.\"\n\"We're sending notifications and emails to people about this change,\" Vazquez said.",
+              "\"As soon as someone clicks on the notification, it's immediately apparent that this is an AI update.\"\nIn its blog post, Meta noted that \"more than 1 billion people use Meta AI every month,\" stating its goals are to improve the way Meta AI works in order to fuel better experiences on all Meta apps.",
+              "Sensitive \"conversations with Meta AI about topics such as their religious views, sexual orientation, political views, health, racial or ethnic origin, philosophical beliefs, or trade union membership \"will not be used to target ads, Meta confirmed."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump offers universities a choice: Comply for preferential funding",
+            "link": "https://arstechnica.com/science/2025/10/trump-offers-universities-a-choice-comply-for-preferential-funding/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "409a253a3e49e06e8580d54ef8a3690e47ff4da6"
+          },
+          "review": {
+            "headline_rewrite": "Trump offers universities a choice: Comply for preferential funding",
+            "bullets": [
+              "Failure to accept the bargain would result in a withdrawal of federal programs that would likely cripple most universities.",
+              "Ars has obtained a copy of the proposed \"Compact for Academic Excellence in Higher Education,\" which makes the scope of the bargain clear in its introduction.",
+              "\"Institutions of higher education are free to develop models and values other than those below, if the institution elects to forego federal benefits,\" it suggests, while mentioning that those benefits include access to fundamental needs, like student loans, federal contracts, research funding, tax benefits, and immigration visas for students and faculty."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
