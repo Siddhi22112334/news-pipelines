@@ -114462,6 +114462,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:47": [
+        {
+          "item": {
+            "title": "Anthropic hires new CTO with focus on AI infrastructure",
+            "link": "https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "67b0b3d622c2831d4554fb18b62b376e25503ef5"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic hires new CTO with focus on AI infrastructure",
+            "bullets": [
+              "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company’s product-engineering team into closer contact with the infrastructure and inference teams.",
+              "In the chief architect role, McCandlish will work on pre-training and large-scale model training, extending much of his previous work.",
+              "This new leadership structure comes as Anthropic faces intense infrastructure competition from AI labs at OpenAI and Meta, which have invested billions into computing infrastructure.",
+              "Mark Zuckerberg has said that Meta plans to spend $600 billion on U.S.",
+              "infrastructure through the end of 2028, and OpenAI has contracted a similar amount through its work with Oracle and the Stargate project.",
+              "At the same time, the popularity of Anthropic’s Claude products has already put the company’s infrastructure under significant strain."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s Sora soars to No. 3 on the US App Store",
+            "link": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "659ed09a70f23dadb341958cffe798a68bfbdd72"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s Sora soars to No. 3 on the US App Store",
+            "bullets": [
+              "OpenAI’s Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S.",
+              "and Canada at launch.",
+              "The day-one figure puts Sora’s debut ahead of the performance of other major AI app launches, including Anthropic’s Claude and Microsoft’s Copilot, and puts it on par with xAI’s Grok launch.",
+              "Meanwhile, OpenAI’s ChatGPT and Google’s Gemini iOS apps had somewhat stronger launches, with each reaching at least 80,000 downloads on day one.",
+              "Since Sora is still invite-only, this may not be the fairest comparison, we’ll admit.",
+              "Despite this restriction, it’s a fairly strong showing for the new release, indicating demand for AI video tools in consumers’ hands in more of a social networking-like experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ring’s new Search Party feature is on by default; should you opt out?",
+            "link": "https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out",
+            "site_name": "The Verge",
+            "novelty_hash": "365738855827a63392b473797e18bac8608f501c"
+          },
+          "review": {
+            "headline_rewrite": "Ring’s new Search Party feature is on by default; should you opt out?",
+            "bullets": [
+              "This week, Ring, an Amazon-owned smart security company, announced Search Party, a new feature to help find lost dogs.",
+              "Ring then uses AI to scan footage from nearby outdoor Ring cameras and doorbells for the lost pet.",
+              "I should be able to choose whether my footage is being searched\nIt’s a great use of AI and has the potential to track down missing pets a lot faster than social media posts or text message chains.",
+              "“Your Ring AI assistant is looking for that dog and is going to tell you, ‘Look, this dog I saw looks like this dog that’s missing,’” Ring’s founder, Jamie Siminoff, told me in an interview at Amazon’s event this week.",
+              "You can then decide whether to share the video or just notify the owner through the Neighbors app, he explained.",
+              "In an email to customers this week, Siminoff wrote that the feature is rolling out to Ring outdoor cameras in November and noted, “You can always turn off Search Party.”\nHowever, getting opted in by default feels intrusive, particularly for a company with a checkered history around sharing footage with the police."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is destroying independent websites, and one sees no choice but to defend it anyway",
+            "link": "https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web",
+            "site_name": "The Verge",
+            "novelty_hash": "1d585c87bd0dcacf5d480ba5989fd7ba0a138c08"
+          },
+          "review": {
+            "headline_rewrite": "Google is destroying independent websites, and one sees no choice but to defend it anyway",
+            "bullets": [
+              "WikiHow CEO Elizabeth Douglas described to a court how websites like hers are the middle of an “AI apocalypse.” WikiHow, a website that gives step-by-step practical advice, is suffering from a new paradigm shift in how people find information online.",
+              "Thanks to new AI tools including AI chatbots and Google’s own AI Overviews in its search results pages, users across the web are clicking through to websites less and less — and as a result, seeing and clicking on the ads on their sites less, too.",
+              "Amid the chaos of adjusting to the existential threat of generative AI, Douglas testified that WikiHow’s Google-powered ad set up “is the stable part of my business right now,” even if revenue from that business is declining.",
+              "To supplement the ads business, WikiHow also has a content licensing deal with Google that Douglas said makes up 10 to 15 percent of its revenue — and its terms don’t preclude Google from training its AI Overviews on WikiHow pages.",
+              "Douglas’ testimony demonstrated the stakes for smaller publishers — but also the role Google’s other products have played in creating the pressure cooker publishers are dealing with in the first place.",
+              "Search referral traffic has declined for many publishers as Google has added features like AI Overviews, which can have the effect of keeping users from clicking through to a webpage if they got the information they needed from Google’s results page."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 36 Best Movies on HBO Max Right Now (October 2025)",
+            "link": "https://www.wired.com/story/best-movies-hbo-max-right-now/",
+            "site_name": "WIRED",
+            "novelty_hash": "e621bf67f9e2e5ec2317c613595b14b3fb4658f5"
+          },
+          "review": {
+            "headline_rewrite": "The 36 Best Movies on HBO Max Right Now (October 2025)",
+            "bullets": [
+              "Annie Graham (Toni Collette) is an artist living a seemingly contented life with her psychiatrist husband (Gabriel Byrne) and their two teenaged kids, Peter (Alex Wolff) and Charlie (Milly Shapiro).",
+              "But any sense of normalcy disappears almost immediately following the death of Annie’s mom, with whom she had an often strained relationship.",
+              "Aster’s follow-up films, 2019’s equally disturbing Midsommar and 2023’s surrealist Beau Is Afraid, are also both available to stream.",
+              "The film, which burns slowly but brilliantly toward a conclusion that rewards viewers’ patience, marked the feature directorial debut of writer/director Robert Eggers, who has gone on to wide acclaim for similarly moody flicks like The Lighthouse (2019), The Northman (2022), and Nosferatu (2024).",
+              "To be fair: the film’s NC-17 rating certainly didn’t help its chances at becoming a box office behemoth, but the controversial rating was necessary in order for McQueen to deliver such a raw and honest portrayal of addiction.",
+              "Craig Waterman (I Think You Should Leave’s Robinson) is an awkward marketing executive who is surprised when his new neighbor Austin Carmichael, a local TV meteorologist, invites him over for a beer one night."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Dutch court orders Meta to change its Facebook and Instagram timelines",
+            "link": "https://www.engadget.com/big-tech/dutch-court-orders-meta-to-change-its-facebook-and-instagram-timelines-185106583.html",
+            "site_name": "Engadget",
+            "novelty_hash": "6dd08fdb7d7afbbda140a7b07be1fb69e4388813"
+          },
+          "review": {
+            "headline_rewrite": "Dutch court orders Meta to change its Facebook and Instagram timelines",
+            "bullets": [
+              "As reported by Reuters, the Dutch court said that the company needs to provide users with simpler options — namely ones that don't rely on an algorithm.",
+              "\"People in the Netherlands are not sufficiently able to make free and autonomous choices about the use of profiled recommendation systems,\" the court said in its decision.",
+              "\"It is unacceptable that a few American tech billionaires can determine how we view the world,\" said the group's spokesperson, Maartje Knaap.",
+              "Meta said it will appeal the decision, and that these DSA issues should be handled by the European Commission and other EU regulators, not by the courts of individual nations.",
+              "\"Proceedings like this threaten the digital single market and the harmonized regulatory regime that should underpin it,\" a Meta spokesperson said.",
+              "Meta faces a potential fine of $117,450 for every day it fails to comply with the court's order, up to a maximum of $5.8 million."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
