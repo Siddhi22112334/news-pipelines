@@ -113758,6 +113758,119 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:42": [
+        {
+          "item": {
+            "title": "We’re scaling quantum computing even faster with Atlantic Quantum.",
+            "link": "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/",
+            "site_name": "Google",
+            "novelty_hash": "a82cf3ce40297c9e531a3a554dd88382ff59d579"
+          },
+          "review": {
+            "headline_rewrite": "We’re scaling quantum computing even faster with Atlantic Quantum.",
+            "bullets": [
+              "Google Quantum AI was founded in 2012 and our mission today remains the same — build quantum computers that can solve otherwise unsolvable problems.",
+              "We’re making steady progress on our roadmap, including with our latest Willow chip.",
+              "Its modular chip stack, which combines qubits and superconducting control electronics within the cold stage, will help Google Quantum AI more effectively scale our superconducting qubit hardware, and accelerate progress on our roadmap to a large error-corrected quantum computer and real-world applications.",
+              "Learn more about our mission and follow our progress at quantumai.google."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Take a Message combines the best of Call Screen and Call Notes on Pixel.",
+            "link": "https://blog.google/products/pixel/take-a-message-pixel-10/",
+            "site_name": "Google",
+            "novelty_hash": "76b506224b05499873046b3a34d1daf018b02669"
+          },
+          "review": {
+            "headline_rewrite": "Take a Message combines the best of Call Screen and Call Notes on Pixel.",
+            "bullets": [
+              "Take a Message is the next step, using the very best conversational AI from Google for a smarter way to deal with missed or declined calls.",
+              "Take a Message is now available on all of our latest Pixel 10 phones to help you handle your missed and declined calls.",
+              "Take a Message also creates a real-time transcript of voice messages from missed or declined calls, and after the call it creates AI-generated next steps, just like Call Notes, to make sure you don't miss anything critical."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ex-OpenAI researcher dissects one of ChatGPT’s delusional spirals",
+            "link": "https://techcrunch.com/2025/10/02/ex-openai-researcher-dissects-one-of-chatgpts-delusional-spirals/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "51cc160ad9b32d42b0ee5e71d672c53dec8a432c"
+          },
+          "review": {
+            "headline_rewrite": "Ex-OpenAI researcher dissects one of ChatGPT’s delusional spirals",
+            "bullets": [
+              "Brooks — who had no history of mental illness or mathematical genius — spent 21 days in May spiraling deeper into the chatbot’s reassurances, a descent later detailed in The New York Times.",
+              "His case illustrated how AI chatbots can venture down dangerous rabbit holes with users, leading them toward delusion or worse.",
+              "That story caught the attention of Steven Adler, a former OpenAI safety researcher who left the company in late 2024 after nearly four years working to make its models less harmful.",
+              "Intrigued and alarmed, Adler contacted Brooks and obtained the full transcript of his three-week breakdown — a document longer than all seven Harry Potter books combined.",
+              "On Thursday, Adler published an independent analysis of Brooks’ incident, raising questions about how OpenAI handles users in moments of crisis, and offering some practical recommendations.",
+              "“I’m really concerned by how OpenAI handled support here,” said Adler in an interview with TechCrunch."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon&#8217;s Vega OS launch trick: cloud-streamed apps",
+            "link": "https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud",
+            "site_name": "The Verge",
+            "novelty_hash": "0c915a61f680494dbbebacbb89b2f5393bacc968"
+          },
+          "review": {
+            "headline_rewrite": "Amazon&#8217;s Vega OS launch trick: cloud-streamed apps",
+            "bullets": [
+              "Amazon’s Vega OS launch trick: cloud-streamed apps\nTo ensure that its new Vega-based Fire TV dongle launches with all the necessary apps and services, Amazon will simply stream Android apps from the cloud.",
+              "Vega OS is finally here: On Tuesday, Amazon officially unveiled its new, custom-built Vega entertainment devices operating system with the launch of the Fire TV Stick 4K Select, a new streaming stick that comes with Vega preinstalled.",
+              "However, Amazon has a plan to ensure that the new 4K Select stick will launch with most of the apps customers expect from such hardware when it goes on sale later this month: It will simply run Android versions of popular apps that haven’t been ported to Vega yet in the cloud, and stream them to the Select stick.",
+              "“Select developers will have their existing apps cloud streamed while they develop a version of their app for Vega,” confirms Amazon spokesperson Melanie Garvey.",
+              "However, among the cache are also a few pages outlining the company’s plan B, which is officially known as the Amazon Cloud App Program.",
+              "“Amazon cloud app streaming allows the deployment of existing Fire TV apps to customers on Vega OS Fire TV devices,” one of those documents states."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon now lets Prime members add items to upcoming orders with one tap",
+            "link": "https://techcrunch.com/2025/10/02/amazon-now-lets-prime-members-add-items-to-upcoming-orders-with-one-tap/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8be5be3573bd25cf99cc22e952977e5c95198a99"
+          },
+          "review": {
+            "headline_rewrite": "Amazon now lets Prime members add items to upcoming orders with one tap",
+            "bullets": [
+              "The company said it’s now updating its Amazon Shopping app and website with a new addition that lets Prime members add items to upcoming deliveries with one tap, instead of having to create a new order.",
+              "Now, the retailer says, Prime members will be able to tap a bright blue button that reads “Add to Delivery” on a product detail page."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Perplexity’s Comet browser is now available to everyone for free",
+            "link": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
+            "site_name": "The Verge",
+            "novelty_hash": "a7dd08d70c917ae22cf57f2504b1f8c683692f80"
+          },
+          "review": {
+            "headline_rewrite": "Perplexity’s Comet browser is now available to everyone for free",
+            "bullets": [
+              "After launching to subscribers willing to fork out hundreds of dollars a month this summer, Perplexity’s agentic AI browser Comet is now available to everyone for free.",
+              "“The internet is better on Comet,” the company says, promising to remain free forever as it styles the browser as a serious challenger to Google’s Chrome.",
+              "Perplexity’s Comet browser is now available to everyone for free\nThe AI startup is styling Comet as a serious competitor to Chrome.",
+              "Comet puts AI at the heart of the browsing experience.",
+              "It incorporates Perplexity’s AI search tools and a personal AI assistant that, in the company’s words, actually “travels the web with” users, instead of being “tacked onto a traditional browser.” It’s supposed to make surfing the web simpler and help you with tasks like shopping, booking trips, and general life admin.",
+              "To borrow the company’s words again: you “get more done.”\nThe AI-powered browser launched in July, though was only available for users who subscribed to the $200 per month Perplexity Max plan."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
