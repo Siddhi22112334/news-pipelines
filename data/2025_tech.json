@@ -113531,6 +113531,120 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:50": [
+        {
+          "item": {
+            "title": "Take a Message combines the best of Call Screen and Call Notes on Pixel.",
+            "link": "https://blog.google/products/pixel/take-a-message-pixel-10/",
+            "site_name": "Google",
+            "novelty_hash": "76b506224b05499873046b3a34d1daf018b02669"
+          },
+          "review": {
+            "headline_rewrite": "Take a Message combines the best of Call Screen and Call Notes on Pixel.",
+            "bullets": [
+              "Take a Message is the next step, using the very best conversational AI from Google for a smarter way to deal with missed or declined calls.",
+              "Take a Message is now available on all of our latest Pixel 10 phones to help you handle your missed and declined calls.",
+              "Take a Message also creates a real-time transcript of voice messages from missed or declined calls, and after the call it creates AI-generated next steps, just like Call Notes, to make sure you don't miss anything critical."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "See Pixel 10 Pro's new zoom tech in action",
+            "link": "https://blog.google/products/pixel/google-pixel-pro-res-zoom/",
+            "site_name": "Google",
+            "novelty_hash": "2d785d71621828cb50214590338b5fbaafc51d35"
+          },
+          "review": {
+            "headline_rewrite": "See Pixel 10 Pro's new zoom tech in action",
+            "bullets": [
+              "While you can already capture impressive detail at up to 30x with Super Res Zoom on Pixel 9 Pro, sometimes there are moments that demand even more range — like spotting wildlife in the distance.",
+              "Now, with a clear photo at 100x zoom, I’m up close and personal and can see it with stunning detail.",
+              "We fine-tuned Pro Res Zoom to leverage the power of the Tensor G5 chip, running a cutting-edge single-step diffusion model entirely on-device in just seconds.",
+              "Instead of just using a magnifying glass to look at a blurry, distant photo (similar to traditional digital zoom), Pro Res Zoom uses the few details that are there, like shapes and colors, and then fills in the rest of the missing information, creating a new, much clearer image.",
+              "This process uses a combination of the camera's captured data and generative AI to extrapolate details that the camera sensor couldn't physically capture on its own, resulting in some truly stunning shots."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ex-OpenAI researcher dissects one of ChatGPT’s delusional spirals",
+            "link": "https://techcrunch.com/2025/10/02/ex-openai-researcher-dissects-one-of-chatgpts-delusional-spirals/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "51cc160ad9b32d42b0ee5e71d672c53dec8a432c"
+          },
+          "review": {
+            "headline_rewrite": "Ex-OpenAI researcher dissects one of ChatGPT’s delusional spirals",
+            "bullets": [
+              "Brooks — who had no history of mental illness or mathematical genius — spent 21 days in May spiraling deeper into the chatbot’s reassurances, a descent later detailed in The New York Times.",
+              "His case illustrated how AI chatbots can venture down dangerous rabbit holes with users, leading them toward delusion or worse.",
+              "That story caught the attention of Steven Adler, a former OpenAI safety researcher who left the company in late 2024 after nearly four years working to make its models less harmful.",
+              "Intrigued and alarmed, Adler contacted Brooks and obtained the full transcript of his three-week breakdown — a document longer than all seven Harry Potter books combined.",
+              "On Thursday, Adler published an independent analysis of Brooks’ incident, raising questions about how OpenAI handles users in moments of crisis, and offering some practical recommendations.",
+              "“I’m really concerned by how OpenAI handled support here,” said Adler in an interview with TechCrunch."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon&#8217;s Vega OS launch trick: cloud-streamed apps",
+            "link": "https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud",
+            "site_name": "The Verge",
+            "novelty_hash": "0c915a61f680494dbbebacbb89b2f5393bacc968"
+          },
+          "review": {
+            "headline_rewrite": "Amazon&#8217;s Vega OS launch trick: cloud-streamed apps",
+            "bullets": [
+              "Amazon’s Vega OS launch trick: cloud-streamed apps\nTo ensure that its new Vega-based Fire TV dongle launches with all the necessary apps and services, Amazon will simply stream Android apps from the cloud.",
+              "Vega OS is finally here: On Tuesday, Amazon officially unveiled its new, custom-built Vega entertainment devices operating system with the launch of the Fire TV Stick 4K Select, a new streaming stick that comes with Vega preinstalled.",
+              "However, Amazon has a plan to ensure that the new 4K Select stick will launch with most of the apps customers expect from such hardware when it goes on sale later this month: It will simply run Android versions of popular apps that haven’t been ported to Vega yet in the cloud, and stream them to the Select stick.",
+              "“Select developers will have their existing apps cloud streamed while they develop a version of their app for Vega,” confirms Amazon spokesperson Melanie Garvey.",
+              "However, among the cache are also a few pages outlining the company’s plan B, which is officially known as the Amazon Cloud App Program.",
+              "“Amazon cloud app streaming allows the deployment of existing Fire TV apps to customers on Vega OS Fire TV devices,” one of those documents states."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon now lets Prime members add items to upcoming orders with one tap",
+            "link": "https://techcrunch.com/2025/10/02/amazon-now-lets-prime-members-add-items-to-upcoming-orders-with-one-tap/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8be5be3573bd25cf99cc22e952977e5c95198a99"
+          },
+          "review": {
+            "headline_rewrite": "Amazon now lets Prime members add items to upcoming orders with one tap",
+            "bullets": [
+              "The company said it’s now updating its Amazon Shopping app and website with a new addition that lets Prime members add items to upcoming deliveries with one tap, instead of having to create a new order.",
+              "Now, the retailer says, Prime members will be able to tap a bright blue button that reads “Add to Delivery” on a product detail page."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane",
+            "link": "https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause",
+            "site_name": "The Verge",
+            "novelty_hash": "6c5a8acbb4e92cd6068511e3b80cdbb3853f7bb6"
+          },
+          "review": {
+            "headline_rewrite": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane",
+            "bullets": [
+              "Amazon has paused drone deliveries in the West Valley Phoenix Metro Area after a pair of its MK30 drones crashed into a crane.",
+              "The crash happened on Wednesday morning at around 10AM local time in Tolleson, Arizona, approximately two miles from an Amazon distribution center where the drones launch and land.",
+              "Amazon halts drone deliveries in Arizona after a pair crashed into a crane\nAccording to a witness, the drones clipped the crane’s hanging cable causing them to immediately crash to the ground.",
+              "“We’re aware of an incident involving two Prime Air drones in Tolleson, Arizona.",
+              "We’re currently working with the relevant authorities to investigate,” Amazon spokesperson Terrence Clark told The Verge in an emailed statement.",
+              "Most Popular\n- Satya Nadella appoints a new CEO to run Microsoft’s biggest businesses\n- Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month\n- Hey Google, meet Gemini: the new voice of your smart home\n- Behold: The Lego Game Boy has already been modded to play games for real\n- Google is blocking AI searches for Trump and dementia"
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
