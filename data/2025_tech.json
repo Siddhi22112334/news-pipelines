@@ -113301,6 +113301,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:47": [
+        {
+          "item": {
+            "title": "Apple shelves Vision Pro overhaul to focus on AI glasses",
+            "link": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1f361e9da3c2310b1b3a66266cf03d96f8910cb1"
+          },
+          "review": {
+            "headline_rewrite": "Apple shelves Vision Pro overhaul to focus on AI glasses",
+            "bullets": [
+              "Apple is sidelining plans to overhaul its Vision Pro VR glasses to focus on developing AI smart glasses that can compete with products from Meta, according to a new report from Bloomberg’s Mark Gurman.",
+              "The first model, nicknamed N50, will pair with an iPhone and not have its own display.",
+              "Despite its recent shift in focus, Apple lags behind Meta, which launched its first smart glasses in 2021."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The good, the bad, and the future of AI agents",
+            "link": "https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding",
+            "site_name": "The Verge",
+            "novelty_hash": "d839f0a0a1fed328daa706a3f9d4defc799428ab"
+          },
+          "review": {
+            "headline_rewrite": "The good, the bad, and the future of AI agents",
+            "bullets": [
+              "I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host.",
+              "I’ll be subbing in for Nilay for a couple more episodes, and I’m excited to keep diving into the good, the bad, and the questionable in the AI industry.",
+              "The good, the bad, and the future of AI agents\nAnthropic’s David Hershey joins the show to discuss Claude Sonnet 4.5 and the current landscape for agentic AI.",
+              "Today, I’m talking with David Hershey, who leads the applied AI team at Anthropic.",
+              "David works with startups to help them figure out how to best apply Anthropic’s tech, plus testing new AI models to understand their limits.",
+              "I wanted to have David on because Anthropic released a new AI model called Claude Sonnet 4.5 earlier this week, and it’s been making waves."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Hackers are sending extortion emails to executives after claiming Oracle apps’ data breach",
+            "link": "https://techcrunch.com/2025/10/02/hackers-are-sending-extortion-emails-to-executives-after-claiming-oracle-apps-data-breach/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fe985026d88f0bba24eca85bc0fe4df5c2704cd0"
+          },
+          "review": {
+            "headline_rewrite": "Hackers are sending extortion emails to executives after claiming Oracle apps’ data breach",
+            "bullets": [
+              "Google says hackers associated with a prolific ransomware group are sending extortion emails to executives at “numerous” large organizations after claiming to have stolen their sensitive information from a suite of business software products developed by Oracle.",
+              "In a statement provided to TechCrunch, Google’s head of cybercrime analysis Genevieve Stark said the hackers began sending emails to executives around September 29, but that the tech giant has not yet substantiated the hackers’ claims.",
+              "The emails were sent from hundreds of compromised accounts, including one used by a known financially motivated cybercrime group affiliated with the Clop ransomware gang.",
+              "Charles Carmakal, the chief technology officer of Google’s incident response unit Mandiant, told TechCrunch that the malicious emails sent to executives contained contact addresses that are listed on Clop’s data leak site, which the hackers use to pressure victims into paying them to remove their stolen files.",
+              "Clop is a prolific hacking group that has hacked hundreds of companies in recent years, often by exploiting previously undiscovered security flaws that are unknown to the software maker, known as zero-day vulnerabilities.",
+              "These flaws have allowed the hacking group to breach multiple organizations at once, allowing the theft of data on at least tens of millions of people."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane",
+            "link": "https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause",
+            "site_name": "The Verge",
+            "novelty_hash": "0183eed516760d77fd7515439642723347f602e2"
+          },
+          "review": {
+            "headline_rewrite": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane",
+            "bullets": [
+              "Amazon has paused drone deliveries in the West Valley Phoenix Metro Area after a pair of its MK30 drones crashed into a crane.",
+              "The crash happened on Wednesday morning at around 10AM local time in Tolleson, Arizona, approximately two miles from an Amazon distribution center where the drones launch and land.",
+              "Amazon halts drone deliveries in Arizona after a pair crashed into a crane\nAccording to a witness, the drones clipped the crane’s hanging cable causing them to immediately crash to the ground.",
+              "“We’re aware of an incident involving two Prime Air drones in Tolleson, Arizona.",
+              "We’re currently working with the relevant authorities to investigate,” Amazon spokesperson Terrence Clark told The Verge in an emailed statement.",
+              "Most Popular\n- Satya Nadella appoints a new CEO to run Microsoft’s biggest businesses\n- Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month\n- Hey Google, meet Gemini: the new voice of your smart home\n- Google is blocking AI searches for Trump and dementia\n- Behold: The Lego Game Boy has already been modded to play games for real"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
+            "link": "https://arstechnica.com/cars/2025/10/tesla-reverses-sales-decline-in-q3-sells-50k-more-cars-than-it-built/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "52d3be90c1aa279642a3099c025a382771fbb27f"
+          },
+          "review": {
+            "headline_rewrite": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
+            "bullets": [
+              "This morning, Tesla published its production and delivery numbers for the third quarter of the year.",
+              "We've heard the same story for a while, one of diminishing sales as customers tire of a stale product lineup and are repulsed by the politics of the company's CEO.",
+              "The Models 3 and Y production lines saw less of a slowdown—Tesla built 435,826 of these EVs, a 1.8 percent decline on last year.",
+              "The end of the IRS clean vehicle tax credit in the US is believed to be a significant contributing factor to the sales growth, although registration data from Europe has shown sales growth in France, Spain, Denmark, and Norway."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Japan is running out of its favorite beer after ransomware attack",
+            "link": "https://www.ft.com/content/bb86349f-0ad8-432b-a62a-fdd63b3b76ab",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2fa028cbcbbe4313759f6e8aa804529b7f0a89ae"
+          },
+          "review": {
+            "headline_rewrite": "Japan is running out of its favorite beer after ransomware attack",
+            "bullets": [
+              "The vast majority of Asahi Group’s 30 factories in Japan have not operated since Monday after the attack disabled its ordering and delivery system, the company said.",
+              "Retailers are already expecting empty shelves as the outage stretches into its fourth day with no clear timeline for factories recommencing operations.",
+              "Lawson, one of Japan’s big convenience stores, said in a statement that it stocks many Asahi Group products and “it is possible that some of these products may become increasingly out of stock from tomorrow onwards.”\n“This is having an impact on everyone,” said an executive at another of Japan’s major retailers.",
+              "“I think we will run out of products soon.",
+              "When it comes to Super Dry, I think we’ll run out in two or three days at supermarkets and Asahi’s food products within a week or so.”\nThe executive said that it would look to other brands such as Suntory or Kirin to quench Japanese drinkers’ thirst but acknowledged that many customers are fiercely loyal to Super Dry’s taste.",
+              "Asahi declined to comment on any possible shortage or retailer inventories."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
