@@ -113418,6 +113418,119 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:10": [
+        {
+          "item": {
+            "title": "Apple shelves Vision Pro overhaul to focus on AI glasses",
+            "link": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1f361e9da3c2310b1b3a66266cf03d96f8910cb1"
+          },
+          "review": {
+            "headline_rewrite": "Apple shelves Vision Pro overhaul to focus on AI glasses",
+            "bullets": [
+              "Apple is sidelining plans to overhaul its Vision Pro VR glasses to focus on developing AI smart glasses that can compete with products from Meta, according to a new report from Bloomberg’s Mark Gurman.",
+              "The first model, nicknamed N50, will pair with an iPhone and not have its own display.",
+              "Despite its recent shift in focus, Apple lags behind Meta, which launched its first smart glasses in 2021."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon&#8217;s Vega OS launch trick: cloud-streamed apps",
+            "link": "https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud",
+            "site_name": "The Verge",
+            "novelty_hash": "0c915a61f680494dbbebacbb89b2f5393bacc968"
+          },
+          "review": {
+            "headline_rewrite": "Amazon&#8217;s Vega OS launch trick: cloud-streamed apps",
+            "bullets": [
+              "Amazon’s Vega OS launch trick: cloud-streamed apps\nTo ensure that its new Vega-based Fire TV dongle launches with all the necessary apps and services, Amazon will simply stream Android apps from the cloud.",
+              "Vega OS is finally here: On Tuesday, Amazon officially unveiled its new, custom-built Vega entertainment devices operating system with the launch of the Fire TV Stick 4K Select, a new streaming stick that comes with Vega preinstalled.",
+              "However, Amazon has a plan to ensure that the new 4K Select stick will launch with most of the apps customers expect from such hardware when it goes on sale later this month: It will simply run Android versions of popular apps that haven’t been ported to Vega yet in the cloud, and stream them to the Select stick.",
+              "“Select developers will have their existing apps cloud streamed while they develop a version of their app for Vega,” confirms Amazon spokesperson Melanie Garvey.",
+              "However, among the cache are also a few pages outlining the company’s plan B, which is officially known as the Amazon Cloud App Program.",
+              "“Amazon cloud app streaming allows the deployment of existing Fire TV apps to customers on Vega OS Fire TV devices,” one of those documents states."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon now lets Prime members add items to upcoming orders with one tap",
+            "link": "https://techcrunch.com/2025/10/02/amazon-now-lets-prime-members-add-items-to-upcoming-orders-with-one-tap/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8be5be3573bd25cf99cc22e952977e5c95198a99"
+          },
+          "review": {
+            "headline_rewrite": "Amazon now lets Prime members add items to upcoming orders with one tap",
+            "bullets": [
+              "The company said it’s now updating its Amazon Shopping app and website with a new addition that lets Prime members add items to upcoming deliveries with one tap, instead of having to create a new order.",
+              "Now, the retailer says, Prime members will be able to tap a bright blue button that reads “Add to Delivery” on a product detail page."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane",
+            "link": "https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause",
+            "site_name": "The Verge",
+            "novelty_hash": "6c5a8acbb4e92cd6068511e3b80cdbb3853f7bb6"
+          },
+          "review": {
+            "headline_rewrite": "Amazon halts drone deliveries in Arizona after a pair crashed into a crane",
+            "bullets": [
+              "Amazon has paused drone deliveries in the West Valley Phoenix Metro Area after a pair of its MK30 drones crashed into a crane.",
+              "The crash happened on Wednesday morning at around 10AM local time in Tolleson, Arizona, approximately two miles from an Amazon distribution center where the drones launch and land.",
+              "Amazon halts drone deliveries in Arizona after a pair crashed into a crane\nAccording to a witness, the drones clipped the crane’s hanging cable causing them to immediately crash to the ground.",
+              "“We’re aware of an incident involving two Prime Air drones in Tolleson, Arizona.",
+              "We’re currently working with the relevant authorities to investigate,” Amazon spokesperson Terrence Clark told The Verge in an emailed statement.",
+              "Most Popular\n- Satya Nadella appoints a new CEO to run Microsoft’s biggest businesses\n- Microsoft revamps Xbox Game Pass plans and hikes Ultimate to $29.99 a month\n- Hey Google, meet Gemini: the new voice of your smart home\n- Behold: The Lego Game Boy has already been modded to play games for real\n- Google is blocking AI searches for Trump and dementia"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
+            "link": "https://arstechnica.com/cars/2025/10/tesla-reverses-sales-decline-in-q3-sells-50k-more-cars-than-it-built/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "52d3be90c1aa279642a3099c025a382771fbb27f"
+          },
+          "review": {
+            "headline_rewrite": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
+            "bullets": [
+              "This morning, Tesla published its production and delivery numbers for the third quarter of the year.",
+              "We've heard the same story for a while, one of diminishing sales as customers tire of a stale product lineup and are repulsed by the politics of the company's CEO.",
+              "The Models 3 and Y production lines saw less of a slowdown—Tesla built 435,826 of these EVs, a 1.8 percent decline on last year.",
+              "The end of the IRS clean vehicle tax credit in the US is believed to be a significant contributing factor to the sales growth, although registration data from Europe has shown sales growth in France, Spain, Denmark, and Norway."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon Prime Day laptop deals: Early sales on some of our favorite machines from Apple, Dell, Lenovo, HP and others",
+            "link": "https://www.engadget.com/deals/amazon-prime-day-laptop-deals-early-sales-on-some-of-our-favorite-machines-from-apple-dell-lenovo-hp-and-others-130507537.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9f6da00e90c97ad712c716dafa8d85d69ad6042e"
+          },
+          "review": {
+            "headline_rewrite": "Amazon Prime Day laptop deals: Early sales on some of our favorite machines from Apple, Dell, Lenovo, HP and others",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "We’ve poured over the Prime Day laptop deals available this year to pick out the best ones you can get across all kinds of computers.",
+              "If you’re super picky about the specs you want in a new laptop, we always recommend going straight to the manufacturer so you can configure the machine exactly to your needs.",
+              "Best Prime Day laptop deals: MacBooks\nApple’s latest laptops are the MacBook Air M4 and the MacBook Pro M4, and we recommend getting those if you want a device that’s as future-proof as possible at the moment.",
+              "In a welcomed update earlier this year, Apple recently made all base models of the MacBook Air M4 have 16GB of RAM by default (which is the same as you’ll find on the base-level Pros).",
+              "Microsoft, Dell, Acer, Lenovo and others like them), and one that can handle daily work or play pressures."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
