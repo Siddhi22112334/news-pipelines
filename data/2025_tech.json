@@ -119057,6 +119057,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "Can AI companies turn brainrot into revenue?",
+            "link": "https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "498984e8f7f53478fec70906fee741f874857911"
+          },
+          "review": {
+            "headline_rewrite": "Can AI companies turn brainrot into revenue?",
+            "bullets": [
+              "While it might not feel immediately disruptive, for startups waiting on permits, visas, or regulatory approvals, even a few weeks can become an existential problem.",
+              "On this episode of Equity, Kirsten Korosec, Anthony Ha, and Max Zeff talk through how uncertainty is affecting startups in ways people might not realize, plus the messy reality of AI companies still trying to figure out sustainable business models.",
+              "Watch to hear more about:\n- OpenAI’s launch of the Sora app, its TikTok-style feed of AI-generated content, and whether people actually want to pay for an endless stream of synthetic videos\n- How AI-generated actress Tilly Norwood is proving that even fake performers can cause real industry drama\n- Periodic Labs’ $300 million seed round from Andreessen Horowitz, Jeff Bezos, and Nvidia to build AI scientists and discover new physics\n- The U.S.",
+              "government taking equity stakes in companies like Lithium Americas, MP Materials, and Intel is raising questions about what happens when Washington steps in as a shareholder\nEquity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini AI app could soon be getting a big makeover",
+            "link": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ef401a24060e9cae3b46ae71705288512f32c843"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini AI app could soon be getting a big makeover",
+            "bullets": [
+              "After the success of OpenAI’s video editing app Sora, now at the top of the U.S.",
+              "App Store, Google may be looking to give its Gemini AI app a more visually focused revamp.",
+              "Reached for comment, a Google spokesperson said there’s no announcement to be made “just yet.”\nIn the examples shown, prompts suggested fun things to do with your photos, like “teleport me to deep space,” “give me a vintage or grunge look,” or “turn my drawing into a storybook,” among other things.",
+              "For instance, one prompt idea said “brainstorm out loud with Live,” and another said “send me a daily news roundup.”\nThe idea is to inspire users with more specific suggestions of how to use Gemini’s AI, rather than leaving them to figure out the AI chatbot’s capabilities on their own.",
+              "If pushed live to the public, it could also help Google better challenge rival OpenAI, whose ChatGPT app is still fairly minimalist as it launches to a largely blank screen.",
+              "Plus, it could capitalize on consumer demand for Google’s newer AI image model, Nano Banana, which helped the Gemini app climb the App Store’s Top Charts in September; it became the No."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google removes ICE-spotting app following Apple’s ICEBlock crackdown",
+            "link": "https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock",
+            "site_name": "The Verge",
+            "novelty_hash": "173ce5dea5079e71ec75eca8a209860c406b9496"
+          },
+          "review": {
+            "headline_rewrite": "Google removes ICE-spotting app following Apple’s ICEBlock crackdown",
+            "bullets": [
+              "The company also reportedly said it “removed apps that share the location of what it describes as a vulnerable group after a recent violent act against them connected to this sort of app.”\nGoogle removes ICE-spotting app following Apple’s ICEBlock crackdown\nThe iPhone and Android app stores have targeted apps made to share sightings of ICE agents for removal.",
+              "Attorney General Pam Bondi said to Fox News on Thursday that “ICEBlock is designed to put ICE agents at risk just for doing their jobs, and violence against law enforcement is an intolerable red line that cannot be crossed.” In response to the move, ICEBlock developer Joshua Aaron said in a statement to 404 Media that the app is “protected speech,” adding that Apple is “capitulating to an authoritarian regime.”\nBoth ICEBlock and Red Dot allow users to anonymously report sightings of ICE agents and view nearby reports.",
+              "Google told 404 Media that it didn’t receive any warning from the DOJ, but that it “bans apps with a high risk of abuse” and has a requirement for content moderation apps with user-generated content.“ICEBlock was never available on Google Play, but we removed similar apps for violations of our policies,” Google told 404 Media."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google confirms Android dev verification will have free and paid tiers, no public list of devs",
+            "link": "https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3dbcdb080711302265178e753fce69ef689ae4fe"
+          },
+          "review": {
+            "headline_rewrite": "Google confirms Android dev verification will have free and paid tiers, no public list of devs",
+            "bullets": [
+              "Google has said again and again since announcing the change that sideloading isn't going anywhere, but it's definitely not going to be as easy.",
+              "The new information confirms app installs will be more reliant on the cloud, and devs can expect new fees, but there will be an escape hatch for hobbyists.",
+              "Google explains that phones must ensure each app has a package name and signing keys that have been registered with Google at the time of installation.",
+              "The verification process will mirror the current Google Play registration fee of $25, which Google claims will go to cover administrative costs.",
+              "Google will let hobbyists and students sign up with only an email for a lesser tier of verification."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
+            "link": "https://arstechnica.com/tech-policy/2025/10/apple-bends-to-trump-admin-demand-to-remove-ice-tracking-apps-like-iceblock/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ab712437c1c1e968ae9a636c226a60cd06cc1a05"
+          },
+          "review": {
+            "headline_rewrite": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
+            "bullets": [
+              "\"We reached out to Apple today demanding they remove the ICEBlock app from their App Store—and Apple did so,\" Attorney General Pam Bondi said in a statement to Fox News yesterday.",
+              "\"ICEBlock is designed to put ICE agents at risk just for doing their jobs, and violence against law enforcement is an intolerable red line that cannot be crossed.\"\nApple confirmed it removed multiple apps after hearing from law enforcement.",
+              "\"We created the App Store to be a safe and trusted place to discover apps,\" an Apple statement to news organizations said.",
+              "\"Based on information we've received from law enforcement about the safety risks associated with ICEBlock, we have removed it and similar apps from the App Store.\"\nICEBlock creator Joshua Aaron disputed claims that his app could have contributed to the shooting.",
+              "\"You don't need to use an app to tell you where an ICE agent is when you're aiming at an ICE detention facility,\" Aaron told the BBC.",
+              "\"Everybody knows that's where ICE agents are.\"\nApple cited “objectionable content”\nAaron said he was disappointed by Apple's decision to remove the app."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is also removing apps used to report sightings of ICE agents",
+            "link": "https://www.engadget.com/apps/google-is-also-removing-apps-used-to-report-sightings-of-ice-agents-192940612.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f3f9d3818f34ef0153976680e6cae1ff73242e10"
+          },
+          "review": {
+            "headline_rewrite": "Google is also removing apps used to report sightings of ICE agents",
+            "bullets": [
+              "In a statement to Engadget, Google said \"ICEBlock was never available on Google Play, but we removed similar apps for violations of our policies.\"\n404 Media report specifically focuses on Red Dot, an app that both Google and Apple removed.",
+              "\"Red Dot never tracks ICE agents, law enforcement, or any person's movements\" and the app's developers \"categorically reject harassment, interference, or harm toward ICE agents or anyone else.\" Despite those claims, the app is not currently available to download from the Play Store or the App Store.",
+              "The pushback against ICE tracking apps seemed to begin in earnest following a shooting at a Dallas ICE facility that injured two detainees and killed another on September 24.",
+              "In a statement shared with Fox Business, Bondi said that \"ICEBlock is designed to put ICE agents at risk just for doing their jobs, and violence against law enforcement is an intolerable red line that cannot be crossed.\" Apple's response was to remove the app.",
+              "The test for either platform going forward, though, is if there's a way that developers can offer these apps without them being removed again."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
