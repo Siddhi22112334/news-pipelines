@@ -118946,6 +118946,117 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "Can AI companies turn brainrot into revenue?",
+            "link": "https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7098ae9ca4ca7f7a1228a9363aaa87f1b96cf48e"
+          },
+          "review": {
+            "headline_rewrite": "Can AI companies turn brainrot into revenue?",
+            "bullets": [
+              "While it might not feel immediately disruptive, for startups waiting on permits, visas, or regulatory approvals, even a few weeks can become an existential problem.",
+              "On this episode of Equity, Kirsten Korosec, Anthony Ha, and Max Zeff talk through how uncertainty is affecting startups in ways people might not realize, plus the messy reality of AI companies still trying to figure out sustainable business models.",
+              "Watch to hear more about:\n- OpenAI’s launch of the Sora app, its TikTok-style feed of AI-generated content, and whether people actually want to pay for an endless stream of synthetic videos\n- How AI-generated actress Tilly Norwood is proving that even fake performers can cause real industry drama\n- Periodic Labs’ $300 million seed round from Andreessen Horowitz, Jeff Bezos, and Nvidia to build AI scientists and discover new physics\n- The US government taking equity stakes in companies like Lithium Americas, MP Materials, and Intel, is raising questions about what happens when Washington steps in as a shareholder\nEquity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Rivian is redesigning the R2 SUV’s door handles for better safety",
+            "link": "https://techcrunch.com/2025/10/03/rivian-is-redesigning-the-r2-suvs-door-handles-for-better-safety/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b4a7e13d44a56b5ec11a8e1f7c4a484b94cfb48c"
+          },
+          "review": {
+            "headline_rewrite": "Rivian is redesigning the R2 SUV’s door handles for better safety",
+            "bullets": [
+              "Rivian is changing the door handle design on its upcoming R2 SUV after employees and customers raised safety concerns, according to Bloomberg News.",
+              "The National Highway Traffic Safety Administration opened an investigation, and Tesla has since said it is redesigning how those work."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google removes ICE-spotting app following Apple’s ICEBlock crackdown",
+            "link": "https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock",
+            "site_name": "The Verge",
+            "novelty_hash": "173ce5dea5079e71ec75eca8a209860c406b9496"
+          },
+          "review": {
+            "headline_rewrite": "Google removes ICE-spotting app following Apple’s ICEBlock crackdown",
+            "bullets": [
+              "The company also reportedly said it “removed apps that share the location of what it describes as a vulnerable group after a recent violent act against them connected to this sort of app.”\nGoogle removes ICE-spotting app following Apple’s ICEBlock crackdown\nThe iPhone and Android app stores have targeted apps made to share sightings of ICE agents for removal.",
+              "Attorney General Pam Bondi said to Fox News on Thursday that “ICEBlock is designed to put ICE agents at risk just for doing their jobs, and violence against law enforcement is an intolerable red line that cannot be crossed.” In response to the move, ICEBlock developer Joshua Aaron said in a statement to 404 Media that the app is “protected speech,” adding that Apple is “capitulating to an authoritarian regime.”\nBoth ICEBlock and Red Dot allow users to anonymously report sightings of ICE agents and view nearby reports.",
+              "Google told 404 Media that it didn’t receive any warning from the DOJ, but that it “bans apps with a high risk of abuse” and has a requirement for content moderation apps with user-generated content.“ICEBlock was never available on Google Play, but we removed similar apps for violations of our policies,” Google told 404 Media."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google confirms Android dev verification will have free and paid tiers, no public list of devs",
+            "link": "https://arstechnica.com/gadgets/2025/10/google-confirms-android-dev-verification-will-have-free-and-paid-tiers-no-public-list-of-devs/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3dbcdb080711302265178e753fce69ef689ae4fe"
+          },
+          "review": {
+            "headline_rewrite": "Google confirms Android dev verification will have free and paid tiers, no public list of devs",
+            "bullets": [
+              "Google has said again and again since announcing the change that sideloading isn't going anywhere, but it's definitely not going to be as easy.",
+              "The new information confirms app installs will be more reliant on the cloud, and devs can expect new fees, but there will be an escape hatch for hobbyists.",
+              "Google explains that phones must ensure each app has a package name and signing keys that have been registered with Google at the time of installation.",
+              "The verification process will mirror the current Google Play registration fee of $25, which Google claims will go to cover administrative costs.",
+              "Google will let hobbyists and students sign up with only an email for a lesser tier of verification."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
+            "link": "https://arstechnica.com/tech-policy/2025/10/apple-bends-to-trump-admin-demand-to-remove-ice-tracking-apps-like-iceblock/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ab712437c1c1e968ae9a636c226a60cd06cc1a05"
+          },
+          "review": {
+            "headline_rewrite": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
+            "bullets": [
+              "\"We reached out to Apple today demanding they remove the ICEBlock app from their App Store—and Apple did so,\" Attorney General Pam Bondi said in a statement to Fox News yesterday.",
+              "\"ICEBlock is designed to put ICE agents at risk just for doing their jobs, and violence against law enforcement is an intolerable red line that cannot be crossed.\"\nApple confirmed it removed multiple apps after hearing from law enforcement.",
+              "\"We created the App Store to be a safe and trusted place to discover apps,\" an Apple statement to news organizations said.",
+              "\"Based on information we've received from law enforcement about the safety risks associated with ICEBlock, we have removed it and similar apps from the App Store.\"\nICEBlock creator Joshua Aaron disputed claims that his app could have contributed to the shooting.",
+              "\"You don't need to use an app to tell you where an ICE agent is when you're aiming at an ICE detention facility,\" Aaron told the BBC.",
+              "\"Everybody knows that's where ICE agents are.\"\nApple cited “objectionable content”\nAaron said he was disappointed by Apple's decision to remove the app."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Why do AI data centers use so many resources?",
+            "link": "https://www.engadget.com/why-do-ai-data-centers-use-so-many-resources-171500010.html",
+            "site_name": "Engadget",
+            "novelty_hash": "7c256439b080518d5a812aa82a283416213139f7"
+          },
+          "review": {
+            "headline_rewrite": "Why do AI data centers use so many resources?",
+            "bullets": [
+              "With the AI boom, construction of new data centers has skyrocketed, and not without consequence — some communities that count these facilities as neighbors are now facing water shortages and strained power supplies.",
+              "While tech's data center footprint has been growing for decades, generative AI has seemingly shifted the impacts of these operations toward the catastrophic.",
+              "Chips\nThe industry believes AI will work its way into every corner of our lives, and so needs to build sufficient capacity to address that anticipated demand.",
+              "But the hardware used to make AI work is so much more resource-intensive than standard cloud computing facilities that it requires a dramatic shift in how data centers are engineered.",
+              "Typically the most important part of a computer is its “brain,” the Central Processing Unit (CPU).",
+              "What AI relies on instead are Graphics Processing Units (GPU), which are clusters of smaller, more specialized processors all running in parallel."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
