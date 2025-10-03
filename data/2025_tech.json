@@ -119398,6 +119398,118 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:43": [
+        {
+          "item": {
+            "title": "What to expect at OpenAI’s DevDay 2025, and how to watch it",
+            "link": "https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3f818ef2a12ea854732aed6a38de06a1ae2bce61"
+          },
+          "review": {
+            "headline_rewrite": "What to expect at OpenAI’s DevDay 2025, and how to watch it",
+            "bullets": [
+              "OpenAI is gearing up to host its third annual developer conference, DevDay 2025, on Monday.",
+              "The company says more than 1,500 people are scheduled to convene at Fort Mason in San Francisco for OpenAI’s “biggest event yet,” which features announcements, keynotes from OpenAI executives, and a fireside chat between CEO Sam Altman and longtime Apple designer Jony Ive.",
+              "From the sound of it, DevDay 2025 is shaping up to be a grand display of OpenAI’s rising dominance in Silicon Valley against giants like Apple, Google, and Meta.",
+              "OpenAI is currently building an AI device, a social media app, and an AI-powered browser to take on Chrome.",
+              "In other words, OpenAI has a lot more going on than it did during its first DevDay in 2023, when it mostly just had ChatGPT and an API business for developers to access its models.",
+              "At the same time, OpenAI faces more competition than ever in the bid to win over developers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini AI app could soon be getting a big makeover",
+            "link": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cb5a165e9e02ff3179c31655fdb6a8b29201387e"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini AI app could soon be getting a big makeover",
+            "bullets": [
+              "After the success of OpenAI’s video editing app Sora, now at the top of the U.S.",
+              "App Store, Google may be looking to give its Gemini AI app a more visually focused revamp.",
+              "Reached for comment, a Google spokesperson said there’s no announcement to be made “just yet.”\nIn the examples shown, prompts suggested fun things to do with your photos, like “Teleport me to deep space,” “Give me a vintage or grunge look,” or “Turn my drawing into a storybook,” among other things.",
+              "For instance, one prompt idea said “Brainstorm out loud with Live,” and another said “Send me a daily news roundup.”\nThe idea is to inspire users with more specific suggestions of how to use Gemini’s AI, rather than leaving them to figure out the AI chatbot’s capabilities on their own.",
+              "If pushed live to the public, it could also help Google better challenge rival OpenAI, whose ChatGPT app is still fairly minimalist as it launches to a largely blank screen.",
+              "Plus, it could capitalize on consumer demand for Google’s newer AI image model, Nano Banana, which helped the Gemini app climb the App Store’s Top Charts in September; it became the No."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tales from the AI hiring frenzy",
+            "link": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
+            "site_name": "The Verge",
+            "novelty_hash": "50ed6b0d6d54b93f315c49e3d7d840bd0ddac4b0"
+          },
+          "review": {
+            "headline_rewrite": "Tales from the AI hiring frenzy",
+            "bullets": [
+              "Tales from the AI hiring frenzy\nIf you’re not OpenAI or Anthropic, hiring is more challenging than ever.",
+              "It consisted of just a plain white background with “https://” and a single line of grouped numbers hanging over Nob Hill, San Francisco.",
+              "Last month, Alfred Wahlforss, the startup’s CEO, posted on X that whoever cracked the code and completed a subsequent challenge would win a trip to Berlin and get on the guest list for the ultra-exclusive nightclub Berghain.",
+              "Within days, the billboard garnered millions of views online, attracted media coverage, collected 10,000 email sign-ups, and led to roughly 60 interviews with potential candidates.",
+              "“We are spending a ton of money to not even advertise the company, but just to advertise us to engineers,” according to Wahlforss, whose company has raised $27 million from Sequoia.",
+              "I have a friend who’s a high school dropout, and he can work at OpenAI and make like $2 million a year.”\n“You spend hours with people who end up rejecting you and just go to Anthropic."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Do AI-designed proteins create a biosecurity vulnerability?",
+            "link": "https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e81cbcefca9406c06150af8eae35e86955a510bc"
+          },
+          "review": {
+            "headline_rewrite": "Do AI-designed proteins create a biosecurity vulnerability?",
+            "bullets": [
+              "On Thursday, a team of researchers led by Microsoft announced that they had discovered, and possibly patched, what they're terming a biological zero-day—an unrecognized security hole in a system that protects us from biological threats.",
+              "But, the researchers argue, it has become increasingly vulnerable to missing a new threat: AI-designed toxins.",
+              "To understand, you have to know a bit more about both existing biosurveillance programs and the capabilities of AI-designed proteins."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Unity discloses a years-old security exploit and urges developers to update their games",
+            "link": "https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games",
+            "site_name": "The Verge",
+            "novelty_hash": "1ed96daedb865a67b59cb0221537893cddf1646f"
+          },
+          "review": {
+            "headline_rewrite": "Unity discloses a years-old security exploit and urges developers to update their games",
+            "bullets": [
+              "Unity is urging developers to take “immediate action” after it disclosed a major security vulnerability affecting games built using versions of its popular development tool dating back to 2017.",
+              "While there is “no evidence of any exploitation of the vulnerability, nor has there been any impact on users or customers,” Unity already has fixes available to developers, according to a post from Larry Hryb, aka “Major Nelson.”\nUnity discloses a years-old security exploit and urges developers to update their games\nUnity has fixes ready to go, and Valve has released an updated version of Steam, too.",
+              "According to the Common Vulnerabilities and Exposures (CVE) record about the exploit, “if an application was built with a version of Unity Editor that had the vulnerable Unity Runtime code, then an adversary may be able to execute code on, and exfiltrate confidential information from, the machine on which that application is running.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Lenovo Go S Is $120 Off",
+            "link": "https://www.wired.com/story/legion-go-s-deal-1025/",
+            "site_name": "WIRED",
+            "novelty_hash": "6d7e2c49720ad5fdb8ce130a389a2716c3bd3274"
+          },
+          "review": {
+            "headline_rewrite": "The Lenovo Go S Is $120 Off",
+            "bullets": [
+              "With SteamOS, you turn on the device, scan a QR code with your phone, and within minutes you're downloading your games and save files from the cloud.",
+              "This Legion Go S is fairly bulky, which I actually found more comfortable than slimmer options."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
