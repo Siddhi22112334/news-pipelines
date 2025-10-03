@@ -118826,5 +118826,127 @@
         }
       ]
     }
+  },
+  "2025-10-04": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "Music meets rewards at Austin City Limits Fest and on Google Play",
+            "link": "https://blog.google/products/google-play/austin-city-limits-2025/",
+            "site_name": "Google",
+            "novelty_hash": "c59ba96ecd00b49f1df7759a048cf0d2a2534c9a"
+          },
+          "review": {
+            "headline_rewrite": "Music meets rewards at Austin City Limits Fest and on Google Play",
+            "bullets": [
+              "Gold+ members can start by unlocking their own digital road case on Google Play to claim surprise rewards 1 , in addition to redeeming points for custom prizes like the spinning slipmat and the limited-edition Road Case Bag from our collaboration with Nik Bentel.",
+              "These will be rolling out on Google Play starting October 3 and will be available with Play Points to help you succeed in the upcoming Music Season.",
+              "Once every hour, you’ll have the chance to go head-to-head against seven other players for bigger rewards.",
+              "Silver+ Play Points members can also get priority access to artist meet-and-greets taking place at the Google Store at Domain North Side in Austin.",
+              "Stay tuned for more details on how you can join the hunt for exclusive prizes."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s Sora soars to No. 1 on Apple’s US App Store",
+            "link": "https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "67741ae030a5a84a16ec5542e9224b3668f0cb9c"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s Sora soars to No. 1 on Apple’s US App Store",
+            "bullets": [
+              "OpenAI’s Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S.",
+              "and Canada at launch.",
+              "That puts it ahead of Google Gemini and OpenAI’s ChatGPT.",
+              "The day-one figure also puts Sora’s debut ahead of the performance of other major AI app launches, including Anthropic’s Claude and Microsoft’s Copilot, and puts it on par with xAI’s Grok launch.",
+              "Meanwhile, OpenAI’s ChatGPT and Google’s Gemini iOS apps had somewhat stronger launches, with each reaching at least 80,000 downloads on day one.",
+              "Since Sora is still invite-only, this may not be the fairest comparison, we’ll admit."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Can AI companies turn brainrot into revenue?",
+            "link": "https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7098ae9ca4ca7f7a1228a9363aaa87f1b96cf48e"
+          },
+          "review": {
+            "headline_rewrite": "Can AI companies turn brainrot into revenue?",
+            "bullets": [
+              "While it might not feel immediately disruptive, for startups waiting on permits, visas, or regulatory approvals, even a few weeks can become an existential problem.",
+              "On this episode of Equity, Kirsten Korosec, Anthony Ha, and Max Zeff talk through how uncertainty is affecting startups in ways people might not realize, plus the messy reality of AI companies still trying to figure out sustainable business models.",
+              "Watch to hear more about:\n- OpenAI’s launch of the Sora app, its TikTok-style feed of AI-generated content, and whether people actually want to pay for an endless stream of synthetic videos\n- How AI-generated actress Tilly Norwood is proving that even fake performers can cause real industry drama\n- Periodic Labs’ $300 million seed round from Andreessen Horowitz, Jeff Bezos, and Nvidia to build AI scientists and discover new physics\n- The US government taking equity stakes in companies like Lithium Americas, MP Materials, and Intel, is raising questions about what happens when Washington steps in as a shareholder\nEquity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "I’ve fallen into Sora’s slippery slop",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
+            "site_name": "The Verge",
+            "novelty_hash": "5d6f8004948912746179aa4a389ed90c8c49a537"
+          },
+          "review": {
+            "headline_rewrite": "I’ve fallen into Sora’s slippery slop",
+            "bullets": [
+              "OpenAI employees performing in Hamilton costumes.",
+              "Sam Altman — stealing GPUs on CCTV, listening to a business pitch, crying.",
+              "I’ve fallen into Sora’s slippery slop\nOpenAI is the latest company filling your social media feed with AI — but are the memes worth the harms?",
+              "Such were the contents of my feed on Sora, OpenAI’s new social media app for AI-generated video.",
+              "The company released the iOS app on Tuesday with the ability to create 10-second videos of virtually anything you can dream up, including “cameos,” or videos featuring your own AI-generated self and anyone else who approves of you using their likeness.",
+              "OpenAI employees called Sora a potential “ChatGPT moment for video generation” in a briefing with reporters earlier this week."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Why do AI data centers use so many resources?",
+            "link": "https://www.engadget.com/why-do-ai-data-centers-use-so-many-resources-171500010.html",
+            "site_name": "Engadget",
+            "novelty_hash": "7c256439b080518d5a812aa82a283416213139f7"
+          },
+          "review": {
+            "headline_rewrite": "Why do AI data centers use so many resources?",
+            "bullets": [
+              "With the AI boom, construction of new data centers has skyrocketed, and not without consequence — some communities that count these facilities as neighbors are now facing water shortages and strained power supplies.",
+              "While tech's data center footprint has been growing for decades, generative AI has seemingly shifted the impacts of these operations toward the catastrophic.",
+              "Chips\nThe industry believes AI will work its way into every corner of our lives, and so needs to build sufficient capacity to address that anticipated demand.",
+              "But the hardware used to make AI work is so much more resource-intensive than standard cloud computing facilities that it requires a dramatic shift in how data centers are engineered.",
+              "Typically the most important part of a computer is its “brain,” the Central Processing Unit (CPU).",
+              "What AI relies on instead are Graphics Processing Units (GPU), which are clusters of smaller, more specialized processors all running in parallel."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "China Is Leading the World in the Clean Energy Transition. Here's What That Looks Like",
+            "link": "https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/",
+            "site_name": "WIRED",
+            "novelty_hash": "021c3d32b19edfde911badc14bab490f497ba2b1"
+          },
+          "review": {
+            "headline_rewrite": "China Is Leading the World in the Clean Energy Transition. Here's What That Looks Like",
+            "bullets": [
+              "Speaking by video at the UN Climate Summit in New York last week, China's president Xi Jinping laid out his country's climate ambitions.",
+              "“Despite some countries going against the trend, the international community should stay on the right track, maintain unwavering confidence, unwavering action, and undiminished efforts,” he said.",
+              "A few months later, Russia invaded Ukraine; the ensuing energy crisis and inflation kicked climate off of many political agendas.",
+              "Xi's speech did not go into much detail, but it did mention all the main points of China's strategy.",
+              "“China has often promised little and achieved much,” notes Andreas Sieber, associate director for policy and campaigns for the global climate nonprofit 350.org, suggesting that China might overdeliver.",
+              "The government has in recent years given a strong boost to electric mobility: At the Climate Summit it announced plans to make EVs “mainstream,” that is, prevalent in sales."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }

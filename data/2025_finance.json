@@ -51932,5 +51932,47 @@
         }
       ]
     }
+  },
+  "2025-10-04": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "Oil Advances as Trump’s Deadline for Hamas Revs Up Risk Premium",
+            "link": "https://www.livemint.com/market/commodities/oil-advances-as-trump-s-deadline-for-hamas-revs-up-risk-premium-11759516418378.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil Advances as Trump’s Deadline for Hamas Revs Up Risk Premium",
+            "bullets": [
+              "Oil climbed as US President Donald Trump’s warning of stark consequences if Hamas doesn’t agree to his plan to end the war in Gaza",
+              "The approaching deadline is increasing concerns of a wider conflagration that could disrupt oil flows from the Middle East, the source of about one-third",
+              "Elsewhere, Ukraine claimed an attack on Russia’s Orsk oil refinery near the border with Kazakhstan.",
+              "Oil has declined over the past four days and is set for a weekly slump of about 8% amid expectation that OPEC will discuss"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Emerging-Market Volatility Eases as Shutdown Delays Key Data",
+            "link": "https://www.livemint.com/market/stock-market-news/emergingmarket-volatility-eases-as-shutdown-delays-key-data-11759516425471.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Emerging-Market Volatility Eases as Shutdown Delays Key Data",
+            "bullets": [
+              "(Bloomberg) -- Emerging-market currencies are on track for a modest weekly gain, as the absence of US data during the government shutdown damped volatility",
+              "Turkey’s lira lagged peers even after the country’s inflation data came in above expectations.",
+              "If the shutdown is prolonged, it’s going to be a negative scenario for the dollar, but slightly dovish for US rates as monetary policy",
+              "A previous version corrected to say Turkey’s inflation data surprised to the upside.) ©2025 Bloomberg L.P."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
