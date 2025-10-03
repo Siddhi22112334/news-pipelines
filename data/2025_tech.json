@@ -117638,6 +117638,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:12": [
+        {
+          "item": {
+            "title": "How developers are using Apple’s local AI models with iOS 26",
+            "link": "https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a8973c4784e3085274c42a113b9f96b071ab4522"
+          },
+          "review": {
+            "headline_rewrite": "How developers are using Apple’s local AI models with iOS 26",
+            "bullets": [
+              "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.",
+              "The company touted that with this framework, developers gain access to AI models without worrying about any inference cost.",
+              "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple’s local AI models.",
+              "Apple’s models are small compared with leading models from OpenAI, Anthropic, Google, or Meta.",
+              "Below are some of the first apps to tap into Apple’s AI framework.",
+              "Developer Arima Jain and Aman Jain shipped an AI story creator with the iOS 26 update."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The real price of a free TV",
+            "link": "https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast",
+            "site_name": "The Verge",
+            "novelty_hash": "ed6fa3cc4867a0ea588da32dcc1a979663d3d081"
+          },
+          "review": {
+            "headline_rewrite": "The real price of a free TV",
+            "bullets": [
+              "A lot of companies are currently betting that the current generation of AI tech can help make the smart home work for people, and the hardware involved is getting better fast.",
+              "Emma tells us about the TV’s unusual hardware and impressive feature set, explains the deeply odd AI newscast that shows up every time you turn the Telly on, and walks us through how it actually feels to have a bunch of ads running all the time.",
+              "Finally, in the lightning round, the hosts discuss Sora deepfakes, Copilot Portraits, Ring cameras, Spotify taste profiles, and Waymo rides.",
+              "If you want to know more about everything we discuss in this episode, here are some links to get you started, first in Amazon and Google smart home news:\n- Amazon’s 2025 hardware event: the 8 biggest announcements\n- Here’s where to preorder all of Amazon’s new Alexa devices and when they arrive\n- Amazon finally did the damn hardware right\n- Alexa Plus is smarter — but it’s not yet smart enough\n- The new Google Home Speaker is built for Gemini\n- Hey Google, meet Gemini: the new voice of your smart home\nAnd in all things Telly:\nAnd in the lightning round:\n- Microsoft is giving Copilot AI faces you can chat with\n- OpenAI made a TikTok for deepfakes, and it’s getting hard to tell what’s real\n- All hail the new Fat Bear Champion\n- Waymo adds YouTube Music\n- Spotify now lets you exclude specific songs from your algorithm\n- Ring launches upgraded cameras with Retinal Vision 4K recording"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple removes ICEBlock and similar tracking apps from the App Store",
+            "link": "https://techcrunch.com/2025/10/03/apple-removes-iceblock-and-similar-tracking-apps-from-the-app-store/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a20c1192f29e9a2a469844c0624138904dca429a"
+          },
+          "review": {
+            "headline_rewrite": "Apple removes ICEBlock and similar tracking apps from the App Store",
+            "bullets": [
+              "The app, which went viral earlier this year, allowed users to lawfully share information about where they’ve seen ICE agents within a 5-mile radius of their location, and also share details of the clothing agents are wearing.",
+              "According to various media reports, Apple said it removed the apps after it was contacted by “law enforcement” about “safety risks” associated with ICEBlock and similar apps.",
+              "The takedown comes in the wake of mounting tensions between the Trump administration and those who oppose the government’s hardline immigration agenda, especially after a shooting at an ICE detention center in Dallas last week resulted in two detainees being killed and one in hospital.",
+              "CNBC cited an FBI official claiming that the gunman had searched apps tracking the presence of ICE agents.",
+              "Officials have repeatedly threatened legal action against those using ICEBlock, and Homeland Security Secretary Kristi Noem in July said officials were trying to see if CNN could be prosecuted for reporting about the app."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "I tried Amazon and Google’s new smart home gadgets, ask me anything!",
+            "link": "https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama",
+            "site_name": "The Verge",
+            "novelty_hash": "c9eb52c7ca4a8ace719d495c693bc6943c3ceb61"
+          },
+          "review": {
+            "headline_rewrite": "I tried Amazon and Google’s new smart home gadgets, ask me anything!",
+            "bullets": [
+              "I just spent the last week in New York City getting some hands-on time with the new smart displays, smart speakers, smart voice assistants, and smart security cameras launched by Amazon and Google.",
+              "To catch you up: on Tuesday, Amazon launched new Echo Show smart displays and Echo smart speakers that come with its new AI-powered Alexa Plus voice assistant, which is more conversational, smarter, and (mostly) better able to manage your smart home.",
+              "The company also revealed a bunch of new Ring smart security cameras, including a 4K-capable video doorbell, plus a new AI-powered feature that uses Ring cameras to help find missing dogs.",
+              "The headline is that it’s finally bringing its Gemini AI fully into Google Home with Gemini for Home, a new, smarter LLM-powered voice assistant for Google Home speakers that replaces Google Assistant.",
+              "Google launched new Gemini-capable Nest security cameras and a new video doorbell, plus a line of low-cost cameras in partnership with Walmart.",
+              "This new breed of smarter AI is finally coming to the smart home."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Best MacBooks (2025): Which Apple Laptop Should You Buy?",
+            "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
+            "site_name": "WIRED",
+            "novelty_hash": "52601891ca5cfb955c344bd9e631677fba169696"
+          },
+          "review": {
+            "headline_rewrite": "Best MacBooks (2025): Which Apple Laptop Should You Buy?",
+            "bullets": [
+              "Featured in this article\nOn the surface, there are just two primary MacBooks to choose from: the MacBook Air and the MacBook Pro.",
+              "Since Apple’s move away from Intel chips to Apple Silicon back in 2020, you can't really go wrong—both are among the best laptops you can buy.",
+              "But while it's easy to figure out which model is right for you—most people will be perfectly happy with the Air—you still have multiple chips to consider, whether that's the M4, M4 Pro, or M4 Max, as well as size options and configurations.",
+              "But as someone who has tested and reviewed all the available MacBooks, I get this question a lot, whether from friends, family, or random strangers on the internet.",
+              "Updated October 2025: We've removed the M3 MacBook Air from our recommendations and added info about the upcoming rumored budget MacBook and OLED MacBook Pro.",
+              "The MacBook for Most People\nIf you're shopping for a MacBook, you should probably buy the Air."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?",
+            "link": "https://www.wired.com/gallery/best-kindle/",
+            "site_name": "WIRED",
+            "novelty_hash": "47d9131036355bc0e5b15b95c9aead68c572090e"
+          },
+          "review": {
+            "headline_rewrite": "The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?",
+            "bullets": [
+              "Updated October 2025: We've added details about the new Kindle Scribes coming out later this year.",
+              "Those new features will include an AI-powered notebook search, a new digital scratch pad called Quick Notes, and Kindle Workspace, which allows you to compile books, documents, and files in one workspace and send files to or from platforms like OneDrive and Google Drive.",
+              "The Kindle Scribe With Frontlight and Scribe Colorsoft will launch later this year, and the basic version will be available early next year.",
+              "While I wouldn't call it completely hands-free, it’s a super convenient and comfortable experience, particularly if you have chronic pain in your wrists.",
+              "The Bookish Crossbody from Bookish Goods fits the Scribe in its main large crossbody pocket, and fits a smaller Kindle or Paperwhite in the front pocket.",
+              "These aren't padded for serious drops, but are the best Kindle cases we've found for daily protection from scratches and scuffs."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
