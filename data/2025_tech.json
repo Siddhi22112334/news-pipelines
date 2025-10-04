@@ -122380,6 +122380,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "21:48": [
+        {
+          "item": {
+            "title": "Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos",
+            "link": "https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1bff5b78d2ea57b2ff085357d6d12cfb25115dc7"
+          },
+          "review": {
+            "headline_rewrite": "Event startup Partiful wasn’t stripping GPS locations from user-uploaded photos",
+            "bullets": [
+              "Partiful aims to be user-friendly and trendy, propelling the app to #9 on the iOS App Store’s Lifestyle charts.",
+              "If the user’s photo contained the precise real-world location of where it was taken, anyone else could have also viewed the precise coordinates of where that photo was taken.",
+              "Almost all digital files, like the pictures you take on a smartphone, contain metadata, which includes information like the file size, when it was created, and by whom.",
+              "The security flaw is problematic because anyone using Partiful could have revealed the location of where a person’s profile photo was snapped.",
+              "Some Partiful user profile photos contained highly granular location data that could be used to identify the person’s home or work, particularly in rural areas where individual homes are easier to distinguish on a map.",
+              "TechCrunch verified the bug ourselves by uploading a new Partiful profile photo that we had previously captured from outside of the Moscone West Convention Center in San Francisco, which contained the photo’s precise location."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Daniel Ek stepping down changes nothing for Spotify",
+            "link": "https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify",
+            "site_name": "The Verge",
+            "novelty_hash": "ce898492a5f8fe3236bff1c8a27a6e8fae0ea234"
+          },
+          "review": {
+            "headline_rewrite": "Daniel Ek stepping down changes nothing for Spotify",
+            "bullets": [
+              "Over the past few months his funding of German defense company Helsing through his investment firm Prima Materia has been the final straw for many acts, including Hotline TNT, Massive Attack, Godspeed You!",
+              "But, if the company was hoping that a byproduct of replacing Ek as CEO would be to stem the tide of artists leaving the platform, I have some bad news.",
+              "He will remain the executive chairman and, even in the announcement of Gustav Söderström and Alex Norström being named the new co-CEOs, Ek immediately undercut their authority, saying, “Gustav and Alex will continue to report to me … I will be more hands on than some of my U.S.",
+              "peers who have a Chairman title.” When asked for clarification about how Ek’s role would change, Spotify declined to comment.",
+              "Jeremy Leaird-Koch, who releases music under the name Jeremy Blake and hosts the YouTube channel Red Means Recording, removed his music in July.",
+              "He told The Verge that this boardroom shuffling “changes nothing.” He quickly pointed out that “an Executive Chairman is a key leadership position that leads the board of directors while also holding an active, strategic, and often hands-on role in the day-to-day business and executive management of the company.”\n“The rare thing Senate Republicans and Democrats seem to agree on is that Spotify is out of control.”\nColin Volvert, label manager for Kalahari Oyster Cult, which pulled its entire catalog from Spotify in June, was also unswayed."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price",
+            "link": "https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "421d247e6b52cee7eb575f14ea3a0a1153fdb02a"
+          },
+          "review": {
+            "headline_rewrite": "Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price",
+            "bullets": [
+              "The nifty roller mop can also clean itself while tidying up your home, and the vac comes with a compact multifunction dock, one that can refill the robovac using an integrated water tank and move dirty water into a separate waste tank to prevent it from dragging stains across your home.",
+              "Although it offers slightly less powerful suction at 16,600Pa, it introduces Boosted Large-Airflow Suction Technology, which optimizes the airflow path from intake to exhaust instead of relying solely on suction power.",
+              "This allows more air — and therefore more dust and debris — to move through the system, resulting in a deeper clean if you’re willing to pay $100 more."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The best early October Prime Day deals on Apple devices: Save on AirTags, iPads, Apple Watches and more",
+            "link": "https://www.engadget.com/deals/the-best-early-october-prime-day-deals-on-apple-devices-save-on-airtags-ipads-apple-watches-and-more-125644340.html",
+            "site_name": "Engadget",
+            "novelty_hash": "416d98823d048388cb00fcdb9fd643cdb30dbf66"
+          },
+          "review": {
+            "headline_rewrite": "The best early October Prime Day deals on Apple devices: Save on AirTags, iPads, Apple Watches and more",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Amazon’s October Prime Day sale has brought a handful of decent discounts on Apple devices, from iPads to Apple Watches to accessories like the Apple Pencil and AirTags.",
+              "If you’ve been waiting to take the plunge and don’t want to hold out until Black Friday, here are the best Apple deals we could find from the Prime Big Deal Days event.",
+              "Best Prime Day Apple deals\nApple MacBook Air (13-inch, M4, 512GB) for $999 ($200 off): The MacBook Air tops our guide to the best laptops.",
+              "The latest model isn’t a major overhaul, but it’s still exceptionally thin, lightweight and well-designed, and the M4 chip is more than powerful enough for everyday use.",
+              "Apple MacBook Air (15-inch, M4, 512GB) for $1,199 ($200 off): The 15-inch MacBook Air is essentially the same as the 13-inch version, only it has a roomier display, a more spacious trackpad and better speakers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best Amazon Prime Day deals under $50: Early sales on tech from Apple, Anker, Ring, JBL, Roku and others",
+            "link": "https://www.engadget.com/deals/the-best-amazon-prime-day-deals-under-50-early-sales-on-tech-from-apple-anker-ring-jbl-roku-and-others-120531085.html",
+            "site_name": "Engadget",
+            "novelty_hash": "5b0abc6a037da536e19d4615fcac1f7f7ee6baf1"
+          },
+          "review": {
+            "headline_rewrite": "The best Amazon Prime Day deals under $50: Early sales on tech from Apple, Anker, Ring, JBL, Roku and others",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Best Prime Day deals under $50\nInstant Pot Vortex 2-QT Mini for $38 ($22 off with Prime): The budget model from our air fryer guide may not be large but its two-quart basket is enough to reheat leftovers for two or cook up a batch of frozen appetizers.",
+              "Apple MagSafe charger (25W, 2m) for $35 ($14 off): The latest version of Apple's MagSafe puck is Qi2.2-certified and supports up to 25W of wireless power when paired with a 30W adapter.",
+              "We’ve tested Blink security devices before and have been impressed by what you get for such a small price.",
+              "Blink Mini 2 security cameras (two-pack) for $35 ($35 off): This is currently the top budget pick in our guide to the best security cameras.",
+              "Blink Mini 2 security cameras (three-pack) for $50 ($50 off): A three pack is also on sale and squeezes in just under the $50 mark."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/nano-banana-ai-how-to-detect-ai-generated-images-understand-privacy-risks-and-keep-your-data-safe/articleshow/123976855.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7addbb2c61f942f4dd105fe82e14f67cb9aacbb9"
+          },
+          "review": {
+            "headline_rewrite": "Nano Banana AI: How to detect AI-generated images, understand privacy risks, and keep your data safe",
+            "bullets": [
+              "India has rapidly become the leading market for Googleâs latest AI innovation, Nano Banana, powered by the Gemini engine and cutting-edge machine learning algorithms.",
+              "However, its rise also raises important discussions about AI-generated content, including issues of authenticity, privacy, ethical use, and image detection.",
+              "As AI visuals grow increasingly sophisticated, learning to identify AI-generated images has become essential for social media users, digital creators, and enthusiasts seeking to navigate this evolving technological landscape responsibly.",
+              "Nano Banana leads Indiaâs surge in AI-powered creativity\nIndia is leading the global surge in AI-powered creativity, thanks to Google's Gemini 2.5 Flash Image model, popularly known as Nano Banana.",
+              "Since its launch in late August 2025, Nano Banana has transformed the way users engage with AI, enabling them to create hyper-realistic 3D figurines, retro-style portraits, and imaginative visual effects from simple photos and text prompts.",
+              "This surge in AI-driven creativity reflects a broader cultural shift, where technology and tradition intersect, allowing individuals to explore new forms of self-expression and artistic innovation."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
