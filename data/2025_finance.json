@@ -55697,5 +55697,47 @@
         }
       ]
     }
+  },
+  "2025-10-06": {
+    "runs": {
+      "00:13": [
+        {
+          "item": {
+            "title": "Wall Street week ahead: Market awaits Jerome Powell speech, Q3 earnings, Fed minutes",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-awaits-jerome-powell-speech-q3-earnings-fed-minutes-11759682037071.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street week ahead: Market awaits Jerome Powell speech, Q3 earnings, Fed minutes",
+            "bullets": [
+              "Wall Street’s attention in the week ahead will largely be fixed on a scheduled address from the Federal Reserve Chair, Jerome Powell, alongside the",
+              "Investors will also be listening to several other prominent Fed policymakers, including Vice Chair for Supervision Michelle Bowman and Governor Stephen Miran, throughout the",
+              "The earnings calendar will see financial results from America’s largest airline, Delta Air Lines, and the world's third-biggest soft drinks firm, PepsiCo, among other",
+              "Following companies are due to report third quarter results in the week ahead — Constellation Brands, Aehr Test Systems, McCormick & Company, Saratoga Investment"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "IT services sector likely to see modest Q2FY26 growth as clients defer large tech projects",
+            "link": "https://www.thehindubusinessline.com/companies/it-services-sector-likely-to-see-modest-q2fy26-growth-as-clients-defer-large-tech-projects/article70128079.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "IT services sector likely to see modest Q2FY26 growth as clients defer large tech projects",
+            "bullets": [
+              "Analysts also expect Q2FY26 constant-currency (cc) revenue growth to remain modest.",
+              "(MOFSL) report observed that Q2 results are expected to reflect this hesitation, showing quarter-on-quarter constant currency (cc) growth of 0.3–2.4 per cent for large-caps",
+              "Overall sector revenue is projected to rise 6 per cent year-on-year, with FY26 unlikely to see significant acceleration from FY25.",
+              "Prabhudas Lilladher pointed out that Accenture’s FY26 organic revenue growth guidance of 0.5–3.5 per cent signalled a still-subdued demand environment, indicating yet another challenging"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
