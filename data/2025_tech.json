@@ -130314,6 +130314,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:50": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "669445846707a124c6c91858e643dcc689a1a195"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)\nLast week, Anthropic’s Claude Sonnet 4.5—the world’s best coding model according to SWE-Bench – became available in Amazon Q command line interface (CLI) and Kiro.",
+              "I’m excited about this for two reasons:\nFirst, a few weeks ago I spent 4 intensive days with a global customer delivering an AI-assisted development workshop, where I experienced firsthand how Amazon Q CLI boosts developer productivity.",
+              "With Anthropic’s Claude Sonnet 4.5 in Amazon Q CLI, I know developer productivity will be enhanced further.",
+              "I can’t wait to use Anthropic’s Claude Sonnet 4.5 in Kiro to create a live demo.",
+              "If you want to see this demo and over a thousand other sessions on cloud and AI, join us at AWS re:Invent 2025 in Las Vegas from December 1–5.",
+              "Last week’s launches\nHere are some launches that got my attention:\n- Availability of Claude Sonnet 4.5 in Amazon Bedrock – Anthropic’s most intelligent model, best for coding and complex agents, is now available in Amazon Bedrock."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ask a techspert: What is vibe coding?",
+            "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
+            "site_name": "Google",
+            "novelty_hash": "a2c13fca5dd792070e2f935c0035d7e108cabdef"
+          },
+          "review": {
+            "headline_rewrite": "Ask a techspert: What is vibe coding?",
+            "bullets": [
+              "Vibe coding is an emerging field of development, thanks to AI.",
+              "To get a better idea of how vibe coding works, why it’s becoming increasingly popular and what you can do with it, we talked to product director Kelly Schaefer, who leads a portfolio of AI-powered products in Google Labs.",
+              "My teams and I build what we call “future of” products, which focus on the future of design, writing and even software development.",
+              "In the software arena, we’re thinking about how to democratize building products.",
+              "It’s a process where, for example, you can use an AI tool and explain what you want to make and what you want it to look like, and that tool will generate something for you that you can see and use.",
+              "If you want to bring a vibe-coded app all the way to being a fully launched product that a lot of people can use, you still need coding skill and precision."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re launching the new YouTube Activation Partners program.",
+            "link": "https://blog.google/products/ads-commerce/youtube-activation-partners-program/",
+            "site_name": "Google",
+            "novelty_hash": "7261655af046e625dcf38a6ef895b4d50b782bd9"
+          },
+          "review": {
+            "headline_rewrite": "We’re launching the new YouTube Activation Partners program.",
+            "bullets": [
+              "As the number-one streaming platform for over two years according to Nielsen, YouTube remains a powerful place for brands to reach and engage with audiences.",
+              "This is why today, we’re launching the YouTube Activation Partners program to bring together a collection of trusted third-party partners with expertise in buying strategies and campaign management to help advertisers get the best results out of their work with YouTube."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory",
+            "link": "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "274e94e181f0f55a24613bfb9de3367b0fb31eb4"
+          },
+          "review": {
+            "headline_rewrite": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory",
+            "bullets": [
+              "Context windows of AI models, which indicate the ability of a model to “remember” information, have increased over time.",
+              "However, researchers have suggested new ways to increase long-term memory of AI models, as they often can’t hold context over several sessions.",
+              "19-year-old founder Dhravya Shah is attempting to solve problems in this area by building a memory solution, called Supermemory, for AI apps.",
+              "Originally from Mumbai in India, Shah started building consumer-facing bots and apps a few years ago.",
+              "Shah secured an internship at Cloudflare in 2024, where he worked on AI and infrastructure.",
+              "During this time, advisors, including Cloudflare CTO Dane Knecht, asked him to turn Supermemory into a product."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "69408d80cd90e489c13abeaa76c7def9aecda894"
+          },
+          "review": {
+            "headline_rewrite": "Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Microsoft CTO Kevin Scott joins the Disrupt Stage at TechCrunch Disrupt 2025 to share how one of the world’s largest technology companies is navigating the AI revolution and what it means for startups and the future of innovation.",
+              "From its landmark partnership with OpenAI to reshaping enterprise and consumer products with AI, Scott will pull back the curtain on where Microsoft sees the biggest opportunities.",
+              "Lean in on one of the biggest discussions around AI from an enterprise perspective.",
+              "From Microsoft to startups: lessons from a 20-year career\nHe’ll also dive into how startups can strategically build on Microsoft’s platforms — from Azure AI to developer tools — and what’s next in the high-stakes race to define the future of artificial intelligence.",
+              "Catch Kevin Scott live and save up to $444 on your Disrupt Pass\nJoin more than 10,000 founders, investors, and operators gathering at TechCrunch Disrupt 2025 for a must-see session on the future of AI in consumer tech, commerce, and brand-driven innovation.",
+              "On the Disrupt Stage, Kevin Scott will share his vision for how AI will transform industries, empower builders, and shape the next decade of innovation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "SwitchBot’s new safety tracker can discreetly trigger a fake phone call",
+            "link": "https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light",
+            "site_name": "The Verge",
+            "novelty_hash": "9d11e2b6f6d7688c9fc2123ebeecd8552017898a"
+          },
+          "review": {
+            "headline_rewrite": "SwitchBot’s new safety tracker can discreetly trigger a fake phone call",
+            "bullets": [
+              "SwitchBot is expanding its already diverse line of smart home offerings with a new tracking fob that doubles as both a personal safety device and a quick way to gain entry to your home.",
+              "SwitchBot’s Safety Alarm looks like a keychain flashlight and even has LEDs when you need some extra illumination and don’t want to reach for your smartphone.",
+              "The device is available starting today for $39.99 in black, white, and aqua color options, but you can save 99 cents when buying a two-pack.",
+              "In an emergency, however, you can also remove the Safety Alarm’s short keychain with a yank, which triggers a few things.",
+              "It will run for about a year on a pair of user-replaceable CR2032 batteries or up to two years if not using the Apple Find My functionality."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
