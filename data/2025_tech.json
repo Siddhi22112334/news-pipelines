@@ -131031,6 +131031,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "OpenAI launches AgentKit to help developers build and ship AI agents",
+            "link": "https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bf7d7679dffffa6d0fdd90de2ec99a819c4cac4f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches AgentKit to help developers build and ship AI agents",
+            "bullets": [
+              "OpenAI CEO Sam Altman on Monday announced the launch of AgentKit, a toolkit for building and deploying AI agents, at the firm’s Dev Day event.",
+              "“AgentKit is a complete set of building blocks available in the open AI platform designed to help you take agents from prototype to production.",
+              "It is everything you need to build, deploy, and optimize agent workflows with way less friction,” Altman said.",
+              "The launch highlights OpenAI’s push to increase developer adoption by making agent building faster and easier.",
+              "It also signals a competitive move against other AI platforms racing to offer integrated tools for building autonomous agents for enterprises that can perform complex tasks, not just respond to prompts.",
+              "AgentKit was one of several announcements at OpenAI’s Dev Day, including the launch of the ability to build apps directly inside ChatGPT, which has hit 800 million weekly active users."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI ramps up developer push with more powerful models in its API",
+            "link": "https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a37a6bf5c24bf87353fd3b266e1e53bc0a0fd7a5"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI ramps up developer push with more powerful models in its API",
+            "bullets": [
+              "OpenAI unveiled new API updates at its Dev Day on Monday, introducing GPT-5 Pro, its latest language model, its new video generation model Sora 2, and a smaller, cheaper voice model.",
+              "The updates were part of a series of announcements geared towards wooing developers to OpenAI’s ecosystem, including the launch of an agent-building tool and the ability to build apps in ChatGPT.",
+              "The addition of GPT-5 Pro might appeal to developers building applications in finance, legal, and healthcare – industries that need “high accuracy and depth of reasoning,” per OpenAI CEO Sam Altman.",
+              "Altman also noted that voice capabilities will be essential in the future as it quickly becomes one of the primary ways people use to interact with AI.",
+              "To that end, OpenAI is launching “gpt-realtime mini,” a smaller, cheaper voice model in API that supports low-latency streaming interactions for audio and speech.",
+              "The new model is 70% cheaper than OpenAI’s previous advanced voice model but promises the “same voice quality and expressiveness.”\nFinally, creators involved in OpenAI’s developer ecosystem can now tap into Sora 2 in preview in the API."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "link": "https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "e6e3bf2306df357ad9b29b3f9fc35658949d2302"
+          },
+          "review": {
+            "headline_rewrite": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "bullets": [
+              "If the past is any indication, Prime Big Deal Days — Amazon’s upcoming fall Prime Day event — should deliver a wave of deals on Apple devices, letting you save on everything from AirPods and AirTags to the latest iPad.",
+              "However, if you can’t wait until the sale kicks off tomorrow, October 7th, to land a bargain, you don’t have to.",
+              "A few Apple products are already receiving sizable discounts at Amazon and other retailers, giving you the chance to save ahead of the two-day shopping event.",
+              "The best Apple deals to shop ahead of Amazon’s fall Prime Day event\nFrom the AirPods 4 to the latest MacBook Air, here are the best Apple deals you can grab in the run-up to Prime Big Deal Days.",
+              "Admittedly, the current discounts aren’t as steep as what we’ve seen during previous Prime Day events — and possibly this year’s October Prime Day — but they’re still a solid way to save on a lot of older Apple devices if you can’t wait.",
+              "The last-gen Apple Watch Ultra 2 has returned to its all-time low, for instance, while the M1-powered MacBook Air is available at its best price to date."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "US v. Google redux: all the news from the ad tech trial",
+            "link": "https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search",
+            "site_name": "The Verge",
+            "novelty_hash": "1770abca4b17ff41f2687d9f3f1dac948797fabb"
+          },
+          "review": {
+            "headline_rewrite": "US v. Google redux: all the news from the ad tech trial",
+            "bullets": [
+              "On April 17th, 2025, Judge Brinkema ruled that Google did act illegally to acquire and maintain monopoly power in online advertising.",
+              "In the initial trial, the DOJ argued that Google unfairly locked up the market for ad tech tools that publishers and advertisers rely on to monetize their websites and market their goods.",
+              "Google responded that it created efficient products that work well for customers and said it faced plenty of competition.",
+              "“That is part of the key of making whatever the final remedy is work,” she said.",
+              "Nieh claimed that Wheatland’s conception of how the open-sourced final auction logic would work was new and not technically feasible.",
+              "Brinkema pushed back, saying that her understanding was that all that functionality is “already there” inside DFP and “all they want you to do basically is open the box.” Nieh said that wouldn’t work since the code is always evolving and it would be harder to stick back together with Google’s system."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+            "link": "https://www.wired.com/story/openai-amd-deal-data-center-chips/",
+            "site_name": "WIRED",
+            "novelty_hash": "7163256a6688bcd16cc68da2df32df21dcc8eaa6"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+            "bullets": [
+              "OpenAI announced on Monday that it will acquire several data centers’ worth of chips from AMD in a blockbuster deal that could also give OpenAI the option to acquire a roughly 10 percent stake in the chipmaker.",
+              "It’s another bold bet from OpenAI that demand for generative artificial intelligence will continue rising—bubble be damned.",
+              "“Excited to partner with AMD to use their chips to serve our users!” OpenAI CEO Sam Altman said on X, adding that the company will also ramp up its investments in Nvidia chips.",
+              "He added: “The world needs much more compute …”\nOpenAI said in a blog post this morning that it would commit to purchasing 6 gigawatts’ worth of AMD chips over the next several years.",
+              "The first deployment of a gigawatt worth of AMD Instinct MI450 GPUs will take place in the second half of 2026, the company said.",
+              "The deal also involves AMD issuing OpenAI the right to purchase up to 160 million shares of AMD common stock (roughly a 10 percent stake)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump’s EPA sued for axing $7 billion solar energy program",
+            "link": "https://arstechnica.com/tech-policy/2025/10/trumps-epa-sued-for-clawing-back-7b-in-solar-energy-funds/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d74d573d8f47fe699749e5defe63ef32499f0a57"
+          },
+          "review": {
+            "headline_rewrite": "Trump’s EPA sued for axing $7 billion solar energy program",
+            "bullets": [
+              "In their complaint, a group of plaintiffs who would have benefited from the EPA's \"Solar for All\" program—including a labor union, several businesses, and a homeowner who cannot afford her electricity bills without it—accused the EPA of violating federal law and the Constitution by unlawfully terminating the program.",
+              "Solar for All was \"expected to save an estimated $350 million annually on energy bills during and after the five-year program, providing energy bill relief for more than 900,000 low-income and disadvantaged households,\" plaintiffs noted.",
+              "Additionally, it was \"expected to secure 4,000 megawatts of new solar energy over five years and generate 200,000 new jobs.\"\nAccording to plaintiffs, EPA Administrator Lee Zeldin illegally squashed the program after Congress repealed a statute in July that had sparked the program's creation.",
+              "However, lawmakers were clear when repealing the statute that only \"unobligated\" funds could be rescinded, plaintiffs argued, citing lawmakers who \"repeatedly\" stated that the repeal would not impact funding that had already been awarded.",
+              "In 2024, Congress obligated the EPA to award $7 billion in grants to recipients behind projects that would have created \"hundreds of thousands of good-paying, high-quality jobs\" and spared the average low-income family \"about $400 each year on their electricity bills,\" plaintiffs argued.",
+              "Allegedly Zeldin \"arbitrarily\" decided to ignore the \"plain language\" of the statute, plaintiffs alleged, waiting a month after the statute's repeal to terminate the Solar for All program in August."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
