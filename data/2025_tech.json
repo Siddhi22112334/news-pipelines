@@ -131274,6 +131274,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:48": [
+        {
+          "item": {
+            "title": "AWS IAM Identity Center now supports customer-managed KMS keys for encryption at rest",
+            "link": "https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-customer-managed-kms-keys-for-encryption-at-rest/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "1d18d507dff270062e9a35f40b3adfbe66c8e0ad"
+          },
+          "review": {
+            "headline_rewrite": "AWS IAM Identity Center now supports customer-managed KMS keys for encryption at rest",
+            "bullets": [
+              "With this launch, you can now use customer-managed KMS keys (CMKs) to encrypt Identity Center identity data at rest.",
+              "At launch time, the CMK must reside in the same AWS account and Region as your IAM Identity Center instance.",
+              "The integration between Identity Center and KMS provides detailed AWS CloudTrail logs for auditing key usage and helps meet regulatory compliance requirements.",
+              "Multi-Region keys provide consistent key material across Regions while maintaining independent key infrastructure in each Region.",
+              "Next, I configure the key policies to grant access to Identity Center, AWS managed applications, administrators, and other principals who need access the Identity Center and IAM Identity Center service APIs.",
+              "The service documentation has more details to help you cover the most common use cases."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI ramps up developer push with more powerful models in its API",
+            "link": "https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a37a6bf5c24bf87353fd3b266e1e53bc0a0fd7a5"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI ramps up developer push with more powerful models in its API",
+            "bullets": [
+              "OpenAI unveiled new API updates at its Dev Day on Monday, introducing GPT-5 Pro, its latest language model, its new video generation model Sora 2, and a smaller, cheaper voice model.",
+              "The updates were part of a series of announcements geared towards wooing developers to OpenAI’s ecosystem, including the launch of an agent-building tool and the ability to build apps in ChatGPT.",
+              "The addition of GPT-5 Pro might appeal to developers building applications in finance, legal, and healthcare – industries that need “high accuracy and depth of reasoning,” per OpenAI CEO Sam Altman.",
+              "Altman also noted that voice capabilities will be essential in the future as it quickly becomes one of the primary ways people use to interact with AI.",
+              "To that end, OpenAI is launching “gpt-realtime mini,” a smaller, cheaper voice model in API that supports low-latency streaming interactions for audio and speech.",
+              "The new model is 70% cheaper than OpenAI’s previous advanced voice model but promises the “same voice quality and expressiveness.”\nFinally, creators involved in OpenAI’s developer ecosystem can now tap into Sora 2 in preview in the API."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI Wants ChatGPT to Be Your Future Operating System",
+            "link": "https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/",
+            "site_name": "WIRED",
+            "novelty_hash": "62fe4460f952037f609c89b9d35bdbda3c3106a5"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI Wants ChatGPT to Be Your Future Operating System",
+            "bullets": [
+              "On Monday, OpenAI unveiled a new way to embed third-party apps directly into ChatGPT.",
+              "At the company’s annual developer conference in San Francisco, CEO Sam Altman said the move would “enable a new generation of apps that are adaptive, interactive, and personalized, that you can chat with.”\nStarting today, some developers will be able to use a preview version of a new Apps software development kit (SDK) to build apps within ChatGPT using open standards.",
+              "In one example, OpenAI software engineer Alexi Christakis launched a chat directed at the Canva app and prompted Canva to draw up posters for a dog-walking business.",
+              "From there, he asked for a pitch deck in order to raise capital for the business.",
+              "Altman said that OpenAI plans to introduce new ways for developers to monetize their ChatGPT apps, including methods for buying things through the chatbot.",
+              "“Soon we’ll offer an agentic commerce protocol, with instant checkout from right within ChatGPT,” Altman said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft buys another 100 MW of solar, this time in Japan",
+            "link": "https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "85ae181342820374bd8c30a748e635081fa7367a"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft buys another 100 MW of solar, this time in Japan",
+            "bullets": [
+              "Microsoft is buying 100 megawatts of solar capacity from Japanese developer Shizen Energy, the latest in a string of renewable energy deals designed to power the tech company’s growing compute needs.",
+              "The agreement, which the companies announced late last week, covers four different solar developments; one is already operating and three are under construction.",
+              "The deal covers output from the plants for 20 years.",
+              "Seattle-based Microsoft already operates two data centers in Japan.",
+              "Microsoft’s compute capacity is slated to expand as the company invests $2.9 billion in the country over the next year."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+            "link": "https://www.wired.com/story/openai-amd-deal-data-center-chips/",
+            "site_name": "WIRED",
+            "novelty_hash": "7163256a6688bcd16cc68da2df32df21dcc8eaa6"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+            "bullets": [
+              "OpenAI announced on Monday that it will acquire several data centers’ worth of chips from AMD in a blockbuster deal that could also give OpenAI the option to acquire a roughly 10 percent stake in the chipmaker.",
+              "It’s another bold bet from OpenAI that demand for generative artificial intelligence will continue rising—bubble be damned.",
+              "“Excited to partner with AMD to use their chips to serve our users!” OpenAI CEO Sam Altman said on X, adding that the company will also ramp up its investments in Nvidia chips.",
+              "He added: “The world needs much more compute …”\nOpenAI said in a blog post this morning that it would commit to purchasing 6 gigawatts’ worth of AMD chips over the next several years.",
+              "The first deployment of a gigawatt worth of AMD Instinct MI450 GPUs will take place in the second half of 2026, the company said.",
+              "The deal also involves AMD issuing OpenAI the right to purchase up to 160 million shares of AMD common stock (roughly a 10 percent stake)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The neurons that let us see what isn’t there",
+            "link": "https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "de4d7f76e5e62675e99f7c9338925b24e82d015a"
+          },
+          "review": {
+            "headline_rewrite": "The neurons that let us see what isn’t there",
+            "bullets": [
+              "What the brain “knows”\nIf the edges don’t exist in the stimulus, the brain must be filling them in.",
+              "That’s tricky to explain in a purely “bottom-up” view of perception, where the visual system would just act like a camera, faithfully processing the input from the retina.",
+              "To find them, the researchers combined cutting-edge brain imaging with a crucial causal test: directly poking the neurons to see what happened."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
