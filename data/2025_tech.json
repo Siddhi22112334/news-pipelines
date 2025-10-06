@@ -130787,6 +130787,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:54": [
+        {
+          "item": {
+            "title": "Meta Llama: Everything you need to know about the open generative AI model",
+            "link": "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b3d66934e92c01612052da19c1d6928e8d990d8b"
+          },
+          "review": {
+            "headline_rewrite": "Meta Llama: Everything you need to know about the open generative AI model",
+            "bullets": [
+              "Like every Big Tech company these days, Meta has its own flagship generative AI model, called Llama.",
+              "Llama is somewhat unique among major models in that it’s “open,” meaning developers can download and use it however they please (with certain limitations).",
+              "That’s in contrast to models like Anthropic’s Claude, Google’s Gemini, xAI’s Grok, and most of OpenAI’s ChatGPT models, which can only be accessed via APIs.",
+              "In the interest of giving developers choice, however, Meta has also partnered with vendors, including AWS, Google Cloud, and Microsoft Azure, to make cloud-hosted versions of Llama available.",
+              "In addition, the company publishes tools, libraries, and recipes in its Llama cookbook to help developers fine-tune, evaluate, and adapt the models to their domain.",
+              "With newer generations like Llama 3 and Llama 4, these capabilities have expanded to include native multimodal support and broader cloud rollouts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches AgentKit to help developers build and ship AI agents",
+            "link": "https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bf7d7679dffffa6d0fdd90de2ec99a819c4cac4f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches AgentKit to help developers build and ship AI agents",
+            "bullets": [
+              "OpenAI CEO Sam Altman on Monday announced the launch of AgentKit, a toolkit for building and deploying AI agents, at the firm’s Dev Day event.",
+              "“AgentKit is a complete set of building blocks available in the open AI platform designed to help you take agents from prototype to production.",
+              "It is everything you need to build, deploy, and optimize agent workflows with way less friction,” Altman said.",
+              "The launch highlights OpenAI’s push to increase developer adoption by making agent building faster and easier.",
+              "It also signals a competitive move against other AI platforms racing to offer integrated tools for building autonomous agents for enterprises that can perform complex tasks, not just respond to prompts.",
+              "AgentKit was one of several announcements at OpenAI’s Dev Day, including the launch of the ability to build apps directly inside ChatGPT, which has hit 800 million weekly active users."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "link": "https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "e6e3bf2306df357ad9b29b3f9fc35658949d2302"
+          },
+          "review": {
+            "headline_rewrite": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "bullets": [
+              "If the past is any indication, Prime Big Deal Days — Amazon’s upcoming fall Prime Day event — should deliver a wave of deals on Apple devices, letting you save on everything from AirPods and AirTags to the latest iPad.",
+              "However, if you can’t wait until the sale kicks off tomorrow, October 7th, to land a bargain, you don’t have to.",
+              "A few Apple products are already receiving sizable discounts at Amazon and other retailers, giving you the chance to save ahead of the two-day shopping event.",
+              "The best Apple deals to shop ahead of Amazon’s fall Prime Day event\nFrom the AirPods 4 to the latest MacBook Air, here are the best Apple deals you can grab in the run-up to Prime Big Deal Days.",
+              "Admittedly, the current discounts aren’t as steep as what we’ve seen during previous Prime Day events — and possibly this year’s October Prime Day — but they’re still a solid way to save on a lot of older Apple devices if you can’t wait.",
+              "The last-gen Apple Watch Ultra 2 has returned to its all-time low, for instance, while the M1-powered MacBook Air is available at its best price to date."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to find the best deals during Amazon’s October Prime Day sale",
+            "link": "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
+            "site_name": "The Verge",
+            "novelty_hash": "3f85d810794b032ef631ac440130dcda8f4b47a6"
+          },
+          "review": {
+            "headline_rewrite": "How to find the best deals during Amazon’s October Prime Day sale",
+            "bullets": [
+              "The two-day shopping affair will grant Prime members access to some of the best prices of the year on Amazon devices, as well as products from Sony, Sonos, Bose, Anker, Apple, and other well-known brands we cover at The Verge.",
+              "As always, you can count on us to publish only the best deals during Prime Big Deal Days — as well as any worthwhile ones featured at Walmart, Best Buy, Target, and other competing retailers.",
+              "That said, if you want to be sure you catch any and all deals that are most important to you — or be among the first to know of certain price drops — we’ve compiled some helpful tools and advice.",
+              "Use a price-tracking tool or deal aggregator\nCamelCamelCamel tracks the price of every product sold on Amazon and can send you alerts only when they reach the price that’s right for you.",
+              "Once a product reaches the desired price you’ve set (or goes below it), you’ll get an email about it.",
+              "CamelCamelCamel only works for products on Amazon, so you’ll need to use one of the other methods below if you want to track price movement at Walmart, Best Buy, Target, and other retailers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Deloitte will refund Australian government for AI hallucination-filled report",
+            "link": "https://arstechnica.com/ai/2025/10/deloitte-will-refund-australian-government-for-ai-hallucination-filled-report/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "66e996213607868975f7da06cb52b32cf0ab4702"
+          },
+          "review": {
+            "headline_rewrite": "Deloitte will refund Australian government for AI hallucination-filled report",
+            "bullets": [
+              "The Australian Financial Review reports that Deloitte Australia will offer the Australian government a partial refund for a report that was littered with AI-hallucinated quotes and references to nonexistent research.",
+              "On page 58 of that 273-page updated report, Deloitte added a reference to \"a generative AI large language model (Azure OpenAI GPT-4o) based tool chain\" that was used as part of the technical workstream to help \"[assess] whether system code state can be mapped to business requirements and compliance needs.\""
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump’s EPA sued for axing $7 billion solar energy program",
+            "link": "https://arstechnica.com/tech-policy/2025/10/trumps-epa-sued-for-clawing-back-7b-in-solar-energy-funds/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d74d573d8f47fe699749e5defe63ef32499f0a57"
+          },
+          "review": {
+            "headline_rewrite": "Trump’s EPA sued for axing $7 billion solar energy program",
+            "bullets": [
+              "In their complaint, a group of plaintiffs who would have benefited from the EPA's \"Solar for All\" program—including a labor union, several businesses, and a homeowner who cannot afford her electricity bills without it—accused the EPA of violating federal law and the Constitution by unlawfully terminating the program.",
+              "Solar for All was \"expected to save an estimated $350 million annually on energy bills during and after the five-year program, providing energy bill relief for more than 900,000 low-income and disadvantaged households,\" plaintiffs noted.",
+              "Additionally, it was \"expected to secure 4,000 megawatts of new solar energy over five years and generate 200,000 new jobs.\"\nAccording to plaintiffs, EPA Administrator Lee Zeldin illegally squashed the program after Congress repealed a statute in July that had sparked the program's creation.",
+              "However, lawmakers were clear when repealing the statute that only \"unobligated\" funds could be rescinded, plaintiffs argued, citing lawmakers who \"repeatedly\" stated that the repeal would not impact funding that had already been awarded.",
+              "In 2024, Congress obligated the EPA to award $7 billion in grants to recipients behind projects that would have created \"hundreds of thousands of good-paying, high-quality jobs\" and spared the average low-income family \"about $400 each year on their electricity bills,\" plaintiffs argued.",
+              "Allegedly Zeldin \"arbitrarily\" decided to ignore the \"plain language\" of the statute, plaintiffs alleged, waiting a month after the statute's repeal to terminate the Solar for All program in August."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
