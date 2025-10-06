@@ -131750,6 +131750,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:44": [
+        {
+          "item": {
+            "title": "Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances",
+            "link": "https://aws.amazon.com/blogs/aws/introducing-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-instances/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "3c6cb33479d5b0dc3ffa4f9887b6b61876bd64b2"
+          },
+          "review": {
+            "headline_rewrite": "Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances",
+            "bullets": [
+              "Introducing new compute-optimized Amazon EC2 C8i and C8i-flex instances\nAfter launching Amazon Elastic Compute Cloud (Amazon EC2) memory-optimized R8i and R8i-flex instances and general-purpose M8i and M8i-flex instances, I am happy to announce the general availability of compute-optimized C8i and C8i-flex instances powered by custom Intel Xeon 6 processors available only on AWS with sustained all-core 3.9 GHz turbo frequency and feature a 2:1 ratio of memory to vCPU.",
+              "These instances deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud.",
+              "The C8i and C8i-flex instances are up to 60 percent faster for NGINX web applications, up to 40 percent faster for AI deep learning recommendation models, and 35 percent faster for Memcached stores compared to C7i and C7i-flex instances.",
+              "Now available\nAmazon EC2 C8i and C8i-flex instances are available today in the US East (N.",
+              "Virginia), US East (Ohio), US West (Oregon), and Europe (Spain) AWS Regions.",
+              "C8i instances are also available in Dedicated Instances and Dedicated Hosts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos",
+            "link": "https://techcrunch.com/2025/10/06/taylor-swift-fans-accuse-singer-of-using-ai-in-her-google-scavenger-hunt-videos/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "329d2b1ffb8a55b21bb9296cae41681b4e22ff39"
+          },
+          "review": {
+            "headline_rewrite": "Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos",
+            "bullets": [
+              "But as fans unveiled secret videos as part of the campaign, some fretted that the clips looked like they were AI-generated — and they were not pleased.",
+              "A Google search for the singer’s name yields a cryptic message: “12 cities, 12 doors, 1 video to unlock.”\nFans had to figure out the location of the doors, then physically find them and scan a QR code, which surfaced 12 unique videos that contained the clues needed to solve the puzzle.",
+              "YouTube had scored the video exclusive for the track, as well as the lyric videos from the remaining songs on the new album.",
+              "While Swifties love a puzzle, some were rubbed the wrong way by the 12 clue-containing videos, which looked to be AI-generated.",
+              "However, while there are clips that look computer-generated, it’s unclear if they were made using AI, and if so, to what extent.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nIt would make sense if these videos were generated using Google’s AI products."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Lucid Motors sets record as Gravity sales pick up and tax credit expires",
+            "link": "https://techcrunch.com/2025/10/06/lucid-motors-sets-record-as-gravity-sales-pick-up-and-tax-credit-expires/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3b3be80a1dcca56fdde427e399e7e95d09f9c52f"
+          },
+          "review": {
+            "headline_rewrite": "Lucid Motors sets record as Gravity sales pick up and tax credit expires",
+            "bullets": [
+              "It’s also unclear how many Gravity SUVs were delivered compared to the company’s first model, the Air sedan.",
+              "On Monday, Lucid Motors said it built more than 1,000 vehicles specifically for the Saudi market."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google&#8217;s AI bounty program pays bug hunters up to $30K",
+            "link": "https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards",
+            "site_name": "The Verge",
+            "novelty_hash": "453e25e754bbfba8578721ba265c024465d0f60d"
+          },
+          "review": {
+            "headline_rewrite": "Google&#8217;s AI bounty program pays bug hunters up to $30K",
+            "bullets": [
+              "On Monday, Google launched a new reward program dedicated specifically to finding bugs in AI products.",
+              "Google’s list of qualifying bugs includes examples of the kind of rogue actions it’s looking for, like indirectly injecting an AI prompt that causes Google Home to unlock a door, or a data exfiltration prompt injection that summarizes all of someone’s email and sends the summary to the attacker’s own account.",
+              "Google’s AI bounty program pays bug hunters up to $30K\nGoogle will dish out the biggest bucks for rooting out ways to command ‘rogue actions’ from its AI bots.",
+              "The new program clarifies what constitutes an AI bug, breaking them down as issues that use a large language model or a generative AI system to cause harm or take advantage of a security loophole, with rogue actions at the top of the list.",
+              "This includes modifying someone’s account or data to impede their security or do something unwanted, like one flaw exposed previously that could open smart shutters and turn off the lights using a poisoned Google Calendar event.",
+              "Bug hunters have already raked in over $430,000 during the two years since the company officially started inviting AI researchers to root out potential avenues to abuse AI features in its products."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
+            "link": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
+            "site_name": "The Verge",
+            "novelty_hash": "541feb919a6c8c16cf92bff77c1af741dc7817f7"
+          },
+          "review": {
+            "headline_rewrite": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
+            "bullets": [
+              "In a Q&A with reporters Monday at OpenAI’s DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his “favorite feature we’ve launched in a long time,” and he didn’t rule out including ads in the future.",
+              "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out\nPulse is OpenAI’s latest personalization play for ChatGPT.",
+              "It allows the chatbot to learn about a user via their transcripts and connected apps (such as their calendar and email), then research things on their behalf overnight to present them with a daily “pulse” on those topics every morning.",
+              "That could take the form of daily personalized workout routines, daily language lessons, news roundups, or suggestions for what to order at the restaurant they’re heading to that evening, but whatever it looks like, it’s OpenAI’s hope that users begin their day, every day, with ChatGPT.",
+              "The company is talking about advertising within Pulse, executives said during the Q&A, but Altman said there were “no current plans” in a concrete way to introduce ads within the feature.",
+              "“To the degree we can find out cool things to do that actually seem helpful to users … maybe there’s something to do there, but as has been clear, we approach ads with great caution,” Altman said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias",
+            "link": "https://arstechnica.com/tech-policy/2025/10/ted-cruz-picks-a-fight-with-wikipedia-accusing-platform-of-left-wing-bias/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "342a37cc1d021f2352ac046ad147c2b5a7ca8765"
+          },
+          "review": {
+            "headline_rewrite": "Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias",
+            "bullets": [
+              "Cruz accused the foundation of \"financially support[ing] left-wing organizations that contribute to Wikipedia content,\" and said that \"a coordinated group of editors pushed antisemitic narratives on Wikipedia while whitewashing the activities of groups like Hamas.\" Wikipedia responded to edit wars on the Israeli–Palestinian conflict by banning eight editors in January.",
+              "\"The Wikimedia Foundation has said it is taking steps to combat this editing campaign, raising further questions about the extent to which it is intervening in editorial decisions and to what end,\" Cruz wrote.",
+              "\"We can confirm receipt of a letter from Senator Ted Cruz,\" the statement said.",
+              "We welcome the opportunity to further educate policymakers on the important work of Wikipedia, and the Wikimedia Foundation stands by its unwavering commitment to protect editors' exercise of free expression."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
