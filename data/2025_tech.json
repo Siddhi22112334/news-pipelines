@@ -131153,6 +131153,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:07": [
+        {
+          "item": {
+            "title": "OpenAI launches AgentKit to help developers build and ship AI agents",
+            "link": "https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bf7d7679dffffa6d0fdd90de2ec99a819c4cac4f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches AgentKit to help developers build and ship AI agents",
+            "bullets": [
+              "OpenAI CEO Sam Altman on Monday announced the launch of AgentKit, a toolkit for building and deploying AI agents, at the firm’s Dev Day event.",
+              "“AgentKit is a complete set of building blocks available in the open AI platform designed to help you take agents from prototype to production.",
+              "It is everything you need to build, deploy, and optimize agent workflows with way less friction,” Altman said.",
+              "The launch highlights OpenAI’s push to increase developer adoption by making agent building faster and easier.",
+              "It also signals a competitive move against other AI platforms racing to offer integrated tools for building autonomous agents for enterprises that can perform complex tasks, not just respond to prompts.",
+              "AgentKit was one of several announcements at OpenAI’s Dev Day, including the launch of the ability to build apps directly inside ChatGPT, which has hit 800 million weekly active users."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI ramps up developer push with more powerful models in its API",
+            "link": "https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a37a6bf5c24bf87353fd3b266e1e53bc0a0fd7a5"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI ramps up developer push with more powerful models in its API",
+            "bullets": [
+              "OpenAI unveiled new API updates at its Dev Day on Monday, introducing GPT-5 Pro, its latest language model, its new video generation model Sora 2, and a smaller, cheaper voice model.",
+              "The updates were part of a series of announcements geared towards wooing developers to OpenAI’s ecosystem, including the launch of an agent-building tool and the ability to build apps in ChatGPT.",
+              "The addition of GPT-5 Pro might appeal to developers building applications in finance, legal, and healthcare – industries that need “high accuracy and depth of reasoning,” per OpenAI CEO Sam Altman.",
+              "Altman also noted that voice capabilities will be essential in the future as it quickly becomes one of the primary ways people use to interact with AI.",
+              "To that end, OpenAI is launching “gpt-realtime mini,” a smaller, cheaper voice model in API that supports low-latency streaming interactions for audio and speech.",
+              "The new model is 70% cheaper than OpenAI’s previous advanced voice model but promises the “same voice quality and expressiveness.”\nFinally, creators involved in OpenAI’s developer ecosystem can now tap into Sora 2 in preview in the API."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "US v. Google redux: all the news from the ad tech trial",
+            "link": "https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search",
+            "site_name": "The Verge",
+            "novelty_hash": "1770abca4b17ff41f2687d9f3f1dac948797fabb"
+          },
+          "review": {
+            "headline_rewrite": "US v. Google redux: all the news from the ad tech trial",
+            "bullets": [
+              "On April 17th, 2025, Judge Brinkema ruled that Google did act illegally to acquire and maintain monopoly power in online advertising.",
+              "In the initial trial, the DOJ argued that Google unfairly locked up the market for ad tech tools that publishers and advertisers rely on to monetize their websites and market their goods.",
+              "Google responded that it created efficient products that work well for customers and said it faced plenty of competition.",
+              "“That is part of the key of making whatever the final remedy is work,” she said.",
+              "Nieh claimed that Wheatland’s conception of how the open-sourced final auction logic would work was new and not technically feasible.",
+              "Brinkema pushed back, saying that her understanding was that all that functionality is “already there” inside DFP and “all they want you to do basically is open the box.” Nieh said that wouldn’t work since the code is always evolving and it would be harder to stick back together with Google’s system."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+            "link": "https://www.wired.com/story/openai-amd-deal-data-center-chips/",
+            "site_name": "WIRED",
+            "novelty_hash": "7163256a6688bcd16cc68da2df32df21dcc8eaa6"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+            "bullets": [
+              "OpenAI announced on Monday that it will acquire several data centers’ worth of chips from AMD in a blockbuster deal that could also give OpenAI the option to acquire a roughly 10 percent stake in the chipmaker.",
+              "It’s another bold bet from OpenAI that demand for generative artificial intelligence will continue rising—bubble be damned.",
+              "“Excited to partner with AMD to use their chips to serve our users!” OpenAI CEO Sam Altman said on X, adding that the company will also ramp up its investments in Nvidia chips.",
+              "He added: “The world needs much more compute …”\nOpenAI said in a blog post this morning that it would commit to purchasing 6 gigawatts’ worth of AMD chips over the next several years.",
+              "The first deployment of a gigawatt worth of AMD Instinct MI450 GPUs will take place in the second half of 2026, the company said.",
+              "The deal also involves AMD issuing OpenAI the right to purchase up to 160 million shares of AMD common stock (roughly a 10 percent stake)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI will let developers build apps that work inside ChatGPT",
+            "link": "https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "72defe203b05a1fde73b399393abe3666f1a5bbc"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI will let developers build apps that work inside ChatGPT",
+            "bullets": [
+              "OpenAI is introducing a way to work with apps right inside ChatGPT.",
+              "OpenAI will let developers build apps that work inside ChatGPT\nRight within a ChatGPT conversation, you’ll be able to chat with apps like Spotify, Canva, and Zillow.",
+              "In a live demo, an OpenAI employee launched ChatGPT and then asked Canva to create a poster of a name for a dog-walking business; after a bit of waiting, Canva came back with a few different examples, and the presenter followed up by asking for a generated pitch deck based on the poster.",
+              "Apps available inside ChatGPT starting today will include Booking.com, Canva, Coursera, Expedia, Figma, Spotify, and Zillow.",
+              "In the “weeks ahead,” OpenAI will add more apps, such as DoorDash, OpenTable, Target, and Uber.",
+              "OpenAI recently started allowing ChatGPT users to make purchases on Etsy through the chatbot, part of its overall push to integrate it with the rest of the web."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "This 16-Inch Laptop Just Won Best Buy's Techtober Sale",
+            "link": "https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "8a5f681e5094c0d9b1be3d41ad1a0cd1c4180fc1"
+          },
+          "review": {
+            "headline_rewrite": "This 16-Inch Laptop Just Won Best Buy's Techtober Sale",
+            "bullets": [
+              "It's for $450 off the Acer Swift 16 AI (8/10, WIRED Recommends), costing $800.",
+              "Our own testing resulted in 13 hours of YouTube video playback, which isn't quite as long as other laptops with this chip.",
+              "Look, the Acer Swift 16 AI wouldn't be my first choice based on looks alone.",
+              "There are certainly more attractive and portable 16-inch laptops out there, such as the LG Gram Pro 16 (6/10, WIRED Reviewed).",
+              "That being said, there's a lot of great laptops on sale right now, so make sure to check out the list I curated of all the best laptop deals happening this week."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
