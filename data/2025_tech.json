@@ -131866,6 +131866,118 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:08": [
+        {
+          "item": {
+            "title": "Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI",
+            "link": "https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "16fcdf3583eed1bda11c9b2a03ed5ec5bb24a79a"
+          },
+          "review": {
+            "headline_rewrite": "Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI",
+            "bullets": [
+              "Professional services and consultant firm Deloitte announced a landmark AI enterprise deal with Anthropic the same day it was revealed the company would issue a refund for a government-contracted report that contained inaccurate AI-produced slop.",
+              "The upshot: Deloitte’s deal with Anthropic is a referendum on its commitment to AI, even as it grapples with the technology.",
+              "On the same day Deloitte touted its increased use of AI, the Australia Department of Employment and Workplace Relations said the consulting company would have to issue a refund for a report it did for the department that included AI hallucinations, the Financial Times reported.",
+              "Deloitte will repay the final installment of its government contract, the FT reported.",
+              "Deloitte and Anthropic, which formed a partnership last year, plan to create compliance products and features for regulated industries including financial services, healthcare and public services, according to an Anthropic blog post.",
+              "Deloitte also plans to create different AI agent “personas” to represent the different departments within the company including accountants and software developers, according to reporting from CNBC."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos",
+            "link": "https://techcrunch.com/2025/10/06/taylor-swift-fans-accuse-singer-of-using-ai-in-her-google-scavenger-hunt-videos/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "329d2b1ffb8a55b21bb9296cae41681b4e22ff39"
+          },
+          "review": {
+            "headline_rewrite": "Taylor Swift fans accuse singer of using AI in her Google scavenger hunt videos",
+            "bullets": [
+              "But as fans unveiled secret videos as part of the campaign, some fretted that the clips looked like they were AI-generated — and they were not pleased.",
+              "A Google search for the singer’s name yields a cryptic message: “12 cities, 12 doors, 1 video to unlock.”\nFans had to figure out the location of the doors, then physically find them and scan a QR code, which surfaced 12 unique videos that contained the clues needed to solve the puzzle.",
+              "YouTube had scored the video exclusive for the track, as well as the lyric videos from the remaining songs on the new album.",
+              "While Swifties love a puzzle, some were rubbed the wrong way by the 12 clue-containing videos, which looked to be AI-generated.",
+              "However, while there are clips that look computer-generated, it’s unclear if they were made using AI, and if so, to what extent.",
+              "Join 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nIt would make sense if these videos were generated using Google’s AI products."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft is plugging more holes that let you use Windows 11 without an online account",
+            "link": "https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes",
+            "site_name": "The Verge",
+            "novelty_hash": "9851a1bb9227afe3144e118cacf8d60e39888583"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft is plugging more holes that let you use Windows 11 without an online account",
+            "bullets": [
+              "Using this command now resets the OOBE process and it fails to bypass the Microsoft account requirement.",
+              "A lot of Windows users simply want to avoid using a Microsoft account or just want to customize the user folder name that Windows 11 creates from the email address of a Microsoft account."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
+            "link": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
+            "site_name": "The Verge",
+            "novelty_hash": "541feb919a6c8c16cf92bff77c1af741dc7817f7"
+          },
+          "review": {
+            "headline_rewrite": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
+            "bullets": [
+              "In a Q&A with reporters Monday at OpenAI’s DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his “favorite feature we’ve launched in a long time,” and he didn’t rule out including ads in the future.",
+              "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out\nPulse is OpenAI’s latest personalization play for ChatGPT.",
+              "It allows the chatbot to learn about a user via their transcripts and connected apps (such as their calendar and email), then research things on their behalf overnight to present them with a daily “pulse” on those topics every morning.",
+              "That could take the form of daily personalized workout routines, daily language lessons, news roundups, or suggestions for what to order at the restaurant they’re heading to that evening, but whatever it looks like, it’s OpenAI’s hope that users begin their day, every day, with ChatGPT.",
+              "The company is talking about advertising within Pulse, executives said during the Q&A, but Altman said there were “no current plans” in a concrete way to introduce ads within the feature.",
+              "“To the degree we can find out cool things to do that actually seem helpful to users … maybe there’s something to do there, but as has been clear, we approach ads with great caution,” Altman said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias",
+            "link": "https://arstechnica.com/tech-policy/2025/10/ted-cruz-picks-a-fight-with-wikipedia-accusing-platform-of-left-wing-bias/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "342a37cc1d021f2352ac046ad147c2b5a7ca8765"
+          },
+          "review": {
+            "headline_rewrite": "Ted Cruz picks a fight with Wikipedia, accusing platform of left-wing bias",
+            "bullets": [
+              "Cruz accused the foundation of \"financially support[ing] left-wing organizations that contribute to Wikipedia content,\" and said that \"a coordinated group of editors pushed antisemitic narratives on Wikipedia while whitewashing the activities of groups like Hamas.\" Wikipedia responded to edit wars on the Israeli–Palestinian conflict by banning eight editors in January.",
+              "\"The Wikimedia Foundation has said it is taking steps to combat this editing campaign, raising further questions about the extent to which it is intervening in editorial decisions and to what end,\" Cruz wrote.",
+              "\"We can confirm receipt of a letter from Senator Ted Cruz,\" the statement said.",
+              "We welcome the opportunity to further educate policymakers on the important work of Wikipedia, and the Wikimedia Foundation stands by its unwavering commitment to protect editors' exercise of free expression."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mina the Hollower, from the makers of Shovel Knight, has been delayed",
+            "link": "https://www.engadget.com/mina-the-hollower-from-the-makers-of-shovel-knight-has-been-delayed-222817866.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0e5920ca12b0a175a4b9946eca79bf78560dd250"
+          },
+          "review": {
+            "headline_rewrite": "Mina the Hollower, from the makers of Shovel Knight, has been delayed",
+            "bullets": [
+              "But the good news is that it doesn't seem like this will be a lengthy wait.",
+              "There's no new launch date given in the post on the developer's website, but Yacht Club says that it won't be much longer before the game is ready."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
