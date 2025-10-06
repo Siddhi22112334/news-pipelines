@@ -130667,6 +130667,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:08": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "669445846707a124c6c91858e643dcc689a1a195"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)\nLast week, Anthropic’s Claude Sonnet 4.5—the world’s best coding model according to SWE-Bench – became available in Amazon Q command line interface (CLI) and Kiro.",
+              "I’m excited about this for two reasons:\nFirst, a few weeks ago I spent 4 intensive days with a global customer delivering an AI-assisted development workshop, where I experienced firsthand how Amazon Q CLI boosts developer productivity.",
+              "With Anthropic’s Claude Sonnet 4.5 in Amazon Q CLI, I know developer productivity will be enhanced further.",
+              "I can’t wait to use Anthropic’s Claude Sonnet 4.5 in Kiro to create a live demo.",
+              "If you want to see this demo and over a thousand other sessions on cloud and AI, join us at AWS re:Invent 2025 in Las Vegas from December 1–5.",
+              "Last week’s launches\nHere are some launches that got my attention:\n- Availability of Claude Sonnet 4.5 in Amazon Bedrock – Anthropic’s most intelligent model, best for coding and complex agents, is now available in Amazon Bedrock."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ask a Techspert: What is vibe coding?",
+            "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
+            "site_name": "Google",
+            "novelty_hash": "a2c13fca5dd792070e2f935c0035d7e108cabdef"
+          },
+          "review": {
+            "headline_rewrite": "Ask a Techspert: What is vibe coding?",
+            "bullets": [
+              "Vibe coding is an emerging field of development, thanks to AI.",
+              "To get a better idea of how vibe coding works, why it’s becoming increasingly popular and what you can do with it, we talked to product director Kelly Schaefer, who leads a portfolio of AI-powered products in Google Labs.",
+              "My teams and I build what we call “future of” products, which focus on the future of design, writing and even software development.",
+              "In the software arena, we’re thinking about how to democratize building products.",
+              "It’s a process where, for example, you can use an AI tool and explain what you want to make and what you want it to look like, and that tool will generate something for you that you can see and use.",
+              "If you want to bring a vibe-coded app all the way to being a fully launched product that a lot of people can use, you still need coding skill and precision."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "5 features for taking perfect group photos with Pixel 10",
+            "link": "https://blog.google/products/pixel/pixel-group-photo-features-ai/",
+            "site_name": "Google",
+            "novelty_hash": "44ca1f7f6df4160f1591e0d203e1597a16150049"
+          },
+          "review": {
+            "headline_rewrite": "5 features for taking perfect group photos with Pixel 10",
+            "bullets": [
+              "Auto Best Take\nAuto Best Take uses AI to sense when you’re capturing a group photo, then analyzes up to 150 frames to find when every person looks just right.",
+              "Add Me\nThanks to AI, Add Me can combine two pictures taken during the same session and in the same scene so everyone — including the person who took the original shot — is in the photo.",
+              "Just hold out or prop up your phone, then raise your palm toward the camera like you’re getting its attention to say, “We’re ready for our closeup!” Lowering your hand will start a countdown to take the picture.",
+              "You can say “remove the tree behind our heads” or type “add a rainbow over the group” for the perfect finishing touch on your group photo."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta Llama: Everything you need to know about the open generative AI model",
+            "link": "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b3d66934e92c01612052da19c1d6928e8d990d8b"
+          },
+          "review": {
+            "headline_rewrite": "Meta Llama: Everything you need to know about the open generative AI model",
+            "bullets": [
+              "Like every Big Tech company these days, Meta has its own flagship generative AI model, called Llama.",
+              "Llama is somewhat unique among major models in that it’s “open,” meaning developers can download and use it however they please (with certain limitations).",
+              "That’s in contrast to models like Anthropic’s Claude, Google’s Gemini, xAI’s Grok, and most of OpenAI’s ChatGPT models, which can only be accessed via APIs.",
+              "In the interest of giving developers choice, however, Meta has also partnered with vendors, including AWS, Google Cloud, and Microsoft Azure, to make cloud-hosted versions of Llama available.",
+              "In addition, the company publishes tools, libraries, and recipes in its Llama cookbook to help developers fine-tune, evaluate, and adapt the models to their domain.",
+              "With newer generations like Llama 3 and Llama 4, these capabilities have expanded to include native multimodal support and broader cloud rollouts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory",
+            "link": "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "968d6cf8935fe51ddf9f8507ece4107651f0a43d"
+          },
+          "review": {
+            "headline_rewrite": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory",
+            "bullets": [
+              "Context windows of AI models, which indicate the ability of a model to “remember” information, have increased over time.",
+              "However, researchers have suggested new ways to increase long-term memory of AI models, as they often can’t hold context over several sessions.",
+              "19-year-old founder Dhravya Shah is attempting to solve problems in this area by building a memory solution, called Supermemory, for AI apps.",
+              "Originally from Mumbai in India, Shah started building consumer-facing bots and apps a few years ago.",
+              "Shah secured an internship at Cloudflare in 2024, where he worked on AI and infrastructure.",
+              "During this time, advisors, including Cloudflare CTO Dane Knecht, asked him to turn Supermemory into a product."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "link": "https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "e6e3bf2306df357ad9b29b3f9fc35658949d2302"
+          },
+          "review": {
+            "headline_rewrite": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event",
+            "bullets": [
+              "If the past is any indication, Prime Big Deal Days — Amazon’s upcoming fall Prime Day event — should deliver a wave of deals on Apple devices, letting you save on everything from AirPods and AirTags to the latest iPad.",
+              "However, if you can’t wait until the sale kicks off tomorrow, October 7th, to land a bargain, you don’t have to.",
+              "A few Apple products are already receiving sizable discounts at Amazon and other retailers, giving you the chance to save ahead of the two-day shopping event.",
+              "The best Apple deals to shop ahead of Amazon’s fall Prime Day event\nFrom the AirPods 4 to the latest MacBook Air, here are the best Apple deals you can grab in the run-up to Prime Big Deal Days.",
+              "Admittedly, the current discounts aren’t as steep as what we’ve seen during previous Prime Day events — and possibly this year’s October Prime Day — but they’re still a solid way to save on a lot of older Apple devices if you can’t wait.",
+              "The last-gen Apple Watch Ultra 2 has returned to its all-time low, for instance, while the M1-powered MacBook Air is available at its best price to date."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
