@@ -130431,6 +130431,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:14": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-outposts-amazon-ecs-managed-instances-aws-builder-id-and-more-october-6-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "669445846707a124c6c91858e643dcc689a1a195"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup:  Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Bedrock, AWS Outposts, Amazon ECS Managed Instances, AWS Builder ID, and more (October 6, 2025)\nLast week, Anthropic’s Claude Sonnet 4.5—the world’s best coding model according to SWE-Bench – became available in Amazon Q command line interface (CLI) and Kiro.",
+              "I’m excited about this for two reasons:\nFirst, a few weeks ago I spent 4 intensive days with a global customer delivering an AI-assisted development workshop, where I experienced firsthand how Amazon Q CLI boosts developer productivity.",
+              "With Anthropic’s Claude Sonnet 4.5 in Amazon Q CLI, I know developer productivity will be enhanced further.",
+              "I can’t wait to use Anthropic’s Claude Sonnet 4.5 in Kiro to create a live demo.",
+              "If you want to see this demo and over a thousand other sessions on cloud and AI, join us at AWS re:Invent 2025 in Las Vegas from December 1–5.",
+              "Last week’s launches\nHere are some launches that got my attention:\n- Availability of Claude Sonnet 4.5 in Amazon Bedrock – Anthropic’s most intelligent model, best for coding and complex agents, is now available in Amazon Bedrock."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ask a Techspert: What is vibe coding?",
+            "link": "https://blog.google/technology/ai/techspert-what-is-vibe-coding/",
+            "site_name": "Google",
+            "novelty_hash": "a2c13fca5dd792070e2f935c0035d7e108cabdef"
+          },
+          "review": {
+            "headline_rewrite": "Ask a Techspert: What is vibe coding?",
+            "bullets": [
+              "Vibe coding is an emerging field of development, thanks to AI.",
+              "To get a better idea of how vibe coding works, why it’s becoming increasingly popular and what you can do with it, we talked to product director Kelly Schaefer, who leads a portfolio of AI-powered products in Google Labs.",
+              "My teams and I build what we call “future of” products, which focus on the future of design, writing and even software development.",
+              "In the software arena, we’re thinking about how to democratize building products.",
+              "It’s a process where, for example, you can use an AI tool and explain what you want to make and what you want it to look like, and that tool will generate something for you that you can see and use.",
+              "If you want to bring a vibe-coded app all the way to being a fully launched product that a lot of people can use, you still need coding skill and precision."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re launching the new YouTube Activation Partners program.",
+            "link": "https://blog.google/products/ads-commerce/youtube-activation-partners-program/",
+            "site_name": "Google",
+            "novelty_hash": "7261655af046e625dcf38a6ef895b4d50b782bd9"
+          },
+          "review": {
+            "headline_rewrite": "We’re launching the new YouTube Activation Partners program.",
+            "bullets": [
+              "As the number-one streaming platform for over two years according to Nielsen, YouTube remains a powerful place for brands to reach and engage with audiences.",
+              "This is why today, we’re launching the YouTube Activation Partners program to bring together a collection of trusted third-party partners with expertise in buying strategies and campaign management to help advertisers get the best results out of their work with YouTube."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "What to expect at OpenAI’s DevDay 2025, and how to watch it",
+            "link": "https://techcrunch.com/2025/10/06/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6529174908fbf0af4d1e03ac47764217d127eee1"
+          },
+          "review": {
+            "headline_rewrite": "What to expect at OpenAI’s DevDay 2025, and how to watch it",
+            "bullets": [
+              "OpenAI is gearing up to host its third annual developer conference, DevDay 2025, on Monday.",
+              "The company says more than 1,500 people are scheduled to convene at Fort Mason in San Francisco for OpenAI’s “biggest event yet,” which features announcements, keynotes from OpenAI executives, and a fireside chat between CEO Sam Altman and longtime Apple designer Jony Ive.",
+              "From the sound of it, DevDay 2025 is shaping up to be a grand display of OpenAI’s rising dominance in Silicon Valley against giants like Apple, Google, and Meta.",
+              "OpenAI is currently building an AI device, a social media app, and an AI-powered browser to take on Chrome.",
+              "In other words, OpenAI has a lot more going on than it did during its first DevDay in 2023, when it mostly just had ChatGPT and an API business for developers to access its models.",
+              "At the same time, OpenAI faces more competition than ever in the bid to win over developers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory",
+            "link": "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "968d6cf8935fe51ddf9f8507ece4107651f0a43d"
+          },
+          "review": {
+            "headline_rewrite": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory",
+            "bullets": [
+              "Context windows of AI models, which indicate the ability of a model to “remember” information, have increased over time.",
+              "However, researchers have suggested new ways to increase long-term memory of AI models, as they often can’t hold context over several sessions.",
+              "19-year-old founder Dhravya Shah is attempting to solve problems in this area by building a memory solution, called Supermemory, for AI apps.",
+              "Originally from Mumbai in India, Shah started building consumer-facing bots and apps a few years ago.",
+              "Shah secured an internship at Cloudflare in 2024, where he worked on AI and infrastructure.",
+              "During this time, advisors, including Cloudflare CTO Dane Knecht, asked him to turn Supermemory into a product."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AMD wins massive AI chip deal from OpenAI with stock sweetener",
+            "link": "https://arstechnica.com/ai/2025/10/amd-wins-massive-ai-chip-deal-from-openai-with-stock-sweetener/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8301c0495df1def19fc24aa084d864258df53c9e"
+          },
+          "review": {
+            "headline_rewrite": "AMD wins massive AI chip deal from OpenAI with stock sweetener",
+            "bullets": [
+              "On Monday, AMD announced it will supply AI chips to OpenAI in a multi-year deal worth tens of billions of dollars annually that gives the ChatGPT creator an option to acquire up to 10 percent of the chipmaker's stock for 1 cent per share, Reuters reports.",
+              "The agreement covers hundreds of thousands of AMD's AI graphics processing units over several years starting in the second half of 2026.",
+              "The deal marks a major endorsement of AMD's AI hardware and software capabilities as the company competes with Nvidia for dominance in the AI chip market.",
+              "AMD executives project the agreement will generate more than $100 billion in new revenue over four years from OpenAI and other customers who follow OpenAI's lead.",
+              "\"We view this deal as certainly transformative, not just for AMD, but for the dynamics of the industry,\" AMD Executive Vice President Forrest Norrod told Reuters on Sunday.",
+              "The chipmaker will start booking income from the deal next year when OpenAI starts building a 1 gigawatt facility based on AMD's forthcoming MI450 series chips."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
