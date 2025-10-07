@@ -135612,5 +135612,122 @@
         }
       ]
     }
+  },
+  "2025-10-08": {
+    "runs": {
+      "00:18": [
+        {
+          "item": {
+            "title": "Googler Michel Devoret awarded the Nobel Prize in Physics",
+            "link": "https://blog.google/inside-google/company-announcements/googler-michel-devoret-awarded-the-nobel-prize-in-physics/",
+            "site_name": "Google",
+            "novelty_hash": "74fd07a9f394bdbdf089ab56e322caa096876ee3"
+          },
+          "review": {
+            "headline_rewrite": "Googler Michel Devoret awarded the Nobel Prize in Physics",
+            "bullets": [
+              "Googler Michel Devoret awarded the Nobel Prize in Physics\nThis morning, Michel Devoret, currently at Google as Chief Scientist of Quantum Hardware on the Quantum AI team, has been awarded the 2025 Nobel Prize in Physics.",
+              "The prize is for his work on macroscopic quantum effects that laid the foundation for modern superconducting qubit-based quantum computing.",
+              "Michel shares the honor with John Martinis, former hardware leader at Google Quantum AI, and John Clarke of the University of California, Berkeley.",
+              "Our Quantum AI team is incredibly proud to see Michel and John recognized for their pioneering work, and it’s another exciting moment at Google.",
+              "Michel, John Martinis and John Clarke proved a remarkable concept: that the strange, counterintuitive laws of quantum mechanics — phenomena previously thought to be confined to atoms and subatomic particles — could be revealed and controlled in a macroscopic electrical circuit on a chip.",
+              "The foundation for superconducting quantum computing\nFor Google’s Quantum AI team, this Nobel Prize is not just a celebration of historic science, it’s a celebration of the foundation of our current work on superconducting quantum computing."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Expanding access to Opal, our no-code AI mini-app builder",
+            "link": "https://blog.google/technology/google-labs/opal-expansion/",
+            "site_name": "Google",
+            "novelty_hash": "059efe950469d72c2bc12f391b2d8c6f45345a18"
+          },
+          "review": {
+            "headline_rewrite": "Expanding access to Opal, our no-code AI mini-app builder",
+            "bullets": [
+              "Expanding access to Opal, our no-code AI mini-app builder\nTwo months ago, we introduced Opal as an early experiment within Google Labs.",
+              "Our goal was simple: give users the ability to build AI-powered mini-apps, using just natural language — no coding required.",
+              "We’re also sharing details about improvements we’re making to Opal.",
+              "Errors are displayed in real time and localized to the exact step where the failure occurred to provide immediate context and eliminate guesswork.",
+              "We’ve also enabled parallel runs, allowing complex workflows with multiple steps to execute simultaneously, helping to reduce overall wait times."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best laptop deals you can get for Amazon’s October Prime Day",
+            "link": "https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple",
+            "site_name": "The Verge",
+            "novelty_hash": "bfe34638279f8e2bebbb33de91cf23e9d3d67fbf"
+          },
+          "review": {
+            "headline_rewrite": "The best laptop deals you can get for Amazon’s October Prime Day",
+            "bullets": [
+              "The second Amazon Prime Day sales event of the year is here, and once again it offers discounts on MacBooks, Windows laptops, and various PC accessories.",
+              "Some sale prices are open to anyone, and competing sales from Best Buy and other retailers often match or beat the discounts on Amazon without requiring a subscription.",
+              "If you’re shopping for a laptop and unable to wait for potential bigger sales during Black Friday, this may be a good opportunity to save what you can now.",
+              "Best MacBook deals\nThe MacBook Air is by far the laptop The Verge recommends the most frequently.",
+              "The latest generation isn’t revolutionary, but it packs a speedy M4 chip, more RAM, and an improved webcam for a lower starting price of $999.",
+              "- The two-generations-old 13-inch MacBook Air with M2 processor, 16GB of RAM, and 256GB SSD is $699 ($100 off) at Best Buy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 173 best October Prime Day deals",
+            "link": "https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1",
+            "site_name": "The Verge",
+            "novelty_hash": "8ac165e08d9abb798e0cb615a11c2817f1b4ede8"
+          },
+          "review": {
+            "headline_rewrite": "The 173 best October Prime Day deals",
+            "bullets": [
+              "Some of these gadgets are available for less than they were during Amazon’s most recent Prime Day sale in July, so your patience has been rewarded if you sat the last one out.",
+              "By that logic, it might be tempting to wait until Black Friday for an even better deal, but there’s no guarantee prices will drop further.",
+              "(Here’s a free 30-day trial if you don’t have one yet.)\nPrime Day highlights\nFeatured Products\nHeadphone and earbud deals\nBose’s QuietComfort Headphones, which replace the QuietComfort 45, have adjustable noise cancellation and the ability to set custom modes.",
+              "You sacrifice bass in the process, but the design is particularly good for runners who want to remain aware of their surroundings.",
+              "They don’t support multipoint pairing, sadly, so they can only be connected to one device at a time.",
+              "That said, they lack several notable features, including wireless charging and multipoint support, and only carry an IPX2 rating."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla reveals slightly cheaper ‘standard’ versions of the Model 3 and Model Y",
+            "link": "https://techcrunch.com/2025/10/07/tesla-reveals-slightly-cheaper-standard-versions-of-the-model-3-and-model-y/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c860896eee0e2bd1472bce8d5375a4f34ff8c64d"
+          },
+          "review": {
+            "headline_rewrite": "Tesla reveals slightly cheaper ‘standard’ versions of the Model 3 and Model Y",
+            "bullets": [
+              "The release of the cheaper models is aimed to help boost Tesla back into growth after it saw sales decline in 2024.",
+              "In fact, the new Model 3 does not even dip below the $35,000 price threshold that Tesla promoted in run-up to the car’s launch in 2016."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’",
+            "link": "https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7af9e131eb73845f90419daec7fd456a5166e7c5"
+          },
+          "review": {
+            "headline_rewrite": "X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’",
+            "bullets": [
+              "Additionally, X says Premium Business will soon also get access to priority handles and explore a marketplace to acquire “high-value handles.” The company told TechCrunch in an email that priority handles are a set of inactive handles that will be available to Premium Businesses for free, while rarer or more valuable inactive handles will be available for purchase.",
+              "“X is the best place to grow your organization’s influence and speak directly to the people who matter, said Seth Fuchs, X Engineering, in an announcement post."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
