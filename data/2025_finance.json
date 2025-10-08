@@ -61843,6 +61843,42 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:09": [
+        {
+          "item": {
+            "title": "Startup founders reclaim ‘promoter’ tag ahead of IPOs to signal long-term commitment, governance maturity",
+            "link": "https://www.thehindubusinessline.com/companies/startup-founders-reclaim-promoter-tag-ahead-of-ipos-to-signal-long-term-commitment-governance-maturity/article70140026.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Startup founders reclaim ‘promoter’ tag ahead of IPOs to signal long-term commitment, governance maturity",
+            "bullets": [
+              "The Securities and Exchange Board of India (SEBI) mandates transparency and disclosure for every action related to ownership, related-party transactions, and key decisions.",
+              "Industry observers believe this shift reflects India’s startup ecosystem coming of age.",
+              "As more new-age firms eye IPOs, founders are reimagining their roles — not just as innovators, but as custodians of long-term public trust."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI that can think: The rise of reasoning models that can mimic human logic",
+            "link": "https://www.thehindubusinessline.com/info-tech/ai-that-can-think-the-rise-of-reasoning-models-that-can-mimic-human-logic/article70140328.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "AI that can think: The rise of reasoning models that can mimic human logic",
+            "bullets": [
+              "Since they use techniques like chain-of-thought prompting or fine-tuning on reasoning benchmarks to simulate human-like thinking, reasoning models are generally more expensive to build",
+              "Standard LLMs are masters of instant recall and use rapid statistical pattern matching for tasks where speed and fluency are key, like generating marketing",
+              "Rise of GenAI “Say, in a business setting, your stakeholders want to understand how trends across different projects relate rather than just finding where"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
