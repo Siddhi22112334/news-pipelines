@@ -139946,6 +139946,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:11": [
+        {
+          "item": {
+            "title": "Now open for building: Introducing Gemini CLI extensions",
+            "link": "https://blog.google/technology/developers/gemini-cli-extensions/",
+            "site_name": "Google",
+            "novelty_hash": "ff489a66ba77fa19214f6c1bdea7e6afc241593b"
+          },
+          "review": {
+            "headline_rewrite": "Now open for building: Introducing Gemini CLI extensions",
+            "bullets": [
+              "In just three months since our launch, more than one million developers are building with Gemini CLI.",
+              "Personalize your command line with Gemini CLI extensions\nGemini CLI is an open-source, AI-powered agent for your terminal, and extensions are its power-ups — pre-packaged, easily installable integrations that connect it to external tools including everything from databases and design platforms to payment services.",
+              "Each extension contains a built-in “playbook” that instantly teaches the AI how to use the new tools effectively.",
+              "This means you get meaningful results from the very first command, no complex setup required, allowing you to tailor your experience with the tools most valuable to you.",
+              "That’s why in addition to our own set of Google-created extensions, we’re launching with a strong group of partners and open-source contributors.",
+              "To make extensions easy to find and use, we’re also launching a new Gemini CLI Extensions page."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The latest AI news we announced in September",
+            "link": "https://blog.google/technology/ai/google-ai-updates-september-2025/",
+            "site_name": "Google",
+            "novelty_hash": "8782822c89e840bbd85b4c737ee779960320921b"
+          },
+          "review": {
+            "headline_rewrite": "The latest AI news we announced in September",
+            "bullets": [
+              "The latest AI news we announced in September\nFor more than 20 years, we’ve invested in machine learning and AI research, tools and infrastructure to build products that make everyday life better for more people.",
+              "Teams across Google are working on ways to unlock AI’s benefits in fields as wide-ranging as healthcare, crisis response and education.",
+              "To keep you posted on our progress, we're doing a regular roundup of Google's most recent AI news.",
+              "Here’s a look back at some of our AI announcements from September.",
+              "Forget pumpkin spice; the real news from September was the massive stack of AI updates.",
+              "AI delivered major updates across our most popular core services like Chrome, Search and Android, making them significantly smarter."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 207 best October Prime Day deals",
+            "link": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
+            "site_name": "The Verge",
+            "novelty_hash": "fd085ab0463f725c27ec107180d49ef00d223412"
+          },
+          "review": {
+            "headline_rewrite": "The 207 best October Prime Day deals",
+            "bullets": [
+              "The 207 best October Prime Day deals\nHere are the best of the best tech deals, most of which should be available for the rest of the day.",
+              "Featured deals\nThe latest noise-canceling AirPods offer the perfect blend of audio quality, comfort, and battery life, making them the right choice for iPhone users.",
+              "Iniu’s Pocket Rocket P50 Power Bank is a three-port USB charger not much bigger than the AirPods Pro case.",
+              "It looks spiffy and has a wide array of health tracking features, plus built-in GPS and AI chatbots to provide extra context to your data.",
+              "They are super reliable when paired with a Hue Bridge and also work over Bluetooth.",
+              "You sacrifice bass in the process, but the design is particularly good for runners who want to remain aware of their surroundings."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s virtual try-on shopping tool expands to more countries, now lets you try on shoes",
+            "link": "https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e0144109d2280b977e2eef85ebea618771e7ae10"
+          },
+          "review": {
+            "headline_rewrite": "Google’s virtual try-on shopping tool expands to more countries, now lets you try on shoes",
+            "bullets": [
+              "Google announced on Wednesday that its AI feature that lets users virtually try on clothes is expanding to Australia, Canada, and Japan.",
+              "Now, users can visualize how different pairs of shoes would look on them.",
+              "To virtually try on a pair of shoes, users need to tap on any product listing on Google, select the “Try It On” button, then add a full-length photo of themselves.",
+              "The launch comes two months after Google introduced the ability for users to virtually try on clothes using AI.",
+              "With the new AI feature, the company started allowing users to try clothes on a virtual version of their own body.",
+              "In June, the tech giant launched an experimental app called Doppl that uses AI to visualize how different outfits might look on you."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google launches extensions system for its command-line coding tool",
+            "link": "https://techcrunch.com/2025/10/08/google-launches-extensions-system-for-its-command-line-coding-tool/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a4dcc61ae7b6cd2200822125d2bad3e827e81c9a"
+          },
+          "review": {
+            "headline_rewrite": "Google launches extensions system for its command-line coding tool",
+            "bullets": [
+              "On Wednesday, Google officially launched a new feature for its command-line AI system, Gemini CLI, allowing outside companies to integrate directly into the AI product.",
+              "Called Gemini CLI Extensions, the feature is launching with extensions from Figma, Stripe, and other companies.",
+              "The announcement comes just two days after OpenAI’s launch of apps in ChatGPT, which also integrated third-party systems into an AI environment.",
+              "Available extensions will be hosted in public repositories on Github and installed manually by developers.",
+              "“Everything we’re doing is grounded in a fair ecosystem that anyone can participate in.”\nThe first available extension was to Google’s own Nanobanana image generator, which was posted to GitHub last week.",
+              "Launched in June, Gemini CLI has grown to over one million users, Google says, with usage heavily skewed towards software developers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "We Found the 276 Best Prime Day Deals of 2025: Up To 55% Off",
+            "link": "https://www.wired.com/story/prime-day-deals-october-2025-1/",
+            "site_name": "WIRED",
+            "novelty_hash": "57098513d93444441f93e32435091697158d8d62"
+          },
+          "review": {
+            "headline_rewrite": "We Found the 276 Best Prime Day Deals of 2025: Up To 55% Off",
+            "bullets": [
+              "Again.",
+              "The mega-retailer’s two-day sales event for Prime members is in full swing, and there are plenty of deals on some of our favorite gear and gadgets, from Alexa-enabled speakers to robot vacs to laptops and tablets.",
+              "The WIRED Reviews team tests products year-round, and at sales events like this, we only recommend deals on stuff we have actually used and approved.",
+              "- An iPad for everyone: Apple iPad 11-inch: A16 chip for $279 ($80 off)\n- The best MacBook at an incredible price: Apple MacBook Air M4 for $800 ($200 off)\n- An action camera that does more: GoPro Hero 13 Black Ultra Wide Edition for $330 ($140 off)\n- Our favorite home office chair: Branch Ergonomic Chair Pro for $400 ($100 off)\n- A fantastic MacBook alternative: Surface Laptop with Snapdragon X Elite for $839 ($360 off)\n- The best Apple trackers: Apple AirTags (4-Pack) for $65 ($35 off)\n- Our favorite smart bird feeder: Birdfy Smart Bird Feeder for $120 ($80 off)\n- The best unlocked phone you can buy: Google Pixel 9a for $349 ($150 off)\nThe Best Fire Tablet Deals\n- Amazon Fire Max 11 64 GB for $140 ($90 off): Amazon's most powerful tablet is worth it at this price if you're all in on Prime content.",
+              "Best Amazon Kindle Deals\nWe love the Kindle Colorsoft for its gorgeous screen, but the retail price makes it tough to justify.",
+              "- Kindle Colorsoft Kids for $210 ($60 off): Kindle launched a Kids version of the Colorsoft earlier this year, and it's a great choice for kids who love illustrated stories and graphic novels."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
