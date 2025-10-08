@@ -140898,6 +140898,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "New general-purpose Amazon EC2 M8a instances are now available",
+            "link": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "0cfe5a1b62251b9073b6f9d6b6eee917bf00ccbf"
+          },
+          "review": {
+            "headline_rewrite": "New general-purpose Amazon EC2 M8a instances are now available",
+            "bullets": [
+              "New general-purpose Amazon EC2 M8a instances are now available\nToday, we’re announcing the availability of Amazon Elastic Compute Cloud (Amazon EC2) M8a instances, the latest addition to the general-purpose M instance family.",
+              "These enhancements support modern applications that rely on rapid data transfer and low-latency network communication.",
+              "M8a is available in ten virtualized sizes and two bare metal options (metal-24xl and metal-48xl), providing deployment choices that scale from small applications to large enterprise workloads.",
+              "All of these improvements are built on the AWS Nitro System, which delivers low virtualization overhead, consistent performance, and advanced security across all instance sizes.",
+              "Here are the detailed specs:\nFor a complete list of instance sizes and specifications, refer to the Amazon EC2 M8a instances page.",
+              "Now available\nAmazon EC2 M8a instances are available today in US East (Ohio) US West (Oregon) and Europe (Spain) AWS Regions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+            "link": "https://blogs.nvidia.com/blog/ai-6g-telecommunications/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2cb7d0989b0749133cad92c4ec32528764a2627e"
+          },
+          "review": {
+            "headline_rewrite": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+            "bullets": [
+              "The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up.",
+              "The nations and companies leading this shift, known as AI-native 6G, are poised to lead the global AI economy and lead in the AI era.",
+              "For the first time, AI will enable these networks to sense and infer at the edge, serving hundreds of billions of AI-powered endpoints and supporting AI-driven applications such as autonomous vehicles, precision agriculture and advanced manufacturing.",
+              "How these next-generation networks are designed, deployed and managed has important implications for the economy as well as for national security.",
+              "companies committed to developing a high-performance, secure and reliable AI-native 6G solution under the AI-Native Wireless Networks project, aka AI-WIN.",
+              "has an opportunity to regain global leadership by accelerating the path to AI-native 6G across the nation and worldwide."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sora’s first week on iOS in the US was nearly as big as ChatGPT’s",
+            "link": "https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "85259b26a4201f0bf64bb18a31e3a46010879950"
+          },
+          "review": {
+            "headline_rewrite": "Sora’s first week on iOS in the US was nearly as big as ChatGPT’s",
+            "bullets": [
+              "After OpenAI’s video-generating app Sora surged to the No.",
+              "Its estimates show that Sora saw 627,000 iOS downloads in its first seven days of availability, compared with ChatGPT’s 606,000 iOS downloads during its first week.",
+              "This isn’t the fairest comparison, however, because ChatGPT was available only in the U.S.",
+              "and Canada at launch.",
+              "Still, Appfigures says that Canada contributed about 45K installs, so the Sora launch was about 96% of ChatGPT’s launch, if the data had been based on the U.S.",
+              "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "One of our favorite hybrid mopping vacs just hit its lowest price yet",
+            "link": "https://www.theverge.com/tech/795522/amazon-october-prime-day-robot-mop-eufy-x10-pro-omni-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "a899a992ed9b62eec59e441f0ec6041f148c60fc"
+          },
+          "review": {
+            "headline_rewrite": "One of our favorite hybrid mopping vacs just hit its lowest price yet",
+            "bullets": [
+              "The X10 is a great robovac with excellent AI-powered obstacle detection, powerful oscillating mops, a user-friendly app, and good mapping capabilities.",
+              "The X10 Pro Omni features dual oscillating brushes that do an excellent job mopping floors, even scrubbing away dried stains during our tests.",
+              "It also offers good AI-powered obstacle detection, along with an intuitive app that supports lidar-powered room mapping as well as room- and zone-specific cleaning.",
+              "Most Popular\n- Microsoft delays Xbox Game Pass Ultimate price hikes for some subscribers\n- Memo to Bari Weiss Re: CBS News: You’re doomed\n- We dug through thousands of Prime Day deals to find 60 standouts for $50 or less\n- OpenAI wasn’t expecting Sora’s copyright drama\n- Xbox Series X / S storage expansion cards haven’t been this cheap since July"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now",
+            "link": "https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "2d3a78518adc037650229b934af589bb8286644c"
+          },
+          "review": {
+            "headline_rewrite": "You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now",
+            "bullets": [
+              "Featured Products\n- The Eufy X10 Pro Omni, our favorite midrange robovac / mop, is down to $499.99 ($400 off), its best price to date, at Amazon (with Prime).",
+              "It also features reliable AI-powered obstacle detection, dual oscillating brushes for mopping up floors, and a dock that handles auto-emptying, washing, and refilling.",
+              "- Roborock’s Saros Z70 is available for $1,399.99 ($600 off), a new all-time low price, from Amazon (with Prime), Roborock, and Best Buy.",
+              "It even works with Roborock’s Multifunctional Dock 4.0, which allows it to automatically empty, charge, refill, and drain its own water tanks with minimal effort on your part.",
+              "- The SwitchBot S10 is available at Amazon for $319.99, down from $1,199.99 and a new all-time low price.",
+              "The Matter-compatible vac can also run for as long as 90 days and offers decent AI-powered obstacle avoidance; however, in our experience, it can still get tripped up by laundry and other objects on the floor."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk will settle $128M lawsuit with former Twitter execs",
+            "link": "https://techcrunch.com/2025/10/08/elon-musk-will-settle-128m-lawsuit-with-former-twitter-execs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "acd93bafdd979fdfdf17fbdf6129d0ff4e006eb0"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk will settle $128M lawsuit with former Twitter execs",
+            "bullets": [
+              "The four executives never received severance payments, which they claim is because they tried to hold Musk to his $44 billion commitment when he tried to back out of buying the company.",
+              "Musk recently settled a class action lawsuit concerning 6,000 laid-off Twitter employees.",
+              "Many of these former Twitter staff complained that they received incomplete severance payments or did not receive severance payments at all."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
