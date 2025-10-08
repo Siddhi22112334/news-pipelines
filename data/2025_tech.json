@@ -140303,6 +140303,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:44": [
+        {
+          "item": {
+            "title": "New funding and training to support U.S. small business growth and innovation with AI",
+            "link": "https://blog.google/outreach-initiatives/grow-with-google/small-businesses-grow-with-google-ai/",
+            "site_name": "Google",
+            "novelty_hash": "b4684b76cae50826281e3f55b4880325909fd7ea"
+          },
+          "review": {
+            "headline_rewrite": "New funding and training to support U.S. small business growth and innovation with AI",
+            "bullets": [
+              "New funding and training to support U.S.",
+              "small business growth and innovation with AI\nSmall businesses are the lifeblood of communities everywhere.",
+              "More than half of small business leaders already say that AI tools are critical to the success of their businesses.",
+              "This includes Chicago-based Heritage Bikes & Coffee, which is using AI tools like Gemini and NotebookLM to help with everything from costing out kitchen supplies to onboarding new employees.",
+              "At Google, we’re empowering small businesses with the tools to succeed in the age of AI.",
+              "Chamber of Commerce CO-100 conference, we announced new funding and training as a part of our AI Works initiative which helps Americans and American businesses put AI to work."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Making the Google Developer Program more accessible",
+            "link": "https://blog.google/technology/developers/google-developer-program-expands-globally/",
+            "site_name": "Google",
+            "novelty_hash": "063a2f1e50a756af40ba33c3b6681b7a0a5aea75"
+          },
+          "review": {
+            "headline_rewrite": "Making the Google Developer Program more accessible",
+            "bullets": [
+              "The premium plan includes access to increased rate quotas for the Gemini CLI through Gemini Code Assist Standard, Google Cloud credits to experiment with our latest Gemini models, an expanded limit of 30 Firebase Studio workspaces and more.",
+              "It’s where technology meets community, sparking innovation and real-world adoption of new tech in AI/ML, Cloud, Android, and Web.",
+              "Providing a localized experience for developers in China\nGoogle Developer Program is now available to developers in China.",
+              "This initial launch focuses on foundational community and learning features."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon Pharmacy is launching vending machines for prescription drugs",
+            "link": "https://techcrunch.com/2025/10/08/amazon-pharmacy-is-launching-vending-machines-for-prescription-drugs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0e53c041fc2c1604b106e5b32056a1de67e3302a"
+          },
+          "review": {
+            "headline_rewrite": "Amazon Pharmacy is launching vending machines for prescription drugs",
+            "bullets": [
+              "Amazon Pharmacy Kiosks will be available at One Medical locations in Los Angeles starting in December, and Amazon plans to expand to more locations soon after.",
+              "Amazon notes that each kiosk’s inventory is customized based on the prescribing patterns of its specific office location, and that controlled substances and medications requiring refrigeration are not available through the kiosks.",
+              "Patients will be able to use the Amazon app to see upfront costs, including available discounts and estimated insurance copays, and connect to a licensed pharmacist via video or phone consultation if needed.",
+              "“We know that when patients have to make an extra trip to the pharmacy after seeing their doctor, many prescriptions never get filled,” said Hannah McClellan, vice president of operations at Amazon Pharmacy, in a press release.",
+              "pharmacy chains are struggling; Rite Aid last week closed all of its remaining stores; CVS has closed more than 1,000 stores since 2021; and Walgreens closed 500 stores over the past year.",
+              "The launch of the kiosks marks Amazon’s latest move to expand its presence in the healthcare sector."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Zendesk says its new AI agent can solve 80% of support issues",
+            "link": "https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "662f7da71089169bd3c7c39aa05795c4905e1704"
+          },
+          "review": {
+            "headline_rewrite": "Zendesk says its new AI agent can solve 80% of support issues",
+            "bullets": [
+              "Zendesk announced Wednesday at its AI summit a string of LLM-driven products meant to reshape the company’s reliance on human technicians.",
+              "That system will be supplemented by a co-pilot agent, which will assist human technicians with the remaining 20% of issues, as well as an admin-layer agent, a voice-based agent, and an analytics agent.",
+              "According to Shashi Upadhyay, Zendesk’s President of Product, Engineering and AI, the new agents are part of a broader change in the support industry, as AI replaces much of the work that was previously done by humans.",
+              "“The world’s going to shift from software that’s built for human users, to a system where AI actually does most of the work,” Upadhyay told TechCrunch.",
+              "Independent benchmarks suggest that contemporary AI models are capable of taking on the work.",
+              "TAU-bench, which was designed to measure a model’s tool-calling ability, includes a scenario in which models have to process a returned product — a close analogue to many support tasks."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The problems with AI in the smart home and how Amazon and Google plan to fix them",
+            "link": "https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-solutions-smart-home",
+            "site_name": "The Verge",
+            "novelty_hash": "d065ebb7fbf0b940d2d046b644d94aece34b4886"
+          },
+          "review": {
+            "headline_rewrite": "The problems with AI in the smart home and how Amazon and Google plan to fix them",
+            "bullets": [
+              "Their new voice assistants, Alexa Plus and Gemini for Home, have been rebuilt from the ground up on generative AI and large language models to be more conversational, understand context, and take actions.",
+              "This marks the biggest shift in home control since the companies launched their original smart speakers over a decade ago.",
+              "The problems with AI in the smart home and how Amazon and Google plan to fix them\nAfter years of false starts, the promise of ambient intelligence has arrived, but will it be worth the price?",
+              "Google and Amazon are betting on this new wave of AI-powered intelligence to deliver a smarter, simpler, more capable smart home.",
+              "How generative AI could finally make the smart home smart\nWhile you might think of generative AI as creating text and images, it can also be used to analyze data collected from a home to identify patterns and interpret context.",
+              "“As an industry, we solved that with a lot of hard-coding, a lot of if-this, then-that statements.” But with generative AI and LLMs, the assistants can become that intelligence layer that we can more easily interact with, he says."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "You can still save up to 70 percent on headphones from Bose and Sony today",
+            "link": "https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "35fd06226472899c91cdcc7afbdc496becd73d50"
+          },
+          "review": {
+            "headline_rewrite": "You can still save up to 70 percent on headphones from Bose and Sony today",
+            "bullets": [
+              "If you’re shopping for a new pair of noise-canceling headphones or a cheap set of earbuds — or looking to upgrade — you’re in the right place.",
+              "While this is technically an Amazon-focused roundup, we’ve also included retailers that are currently matching Amazon’s pricing, so you don’t have to sign up for a Prime membership just to save.",
+              "The best earbuds deals\n- If you don’t like the sealed feeling of silicone ear tips, the AirPods 4 with Active Noise Cancellation are a great alternative that are currently matching their all-time low of around $118.99 ($61 off) at Amazon, and Walmart.",
+              "The wireless earbuds feature an open-ear design and some of the AirPods Pro’s best features, including adaptive audio, conversation awareness, and spatial audio with dynamic head tracking.",
+              "Their ANC performs surprisingly well despite their open-style build, too, helping block low-frequency noise from airplane cabins and city traffic.",
+              "The second-gen AirPods Pro improve upon Apple’s original pair with better noise cancellation, improved sound quality, and onboard volume controls."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
