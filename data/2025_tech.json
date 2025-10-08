@@ -140663,5 +140663,125 @@
         }
       ]
     }
+  },
+  "2025-10-09": {
+    "runs": {
+      "00:19": [
+        {
+          "item": {
+            "title": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+            "link": "https://blogs.nvidia.com/blog/ai-6g-telecommunications/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2cb7d0989b0749133cad92c4ec32528764a2627e"
+          },
+          "review": {
+            "headline_rewrite": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+            "bullets": [
+              "The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up.",
+              "The nations and companies leading this shift, known as AI-native 6G, are poised to lead the global AI economy and lead in the AI era.",
+              "For the first time, AI will enable these networks to sense and infer at the edge, serving hundreds of billions of AI-powered endpoints and supporting AI-driven applications such as autonomous vehicles, precision agriculture and advanced manufacturing.",
+              "How these next-generation networks are designed, deployed and managed has important implications for the economy as well as for national security.",
+              "companies committed to developing a high-performance, secure and reliable AI-native 6G solution under the AI-Native Wireless Networks project, aka AI-WIN.",
+              "has an opportunity to regain global leadership by accelerating the path to AI-native 6G across the nation and worldwide."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New funding and training to support U.S. small business growth and innovation with AI",
+            "link": "https://blog.google/outreach-initiatives/grow-with-google/small-businesses-grow-with-google-ai/",
+            "site_name": "Google",
+            "novelty_hash": "b4684b76cae50826281e3f55b4880325909fd7ea"
+          },
+          "review": {
+            "headline_rewrite": "New funding and training to support U.S. small business growth and innovation with AI",
+            "bullets": [
+              "New funding and training to support U.S.",
+              "small business growth and innovation with AI\nSmall businesses are the lifeblood of communities everywhere.",
+              "More than half of small business leaders already say that AI tools are critical to the success of their businesses.",
+              "This includes Chicago-based Heritage Bikes & Coffee, which is using AI tools like Gemini and NotebookLM to help with everything from costing out kitchen supplies to onboarding new employees.",
+              "At Google, we’re empowering small businesses with the tools to succeed in the age of AI.",
+              "Chamber of Commerce CO-100 conference, we announced new funding and training as a part of our AI Works initiative which helps Americans and American businesses put AI to work."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+            "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
+            "site_name": "Google",
+            "novelty_hash": "2748e496603499a15ddc475f2e36f3750c4569ed"
+          },
+          "review": {
+            "headline_rewrite": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+            "bullets": [
+              "Google is investing an additional €5 billion in Belgium over the next two years to expand its cloud and AI infrastructure.",
+              "This includes expansions of our data center campuses in Saint-Ghislain and will add another 300 full time jobs.",
+              "We're also equipping Belgians with the skills needed to thrive in an AI-driven economy, at no cost and will fund non-profits to provide free, practical AI training for low-skilled workers.",
+              "Google is deepening its roots in Belgium and investing in its residents to unlock significant economic opportunities for the country, helping to ensure it remains a leader in technology and AI."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon Pharmacy is launching vending machines for prescription drugs",
+            "link": "https://techcrunch.com/2025/10/08/amazon-pharmacy-is-launching-vending-machines-for-prescription-drugs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0e53c041fc2c1604b106e5b32056a1de67e3302a"
+          },
+          "review": {
+            "headline_rewrite": "Amazon Pharmacy is launching vending machines for prescription drugs",
+            "bullets": [
+              "Amazon Pharmacy Kiosks will be available at One Medical locations in Los Angeles starting in December, and Amazon plans to expand to more locations soon after.",
+              "Amazon notes that each kiosk’s inventory is customized based on the prescribing patterns of its specific office location, and that controlled substances and medications requiring refrigeration are not available through the kiosks.",
+              "Patients will be able to use the Amazon app to see upfront costs, including available discounts and estimated insurance copays, and connect to a licensed pharmacist via video or phone consultation if needed.",
+              "“We know that when patients have to make an extra trip to the pharmacy after seeing their doctor, many prescriptions never get filled,” said Hannah McClellan, vice president of operations at Amazon Pharmacy, in a press release.",
+              "pharmacy chains are struggling; Rite Aid last week closed all of its remaining stores; CVS has closed more than 1,000 stores since 2021; and Walgreens closed 500 stores over the past year.",
+              "The launch of the kiosks marks Amazon’s latest move to expand its presence in the healthcare sector."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Zendesk says its new AI agent can solve 80% of support issues",
+            "link": "https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cfaf0fc44d7db9dec304457368aac9684cf4394d"
+          },
+          "review": {
+            "headline_rewrite": "Zendesk says its new AI agent can solve 80% of support issues",
+            "bullets": [
+              "Zendesk announced Wednesday at its AI summit a string of LLM-driven products meant to reshape the company’s reliance on human technicians.",
+              "That system will be supplemented by a co-pilot agent, which will assist human technicians with the remaining 20% of issues, as well as an admin-layer agent, a voice-based agent, and an analytics agent.",
+              "According to Shashi Upadhyay, Zendesk’s president of Product, Engineering and AI, the new agents are part of a broader change in the support industry, as AI replaces much of the work that was previously done by humans.",
+              "“The world’s going to shift from software that’s built for human users, to a system where AI actually does most of the work,” Upadhyay told TechCrunch.",
+              "Independent benchmarks suggest that contemporary AI models are capable of taking on the work.",
+              "TAU-bench, which was designed to measure a model’s tool-calling ability, includes a scenario in which models have to process a returned product — a close analogue to many support tasks."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Here&#8217;s how Apple is locking down iPhones to comply with Texas&#8217; age verification law",
+            "link": "https://www.theverge.com/news/796760/apple-iphones-ios-app-store-age-verification-law-texas-utah-louisiana",
+            "site_name": "The Verge",
+            "novelty_hash": "fade8d3e31fc94199f9dda32e54a67d3ebdceef6"
+          },
+          "review": {
+            "headline_rewrite": "Here&#8217;s how Apple is locking down iPhones to comply with Texas&#8217; age verification law",
+            "bullets": [
+              "Apple already offers a Declared Age Range API that developers can implement to ask users their general age, and the API “will be updated in the coming months to provide the required age categories for new account users in Texas,” Apple says.",
+              "Apple is also launching new APIs “later this year” that “will enable developers, when they determine a significant change is made to their app, to invoke a system experience to allow the user to request that parental consent be re-obtained.”\nUtah and Louisiana have passed similar laws, and Apple says that “similar requirements will come into effect later next year” in those states."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
