@@ -141132,6 +141132,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:09": [
+        {
+          "item": {
+            "title": "New general-purpose Amazon EC2 M8a instances are now available",
+            "link": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "0cfe5a1b62251b9073b6f9d6b6eee917bf00ccbf"
+          },
+          "review": {
+            "headline_rewrite": "New general-purpose Amazon EC2 M8a instances are now available",
+            "bullets": [
+              "New general-purpose Amazon EC2 M8a instances are now available\nToday, we’re announcing the availability of Amazon Elastic Compute Cloud (Amazon EC2) M8a instances, the latest addition to the general-purpose M instance family.",
+              "These enhancements support modern applications that rely on rapid data transfer and low-latency network communication.",
+              "M8a is available in ten virtualized sizes and two bare metal options (metal-24xl and metal-48xl), providing deployment choices that scale from small applications to large enterprise workloads.",
+              "All of these improvements are built on the AWS Nitro System, which delivers low virtualization overhead, consistent performance, and advanced security across all instance sizes.",
+              "Here are the detailed specs:\nFor a complete list of instance sizes and specifications, refer to the Amazon EC2 M8a instances page.",
+              "Now available\nAmazon EC2 M8a instances are available today in US East (Ohio) US West (Oregon) and Europe (Spain) AWS Regions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 218 best October Prime Day deals",
+            "link": "https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2",
+            "site_name": "The Verge",
+            "novelty_hash": "364598bd61f805c148e8797d3ccfee50fa3c5017"
+          },
+          "review": {
+            "headline_rewrite": "The 218 best October Prime Day deals",
+            "bullets": [
+              "The 218 best October Prime Day deals\nHere are the best of the best tech deals, most of which should be available for the rest of the day.",
+              "Featured deals\nThe latest noise-canceling AirPods offer the perfect blend of audio quality, comfort, and battery life, making them the right choice for iPhone users.",
+              "Iniu’s Pocket Rocket P50 Power Bank is a three-port USB charger not much bigger than the AirPods Pro case.",
+              "It looks spiffy and has a wide array of health tracking features, plus built-in GPS and AI chatbots to provide extra context to your data.",
+              "They are super reliable when paired with a Hue Bridge and also work over Bluetooth.",
+              "You sacrifice bass in the process, but the design is particularly good for runners who want to remain aware of their surroundings."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sonos soundbars, Sony TVs, and more Prime Day home theater deals",
+            "link": "https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "6ffe10ad06003a9ecfb0a590ed44c6fcdff1bf33"
+          },
+          "review": {
+            "headline_rewrite": "Sonos soundbars, Sony TVs, and more Prime Day home theater deals",
+            "bullets": [
+              "Sonos soundbars, Sony TVs, and more Prime Day home theater deals\nIf your home entertainment setup is need of an upgrade, you’ve picked the right time to shop.",
+              "Featured Products\nThe best 4K TV deals\nSamsung’s latest Frame TV features a matte QLED panel, a Wireless One Connect box to minimize cable clutter, and Alexa support.",
+              "The 4K TV features a subscription-free “Art Mode” for displaying famous paintings when you’re not watching movies or playing games, as well as a swappable magnetic bezel that you can change to suit your style.",
+              "Its matte display won’t be as susceptible to glare as an LCD would, and it comes with a wall mount to make it look even more like a painting attached to your wall.",
+              "- I’ve tested Hisense’s 65-inch U8QG and came away impressed with its high contrast, evenly distributed brightness, and stellar color reproduction when streaming movies or playing games.",
+              "It also supports AirPlay 2, so you can wirelessly stream music or videos from an iPhone, iPad, or Mac."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s Nick Turley on transforming ChatGPT into an operating system",
+            "link": "https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "164cb44ee9e99145a2c40c3394d991fc878f3bab"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s Nick Turley on transforming ChatGPT into an operating system",
+            "bullets": [
+              "When Nick Turley joined OpenAI in 2022 as the head of ChatGPT, he was tasked with commercializing the company’s research.",
+              "He has made great strides toward that goal, growing the product to 800 million weekly active users.",
+              "military post where OpenAI held its third annual developer conference, to discuss how he’s thinking about ChatGPT’s future.",
+              "Over the last decade, browsers have emerged as a new kind of operating system — not in the literal sense like macOS or Windows, but because they’ve become the main place people work on computers thanks to a variety of web applications.",
+              "OpenAI is reportedly developing a browser too.",
+              "Given these efforts, it’s easy to see how a ChatGPT operating system full of apps could become a central component of OpenAI’s consumer ecosystem."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Salesforce says it won’t pay extortion demand in 1 billion records breach",
+            "link": "https://arstechnica.com/security/2025/10/salesforce-says-it-wont-pay-extortion-demand-in-1-billion-records-breach/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "dd307b05c5b67ec5a5dae3584e229f521c148e0f"
+          },
+          "review": {
+            "headline_rewrite": "Salesforce says it won’t pay extortion demand in 1 billion records breach",
+            "bullets": [
+              "Salesforce says it’s refusing to pay an extortion demand made by a crime syndicate that claims to have stolen roughly 1 billion records from dozens of Salesforce customers.",
+              "The threat group making the demands began their campaign in May, when they made voice calls to organizations storing data on the Salesforce platform, Google-owned Mandiant said in June.",
+              "It’s becoming a real mess\nThe threat group behind the campaign is calling itself Scattered LAPSUS$ Hunters, a mashup of three prolific data-extortion actors: Scattered Spider, LAPSuS$, and ShinyHunters.",
+              "Earlier this month, the group created a website that named Toyota, FedEx, and 37 other Salesforce customers whose data was stolen in the campaign.",
+              "In all, the number of records recovered, Scattered LAPSUS$ Hunters claimed, was “989.45m/~1B+.” The site called on Salesforce to begin negotiations for a ransom amount “or all your customers [sic] data will be leaked.” The site went on to say: “Nobody else will have to pay us, if you pay, Salesforce, Inc.” The site said the deadline for payment was Friday.",
+              "In an email Wednesday, a Salesforce representative said the company is spurning the demand."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "This Is the Best Smart Hummingbird Feeder I've Tested, and It's $50 off Right Now",
+            "link": "https://www.wired.com/story/bird-buddy-pro-hummingbird-prime-day-sale-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "65bbc4dc15e2f7a72886fdaca63eb54a0d4f547e"
+          },
+          "review": {
+            "headline_rewrite": "This Is the Best Smart Hummingbird Feeder I've Tested, and It's $50 off Right Now",
+            "bullets": [
+              "While I love the variety of birds attracted by seed feeders, there’s something to be said for the simplicity of a hummingbird feeder.",
+              "For bargains on all manner of gear, check out our Absolute Best Deals, and be sure to stay up-to-date on last-minute finds on our liveblog, which we'll be manning right up until the sale ends tonight.)\nSpeaking of the app, Bird Buddy's is the best in the game, with plenty of user-friendly features that are accessible without a subscription, including 5 MB photos and 2K video.",
+              "(Though a subscription, priced at $7.50 a month or $90 a year, will unlock higher 2K Ultra resolution, AI identification, the ability to share live streams, and more.) The app isn't perfect, as I did find times that hummingbirds visited and did not register in my “postcards,” but it's otherwise exceedingly well-designed and easy to find the features you're looking for."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
