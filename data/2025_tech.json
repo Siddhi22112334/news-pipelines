@@ -140781,6 +140781,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "New general-purpose Amazon EC2 M8a instances are now available",
+            "link": "https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8a-instances-are-now-available/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "0cfe5a1b62251b9073b6f9d6b6eee917bf00ccbf"
+          },
+          "review": {
+            "headline_rewrite": "New general-purpose Amazon EC2 M8a instances are now available",
+            "bullets": [
+              "New general-purpose Amazon EC2 M8a instances are now available\nToday, we’re announcing the availability of Amazon Elastic Compute Cloud (Amazon EC2) M8a instances, the latest addition to the general-purpose M instance family.",
+              "These enhancements support modern applications that rely on rapid data transfer and low-latency network communication.",
+              "M8a is available in ten virtualized sizes and two bare metal options (metal-24xl and metal-48xl), providing deployment choices that scale from small applications to large enterprise workloads.",
+              "All of these improvements are built on the AWS Nitro System, which delivers low virtualization overhead, consistent performance, and advanced security across all instance sizes.",
+              "Here are the detailed specs:\nFor a complete list of instance sizes and specifications, refer to the Amazon EC2 M8a instances page.",
+              "Now available\nAmazon EC2 M8a instances are available today in US East (Ohio) US West (Oregon) and Europe (Spain) AWS Regions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+            "link": "https://blogs.nvidia.com/blog/ai-6g-telecommunications/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2cb7d0989b0749133cad92c4ec32528764a2627e"
+          },
+          "review": {
+            "headline_rewrite": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+            "bullets": [
+              "The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up.",
+              "The nations and companies leading this shift, known as AI-native 6G, are poised to lead the global AI economy and lead in the AI era.",
+              "For the first time, AI will enable these networks to sense and infer at the edge, serving hundreds of billions of AI-powered endpoints and supporting AI-driven applications such as autonomous vehicles, precision agriculture and advanced manufacturing.",
+              "How these next-generation networks are designed, deployed and managed has important implications for the economy as well as for national security.",
+              "companies committed to developing a high-performance, secure and reliable AI-native 6G solution under the AI-Native Wireless Networks project, aka AI-WIN.",
+              "has an opportunity to regain global leadership by accelerating the path to AI-native 6G across the nation and worldwide."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+            "link": "https://blog.google/inside-google/infrastructure/google-ai-infrastructure-investment-belgium/",
+            "site_name": "Google",
+            "novelty_hash": "2748e496603499a15ddc475f2e36f3750c4569ed"
+          },
+          "review": {
+            "headline_rewrite": "Google is powering Belgium's digital future with a two-year €5 billion investment in AI infrastructure.",
+            "bullets": [
+              "Google is investing an additional €5 billion in Belgium over the next two years to expand its cloud and AI infrastructure.",
+              "This includes expansions of our data center campuses in Saint-Ghislain and will add another 300 full time jobs.",
+              "We're also equipping Belgians with the skills needed to thrive in an AI-driven economy, at no cost and will fund non-profits to provide free, practical AI training for low-skilled workers.",
+              "Google is deepening its roots in Belgium and investing in its residents to unlock significant economic opportunities for the country, helping to ensure it remains a leader in technology and AI."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Sora’s first week on iOS in the US was nearly as big as ChatGPT’s",
+            "link": "https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "85259b26a4201f0bf64bb18a31e3a46010879950"
+          },
+          "review": {
+            "headline_rewrite": "Sora’s first week on iOS in the US was nearly as big as ChatGPT’s",
+            "bullets": [
+              "After OpenAI’s video-generating app Sora surged to the No.",
+              "Its estimates show that Sora saw 627,000 iOS downloads in its first seven days of availability, compared with ChatGPT’s 606,000 iOS downloads during its first week.",
+              "This isn’t the fairest comparison, however, because ChatGPT was available only in the U.S.",
+              "and Canada at launch.",
+              "Still, Appfigures says that Canada contributed about 45K installs, so the Sora launch was about 96% of ChatGPT’s launch, if the data had been based on the U.S.",
+              "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Here&#8217;s how Apple is locking down iPhones to comply with Texas&#8217; age verification law",
+            "link": "https://www.theverge.com/news/796760/apple-iphones-ios-app-store-age-verification-law-texas-utah-louisiana",
+            "site_name": "The Verge",
+            "novelty_hash": "1add7efb54a48b7efae49fce9ddf8ed893c6b550"
+          },
+          "review": {
+            "headline_rewrite": "Here&#8217;s how Apple is locking down iPhones to comply with Texas&#8217; age verification law",
+            "bullets": [
+              "Apple already offers a Declared Age Range API that developers can implement to ask users their general age, and the API “will be updated in the coming months to provide the required age categories for new account users in Texas,” Apple says.",
+              "Apple is also launching new APIs “later this year” that “will enable developers, when they determine a significant change is made to their app, to invoke a system experience to allow the user to request that parental consent be re-obtained.”\nUtah and Louisiana have passed similar laws, and Apple says that “similar requirements will come into effect later next year” in those states.",
+              "Most Popular\n- Microsoft delays Xbox Game Pass Ultimate price hikes for some subscribers\n- Memo to Bari Weiss Re: CBS News: You’re doomed\n- We dug through thousands of Prime Day deals to find 60 standouts for $50 or less\n- Xbox Series X / S storage expansion cards haven’t been this cheap since July\n- OpenAI wasn’t expecting Sora’s copyright drama"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now",
+            "link": "https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "d76b0d5940324edb63362912bbb23a853d83a3cf"
+          },
+          "review": {
+            "headline_rewrite": "You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now",
+            "bullets": [
+              "Featured Products\n- The Eufy X10 Pro Omni, our favorite midrange robovac / mop, is down to $499.99 ($400 off), its best price to date, at Amazon (with Prime).",
+              "It also features reliable AI-powered obstacle detection, dual oscillating brushes for mopping up floors, and a dock that handles auto-emptying, washing, and refilling.",
+              "- Roborock’s Saros Z70 is available for $1,399.99 ($600 off), a new all-time low price, from Amazon (with Prime), Roborock, and Best Buy.",
+              "It even works with Roborock’s Multifunctional Dock 4.0, which allows it to automatically empty, charge, refill, and drain its own water tanks with minimal effort on your part.",
+              "- The SwitchBot S10 is available at Amazon for $319.99, down from $1,199.99 and a new all-time low price.",
+              "The Matter-compatible vac can also run for as long as 90 days and offers decent AI-powered obstacle avoidance; however, in our experience, it can still get tripped up by laundry and other objects on the floor."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
