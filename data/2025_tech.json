@@ -146545,6 +146545,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:06": [
+        {
+          "item": {
+            "title": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency",
+            "link": "https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "238278a8fe6233910034ee8a6785847d87dbd60c"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency",
+            "bullets": [
+              "- Best return on investment: NVIDIA GB200 NVL72 delivers unmatched AI factory economics — a $5 million investment generates $75 million in DSR1 token revenue, a 15x return on investment.",
+              "- Best throughput and interactivity: NVIDIA B200 sets the pace with 60,000 tokens per second per GPU and 1,000 tokens per second per user on gpt-oss with the latest NVIDIA TensorRT-LLM stack.",
+              "As AI shifts from one-shot answers to complex reasoning, the demand for inference — and the economics behind it — is exploding.",
+              "The NVIDIA Blackwell platform swept the field — delivering unmatched performance and best overall efficiency for AI factories.",
+              "“Inference is where AI delivers value every day,” said Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA.",
+              "“These results show that NVIDIA’s full-stack approach gives customers the performance and efficiency they need to deploy AI at scale.”\nEnter InferenceMAX v1\nInferenceMAX v1, a new benchmark from SemiAnalysis released Monday, is the latest to highlight Blackwell’s inference leadership."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek",
+            "link": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f5aa59e7a5222d3c27118285c39b86998e94e3f3"
+          },
+          "review": {
+            "headline_rewrite": "Reflection AI raises $2B to be America’s open frontier AI lab, challenging DeepSeek",
+            "bullets": [
+              "Reflection AI, a startup founded just last year by two former Google DeepMind researchers, has raised $2 billion at an $8 billion valuation, a whopping 15x leap from its $545 million valuation just seven months ago.",
+              "The company, which originally focused on autonomous coding agents, is now positioning itself as both an open source alternative to closed frontier labs like OpenAI and Anthropic, and a Western equivalent to Chinese AI firms like DeepSeek.",
+              "The startup was launched in March 2024 by Misha Laskin, who led reward modeling for DeepMind’s Gemini project, and Ioannis Antonoglou, who co-created AlphaGo, the AI system that famously beat the world champion in the board game Go in 2016.",
+              "Their background developing these very advanced AI systems is central to their pitch, which is that the right AI talent can build frontier models outside established tech giants.",
+              "Along with its new round, Reflection AI announced that it has recruited a team of top talent from DeepMind and OpenAI, and built an advanced AI training stack that it promises will be open for all.",
+              "Perhaps most importantly, Reflection AI says it has “identified a scalable commercial model that aligns with our open intelligence strategy.”\nReflection AI’s team currently numbers about 60 people — mostly AI researchers and engineers across infrastructure, data training, and algorithm development, per Laskin, the company’s CEO."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Discord data breach affects at least 70,000 users",
+            "link": "https://techcrunch.com/2025/10/09/discord-suffers-data-breach-impacting-at-least-70000-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cf447599e7c60200d21fe86d100547c1c9743458"
+          },
+          "review": {
+            "headline_rewrite": "Discord data breach affects at least 70,000 users",
+            "bullets": [
+              "Discord disclosed on Wednesday that around 70,000 users may have had sensitive data — like their government ID photos — exposed after hackers breached a third-party vendor that the platform uses for age-related appeals.",
+              "Discord said it has contacted affected users, whose exposed data may also include their IP addresses, which can reveal the general area where a user lives.",
+              "According to the news site 404 Media, this data breach may be larger than Discord has reported so far.",
+              "The hackers claim that they stole 1.5 terabytes worth of data, which could encompass much more than 70,000 images.",
+              "A Discord spokesperson told The Verge that these claims are “incorrect and part of an attempt to extort a payment.”\nThe breach of Discord users’ data illustrates the concerns that digital rights activists have expressed over the use of age checks as a means of making the internet “safer.”\nAge verification laws, which require users to upload sensitive information like the government IDs exposed in this breach, have been enacted in about half of U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI models can acquire backdoors from surprisingly few malicious documents",
+            "link": "https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c14b5ca152a2a35ecbfe0b9d5c45ebf1a1c6890b"
+          },
+          "review": {
+            "headline_rewrite": "AI models can acquire backdoors from surprisingly few malicious documents",
+            "bullets": [
+              "Scraping the open web for AI training data can have its drawbacks.",
+              "On Thursday, researchers from Anthropic, the UK AI Security Institute, and the Alan Turing Institute released a preprint research paper suggesting that large language models like the ones that power ChatGPT, Gemini, and Claude can develop backdoor vulnerabilities from as few as 250 corrupted documents inserted into their training data.",
+              "That means someone tucking certain documents away inside training data could potentially manipulate how the LLM responds to prompts, although the finding comes with significant caveats.",
+              "The research involved training AI language models ranging from 600 million to 13 billion parameters on datasets scaled appropriately for their size.",
+              "Despite larger models processing over 20 times more total training data, all models learned the same backdoor behavior after encountering roughly the same small number of malicious examples.",
+              "Anthropic says that previous studies measured the threat in terms of percentages of training data, which suggested attacks would become harder as models grew larger."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
+            "link": "https://arstechnica.com/health/2025/10/childhood-vaccines-safe-for-a-little-longer-as-cdc-cancels-advisory-meeting/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "14abba36294b72e952dddcfa9fd2d38be692e50e"
+          },
+          "review": {
+            "headline_rewrite": "Childhood vaccines safe for a little longer as CDC cancels advisory meeting",
+            "bullets": [
+              "HHS press secretary Emily Hilliard offered no explanation, only saying that the \"official meeting dates and agenda items will be posted on the website once finalized.\"\nIn the past, the committee has been stacked with highly esteemed, thoroughly vetted medical experts, who diligently conducted their somewhat esoteric work on immunization policy with little fanfare.",
+              "Corrupted committee\nSo far this year, Kennedy's advisors have met twice, producing chaotic meetings during which members revealed a clear lack of understanding of the data at hand and the process of setting vaccine recommendations, all while setting policy decisions long sought by anti-vaccine activists.",
+              "In that meeting, the committee rescinded the recommendation for flu vaccines containing a preservative called thimerosal based on false claims from anti-vaccine groups that it causes autism.",
+              "The panel also ominously said it would re-evaluate the entire childhood vaccination schedule, putting life-saving shots at risk."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "fa4bc03907e0690d0add4a6c33a7f2771a5b15eb"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "TheAdvocate.com\nChief Justice John Weimer, Louisiana judges spar over payNews Showcase\nStories selected by newsroom editors\nLatest and Local – Casper, WY\nCobb Courier Evening Update October 9, 2025\nWhat to know in New Orleans\nNEWS FOR YOU\nBaltimore area news to know\nRestaurant news\nLaverne's club and restaurant proposed to replace Trip’s PlaceHolidays 2025\nWinter on the Waterfront returns for 2025 holiday seasonNew improve theater\nHighwire Improv theater opens in former Hoehn’s BakeryLatest Boston news\nAtlanta Does\nReal Times Media\n19 New GOP House Seats: Supreme Court Case Could Gut Voting Rights Act, Cement One-Party ControlReal Times Media\nMISTR & SISTR Launch First-Ever National PrEP Day to End HIV in AmericaLet’s Get 10,000 New People on PrEP by 10/10Real Times Media\nCliff Vmir Debuts FEMMÈ Flagship in Atlanta with Star-Studded Grand Opening & Receives a Prestigious Resolution from the Georgia House of RepresentativesSTGNews Headlines\nJeff Richards\nPolice arrest Southern Utah man accused of firing gun, threatening to 'kill everyone'Jessi Bang\nFrom graveyard cupcakes to oozing chocolate skulls, this Washington City baker is serving up fall treatsE.",
+              "9, 2025\nIRS MAY DENY BACK PAY, FERRARI STOCK\nLatest Headlines\nPolitics\nThese races for governor will reshape the South and MAGAAtlanta Homeless\nUnhoused residents say city's support falls shortWeekend Predictions\nDon’t expect a winning sweep from Georgia, Tech and FalconsToledo's Leader in News, Sports & Entertainment\nBridge Michigan\nOct 9 2025, 4:44 PM\nMichigan taxes on tips, overtime, Social Security to end ...Oct 9 2025, 4:20 PM\nMichigan deer hunting season off to strong start despite ...Oct 9 2025, 6:00 AM\nNew Wayne State program aims to remove college barriers f...Hawaii’s In-Depth News Source\nThe Morning Rundown | Oct.",
+              "Pete debut on FridayTampa Bay concerts\nDavis Islands’ Friday jazz series celebrates second anniversaryTampa Bay concerts\nWill Quinlan makes no-cover concert appearance on FridayFARGO-MOORHEAD NEWS\nLuxury Real Estate News\nCelebrity Homes\nHome of Hollywood’s Original Tarzan Lists for Nearly $5MRebuilds & Renos\nFrom His House to Their House: A Maryland Waterfront MakeoverListing of the Day\nBahamas Mansion Is Sandwiched Between Two Sandy BeachesCAPITOLHILLSEATTLE.COM\nNORTHEAST GEORGIA\nTucson's watchdog news\nWhat the Devil won't tell you\nAll roads lead to Phx when it comes to Tucson's transit safetyImmigration\nAz cities resist efforts to curtail ICE partnerships with policeSustainability\nUA part of $38M research project to find solutions to Az water futureLatest news for Edmonds\nFlorida shipyard selection\nWait for new WA ferries grows even longerWith questions, few changes\nCity Council approves most of Mayor’s 2026 proposed budgetArt Beat\nArt, music, dance, theater and communityWhat You Need to Know: Thursday, October.",
+              "9, 2025\nGame 4 Thursday\nPhillies deny Dodgers' sweep attemptThe building, not the store\nTritch hardware building in Eagle RockBetter than left in the dark\nCouncilmember wants $1 million for streetlight repair crewRENO MORNING HEADLINES | October 09, 2025\nMountain View Voice\nOct 9 2025, 6:00 AM\nSan Diego County has more military than anywhere in the state; the federal shutdown could hit hardOct 9 2025, 6:00 AM\nHere’s the latest with California oil refineriesOct 9 2025, 5:30 AM\nAfter getting fired, California’s top cybersecurity official calls for changeBKReader: Brooklyn Reader - Latest\nDenny’s, a beloved Kensingt...",
+              "Two New Film Studios Power Up Brooklyn’s Production CapacityThe 15-year-old victim was ...",
+              "Brooklyn Man Sentenced to Prison for Sex Trafficking a ChildSTOCK MARKET TODAY\nFort Worth & Tarrant County Headlines\nLatest Vermont News\nLIFE & CULTURE\nVermont Conversation: Oscar Mayer heir Chuck Collins on how billionaires are fleecing everyoneECONOMY\nAfter multi-week picket, workers and bosses reach agreement at St."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
