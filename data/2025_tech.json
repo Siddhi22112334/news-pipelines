@@ -149749,5 +149749,122 @@
         }
       ]
     }
+  },
+  "2025-10-11": {
+    "runs": {
+      "00:16": [
+        {
+          "item": {
+            "title": "The billion-dollar infrastructure deals powering the AI boom",
+            "link": "https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4239ee1c7d3c887085763a520c9c6eeee0c9fce9"
+          },
+          "review": {
+            "headline_rewrite": "The billion-dollar infrastructure deals powering the AI boom",
+            "bullets": [
+              "It takes a lot of computing power to run an AI product — and as the tech industry races to tap the power of AI models, there’s a parallel race underway to build the infrastructure that will power them.",
+              "On a recent earnings call, Nvidia CEO Jensen Huang estimated that between $3 trillion and $4 trillion will be spent on AI infrastructure by the end of the decade — with much of that money coming from AI companies.",
+              "Along the way, they’re placing immense strain on power grids and pushing the industry’s building capacity to its limit.",
+              "Below, we’ve laid out everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+              "Microsoft’s $1 billion investment in OpenAI\nThis is arguably the deal that kicked off the whole contemporary AI boom: In 2019, Microsoft made a $1 billion investment in a buzzy non-profit called OpenAI, known mostly for its association with Elon Musk.",
+              "Crucially, the deal made Microsoft the exclusive cloud provider for OpenAI — and as the demands of model training became more intense, more of Microsoft’s investment started to come in the form of Azure cloud credit rather than cash."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Chrome silences those pesky notifications",
+            "link": "https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e7a74027e42abf577fa7085dfea643d095323454"
+          },
+          "review": {
+            "headline_rewrite": "Google Chrome silences those pesky notifications",
+            "bullets": [
+              "The feature will launch on Chrome on Android and the desktop.",
+              "The feature expands on existing functionality already available in Chrome’s Safety Check feature, which revokes camera and location permissions from websites you don’t visit anymore.",
+              "On the iPhone, for instance, Apple was forced to add controls that let users send their push notifications to a daily summary, mute them, or turn them off altogether from the notification message itself, after consumer frustrations with the notification system grew.",
+              "The feature had been in testing ahead of today’s official launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can still snag LG’s C4 OLED TV at half the price",
+            "link": "https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "f8681b200f462f2c585df38e134b46ca65965d73"
+          },
+          "review": {
+            "headline_rewrite": "You can still snag LG’s C4 OLED TV at half the price",
+            "bullets": [
+              "The main difference between the LG C4 and C5 OLED TVs is that the newer C5 offers a slightly brighter display, improved sound, and a faster processor.",
+              "Still, the upgrades are fairly incremental, and most people won’t notice a major difference in the core experience, making the C4 in many ways a better value."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "UK regulators plan to force Google changes under new competition law",
+            "link": "https://arstechnica.com/google/2025/10/uk-antitrust-regulator-takes-aim-at-googles-search-dominance/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "9eb7e1984783c54a40a3b2424f45d398d9940453"
+          },
+          "review": {
+            "headline_rewrite": "UK regulators plan to force Google changes under new competition law",
+            "bullets": [
+              "Google is facing multiple antitrust actions in the US, and European regulators have been similarly tightening the screws.",
+              "The country's antitrust regulator, known as the Competition and Markets Authority (CMA), has confirmed that Google has \"strategic market status,\" paving the way to more limits on how Google does business in the UK.",
+              "In Google's US antitrust trials, the rapid rise of generative AI has muddied the waters.",
+              "Google has claimed on numerous occasions that the proliferation of AI firms offering search services means there is ample competition.",
+              "In the UK, regulators note that Google's Gemini AI assistant is not in the scope of the strategic market status designation.",
+              "However, some AI features connected to search, like AI Overviews and AI Mode, are included."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Chrome will automatically disable web notifications you don’t care about",
+            "link": "https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature",
+            "site_name": "The Verge",
+            "novelty_hash": "c8d089a238c0946b0155d8247abd38f4cb621768"
+          },
+          "review": {
+            "headline_rewrite": "Chrome will automatically disable web notifications you don’t care about",
+            "bullets": [
+              "Chrome will automatically disable web notifications you don’t care about\nThe feature for Android and desktop aims to make notifications less annoying.",
+              "Our test results show a significant reduction in notification overload with only a minimal change in total notification clicks,” Google said in its announcement.",
+              "“Our experiments also indicate that websites that send a lower volume of notifications are actually seeing an increase in clicks.”\nChrome users can choose to turn off the auto-revocation feature entirely, or can preserve specific site notifications by either visiting the website to enable them again or re-granting permissions via the Safety Check feature."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Proton VPN review 2025: A nonprofit service with premium performance",
+            "link": "https://www.engadget.com/cybersecurity/vpn/proton-vpn-review-2025-a-nonprofit-service-with-premium-performance-153046073.html",
+            "site_name": "Engadget",
+            "novelty_hash": "55e3573d33bd879501ed8411bdf2b545780c8d0a"
+          },
+          "review": {
+            "headline_rewrite": "Proton VPN review 2025: A nonprofit service with premium performance",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Proton VPN stands out for two main reasons: it's one of the only virtual private networks (VPNs) to include a free plan with no data limits, and it's one of the few services majority-owned by a nonprofit.",
+              "It's easy to install and manage, runs like the wind and meets high standards for security and privacy.",
+              "Editor's note (9/24/25): We've overhauled our VPN coverage to provide more detailed, actionable buying advice.",
+              "- Keeps internet speeds fast\n- Physically secured data centers\n- Free plan with unlimited data\n- High proportion of virtual server locations\n- Live chat support only for paid users\nTable of contents\nFindings at a glance\nThe table summarizes what we found while reviewing Proton VPN, both good and bad.",
+              "Installing, configuring and using Proton VPN\nThis section explains how it feels to run Proton VPN on the various platforms it supports."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
