@@ -146664,6 +146664,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "06:43": [
+        {
+          "item": {
+            "title": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency",
+            "link": "https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "238278a8fe6233910034ee8a6785847d87dbd60c"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency",
+            "bullets": [
+              "- Best return on investment: NVIDIA GB200 NVL72 delivers unmatched AI factory economics — a $5 million investment generates $75 million in DSR1 token revenue, a 15x return on investment.",
+              "- Best throughput and interactivity: NVIDIA B200 sets the pace with 60,000 tokens per second per GPU and 1,000 tokens per second per user on gpt-oss with the latest NVIDIA TensorRT-LLM stack.",
+              "As AI shifts from one-shot answers to complex reasoning, the demand for inference — and the economics behind it — is exploding.",
+              "The NVIDIA Blackwell platform swept the field — delivering unmatched performance and best overall efficiency for AI factories.",
+              "“Inference is where AI delivers value every day,” said Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA.",
+              "“These results show that NVIDIA’s full-stack approach gives customers the performance and efficiency they need to deploy AI at scale.”\nEnter InferenceMAX v1\nInferenceMAX v1, a new benchmark from SemiAnalysis released Monday, is the latest to highlight Blackwell’s inference leadership."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them",
+            "link": "https://techcrunch.com/2025/10/09/while-openai-races-to-build-ai-data-centers-nadella-reminds-us-that-microsoft-already-has-them/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a64de12fc9529e22fba9a0d6811e9a55fa2f8e04"
+          },
+          "review": {
+            "headline_rewrite": "While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them",
+            "bullets": [
+              "Microsoft CEO Satya Nadella on Thursday tweeted a video of his company’s first deployed massive AI system — or AI “factory” as Nvidia likes to call them.",
+              "He promised this is the “first of many” such Nvidia AI factories that will be deployed across Microsoft Azure’s global data centers to run OpenAI workloads.",
+              "Each system is a cluster of more than 4,600 Nvidia GB300 rack computers sporting the much-in-demand Blackwell Ultra GPU chip and connected via Nvidia’s super-fast networking tech called InfiniBand.",
+              "(Besides AI chips, Nvidia CEO Jensen Huang also had the foresight to corner the market on InfiniBand when his company acquired Mellanox for $6.9 billion in 2019.)\nMicrosoft promises that it will be deploying “hundreds of thousands of Blackwell Ultra GPUs” as it rolls out these systems globally.",
+              "While the size of these systems is eye-popping (and the company shared plenty more technical details for hardware enthusiasts to peruse), the timing of this announcement is also noteworthy.",
+              "It comes just after OpenAI, its partner and well-documented frenemy, inked two high-profile data center deals with Nvidia and AMD."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Andreessen Horowitz denies report of India office, calls it ‘fake news’",
+            "link": "https://techcrunch.com/2025/10/09/andreessen-horowitz-denies-report-of-india-office-calls-it-fake-news/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8c714c1088f6572cc4f558e0a6698ad820939061"
+          },
+          "review": {
+            "headline_rewrite": "Andreessen Horowitz denies report of India office, calls it ‘fake news’",
+            "bullets": [
+              "Venture capital firm Andreessen Horowitz (a16z) has pushed back on local media reports suggesting it plans to open an office in India, with a general partner calling the coverage “entirely fake news.”\nEarlier on Thursday, Indian media outlets reported that a16z was preparing to establish a physical presence in the country by setting up an office in Bengaluru.",
+              "The reports, which cited unnamed sources, also said the firm was in the process of hiring a local partner.",
+              "The firm said, however, that it would continue to invest internationally through remote teams and local networks.",
+              "The firm’s only notable bet in India has been crypto exchange CoinSwitch, which it backed as part of the company’s $260 million funding round in 2021.",
+              "Venture capital is a “very hands-on process of understanding the people you’re working with for both evaluating the company and work[ing] with the company,” he said at the time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Oct 10, 2025 AI chip company CEO warns US is falling behind China in AI race: Even if government wants to...",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/ai-chip-company-ceo-warns-us-is-falling-behind-china-in-ai-race-even-if-government-wants-to-/articleshow/124438794.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7cec00b34317dbd457f0cddbcd4fc5469bf35258"
+          },
+          "review": {
+            "headline_rewrite": "Technology Oct 10, 2025 AI chip company CEO warns US is falling behind China in AI race: Even if government wants to...",
+            "bullets": [
+              "Cerebras CEO Andrew Feldman has claimed that China's centralised government is giving Beijing an advantage in a key part of the artificial intelligence (AI) race.",
+              "The US decentralized system of local, state, and federal regulations creates obstacles for AI-related infrastructure projects, particularly in energy production and data center development.",
+              "In an interview with Business Insider, the chief executive of the US-based AI training chip maker Feldman said China has been able to build extensive power infrastructure through central decision-making, including constructing dams, burning coal, and investing in solar energy.",
+              "He said:\nâOur decentralised form of government has left us with sort of a patchwork of power infrastructures where even if the federal government wants to support you, their local regulations like at the city and county level of towns that can interfere with a project and set a project back, billions of dollars.I think they have been able to, at a national level, stand up vast amounts of power, and they've done it by building massive dams, by burning coal, by doubling down on solar.",
+              "But they have put together an extraordinary power infrastructure, and I think the plan benefited from some form of central decision-making.We have a fragmented political system, but there is no reason why we should have local ordinances interfering with the development of power projects, with the development of data centers, the very sort of things that power big AI deployments.",
+              "There's no reason we should have a patchwork of AI regulations, meaning that each company, like Cerebras or OpenAI, has to think differently in each state; that's just a tax on innovation.\"Feldman also suggested that US shouldn't try to simply copy China's approach, but rather find better ways to support AI investments through the existing system."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "2141744c5dbd6584c77a2a2bfcb565a18d72c35f"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Attorney General Indicted on Bank Fraud ChargesNews Showcase\nStories selected by newsroom editors\nHawaii’s In-Depth News Source\nCobb Courier Evening Update October 9, 2025\nCOLORADO NEWS\nMountain View Voice\nOct 9 2025, 4:55 PM\nArtist stirs up ‘Tempest’ at Palo Alto City HallOct 9 2025, 3:23 PM\nWhat’s up this weekend: Artemis, Rebirth Brass Band, LehCats and moreOct 9 2025, 3:06 PM\nResidents object to converting Los Altos High tennis courts into parkingAtlanta Does\nReal Times Media\n19 New GOP House Seats: Supreme Court Case Could Gut Voting Rights Act, Cement One-Party ControlReal Times Media\nMISTR & SISTR Launch First-Ever National PrEP Day to End HIV in AmericaLet’s Get 10,000 New People on PrEP by 10/10Real Times Media\nCliff Vmir Debuts FEMMÈ Flagship in Atlanta with Star-Studded Grand Opening & Receives a Prestigious Resolution from the Georgia House of RepresentativesSTOCK MARKET TODAY\nAll about football\nOctober 9, 2025\nThe Evening Recap | October 9, 2025\nLane County News\nBridge Michigan\nOct 9 2025, 4:44 PM\nMichigan taxes on tips, overtime, Social Security to end ...Oct 9 2025, 4:20 PM\nMichigan deer hunting season off to strong start despite ...Oct 9 2025, 6:00 AM\nNew Wayne State program aims to remove college barriers f...Tucson's watchdog news\nWhat the Devil won't tell you\nAll roads lead to Phx when it comes to Tucson's transit safetyImmigration\nAz cities resist efforts to curtail ICE partnerships with policeSustainability\nUA part of $38M research project to find solutions to Az water futureLatest news for Edmonds\nFlorida shipyard selection\nWait for new WA ferries grows even longerWith questions, few changes\nCity Council approves most of Mayor’s 2026 proposed budgetArt Beat\nArt, music, dance, theater and communityLuxury Real Estate News\nCelebrity Homes\nHome of Hollywood’s Original Tarzan Lists for Nearly $5MRebuilds & Renos\nFrom His House to Their House: A Maryland Waterfront MakeoverListing of the Day\nBahamas Mansion Is Sandwiched Between Two Sandy BeachesNORTHEAST GEORGIA\nSAN FRANCISCO'S TOP STORIES\nEntertainment & Arts\nDaily Journal\nSanta Monica among local governments lawsuit\nGovernment & Politics\nSanta Monica among local governments challenging requirements linking disaster preparedness money to immigration enforcementCrime\nAuthorities make an arrest related to deadly January wildfire that leveled LA neighborhoodOpinion\nCalifornia’s families and small businesses can’t afford another drugmaker backroom dealThursday's news in Arlington, Virginia\nUNITED STATES\nVows to remain in office\nNY AG and Trump foe, Letitia James, indicted for mortgage fraudAs Chicago patrols begin\nUS judge blocks Trump's deployment of National Guard in IllinoisNinth day of govt shutdown\nTrump administration airs video at airports blaming DemocratsCAPITOLHILLSEATTLE.COM\nWhat's happening in Oakland?",
+              "George Goold\n‘Foster worldwide peace, health, friendship’: 2025 Huntsman World Senior Games underwayToday's Top Headlines\nPost and Courier\nTwo-day coastal flood warning issued for the LowcountryPost and Courier\nCharleston professor created image of a secret coral reefPost and Courier\nJustice Ketanji Brown Jackson rocks Charleston-made necklaceGJ Sentinel Headlines 10/9/25\nDesert Drifter's death\nMan who killed popular YouTuber pleads guilty | gjsentinel.comMan found with penis detached\nExpert: Calls competency process 'useless exercise' | gjsentinel.comMaking spirits bright\nQuilt Guild donates 250 Christmas stockings for foster kidsTop Stories\nThe Herald News\nLatest Boston news\nToledo's Leader in News, Sports & Entertainment\nThursday's news in Alexandria\nFARGO-MOORHEAD NEWS\nMorning Headlines, Oct.",
+              "Two New Film Studios Power Up Brooklyn’s Production CapacityThe 15-year-old victim was ...",
+              "Brooklyn Man Sentenced to Prison for Sex Trafficking a ChildPleasanton Weekly\nTampa Bay Times Top Stories\nToday's Rundown\nAdvocate Top Stories\nNEWS FOR YOU\nAround Humboldt\nThursday News Roundup - Evening Edition\nMilwaukee Area Business News\nGRAND FORKS ND NEWS\nThursday Night Update\nLatest and Local – Casper, WY\nNorthwest Herald\nLatest Headlines\nPolitics\nThese races for governor will reshape the South and MAGAAtlanta Homeless\nUnhoused residents say city's support falls shortWeekend Predictions\nDon’t expect a winning sweep from Georgia, Tech and FalconsBridgeDetroit\nOct 9 2025, 9:00 AM\nNew state budget bars Count Day financial incentives, req...Oct 9 2025, 6:00 AM\nNew Wayne State program aims to remove college barriers f...Oct 8 2025, 9:13 PM\nDetroit student stabbed by classmate whose mother snuck a...Latest and Local – Cheyenne, WY\nDaily Dose of Neighborhood News 10.9.25\nThe Almanac\nOct 9 2025, 8:09 AM\nCommunity briefs: Wildfire preparedness and sustainability resourcesOct 9 2025, 7:05 AM\nRavenswood schools aim for better attendanceOct 9 2025, 6:00 AM\nSan Diego County has more military than anywhere in the state; the federal shutdown could hit hardHappening in Loudoun County\nBaltimore news to know\nA wrap on the day’s hard-hitting news and opinion\nNew York City News Today\nWhat Utah is buzzing about\nAlcohol ban backlash\nSLC nightlife organizers oppose alcohol ban at council meetingKiitos Brewing\nSalt Lake City brewery opens long-awaited Sugar House barLatest from Mormon Land\nLDS members bury one prophet, await a new oneLatest Vermont News\nLIFE & CULTURE\nVermont Conversation: Oscar Mayer heir Chuck Collins on how billionaires are fleecing everyoneECONOMY\nAfter multi-week picket, workers and bosses reach agreement at St.",
+              "Albans dairy plantGOVERNMENT & POLITICS\nRutland City voters resoundingly back bond for downtown infrastructure projectsIRS MAY DENY BACK PAY, FERRARI STOCK\nTODAY IN SANTA CRUZ COUNTY\nSources Says Conditions in Eastern Prison “Way Worse”, And More\nThursday's news in Fairfax County\nSCV News from The Signal for Oct.",
+              "9, 2025\nWhat to know in New Orleans\nDaily Chronicle\nDULUTH MINNESOTA NEWS\nAfternoon Update\nMetro - City of Memphis\nNational Guard patrols to begin Friday, city saysSports - Memphis Grizzlies\nIt’s the preseason, but Grizzlies have ‘overthinking' to correctOpinion - Guest Columnists\nOpinion: Amend Germantown’s charter to support a full-time mayorSauk Valley\nMy Suburban Life\nMan accused of leading Villa Park police on high-speed chase: prosecutorsMy Suburban Life\nSuburban Life boys soccer notebook: Glenbard West preparing for regional rematch with district rivalMy Suburban Life\nKicking for a cause, Fenwick’s Noah Sur raising money for stillbirth preventionThe Business Journal of the Boulder Valley and Northern Colorado"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
