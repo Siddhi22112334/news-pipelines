@@ -146937,6 +146937,44 @@
             "impact": "Negative"
           }
         }
+      ],
+      "09:49": [
+        {
+          "item": {
+            "title": "AI chip company CEO warns US is falling behind China in AI race: Even if government wants to...",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/ai-chip-company-ceo-warns-us-is-falling-behind-china-in-ai-race-even-if-government-wants-to-/articleshow/124438794.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7cec00b34317dbd457f0cddbcd4fc5469bf35258"
+          },
+          "review": {
+            "headline_rewrite": "AI chip company CEO warns US is falling behind China in AI race: Even if government wants to...",
+            "bullets": [
+              "Cerebras CEO Andrew Feldman has claimed that China's centralised government is giving Beijing an advantage in a key part of the artificial intelligence (AI) race.",
+              "The US decentralized system of local, state, and federal regulations creates obstacles for AI-related infrastructure projects, particularly in energy production and data center development.",
+              "In an interview with Business Insider, the chief executive of the US-based AI training chip maker Feldman said China has been able to build extensive power infrastructure through central decision-making, including constructing dams, burning coal, and investing in solar energy.",
+              "He said:\nâOur decentralised form of government has left us with sort of a patchwork of power infrastructures where even if the federal government wants to support you, their local regulations like at the city and county level of towns that can interfere with a project and set a project back, billions of dollars.I think they have been able to, at a national level, stand up vast amounts of power, and they've done it by building massive dams, by burning coal, by doubling down on solar.",
+              "But they have put together an extraordinary power infrastructure, and I think the plan benefited from some form of central decision-making.We have a fragmented political system, but there is no reason why we should have local ordinances interfering with the development of power projects, with the development of data centers, the very sort of things that power big AI deployments.",
+              "There's no reason we should have a patchwork of AI regulations, meaning that each company, like Cerebras or OpenAI, has to think differently in each state; that's just a tax on innovation.\"Feldman also suggested that US shouldn't try to simply copy China's approach, but rather find better ways to support AI investments through the existing system."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
