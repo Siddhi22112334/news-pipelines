@@ -149864,6 +149864,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "The billion-dollar infrastructure deals powering the AI boom",
+            "link": "https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4239ee1c7d3c887085763a520c9c6eeee0c9fce9"
+          },
+          "review": {
+            "headline_rewrite": "The billion-dollar infrastructure deals powering the AI boom",
+            "bullets": [
+              "It takes a lot of computing power to run an AI product — and as the tech industry races to tap the power of AI models, there’s a parallel race underway to build the infrastructure that will power them.",
+              "On a recent earnings call, Nvidia CEO Jensen Huang estimated that between $3 trillion and $4 trillion will be spent on AI infrastructure by the end of the decade — with much of that money coming from AI companies.",
+              "Along the way, they’re placing immense strain on power grids and pushing the industry’s building capacity to its limit.",
+              "Below, we’ve laid out everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+              "Microsoft’s $1 billion investment in OpenAI\nThis is arguably the deal that kicked off the whole contemporary AI boom: In 2019, Microsoft made a $1 billion investment in a buzzy non-profit called OpenAI, known mostly for its association with Elon Musk.",
+              "Crucially, the deal made Microsoft the exclusive cloud provider for OpenAI — and as the demands of model training became more intense, more of Microsoft’s investment started to come in the form of Azure cloud credit rather than cash."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Chrome silences those pesky notifications",
+            "link": "https://techcrunch.com/2025/10/10/google-chrome-silences-those-pesky-notifications/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6126c2307530af97349c4526affc1d306e9e494e"
+          },
+          "review": {
+            "headline_rewrite": "Google Chrome silences those pesky notifications",
+            "bullets": [
+              "The feature will launch on Chrome on Android and on desktop.",
+              "The feature expands on existing functionality already available in Chrome’s Safety Check feature, which revokes camera and location permissions from websites you don’t visit anymore.",
+              "On the iPhone, for instance, Apple was forced to add controls that let users send their push notifications to a daily summary, mute them, or turn them off altogether from the notification message itself, after consumer frustrations with the notification system grew.",
+              "The feature had been in testing ahead of today’s official launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can still snag LG’s C4 OLED TV at half the price",
+            "link": "https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "f8681b200f462f2c585df38e134b46ca65965d73"
+          },
+          "review": {
+            "headline_rewrite": "You can still snag LG’s C4 OLED TV at half the price",
+            "bullets": [
+              "The main difference between the LG C4 and C5 OLED TVs is that the newer C5 offers a slightly brighter display, improved sound, and a faster processor.",
+              "Still, the upgrades are fairly incremental, and most people won’t notice a major difference in the core experience, making the C4 in many ways a better value."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
+            "link": "https://arstechnica.com/gadgets/2025/10/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers-feb-18/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "33142e80d34d2bd41d29909bf1369afd252dfd1c"
+          },
+          "review": {
+            "headline_rewrite": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
+            "bullets": [
+              "On Thursday, Bose informed customers that as of February 18, 2026, it will stop supporting the devices, and the devices' cloud-based features, including the companion app, will stop working.",
+              "Bose has also said that some saved presets won’t work and that users won’t be able to change saved presets once the app is gone.",
+              "Additionally, Bose will stop providing security updates for SoundTouch devices.",
+              "Affected customers can trade in their SoundTouch product for a credit worth up to $200.",
+              "Technology has evolved since then, and we’re no longer able to sustain the development and support of the cloud infrastructure that powers this older generation of products.",
+              "We remain committed to creating new listening experiences for our customers built on modern technologies."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+            "link": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "36dfe4039101723c71e4dfdde596e04bf6e5d88b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+            "bullets": [
+              "Microsoft is warning of an active scam that diverts employees' paycheck payments to attacker-controlled accounts after first taking over their profiles on Workday or other cloud-based HR services.",
+              "Payroll Pirate, as Microsoft says the campaign has been dubbed, gains access to victims’ HR portals by sending them phishing emails that trick the recipients into providing their credentials for logging in to the cloud account.",
+              "To block messages Workday automatically sends to users when such account details have been changed, the attackers create email rules that keep the messages from appearing in the inbox.",
+              "“The threat actor used realistic phishing emails, targeting accounts at multiple universities, to harvest credentials,” Microsoft said in a Thursday post.",
+              "“Since March 2025, we’ve observed 11 successfully compromised accounts at three universities that were used to send phishing emails to nearly 6,000 email accounts across 25 universities.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Proton VPN review 2025: A nonprofit service with premium performance",
+            "link": "https://www.engadget.com/cybersecurity/vpn/proton-vpn-review-2025-a-nonprofit-service-with-premium-performance-153046073.html",
+            "site_name": "Engadget",
+            "novelty_hash": "55e3573d33bd879501ed8411bdf2b545780c8d0a"
+          },
+          "review": {
+            "headline_rewrite": "Proton VPN review 2025: A nonprofit service with premium performance",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Proton VPN stands out for two main reasons: it's one of the only virtual private networks (VPNs) to include a free plan with no data limits, and it's one of the few services majority-owned by a nonprofit.",
+              "It's easy to install and manage, runs like the wind and meets high standards for security and privacy.",
+              "Editor's note (9/24/25): We've overhauled our VPN coverage to provide more detailed, actionable buying advice.",
+              "- Keeps internet speeds fast\n- Physically secured data centers\n- Free plan with unlimited data\n- High proportion of virtual server locations\n- Live chat support only for paid users\nTable of contents\nFindings at a glance\nThe table summarizes what we found while reviewing Proton VPN, both good and bad.",
+              "Installing, configuring and using Proton VPN\nThis section explains how it feels to run Proton VPN on the various platforms it supports."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
