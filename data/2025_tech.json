@@ -148211,6 +148211,120 @@
             "impact": "Negative"
           }
         }
+      ],
+      "17:06": [
+        {
+          "item": {
+            "title": "Copilot on Windows can now create Office documents and connect to Gmail",
+            "link": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
+            "site_name": "The Verge",
+            "novelty_hash": "e84010b622177a9cc23ae85fa2d52e6f9732fcbb"
+          },
+          "review": {
+            "headline_rewrite": "Copilot on Windows can now create Office documents and connect to Gmail",
+            "bullets": [
+              "Microsoft is updating its Copilot app on Windows to allow it to create documents from a chat session and connect to Gmail and Outlook accounts.",
+              "Copilot on Windows can now create Office documents and connect to Gmail\nYou can create Word, Excel, and PowerPoint files from the Copilot chat interface.",
+              "“With just a prompt, you can instantly turn ideas, notes, and data into shareable and editable documents with no extra steps or tools required,” explains Microsoft’s Copilot team.",
+              "“And for responses with 600 characters or more, Copilot also includes a default export button that lets you send text directly to Word, PowerPoint, Excel, or PDF.”\nYou’ll also be able to link Copilot to Outlook or Gmail accounts, so the AI assistant can surface content from your online accounts.",
+              "You could then ask Copilot to find all invoices from a company in your inbox, or pull up the email address for a contact.",
+              "You can connect OneDrive, Outlook, Google Drive, Gmail, Google Calendar, and Google Contacts."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "“Like putting on glasses for the first time”—how AI improves earthquake detection",
+            "link": "https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "cab45169a7f4f3e32949ac407b631bbaa04da093"
+          },
+          "review": {
+            "headline_rewrite": "“Like putting on glasses for the first time”—how AI improves earthquake detection",
+            "bullets": [
+              "Over the past seven years, AI tools based on computer imaging have almost completely automated one of the fundamental tasks of seismology: detecting earthquakes.",
+              "Less certain is what comes next.",
+              "“It really was a revolution,” said Joe Byrnes, a professor at the University of Texas at Dallas.",
+              "When an earthquake happens in one place, the shaking passes through the ground, similar to how sound waves pass through the air."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’",
+            "link": "https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/",
+            "site_name": "WIRED",
+            "novelty_hash": "c510cf7501463d3c1a74e4ac6fdefd81401a72dd"
+          },
+          "review": {
+            "headline_rewrite": "Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’",
+            "bullets": [
+              "A Meta executive in charge of building the company’s metaverse products told employees that they should be using AI to “go 5X faster” according to an internal message obtained by 404 Media.",
+              "“Metaverse AI4P: Think 5X, not 5%,” the message, posted by Vishal Shah, Meta’s VP of Metaverse, said (AI4P is AI for Productivity).",
+              "The idea is that programmers should be using AI to work five times more efficiently than they are currently working—not just using it to go 5 percent more efficiently.",
+              "This means prioritizing training and adoption for everyone, so that using Al becomes second nature—just like any other tool we rely on,” the message read.",
+              "And 5X faster to get to how our products feel much more quickly.",
+              "Imagine a world where anyone can rapidly prototype an idea, and feedback loops are measured in hours—not weeks."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Proton VPN Review (2025): The Best VPN for Most People",
+            "link": "https://www.wired.com/review/proton-vpn/",
+            "site_name": "WIRED",
+            "novelty_hash": "491bf824edece462d4484e4e7f601e8fba0aa387"
+          },
+          "review": {
+            "headline_rewrite": "Proton VPN Review (2025): The Best VPN for Most People",
+            "bullets": [
+              "The company, more than a decade old now, launched Proton VPN as an add-on to its wildly popular Proton Mail privacy-focused email client.",
+              "Instead of chasing full security suites, mergers and acquisitions, and features that have little to do with an average internet denizen, Proton VPN has doubled down on what makes a great VPN great in the first place.",
+              "A Generous Free Offering\nProton VPN made a name for itself with its free plan, and it remains one of the only two free VPNs I recommend (alongside Windscribe).",
+              "Proton doesn’t limit your bandwidth at all, and the privacy protections available to Plus subscribers are available to free users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple doubles its biggest bug bounty reward to $2 million",
+            "link": "https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html",
+            "site_name": "Engadget",
+            "novelty_hash": "5bcac14fe8264ab8e849250d569b99ab3f4a4b39"
+          },
+          "review": {
+            "headline_rewrite": "Apple doubles its biggest bug bounty reward to $2 million",
+            "bullets": [
+              "Apple is updating its Security Bounty program this November to offer some of the highest rewards in the industry.",
+              "It has doubled its top award from $1 million to $2 million for the discovery of \"exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks\" and which requires no user interaction.",
+              "Lockdown Mode is an upgraded security architecture in the Safari browser.",
+              "In addition, the company is rewarding the discovery of exploit chains with one-click user interaction with up to $1 million instead of just $250,000.",
+              "Finally, researchers \"who demonstrate chaining WebContent code execution with a sandbox escape can receive up to $300,000.\" Apple's VP for security engineering and architecture Ivan Krstić told Wired that the company has awarded over $35 million to more than 800 security researchers since it introduced and expanded the program over the past few years.",
+              "The company said in its announcement that the only system-level iOS attacks it has observed in the wild came from mercenary spyware, which are historically associated with state actors and typically used to target specific individuals."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
