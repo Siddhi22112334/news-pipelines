@@ -147973,6 +147973,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "16:12": [
+        {
+          "item": {
+            "title": "The CMA’s designation of Google Search",
+            "link": "https://blog.google/around-the-globe/google-europe/united-kingdom/cma-designation-google-search/",
+            "site_name": "Google",
+            "novelty_hash": "d2e92f0bedafb926553dbf69ec5f3cbd9be7ebba"
+          },
+          "review": {
+            "headline_rewrite": "The CMA’s designation of Google Search",
+            "bullets": [
+              "The UK enjoys access to the latest products and services before other countries because it has so far avoided costly restrictions on popular services, such as Search.",
+              "Retaining this position means avoiding unduly onerous regulations and learning from the negative results seen in other jurisdictions, which have cost businesses an estimated €114 billion.",
+              "Many of the ideas for interventions that have been raised in this process would inhibit UK innovation and growth, potentially slowing product launches at a time of profound AI-based innovation.",
+              "Others pose direct harm to businesses, with some warning that they may be forced to raise prices for customers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Copilot on Windows can now create Office documents and connect to Gmail",
+            "link": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
+            "site_name": "The Verge",
+            "novelty_hash": "34064edfd5831316973d60064904763ca2a5ec37"
+          },
+          "review": {
+            "headline_rewrite": "Copilot on Windows can now create Office documents and connect to Gmail",
+            "bullets": [
+              "Microsoft is updating its Copilot app on Windows to allow it to create documents from a chat session and connect to Gmail and Outlook accounts.",
+              "Copilot on Windows can now create Office documents and connect to Gmail\nYou can create Word, Excel, and PowerPoint files from the Copilot chat interface.",
+              "“With just a prompt, you can instantly turn ideas, notes, and data into shareable and editable documents with no extra steps or tools required,” explains Microsoft’s Copilot team.",
+              "“And for responses with 600 characters or more, Copilot also includes a default export button that lets you send text directly to Word, PowerPoint, Excel, or PDF.”\nYou’ll also be able to link Copilot to Outlook or Gmail accounts, so the AI assistant can surface content from your online accounts.",
+              "You could then ask Copilot to find all invoices from a company in your inbox, or pull up the email address for a contact.",
+              "You can connect OneDrive, Outlook, Google Drive, Gmail, Google Calendar, and Google Contacts."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "‘Tron: Ares’ Wants to Gaslight You About the Future of AI",
+            "link": "https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/",
+            "site_name": "WIRED",
+            "novelty_hash": "f22be3cf2105c18a3a9d38ef5c3ee8161849030a"
+          },
+          "review": {
+            "headline_rewrite": "‘Tron: Ares’ Wants to Gaslight You About the Future of AI",
+            "bullets": [
+              "Ares, named after the Greek god of war, was built to be an AI super-soldier.",
+              "AI bots awakening to the realities of human messiness are a trope almost as old as movies themselves.",
+              "In the decades since, most sci-fi involving AI has reinforced the idea that giving computers people-like intelligence ends poorly for people themselves.",
+              "Tron: Ares’ take is hotter: What if AI-powered machines evolved into benevolent loners?",
+              "(Be warned: There are spoilers ahead.) Tech CEO Julian Dillinger (Evan Peters), grandson of original Tron villain Ed Dillinger, has created artificially intelligent soldiers (and tanks and such) to secure military contracts.",
+              "Once more, for those unclear on Tron: Ares’ message: The AI droid, made specifically to win on the battlefield, has gained sentience and gotten a little sentimental."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits",
+            "link": "https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/",
+            "site_name": "WIRED",
+            "novelty_hash": "8cd6c7108a32eb780e2e5bfab5a6be83eae9e025"
+          },
+          "review": {
+            "headline_rewrite": "Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits",
+            "bullets": [
+              "Since launching its bug bounty program nearly a decade ago, Apple has always touted notable maximum payouts—$200,000 in 2016 and $1 million in 2019.",
+              "Now the company is upping the stakes again.",
+              "At the Hexacon offensive security conference in Paris on Friday, Apple vice president of security engineering and architecture Ivan Krstić announced a new maximum payout of $2 million for a chain of software exploits that could be abused for spyware.",
+              "Taken together, the maximum award for what would otherwise be a potentially catastrophic exploit chain will now be $5 million.",
+              "The company's bug bounty was originally an invite-only program for prominent researchers, but since opening to the public in 2020, Apple says that it has awarded more than $35 million to more than 800 security researchers.",
+              "In addition to higher potential rewards, Apple is also expanding the bug bounty's categories to include certain types of one-click “WebKit” browser infrastructure exploits as well as wireless proximity exploits carried out with any type of radio."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple doubles its biggest bug bounty reward to $2 million",
+            "link": "https://www.engadget.com/big-tech/apple-doubles-its-biggest-bug-bounty-reward-to-2-million-102844667.html",
+            "site_name": "Engadget",
+            "novelty_hash": "5bcac14fe8264ab8e849250d569b99ab3f4a4b39"
+          },
+          "review": {
+            "headline_rewrite": "Apple doubles its biggest bug bounty reward to $2 million",
+            "bullets": [
+              "Apple is updating its Security Bounty program this November to offer some of the highest rewards in the industry.",
+              "It has doubled its top award from $1 million to $2 million for the discovery of \"exploit chains that can achieve similar goals as sophisticated mercenary spyware attacks\" and which requires no user interaction.",
+              "Lockdown Mode is an upgraded security architecture in the Safari browser.",
+              "In addition, the company is rewarding the discovery of exploit chains with one-click user interaction with up to $1 million instead of just $250,000.",
+              "Finally, researchers \"who demonstrate chaining WebContent code execution with a sandbox escape can receive up to $300,000.\" Apple's VP for security engineering and architecture Ivan Krstić told Wired that the company has awarded over $35 million to more than 800 security researchers since it introduced and expanded the program over the past few years.",
+              "The company said in its announcement that the only system-level iOS attacks it has observed in the wild came from mercenary spyware, which are historically associated with state actors and typically used to target specific individuals."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best gaming accessories on a budget for 2025",
+            "link": "https://www.engadget.com/gaming/pc/best-budget-gaming-accessories-130040522.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a06eabbe75d83a4126ddbae17194709abbe5b619"
+          },
+          "review": {
+            "headline_rewrite": "The best gaming accessories on a budget for 2025",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Table of contents\nBest budget gaming headsets\nI’ve had a pair of these Turtle Beach headphones for eight years now, and they still hold a place of honor among my collection of headsets.",
+              "When you’re on a budget, it’s best to use products that can pull double duty — when it comes to a gaming headset, something you can also use at work is ideal.",
+              "Enter the Logitech Zone Vibe 100, which offers a subdued design on the outside and killer features like clear, robust audio and comfortable ear cups that won’t fatigue your head during both massive in-game raids and long, boring meetings.",
+              "Best budget gaming keyboards\nWhen it comes to buying a keyboard, my first recommendation is always going to be “buy a Corsair.” Corsair keyboards offer an excellent typing experience and they’re super durable.",
+              "Luckily Corsair introduced the K60 RGB Pro a few years back and I’d recommend the Low Profile version for those used to typing on laptop keyboards."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
