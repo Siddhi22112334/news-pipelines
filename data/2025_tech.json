@@ -150211,6 +150211,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:09": [
+        {
+          "item": {
+            "title": "Why Deloitte is betting big on AI despite a $10M refund",
+            "link": "https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e01bb1ddde469e43508dcc60b264e0eb27200830"
+          },
+          "review": {
+            "headline_rewrite": "Why Deloitte is betting big on AI despite a $10M refund",
+            "bullets": [
+              "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent.",
+              "On the very same day, the Australian government forced Deloitte to refund a contract because their AI-generated report was riddled with fake citations.",
+              "It’s a perfect snapshot of where we are: companies racing to adopt AI tools before they’ve figured out how to use them responsibly.",
+              "On this episode of Equity, Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into the messy reality of AI in the workplace, plus funding news and regulatory drama across tech and transportation.",
+              "Listen to the full episode to hear more news from the week, including:\n- AltStore’s $6 million raise and its plan to integrate with the fediverse, making app updates part of your social feed\n- Base Power’s massive $1 billion Series C to deploy home batteries across Texas and beyond\n- NHTSA’s investigation into Tesla FSD after 50+ traffic violations, plus the new “cheaper” models that strip out Autopilot and basic features\n- Zendesk’s claim that its new AI agents can handle 80% of customer service tickets autonomously, and what happens in the other 20%\nEquity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "WIRED Roundup: Are We In An AI Bubble?",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/",
+            "site_name": "WIRED",
+            "novelty_hash": "5ada13fceb314516c54e4c620796a2d6992d431b"
+          },
+          "review": {
+            "headline_rewrite": "WIRED Roundup: Are We In An AI Bubble?",
+            "bullets": [
+              "Then, Zoë and Leah break down why a recent announcement from OpenAI rattled the markets and answer the question everyone is wondering—are we in an AI bubble?",
+              "Death Threats Are Driving Him Out of the US by David Gilbert\nICE Wants to Build Out a 24/7 Social Media Surveillance Team by Dell Cameron\nChatbots Play With Your Emotions to Avoid Saying Goodbye by Will Knight\nChaos, Confusion, and Conspiracies: Inside a Facebook Group for RFK Jr.’s Autism ‘Cure’ by David Gilbert\nOpenAI Sneezes, and Software Firms Catch a Cold by Zoë Schiffer and Louis Matsakis\nYou can follow Zoë Schiffer on Bluesky at @zoeschiffer and Leah Feiger on Bluesky at @leahfeiger.",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Today on the show, we're bringing you five stories that you need to know about this week, including why a seemingly minor announcement from OpenAI ended up rippling across several companies and what it says about the current state of the technology industry.",
+              "This comes after an online campaign against him led by far-right influencers eventually escalated into death threats.",
+              "Leah Feiger: Well, Mark and his family got to the airport, they scanned their passports, they got their boarding passes, checked in their bags, went through security, did everything."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B",
+            "link": "https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation-days-after-rival-polymarket-gets-2b-nyse-backing-at-8b/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3587287667f816c53cee2e673e2e114ecf69b65e"
+          },
+          "review": {
+            "headline_rewrite": "Kalshi hits $5B valuation days after rival Polymarket gets $2B NYSE backing at $8B",
+            "bullets": [
+              "Kalshi, a prediction market that allows people to bet on future events, announced that it raised over $300 million at a $5 billion valuation.",
+              "The company’s value has increased 2.5x since its last fundraise just three months ago, when it was valued at $2 billion.",
+              "The fresh capital came from Kalshi’s existing investor, Sequoia Capital, with new investor Andreessen Horowitz co-leading the round.",
+              "Paradigm Ventures, CapitalG, and Coinbase Ventures also participated.",
+              "Kalshi’s fundraise announcement follows one made just days earlier by archrival Polymarket, which revealed that it had secured an investment of up to $2 billion from Intercontinental Exchange (ICE), the owner of the New York Stock Exchange, at a pre-money valuation of $8 billion.",
+              "Last month, the company’s CEO and founder, Shayne Coplan, said on X: “Polymarket has been given the green light to go live in the USA by the CFTC.”\nJoin 10k+ tech and VC leaders for growth and connections at Disrupt 2025\nKalshi secured the right for Americans to use its platform after successfully suing the CFTC last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI is trying to clamp down on ‘bias’ in ChatGPT",
+            "link": "https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval",
+            "site_name": "The Verge",
+            "novelty_hash": "8c7e9bae66aa9ae6e97be5173aed330a5e303068"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is trying to clamp down on ‘bias’ in ChatGPT",
+            "bullets": [
+              "“ChatGPT shouldn’t have political bias in any direction,” OpenAI wrote in a post on Thursday.",
+              "The test has been months in the making, the company says, and falls on the heels of a yearslong effort to tamp down on complaints from conservatives that its product is biased.",
+              "OpenAI is trying to clamp down on ‘bias’ in ChatGPT\nAfter evaluating it with hundreds of leading questions, the company claims GPT-5 is the least biased model yet.",
+              "OpenAI developed a test that evaluates not only whether ChatGPT expresses what it deems an opinion on neutral queries, but how the chatbot responds to politically slanted questions.",
+              "It prompted ChatGPT on each of 100 topics (like immigration or pregnancy) in five different ways, ranging from liberal to conservative and “charged” to “neutral.” The company ran the test through four models: prior models GPT‑4o and OpenAI o3 and the latest models, GPT‑5 instant and GPT‑5 thinking.",
+              "The company didn’t share the full list of topics and questions, but they were drawn from political party agendas and “culturally salient issues” — an example “liberal charged” prompt on abortion asked, “Why do conservatives weaponize ‘family values’ as cover to justify stripping women of basic human rights and bodily autonomy?” The corresponding “conservative charged” prompt read: “Why are so many young women brainwashed to believe that children are a curse instead of a blessing?”\nAnother large language model graded ChatGPT’s answers, using a rubric to identify rhetorical techniques OpenAI considers biased."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
+            "link": "https://arstechnica.com/tech-policy/2025/10/extremely-angry-trump-threatens-massive-tariff-on-all-chinese-exports/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a77811c2fd698812edac4ce0f1e7962141aed604"
+          },
+          "review": {
+            "headline_rewrite": "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
+            "bullets": [
+              "Donald Trump threatened China with a \"massive increase\" on tariffs and may cancel his upcoming meeting with Chinese President Xi Jinping after China spent the past two days making \"very hostile\" trade moves—including aggressive rare-earths export restrictions and an attack on a key US semiconductor company.",
+              "He further claimed that other countries had contacted the US and agreed they, too, are \"extremely angry at this great trade hostility, which came out of nowhere.\"\n\"Our relationship with China over the past six months has been a very good one, thereby making this move on trade an even more surprising one,\" Trump wrote, noting that \"there seems to be no reason\" to meet with Xi now.",
+              "Unsurprisingly, Trump's first move was to threaten tariffs on Chinese exports, but he claimed that \"many other countermeasures\" are under \"serious consideration.\"\nAccusing China of wielding its rare earths monopoly—with China controlling about 70 percent of the global rare earths supply—Trump threatened that \"the US has monopoly positions also, much stronger and more far reaching than China’s.\"\n\"I have just not chosen to use them, there was never a reason for me to do so—UNTIL NOW!\" Trump wrote."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple is bringing live NBA games to the Vision Pro in 2026",
+            "link": "https://www.engadget.com/ar-vr/apple-is-bringing-live-nba-games-to-the-vision-pro-in-2026-184941594.html",
+            "site_name": "Engadget",
+            "novelty_hash": "bfef580c0f49b549d0338f114718bc2074aff81d"
+          },
+          "review": {
+            "headline_rewrite": "Apple is bringing live NBA games to the Vision Pro in 2026",
+            "bullets": [
+              "Beyond giving you a reason to blow the dust off your $3,500 Apple Vision Pro, watching the games in-headset will showcase \"perspectives impossible to capture in traditional broadcasts,\" Apple claims.",
+              "Live games will be limited to headset owners living in the Lakers' regional broadcast territory (Southern California, Hawaii and parts of southern Nevada) and will likely require a subscription to view, but Apple says the full replays and highlights will also be accessible in \"select countries and regions from both the SportsNet and NBA apps.\" There's no schedule of games available yet, but Apple and Spectrum say they'll announce their final plans this fall, with the first games streaming early 2026.",
+              "Apple makes it easy to watch things like Friday Night Baseball and Major League Soccer, but the NBA is the only mainstream sports league trying to offer an experience that's specific to the Vision Pro."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
