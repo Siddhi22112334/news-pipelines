@@ -150786,6 +150786,113 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:44": [
+        {
+          "item": {
+            "title": "Navan plows ahead with IPO during shutdown, aims for $6.45B valuation",
+            "link": "https://techcrunch.com/2025/10/10/navan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6cd4f8e71bc9eeac30ef05262fd51d9a2ebc5037"
+          },
+          "review": {
+            "headline_rewrite": "Navan plows ahead with IPO during shutdown, aims for $6.45B valuation",
+            "bullets": [
+              "So the tech world will be watching how Navan’s gambit fairs.",
+              "At the high-end, the company would raise more than $960 million and be valued at $6.45 billion."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI allegedly sent police to an AI regulation advocate’s door",
+            "link": "https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police",
+            "site_name": "The Verge",
+            "novelty_hash": "508168aa5dbe0205b1ceed253d94fdfa1687ae1c"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI allegedly sent police to an AI regulation advocate’s door",
+            "bullets": [
+              "Will OpenAI send police to your door if you advocate for AI regulation?",
+              "Nathan Calvin, a lawyer who shapes policies surrounding the technology at Encode AI, claims OpenAI did just that.",
+              "OpenAI allegedly sent police to an AI regulation advocate’s door\nThe AI giant reportedly asked the advocate to turn over a trove of personal messages.",
+              "“One Tuesday night, as my wife and I sat down for dinner, a sheriff’s deputy knocked on the door to serve me a subpoena from OpenAI,” Calvin writes on X.",
+              "In addition to subpoenaing the organization he works for, Calvin claims that OpenAI subpoenaed him personally, with the sheriff’s deputy asking for his private messages with California legislators, college students, and former OpenAI employees.",
+              "“I believe OpenAI used the pretext of their lawsuit against Elon Musk to intimidate their critics and imply that Elon is behind all of them,” Calvin says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Hollywood has no idea what to do about AI",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner",
+            "site_name": "The Verge",
+            "novelty_hash": "9cd19e54a64d42f19b28065380e046387459220c"
+          },
+          "review": {
+            "headline_rewrite": "Hollywood has no idea what to do about AI",
+            "bullets": [
+              "Hollywood has no idea what to do about AI\nOpenAI is speedrunning the entertainment industry.",
+              "This week, I got an up-close look at how far apart Silicon Valley and Hollywood are on what to do about AI.",
+              "First, at OpenAI DevDay, Sam Altman presented the new Sora app as a gift to content creators.",
+              "If anything, he suggested, OpenAI was being too censorious by not allowing people to make even more kinds of AI videos.",
+              "“On the whole, creators, rights holders, people are very excited about the potential of this,” Altman said during a media Q&A in San Francisco on Monday that I attended.",
+              "It’s kind of like a new generation of fanfiction.”\nThe next day, I arrived at Bloomberg’s Screentime event in Los Angeles to hear how media executives, agents, and studio heads felt about the AI meteor that’s heading their way."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump admin fires more health employees amid government shutdown",
+            "link": "https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "965bfa3e6992f8e4a66ea6a6ee4bbd634fdd15e9"
+          },
+          "review": {
+            "headline_rewrite": "Trump admin fires more health employees amid government shutdown",
+            "bullets": [
+              "An unknown number of federal health employees received termination notifications Friday afternoon as part of a mass reduction in force by the Trump administration that senior officials and federal employment lawyers say is almost certainly illegal.",
+              "In an emailed statement to Ars Technica, HHS Communications Director Andrew Nixon said that HHS employees \"across multiple divisions\" have received termination notices.",
+              "But Nixon said that \"all HHS employees receiving reduction-in-force notices were designated non-essential by their respective divisions.\"\nNixon's statement said the terminations are \"a direct consequence of the Democrat-led government shutdown.\" In the funding dispute that led to the shutdown, Democrats are pushing for an extension of the popular ACA tax credits that are otherwise set to expire at the end of the year."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Instagram tests new layout that puts the spotlight on Reels and DMs",
+            "link": "https://www.engadget.com/social-media/instagram-tests-new-layout-that-puts-the-spotlight-on-reels-and-dms-215407062.html",
+            "site_name": "Engadget",
+            "novelty_hash": "bb41a0f87fced0a4075000c6b908fcd6d87dd99f"
+          },
+          "review": {
+            "headline_rewrite": "Instagram tests new layout that puts the spotlight on Reels and DMs",
+            "bullets": [
+              "Setting aside the long-awaited iPad version of Instagram defaulting to Reels, the company has also said publicly it plans to prioritize messaging and short-form videos moving forward.",
+              "\"Reels and DMs have driven most all our growth at Instagram over the last few years, so we are exploring making them the first two tabs,\" Mosseri said at the time."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
