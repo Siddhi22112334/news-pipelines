@@ -152028,6 +152028,64 @@
             "impact": "Negative"
           }
         }
+      ],
+      "15:45": [
+        {
+          "item": {
+            "title": "Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month",
+            "link": "https://www.wired.com/story/gear-news-of-the-week-intels-new-chips-arrive-and-apple-may-debut-ipads-and-macbooks-this-month/",
+            "site_name": "WIRED",
+            "novelty_hash": "e6a8543363f0e3fa664fb220c18aaaa7aeeb49e7"
+          },
+          "review": {
+            "headline_rewrite": "Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month",
+            "bullets": [
+              "Intel's future has never seemed so uncertain.",
+              "But most of the company's roller-coaster ride of a year has been a lead-up to its next-gen CPU launch, announced this week.",
+              "The chips will be known as Intel Core Ultra Series 3, codenamed Panther Lake, and they're being manufactured in its new Arizona-based fabrication plant.",
+              "Intel claims the first configurations will ship before the end of the year and then more broadly starting in January 2026.",
+              "Intel claims that the new integrated GPU with have up to 12 GPU cores that are also 50 percent faster than the prior generation, boosted by a new architecture.",
+              "Intel is fighting back against the stiff competition."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Oct 11, 2025 Mira Murati invests in AI startup founded by former OpenAI product manager who helped build ChatGPT",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/mira-murati-invests-in-ai-startup-founded-by-former-openai-product-manager-who-helped-build-chatgpt/articleshow/124472698.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "70892300bf9087630f6d88d6d02aaf8add366eb5"
+          },
+          "review": {
+            "headline_rewrite": "Technology Oct 11, 2025 Mira Murati invests in AI startup founded by former OpenAI product manager who helped build ChatGPT",
+            "bullets": [
+              "Mira Murati, former\nOpenAI Chief Technology Officer is backing a new artificial intelligence (AI) venture launched by one of her former colleagues, Angela Jiang.",
+              "According to a Business Insider report, Jiang â an early OpenAI product manager has started a startup called Worktrace AI.",
+              "The publication claims to have reviewed documents which reveal that Worktrace AI was in talks this summer to raise $10 million in seed funding at a $50 million valuation.",
+              "Jiang, who joined OpenAI as its third product manager, played a key role in developing the GPT models that powered ChatGPTâs viral success in late 2022.",
+              "She later worked on OpenAIâs policy team before leaving in December 2024.",
+              "Worktrace AI joins a growing list of startups founded by OpenAI alumni â including Muratiâs Thinking Machines Lab, Ilya Sutskeverâs Safe Superintelligence, and William Fedusâs Periodic Labs â that have quickly attracted billion-dollar valuations before releasing a commercial product."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
