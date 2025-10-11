@@ -154658,6 +154658,80 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Apple is winding down Clips, its forgotten video-editing app",
+            "link": "https://www.engadget.com/apple-is-winding-down-clips-its-forgotten-video-editing-app-210907085.html",
+            "site_name": "Engadget",
+            "novelty_hash": "e979cd6a90f5e92c70266f53d4025689fff10192"
+          },
+          "review": {
+            "headline_rewrite": "Apple is winding down Clips, its forgotten video-editing app",
+            "bullets": [
+              "The company said on a support page that it has stopped updating the video-editing app, and new users can no longer download it from the App Store.",
+              "Existing users on iOS and iPadOS will continue to have access for the time being, but the company hasn't said how long that will last."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "98e53ff888742b404370cde59660680445781df9"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "WEATHER\nRainy weekend conditions expected for Gillette communityNews Showcase\nStories selected by newsroom editors\nHeadlines after deadlines\nSaturday Morning Reads\nArts & Entertainment\nWeekend Events: Pride, Porchfest, and High Museum showPolitics\nSandy Springs mayoral debate sparks emotional reactionsReal Estate\nCheetah Lounge site to make way for Hub Spring StreetWEEKEND READS\nTRUMP'S MARKET GRAB\nWhat It Means For Nvidia, Intel And U.S.",
+              "31Saturday's news in Fairfax County\nDallas-Fort Worth News - Oct.",
+              "plans to leave UNESCOMorning rundown\nSEATTLE MARINERS\nJacob Thorpe: Jorge Polanco etches name in Mariners history on wLOCAL GOVERNMENT\n'Dad loved this place': Spokane honors launch of hometown star BCRIME/PUBLIC SAFETY\nMan who shot at Spokane police in 2022 receives second 20-year pSaturday News Roundup - Morning Edition\nToledo's Leader in News, Sports & Entertainment\nLatest and Local – Casper, WY\nSaturday News Roundup - Morning Edition\nEvening Headlines, Oct.",
+              "Charles library to host paleontologist on prehistoric Midwest lifeRENO MORNING HEADLINES | October 11, 2025\nThe Morning Rundown | October 11, 2025\nDaily Journal\nThe Herald News\nToday's Top Headlines\nPost and Courier\nSummerville youth yo-yo champ wins U.S.",
+              "title, goes proPost and Courier\nSC alligator hunters patrol waters for the elusive reptilePost and Courier\nSC home's viral Halloween décor sparks hot takes, 911 callsSAN FRANCISCO'S TOP STORIES\nWhat to know in New Orleans\nTRUMP TARIFFS, LOOKING AT AI\nECONOMY & POLICY\nWhat’s Next for Stocks, Treasuries After Trump’s Latest TariffsTHE ECONOMY\nGold’s Rally Reflects the U.S.",
+              "Neither Is Ending Soon.UP AND DOWN WALL STREET\n4 Ways the AI Bubble Could EndBridgeDetroit\nOct 10 2025, 9:26 PM\nDetroit looks to rezone parcels along the Joe Louis GreenwayOct 10 2025, 4:25 PM\nWhat’s in Detroit City FC community benefits proposal?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mira Murati invests in AI startup founded by former OpenAI product manager who helped build ChatGPT",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/mira-murati-invests-in-ai-startup-founded-by-former-openai-product-manager-who-helped-build-chatgpt/articleshow/124472698.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "70892300bf9087630f6d88d6d02aaf8add366eb5"
+          },
+          "review": {
+            "headline_rewrite": "Mira Murati invests in AI startup founded by former OpenAI product manager who helped build ChatGPT",
+            "bullets": [
+              "Mira Murati, former\nOpenAI Chief Technology Officer is backing a new artificial intelligence (AI) venture launched by one of her former colleagues, Angela Jiang.",
+              "According to a Business Insider report, Jiang â an early OpenAI product manager has started a startup called Worktrace AI.",
+              "The publication claims to have reviewed documents which reveal that Worktrace AI was in talks this summer to raise $10 million in seed funding at a $50 million valuation.",
+              "Jiang, who joined OpenAI as its third product manager, played a key role in developing the GPT models that powered ChatGPTâs viral success in late 2022.",
+              "She later worked on OpenAIâs policy team before leaving in December 2024.",
+              "Worktrace AI joins a growing list of startups founded by OpenAI alumni â including Muratiâs Thinking Machines Lab, Ilya Sutskeverâs Safe Superintelligence, and William Fedusâs Periodic Labs â that have quickly attracted billion-dollar valuations before releasing a commercial product."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
