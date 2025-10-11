@@ -154207,6 +154207,119 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:06": [
+        {
+          "item": {
+            "title": "Ready or not, enterprises are betting on AI",
+            "link": "https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5ddcd751574bd876162482364696ae691b1b63d1"
+          },
+          "review": {
+            "headline_rewrite": "Ready or not, enterprises are betting on AI",
+            "bullets": [
+              "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80% of customer service issues, Anthropic and IBM announcing a strategic partnership, and Deloitte also announcing a deal with Anthropic.",
+              "Plus, Google announced a new AI-for-business platform.",
+              "That doesn’t mean it’s going to be smooth sailing for big organizations using AI.",
+              "In fact, the timing of the Deloitte announcement was a bit awkward, coming on the same day the Australia Department of Employment and Workplace Relations said the professional services and consulting firm would have to pay a refund for delivering a report to the department with what appeared to be a number of AI-generated hallucinations.",
+              "On the latest episode of the Equity podcast, Kirsten Korosec, Sean O’Kane, and I discussed the latest AI headlines, contrasting it with last week’s news about the new Sora app.",
+              "While AI companies may eventually make real money from consumer social networking apps, enterprise deals offer a more immediate path to significant revenue."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Thinking Machines Lab co-founder Andrew Tulloch heads to Meta",
+            "link": "https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5e9d0e6ba69c09c814f83bc3bc6b94ddb6bd5be0"
+          },
+          "review": {
+            "headline_rewrite": "Thinking Machines Lab co-founder Andrew Tulloch heads to Meta",
+            "bullets": [
+              "Thinking Machines Lab, the AI startup led by former OpenAI CTO Mira Murati, has lost one of its co-founders to Meta.",
+              "The Wall Street Journal reports that AI researcher Andrew Tulloch announced his departure to employees in a message on Friday.",
+              "A Thinking Machine Labs spokesperson confirmed Tulloch’s departure to the WSJ, saying he “has decided to pursue a different path for personal reasons.”\nBack in August, the WSJ reported that Mark Zuckerberg’s aggressive AI recruiting blitz included an offer to acquire Thinking Machines Lab — and when that failed, Zuckerberg reportedly tried to lure Tulloch with a compensation package that could have been worth up to $1.5 billion over at least six years.",
+              "(At the time, a Meta spokesperson said that the WSJ’s description of the offer was “inaccurate and ridiculous.”)\nTulloch previously worked at OpenAI and Facebook’s AI Research Group."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple ends support for Clips video-editing app",
+            "link": "https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app",
+            "site_name": "The Verge",
+            "novelty_hash": "a2c24101ba5221bf1550d8b4165252fc7e53d89d"
+          },
+          "review": {
+            "headline_rewrite": "Apple ends support for Clips video-editing app",
+            "bullets": [
+              "Apple ends support for Clips video-editing app\nAs of October 10th it will no longer receive updates and won’t be available to download for new users.",
+              "The company also updated its support page to state clearly that “the Clips app is no longer being updated, and will no longer be available for download for new users as of October 10, 2025.” If you’ve already downloaded the app you can continue to use it on iOS and iPadOS."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions",
+            "link": "https://www.engadget.com/ai/openai-no-longer-has-to-preserve-all-of-its-chatgpt-data-with-some-exceptions-192422093.html",
+            "site_name": "Engadget",
+            "novelty_hash": "52fe13073eceefd672bc7b4a5c702dc5ffe3340b"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions",
+            "bullets": [
+              "The controversial preservation order requiring OpenAI to indefinitely keep records of its ChatGPT data has been terminated.",
+              "Wang filed a new order on October 9 that frees OpenAI of an obligation to \"preserve and segregate all output log data that would otherwise be deleted on a going forward basis.\"\nThe case kicked off in late 2023, with the New York Times suing OpenAI for copyright infringement, alleging that the AI giant trained its models with the news outlet's intellectual property without proper compensation.",
+              "In May of this year, OpenAI was ordered to retain all of its chat logs so that the NYT could investigate claims of copyright violation.",
+              "In response, OpenAI appealed the court order, arguing that the preservation order was an \"overreach\" and risks its users' privacy.",
+              "However, this latest decision means the AI giant no longer has to preserve chat logs as of September 26, except for some.",
+              "The judge in the case said that any chat logs already saved under the previous order would still be accessible and that OpenAI is required to hold on to any data related to ChatGPT accounts that have been flagged by the NYT."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anbernic's modern-day Nintendo DS dupe is cheaper than the original",
+            "link": "https://www.engadget.com/gaming/anbernics-modern-day-nintendo-ds-dupe-is-cheaper-than-the-original-174405199.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1e93ed54628b02959458322224efabc86484d5a5"
+          },
+          "review": {
+            "headline_rewrite": "Anbernic's modern-day Nintendo DS dupe is cheaper than the original",
+            "bullets": [
+              "The company didn't offer many details for its Nintendo DS clone, but announced that it would cost less than $100.",
+              "Beyond price, Anbernic hinted at a possible new chip and showed off four colorways, including black/red, teal, white and transparent.",
+              "Once available, the Anbernic RG DS will compete against the more premium Ayn Thor that starts at $250."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "7a804d5d77c40442aacd9ebef97c479329d8819b"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Busted\nEscondido distracted-driving crackdown nets 92 citationsNews Showcase\nStories selected by newsroom editors\nHeadlines after deadlines\nSaturday Morning Reads\nArts & Entertainment\nWeekend Events: Pride, Porchfest, and High Museum showPolitics\nSandy Springs mayoral debate sparks emotional reactionsReal Estate\nCheetah Lounge site to make way for Hub Spring StreetTucson's watchdog news\nWhat the Devil won't tell you\nAll roads lead to Phx when it comes to Tucson's transit safetyJudge:\nTrump admin can delay border wall lawsuit during gov't shutdownTo-do list\nMusic, mandalas & fall events coming to Tucson WEEKEND READS\nTRUMP'S MARKET GRAB\nWhat It Means For Nvidia, Intel And U.S.",
+              "EconomyCHINA TRADE WAR\nTrump Fires 100% Tariff As China Blocks Rare-Earth ExportsPERSONAL FINANCE\n5 New Ways To Close The Retirement Savings GapBerkeley news this week\nPBS kids show revival\n\"Reading Rainbow\" reboot filmed in West Berkeley library'Take actual action'\nWhy this Berkeley poet is training to fight wildfiresThe latest addition\nA new Berkeley boba shop beckonsLatest and Local – Gillette, WY\nIn Brief\nTaylor Swift's accent\nResearchers chart evolution of Swift's voiceChinese import tariffs\nTrump threatens export limits, new 100% tariffColumbus Day proclamation\nTrump wants to take back explorer's legacyMorris Herald News\nMorris Herald News\nMorris Downtown Trick or Treat set for Thursday, Oct.",
+              "Cobb climate summary & weather forecast for Saturday, October 11NORTHEAST GEORGIA\nJAMESTOWN ND NEWS\nSaturday's news in Arlington, Virginia\nSaturday News Roundup - Morning Edition\nThe Business Journal of the Boulder Valley and Northern Colorado\nSEMICONDUCTORS\nExpanding Micron seeks incentives from LongmontARTS & ENTERTAINMENT\nCandlelight Dinner Playhouse to keep expansion close to homeMANUFACTURING\nSchlosser Signs moves into expanded Windsor HQNews\nWashington Examiner\nSeattle nonprofit will bus advocates to Spokane to campaign for local progressivesWashington Examiner\nUS Senate unanimously endorses repeal of 2002 Iraq war resolutionWashington Examiner\nAll presumed dead after powerful Tennessee explosion: SheriffLatest and Local – Casper, WY\nSaturday's news in Fairfax County\nWhat to know in Baton Rouge\nLatest news for Mountlake Terrace\nWA responds to church lawsuit\nPriests don't have to report child abuse disclosed in confessionOct.",
+              "31A Tale of Two Entertainment Zones\nBridge Michigan\nOct 10 2025, 3:42 PM\nWhat to know about Michigan whitefish crisis, from limits...Oct 10 2025, 3:07 PM\nWhitefish crash has Michigan fishers on the brink: ‘It ma...Oct 10 2025, 12:00 PM\nBridge Michigan News Quiz: Oct.",
+              "11, 2025\nSAN FRANCISCO'S TOP STORIES\nThe Morning Rundown | October 11, 2025\nThe Herald News\nSTGnews Headlines\nDaily Journal\nDaily Chronicle\nBRAINERD MINNESOTA NEWS\nROCHESTER MINNESOTA NEWS\nWILLMAR MINNESOTA NEWS\nMorning rundown\nSEATTLE MARINERS\nJacob Thorpe: Jorge Polanco etches name in Mariners history on wLOCAL GOVERNMENT\n'Dad loved this place': Spokane honors launch of hometown star BCRIME/PUBLIC SAFETY\nMan who shot at Spokane police in 2022 receives second 20-year pMilwaukee Area Business News\nEntertainment & Arts\nTODAY IN SANTA CRUZ COUNTY\nALEXANDRIA MINNESOTA NEWS\nGRAND FORKS ND NEWS\nMorning Headlines\nSports - High School Sports\nFriday football report: Brentwood Academy slips past BriarcrestMetro - Behind The Headlines\nCounty commissioners split on whether to fight Harris' vetoGames\nDaily Jigsaw: Music at MemphoTRUMP TARIFFS, LOOKING AT AI\nECONOMY & POLICY\nWhat’s Next for Stocks, Treasuries After Trump’s Latest TariffsTHE ECONOMY\nGold’s Rally Reflects the U.S.",
+              "Neither Is Ending Soon.UP AND DOWN WALL STREET\n4 Ways the AI Bubble Could EndSoMd Morning Headlines for 10/11/2025\nHappening in Loudoun County\nWhat Utah is buzzing about\nTad Callister\nLDS leader known for conservative politics dies at 79‘Jaw-dropping ride’\nLagoon Amusement Park plans to open a giant ride in 2026Ready to ride?"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
