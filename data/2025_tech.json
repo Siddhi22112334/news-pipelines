@@ -162842,6 +162842,119 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:44": [
+        {
+          "item": {
+            "title": "Grindr’s owners may take it private after a financial squeeze",
+            "link": "https://techcrunch.com/2025/10/13/grindrs-owners-may-take-it-private-after-a-financial-squeeze/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "087f9a15e150f3939ff3dc5cb85b00377e919f8e"
+          },
+          "review": {
+            "headline_rewrite": "Grindr’s owners may take it private after a financial squeeze",
+            "bullets": [
+              "expat now based in Singapore, and James Lu, a Chinese-American entrepreneur and former Amazon and Baidu exec.",
+              "Together they led the 2020 acquisition of Grindr from Chinese ownership for over $600 million, then took the app public in 2022 through a blank-check merger.",
+              "Either way, the pair are now said to be in talks with Fortress Investment Group – itself now majority owned by Mubadala Investment Company, which is itself owned by the government of Abu Dhabi – to secure financing for a buyout at around $15 per share, which would value Grindr at around $3 billion."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge",
+            "link": "https://techcrunch.com/2025/10/13/goldman-sachs-is-acquiring-industry-ventures-for-up-to-965m-as-alternative-vc-exits-surge/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e676cf67e76ef81e5208e48d8ade476a8887fbfb"
+          },
+          "review": {
+            "headline_rewrite": "Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge",
+            "bullets": [
+              "The deal underscores the growing importance of secondary markets and buyouts as traditional venture exits remain sluggish.",
+              "The acquisition comes as venture funds increasingly turn to non-traditional exits amid a prolonged IPO drought.",
+              "Speaking on TechCrunch’s StrictlyVC Download podcast earlier this year, Industry Ventures founder and CEO Hans Swildens said that tech buyout funds now account for 25% of all liquidity in the entire venture ecosystem—”a huge chunk of liquidity,” he said.",
+              "Swildens explained that venture managers are being forced to adapt their approach.",
+              "“Just going out and seeing companies, putting them in your fund and then waiting for an IPO or strategic M&A exit probably won’t work anymore,” he said in the podcast interview.",
+              "“All the brand name funds are all staffing and thinking through liquidity structures,” Swildens said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft AI announces first image generator created in-house",
+            "link": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house",
+            "site_name": "The Verge",
+            "novelty_hash": "50ea01eddee8f305439949162565827d17093349"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft AI announces first image generator created in-house",
+            "bullets": [
+              "Microsoft AI just announced its first text-to-image generator, MAI-Image-1, designed and developed in-house.",
+              "The tech giant, which recently announced its first in-house Microsoft AI models, called the new image generator “the next step on our journey.”\nMicrosoft AI announces first image generator created in-house\nThe model has already secured a spot in the top 10 of LMArena.",
+              "Microsoft says it sought feedback from creative professionals in order to avoid “repetitive or generically-stylized outputs.” MAI-Image-1 “excels” at photorealistic imagery like lightning, landscapes, and more, the company claims.",
+              "And it can process requests and produce images faster than “larger, slower models.” The model has already secured a spot in the top 10 of LMArena, the AI benchmark site where humans compare outputs from different systems and vote on the best one.",
+              "MAI-Image-1 joins Microsoft’s other AI products, voice generator MAI-Voice-1 AI and chatbot MAI-1-preview.",
+              "The company was an early funder of OpenAI, but the two companies’ relationship has grown increasingly complicated."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook is adding job listings, again",
+            "link": "https://www.theverge.com/tech/798921/facebook-local-jobs-us",
+            "site_name": "The Verge",
+            "novelty_hash": "0b428fa793b14a83b707b1c4e028817cbe6ee658"
+          },
+          "review": {
+            "headline_rewrite": "Facebook is adding job listings, again",
+            "bullets": [
+              "Facebook is adding job listings, again\nFree job listings are returning to Facebook after being retired a couple of years ago.",
+              "Jobs are available only to those 18 and older, and must meet Facebook’s guidelines.",
+              "It’s certainly my preferred platform when I want to find out why the county sheriff’s helicopter is circling the neighborhood on a Tuesday afternoon.",
+              "This conduct is prohibited by the discrimination policy that applies to anyone using the new job posting tool, thankfully.",
+              "Facebook’s re-launched jobs feature is available starting today, and only in the US."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Hackers can steal 2FA codes and private messages from Android phones",
+            "link": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c754529811d84ed97ceebe48500ea9cf8f76a4f4"
+          },
+          "review": {
+            "headline_rewrite": "Hackers can steal 2FA codes and private messages from Android phones",
+            "bullets": [
+              "Google released mitigations last month, but the researchers said a modified version of the attack works even when the update is installed.",
+              "“Chat messages, 2FA codes, email messages, etc."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft debuts its first in-house AI image generator",
+            "link": "https://www.engadget.com/microsoft-debuts-its-first-in-house-ai-image-generator-224153867.html",
+            "site_name": "Engadget",
+            "novelty_hash": "b0c2d2baf2824d2558b7822af57a0a2402da24c6"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft debuts its first in-house AI image generator",
+            "bullets": [
+              "Microsoft is continuing to roll out in-house AI models, further decreasing its reliance on long-standing partnership with OpenAI.",
+              "Today, the company introduced MAI-Image-1, its first internally-developed image-generating AI model.",
+              "According to the blog post, MAI-Image-1 is particularly good for creating photorealistic results, and can generate natural lighting and landscapes.",
+              "For now, the model is being tested on LMArena, and Microsoft said it plans to roll out MAI-Image-1 to Copilot and its Bing Image Creator \"very soon.\"\nOver the summer, Microsoft made its first break from collaborating with OpenAI when it unveiled its first two in-house trained models, MAI-Voice-1 and MAI-1-preview.",
+              "At that time, Microsoft AI division leader Mustafa Suleyman said in an interview that the company had \"an enormous five-year roadmap that we're investing in quarter after quarter.\" So far, it's at least setting a solid clip of releases."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
