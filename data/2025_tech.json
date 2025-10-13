@@ -162278,6 +162278,117 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:09": [
+        {
+          "item": {
+            "title": "Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM",
+            "link": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b89833173d4a0ea81b2cd407d1ba90fcba31d02a"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM",
+            "bullets": [
+              "Google began experimenting with conversational image editing earlier this year in the dev-focused AI studio, but the feature didn't remain experimental for long.",
+              "The AI image editor is coming to search via Lens and AI Mode.",
+              "Tap that to enter a prompt, telling the AI how you'd like the photo changed.",
+              "When you begin an edit in Lens, the Google app will display the results and offer the chance for follow-up edits in the AI Mode interface."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google will let you hide sponsored results in search — after you’ve seen them",
+            "link": "https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them",
+            "site_name": "The Verge",
+            "novelty_hash": "6a69199e0c49bc444553370a3ce8984bb7b1e824"
+          },
+          "review": {
+            "headline_rewrite": "Google will let you hide sponsored results in search — after you’ve seen them",
+            "bullets": [
+              "Currently, Google labels paid results on search pages individually with a “sponsored” tag on each one.",
+              "This change groups them all into a collapsable section at the top of the page with a single, larger label that remains in view as you scroll.",
+              "Tap the button to hide them and they’ll remain collapsed under that sponsored heading; tapping again to show sponsored results unfurls them.",
+              "Over the years, Google has made its paid search results look more and more like organic results, with plenty of backlash along the way.",
+              "The company shifted from labeling paid results as “ads” to “sponsored” around 2020."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "To shield kids, California hikes fake nude fines to $250K max",
+            "link": "https://arstechnica.com/tech-policy/2025/10/to-shield-kids-california-hikes-fake-nude-fines-to-250k-max/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8df298233a15b3d2aa436390914598cd16f78e89"
+          },
+          "review": {
+            "headline_rewrite": "To shield kids, California hikes fake nude fines to $250K max",
+            "bullets": [
+              "California is cracking down on AI technology deemed too harmful for kids, attacking two increasingly notorious child safety fronts: companion bots and deepfake pornography.",
+              "Moving forward, California will require any companion bot platforms—including ChatGPT, Grok, Character.AI, and the like—to create and make public \"protocols to identify and address users’ suicidal ideation or expressions of self-harm.\"\nThey must also share \"statistics regarding how often they provided users with crisis center prevention notifications to the Department of Public Health,\" the governor's office said.",
+              "Further, companion bots will be banned from claiming that they're therapists, and platforms must take extra steps to ensure child safety, including providing kids with break reminders and preventing kids from viewing sexually explicit images.",
+              "Now any victims, including minors, can seek up to $250,000 in damages per deepfake from any third parties who knowingly distribute nonconsensual sexually explicit material created using AI tools.",
+              "American families “are in a battle” with AI\nThe companion bot law's sponsor, Democratic Senator Steve Padilla, said in a press release celebrating the signing that the California law demonstrates how to \"put real protections into place\" and said it \"will become the bedrock for further regulation as this technology develops.\""
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla Cybertruck sales are flatlining",
+            "link": "https://www.theverge.com/news/798889/tesla-cybertruck-sales-decrease-q3-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "fc9a6e934da8f16ba7475e4b2820d0cf1cc309fe"
+          },
+          "review": {
+            "headline_rewrite": "Tesla Cybertruck sales are flatlining",
+            "bullets": [
+              "Shoppers rushed to snatch up available EVs before the expiration of the $7,500 tax credit on September 30th.",
+              "And then there was the news that the families of two young people killed in a fiery Cybertruck crash are suing Tesla over faulty door handles they claim impeded their loved ones’ escape.",
+              "As Electrek reports, Tesla has been delivering unsold Cybertrucks to Musk’s private companies, SpaceX and xAI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best PC Monitor for Most People Is $75 Off",
+            "link": "https://www.wired.com/story/dell-27-plus-deal-1025/",
+            "site_name": "WIRED",
+            "novelty_hash": "8b524c595c6ad752023e55edd4a4cb0d72d0db81"
+          },
+          "review": {
+            "headline_rewrite": "The Best PC Monitor for Most People Is $75 Off",
+            "bullets": [
+              "It also has a 120Hz refresh rate, so while you may want to consider a dedicated screen for gaming, you can certainly jam some weekend Fortnite rounds.",
+              "It has internal speakers too, and our reviewer Luke Larsen was impressed with how they stack up against most built-in monitor speakers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google's Nano Banana AI-image editing is coming to Search, NotebookLM and Photos",
+            "link": "https://www.engadget.com/ai/googles-nano-banana-ai-image-editing-is-coming-to-search-notebooklm-and-photos-184111046.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4a6bd858c3449fa4cd69d36d4f9689bb5d3f881f"
+          },
+          "review": {
+            "headline_rewrite": "Google's Nano Banana AI-image editing is coming to Search, NotebookLM and Photos",
+            "bullets": [
+              "Google's Nano Banana AI image editor became something of a viral sensation when it launched last month.",
+              "Now the tool is being integrated into a bunch of pre-existing Google products, like Search, NotebookLM and Photos.",
+              "For the uninitiated, Video Overviews is a neat little tool available to NotebookLM users that automatically generates explainer videos from documents.",
+              "The AI-heavy update starts rolling out to Pro users this week and to all users in \"the upcoming weeks.\"\nSearch integration offers new ways to make and edit images while using the official Google app.",
+              "Additionally, photos can be snapped directly from the Lens tool and then edited via the AI.",
+              "We don't have any actual information as to what the Photos integration will look like, with Google simply saying it's bringing Nano Banana to the platform in \"the weeks ahead.\" The company promises more details soon."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
