@@ -161002,6 +161002,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:47": [
+        {
+          "item": {
+            "title": "NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin",
+            "link": "https://blogs.nvidia.com/?p=85537",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "0d78deef569958ce8cf752b9eb18d28588fbf133"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin",
+            "bullets": [
+              "At the OCP Global Summit, NVIDIA is offering a glimpse into the future of gigawatt AI factories.",
+              "NVIDIA will unveil specs of the NVIDIA Vera Rubin NVL144 MGX-generation open architecture rack servers, which more than 50 MGX partners are gearing up for along with ecosystem support for NVIDIA Kyber, which connects 576 Rubin Ultra GPUs, built to support increasing inference demands.",
+              "Foxconn provided details on its 40-megawatt Taiwan data center, Kaohsiung-1, being built for 800 VDC.",
+              "CoreWeave, Lambda, Nebius, Oracle Cloud Infrastructure and Together AI are among other industry pioneers designing for 800-volt data centers.",
+              "HPE is announcing product support for NVIDIA Kyber as well as NVIDIA Spectrum-XGS Ethernet scale-across technology, part of the Spectrum-X Ethernet platform.",
+              "Vera Rubin NVL144: Designed to Scale for AI Factories\nThe NVIDIA Vera Rubin NVL144 offers a major leap in accelerated computing architecture and AI performance."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "California becomes first state to regulate AI companion chatbots",
+            "link": "https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c37d953f96af0c93f0c05a493c82733196e2731d"
+          },
+          "review": {
+            "headline_rewrite": "California becomes first state to regulate AI companion chatbots",
+            "bullets": [
+              "California Governor Gavin Newsom signed a landmark bill on Monday that regulates AI companion chatbots, making it the first state in the nation to require AI chatbot operators to implement safety protocols for AI companions.",
+              "The law, SB 243, is designed to protect children and vulnerable users from some of the harms associated with AI companion chatbot use.",
+              "It holds companies — from the big labs like Meta and OpenAI to more focused companion startups like Character AI and Replika — legally accountable if their chatbots fail to meet the law’s standards.",
+              "SB 243 was introduced in January by state senators Steve Padilla and Josh Becker, and gained momentum after the death of teenager Adam Raine, who died by suicide after a long series of suicidal conversations with OpenAI’s ChatGPT.",
+              "More recently, a Colorado family has filed suit against role-playing startup Character AI after their 13-year-old daughter took her own life following a series of problematic and sexualized conversations with the company’s chatbots.",
+              "“Emerging technology like chatbots and social media can inspire, educate, and connect — but without real guardrails, technology can also exploit, mislead, and endanger our kids,” Newsom said in a statement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI partners with Broadcom to produce its own AI chips",
+            "link": "https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips",
+            "site_name": "The Verge",
+            "novelty_hash": "8ffa8bd1cb06b78164d520c6567a376a4c903c82"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI partners with Broadcom to produce its own AI chips",
+            "bullets": [
+              "OpenAI is teaming up with Broadcom to produce its own computer chips to power its AI data centers.",
+              "The deal is the latest in a series of partnerships designed to reduce the company’s reliance on Nvidia and secure enough computing power to fuel apps like ChatGPT and Sora and realize its mission to develop superintelligent AI.",
+              "OpenAI partners with Broadcom to produce its own AI chips\nChipping away at Nvidia’s dominance one deal at a time.",
+              "OpenAI said designing its own chips allows it to “embed what it’s learned from developing frontier models and products directly into the hardware, unlocking new levels of capability and intelligence.”\nThe partnership, announced Monday, will enable OpenAI to develop and deploy “10 gigawatts of custom AI accelerators” using its own chips and systems.",
+              "Broadcom is expected to start deploying racks of equipment in the second half of 2026 and the deal should finish by the end of 2029, the announcement said.",
+              "OpenAI co-founder and CEO Sam Altman said the partnership “is a critical step in building the infrastructure needed to unlock AI’s potential and deliver real benefits for people and businesses.”\nThe announcement comes after OpenAI struck a six gigawatt deal with AMD and a 10 gigawatt deal with Nvidia."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Slate Auto’s electric truck: See it here first at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/13/slate-autos-electric-truck-see-it-here-first-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "96d31c0ee6798a6c7c03f412cc6764e23577a98f"
+          },
+          "review": {
+            "headline_rewrite": "Slate Auto’s electric truck: See it here first at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Be in the room for this live EV unveiling on the main stage.",
+              "How Slate is reinventing the commercial EV market — live on stage\nBarman will give attendees an insider’s look at how Slate is reimagining the commercial EV market — from design to manufacturing — and share what it takes to build a next-generation vehicle company in one of the most capital-intensive industries on Earth.",
+              "Expect an unfiltered conversation about the realities of hardware innovation, supply chain complexity, and startup-scale production, plus a live, in-person reveal of one of the year’s buzziest new EVs.",
+              "About Chris Barman\nBarman also spent more than 20 years at Chrysler in leadership roles across engineering, systems, and product development — pioneering innovations in autonomous driving, electrical systems, and driver-assistance technologies.",
+              "A Purdue-trained mechanical engineer and University of Michigan MBA, she’s passionate about mentoring the next generation of women engineers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Palmer Luckey&#8217;s Anduril launches EagleEye military helmet with help from buddy Zuck",
+            "link": "https://www.theverge.com/news/798821/anduril-eagleeye-palmer-luckey-mark-zuckerberg-meta-military-mr",
+            "site_name": "The Verge",
+            "novelty_hash": "db22ad440bfaf7d6ee5ea62e85b57adaa85d85ad"
+          },
+          "review": {
+            "headline_rewrite": "Palmer Luckey&#8217;s Anduril launches EagleEye military helmet with help from buddy Zuck",
+            "bullets": [
+              "Anduril, the military tech company founded by Oculus creator Palmer Luckey, has announced the first hardware to come out of its recent partnership with Meta: EagleEye, an AI-powered mixed-reality (MR) system designed to be built into soldiers’ helmets.",
+              "Palmer Luckey’s Anduril launches EagleEye military helmet with help from buddy Zuck\nAnduril partnered up with Meta for its new mixed-reality helmet.",
+              "“The idea of an AI partner embedded in your display has been imagined for decades.",
+              "EagleEye is the first time it’s real.”\nAnduril, which also manufactures border control tech, lethal drones, and military aircraft, has been developing EagleEye since its inception, and already provides software for the Army’s existing MR goggles, based on Microsoft’s HoloLens hardware.",
+              "“I am glad to be working with Meta once again,” Luckey said in a blog post at the time.",
+              "“My mission has long been to turn warfighters into technomancers, and the products we are building with Meta do just that.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
+            "link": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "25b9141315fab483b3b801f5befae5bee781335d"
+          },
+          "review": {
+            "headline_rewrite": "Software update bricks some Jeep 4xe hybrids over the weekend",
+            "bullets": [
+              "Owners of some Jeep Wrangler 4xe hybrids have been left stranded after installing an over-the-air software update this weekend.",
+              "The automaker pushed out a telematics update for the Uconnect infotainment system that evidently wasn't ready, resulting in cars losing power while driving and then becoming stranded.",
+              "Stranded Jeep owners have been detailing their experiences in forum and Reddit posts, as well as on YouTube.",
+              "Instead, the failure appears to occur while driving—a far more serious problem.",
+              "For some, this happened close to home and at low speed, but others claim to have experienced a powertrain failure at highway speeds.",
+              "Owners were also advised to avoid using either hybrid or electric modes if they had updated their 4xe and not already suffered a powertrain failure."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
