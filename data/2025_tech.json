@@ -161699,6 +161699,119 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:53": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "4165f35f35e7c6e168cfd893436f3d785d15f5b9"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)\nThis week I was at the inaugural AWS AI in Practice meetup from the AWS User Group UK.",
+              "AI-assisted software development and agents were the focus of the evening!",
+              "My sessions there will be about AI agents and context engineering.",
+              "I am also excited to try the new Amazon Quick Suite that brings AI-powered research, business intelligence, and automation capabilities into a single workspace.",
+              "Last week’s launches\nHere are the launches that got my attention this week:\n- Amazon Quick Suite – A new agentic teammate that quickly answers your questions at work and turns those insights into actions for you.",
+              "Read more in Esra’s launch post."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New AI-powered features help you connect with web content in Search and Discover.",
+            "link": "https://blog.google/products/search/ai-features-web-content/",
+            "site_name": "Google",
+            "novelty_hash": "d2ae563bb95113ff72ebb5b7e43b7db36dab2774"
+          },
+          "review": {
+            "headline_rewrite": "New AI-powered features help you connect with web content in Search and Discover.",
+            "bullets": [
+              "We’re introducing two new AI-powered features in Search and Discover to help you connect with fresh content and links from across the web.",
+              "First, we’ve rolled out an upgraded AI-powered feature in Discover that helps you stay up to date on trending topics you care about.",
+              "This feature is now available in the U.S., South Korea and India."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "New California law requires AI to tell you it’s AI",
+            "link": "https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "84c28d7c77977f468080157cd3ab01bebc22bf14"
+          },
+          "review": {
+            "headline_rewrite": "New California law requires AI to tell you it’s AI",
+            "bullets": [
+              "A bill attempting to regulate the ever-growing industry of companion AI chatbots is now law in California, as of October 13th.",
+              "New California law requires AI to tell you it’s AI\nSB 243 institutes new safeguards on AI chatbots.",
+              "Gavin Newsom signed into law Senate Bill 243, billed as “first-in-the-nation AI chatbot safeguards” by state senator Anthony Padilla.",
+              "The new law requires that companion chatbot developers implement new safeguards — for instance, “if a reasonable person interacting with a companion chatbot would be misled to believe that the person is interacting with a human,” then the new law requires the chatbot maker to “issue a clear and conspicuous notification” that the product is strictly AI and not human.",
+              "“Emerging technology like chatbots and social media can inspire, educate, and connect – but without real guardrails, technology can also exploit, mislead, and endanger our kids,” Newsom said in a statement on signing the bill, along with several other pieces of legislation aimed at improving online safety for children, including new age-gating requirements for hardware.",
+              "“We can continue to lead in AI and technology, but we must do it responsibly — protecting our children every step of the way."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple TV Plus is being rebranded to… Apple TV",
+            "link": "https://www.theverge.com/news/798857/apple-tv-plus-rebrand-streaming-service",
+            "site_name": "The Verge",
+            "novelty_hash": "6d38b8c058f674d7cacb4c043e0f446a5e76674c"
+          },
+          "review": {
+            "headline_rewrite": "Apple TV Plus is being rebranded to… Apple TV",
+            "bullets": [
+              "Even the wording on Apple’s own announcement highlights the muddled branding, saying that F1 is available to purchase on Apple TV “ahead of its global streaming debut on Apple TV,” and that “Apple TV is available on the Apple TV app” on devices like… you got it, Apple TV.",
+              "Apple hasn’t shared any other details about the new branding for its streaming service, so it’s unclear if it will be introducing an updated logo, or finding other ways to distinguish it from existing products."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "California enacts age-gate law for app stores",
+            "link": "https://www.engadget.com/california-enacts-age-gate-law-for-app-stores-172802711.html",
+            "site_name": "Engadget",
+            "novelty_hash": "dc0e55f309b38cdb7a7428aa7331b6375e18ee0d"
+          },
+          "review": {
+            "headline_rewrite": "California enacts age-gate law for app stores",
+            "bullets": [
+              "The legislation received backing from notable tech companies such as Google, OpenAI, Meta, Snap and Pinterest.",
+              "The companies claimed the bill offered a more balanced approach to age verification, with more privacy protection, than laws passed in other states.",
+              "The operating system and/or app store will place the user into one of four age categories (under 13, 13-16, 16-18 or adult) and make that information available to app developers.",
+              "Apple has detailed how it plans to comply with the Texas law, which takes effect on January 1, 2026.",
+              "Elsewhere, California will require AI chatbots to have guardrails in place to prevent self-harm content from appearing and direct users who express suicidal ideation to crisis services.",
+              "Platforms will need to inform the Department of Public Health about how they're addressing self-harm and to share details on how often they display crisis center prevention notifications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Get up to $700 off a new Microsoft Copilot+ PC before Windows 10 support ends",
+            "link": "https://www.engadget.com/deals/get-up-to-700-off-a-new-microsoft-copilot-pc-before-windows-10-support-ends-165735272.html",
+            "site_name": "Engadget",
+            "novelty_hash": "00785f1495ccefc6d030bb6e3b0a2593ba17e95e"
+          },
+          "review": {
+            "headline_rewrite": "Get up to $700 off a new Microsoft Copilot+ PC before Windows 10 support ends",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Other deals include the HP Omen gaming laptop with an AMD Ryzen AI 9 HX 375 and NVIDIA GeForce RTX 5070 Ti for $2,000 instead of $2,380 and the MSI Codex gaming desktop with an NVIDIA GeForce RTX 5070 GPU for $1,460 instead of $1,600.",
+              "There are plenty of other discounted laptops, desktops and accessories on the main sale page.",
+              "There is a way for users to get an additional 12 months of support via the company's Extended Security Updates plan."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
