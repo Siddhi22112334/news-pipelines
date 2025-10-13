@@ -160646,6 +160646,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:18": [
+        {
+          "item": {
+            "title": "How Google is investing in South Carolina to expand AI infrastructure and support local workforce programs.",
+            "link": "https://blog.google/inside-google/company-announcements/google-american-innovation-south-carolina/",
+            "site_name": "Google",
+            "novelty_hash": "4ab55eb6a202eefc6a10a80f8722ac51cbffff0f"
+          },
+          "review": {
+            "headline_rewrite": "How Google is investing in South Carolina to expand AI infrastructure and support local workforce programs.",
+            "bullets": [
+              "This funding will expand our Berkeley County data center campus and support the continued construction of two new sites in Dorchester County, strengthening the state's role as a critical hub for American infrastructure.",
+              "To ensure South Carolinians can access the opportunities created by this growth, we're also providing a Google.org grant to the Electrical Training Alliance (etA).",
+              "This grant will help integrate AI tools into etA’s training, preparing more than 160 apprentices for careers in the state's growing tech and energy sector.",
+              "as a world leader in AI innovation."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Bringing the best AI to university students in Europe, the Middle East, and Africa, at no cost",
+            "link": "https://blog.google/products/gemini/bringing-the-best-ai-to-university-students-in-europe-the-middle-east-and-africa-at-no-cost/",
+            "site_name": "Google",
+            "novelty_hash": "74073bfdb165636395e0ddb069ac1cef6650daa4"
+          },
+          "review": {
+            "headline_rewrite": "Bringing the best AI to university students in Europe, the Middle East, and Africa, at no cost",
+            "bullets": [
+              "Bringing the best AI to university students in Europe, the Middle East, and Africa, at no cost\nSince the earliest days of Search and YouTube, learning has been core to Google’s mission: helping people access the information that addresses their insatiable curiosity.",
+              "With Gemini, we aim to equip the next generation with foundational AI skills and the most capable models to enable them to thrive in the classroom and prepare for the future workforce.",
+              "We recently rolled out new Gemini learning features, and now, we're making our most advanced AI tools available to university students around the world, free of charge for one year.",
+              "Students ages 18+ in Europe, the Middle East, and Africa can sign up for a 12 month Google AI Pro Plan at no cost, which includes our most advanced AI tools:\n- Expanded access to Gemini 2.5 Pro: Ask questions and upload images.",
+              "- NotebookLM: A one-of-a-kind thinking companion that helps organize your thoughts, now with more audio and video overviews\n- Veo 3: Transform text or a photo into a 8-second video with sound\n- Nano Banana: Transform images in amazing new ways with higher access on 2.5 Pro\n- 2 TB of storage: tons of space for notes, projects, photos and papers on Google Photos, Drive and Gmail\nLearn more and sign up for the 12-month Google AI Pro plan, at no cost, by December 9th.",
+              "Helping students get the most out of Gemini\nAI can broaden and expand access to knowledge in powerful ways, helping anyone, anywhere learn anything in the way that works best for them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Salesforce announces Agentforce 360 as enterprise AI competition heats up",
+            "link": "https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "21417c512f17d1e0e98b25339c89a0846e09136a"
+          },
+          "review": {
+            "headline_rewrite": "Salesforce announces Agentforce 360 as enterprise AI competition heats up",
+            "bullets": [
+              "Salesforce announced Monday the latest version of its AI agent platform as the company looks to lure enterprises to its AI software in an increasingly crowded market.",
+              "This newer version of Agentforce includes new ways to instruct AI agents through text, a new platform to build and deploy agents, and new infrastructure for messaging app Slack, among others.",
+              "A notable aspect of Agentforce 360 is its new AI agent prompting tool, called Agent Script, which will be released in beta in November.",
+              "Agent Script gives users the ability to program their AI agents to be more flexible and better respond to “if/then” situations.",
+              "This allows AI agents to be programmed to be more predictable in less rigid situations like customer questions.",
+              "Users can tap into “reasoning” models, which claim to think before responding as opposed to responding based on patterns."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anduril’s new EagleEye MR helmet sees Palmer Luckey return to his VR roots",
+            "link": "https://techcrunch.com/2025/10/13/andurils-new-eagleeye-mr-helmet-sees-palmer-luckey-return-to-his-vr-roots/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "05dd2da57738de90d5d2490e20fd1604ddb5258f"
+          },
+          "review": {
+            "headline_rewrite": "Anduril’s new EagleEye MR helmet sees Palmer Luckey return to his VR roots",
+            "bullets": [
+              "In the latest bid by a Silicon Valley defense firm to assert its own solution for the Army’s mixed-reality ambitions, Anduril Industries on Monday unveiled “EagleEye,” a helmeted computing system that seeks to turn soldiers into AI-augmented warfighters.",
+              "The launch is notable given that the initiative is led by Anduri’s co-founder Palmer Luckey, who previously started the pioneering VR company, Oculus, which was acquired by Meta.",
+              "Anduril describes EagleEye as a modular “family of systems” built atop its Lattice software that puts command-and-control tools, sensor feeds, and AI directly into a soldier’s field of vision.",
+              "The company claims the system can integrate live video feeds; features rear- and side-sensors to alert operators to threats; and can track teammates in real-time.",
+              "The launch comes as the U.S.",
+              "Anduril said the award was “the largest effort of its kind” to outfit “every soldier with superhuman perception and decision-making capabilities.”\nEarlier this year, Anduril also announced a partnership with Meta to develop extended reality (XR) devices for the military, marking an unexpected reunion between Luckey and his former employer."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Slack is turning Slackbot into an AI assistant",
+            "link": "https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade",
+            "site_name": "The Verge",
+            "novelty_hash": "491e1e50673deabc47169d99fffabdca59341d69"
+          },
+          "review": {
+            "headline_rewrite": "Slack is turning Slackbot into an AI assistant",
+            "bullets": [
+              "Slack is testing an update for Slackbot that transforms it into an AI assistant.",
+              "With the update, Slackbot can create custom plans tailored to your workspace, sift through a mountain of messages, gather information from a range of Slack channels, and more.",
+              "Slack is turning Slackbot into an AI assistant\nThe revamped Slackbot acts more like an AI companion that can help you create plans, schedule meetings, find files, and more.",
+              "“Slackbot today is fairly rudimentary,” Rob Seaman, the chief product officer of Slack at Salesforce, tells The Verge.",
+              "“But what we’ve done is we’ve actually rebuilt it from the ground up as a personalized AI companion.”\nIn a demo seen by The Verge, Slack showed how the AI-upgraded Slackbot can perform more complex tasks, such as organizing a product’s launch plan inside a Canvas by gathering information across different Slack channels, as well as help create a social media campaign using a brand’s tone.",
+              "That means if you’re looking for a document but can’t nail down the specific keyword it was attached to, you can ask Slackbot something like “Find me the document that Jay shared in our last meeting.” It can also tap into Microsoft Outlook and Google Calendar to coordinate and schedule meetings with colleagues."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "3 Best Smart Displays (2025): Tested By a Smart Home Addict",
+            "link": "https://www.wired.com/gallery/best-smart-displays/",
+            "site_name": "WIRED",
+            "novelty_hash": "e1146a6e17b8f91aede04aa2cf1d80a78851062c"
+          },
+          "review": {
+            "headline_rewrite": "3 Best Smart Displays (2025): Tested By a Smart Home Addict",
+            "bullets": [
+              "Echo Show 15 for $300: This is the largest of them all, with a 15.6-inch display, and it has customizable widgets so you can have smart-home device controls and calendar reminders available whenever.",
+              "It's made to be mounted on your wall like a TV (a stand is sold separately), and the Show 15 pairs with a Fire TV remote (you can use the app) to use the streaming features.",
+              "Meta's Portals that we liked are no longer available.",
+              "Amazon has continued to make new smart displays, even after losing $10 billion in 2022 thanks to failures around the Alexa voice assistant.",
+              "So far, Apple has yet to launch its own dedicated smart display.",
+              "That'll be due to its being powered by generative AI."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
