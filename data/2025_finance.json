@@ -70378,7 +70378,79 @@
       "03:44": [],
       "04:07": [],
       "04:44": [],
-      "05:06": []
+      "05:06": [],
+      "06:48": [
+        {
+          "item": {
+            "title": "US futures jump 1% after Donald Trump assures ‘fine’ relations with China",
+            "link": "https://www.livemint.com/market/stock-market-news/us-futures-jump-1-after-donald-trump-assures-fine-relations-with-china-says-doesnt-want-depression-11760316047283.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US futures jump 1% after Donald Trump assures ‘fine’ relations with China",
+            "bullets": [
+              "United States equity-index futures jumped in early trading and oil rebounded as US President Donald Trump assured that relations with China “will be fine”.",
+              "S&P 500 contracts climbed almost 1% after the benchmark slumped 2.7% on Friday, its biggest loss in six months, according to a Bloomberg report.",
+              "Meanwhile, oil rose more than 1 per cent following two days of losses."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Global Markets Today: Kospi, ASX 200 fall on China-US trade tensions",
+            "link": "https://www.livemint.com/market/stock-market-news/global-markets-today-kospi-asx-200-fall-on-china-us-trade-tensions-11760316183364.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Global Markets Today: Kospi, ASX 200 fall on China-US trade tensions",
+            "bullets": [
+              "Goldman Sachs said in a note on Sunday that China’s latest policy moves could indicate an effort to seek larger concessions from the U.S.",
+              "The S&P 500 and Nasdaq recorded their biggest one-day percentage losses since April 10.",
+              "As a result, official economic data releases have been halted, leading to a temporary blackout of government statistics."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "RE development in the time of data vacuum",
+            "link": "https://www.thehindubusinessline.com/specials/clean-tech/re-development-in-the-time-of-data-vacuum/article70150889.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "RE development in the time of data vacuum",
+            "bullets": [
+              "You do need to know wind speeds at different heights and during different months to determine where to put up wind turbines; you do",
+              "Should those who spend time and money in generating the data be forced to open the data box, even if for a fee?",
+              "Wind data is typically collected by turbine manufacturers (such as Suzlon, Envison, Inox); they provide the data only if an energy company promises to",
+              "NIWE has data up to 100 metres, but the industry has climbed higher — today’s turbines stand 140-160 metres tall."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "When fear is the key",
+            "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/when-fear-is-the-key/article70154671.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "When fear is the key",
+            "bullets": [
+              "There is the fear of missing out (FOMO) and then, the fear of losses (FOL).",
+              "Loss aversion What if we take losses on investments and then prices go up?",
+              "Also, taking losses confirms our initial decision to invest was not right.",
+              "Not taking losses can moderate this regret."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
