@@ -158948,6 +158948,44 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "09:11": [
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Oct 9, 2025 China wants 'American guarantee' from India: 'Promise' that rare earth magnets supplied will not sent to ... China has tightened rare earth export controls, restricting processing technology and targeting defense and semiconductor users. Beijing is reportedly seeking guarantees from India that its heavy rare earth magnets will not be re-exported to the US, aiming to secure its supply chain amidst trade tensions.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/china-to-india-promise-that-rare-earth-magnets-supplied-will-not-be-re-exported-to-/articleshow/124413565.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "9f667b40b34ed5db4a645ec98540ee44b8fcc2b1"
+          },
+          "review": {
+            "headline_rewrite": "Technology Oct 9, 2025 China wants 'American guarantee' from India: 'Promise' that rare earth magnets supplied will not sent to ... China has tightened rare earth export controls, restricting processing technology and targeting defense and semiconductor users. Beijing is reportedly seeking guarantees from India that its heavy rare earth magnets will not be re-exported to the US, aiming to secure its supply chain amidst trade tensions.",
+            "bullets": [
+              "China has tightened its rare earth export controls, expanding restrictions on processing technology and spelling out its intention to limit exports to overseas defence and semiconductor users.",
+              "These 17 rare Earth elements are said to be key component in products ranging from EVs to aircraft engines and military radars.",
+              "The Indian government is said to have so far not agreed to such a request yet.",
+              "âOur understanding is that China is looking at some deal with the US on heavy rare earth magnets and is unwilling to release supplies without a guarantee that there will not be any diversion,â a second person in the know said.",
+              "China is also said to be planning to expand restrictions on exporting technology to make rare Earth magnets to more types of magnets.",
+              "The export restrictions on rare Earth magnets are said to be a major bargaining chip for China in its trade talks with the United States."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
