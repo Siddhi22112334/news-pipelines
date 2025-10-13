@@ -161932,6 +161932,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:42": [
+        {
+          "item": {
+            "title": "New AI-powered features help you connect with web content in Search and Discover.",
+            "link": "https://blog.google/products/search/ai-features-web-content/",
+            "site_name": "Google",
+            "novelty_hash": "d2ae563bb95113ff72ebb5b7e43b7db36dab2774"
+          },
+          "review": {
+            "headline_rewrite": "New AI-powered features help you connect with web content in Search and Discover.",
+            "bullets": [
+              "We’re introducing two new AI-powered features in Search and Discover to help you connect with fresh content and links from across the web.",
+              "First, we’ve rolled out an upgraded AI-powered feature in Discover that helps you stay up to date on trending topics you care about.",
+              "This feature is now available in the U.S., South Korea and India."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla Cybertruck sales are flatlining",
+            "link": "https://www.theverge.com/news/798889/tesla-cybertruck-sales-decrease-q3-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "fc9a6e934da8f16ba7475e4b2820d0cf1cc309fe"
+          },
+          "review": {
+            "headline_rewrite": "Tesla Cybertruck sales are flatlining",
+            "bullets": [
+              "Shoppers rushed to snatch up available EVs before the expiration of the $7,500 tax credit on September 30th.",
+              "And then there was the news that the families of two young people killed in a fiery Cybertruck crash are suing Tesla over faulty door handles they claim impeded their loved ones’ escape.",
+              "As Electrek reports, Tesla has been delivering unsold Cybertrucks to Musk’s private companies, SpaceX and xAI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "California enacts age-gate law for app stores",
+            "link": "https://www.engadget.com/california-enacts-age-gate-law-for-app-stores-172802711.html",
+            "site_name": "Engadget",
+            "novelty_hash": "dc0e55f309b38cdb7a7428aa7331b6375e18ee0d"
+          },
+          "review": {
+            "headline_rewrite": "California enacts age-gate law for app stores",
+            "bullets": [
+              "The legislation received backing from notable tech companies such as Google, OpenAI, Meta, Snap and Pinterest.",
+              "The companies claimed the bill offered a more balanced approach to age verification, with more privacy protection, than laws passed in other states.",
+              "The operating system and/or app store will place the user into one of four age categories (under 13, 13-16, 16-18 or adult) and make that information available to app developers.",
+              "Apple has detailed how it plans to comply with the Texas law, which takes effect on January 1, 2026.",
+              "Elsewhere, California will require AI chatbots to have guardrails in place to prevent self-harm content from appearing and direct users who express suicidal ideation to crisis services.",
+              "Platforms will need to inform the Department of Public Health about how they're addressing self-harm and to share details on how often they display crisis center prevention notifications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "4 Best Website Builders (2025), Tested and Reviewed",
+            "link": "https://www.wired.com/story/best-website-builders/",
+            "site_name": "WIRED",
+            "novelty_hash": "36ab0653659e9363522b824cfdd2cdf3f4b07efb"
+          },
+          "review": {
+            "headline_rewrite": "4 Best Website Builders (2025), Tested and Reviewed",
+            "bullets": [
+              "Top Website Builders\nThere are dozens of website builders, and most of them range from decent to straight-up bad.",
+              "Best Website Builder for Most\nYou’ve heard of Squarespace over and over again, I’m sure, and that’s not an accident.",
+              "I started a simple photography website, and within an hour, I had a custom course page set up, an appointment schedule with automated confirmation emails, and services (with pricing and the ability to accept payments) configured.",
+              "Where Hostinger wins for me is through its AI tools.",
+              "Just about every website builder these days has AI integrated in some way, but it’s around every corner at Hostinger.",
+              "You need to pay extra for some of these AI features—the logo generator, for example, requires credits—but they give you a great starting point for mocking up the look, feel, and tone of your website."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google's Nano Banana AI-image editing is coming to Search, NotebookLM and Photos",
+            "link": "https://www.engadget.com/ai/googles-nano-banana-ai-image-editing-is-coming-to-search-notebooklm-and-photos-184111046.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4a6bd858c3449fa4cd69d36d4f9689bb5d3f881f"
+          },
+          "review": {
+            "headline_rewrite": "Google's Nano Banana AI-image editing is coming to Search, NotebookLM and Photos",
+            "bullets": [
+              "Google's Nano Banana AI image editor became something of a viral sensation when it launched last month.",
+              "Now the tool is being integrated into a bunch of pre-existing Google products, like Search, NotebookLM and Photos.",
+              "For the uninitiated, Video Overviews is a neat little tool available to NotebookLM users that automatically generates explainer videos from documents.",
+              "The AI-heavy update starts rolling out to Pro users this week and to all users in \"the upcoming weeks.\"\nSearch integration offers new ways to make and edit images while using the official Google app.",
+              "Additionally, photos can be snapped directly from the Lens tool and then edited via the AI.",
+              "We don't have any actual information as to what the Photos integration will look like, with Google simply saying it's bringing Nano Banana to the platform in \"the weeks ahead.\" The company promises more details soon."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI signs its third Big chip deal, partners with Broadcom to build AI processors",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-signs-its-third-big-chip-deal-partners-with-broadcom-to-build-ai-processors/articleshow/124530389.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "245e28f2986993bdac84ab24cb57a10ff418fbdb"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI signs its third Big chip deal, partners with Broadcom to build AI processors",
+            "bullets": [
+              "ChatGPT-maker\nOpenAI has struck its third major chip deal with Broadcom, agreeing to purchase 10 gigawatts of computer chips from the US semiconductor giant.",
+              "This partnership is the latest in a series of deals by the Microsoft-backed artificial intelligence (AI) start-up worth hundreds of billions of dollars with Nvidia and AMD.",
+              "According to a report by The Financial Times, the order means OpenAI could spend another $350 billion to $500 billion on top of the roughly $1 trillion in chip and data centre deals it has signed in recent months as it races to secure the computing power to run services such as ChatGPT.",
+              "OpenAIâs string of massive chip deals\nIn September, OpenAI agreed to buy chips with a total power consumption of 10 gigawatts from Nvidia.",
+              "Last week, the company announced it would buy a further 6 gigawatts of chips from rival chip designer AMD.",
+              "OpenAI also recently struck a data centre deal with Oracle that will cost $300 billion over five years."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
