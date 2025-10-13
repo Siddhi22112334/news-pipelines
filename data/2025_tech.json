@@ -161588,6 +161588,117 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:08": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-quick-suite-amazon-ec2-amazon-eks-and-more-october-13-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "cade3d3066cd918c0ff4405d50c5606f27d1c63a"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Quick Suite, Amazon EC2, Amazon EKS, and more (October 13, 2025)\nThis week I was at the inaugural AWS AI in Practice meetup from the AWS User Group UK.",
+              "AI-assisted software development and agents were the focus of the evening!",
+              "I am also excited to try the new Amazon Quick Suite that brings AI-powered research, business intelligence, and automation capabilities into a single workspace.",
+              "Last week’s launches\nHere are the launches that got my attention this week:\n- Amazon Quick Suite – A new agentic teammate that quickly answers your questions at work and turns those insights into actions for you.",
+              "Read more in Esra’s launch post.",
+              "- Amazon EC2 – General-purpose M8a instances powered by the 5th Generation AMD EPYC (codename Turin) processors and compute-optimized C8i and C8i-flex instances powered by custom Intel Xeon 6 processors are now available."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to edit images with Nano Banana in Search",
+            "link": "https://blog.google/products/search/nano-banana-search-lens/",
+            "site_name": "Google",
+            "novelty_hash": "ebb6607098f8f8074e81ef153377bab0b24c50a0"
+          },
+          "review": {
+            "headline_rewrite": "How to edit images with Nano Banana in Search",
+            "bullets": [
+              "Today, we’re starting to roll out Nano Banana in Search via Google Lens and AI Mode, so you can instantly transform photos with our latest image editing model.",
+              "Here’s a handy guide to get you started:\nA few more tips before we split:\n- You can now also create entirely new images from scratch directly in AI Mode.",
+              "If you dream up something like a snazzy new coat or a dresser for your bedroom in the exact style you want, you can use AI Mode to take the next step, like asking for more styling ideas or where to buy similar items.",
+              "Image editing in Lens and AI Mode has started rolling out in English in the U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nano Banana is coming to Google Search, NotebookLM and Photos.",
+            "link": "https://blog.google/technology/ai/nano-banana-google-products/",
+            "site_name": "Google",
+            "novelty_hash": "b36f37873523ee73f8fd83c00456a7237bb58bfd"
+          },
+          "review": {
+            "headline_rewrite": "Nano Banana is coming to Google Search, NotebookLM and Photos.",
+            "bullets": [
+              "Now, we’re bringing Nano Banana to Google Search and NotebookLM (and soon to Photos), helping more people access these advanced capabilities in products where they’re already exploring, learning and creating with visuals.",
+              "On Search, you'll be able to snap a photo with Lens (or select one from your gallery) and instantly transform your image with help from AI.",
+              "In the weeks ahead, we'll also bring Nano Banana to Google Photos, so keep your eyes peeled for more details soon!"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New California law requires AI to tell you it’s AI",
+            "link": "https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "84c28d7c77977f468080157cd3ab01bebc22bf14"
+          },
+          "review": {
+            "headline_rewrite": "New California law requires AI to tell you it’s AI",
+            "bullets": [
+              "A bill attempting to regulate the ever-growing industry of companion AI chatbots is now law in California, as of October 13th.",
+              "New California law requires AI to tell you it’s AI\nSB 243 institutes new safeguards on AI chatbots.",
+              "Gavin Newsom signed into law Senate Bill 243, billed as “first-in-the-nation AI chatbot safeguards” by state senator Anthony Padilla.",
+              "The new law requires that companion chatbot developers implement new safeguards — for instance, “if a reasonable person interacting with a companion chatbot would be misled to believe that the person is interacting with a human,” then the new law requires the chatbot maker to “issue a clear and conspicuous notification” that the product is strictly AI and not human.",
+              "“Emerging technology like chatbots and social media can inspire, educate, and connect – but without real guardrails, technology can also exploit, mislead, and endanger our kids,” Newsom said in a statement on signing the bill, along with several other pieces of legislation aimed at improving online safety for children, including new age-gating requirements for hardware.",
+              "“We can continue to lead in AI and technology, but we must do it responsibly — protecting our children every step of the way."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple TV Plus is being rebranded to… Apple TV",
+            "link": "https://www.theverge.com/news/798857/apple-tv-plus-rebrand-streaming-service",
+            "site_name": "The Verge",
+            "novelty_hash": "6d38b8c058f674d7cacb4c043e0f446a5e76674c"
+          },
+          "review": {
+            "headline_rewrite": "Apple TV Plus is being rebranded to… Apple TV",
+            "bullets": [
+              "Even the wording on Apple’s own announcement highlights the muddled branding, saying that F1 is available to purchase on Apple TV “ahead of its global streaming debut on Apple TV,” and that “Apple TV is available on the Apple TV app” on devices like… you got it, Apple TV.",
+              "Apple hasn’t shared any other details about the new branding for its streaming service, so it’s unclear if it will be introducing an updated logo, or finding other ways to distinguish it from existing products."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
+            "link": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "114831847a0d9f9844cb486460242d058eebaa34"
+          },
+          "review": {
+            "headline_rewrite": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
+            "bullets": [
+              "The encryption protecting communications against criminal and nation-state snooping is under threat.",
+              "The uncertainty has created something of an existential dilemma: Should network architects spend the billions of dollars required to wean themselves off quantum-vulnerable algorithms now, or should they prioritize their limited security budgets fighting more immediate threats such as ransomware and espionage attacks?",
+              "Given the expense and no clear deadline, it’s little wonder that less than half of all TLS connections made inside the Cloudflare network and only 18 percent of Fortune 500 networks support quantum-resistant TLS connections.",
+              "It's all but certain that many fewer organizations still are supporting quantum-ready encryption in less prominent protocols."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
