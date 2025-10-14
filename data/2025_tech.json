@@ -167073,6 +167073,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:46": [
+        {
+          "item": {
+            "title": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+            "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "f50e763d7563ef63d77cad4598fb13076028e078"
+          },
+          "review": {
+            "headline_rewrite": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+            "bullets": [
+              "Today, I’m excited to share that AWS is bringing similar capabilities to Amazon Elastic Block Store (Amazon EBS) with the launch of Amazon EBS Volume Clones, a new capability that lets you create instant point-in-time copies of your EBS volumes within the same Availability Zone.",
+              "Many customers need to create copies of their production data to support development and testing activities in a separate nonproduction environment.",
+              "With Amazon EBS Volume Clones, you can now create copies of your EBS volumes with a single API call or console click.",
+              "The copied volumes are available within seconds and provide immediate access to your data with single-digit millisecond latency.",
+              "This makes Volume Clones particularly useful for quickly setting up test environments with production data or creating temporary copies of databases for development purposes.",
+              "Let me show you how Volume Clones works\nFor this post, I created a small Amazon Elastic Compute Cloud (Amazon EC2) instance, with an attached volume."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Sam Altman says ChatGPT will soon allow erotica for adult users",
+            "link": "https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8fc413edd896ceb06c21528d96eeace9464a04da"
+          },
+          "review": {
+            "headline_rewrite": "Sam Altman says ChatGPT will soon allow erotica for adult users",
+            "bullets": [
+              "OpenAI CEO Sam Altman announced in a post on X Tuesday the company will soon relax some of ChatGPT’s safety restrictions, allowing users to make the chatbot’s responses friendlier or more “human-like,” and for “verified adults” to engage in erotic conversations.",
+              "We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right,” said Altman.",
+              "“In December, as we roll out age-gating more fully and as part of our ‘treat adult users like adults’ principle, we will allow even more, like erotica for verified adults.”\nThe announcement is a notable pivot from OpenAI’s months-long effort to address the concerning relationships that some mentally unstable users have developed with ChatGPT.",
+              "Altman seems to declare an early victory over these problems, claiming OpenAI has “been able to mitigate the serious mental health issues” around ChatGPT.",
+              "Several concerning stories emerged this summer around ChatGPT, specifically its GPT-4o model, suggesting the AI chatbot could lead vulnerable users down delusional rabbit holes.",
+              "In another, the parents of a teenager sued OpenAI, alleging ChatGPT encouraged their son’s suicidal ideations in the weeks leading up to his death."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "At Starbase, SpaceX is taking firefighting into its own hands",
+            "link": "https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5f04a3b61ecb722a718934586e4260a94f7c8cfc"
+          },
+          "review": {
+            "headline_rewrite": "At Starbase, SpaceX is taking firefighting into its own hands",
+            "bullets": [
+              "SpaceX is quietly standing up a volunteer fire department to serve the sprawling launch-and-manufacturing Starbase complex, tightening its control over emergency response at a site known for rapid — and sometimes explosive — rocket development.",
+              "The filing says the organization will “aid, promote and provide for the establishment of systems and facilities for the provision of public safety education, and fire prevention and suppression services.”\nSpaceX has historically handled fires at Starbase, which was recently incorporated as its own Texas city, with a combination of an internal firefighting and emergency response team and help from local fire departments, such as the one in nearby Brownsville.",
+              "As it is a volunteer fire department, it is not regulated by the Texas Commission on Fire Protection, which is only authorized to regulate local government fire departments, agency chief Mike Wisko said.",
+              "The company town announced in September a deal with Cameron County to take partial control of the beach near the launch complex.",
+              "The formation of the new volunteer fire department coincided with the end of a separate arrangement: SpaceX’s funding of an emergency fire marshal position inside Cameron County.",
+              "During an August 26 commissioners meeting, officials acknowledged SpaceX had been funding a fire marshal within the county’s emergency-management office."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook removes ICE-tracking page after US government ‘outreach’",
+            "link": "https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning",
+            "site_name": "The Verge",
+            "novelty_hash": "8b4af078f8dead85c9ce71e74283d6cc797e8b59"
+          },
+          "review": {
+            "headline_rewrite": "Facebook removes ICE-tracking page after US government ‘outreach’",
+            "bullets": [
+              "Meta spokesperson Andy Stone confirmed the group, which he did not identify, “was removed for violating our policies against coordinated harm.” Its removal follows Apple and Google blocking ICE-tracking apps, also following government demands.",
+              "The DOJ appears to have taken action after Laura Loomer, a right-wing influencer who has led several campaigns against federal workers she deems disloyal to Trump, posted about a Facebook group called “ICE Sighting- Chicagoland” that she claimed “is providing location updates on ICE raids and ICE agent locations in the Chicago area.” While neither the DOJ nor Meta confirmed the name of the group taken down, Loomer claimed a DOJ source told her the agency had seen her post and contacted Meta about such pages.",
+              "As President Donald Trump has ramped up immigration enforcement across the country, including through more aggressive tactics like workplace raids, several tools and community groups have popped up to alert people to ICE’s presence in their area.",
+              "The ICEBlock app used to anonymously report ICE sightings rose to the top of Apple’s app store this summer before it was similarly removed by Apple after the DOJ reached out, with Bondi claiming it was “designed to put ICE agents at risk just for doing their jobs.” ICEBlock developer Joshua Aaron told Fox News Digital it was “patently false” that the app “served to harm law enforcement officers.”\nBondi’s statement raises questions about whether the government engaged in illegal jawboning\nAs private sector businesses, Apple and Meta can generally legally remove groups or apps as they see fit.",
+              "But Bondi’s statement raises questions about whether the government engaged in illegal jawboning, or pressuring private actors to take down legal speech.",
+              "It’s not clear precisely what the DOJ said to platforms that prompted them to take action, or whether Meta might have removed the page even without government intervention."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says",
+            "link": "https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery",
+            "site_name": "The Verge",
+            "novelty_hash": "1df0095b11cf721e6acaf84b8e6f2af9439e179e"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says",
+            "bullets": [
+              "To be fair, Nelson puts an extraordinary amount of stress on the phone.",
+              "“The Pixel 10 Pro Fold is the first phone to go up in smoke.” And while he notes that this is an “extreme test,” he adds that “I’ve also subjected every mainstream smartphone made in the past 10 years to these exact same tests.",
+              "And this is the first time I’ve ever had one fail so spectacularly to the point where my fire alarm is going off.”\n“As dramatic as a battery fire is, we don’t think this is necessarily a sign that something is wrong with the Pixel 10 Pro Fold design,” iFixit’s Elizabeth Chamberlain tells The Verge.",
+              "Chamberlain adds that “thermal runaway is basically a local short circuit, and it is most likely to happen when you break through the insulating layers of a jelly roll-style battery.” She also pointed to a post and a video from iFixit about batteries catching fire."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
+            "link": "https://arstechnica.com/security/2025/10/nato-boss-mocks-russian-navy-which-is-on-the-hunt-for-red-october-the-nearest-mechanic/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b02218e99dcceba3e0d1cc3aa5557930ca770c3a"
+          },
+          "review": {
+            "headline_rewrite": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
+            "bullets": [
+              "The sub was simply surfacing to comply with maritime transit rules governing the English Channel, the Kremlin said—Russia being, of course, a noted follower of international law.",
+              "But social media accounts historically linked to Russian security forces suggested a far more serious problem on the submarine Novorossiysk.",
+              "Some reports said it was a dangerous fuel leak aboard the vessel, which was commissioned in 2012.\"\nFrance 24 quoted further social media reports as saying, \"The submarine has neither the spare parts nor the qualified specialists onboard to fix the malfunction,\" and it \"now poses an explosion hazard.\"\nWhen the Novorossiysk surfaced off the coast of France a few days ago, it headed north and was promptly shadowed by a French warship, then an English ship, and finally a Dutch hydrographic recording vessel and an NH90 combat helicopter.",
+              "The Dutch navy said in a statement that the Novorossiysk and \"the tugboat Yakov Grebelskiy,\" which was apparently towing it, have left the Dutch Exclusive Economic Zone."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
