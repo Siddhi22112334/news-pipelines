@@ -164797,6 +164797,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:06": [
+        {
+          "item": {
+            "title": "NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing",
+            "link": "https://blogs.nvidia.com/?p=85790",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "1ddb149cbf262bd16bf588c8b100d7487b4d02df"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing",
+            "bullets": [
+              "AI is transforming the way enterprises build, deploy and scale intelligent applications.",
+              "As demand surges for enterprise-grade AI applications that offer speed, scalability and security, industries are swiftly moving toward platforms that can streamline data processing and deliver intelligence at every layer of the business.",
+              "At Oracle AI World, Oracle today announced a new OCI Zettascale10 computing cluster accelerated by NVIDIA GPUs, designed for high-performance AI inference and training workloads.",
+              "The cluster will deliver up to 16 zettaflops of peak AI compute performance and harness NVIDIA Spectrum-X Ethernet — the first Ethernet platform purpose-built for AI — enabling hyperscalers to interconnect millions of GPUs with unprecedented efficiency and scale.",
+              "Other announcements include added support for NVIDIA NIM microservices in Oracle Database 26ai, NVIDIA accelerated computing integration in the new Oracle AI Data Platform, native availability of the NVIDIA AI Enterprise software platform in the OCI Console and more.",
+              "“I believe the AI market has been defined by critical partnerships such as the one between Oracle and NVIDIA,” said Mahesh Thiagarajan, executive vice president of Oracle Cloud Infrastructure."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation",
+            "link": "https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "8bbf402bf98c4c6797eed3f80736225ee93ffcd5"
+          },
+          "review": {
+            "headline_rewrite": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation",
+            "bullets": [
+              "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide.",
+              "By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Deloitte and Core42, to build secure, AI-first systems that deliver next-generation citizen services.",
+              "The effort supports Abu Dhabi’s vision of becoming an AI-native government by 2027 while demonstrating an initiative that can be replicated globally to expand AI adoption.",
+              "Seamless Integration for Sovereign AI Delivery\nWith NVIDIA AI Enterprise software on Oracle Cloud Infrastructure, NVIDIA’s cloud-native suite of software tools, libraries and frameworks are seamlessly integrated and natively available to customers, empowering DGE to rapidly develop and deploy production-grade AI solutions.",
+              "The solution brings together 160 AI tools, a high-performance accelerated computing cluster and cutting-edge NVIDIA NIM microservices in a secure, sovereign environment.",
+              "The Abu Dhabi Government Digital Strategy 2025-2027 is a landmark initiative demonstrating how sovereign AI, powered by OCI and NVIDIA AI, is transforming government operations at scale."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google to invest $15B in Indian AI infrastructure hub",
+            "link": "https://techcrunch.com/2025/10/14/google-to-invest-15b-in-indian-ai-infrastructure-hub/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0054633a2a7fcc54e5be2e389b84ad813425b624"
+          },
+          "review": {
+            "headline_rewrite": "Google to invest $15B in Indian AI infrastructure hub",
+            "bullets": [
+              "Google is making a $15 billion investment to set up a 1-gigawatt data center and AI hub in India, even as the Indian government pushes for reduced reliance on U.S.",
+              "On Tuesday, Google said it would build the data center in the southern state of Andhra Pradesh, in the port city of Visakhapatnam.",
+              "Weeks after President Donald Trump imposed a 50% tariff on Indian imports in August, Prime Minister Narendra Modi began urging the use of “swadeshi” (Hindi for “made in India”) products.",
+              "In response, Indian lawmakers and ministries started promoting local alternatives to Google — including those from Chennai-based enterprise tech firm Zoho Corporation, which offers competitors to Google Cloud and Gmail, and most recently, WhatsApp-rival Arattai, as well as MapMyIndia, a Google Maps-rival.",
+              "The company also counts Delhi and Mumbai as official cloud regions.",
+              "The new Google AI hub will be the company’s largest investment outside of the U.S., said Google Cloud CEO Thomas Kurian, adding that it would be scaled to “multiple gigawatts” over time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Smart ring maker Oura raises $900M from Fidelity",
+            "link": "https://techcrunch.com/2025/10/14/smart-ring-maker-oura-raises-900m-from-fidelity/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a0cae9a5ebe47181c9d5255b4f7b6de378e3fcf4"
+          },
+          "review": {
+            "headline_rewrite": "Smart ring maker Oura raises $900M from Fidelity",
+            "bullets": [
+              "Finnish health tech company Oura has raised $900 million in fresh funding led by Fidelity Management & Research Company, with participation from new investor ICONIQ and contributions from Whale Rock and Atreides.",
+              "The company said today that this funding will value it at “approximately $11 billion,” more than double the valuation it received for its last round in December.",
+              "Bloomberg previously reported that Oura was closing new funding at $11 billion valuation.",
+              "“This new funding is a testament to the strength of Oura business and the trust millions of members place in us every day.",
+              "We’re proud to be building not just a product, but a global movement toward proactive health—helping people understand their bodies, make better lifestyle decisions, and connect more effectively with their healthcare providers,” CEO Tom Hale said in a statement.",
+              "The company told TechCrunch that it plans to use the new funding for AI and production innovation, introducing new health features, and improving its global distribution."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Spotify rolls out controls to keep kids music out of your algorithm",
+            "link": "https://www.theverge.com/news/799047/spotify-managed-account-parental-controls-expansion",
+            "site_name": "The Verge",
+            "novelty_hash": "3301adc422fb6f32f9221b9672e24d26873615e8"
+          },
+          "review": {
+            "headline_rewrite": "Spotify rolls out controls to keep kids music out of your algorithm",
+            "bullets": [
+              "Managed accounts are now launching for Premium Family subscribers in the US, UK, Canada, Australia, Germany, France, and the Netherlands following a pilot that kicked off last year, allowing account holders to manage a separate music-only experience for children under the age of 13.",
+              "Spotify rolls out controls to keep kids music out of your algorithm\nManaged accounts are launching in the US, making it easier to curate what your children can listen to.",
+              "This is distinct from the dedicated Spotify Kids app, because managed accounts enable parents to curate what their children can listen to in the main Spotify app.",
+              "Kids are free to add songs to favorites, create playlists, and receive their own personalized recommendations based on their listening habits, without influencing the main account holders’ listening history or algorithm.",
+              "Managed accounts are exclusively available via Spotify’s Premium Family plan, which includes six individual Premium accounts for members who reside at the same address for $19.99 per month."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How trans visibility became a trap",
+            "link": "https://www.theverge.com/cs/features/798490/trans-visibility-trap",
+            "site_name": "The Verge",
+            "novelty_hash": "54e54a03d79de95a4cc2c56262a27e133b78af02"
+          },
+          "review": {
+            "headline_rewrite": "How trans visibility became a trap",
+            "bullets": [
+              "I renewed my passport the day after Trump won again.",
+              "He calcified his campaign-trail hate speech into an executive order.",
+              "Did I paint a target on my own back?",
+              "Back then, most mainstream publications wouldnât touch trans stories unless they involved tragedy or spectacle.",
+              "Every story told chipped away at ignorance.",
+              "But while trans writers were churning out personal essays for $50 apiece and tweeting their transitions to a few hundred followers, conservative activists were taking notes."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
