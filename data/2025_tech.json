@@ -166711,6 +166711,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:10": [
+        {
+          "item": {
+            "title": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+            "link": "https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "355efd4fa18ebce7b72dc5d15e60477dfc982166"
+          },
+          "review": {
+            "headline_rewrite": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+            "bullets": [
+              "AWS Transfer Family SFTP connectors now support VPC-based connectivity\nToday, AWS Transfer Family SFTP connectors now support connectivity to remote SFTP servers through Amazon Virtual Private Cloud (Amazon VPC) environments.",
+              "You can transfer files between Amazon Simple Storage Service (Amazon S3) and private or public SFTP servers while applying the security controls and network configurations already defined in your VPC.",
+              "- Security and compliance – All file transfers are routed through the security controls already applied in your VPC, such as AWS Network Firewall or centralized ingress and egress inspection.",
+              "Private SFTP servers remain private and don’t need to be exposed to the internet.",
+              "You can configure connectors in minutes through the AWS Management Console, AWS Command Line Interface (AWS CLI), or AWS SDKs without building custom scripts or third-party tools.",
+              "The resource gateway provides SFTP connector access to these configurations, enabling file transfers to flow through your VPC and its security controls."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best deals on 4K TVs",
+            "link": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
+            "site_name": "The Verge",
+            "novelty_hash": "212317d61e4dd7b1e04ab3b7770b8e0acc888d8b"
+          },
+          "review": {
+            "headline_rewrite": "The best deals on 4K TVs",
+            "bullets": [
+              "There’s usually a great deal happening on a mid- or high-end TV from LG, Sony, Roku, Hisense, or Samsung — even if the biggest discounts remain reserved for Black Friday, Cyber Monday, Amazon Prime Day, and during the lead-up to the Super Bowl.",
+              "The best 4K TV deals for most people\nSamsung Q8F\nSamsung’s Q8F is available for around $649.99 ($150 off) at Amazon, Best Buy, and B&H Photo for the 55-inch model, which is a solid value for a QLED 4K TV.",
+              "Samsung is also including two free months of Xbox Game Pass Ultimate with purchase, which will allow you to stream games directly to your TV through the cloud, eliminating the need for a console.",
+              "The TV is powered by Samsung’s Q4 AI processor, which is used to upscale HD video to 4K when necessary, to optimize the picture in real-time, and make navigating its interface feel snappy.",
+              "It also sports a pair of HDMI 2.0 ports — which can carry a 4K signal at up to 60Hz — and a port assortment that makes it a good choice for current-gen consoles, 4K Blu-ray players, and streaming devices.",
+              "The U65QF also supports Dolby Vision, HLG, and HDR10 Plus for better color reproduction, and it features a Hi-View AI chip that automatically processes the image on screen so that it appears sharper."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "At Starbase, SpaceX is taking firefighting into its own hands",
+            "link": "https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5f04a3b61ecb722a718934586e4260a94f7c8cfc"
+          },
+          "review": {
+            "headline_rewrite": "At Starbase, SpaceX is taking firefighting into its own hands",
+            "bullets": [
+              "SpaceX is quietly standing up a volunteer fire department to serve the sprawling launch-and-manufacturing Starbase complex, tightening its control over emergency response at a site known for rapid — and sometimes explosive — rocket development.",
+              "The filing says the organization will “aid, promote and provide for the establishment of systems and facilities for the provision of public safety education, and fire prevention and suppression services.”\nSpaceX has historically handled fires at Starbase, which was recently incorporated as its own Texas city, with a combination of an internal firefighting and emergency response team and help from local fire departments, such as the one in nearby Brownsville.",
+              "As it is a volunteer fire department, it is not regulated by the Texas Commission on Fire Protection, which is only authorized to regulate local government fire departments, agency chief Mike Wisko said.",
+              "The company town announced in September a deal with Cameron County to take partial control of the beach near the launch complex.",
+              "The formation of the new volunteer fire department coincided with the end of a separate arrangement: SpaceX’s funding of an emergency fire marshal position inside Cameron County.",
+              "During an August 26 commissioners meeting, officials acknowledged SpaceX had been funding a fire marshal within the county’s emergency-management office."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Inaudible sound might be the next frontier in wildfire defense",
+            "link": "https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "10e7cedcd4dea9627c3164057230a6a8741beffc"
+          },
+          "review": {
+            "headline_rewrite": "Inaudible sound might be the next frontier in wildfire defense",
+            "bullets": [
+              "One startup now claims to have cracked the problem.",
+              "The startup has raised a $3.5 million seed round from investors, including Khosla Ventures and Third Sphere, TechCrunch has exclusively learned.",
+              "Michael Thomas, who is chairman of the startup’s board, had been tinkering with the idea of using sound to fight fires, and when he hit a wall, he reached out to Geoff Bruder over LinkedIn.",
+              "“I got a subwoofer and some parts from Home Depot and AutoZone and said, ‘Hey, let’s see if we can do any better than other people had,’” Bruder recalled.",
+              "The problem with audible frequencies is that any system powerful enough to suppress a fire would be damaging to people’s hearing, Bruder said.",
+              "“You’ve basically got to throw a speaker design in the trash and start from scratch,” he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DirecTV screensavers will show AI-generated ads with your face in 2026",
+            "link": "https://arstechnica.com/gadgets/2025/10/directv-screensavers-will-show-ai-generated-ads-with-your-face-in-2026/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1983c5bcca9f9a258cb141a19a7f96f17aed42b2"
+          },
+          "review": {
+            "headline_rewrite": "DirecTV screensavers will show AI-generated ads with your face in 2026",
+            "bullets": [
+              "As if DirecTV doesn't have enough trouble keeping customers, the satellite TV provider's streaming devices will show AI-generated screensaver ads next year, according to an announcement today from partnering ads company Glance.",
+              "DirecTV’s Gemini Air is an Android TV-powered USB device that people can plug into a TV for access to live TV channels, as well as streaming apps.",
+              "Gemini Air doesn’t require a DirecTV satellite connection, and DirecTV gives all of its Internet customers the device.",
+              "DirecTV first started selling Gemini devices in 2023, when it launched a separate Gemini set-top box that connects through DirecTV satellite setups.",
+              "DirecTV made an agreement with Glance to show AI-generated content and ads on Gemini devices' screensavers.",
+              "When the new screensavers launch, Glance's AI content will show if the TV is idle for 10 minutes, The Verge reported."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple teases M5 MacBook",
+            "link": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser",
+            "site_name": "The Verge",
+            "novelty_hash": "7b7b2796c8315301a9d387605e3b4b832f929046"
+          },
+          "review": {
+            "headline_rewrite": "Apple teases M5 MacBook",
+            "bullets": [
+              "Apple is teasing the imminent launch of a new MacBook with an M5 chip.",
+              "Apple teases M5 MacBook\n‘Coming soon.’\nThis new laptop isn’t a big surprise, as Bloomberg’s Mark Gurman recently reported that Apple is set to announce a base-model MacBook Pro with an M5 chip this week.",
+              "The imminent launch of M5-equipped products from Apple isn’t a shock, either: iPad Pros with an M5 chip have also already been unboxed on YouTube, and Gurman said that the new tablets are set to be announced this week, though Joswiak hasn’t hinted at that just yet.",
+              "Gurman also said that a Vision Pro with “a faster chip” is set to be announced this week, which could be the new headset recently spotted in an FCC filing."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
