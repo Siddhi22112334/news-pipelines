@@ -73543,6 +73543,42 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "19:47": [
+        {
+          "item": {
+            "title": "Wall Street today: Nasdaq sinks 300 points, Dow Jones falls 200 points on renewed US-China trade tensions",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-today-nasdaq-sinks-300-points-dow-jones-falls-200-points-on-renewed-us-china-trade-tensions-11760448885757.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street today: Nasdaq sinks 300 points, Dow Jones falls 200 points on renewed US-China trade tensions",
+            "bullets": [
+              "Wall Street’s key stock indices opened sharply lower on Tuesday amid renewed trade tensions between the United States and China.",
+              "At the open, the Dow Jones Industrial Average fell 195.7 points, or 0.42%, to 45,871.89.",
+              "The S&P 500 fell 52.2 points, or 0.78%, to 6,602.49 , while the Nasdaq Composite dropped 306.6 points, or 1.35%, to 22,388.043."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "‘Global spice industry projected to reach $41.9 billion by 2033’",
+            "link": "https://www.thehindubusinessline.com/economy/agri-business/global-spice-industry-projected-to-reach-419-billion-by-2033/article70162708.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "‘Global spice industry projected to reach $41.9 billion by 2033’",
+            "bullets": [
+              "India reaffirmed its leadership in the global spice sector as the 8th Session of the Codex Committee on Spices and Culinary Herbs (CCSCH) began",
+              "Organised by the Spices Board, the event has drawn around 81 delegates from 27 countries to deliberate on developing harmonised international standards for spices",
+              "With rapid advances in food science and technology, the global spice trade requires unified and science-based quality standards."
+            ],
+            "impact": "Bearish"
+          }
+        }
       ]
     }
   }
