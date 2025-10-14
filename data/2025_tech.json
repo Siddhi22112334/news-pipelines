@@ -167309,6 +167309,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:45": [
+        {
+          "item": {
+            "title": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+            "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "f50e763d7563ef63d77cad4598fb13076028e078"
+          },
+          "review": {
+            "headline_rewrite": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+            "bullets": [
+              "Today, I’m excited to share that AWS is bringing similar capabilities to Amazon Elastic Block Store (Amazon EBS) with the launch of Amazon EBS Volume Clones, a new capability that lets you create instant point-in-time copies of your EBS volumes within the same Availability Zone.",
+              "Many customers need to create copies of their production data to support development and testing activities in a separate nonproduction environment.",
+              "With Amazon EBS Volume Clones, you can now create copies of your EBS volumes with a single API call or console click.",
+              "The copied volumes are available within seconds and provide immediate access to your data with single-digit millisecond latency.",
+              "This makes Volume Clones particularly useful for quickly setting up test environments with production data or creating temporary copies of databases for development purposes.",
+              "Let me show you how Volume Clones works\nFor this post, I created a small Amazon Elastic Compute Cloud (Amazon EC2) instance, with an attached volume."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Samsung officially teases Moohan headset launch for next week",
+            "link": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open",
+            "site_name": "The Verge",
+            "novelty_hash": "c57a67c7598176343f91bedb183ae462b3366966"
+          },
+          "review": {
+            "headline_rewrite": "Samsung officially teases Moohan headset launch for next week",
+            "bullets": [
+              "Samsung is finally about to reveal more details about its Project Moohan mixed reality headset.",
+              "The company just announced a new “Worlds Wide Open” Galaxy event that will take place on October 21st at 10PM ET, where it’s promising to reveal details about the device.",
+              "Samsung officially teases Moohan headset launch for next week\nIt’s nearly time to learn a lot more about the Project Moohan headset.",
+              "The headset will run on Android XR, a new mixed reality platform developed by Samsung, Google, and Qualcomm, and Samsung says that it is “designed to scale across form factors, bringing AI to the center of immersive, everyday experiences.” My colleague Victoria Song initially got to try the headset and Android XR in late 2024, and nearly a year later, it seems Samsung is ready for the headset’s full launch.",
+              "“Project Moohan is the groundbreaking first product built for the open and scalable Android XR platform, and it seamlessly blends everyday utility with immersive new experiences,” Samsung says.",
+              "“This is where the true potential of XR comes alive, unlocking a whole new dimension of possibilities.”\nThe event is being announced as Apple is reportedly close to launching a new version of its Vision Pro headset that’s powered by a faster chip."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "EVs take a backseat in Stellantis’ $13B U.S. investment plan",
+            "link": "https://techcrunch.com/2025/10/14/evs-take-a-backseat-in-stellantis-13b-u-s-investment-plan/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "da3326ac24afbd8087826bd482cc6717e1f74400"
+          },
+          "review": {
+            "headline_rewrite": "EVs take a backseat in Stellantis’ $13B U.S. investment plan",
+            "bullets": [
+              "Stellantis, the international automaker that owns Chrysler, Jeep, and Ram, said it will invest $13 billion to beef up its U.S.",
+              "The investment will also support the production of a new four-cylinder engine and reopen the Belvidere Assembly Plant in Illinois, which will allow the automaker to expand production of the Jeep Cherokee and Jeep Compass for the U.S.",
+              "The remaining products include a next-generation Dodge Durango that will be produced at the Detroit Assembly Complex in 2029, a new midsize truck that will be assembled at its Toledo Assembly Complex in Ohio, and an all-new four-cylinder engine called the GMET4 EVO that will go into production beginning in 2026 at its Kokomo, Indiana, factory.",
+              "Stellantis CEO and North America COO Antonio Filosa said the investment will drive the automaker’s growth, strengthen its manufacturing footprint, and bring and “bring more American jobs to the states we call home.”\n“Accelerating growth in the U.S.",
+              "— it makes us stronger everywhere,” Filosa said in a statement.",
+              "The automaker said in September it would no longer include an electrified Gladiator in its Jeep lineup as it reassessed its product strategy."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says",
+            "link": "https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery",
+            "site_name": "The Verge",
+            "novelty_hash": "1df0095b11cf721e6acaf84b8e6f2af9439e179e"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says",
+            "bullets": [
+              "To be fair, Nelson puts an extraordinary amount of stress on the phone.",
+              "“The Pixel 10 Pro Fold is the first phone to go up in smoke.” And while he notes that this is an “extreme test,” he adds that “I’ve also subjected every mainstream smartphone made in the past 10 years to these exact same tests.",
+              "And this is the first time I’ve ever had one fail so spectacularly to the point where my fire alarm is going off.”\n“As dramatic as a battery fire is, we don’t think this is necessarily a sign that something is wrong with the Pixel 10 Pro Fold design,” iFixit’s Elizabeth Chamberlain tells The Verge.",
+              "Chamberlain adds that “thermal runaway is basically a local short circuit, and it is most likely to happen when you break through the insulating layers of a jelly roll-style battery.” She also pointed to a post and a video from iFixit about batteries catching fire."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
+            "link": "https://arstechnica.com/security/2025/10/nato-boss-mocks-russian-navy-which-is-on-the-hunt-for-red-october-the-nearest-mechanic/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b02218e99dcceba3e0d1cc3aa5557930ca770c3a"
+          },
+          "review": {
+            "headline_rewrite": "NATO boss mocks Russian navy, which is on the hunt for Red October “the nearest mechanic”",
+            "bullets": [
+              "The sub was simply surfacing to comply with maritime transit rules governing the English Channel, the Kremlin said—Russia being, of course, a noted follower of international law.",
+              "But social media accounts historically linked to Russian security forces suggested a far more serious problem on the submarine Novorossiysk.",
+              "Some reports said it was a dangerous fuel leak aboard the vessel, which was commissioned in 2012.\"\nFrance 24 quoted further social media reports as saying, \"The submarine has neither the spare parts nor the qualified specialists onboard to fix the malfunction,\" and it \"now poses an explosion hazard.\"\nWhen the Novorossiysk surfaced off the coast of France a few days ago, it headed north and was promptly shadowed by a French warship, then an English ship, and finally a Dutch hydrographic recording vessel and an NH90 combat helicopter.",
+              "The Dutch navy said in a statement that the Novorossiysk and \"the tugboat Yakov Grebelskiy,\" which was apparently towing it, have left the Dutch Exclusive Economic Zone."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones",
+            "link": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
+            "site_name": "WIRED",
+            "novelty_hash": "0d65d60d6a3d031699426de272094915e0ce7772"
+          },
+          "review": {
+            "headline_rewrite": "A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones",
+            "bullets": [
+              "Google released mitigations last month, but the researchers said a modified version of the attack works even when the update is installed.",
+              "“Chat messages, 2FA codes, email messages, etc.",
+              "If an app has secret information that is not visible (e.g., it has a secret key that is stored but never shown on the screen), that information cannot be stolen by Pixnapping.”\nThe new attack class is reminiscent of GPU.zip, a 2023 attack that allowed malicious websites to read the usernames, passwords, and other sensitive visual data displayed by other websites.",
+              "It worked by exploiting side channels found in GPUs from all major suppliers.",
+              "The vulnerabilities that GPU.zip exploited have never been fixed.",
+              "Instead, the attack was blocked in browsers by limiting their ability to open iframes, an HTML element that allows one website (in the case of GPU.zip, a malicious one) to embed the contents of a site from a different domain."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
