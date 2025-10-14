@@ -165983,6 +165983,126 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:07": [
+        {
+          "item": {
+            "title": "More than 50 startups join our first Google for Startups Gemini Founders Forum",
+            "link": "https://blog.google/outreach-initiatives/entrepreneurs/gfs-gemini-founders-forum-meet-first-cohort/",
+            "site_name": "Google",
+            "novelty_hash": "529ffa826d8288ab12cc50558d40d79ed321bd37"
+          },
+          "review": {
+            "headline_rewrite": "More than 50 startups join our first Google for Startups Gemini Founders Forum",
+            "bullets": [
+              "More than 50 startups join our first Google for Startups Gemini Founders Forum\nThe world's most innovative startups are building with Google Cloud’s AI stack, using the power of Gemini, our best-in-class infrastructure and our deep technical expertise.",
+              "To support this new generation of builders, together with Google DeepMind and Google Cloud, we will host our first-ever Google for Startups Gemini Founders Forum.",
+              "On November 11–12 at Google’s Mountain View Headquarters, these founders will join a two-day, in-person summit designed to accelerate their growth.",
+              "They will collaborate with experts from across Google, to overcome technical challenges, refine product strategies and scale their solutions globally.",
+              "Learn more about the selected companies below:\n- Akto (U.S.) is an AI Agent and MCP Security Solution for Enterprises building Agentic Applications.",
+              "- Arintra (U.S.) provides a GenAI-native autonomous coding platform, enabling health systems to get paid accurately and efficiently for the care they deliver, driving revenue assurance at scale."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "10 ways you can ask Google Photos to edit your photos for you",
+            "link": "https://blog.google/products/photos/how-to-tips-editing-prompts/",
+            "site_name": "Google",
+            "novelty_hash": "d73d630cac93bfd24ae56ae42ab175c2cc583127"
+          },
+          "review": {
+            "headline_rewrite": "10 ways you can ask Google Photos to edit your photos for you",
+            "bullets": [
+              "10 ways you can ask Google Photos to edit your photos for you\nCurious about what you can do?",
+              "Here are 10 examples to inspire your own edits in Photos, along with the prompts to get you there.",
+              "1.",
+              "Don't let a window's reflection ruin your shot — easily remove distractions for a perfectly clear photo.",
+              "2."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini can now help you schedule Google Calendar meetings",
+            "link": "https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1b7dd4d08a5c0909551e903689930a486bff8e79"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini can now help you schedule Google Calendar meetings",
+            "bullets": [
+              "Google is launching a new tool that uses AI to make it easier for Gmail users with Google Calendar to schedule their meetings.",
+              "On Tuesday, the company launched a Gemini-powered “Help me schedule” feature that will surface ideal meeting times based on calendar availability and then display them to the person you’re emailing to set up a meeting.",
+              "The launch of the new feature comes amid a flurry of Google Workspace announcements that focus on infusing AI more deeply into users’ everyday tools.",
+              "This includes the introduction of Google’s latest image editing model, Nano Banana, and Gemini features in Google Slides; tools to share custom AI assistants called Gems with other team members; new formats in NotebookLM; improved AI video tools in Google Vids; and more.",
+              "To use the meeting scheduling option, you’ll click the new “Help me schedule” button that appears below your email compose screen in Gmail.",
+              "This will display a series of timeslots where you have open availability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Gmail now uses AI to help you find meeting times",
+            "link": "https://www.theverge.com/news/799160/google-gmail-gemini-ai-help-me-schedule",
+            "site_name": "The Verge",
+            "novelty_hash": "fed6d9d4859108a66c89db139df8ed7fbd65d1c0"
+          },
+          "review": {
+            "headline_rewrite": "Gmail now uses AI to help you find meeting times",
+            "bullets": [
+              "It’s launching a new Gemini AI-powered “Help me schedule” feature that suggests meeting time slots based on your Google Calendar and the context of the message.",
+              "You can directly insert the suggestions into your email.",
+              "Gmail now uses AI to help you find meeting times\nThe AI-powered ‘Help me schedule’ feature will use the context of your email and your Google Calendar to help find available time slots.",
+              "The new “Help me schedule” option will automatically appear within the email you’re composing when Gemini detects that you’re trying to schedule a meeting.",
+              "Click it, and you’ll see your available time slots that you can quickly pop into an email.",
+              "If your coworker wants to meet for 30 minutes next week, Gemini will use that context to find 30-minute slots based on your availability during that time frame."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’",
+            "link": "https://www.theverge.com/news/799274/discord-security-breach-5ca-vendor-blamed-not-hacked",
+            "site_name": "The Verge",
+            "novelty_hash": "7493160e89367fe686825d19fdfd1250f484df63"
+          },
+          "review": {
+            "headline_rewrite": "Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’",
+            "bullets": [
+              "Recently, the chat platform said the vendor had been breached as part of a “security incident” where 70,000 government ID photos may have leaked.",
+              "Now, 5CA says in a post on its website that it was “not hacked.”\nDiscord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’\n5CA claims that the incident ‘may have resulted from human error.’\nAccording to Discord, “this incident impacted a limited number of users who had communicated with our Customer Support or Trust & Safety teams,” and “of the accounts impacted globally, we have identified approximately 70,000 users that may have had government-ID photos exposed, which our vendor used to review age-related appeals.” The company said that (emphasis Discord’s) “this was not a breach of Discord, but rather a breach of a third party service provider, 5CA, that we used to support our customer service efforts.”\nHowever, on its website, 5CA shared its own statement, which I am including in full below (with emphasis 5CA’s):\nWe are aware of media reports naming 5CA as the cause of a data breach involving one of our clients.",
+              "All our platforms and systems remain secure, and client data continues to be protected under strict data protection and security controls.",
+              "We are conducting an ongoing forensic investigation into the matter and collaborating closely with our client, as well as external advisors, including cybersecurity experts and ethical hackers.",
+              "We remain in close contact with all relevant parties and will share verified findings once confirmed."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "‘Sovereign AI’ Has Become a New Front in the US-China Tech War",
+            "link": "https://www.wired.com/story/openai-sovereign-ai-us-china-tech-war/",
+            "site_name": "WIRED",
+            "novelty_hash": "8e6dfde0cd446cb689dd8d95cbd8a1a716148226"
+          },
+          "review": {
+            "headline_rewrite": "‘Sovereign AI’ Has Become a New Front in the US-China Tech War",
+            "bullets": [
+              "OpenAI has announced a number of projects this year with foreign governments to help build out what it has called their “sovereign AI” systems.",
+              "Over the past few months, sovereign AI has become something of a buzzword in both Washington and Silicon Valley.",
+              "Proponents of the concept argue it's crucial that AI systems developed in democratic nations are able to proliferate globally, particularly as China races to deploy its own AI technology abroad.",
+              "“The distribution and diffusion of American technology will stop our strategic rivals from making our allies dependent on foreign adversary technology,” the Trump administration said in its AI Action Plan released in July.",
+              "At OpenAI, this movement has also meant partnering with countries like the United Arab Emirates, which is ruled by a federation of monarchies.",
+              "OpenAI’s chief strategy officer, Jason Kwon, argues that partnering with non-Democratic governments can help them evolve to become more liberal."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
