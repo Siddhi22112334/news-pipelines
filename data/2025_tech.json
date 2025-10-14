@@ -166951,6 +166951,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+            "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-create-instant-copies-of-your-ebs-volumes/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "f50e763d7563ef63d77cad4598fb13076028e078"
+          },
+          "review": {
+            "headline_rewrite": "Introducing Amazon EBS Volume Clones: Create instant copies of your EBS volumes",
+            "bullets": [
+              "Today, I’m excited to share that AWS is bringing similar capabilities to Amazon Elastic Block Store (Amazon EBS) with the launch of Amazon EBS Volume Clones, a new capability that lets you create instant point-in-time copies of your EBS volumes within the same Availability Zone.",
+              "Many customers need to create copies of their production data to support development and testing activities in a separate nonproduction environment.",
+              "With Amazon EBS Volume Clones, you can now create copies of your EBS volumes with a single API call or console click.",
+              "The copied volumes are available within seconds and provide immediate access to your data with single-digit millisecond latency.",
+              "This makes Volume Clones particularly useful for quickly setting up test environments with production data or creating temporary copies of databases for development purposes.",
+              "Let me show you how Volume Clones works\nFor this post, I created a small Amazon Elastic Compute Cloud (Amazon EC2) instance, with an attached volume."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Sam Altman says ChatGPT will soon allow erotica for adult users",
+            "link": "https://techcrunch.com/2025/10/14/sam-altman-says-chatgpt-will-soon-allow-erotica-for-adult-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8fc413edd896ceb06c21528d96eeace9464a04da"
+          },
+          "review": {
+            "headline_rewrite": "Sam Altman says ChatGPT will soon allow erotica for adult users",
+            "bullets": [
+              "OpenAI CEO Sam Altman announced in a post on X Tuesday the company will soon relax some of ChatGPT’s safety restrictions, allowing users to make the chatbot’s responses friendlier or more “human-like,” and for “verified adults” to engage in erotic conversations.",
+              "We realize this made it less useful/enjoyable to many users who had no mental health problems, but given the seriousness of the issue we wanted to get this right,” said Altman.",
+              "“In December, as we roll out age-gating more fully and as part of our ‘treat adult users like adults’ principle, we will allow even more, like erotica for verified adults.”\nThe announcement is a notable pivot from OpenAI’s months-long effort to address the concerning relationships that some mentally unstable users have developed with ChatGPT.",
+              "Altman seems to declare an early victory over these problems, claiming OpenAI has “been able to mitigate the serious mental health issues” around ChatGPT.",
+              "Several concerning stories emerged this summer around ChatGPT, specifically its GPT-4o model, suggesting the AI chatbot could lead vulnerable users down delusional rabbit holes.",
+              "In another, the parents of a teenager sued OpenAI, alleging ChatGPT encouraged their son’s suicidal ideations in the weeks leading up to his death."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best deals on 4K TVs",
+            "link": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
+            "site_name": "The Verge",
+            "novelty_hash": "212317d61e4dd7b1e04ab3b7770b8e0acc888d8b"
+          },
+          "review": {
+            "headline_rewrite": "The best deals on 4K TVs",
+            "bullets": [
+              "There’s usually a great deal happening on a mid- or high-end TV from LG, Sony, Roku, Hisense, or Samsung — even if the biggest discounts remain reserved for Black Friday, Cyber Monday, Amazon Prime Day, and during the lead-up to the Super Bowl.",
+              "The best 4K TV deals for most people\nSamsung Q8F\nSamsung’s Q8F is available for around $649.99 ($150 off) at Amazon, Best Buy, and B&H Photo for the 55-inch model, which is a solid value for a QLED 4K TV.",
+              "Samsung is also including two free months of Xbox Game Pass Ultimate with purchase, which will allow you to stream games directly to your TV through the cloud, eliminating the need for a console.",
+              "The TV is powered by Samsung’s Q4 AI processor, which is used to upscale HD video to 4K when necessary, to optimize the picture in real-time, and make navigating its interface feel snappy.",
+              "It also sports a pair of HDMI 2.0 ports — which can carry a 4K signal at up to 60Hz — and a port assortment that makes it a good choice for current-gen consoles, 4K Blu-ray players, and streaming devices.",
+              "The U65QF also supports Dolby Vision, HLG, and HDR10 Plus for better color reproduction, and it features a Hi-View AI chip that automatically processes the image on screen so that it appears sharper."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "At Starbase, SpaceX is taking firefighting into its own hands",
+            "link": "https://techcrunch.com/2025/10/14/at-starbase-spacex-is-taking-firefighting-into-its-own-hands/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5f04a3b61ecb722a718934586e4260a94f7c8cfc"
+          },
+          "review": {
+            "headline_rewrite": "At Starbase, SpaceX is taking firefighting into its own hands",
+            "bullets": [
+              "SpaceX is quietly standing up a volunteer fire department to serve the sprawling launch-and-manufacturing Starbase complex, tightening its control over emergency response at a site known for rapid — and sometimes explosive — rocket development.",
+              "The filing says the organization will “aid, promote and provide for the establishment of systems and facilities for the provision of public safety education, and fire prevention and suppression services.”\nSpaceX has historically handled fires at Starbase, which was recently incorporated as its own Texas city, with a combination of an internal firefighting and emergency response team and help from local fire departments, such as the one in nearby Brownsville.",
+              "As it is a volunteer fire department, it is not regulated by the Texas Commission on Fire Protection, which is only authorized to regulate local government fire departments, agency chief Mike Wisko said.",
+              "The company town announced in September a deal with Cameron County to take partial control of the beach near the launch complex.",
+              "The formation of the new volunteer fire department coincided with the end of a separate arrangement: SpaceX’s funding of an emergency fire marshal position inside Cameron County.",
+              "During an August 26 commissioners meeting, officials acknowledged SpaceX had been funding a fire marshal within the county’s emergency-management office."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook removes ICE-tracking page after US government ‘outreach’",
+            "link": "https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning",
+            "site_name": "The Verge",
+            "novelty_hash": "8b4af078f8dead85c9ce71e74283d6cc797e8b59"
+          },
+          "review": {
+            "headline_rewrite": "Facebook removes ICE-tracking page after US government ‘outreach’",
+            "bullets": [
+              "Meta spokesperson Andy Stone confirmed the group, which he did not identify, “was removed for violating our policies against coordinated harm.” Its removal follows Apple and Google blocking ICE-tracking apps, also following government demands.",
+              "The DOJ appears to have taken action after Laura Loomer, a right-wing influencer who has led several campaigns against federal workers she deems disloyal to Trump, posted about a Facebook group called “ICE Sighting- Chicagoland” that she claimed “is providing location updates on ICE raids and ICE agent locations in the Chicago area.” While neither the DOJ nor Meta confirmed the name of the group taken down, Loomer claimed a DOJ source told her the agency had seen her post and contacted Meta about such pages.",
+              "As President Donald Trump has ramped up immigration enforcement across the country, including through more aggressive tactics like workplace raids, several tools and community groups have popped up to alert people to ICE’s presence in their area.",
+              "The ICEBlock app used to anonymously report ICE sightings rose to the top of Apple’s app store this summer before it was similarly removed by Apple after the DOJ reached out, with Bondi claiming it was “designed to put ICE agents at risk just for doing their jobs.” ICEBlock developer Joshua Aaron told Fox News Digital it was “patently false” that the app “served to harm law enforcement officers.”\nBondi’s statement raises questions about whether the government engaged in illegal jawboning\nAs private sector businesses, Apple and Meta can generally legally remove groups or apps as they see fit.",
+              "But Bondi’s statement raises questions about whether the government engaged in illegal jawboning, or pressuring private actors to take down legal speech.",
+              "It’s not clear precisely what the DOJ said to platforms that prompted them to take action, or whether Meta might have removed the page even without government intervention."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "DirecTV screensavers will show AI-generated ads with your face in 2026",
+            "link": "https://arstechnica.com/gadgets/2025/10/directv-screensavers-will-show-ai-generated-ads-with-your-face-in-2026/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1983c5bcca9f9a258cb141a19a7f96f17aed42b2"
+          },
+          "review": {
+            "headline_rewrite": "DirecTV screensavers will show AI-generated ads with your face in 2026",
+            "bullets": [
+              "As if DirecTV doesn't have enough trouble keeping customers, the satellite TV provider's streaming devices will show AI-generated screensaver ads next year, according to an announcement today from partnering ads company Glance.",
+              "DirecTV’s Gemini Air is an Android TV-powered USB device that people can plug into a TV for access to live TV channels, as well as streaming apps.",
+              "Gemini Air doesn’t require a DirecTV satellite connection, and DirecTV gives all of its Internet customers the device.",
+              "DirecTV first started selling Gemini devices in 2023, when it launched a separate Gemini set-top box that connects through DirecTV satellite setups.",
+              "DirecTV made an agreement with Glance to show AI-generated content and ads on Gemini devices' screensavers.",
+              "When the new screensavers launch, Glance's AI content will show if the TV is idle for 10 minutes, The Verge reported."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
