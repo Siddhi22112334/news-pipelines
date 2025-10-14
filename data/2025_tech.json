@@ -166471,6 +166471,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:07": [
+        {
+          "item": {
+            "title": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+            "link": "https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "355efd4fa18ebce7b72dc5d15e60477dfc982166"
+          },
+          "review": {
+            "headline_rewrite": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+            "bullets": [
+              "AWS Transfer Family SFTP connectors now support VPC-based connectivity\nToday, AWS Transfer Family SFTP connectors now support connectivity to remote SFTP servers through Amazon Virtual Private Cloud (Amazon VPC) environments.",
+              "You can transfer files between Amazon Simple Storage Service (Amazon S3) and private or public SFTP servers while applying the security controls and network configurations already defined in your VPC.",
+              "- Security and compliance – All file transfers are routed through the security controls already applied in your VPC, such as AWS Network Firewall or centralized ingress and egress inspection.",
+              "Private SFTP servers remain private and don’t need to be exposed to the internet.",
+              "You can configure connectors in minutes through the AWS Management Console, AWS Command Line Interface (AWS CLI), or AWS SDKs without building custom scripts or third-party tools.",
+              "The resource gateway provides SFTP connector access to these configurations, enabling file transfers to flow through your VPC and its security controls."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Spotify partners with Netflix for video podcast distribution deal",
+            "link": "https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0bfb8cbed52f00e46298af5c3153275770a90d1f"
+          },
+          "review": {
+            "headline_rewrite": "Spotify partners with Netflix for video podcast distribution deal",
+            "bullets": [
+              "At launch, the Netflix-Spotify partnership will bring a curated selection of sports, culture, lifestyle, and true crime podcasts from Spotify Studios and The Ringer to Netflix.",
+              "Over time, the deal will see Spotify adding even more podcasts from other studios and genres, Spotify said.",
+              "The move follows Spotify’s increased focus on video podcasts, beginning with the launch of tools that made it possible for anyone to publish their shows as videos.",
+              "Over the past year, the company has added incentives that paid podcaster hosts for their popular videos and launched a Partner Program so hosts could monetize their video content, in a challenge to YouTube.",
+              "However, Spotify’s investments failed to turn into substantial profits, necessitating a new strategy.",
+              "Video, which is heavily consumed by Gen Z users in particular, offers more opportunities for ad products and monetization, the company now believes."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option",
+            "link": "https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "96138127b344779f170a5926bedda3030d4d13ff"
+          },
+          "review": {
+            "headline_rewrite": "Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option",
+            "bullets": [
+              "While AI companies, startups, and others are rolling out their own web browsers that embed AI services deep into the web surfing experience, Mozilla’s Firefox is instead allowing its customers to swap out their default search engine for an AI-powered search option in the browser they already use.",
+              "The company on Tuesday announced that it’s bringing AI answer engine Perplexity to Firefox, letting customers decide whether they want to use AI to search the web and find new information.",
+              "Mozilla had previously announced it was testing the integration, but the option was only available in select markets, including the U.S., U.K., and Germany.",
+              "Now, the company says that positive user feedback has pushed it to make Perplexity available to its global users on the desktop.",
+              "Mozilla had earlier said that if the Perplexity pilot was successful, it would look to add more AI answer engines or search options to its browser in the future.",
+              "(It likely started with Perplexity because the company says it won’t share or sell users’ personal data.)\nAlongside news of the AI search option, Mozilla also noted it’s making its browser profiles broadly available to all users after months of tests and a gradual rollout."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple teases M5 MacBook",
+            "link": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser",
+            "site_name": "The Verge",
+            "novelty_hash": "7b7b2796c8315301a9d387605e3b4b832f929046"
+          },
+          "review": {
+            "headline_rewrite": "Apple teases M5 MacBook",
+            "bullets": [
+              "Apple is teasing the imminent launch of a new MacBook with an M5 chip.",
+              "Apple teases M5 MacBook\n‘Coming soon.’\nThis new laptop isn’t a big surprise, as Bloomberg’s Mark Gurman recently reported that Apple is set to announce a base-model MacBook Pro with an M5 chip this week.",
+              "The imminent launch of M5-equipped products from Apple isn’t a shock, either: iPad Pros with an M5 chip have also already been unboxed on YouTube, and Gurman said that the new tablets are set to be announced this week, though Joswiak hasn’t hinted at that just yet.",
+              "Gurman also said that a Vision Pro with “a faster chip” is set to be announced this week, which could be the new headset recently spotted in an FCC filing."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google will let Gemini schedule meetings for you in Gmail",
+            "link": "https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c4f69432be75df44ed1ee73568e39b2f3aa2f8e4"
+          },
+          "review": {
+            "headline_rewrite": "Google will let Gemini schedule meetings for you in Gmail",
+            "bullets": [
+              "Meetings can be a real drain on productivity, but a new Gmail feature might at least cut down on the time you spend scheduling them.",
+              "The company has announced \"Help Me Schedule\" is coming to Gmail, leveraging Gemini AI to recognize when you want to schedule a meeting and offering possible meeting times for the email recipient to choose.",
+              "As you type emails, Gmail will be able to recognize when you are planning a meeting.",
+              "Upon clicking, Google's AI will swing into action and find possible meeting times that match the context of your message and are available in your calendar.",
+              "When you engage with Help me schedule, the AI generates an in-line meeting widget for your message.",
+              "Google says the feature won't support groups at launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sam Altman says ChatGPT will soon sext with verified adults",
+            "link": "https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults",
+            "site_name": "The Verge",
+            "novelty_hash": "6c4a9fd6f504db4713af3f3915bf700f85ea6ed8"
+          },
+          "review": {
+            "headline_rewrite": "Sam Altman says ChatGPT will soon sext with verified adults",
+            "bullets": [
+              "OpenAI will soon allow “erotica” for ChatGPT users who verify their age on the platform.",
+              "In an X post on Tuesday, OpenAI CEO Sam Altman said the company will add support for mature conversations when it launches age-gating in December.",
+              "Sam Altman says ChatGPT will soon sext with verified adults\nOpenAI will bring ‘erotica’ to ChatGPT once it rolls out age verification in December.",
+              "Earlier this month, OpenAI hinted at allowing developers to create “mature” ChatGPT apps after it implements the “appropriate age verification and controls.”\nOpenAI isn’t the only company dipping into erotica, as Elon Musk’s xAI previously launched flirty AI companions, which appear as 3D anime models in the Grok app.",
+              "Along with the addition of “erotica”, OpenAI also plans on launching a new version of ChatGPT that “behaves more like what people liked about 4o.” Just one day after making GPT-5 the default model powering ChatGPT, OpenAI brought back GPT-4o as an option after people complained the new model was less personable.",
+              "Altman said OpenAI made ChatGPT “pretty restrictive to make sure we were being careful with mental health issues,” adding that the company realized this change made the chatbot “less useful/enjoyable to many users who had no mental health problems.” OpenAI has since launched tools to “better detect” when a user is in mental distress."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
