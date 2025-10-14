@@ -166591,6 +166591,126 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:48": [
+        {
+          "item": {
+            "title": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+            "link": "https://aws.amazon.com/blogs/aws/aws-transfer-family-sftp-connectors-now-support-vpc-based-connectivity/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "355efd4fa18ebce7b72dc5d15e60477dfc982166"
+          },
+          "review": {
+            "headline_rewrite": "AWS Transfer Family SFTP connectors now support VPC-based connectivity",
+            "bullets": [
+              "AWS Transfer Family SFTP connectors now support VPC-based connectivity\nToday, AWS Transfer Family SFTP connectors now support connectivity to remote SFTP servers through Amazon Virtual Private Cloud (Amazon VPC) environments.",
+              "You can transfer files between Amazon Simple Storage Service (Amazon S3) and private or public SFTP servers while applying the security controls and network configurations already defined in your VPC.",
+              "- Security and compliance – All file transfers are routed through the security controls already applied in your VPC, such as AWS Network Firewall or centralized ingress and egress inspection.",
+              "Private SFTP servers remain private and don’t need to be exposed to the internet.",
+              "You can configure connectors in minutes through the AWS Management Console, AWS Command Line Interface (AWS CLI), or AWS SDKs without building custom scripts or third-party tools.",
+              "The resource gateway provides SFTP connector access to these configurations, enabling file transfers to flow through your VPC and its security controls."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best deals on 4K TVs",
+            "link": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
+            "site_name": "The Verge",
+            "novelty_hash": "212317d61e4dd7b1e04ab3b7770b8e0acc888d8b"
+          },
+          "review": {
+            "headline_rewrite": "The best deals on 4K TVs",
+            "bullets": [
+              "There’s usually a great deal happening on a mid- or high-end TV from LG, Sony, Roku, Hisense, or Samsung — even if the biggest discounts remain reserved for Black Friday, Cyber Monday, Amazon Prime Day, and during the lead-up to the Super Bowl.",
+              "The best 4K TV deals for most people\nSamsung Q8F\nSamsung’s Q8F is available for around $649.99 ($150 off) at Amazon, Best Buy, and B&H Photo for the 55-inch model, which is a solid value for a QLED 4K TV.",
+              "Samsung is also including two free months of Xbox Game Pass Ultimate with purchase, which will allow you to stream games directly to your TV through the cloud, eliminating the need for a console.",
+              "The TV is powered by Samsung’s Q4 AI processor, which is used to upscale HD video to 4K when necessary, to optimize the picture in real-time, and make navigating its interface feel snappy.",
+              "It also sports a pair of HDMI 2.0 ports — which can carry a 4K signal at up to 60Hz — and a port assortment that makes it a good choice for current-gen consoles, 4K Blu-ray players, and streaming devices.",
+              "The U65QF also supports Dolby Vision, HLG, and HDR10 Plus for better color reproduction, and it features a Hi-View AI chip that automatically processes the image on screen so that it appears sharper."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Inaudible sound might be the next frontier in wildfire defense",
+            "link": "https://techcrunch.com/2025/10/14/inaudible-sound-might-be-the-next-frontier-in-wildfire-defense/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "10e7cedcd4dea9627c3164057230a6a8741beffc"
+          },
+          "review": {
+            "headline_rewrite": "Inaudible sound might be the next frontier in wildfire defense",
+            "bullets": [
+              "One startup now claims to have cracked the problem.",
+              "The startup has raised a $3.5 million seed round from investors, including Khosla Ventures and Third Sphere, TechCrunch has exclusively learned.",
+              "Michael Thomas, who is chairman of the startup’s board, had been tinkering with the idea of using sound to fight fires, and when he hit a wall, he reached out to Geoff Bruder over LinkedIn.",
+              "“I got a subwoofer and some parts from Home Depot and AutoZone and said, ‘Hey, let’s see if we can do any better than other people had,’” Bruder recalled.",
+              "The problem with audible frequencies is that any system powerful enough to suppress a fire would be damaging to people’s hearing, Bruder said.",
+              "“You’ve basically got to throw a speaker design in the trash and start from scratch,” he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple teases M5 MacBook",
+            "link": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser",
+            "site_name": "The Verge",
+            "novelty_hash": "7b7b2796c8315301a9d387605e3b4b832f929046"
+          },
+          "review": {
+            "headline_rewrite": "Apple teases M5 MacBook",
+            "bullets": [
+              "Apple is teasing the imminent launch of a new MacBook with an M5 chip.",
+              "Apple teases M5 MacBook\n‘Coming soon.’\nThis new laptop isn’t a big surprise, as Bloomberg’s Mark Gurman recently reported that Apple is set to announce a base-model MacBook Pro with an M5 chip this week.",
+              "The imminent launch of M5-equipped products from Apple isn’t a shock, either: iPad Pros with an M5 chip have also already been unboxed on YouTube, and Gurman said that the new tablets are set to be announced this week, though Joswiak hasn’t hinted at that just yet.",
+              "Gurman also said that a Vision Pro with “a faster chip” is set to be announced this week, which could be the new headset recently spotted in an FCC filing."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google will let Gemini schedule meetings for you in Gmail",
+            "link": "https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c4f69432be75df44ed1ee73568e39b2f3aa2f8e4"
+          },
+          "review": {
+            "headline_rewrite": "Google will let Gemini schedule meetings for you in Gmail",
+            "bullets": [
+              "Meetings can be a real drain on productivity, but a new Gmail feature might at least cut down on the time you spend scheduling them.",
+              "The company has announced \"Help Me Schedule\" is coming to Gmail, leveraging Gemini AI to recognize when you want to schedule a meeting and offering possible meeting times for the email recipient to choose.",
+              "As you type emails, Gmail will be able to recognize when you are planning a meeting.",
+              "Upon clicking, Google's AI will swing into action and find possible meeting times that match the context of your message and are available in your calendar.",
+              "When you engage with Help me schedule, the AI generates an in-line meeting widget for your message.",
+              "Google says the feature won't support groups at launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Do You Really Have to Stop Using Windows 10?",
+            "link": "https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/",
+            "site_name": "WIRED",
+            "novelty_hash": "c86e9517770a83c3650672b9239455bc471fa275"
+          },
+          "review": {
+            "headline_rewrite": "Do You Really Have to Stop Using Windows 10?",
+            "bullets": [
+              "This means millions of people could be using an operating system that’s no longer receiving security updates.",
+              "That's because the system will no longer receive security updates or patches from Microsoft.",
+              "There's also a security angle.",
+              "In addition to no longer receiving security updates for your operating system, you'll also eventually stop getting security updates for the tools you use.",
+              "Yes, this is annoying if you prefer Windows 10, but the good news is that Windows 11 is free, and the irritating AI features are easy to turn off.",
+              "Head to Settings > Privacy and Security > Windows Update."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
