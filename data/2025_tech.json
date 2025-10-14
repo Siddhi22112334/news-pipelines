@@ -163067,6 +163067,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "06:43": [
+        {
+          "item": {
+            "title": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
+            "link": "https://blogs.nvidia.com/blog/live-dgx-spark-delivery/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "cace4abde375bb404a99442018321140b472a45b"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
+            "bullets": [
+              "The next AI revolution starts where rockets launch.",
+              "NVIDIA founder and CEO Jensen Huang hand-delivered the world’s smallest AI supercomputer — a petaflop of performance in a box that fits on a desk — to Elon Musk.",
+              "Nine years ago, NVIDIA bet on the future of AI with NVIDIA DGX-1.",
+              "Today, that bet goes beyond the data center with the handoff to Musk coming amid the 11th test of SpaceX’s Starship, the world’s most powerful launch vehicle.",
+              "From robotics labs to creative studios, DGX Sparks are landing where ideas happen… putting petaflop AI within arm’s reach of everyone.",
+              "Each delivery is a new chapter in the story of AI."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th",
+            "link": "https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer",
+            "site_name": "The Verge",
+            "novelty_hash": "792a98ab2ecee824406d089f19fddee3d7d30bb8"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th",
+            "bullets": [
+              "Nvidia will start selling its DGX Spark “personal AI supercomputer” this week.",
+              "The machine is powerful enough to let users work on sophisticated AI models but small enough to fit on a desktop.",
+              "Nvidia’s ‘personal AI supercomputer’ goes on sale October 15th\nThe small-but-mighty Spark can handle sophisticated AI models and still fit on your desk.",
+              "Nvidia said Spark can be ordered online at nvidia.com starting Wednesday, October 15th, as well as from select partners and stores in the US.",
+              "It said units would cost $3,000 when it revealed Spark earlier this year, but it appears the DGX Spark will now cost $3,999, according to an infographic embedded in Nvidia’s press release.",
+              "It could help democratize AI and would be particularly useful for researchers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data",
+            "link": "https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/",
+            "site_name": "WIRED",
+            "novelty_hash": "2b32039812b4e27451e42420f990b23acdc9a595"
+          },
+          "review": {
+            "headline_rewrite": "Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data",
+            "bullets": [
+              "So you might expect that those space-based radio communications would be encrypted to prevent any snoop with a satellite dish from accessing the torrent of secret information constantly raining from the sky.",
+              "Roughly half of geostationary satellite signals, many carrying sensitive consumer, corporate, and government communications, have been left entirely vulnerable to eavesdropping, a team of researchers at UC San Diego and the University of Maryland revealed today in a study that will likely resonate across the cybersecurity industry, telecom firms, and inside military and intelligence agencies worldwide.",
+              "By simply pointing their dish at different satellites and spending months interpreting the obscure—but unprotected—signals they received from them, the researchers assembled an alarming collection of private data: They obtained samples of the contents of Americans’ calls and text messages on T-Mobile’s cellular network, data from airline passengers’ in-flight Wi-Fi browsing, communications to and from critical infrastructure such as electric utilities and offshore oil and gas platforms, and even US and Mexican military and law enforcement communications that revealed the locations of personnel, equipment, and facilities.",
+              "“And just time and time again, every time we found something new, it wasn't.”\nThe group’s paper, which they’re presenting this week at an Association for Computing Machinery conference in Taiwan, is titled “Don’t Look Up”—a reference to the 2021 film of that title but also a phrase the researchers say describes the apparent cybersecurity strategy of the global satellite communications system.",
+              "That was their method of security,” Schulman says.",
+              "This suggests vast amounts of data are likely still being exposed over satellite communications, says Matt Green, a computer science professor at Johns Hopkins University who focuses on cybersecurity and reviewed the study."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI signs its third Big chip deal, partners with Broadcom to build AI processors",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-signs-its-third-big-chip-deal-partners-with-broadcom-to-build-ai-processors/articleshow/124530389.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "245e28f2986993bdac84ab24cb57a10ff418fbdb"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI signs its third Big chip deal, partners with Broadcom to build AI processors",
+            "bullets": [
+              "ChatGPT-maker\nOpenAI has struck its third major chip deal with Broadcom, agreeing to purchase 10 gigawatts of computer chips from the US semiconductor giant.",
+              "This partnership is the latest in a series of deals by the Microsoft-backed artificial intelligence (AI) start-up worth hundreds of billions of dollars with Nvidia and AMD.",
+              "According to a report by The Financial Times, the order means OpenAI could spend another $350 billion to $500 billion on top of the roughly $1 trillion in chip and data centre deals it has signed in recent months as it races to secure the computing power to run services such as ChatGPT.",
+              "OpenAIâs string of massive chip deals\nIn September, OpenAI agreed to buy chips with a total power consumption of 10 gigawatts from Nvidia.",
+              "Last week, the company announced it would buy a further 6 gigawatts of chips from rival chip designer AMD.",
+              "OpenAI also recently struck a data centre deal with Oracle that will cost $300 billion over five years."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "052db16053152b2b6125cc9137de59185999d867"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Google Cloud introduces Gemini Enterprise, an AI platform for businesses\nGoogle Cloud has launched Gemini Enterprise, a new AI platform integrating with business tools like Google Workspace and Salesforce.",
+              "This platform aims to automate tasks, analyze data, and provide insights through a single interface, empowering employees without coding skills."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "da415731ab791a297a75b60494b5ea9094dca1b6"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "New York State Waives College Application Fees at Nearly 130...FARGO-MOORHEAD NEWS\nWeekend wrapup\nAfternoon Update\nPublic Safety\nTwo off-duty Memphis cops arrested for drag racing, departmentMetro - Shelby County\nLowery wants a 'change in culture,' Pearson gears up fundraisingSports - High School Sports\nVote for the Daily Memphian high school football player of theMonday's news in Fairfax County\nMonday News Roundup - Evening Edition\nLatest headlines\nNews, art & life in Fayetteville, Arkansas\nMonday Night News\nFriday night crash sends three to the hospital\nNews\nFriday night crash sends three to the hospitalGovernment & Politics\nEnhancing Wildfire Preparedness in Los Angeles CountyGovernment & Politics\nGovernor Signs Landmark Legislation to Combat Antisemitism in K-12 SchoolsThe Almanac\nOct 13 2025, 3:52 PM\nDowntown Menlo Park Affordable Housing Plan Faces New ChallengesOct 13 2025, 12:35 PM\nFrom dated Los Altos rancher to modern, sun-filled farmhouseOct 13 2025, 10:30 AM\nA message to readers of The AlmanacSan Diego Monday Morning Report\nWinter is coming\nShort but fierce storm expected to hit region by Tuesday'Bubble Queen of Mission Bay'\nReggie Dyer Veit reigns with joyMarketInk\nSan Diego Seals pick TV anchor as public-address announcerToledo's Leader in News, Sports & Entertainment\nHappening in Loudoun County\nDallas-Fort Worth News - Oct.",
+              "13, 2025\nWORLD\nMacron won't resign\nNo-confidence votes threaten new government in FranceGen Z protests\nMadagascar's president has left the country, officials sayRare public warning\nUK's MI5 warns politicians of China, Russia spy threatMy Suburban Life\nBRAINERD MINNESOTA NEWS\nMonday's news in Arlington, Virginia\nThe Evening Recap (Oct.",
+              "13, 2025)\nSAN FRANCISCO'S TOP STORIES\nWILLMAR MINNESOTA NEWS\nBridge Michigan\nOct 13 2025, 4:14 PM\nDo Michigan chimps have right to liberty?",
+              "Court to weigh ...Oct 13 2025, 4:06 PM\nRoad funding 101: What to know about Michigan’s $2B dealOct 13 2025, 12:34 PM\nFluoride wars spark raucous debate over water treatment i...Latest Vermont News\nThe Evening Rundown | Oct.",
+              "13\nToday's Rundown\nNation & World News\nHostages, Palestinian prisoners released as part of ceasefire Santa Fe\nMayoral candidate Greene defends rentals in city, STRsSanta Fe Mayoral Race\nQ&A: Santa Fe mayoral candidates on housing Daily News\nHigher Education\nUIHC nurses speak out about badge policy requiring full names,…Campaigns & Elections\nRod Blum ends comeback bid for Iowa’s 2nd Congressional…Iowa Football\nIowa moves into top half Big Ten standings after historic…Pittsburgh Does\nKane County Chronicle\nBatavia Chamber seeks Citizen of the Year Award nominationsKane County Chronicle\nCity of St.",
+              "Charles leaders tout accomplishments, share challenges at State of the CityLatest and Local – Casper, WY\nThe Herald News\nPhotos: IHSA Danville Sectional Plainfield Central vs."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
