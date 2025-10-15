@@ -170790,6 +170790,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:55": [
+        {
+          "item": {
+            "title": "Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers",
+            "link": "https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "56893703f658e37a10d854a50969494fc59f4d44"
+          },
+          "review": {
+            "headline_rewrite": "Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers",
+            "bullets": [
+              "While employees spend much of their day communicating and coordinating amongst themselves on projects, this effort is often undermined by the availability of specific individuals.",
+              "Ashutosh Garg and Varun Kacholia, the co-founders of Eightfold — an AI recruiting startup last valued at $2.1 billion — believe that advances in LLMs and data privacy technologies can help solve some aspects of this costly problem.",
+              "Earlier this year, they launched Viven, a digital twins startup with a mission to grant employees access to crucial information from teammates even when those colleagues are unavailable.",
+              "On Wednesday, Viven emerged out of stealth mode with $35 million in seed funding from Khosla Ventures, Foundation Capital, FPV Ventures, and others.",
+              "Viven develops a specialized LLM for each employee, effectively creating a digital twin by accessing their internal electronic documents such as email, Slack, and Google Docs.",
+              "According to Garg, Viven’s technology solves that complex problem through a concept known as pairwise context and privacy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic launches new version of scaled-down ‘Haiku’ model",
+            "link": "https://techcrunch.com/2025/10/15/anthropic-launches-new-version-of-scaled-down-haiku-model/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "20305f84b93bd217218aa1de7b3bead2789237a5"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic launches new version of scaled-down ‘Haiku’ model",
+            "bullets": [
+              "On Wednesday, Anthropic released Claude Haiku 4.5, the newest version of its smallest model, billed as offering similar performance to Sonnet 4 “at one-third the cost and more than twice the speed,” per a company blog post.",
+              "While the\nAnthropic sites a range of new benchmark results to back up those performance claims.",
+              "In the company’s testing, Haiku scored 73% on SWE-Bench verified and 41% on the command-line-focused Terminal-Bench — below Sonnet 4.5, but on par with Sonnet 4, GPT-5 and Gemini 2.5 in each case.",
+              "The new version of Haiku will be immediately available under all free Anthropic plans and the company believes it will be particularly appealing for free versions of AI products, where it can provide significant capabilities while minimizing server loads.",
+              "The lightweight nature of the model also means it’s easier to deploy multiple Haiku agents in parallel or in combination with a more sophisticated model.",
+              "In a statement to press, Anthropic CPO Mike Krieger said the Haiku would make new styles of deployment possible in production for the first time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Senate Democrats want to know: was YouTube’s Trump settlement a bribe?",
+            "link": "https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe",
+            "site_name": "The Verge",
+            "novelty_hash": "06bac57b35e5a8d3da10ae148993bf01296be478"
+          },
+          "review": {
+            "headline_rewrite": "Senate Democrats want to know: was YouTube’s Trump settlement a bribe?",
+            "bullets": [
+              "They’re warning the company “may have run afoul of the law.”\nIn a letter to Google CEO Sundar Pichai and YouTube CEO Neal Mohan, five Senators — Elizabeth Warren (D-MA), Ron Wyden (D-OR), Bernie Sanders (I-VT), Richard Blumenthal (D-CT), and Jeff Merkley (D-OR) — asked for details about any settlement talks between those companies and the Trump administration.",
+              "They’re interested in whether Google secured favorable treatment as a result of the payout, including leniency in multiple ongoing antitrust lawsuits, something they warn could constitute an illegal bribe.",
+              "It’s raised eyebrows thanks to the weak legal rationale (courts have all but unanimously declared social media companies can ban users) and the fact that YouTube’s parent company would benefit greatly from winning Trump’s favor.",
+              "Google is entangled in multiple antitrust suits\nGoogle recently appeared in court to determine how a judge should neutralize its monopoly in the ad tech sector — with the Department of Justice arguing for a dramatic breakup.",
+              "Google is also entangled in a search antitrust suit, where a judge proposed milder remedies than the preceding Biden administration asked for, and the Trump administration will be in charge of deciding how hard to push an appeal.",
+              "“The public deserves to know whether YouTube’s settlement will influence the Trump Justice Department’s decision regarding whether to appeal and seek the stricter remedies DOJ had originally sought against Google,” the letter says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "I just reviewed the Xbox Ally, ask me anything",
+            "link": "https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything",
+            "site_name": "The Verge",
+            "novelty_hash": "7a583c41f3adec52998dcf43f695a8a7b9f677c7"
+          },
+          "review": {
+            "headline_rewrite": "I just reviewed the Xbox Ally, ask me anything",
+            "bullets": [
+              "(I also helped launch this website back in the day!) And I’ve just spent the past week reviewing the Xbox Ally and Xbox Ally X, Microsoft’s very first “Xbox” handhelds that are built and co-developed by Asus.",
+              "So I’ll be hosting my own subscriber-only AMA right here, and I’ll show up on launch day tomorrow, Thursday October 16th at 9am PT / 12pm ET to answer as many as I humanly can."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The AI Industry's Scaling Obsession Is Headed for a Cliff",
+            "link": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
+            "site_name": "WIRED",
+            "novelty_hash": "8ba33029dba4c8f62ab8a0ae3d9ab4f929c1fcca"
+          },
+          "review": {
+            "headline_rewrite": "The AI Industry's Scaling Obsession Is Headed for a Cliff",
+            "bullets": [
+              "A new study from MIT suggests the biggest and most computationally intensive AI models may soon offer diminishing returns compared to smaller models.",
+              "By mapping scaling laws against continued improvements in model efficiency, the researchers found that it could become harder to wring leaps in performance from giant models whereas efficiency gains could make models running on more modest hardware increasingly capable over the next decade.",
+              "Leaps in efficiency, like those seen with DeepSeek’s remarkably low-cost model in January, have already served as a reality check for the AI industry, which is accustomed to burning massive amounts of compute.",
+              "As things stand, a frontier model from a company like OpenAI is currently much better than a model trained with a fraction of the compute from an academic lab.",
+              "While the MIT team’s prediction might not hold if, for example, new training methods like reinforcement learning produce surprising new results, they suggest that big AI firms will have less of an edge in the future.",
+              "“If you are spending a lot of money training these models, then you should absolutely be spending some of it trying to develop more efficient algorithms, because that can matter hugely,” he adds."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best VPN service for 2025",
+            "link": "https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d5c5a819b44e9d4e26a79c310a2ef48744c7870d"
+          },
+          "review": {
+            "headline_rewrite": "The best VPN service for 2025",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "For each VPN on this list, I've shared which platforms it works on, how much it cuts into your download speed, where it offers servers, what other features are included and how much the best available deal costs.",
+              "Every feature is where you expect it to be, never demanding any digging or leaving you perplexed about what a certain setting is for.",
+              "There's no drop-off in quality between platforms, either: Proton has clearly paid equally close attention to its clients for Windows, Mac, iOS and Android.",
+              "It's also a VPN uniquely devoted to security and privacy.",
+              "Not only did it pass my leak tests without a scratch, but it's also a leader in physical VPN security — its Secure Core servers connect you through locations fortified in the real-world."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
