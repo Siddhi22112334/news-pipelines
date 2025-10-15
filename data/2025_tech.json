@@ -171257,6 +171257,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:49": [
+        {
+          "item": {
+            "title": "4 ways I customized my new Pixel Buds 2a",
+            "link": "https://blog.google/products/pixel/pixel-buds-2a-custom-settings/",
+            "site_name": "Google",
+            "novelty_hash": "55d0236df4a7d48c023ea6cc0d1c74e1928a513d"
+          },
+          "review": {
+            "headline_rewrite": "4 ways I customized my new Pixel Buds 2a",
+            "bullets": [
+              "Powered by the Tensor AI, they’re the first A-series Pixel Buds with Active Noise Cancellation and they give you easy, hands-free access to Gemini.",
+              "Gave my Buds a new name\nI have a few pairs of Pixel Buds, including older ones I don’t use anymore, so I always like to give my earbuds a fun, easy-to-recognize new name when I first set them up."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple adds 650 megawatts of renewables in Europe with more coming in China",
+            "link": "https://techcrunch.com/2025/10/15/apple-adds-650-megawatts-of-renewables-in-europe-with-more-coming-in-china/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "578c58a0693bdb94c57937417b24bf6bec46bb65"
+          },
+          "review": {
+            "headline_rewrite": "Apple adds 650 megawatts of renewables in Europe with more coming in China",
+            "bullets": [
+              "Even though Europe isn’t usually considered a sunny continent, Apple is buying energy from several solar farms, including 110 megawatts each in Greece and Latvia, 131 megawatts in Spain, and 40 megawatts in Poland.",
+              "Separately, Apple also said it would invest $150 million in China to help its suppliers switch to renewable energy.",
+              "Already, renewable sources power more than 90% of the company’s manufacturing and production in the country.",
+              "This year alone, Meta has added over 2 gigawatts of solar capacity, and Microsoft has signed deals that raise its total by 1.5 gigawatts.",
+              "When paired with batteries, which continue to drop in cost, they can provide firm, 24-7 power.",
+              "For tech companies, which are in a race to secure power for their data centers and AI operations, that speed can make a significant difference."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The iPad just got the chip it needs to be a smart home controller — again",
+            "link": "https://www.theverge.com/news/799911/ipad-pro-thread-smart-home-apple-home-hub",
+            "site_name": "The Verge",
+            "novelty_hash": "e70b0892d5e0ab4efc5eaea634b0d53bb4fe3f00"
+          },
+          "review": {
+            "headline_rewrite": "The iPad just got the chip it needs to be a smart home controller — again",
+            "bullets": [
+              "It comes with Apple’s new N1 wireless networking chip, which adds Wi-Fi 7, Bluetooth 6, and Thread — the three wireless protocols the Matter smart home standard runs on.",
+              "The iPad just got the chip it needs to be a smart home controller — again\nThe N1 wireless chip brings Thread to the iPad Pro for the first time (officially).",
+              "While other iPads and Macs reportedly have Thread radios, this is the first model launching with the protocol publicly listed in the specs, and it could lay the groundwork for the iPad to be a Home hub — again.",
+              "Just as the answer to why Apple added Thread to iPhones starting with the iPhone 15 Pro wasn’t immediately clear, the company also hasn’t said why it’s on the new iPad.",
+              "This makes adding a Thread device — like a smart light, lock, or plug — easier as you won’t need to go buy an extra product just to use the one you bought.",
+              "(Although some functionality may be limited until you get a border router.)\nApple could be considering bringing the iPad back into the Home hub fold\nThe iPad wouldn’t work as a Thread border router, as they need to be mains-powered devices, but having a Thread radio in a mobile device does allow for direct control of Thread gadgets, improving reliability and speed."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+            "link": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c2caf7d73ea4a62f18424445fb3780d96f59e06d"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+            "bullets": [
+              "On Wednesday, Anthropic released Claude Haiku 4.5, a small AI language model that reportedly delivers performance similar to what its frontier model Claude Sonnet 4 achieved five months ago but at one-third the cost and more than twice the speed.",
+              "The new model is available now to all Claude app, web, and API users.",
+              "If the benchmarks for Haiku 4.5 reported by Anthropic hold up to independent testing, the fact that the company can match some capabilities of its cutting-edge coding model from only five months ago (and GPT-5 in coding) while providing a dramatic speed increase and cost cut is notable.",
+              "As a recap, Anthropic ships the Claude family in three model sizes: Haiku (small), Sonnet (medium), and Opus (large).",
+              "Due to a technique called distillation, companies like Anthropic have been able to craft smaller AI models that match the capability of larger, older models at functional tasks like coding, although it typically comes at the cost of omitting stored knowledge.",
+              "That means if you wanted to converse with an AI model that might craft a deeper and more meaningful analysis of, say, foreign policy or world history, you might be better served talking to Sonnet or Opus (being aware that they can also be wrong and make things up)."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s new name for the Fire TV Stick 4K only adds more confusion",
+            "link": "https://www.theverge.com/news/800104/amazon-fire-tv-stick-4k-plus-new-name",
+            "site_name": "The Verge",
+            "novelty_hash": "54157e61b25474d283fd16304230b2285c692856"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s new name for the Fire TV Stick 4K only adds more confusion",
+            "bullets": [
+              "Now, Amazon has introduced that new branding, relaunching the product as the Amazon Fire TV Stick 4K Plus.",
+              "It assumes you’re willing to do the mental gymnastics of recalling where other “Plus” products sit in their respective lineups, and what that might mean for this device’s capabilities.",
+              "The 4K Select includes half the RAM of the 4K Plus and the 4K Max, meaning it’ll almost certainly be slower to navigate between menus and jump into apps."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Breach of F5 requires “emergency action” from BIG-IP users, feds warn",
+            "link": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "81b6cd2aa7e14c82e1c8e32149f275e62018dde1"
+          },
+          "review": {
+            "headline_rewrite": "Breach of F5 requires “emergency action” from BIG-IP users, feds warn",
+            "bullets": [
+              "Thousands of networks—many of them operated by the US government and Fortune 500 companies—face an “imminent threat” of being breached by a nation-state hacking group following the breach of a major maker of software, the federal government warned Wednesday.",
+              "F5, a Seattle-based maker of networking software, disclosed the breach on Wednesday.",
+              "F5 said a “sophisticated” threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a “long-term.” Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network for years.",
+              "Unprecedented\nDuring that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 says is used by 48 of the world’s top 50 corporations.",
+              "The hackers also obtained configuration settings that some customers used inside their networks.",
+              "Control of the build system and access to the source code, customer configurations, and documentation of unpatched vulnerabilities has the potential to give the hackers unprecedented knowledge of weaknesses and the ability to exploit them in supply-chain attacks on thousands of networks, many of which are sensitive."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
