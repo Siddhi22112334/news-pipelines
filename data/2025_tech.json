@@ -169606,6 +169606,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:00": [
+        {
+          "item": {
+            "title": "How Starcloud Is Bringing Data Centers to Outer Space",
+            "link": "https://blogs.nvidia.com/?p=85819",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "f07f6b168e9ac7c15ba5c8efe2353053bc31aa09"
+          },
+          "review": {
+            "headline_rewrite": "How Starcloud Is Bringing Data Centers to Outer Space",
+            "bullets": [
+              "Soon, an AI-equipped satellite from Starcloud, a member of the NVIDIA Inception program for startups, will orbit the Earth.",
+              "This can be a part of the solution to address challenges faced by rising AI demands, including energy consumption and cooling requirements for data centers on Earth.",
+              "“In space, you get almost unlimited, low-cost renewable energy,” said Philip Johnston, cofounder and CEO of the startup, which is based in Redmond, Washington.",
+              "“The only cost on the environment will be on the launch, then there will be 10x carbon-dioxide savings over the life of the data center compared with powering the data center terrestrially on Earth.”\nStarcloud’s upcoming satellite launch, planned for November, will mark the NVIDIA H100 GPU’s cosmic debut — and the first time a state-of-the-art, data center-class GPU is in outer space.",
+              "The 60-kilogram Starcloud-1 satellite, about the size of a small fridge, is expected to offer 100x more powerful GPU compute than any previous space-based operation.",
+              "Instead of relying on fresh water for cooling through evaporation towers, as many Earth-based data centers do, Starcloud’s space-based data centers can use the vacuum of deep space as an infinite heat sink."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "6 new ways Google is protecting you from scams",
+            "link": "https://blog.google/technology/safety-security/how-google-protects-against-scams-2025/",
+            "site_name": "Google",
+            "novelty_hash": "dd55c1e6e6ab38c04fe51168cf0409b34a979578"
+          },
+          "review": {
+            "headline_rewrite": "6 new ways Google is protecting you from scams",
+            "bullets": [
+              "Yet while increased connectivity has certainly fueled this rise in scams, the bigger shift is this: widespread access to cutting-edge technology is making scams more convincing and nefarious than ever before.",
+              "Just a few years ago, spotting a phishing email meant looking out for tell-tale signs like grammatical errors or strange attachments.",
+              "That’s why we’re continuously innovating and rolling out new security features that are built into our products.",
+              "Safer links are now available in Google Messages.",
+              "Now, if Google Messages suspects a message is spam, it will warn you when you click on any links within it and stop you from visiting the potentially harmful website, unless you explicitly mark the message as \"not spam.\" This protection is now available globally to all Google Messages users.",
+              "Key Verifier is now available in Google Messages."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Recovery Contacts: Sign in with a little help from your friends and family",
+            "link": "https://blog.google/technology/safety-security/recovery-contacts-verify-google-account/",
+            "site_name": "Google",
+            "novelty_hash": "e595c601a454b7a68ed78cbeb078d2b0309a0a71"
+          },
+          "review": {
+            "headline_rewrite": "Recovery Contacts: Sign in with a little help from your friends and family",
+            "bullets": [
+              "It’s a simple, secure way to turn to people you trust when other recovery options aren’t available.",
+              "They will get an email or notification and can confirm it’s really you by verifying that code, helping you securely regain access to your account.",
+              "Recovery Contacts adds another trusted, secure option on top of our existing tools, helping you regain access when other methods aren't available.",
+              "We know losing access to your account can be stressful, and we are continuing to work on new solutions to make recovery more dependable, while continuing to uphold Google’s high standards for privacy and security."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "VSCO gets AI editing chops, support for RAW files",
+            "link": "https://techcrunch.com/2025/10/15/vsco-gets-ai-editing-chops-support-for-raw-files/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cc9577900c940176e3cdc8ec3ca482010f23a728"
+          },
+          "review": {
+            "headline_rewrite": "VSCO gets AI editing chops, support for RAW files",
+            "bullets": [
+              "Video editing app VSCO is adding a set of new AI image editing tools, support for high-resolution RAW files, non-destructive edits, and content-aware region detection.",
+              "The AI tools will be housed in a new tab called “AI Labs,” which also brings AI-powered object removal chops, similar to Google and Apple’s homegrown offerings.",
+              "The company said it uses “intelligent area detection” to blend the background in after an object is removed without affecting the resolution or color.",
+              "Unlike most AI-powered removal tools that leave artifacts at times, VSCO claims its tool is more precise and preserves details, and is therefore better suited for professional photographers.",
+              "The company said that it will soon launch another AI-powered feature called Upscale, which claims to increase the resolution of images and sharpen details without compromising on details or composition.",
+              "The AI Labs features are available on VSCO’s Pro tier, which costs $12.99 a month, or $60 a year, on the VSCO Studio app on iOS."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "ROG Xbox Ally X: The Ars Technica review",
+            "link": "https://arstechnica.com/gaming/2025/10/rog-xbox-ally-x-the-ars-technica-review/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "92271dc48a303b792dfe8b70a72215f99952a92d"
+          },
+          "review": {
+            "headline_rewrite": "ROG Xbox Ally X: The Ars Technica review",
+            "bullets": [
+              "Instead, the ROG Xbox Ally is, at its base, simply a new version of Asus’ Windows-based ROG Ally line with an Xbox-flavored coat of paint.",
+              "That coat of paint—what Microsoft is calling the Xbox Full-screen Experience (FSE)—represents the company’s belated attempt to streamline the Windows gaming experience to be a bit more console-like in terms of user interface and overall simplicity.",
+              "The other major selling point of Microsoft’s Xbox FSE, as sold this summer, is an “aggregated gaming library” that includes “all of the games available on Windows” in one single mega-launcher interface.",
+              "That means apps like Steam, Battle.net, GOG Galaxy, Ubisoft Connect, and EA Play can all be installed with just a click from the “My Apps” section of the FSE from the first launch.",
+              "The home screen shows your most recent titles while also offering some ads for other available titles.",
+              "Kyle Orland / Asus\nThese third-party launchers are easy to install with a few button presses as soon as you load up the system for the first time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple just upgraded the Vision Pro with an M5 chip and new strap",
+            "link": "https://www.theverge.com/news/798962/apple-m5-vision-pro-headset-mixed-reality",
+            "site_name": "The Verge",
+            "novelty_hash": "159670fba58149a530e8624c00b2b2bf287d01f8"
+          },
+          "review": {
+            "headline_rewrite": "Apple just upgraded the Vision Pro with an M5 chip and new strap",
+            "bullets": [
+              "Apple just revealed that the Vision Pro headset is getting upgraded to an M5 chip.",
+              "There’s also a new strap called the Dual Knit Band, which the company says will “help users achieve an even more comfortable fit.”\nApple just upgraded the Vision Pro with an M5 chip and new strap\nThe headset originally had an M2 chipset.",
+              "The M5 headsets will be available starting October 22nd for the same $3,499.",
+              "But aside from the chip upgrade, nothing about the Vision Pro’s design has changed.",
+              "Instead, Apple’s press release claims that the M5 chip will bring faster processing and more detailed image rendering.",
+              "As for processing, AI-powered features like a Persona or spatial photos are up to 50 percent faster."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
