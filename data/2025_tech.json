@@ -171947,6 +171947,117 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:45": [
+        {
+          "item": {
+            "title": "This Thiel-backed venture allows doping in its own sports",
+            "link": "https://techcrunch.com/video/this-thiel-backed-venture-allows-doping-in-its-own-sports/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c96810e0665bc61b0a36155723bf9b0ac05eac77"
+          },
+          "review": {
+            "headline_rewrite": "This Thiel-backed venture allows doping in its own sports",
+            "bullets": [
+              "Backed by Peter Thiel and Donald Trump Jr.’s 1789 Capital, the Enhanced Games aims to disrupt the Olympics with a competition that allows athletes to dope.",
+              "Launching in Las Vegas in May 2026, the games promise $1 million bounties for breaking world records and lean on a business model reminiscent of Red Bull’s, using the spectacle as marketing for future enhancement products."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best iPad deals you can get right now",
+            "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+            "site_name": "The Verge",
+            "novelty_hash": "bb63985fc2372589908716e371e6b0d918f556ce"
+          },
+          "review": {
+            "headline_rewrite": "The best iPad deals you can get right now",
+            "bullets": [
+              "While the best iPad deals usually land during major sale events like Black Friday and Amazon Prime Day, many great iPad deals are available outside of those times.",
+              "The day-to-day discounts come and go like changing winds, so there’s often some amount to be saved, particularly on Apple’s most affordable iPad, the iPad Mini, and the latest iPad Air.",
+              "As for the iPad Pro, Apple just introduced a new model with an M5 chip, which is available to preorder ahead of its October 22nd launch.",
+              "The best iPad deals you can get right now\nThe base iPad and iPad Air offer the best discounts, but you can also save on the iPad Mini and last-gen iPad Pro.",
+              "All that being said, it’s difficult to know where exactly you can find the most notable iPad deals unless you’re scouring the major retailers on a daily basis.",
+              "Below, we’ve listed the best deals you can get on each iPad model that is available, from the 11th-gen base iPad to the more powerful models with M3 and M4 chips."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s AI video generator is getting better editing and more audio",
+            "link": "https://www.theverge.com/news/800371/google-veo-3-1-flow-audio",
+            "site_name": "The Verge",
+            "novelty_hash": "1d108525f57b0eb8a4f7ee671ff152c38daf1ff2"
+          },
+          "review": {
+            "headline_rewrite": "Google’s AI video generator is getting better editing and more audio",
+            "bullets": [
+              "Google is making videos created with the AI filmmaking tool Flow even more realistic — and harder to identify as AI-generated at first glance.",
+              "The company announced Wednesday that users can add in and change the shadows and lighting of their AI videos.",
+              "Google’s AI video generator is getting better editing and more audio\nYou can fix lighting and add shadows in AI-generated videos made with Flow.",
+              "Veo 3.1 costs the same as Veo 3, is available as part of a “paid preview” through Gemini API to developers, and is enabled in the Gemini app."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Army general says he’s using AI to improve “decision-making”",
+            "link": "https://arstechnica.com/ai/2025/10/army-general-says-hes-using-ai-to-improve-decision-making/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "cf162adb615057141a19c54d23fa7e2a85412bef"
+          },
+          "review": {
+            "headline_rewrite": "Army general says he’s using AI to improve “decision-making”",
+            "bullets": [
+              "Last month, OpenAI published a usage study showing that nearly 15 percent of work-related conversations on ChatGPT had to deal with \"making decisions and solving problems.\" Now comes word that at least one high-level member of the US military is using LLMs for the same purpose.",
+              "William \"Hank\" Taylor reportedly said that \"Chat and I are really close lately,\" using a distressingly familiar diminutive nickname to refer to an unspecified AI chatbot.",
+              "\"AI is one thing that, as a commander, it’s been very, very interesting for me.\"\nMilitary-focused news site DefenseScoop reports that Taylor told a roundtable group of reporters that he and the Eighth Army he commands out of South Korea are \"regularly using\" AI to modernize their predictive analysis for logistical planning and operational purposes.",
+              "That is helpful for paperwork tasks like \"just being able to write our weekly reports and things,\" Taylor said, but it also aids in informing their overall direction.",
+              "“One of the things that recently I’ve been personally working on with my soldiers is decision-making—individual decision-making,\" Taylor said.",
+              "Especially, [on] how do I make decisions, personal decisions, right — that affect not only me, but my organization and overall readiness?\"\nThat's still a far cry from the Terminator vision of autonomous AI weapon systems that take lethal decisions out of human hands."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google's Veo 3.1 is better at generating videos from images",
+            "link": "https://www.engadget.com/ai/googles-veo-31-is-better-at-generating-videos-from-images-220829129.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d929f9af6533cc34d54edf78433aa1564842ae03"
+          },
+          "review": {
+            "headline_rewrite": "Google's Veo 3.1 is better at generating videos from images",
+            "bullets": [
+              "Google has released a new update to its Veo AI video generation model that should make it do a better job of sticking to prompts and converting images into videos.",
+              "Veo 3.1 is available to try today through Google's Gemini API and is now also powering the company's Flow video editor.",
+              "Veo 3.1 builds on the new capabilities Google introduced with launch of Veo 3 at Google I/O 2025.",
+              "Veo 3.1 also makes it possible to convert images to video and generate audio at the same time, a capability that wasn't available with Veo 3.",
+              "Even if it's missing some of the realism of OpenAI's Sora 2, though, the company's decision to try and make Veo more useful to people who actually work with video rather than a source of social media spam is a welcome move."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "PayPal's blockchain partner accidentally minted $300 trillion in stablecoins",
+            "link": "https://www.engadget.com/cybersecurity/paypals-blockchain-partner-accidentally-minted-300-trillion-in-stablecoins-224017538.html",
+            "site_name": "Engadget",
+            "novelty_hash": "b465ecd7deb2f92dede43148146b5bd2373e365d"
+          },
+          "review": {
+            "headline_rewrite": "PayPal's blockchain partner accidentally minted $300 trillion in stablecoins",
+            "bullets": [
+              "In an embarrassing error, PayPal blockchain partner Paxos accidentally minted 300 trillion of the PYUSD token today.",
+              "The company claimed that \"this was an internal technical error.” Maybe so, but internal technical errors can still wreak havoc pretty quickly when it comes to finance, especially in the fantasy worlds of blockchain and crypto."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
