@@ -171140,6 +171140,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:07": [
+        {
+          "item": {
+            "title": "Apple adds 650 megawatts of renewables in Europe with more coming in China",
+            "link": "https://techcrunch.com/2025/10/15/apple-adds-650-megawatts-of-renewables-in-europe-with-more-coming-in-china/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "578c58a0693bdb94c57937417b24bf6bec46bb65"
+          },
+          "review": {
+            "headline_rewrite": "Apple adds 650 megawatts of renewables in Europe with more coming in China",
+            "bullets": [
+              "Even though Europe isn’t usually considered a sunny continent, Apple is buying energy from several solar farms, including 110 megawatts each in Greece and Latvia, 131 megawatts in Spain, and 40 megawatts in Poland.",
+              "Separately, Apple also said it would invest $150 million in China to help its suppliers switch to renewable energy.",
+              "Already, renewable sources power more than 90% of the company’s manufacturing and production in the country.",
+              "This year alone, Meta has added over 2 gigawatts of solar capacity, and Microsoft has signed deals that raise its total by 1.5 gigawatts.",
+              "When paired with batteries, which continue to drop in cost, they can provide firm, 24-7 power.",
+              "For tech companies, which are in a race to secure power for their data centers and AI operations, that speed can make a significant difference."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The iPad just got the chip it needs to be a smart home controller — again",
+            "link": "https://www.theverge.com/news/799911/ipad-pro-thread-smart-home-apple-home-hub",
+            "site_name": "The Verge",
+            "novelty_hash": "e70b0892d5e0ab4efc5eaea634b0d53bb4fe3f00"
+          },
+          "review": {
+            "headline_rewrite": "The iPad just got the chip it needs to be a smart home controller — again",
+            "bullets": [
+              "It comes with Apple’s new N1 wireless networking chip, which adds Wi-Fi 7, Bluetooth 6, and Thread — the three wireless protocols the Matter smart home standard runs on.",
+              "The iPad just got the chip it needs to be a smart home controller — again\nThe N1 wireless chip brings Thread to the iPad Pro for the first time (officially).",
+              "While other iPads and Macs reportedly have Thread radios, this is the first model launching with the protocol publicly listed in the specs, and it could lay the groundwork for the iPad to be a Home hub — again.",
+              "Just as the answer to why Apple added Thread to iPhones starting with the iPhone 15 Pro wasn’t immediately clear, the company also hasn’t said why it’s on the new iPad.",
+              "This makes adding a Thread device — like a smart light, lock, or plug — easier as you won’t need to go buy an extra product just to use the one you bought.",
+              "(Although some functionality may be limited until you get a border router.)\nApple could be considering bringing the iPad back into the Home hub fold\nThe iPad wouldn’t work as a Thread border router, as they need to be mains-powered devices, but having a Thread radio in a mobile device does allow for direct control of Thread gadgets, improving reliability and speed."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+            "link": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c2caf7d73ea4a62f18424445fb3780d96f59e06d"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+            "bullets": [
+              "On Wednesday, Anthropic released Claude Haiku 4.5, a small AI language model that reportedly delivers performance similar to what its frontier model Claude Sonnet 4 achieved five months ago but at one-third the cost and more than twice the speed.",
+              "The new model is available now to all Claude app, web, and API users.",
+              "If the benchmarks for Haiku 4.5 reported by Anthropic hold up to independent testing, the fact that the company can match some capabilities of its cutting-edge coding model from only five months ago (and GPT-5 in coding) while providing a dramatic speed increase and cost cut is notable.",
+              "As a recap, Anthropic ships the Claude family in three model sizes: Haiku (small), Sonnet (medium), and Opus (large).",
+              "Due to a technique called distillation, companies like Anthropic have been able to craft smaller AI models that match the capability of larger, older models at functional tasks like coding, although it typically comes at the cost of omitting stored knowledge.",
+              "That means if you wanted to converse with an AI model that might craft a deeper and more meaningful analysis of, say, foreign policy or world history, you might be better served talking to Sonnet or Opus (being aware that they can also be wrong and make things up)."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s new name for the Fire TV Stick 4K only adds more confusion",
+            "link": "https://www.theverge.com/news/800104/amazon-fire-tv-stick-4k-plus-new-name",
+            "site_name": "The Verge",
+            "novelty_hash": "54157e61b25474d283fd16304230b2285c692856"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s new name for the Fire TV Stick 4K only adds more confusion",
+            "bullets": [
+              "Now, Amazon has introduced that new branding, relaunching the product as the Amazon Fire TV Stick 4K Plus.",
+              "It assumes you’re willing to do the mental gymnastics of recalling where other “Plus” products sit in their respective lineups, and what that might mean for this device’s capabilities.",
+              "The 4K Select includes half the RAM of the 4K Plus and the 4K Max, meaning it’ll almost certainly be slower to navigate between menus and jump into apps."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The AI Industry’s Scaling Obsession Is Headed for a Cliff",
+            "link": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
+            "site_name": "WIRED",
+            "novelty_hash": "8ba33029dba4c8f62ab8a0ae3d9ab4f929c1fcca"
+          },
+          "review": {
+            "headline_rewrite": "The AI Industry’s Scaling Obsession Is Headed for a Cliff",
+            "bullets": [
+              "A new study from MIT suggests the biggest and most computationally intensive AI models may soon offer diminishing returns compared to smaller models.",
+              "By mapping scaling laws against continued improvements in model efficiency, the researchers found that it could become harder to wring leaps in performance from giant models whereas efficiency gains could make models running on more modest hardware increasingly capable over the next decade.",
+              "Leaps in efficiency, like those seen with DeepSeek’s remarkably low-cost model in January, have already served as a reality check for the AI industry, which is accustomed to burning massive amounts of compute.",
+              "As things stand, a frontier model from a company like OpenAI is currently much better than a model trained with a fraction of the compute from an academic lab.",
+              "While the MIT team’s prediction might not hold if, for example, new training methods like reinforcement learning produce surprising new results, they suggest that big AI firms will have less of an edge in the future.",
+              "“If you are spending a lot of money training these models, then you should absolutely be spending some of it trying to develop more efficient algorithms, because that can matter hugely,” he adds."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ISPs angry about California law that lets renters opt out of forced payments",
+            "link": "https://arstechnica.com/tech-policy/2025/10/california-says-landlords-cant-make-tenants-pay-for-an-isp-they-dont-want/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c0e7a8c9e765cc95a171b9b14cf733f8f7b68d7b"
+          },
+          "review": {
+            "headline_rewrite": "ISPs angry about California law that lets renters opt out of forced payments",
+            "bullets": [
+              "Gavin Newsom signed a bill that aims to increase broadband competition in apartment buildings.",
+              "\"This is kind of like a first step in trying to give this industry an opportunity to just treat people fairly,\" Assemblymember Rhodesia Ransom, a Democratic lawmaker who authored the bill, told Ars last month.",
+              "What we're saying here with this bill is that if a tenant wants to opt out of the arrangement, they should be allowed to opt out.\"\nRansom said lobby groups for Internet providers and real estate companies were \"working really hard\" to defeat the bill.",
+              "The California Broadband & Video Association, which represents cable companies, called it \"an anti-affordability bill masked as consumer protection.\"\nComplaining that property owners would have \"to provide a refund to tenants who decline the Internet service provided through the building's contract with a specific Internet service provider,\" the cable group said the law \"undermines the basis of the cost savings and will lead to bulk billing being phased out.\"\nState law fills gap in federal rules\nRansom argued that the bill would boost competition and said that \"some of our support came from some of the smaller Internet service providers.\""
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
