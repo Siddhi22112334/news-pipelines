@@ -171605,6 +171605,121 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Here’s where you can preorder the new M5 MacBook Pro and iPad Pro",
+            "link": "https://www.theverge.com/tech/800056/m5-macbook-pro-14-inch-ipad-pro-preorder-price-release-date-availability",
+            "site_name": "The Verge",
+            "novelty_hash": "b2480503c181c738f6c74c63e793f64b2060271e"
+          },
+          "review": {
+            "headline_rewrite": "Here’s where you can preorder the new M5 MacBook Pro and iPad Pro",
+            "bullets": [
+              "As expected, Apple’s new M5 chip is supposedly faster than the M4, with better performance for graphically demanding applications.",
+              "Apple also says the M5 is significantly better at handling AI-based tasks because its 10-core GPU has a neural accelerator embedded in each core.",
+              "Here’s where you can preorder the new M5 MacBook Pro and iPad Pro\nApple’s latest gadgets launch on October 22nd with a faster processor and other minor upgrades.",
+              "All three devices are slated to launch on Wednesday, October 22nd, but you can preorder them starting today from both Apple and Amazon.",
+              "Aside from the new chip, the late-2025 MacBook Pro and iPad Pro models each have their own set of upgrades, which we’ll explore in more detail below.",
+              "The laptop’s 10-core GPU is also said to be 1.6 times faster — which should result in decent frame rate boosts in some games — while the aforementioned neural accelerators make the M5 Pro 3.5 times faster at certain AI-related tasks."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Spotify spotted working on a ‘SongDNA’ feature that showcases the people behind your favorite music",
+            "link": "https://techcrunch.com/2025/10/15/spotify-spotted-working-on-a-songdna-feature-that-showcases-the-people-behind-your-favorite-music/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "72c704e57a8f95637716060669544399f4c111e3"
+          },
+          "review": {
+            "headline_rewrite": "Spotify spotted working on a ‘SongDNA’ feature that showcases the people behind your favorite music",
+            "bullets": [
+              "Shortly after posting screenshots to social media, Wong said Spotify’s app was updated to remove references to the SongDNA feature.",
+              "Reached for comment, Spotify declined to share further details but did not issue a denial.",
+              "According to Messina, the lines of code suggest the feature could be used to reveal the network of contributors behind songs, allowing users to explore more of their work, he said.",
+              "The Genome Project uses hundreds of different details, or “traits,” corresponding to a particular characteristic of the music to classify tracks and determine how they’re related."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The MLB app’s best feature is a 30-second delay",
+            "link": "https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay",
+            "site_name": "The Verge",
+            "novelty_hash": "03d5a930f7e39b0b515c304f105334784fb3efa8"
+          },
+          "review": {
+            "headline_rewrite": "The MLB app’s best feature is a 30-second delay",
+            "bullets": [
+              "I don’t have to wait for the announcer to get around to repeating how many outs there are; I can just glance at my phone.",
+              "Turning on score notifications when I walked away from the radio and remembering to turn them off again when I came back was unrealistic.",
+              "But as I was digging through notification settings during Monday’s playoff game against the Blue Jays, I found exactly what I’d been looking for: a 30-second delay.",
+              "But I picked up the habit again as the team heated up at the end of this season, and I’m glad I’ve got the option for a spoiler-free audio experience at last."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets",
+            "link": "https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "fec3e0c37ccadc8fe8ddea79a5850267740da043"
+          },
+          "review": {
+            "headline_rewrite": "Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets",
+            "bullets": [
+              "The Orion spacecraft and Space Launch System rocket have been attached at the hip for the better part of two decades.",
+              "But now there are signs that the twain may, in the not too distant future, split.",
+              "In interviews, company officials said that if NASA wanted to buy Orion missions as a \"service,\" rather than owning and operating the spacecraft, they were ready to work with the space agency.",
+              "\"Our message is we absolutely support it, and we're starting that discussion now,\" said Anthony Byers, director of Strategy and Business Development for Lockheed Martin, the principal contractor for Orion.",
+              "Since the US Congress called for the creation of the Space Launch System rocket a decade and a half ago, Orion and this rocket have been discussed in tandem, forming the backbone of an expendable architecture that would launch humans to the Moon and return them to Earth inside Orion.",
+              "In President Trump's budget request for fiscal year 2026, the White House sought to terminate funding for Orion and the SLS rocket after the Artemis III mission, which would mean there are just two flights remaining."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Rice weevil on a grain of rice wins 2025 Nikon Small World contest",
+            "link": "https://arstechnica.com/science/2025/10/meet-the-2025-nikon-photomicrography-winners/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "396910eafac0a26c7381c20762899930ecfb21e5"
+          },
+          "review": {
+            "headline_rewrite": "Rice weevil on a grain of rice wins 2025 Nikon Small World contest",
+            "bullets": [
+              "A stunning image of a rice weevil on a single grain of rice has won the 2025 Nikon Small World photomicrography contest, yielding valuable insight into the structure and behavior of—and providing a fresh perspective on—this well-known agricultural pest.",
+              "“It pays to dive deep into entomology: understanding insects’ behaviors and mastering lighting,\" You said in a statement.",
+              "\"I had observed rice weevils in grains before, but never one with its wings spread,\" You said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple's  M5 chip pushes AI performance with new 'Neural Accelerators'",
+            "link": "https://www.engadget.com/computing/apples-m5-chip-pushes-ai-performance-with-new-neural-accelerators-193745702.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0bcec3bbcb7d00370258f6632dd1e3f97aa0f379"
+          },
+          "review": {
+            "headline_rewrite": "Apple's  M5 chip pushes AI performance with new 'Neural Accelerators'",
+            "bullets": [
+              "Like clockwork, Apple has introduced a new M-series chip on updated versions of the iPad Pro, MacBook Pro and for the first time, Apple Vision Pro.",
+              "The new M5 chip shares plenty of similarities with the M4 chip Apple introduced in 2024, but the biggest seems to be a focus on improving graphics and AI performance.",
+              "The M5 chip is made using a new third-generation 3nm process, according to Apple, with an updated 10-core GPU architecture on all versions that offers four times the peak GPU compute performance of the M4, while carrying over support for things like hardware-accelerated ray tracing.",
+              "The 1TB and 2TB models of the Pro feature a 10-core CPU and GPU, but if you opt for a smaller storage size of 256GB or 512GB, you'll get a nine-core CPU with six efficiency cores and three performance cores.",
+              "Apple says the 10-core CPU offers \"up to 15 percent faster multithreaded performance\" over the M4 chip, though it's not clear if that's due to the CPU or memory improvements.",
+              "That’s because the new chip offers an improved memory bandwidth of 153GB/s, up from the starting 120GB/s bandwidth on the M4, though less than what you can get with the M4 Pro or M4 Max."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
