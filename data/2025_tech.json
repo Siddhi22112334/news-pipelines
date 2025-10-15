@@ -170082,6 +170082,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:46": [
+        {
+          "item": {
+            "title": "Apple upgrades iPad Pro, MacBook Pro, and Vision Pro with new M5 chip",
+            "link": "https://techcrunch.com/2025/10/15/apple-upgrades-ipad-pro-macbook-pro-and-vision-pro-with-new-m5-chip/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fb69ba0a9d88f90db3b45ca97614c9ff3eb37aa2"
+          },
+          "review": {
+            "headline_rewrite": "Apple upgrades iPad Pro, MacBook Pro, and Vision Pro with new M5 chip",
+            "bullets": [
+              "Apple on Wednesday announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro, all powered by the new chip.",
+              "These devices are now available for pre-order, with shipping and in-store availability expected on October 22.",
+              "The M5 chip will allow the new devices to run faster than their predecessors.",
+              "Apple says the chip has over four times the peak GPU compute performance compared to the M4.",
+              "Johny Srouji, Apple’s senior vice president of Hardware Technologies, added in a statement that it “ushers in the next big leap in AI performance for Apple silicon.”\nFor the new iPad Pro, Apple touts that the chip brings “up to 3.5x the AI performance” of last year’s Pro and up to 5.6x faster than the iPad Pro with M1.",
+              "Other upgrades include Apple’s C1X cellular modem with up to 50% faster cellular data performance and the N1 chip for Wi-Fi, Bluetooth, and Thread connectivity."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can now text Spotify’s AI DJ",
+            "link": "https://techcrunch.com/2025/10/15/you-can-now-text-spotifys-ai-dj/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a83d62e4fe50744c937e2e05f0dd73f5da048934"
+          },
+          "review": {
+            "headline_rewrite": "You can now text Spotify’s AI DJ",
+            "bullets": [
+              "Spotify on Wednesday upgraded its AI DJ feature — available to Premium subscribers — with a handful of new features, including the ability to send in your requests by typing, not just using voice commands.",
+              "The AI DJ feature was updated earlier this year to accept voice requests, instead of only playing tunes Spotify thinks that you’ll like.",
+              "However, that feature was only available to the English-language AI DJ until today.",
+              "Texting with an AI assistant is now a common behavior, thanks to the rising popularity of AI chatbots like ChatGPT and Gemini.",
+              "It’s a natural next step for Spotify’s AI feature to accept text input, as well, given that users are often engaged with the streaming service when out and about, commuting, or in a quiet space where they don’t want to disturb others by issuing voice commands.",
+              "In addition to the new texting feature, Spotify says that the AI DJ will also now offer personalized prompt suggestions to help inspire you if you’re not sure what you want to listen to next."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple unveils M5 update for the 11- and 13-inch iPad Pros",
+            "link": "https://arstechnica.com/gadgets/2025/10/apple-unveils-m5-update-for-the-11-and-13-inch-ipad-pros/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e7ef2c03153cc46c2775a3a5a23a82a889ed2d7e"
+          },
+          "review": {
+            "headline_rewrite": "Apple unveils M5 update for the 11- and 13-inch iPad Pros",
+            "bullets": [
+              "A couple of weeks ago, a YouTuber unboxed what appeared to be a refreshed iPad Pro in full retail packaging, suggesting it would be launching imminently.",
+              "The new iPad Pros, powered by Apple's also-new M5 chip, use the same basic designs as the M4 iPad Pros from last year and are compatible with the same cases and accessories.",
+              "The new iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model, is available for pre-order today, and ships on October 22.",
+              "Apple's M5 is similar in composition to the M4—the fully enabled version uses four high-performance CPU cores, six high-efficiency CPU cores, 10 GPU cores, and a 16-core Neural Engine."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Japan wants OpenAI to stop ripping off manga and anime",
+            "link": "https://www.theverge.com/news/799938/japan-government-openai-sora",
+            "site_name": "The Verge",
+            "novelty_hash": "ae4a37d0e9b90c7515108896cabb92e7b2a72ca7"
+          },
+          "review": {
+            "headline_rewrite": "Japan wants OpenAI to stop ripping off manga and anime",
+            "bullets": [
+              "Japan’s government is dialing up the heat on OpenAI, formally asking it to stop ripping off Japanese artwork, according to ITMedia and reported by IGN.",
+              "The company has been in copyright hell after the launch of its social video app Sora, which users swiftly filled with questionable AI-generated material.",
+              "Japan wants OpenAI to stop ripping off manga and anime\nOpenAI is struggling to contain fallout from copyrighted characters like Mario and Pikachu running rampant on Sora.",
+              "Minoru Kiuchi, whose many Japanese ministerial positions include leading on intellectual property strategy (he also leads the “cool Japan strategy”), chastised OpenAI for copyright infringement last week.",
+              "He said Japanese artforms like manga and anime are “irreplaceable treasures” and that the Cabinet Office had formally requested OpenAI to stop infringing behavior.",
+              "It’s the latest blow for the American company as it fights backlash to its now-abandoned opt-out policy for copyright holders on Sora."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New Apple M5 is the centerpiece of an updated 14-inch MacBook Pro",
+            "link": "https://arstechnica.com/gadgets/2025/10/new-apple-m5-is-the-centerpiece-of-an-updated-14-inch-macbook-pro/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "abd283013f6b6454cc329f978fea74c96fc747b5"
+          },
+          "review": {
+            "headline_rewrite": "New Apple M5 is the centerpiece of an updated 14-inch MacBook Pro",
+            "bullets": [
+              "Apple often releases a smaller second wave of new products in October after the dust settles from its September iPhone announcement, and this year that wave revolves around its brand-new M5 chip.",
+              "The main internal difference is an option for a 4TB storage upgrade, which will run you $1,200 if you're upgrading from the base 512GB SSD."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro with Its New M5 Chip",
+            "link": "https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "d7c94db98ea4ca209e1f24bfc1325764a7e1c98c"
+          },
+          "review": {
+            "headline_rewrite": "Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro with Its New M5 Chip",
+            "bullets": [
+              "Without much fanfare, Apple has unveiled three new flagship products today via a press release—no special event, no pre-recorded show.",
+              "That might be because the new iPad Pro, MacBook Pro, and Vision Pro don't change the mold—they're identical to their predecessors—but internally, they're debuting Apple's highly anticipated M5 chip.",
+              "All of the devices are available for preorder today and go on sale on October 22.",
+              "The New M5 Chip\nThe M5 processor is the heart of the announcements today as it powers all the new Apple hardware.",
+              "It's built on the 3-nanometer process, with a 10-core GPU and a neural accelerator in each core, which Apple claims improves performance in GPU-based AI workloads and provides four times the peak GPU compute performance over the M4 chip.",
+              "(Apple claims this is the “world's fastest CPU core.”) The 16-core Neural Engine has also been enhanced, which should mean Apple Intelligence and other AI tasks (like transforming a 2D photo to a spatial scene) should be faster."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
