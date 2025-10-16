@@ -176526,6 +176526,117 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:07": [
+        {
+          "item": {
+            "title": "Cybersecurity Awareness Month 2025",
+            "link": "https://blog.google/technology/safety-security/cybersecurity-awareness-month-2025/",
+            "site_name": "blog.google",
+            "novelty_hash": "aa68c09adead3af0c7ea31627f20d642d4f3261e"
+          },
+          "review": {
+            "headline_rewrite": "Cybersecurity Awareness Month 2025",
+            "bullets": [
+              "How we’re securing the AI frontier\nAn overview of Google’s cohesive strategy for securing the AI ecosystem from the inside out.",
+              "At Google, safety and security isn't an afterthought — it's at the foundation of everything we build.",
+              "We secure the internet by making our products private by design and secure by default, while ensuring you can always maintain clear, intuitive control over your information.",
+              "Our expert security teams constantly monitor the evolving cyber threat landscape, using cutting-edge intelligence to sharpen our defenses and share crucial findings with others across industry and the broader community.",
+              "For Cybersecurity Awareness Month this year, we're rolling out new security features and essential guidance to shield you from the latest scams and AI-driven threats."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments",
+            "link": "https://techcrunch.com/2025/10/16/vc-legend-ron-conway-quits-salesforce-foundation-after-benioffs-national-guard-comments/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "db14304237593e5a6d3b665f9b8da89064c64f57"
+          },
+          "review": {
+            "headline_rewrite": "VC legend Ron Conway quits Salesforce Foundation after Benioff’s National Guard comments",
+            "bullets": [
+              "Ron Conway, the founder of venture firm SV Angel, known for its early investments into Google, Airbnb, and Meta, has resigned from Salesforce Foundation, the New York Times reported.",
+              "“It saddens me immensely to say that with your recent comments, and failure to understand their impact, I now barely recognize the person I have so long admired,” Conway wrote on Thursday in an email to Benioff obtained by the New York Times.",
+              "In an interview with the New York Times last week, Benioff praised Elon Musk’s government efficiency efforts and said that he wasn’t keeping up with reports on immigration raids or Trump’s attacks on the press."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
+            "link": "https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ef8694ef793b9f07daa1f6435da1d4ce26de58bb"
+          },
+          "review": {
+            "headline_rewrite": "Nation-state hackers deliver malware from “bulletproof” blockchains",
+            "bullets": [
+              "Hacking groups—at least one of which works on behalf of the North Korean government—have found a new and inexpensive way to distribute malware from “bulletproof” hosts: stashing them on public cryptocurrency blockchains.",
+              "In a Thursday post, members of the Google Threat Intelligence Group said the technique provides the hackers with their own “bulletproof” host, a term that describes cloud platforms that are largely immune from takedowns by law enforcement and pressure from security researchers.",
+              "The method, known as EtherHiding, embeds the malware in smart contracts, which are essentially apps that reside on blockchains for Ethereum and other cryptocurrencies.",
+              "When certain conditions are met, the apps enforce the contract terms in a way that, at least theoretically, is immutable and independent of any central authority.",
+              "“In essence, EtherHiding represents a shift toward next-generation bulletproof hosting, where the inherent features of blockchain technology are repurposed for malicious ends,” Google researchers Blas Kojusner, Robert Wallace, and Joseph Dobson wrote.",
+              "-\n- The decentralization prevents takedowns of the malicious smart contracts because the mechanisms in the blockchains bar the removal of all such contracts."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "I just reviewed the Xbox Ally and answered your burning questions",
+            "link": "https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything",
+            "site_name": "The Verge",
+            "novelty_hash": "38fac211c3560be7dd64d232543f3eb0dca2f6b4"
+          },
+          "review": {
+            "headline_rewrite": "I just reviewed the Xbox Ally and answered your burning questions",
+            "bullets": [
+              "(I also helped launch this website back in the day!) I also just spent the past week reviewing the Xbox Ally and Xbox Ally X, Microsoft’s very first “Xbox” handhelds that are built and co-developed by Asus.",
+              "You subscribers are the ones paying to let me keep this awesome job, so it felt only fair."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s vision for AI PCs looks a lot like another crack at Cortana",
+            "link": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "876fdfbb38e2449beea098d0237fd3c2b030de69"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s vision for AI PCs looks a lot like another crack at Cortana",
+            "bullets": [
+              "Like virtually every major Windows announcement in the last three years, the spate of features that Microsoft announced for the operating system today all revolve around generative AI.",
+              "In particular, they’re concerned with the company’s more recent preoccupation with “agentic” AI, an industry buzzword for “telling AI-powered software to perform a task, which it then does in the background while you move on to other things.”\nBut the overarching impression I got, both from reading the announcement and sitting through a press briefing earlier this month, is that Microsoft is using language models and other generative AI technologies to try again with Cortana, Microsoft’s failed and discontinued entry in the voice assistant wars of the 2010s.",
+              "According to Microsoft’s Consumer Chief Marketing Officer Yusuf Mehdi, “AI PCs” should be able to recognize input “naturally, in text or voice,” to be able to guide users based on what’s on their screens at any given moment, and that AI assistants “should be able to take action on your behalf.”\nMacs and most smartphones have sported similar functionality for a while now, but Microsoft is obviously hoping that having Copilot answer those questions instead of Cortana will lead to success rather than another failure."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks",
+            "link": "https://www.wired.com/story/f5-hack-networking-software-big-ip/",
+            "site_name": "WIRED",
+            "novelty_hash": "e006936b808f33d89acd11404d1ab7f82ebbb837"
+          },
+          "review": {
+            "headline_rewrite": "Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks",
+            "bullets": [
+              "Thousands of networks—many of them operated by the US government and Fortune 500 companies—face an “imminent threat” of being breached by a nation-state hacking group following the breach of a major maker of software, the federal government warned on Wednesday.",
+              "F5, a Seattle-based maker of networking software, disclosed the breach on Wednesday.",
+              "F5 said a “sophisticated” threat group working for an undisclosed nation-state government had surreptitiously and persistently dwelled in its network over a “long term.” Security researchers who have responded to similar intrusions in the past took the language to mean the hackers were inside the F5 network for years.",
+              "Unprecedented\nDuring that time, F5 said, the hackers took control of the network segment the company uses to create and distribute updates for BIG IP, a line of server appliances that F5 says is used by 48 of the world’s top 50 corporations.",
+              "The hackers also obtained configuration settings that some customers used inside their networks.",
+              "Control of the build system and access to the source code, customer configurations, and documentation of unpatched vulnerabilities has the potential to give the hackers unprecedented knowledge of weaknesses and the ability to exploit them in supply-chain attacks on thousands of networks, many of which are sensitive."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
