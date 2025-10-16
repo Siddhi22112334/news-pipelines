@@ -175243,6 +175243,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:45": [
+        {
+          "item": {
+            "title": "Congratulations to the 2025 Google Academic Research Award recipients",
+            "link": "https://blog.google/outreach-initiatives/google-org/congratulations-to-the-2025-google-academic-research-award-recipients/",
+            "site_name": "Google",
+            "novelty_hash": "b09d90a8698307a8ebebb167d56287381fef913a"
+          },
+          "review": {
+            "headline_rewrite": "Congratulations to the 2025 Google Academic Research Award recipients",
+            "bullets": [
+              "The 2025 research categories are:\n- AI for Privacy, Safety, and Security, which focuses on work that leverages frontier AI models to improve digital safety, privacy and security\n- Trust, Safety, Security, and Privacy Research, which centers on research to improve digital trust, safety, privacy and security across the online ecosystem\n- Quantum Neuroscience, which recognizes proposals at the intersection of quantum effects and neural processes\nEach GARA recipient will receive up to $100,000 USD in funding to support their work.",
+              "In addition, awardees are paired with a Google research sponsor, providing a direct connection to our own research community and fostering long-term collaboration."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "10 years of genomics research at Google",
+            "link": "https://blog.google/technology/research/ten-years-google-genomics/",
+            "site_name": "Google",
+            "novelty_hash": "a8a7b6cfd17b6a72b222543c461bbdbe33a44431"
+          },
+          "review": {
+            "headline_rewrite": "10 years of genomics research at Google",
+            "bullets": [
+              "Today, we're taking a moment to look back at some of the key milestones and groundbreaking tools from our first 10 years in genomics, powered by AI.",
+              "Reading the genome\nAI has proven instrumental in overcoming the most fundamental challenge in genomics: reading the code of life accurately and efficiently.",
+              "- 2025 - Unifying model of non-coding variant effects: Our new AI model, AlphaGenome, predicts how single DNA variants affect biological processes, helping researchers understand the \"dark matter\" of the genome.",
+              "Accelerating discovery for people and the planet\nOur AI tools are helping researchers solve major biological grand challenges, leading to breakthroughs in health and enabling conservation efforts for endangered species.",
+              "- 2021 - Phenotyping eye diseases: Our approach to training AI on large-scale biobank data of retinal images and genomics led to the discovery of new genetic links to eye diseases, identifying potential targets for drug development against conditions like glaucoma.",
+              "- 2022 - Record-breaking genetic diagnosis: A collaboration led by Stanford Medicine set a Guinness World Record for the fastest genetic diagnosis, identifying a disease-causing variant in under 8 hours with Google’s AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
+            "link": "https://aws.amazon.com/blogs/aws/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "c698b1f4ff0cf260927fb417c81c88ad10137fc8"
+          },
+          "review": {
+            "headline_rewrite": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
+            "bullets": [
+              "Organizations using Amazon Elastic Compute Cloud (Amazon EC2) at scale operate hundreds of instance types across multiple Availability Zones and accounts, using On-Demand Instances, Spot Instances, and Capacity Reservations.",
+              "This complexity means customers currently access capacity data through various AWS services including the AWS Management Console, Cost and Usage Reports, Amazon CloudWatch, and EC2 describe\nAPIs.",
+              "Let me show you the capabilities of EC2 Capacity Manager in detail.",
+              "The main Dashboard displays capacity utilization across all instance types through a comprehensive overview section that presents key metrics at a glance.",
+              "The dashboard includes detailed Usage metrics with both total usage visualization and usage over time charts.",
+              "Under Reservation metrics, Reserved capacity trends visualizes used and unused reserved capacity across the selected period, showing the proportion of reserved vCPU hours that remain unutilized compared with those actively consumed, helping you track reservation efficiency patterns and identify periods of consistent low utilization."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple loses another AI exec to Meta",
+            "link": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "49f55b4abd628e8146d940d8a1e73f0f01781f8a"
+          },
+          "review": {
+            "headline_rewrite": "Apple loses another AI exec to Meta",
+            "bullets": [
+              "Ke Yang, the Apple executive leading the iPhone maker’s efforts to build AI-driven web search, is heading to Meta, according to a Bloomberg report.",
+              "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company into jeopardy in the lead-up to a much-anticipated Siri revamp scheduled for March.",
+              "Ruoming Pang, Apple’s former head of AI models, left for Meta earlier this year.",
+              "Roughly a dozen team members on Apple’s AIML (AI and machine learning) team also left the company.",
+              "A few weeks ago, Yang began overseeing the Answers, Knowledge, and Information (AKI) team, which is tasked with improving Siri’s functionality by allowing it to pull information from the web so Apple can better compete with rivals in the AI search market, like OpenAI, Perplexity, and Google.",
+              "Bloomberg reports that Apple’s remaining team members expect more AI team members to jump ship in the coming months."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic turns to &#8216;skills&#8217; to make Claude more useful at work",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "cb462e5dd4490539d1fb3a0c5dbe1f33115b717d"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic turns to &#8216;skills&#8217; to make Claude more useful at work",
+            "bullets": [
+              "AI agents spent years as a concept and then as an experiment.",
+              "Now, AI companies are devoting even more time and resources than before to make their agents actually useful for end users, whether they’re consumers or professionals.",
+              "Anthropic turns to ‘skills’ to make Claude more useful at work\nThe announcement follows a similar new tool from OpenAI.",
+              "People can also build their own Skills for Claude relative to their specific jobs and use them across Claude.ai, Claude Code, Anthropic’s API, and the Claude Agent SDK.",
+              "Essentially, the feature is designed to improve Claude’s AI agent capabilities for your work specifically, so you don’t have to spend as much time writing the perfect prompt or referring to past context every time you’re trying to accomplish a task.",
+              "It’s available to Pro, Max, Team, and Enterprise users."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is building a smart TV — in VR",
+            "link": "https://www.theverge.com/column/800588/meta-smart-tv-vr",
+            "site_name": "The Verge",
+            "novelty_hash": "300361a2bf128fe0e3a0aabfc3258303df15e6e0"
+          },
+          "review": {
+            "headline_rewrite": "Meta is building a smart TV — in VR",
+            "bullets": [
+              "Unveiled at Meta Connect last month, the app is a big part of Meta’s push to attract older, less gaming-focused audiences to VR — a push that also includes a partnership with James Cameron, and investments into sports, and other types of leanback entertainment content.",
+              "Meta finally built Zuck’s TV app\nEight years later, Meta launched its closest attempt yet to make that vision come true: Horizon TV, the latest revamp of the Quest’s native video app, does look a lot like your typical smart TV screen.",
+              "That’s no accident: “We absolutely have taken inspiration from the navigation systems that have come before,” says Meta Reality Labs director of entertainment content Sarah Malkin.",
+              "There are also app icons for YouTube, Spotify, and DAZN, among others; Disney Plus and ESPN are supposed to launch on Horizon TV soon.",
+              "“Our goals are really to support and provide additional outlets for the existing business models of the entertainment industry to thrive,” Malkin says.",
+              "One example: Google launched its Google TV platform five years ago with a content-forward UI that looks similar to what Meta is now embracing."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
