@@ -174757,6 +174757,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "20:48": [
+        {
+          "item": {
+            "title": "Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains",
+            "link": "https://techcrunch.com/2025/10/16/microsoft-aws-and-google-are-trying-to-drastically-reduce-chinas-role-in-their-supply-chains/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "091a8434cec01bd15ec550219208933fe00515f5"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains",
+            "bullets": [
+              "and China, tech giants Microsoft, Amazon, and Google are ramping up efforts to move production of their products and data centers outside of China, Nikkei reported, citing supply chain sources.",
+              "In particular, Microsoft wants to have up to 80% of the components needed to make its Surface notebooks and tablets, as well as its data centers, manufactured outside of China as soon as 2026, the report said.",
+              "The scope of the change is “quite wide” and includes components and assembly for the company’s future notebooks and server products, Nikkei cited a supply chain source as saying.",
+              "The company is reportedly asking its existing partners to prepare manufacturing capabilities outside the country starting next year, and it is also pushing to move some production of its Xbox gaming consoles to other parts of Asia.",
+              "Amazon Web Services, meanwhile, is considering buying fewer printed circuit boards for its AI data centers from its long-time supplier SYE, and has conducted an evaluation of what it could need to do.",
+              "And Google is pushing its suppliers to ramp up server production in Thailand, where it has already secured multiple partners for parts, components, and assembly, the report said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips",
+            "link": "https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0decebca992080262cd9eccad65a3037741fd457"
+          },
+          "review": {
+            "headline_rewrite": "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips",
+            "bullets": [
+              "Medal, a platform for uploading and sharing video game clips, has spun out a new frontier AI research lab that’s using its trove of gaming videos to train and build foundation models and AI agents that can understand how objects and entities move through space and time – a concept known as spatial-temporal reasoning.",
+              "Called General Intuition, the startup is betting that Medal’s dataset – which consists of 2 billion videos per year from 10 million monthly active users across tens of thousands of games – surpasses alternatives like Twitch or YouTube for training agents.",
+              "He noted that gamers who upload clips tend to post very negative or positive examples, which serve as really useful edge cases for training.",
+              "“You get this selection bias towards precisely the kind of data you actually want to use for training work.”\nThis data moat is what reportedly attracted the attention of OpenAI, which late last year attempted to acquire Medal for $500 million, per The Information.",
+              "(Neither OpenAI nor General Intuition would comment on the report.)\nIt’s also what has led to General Intuition’s raising a whopping $133.7 million in seed funding, led by Khosla Ventures and General Catalyst with participation from Raine.",
+              "The startup intends to use the funds to grow its team of researchers and engineers focused on training a general agent that can interact with the world around it, aiming for initial applications in gaming, and search and rescue drones."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space",
+            "link": "https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space",
+            "site_name": "The Verge",
+            "novelty_hash": "47fbf8ff1c27bda0267d475bf5b7c3c1fbcf83c1"
+          },
+          "review": {
+            "headline_rewrite": "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space",
+            "bullets": [
+              "OnePlus has announced OxygenOS 16, its take on Android 16, with upgrades to its Mind Space AI tool including complete integration with Google Gemini.",
+              "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space\nGoogle’s AI assistant will be able to respond to what you’ve saved.",
+              "When it launched in June, Mind Space only allowed you to save screenshots, which the AI would then analyze to extract information or create calendar entries.",
+              "Now you can also save longer, scrolling screenshots to the AI locker, and record 60-second voice memos to add more information for the AI to work with.",
+              "More importantly, OnePlus has worked with Google to integrate its Gemini AI Assistant, which is capable of handling tasks based on the information in your Mind Space.",
+              "Connectivity with other products has been improved too: you can now tap to share photos between an Oppo phone and an iPhone, connect to an Apple Watch for basic notification syncing, and take remote control of both Macs and now Windows PCs, all through the O Plus Connect app."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google pitches Workspace tools for &#8216;when, not if&#8217; Microsoft 365 fails",
+            "link": "https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing",
+            "site_name": "The Verge",
+            "novelty_hash": "ff145142025184eb19551d727936f4e5c3a2a01f"
+          },
+          "review": {
+            "headline_rewrite": "Google pitches Workspace tools for &#8216;when, not if&#8217; Microsoft 365 fails",
+            "bullets": [
+              "Google is trying to capitalize on what it calls “frequent and severe” Microsoft 365 outages by offering up services like email, storage, and videoconferencing to businesses in the event of a Microsoft outage.",
+              "The search giant’s new Business Continuity plan runs a Google Workspace in parallel with Microsoft 365, so if there’s an outage then businesses just switch over to Gmail and Google Meet instead of Outlook and Microsoft Teams.",
+              "Google pitches Workspace tools for ‘when, not if’ Microsoft 365 fails\nGoogle wants businesses to use Gmail and Google Meet as a backup solution for Microsoft 365 outages.",
+              "“Workspace, with support from our partners, will sync emails, calendars, chat, and more with Microsoft 365, so customer data is right where organizations need it, without requiring migration,” explains Google.",
+              "“This can protect against disruptions to the core business and impacts to customers.”\nGoogle says “it’s a question of when and for how long, not if,” Microsoft 365 goes down, and points to the company’s Microsoft 365 Status account on X that regularly posts outages.",
+              "The last Microsoft 365 outage occurred on October 8th, just days after a problematic configuration change impacted mailbox connectivity for users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Use Satellite Communications on the Garmin Fenix 8 Pro",
+            "link": "https://www.wired.com/story/how-to-use-satcomms-garmin-fenix-8-pro/",
+            "site_name": "WIRED",
+            "novelty_hash": "07d55cf17b67ac2aa44951f592ab9b8507aae075"
+          },
+          "review": {
+            "headline_rewrite": "How to Use Satellite Communications on the Garmin Fenix 8 Pro",
+            "bullets": [
+              "If I’ve learned one thing from listening to the entire back catalog of the excellent podcast Real Survival Stories, it’s this: Whether you’re mountain biking Californian trails or kayaking the west coast of England, the proverbial, you know, can hit the fan really fast.",
+              "The new Garmin Fenix 8 Pro now packs Garmin’s inReach satellite communication smarts, including satellite-powered text messaging, location check-ins and Emergency SOS–a virtual flare that hails assistance via Garmin Response.",
+              "Monthly subscriptions are available, and if your tracking or communication needs change, you can also move up or down tiers.",
+              "Satellite\nProvided you’ve paid for the right account, the watch has three ways to deliver the services: via your Bluetooth connected phone, via LTE, or via satellite.",
+              "It’s good for updating friends, family, and crew when you’re heading off for runs, rides, and hikes, less so for regular daily comms.",
+              "If the watch fails to find a connected phone or LTE uplink, it’ll send via satellite, which requires you to make sure you’re pointing your wrist towards the satellite in a specific position."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Cat Toys for Your Furry Friend (2025)",
+            "link": "https://www.wired.com/story/best-cat-toys/",
+            "site_name": "WIRED",
+            "novelty_hash": "7ed2278bbdf12dbd38e837edff7a124afca67ebe"
+          },
+          "review": {
+            "headline_rewrite": "The Best Cat Toys for Your Furry Friend (2025)",
+            "bullets": [
+              "Even if our cats rejected a particular product, we still examined overall construction, design, and value to determine whether it may be useful for other kitties.",
+              "All of these toys have an element to engage their natural instincts, like an interactive mat that mimics the movements of prey, or a puzzle toy so your cat has to use their pecan-sized brain to get rewarded with delicious treats.",
+              "Check out our related guides like the Best Automatic Cat Litter Boxes, Best Automatic Cat Feeders, Best Cat Water Fountains, and Our Favorite Fancy Cat Furniture.",
+              "My cats are both obsessed with laser toys, and it's a great way for them to get exercise and keep themselves entertained; I just always give them treats after to reward them for a job well done.",
+              "One of my cats is an extremely intelligent, high-energy cat who's also very food motivated, so it is a continual challenge to find things to keep him entertained—not to mention, I also have to make sure he doesn't inhale his food.",
+              "I have both the Melon Madness and Buggin’ Out models, and even years later, my cats are still entertained by them."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
