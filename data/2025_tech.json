@@ -174999,6 +174999,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "21:51": [
+        {
+          "item": {
+            "title": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
+            "link": "https://aws.amazon.com/blogs/aws/monitor-analyze-and-manage-capacity-usage-from-a-single-interface-with-amazon-ec2-capacity-manager/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "c698b1f4ff0cf260927fb417c81c88ad10137fc8"
+          },
+          "review": {
+            "headline_rewrite": "Monitor, analyze, and manage capacity usage from a single interface with Amazon EC2 Capacity Manager",
+            "bullets": [
+              "Organizations using Amazon Elastic Compute Cloud (Amazon EC2) at scale operate hundreds of instance types across multiple Availability Zones and accounts, using On-Demand Instances, Spot Instances, and Capacity Reservations.",
+              "This complexity means customers currently access capacity data through various AWS services including the AWS Management Console, Cost and Usage Reports, Amazon CloudWatch, and EC2 describe\nAPIs.",
+              "Let me show you the capabilities of EC2 Capacity Manager in detail.",
+              "The main Dashboard displays capacity utilization across all instance types through a comprehensive overview section that presents key metrics at a glance.",
+              "The dashboard includes detailed Usage metrics with both total usage visualization and usage over time charts.",
+              "Under Reservation metrics, Reserved capacity trends visualizes used and unused reserved capacity across the selected period, showing the proportion of reserved vCPU hours that remain unutilized compared with those actively consumed, helping you track reservation efficiency patterns and identify periods of consistent low utilization."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple loses another AI exec to Meta",
+            "link": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9b8ef459bbf40c469833962e0068198599760929"
+          },
+          "review": {
+            "headline_rewrite": "Apple loses another AI exec to Meta",
+            "bullets": [
+              "Ke Yang, the Apple executive leading the iPhone-maker’s efforts to build AI-driven web search, is heading to Meta, according to a Bloomberg report.",
+              "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company into jeopardy in the lead up to a much-anticipated Siri revamp scheduled for March.",
+              "Rouming Pang, Apple’s former head of AI models, left for Meta earlier this year.",
+              "Roughly a dozen team members on Apple’s AIML (AI and machine learning) team also left the company.",
+              "A few weeks ago, Yang began overseeing the Answers, Knowledge, and Information (AKI) team, which is tasked with improving Siri’s functionality by allowing it to pull information from the web so Apple can better compete with rivals in the AI search market, like OpenAI, Perplexity, and Google.",
+              "Bloomberg reports that Apple’s remaining team members expect more AI team members to jump ship in the coming months."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains",
+            "link": "https://techcrunch.com/2025/10/16/microsoft-aws-and-google-are-trying-to-drastically-reduce-chinas-role-in-their-supply-chains/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "091a8434cec01bd15ec550219208933fe00515f5"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains",
+            "bullets": [
+              "and China, tech giants Microsoft, Amazon, and Google are ramping up efforts to move production of their products and data centers outside of China, Nikkei reported, citing supply chain sources.",
+              "In particular, Microsoft wants to have up to 80% of the components needed to make its Surface notebooks and tablets, as well as its data centers, manufactured outside of China as soon as 2026, the report said.",
+              "The scope of the change is “quite wide” and includes components and assembly for the company’s future notebooks and server products, Nikkei cited a supply chain source as saying.",
+              "The company is reportedly asking its existing partners to prepare manufacturing capabilities outside the country starting next year, and it is also pushing to move some production of its Xbox gaming consoles to other parts of Asia.",
+              "Amazon Web Services, meanwhile, is considering buying fewer printed circuit boards for its AI data centers from its long-time supplier SYE, and has conducted an evaluation of what it could need to do.",
+              "And Google is pushing its suppliers to ramp up server production in Thailand, where it has already secured multiple partners for parts, components, and assembly, the report said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic turns to &#8216;skills&#8217; to make Claude more useful at work",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "2ed923a5095beda93a5222e4539034204df7e4ea"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic turns to &#8216;skills&#8217; to make Claude more useful at work",
+            "bullets": [
+              "AI agents spent years as a concept and then as an experiment.",
+              "Now, AI companies are devoting even more time and resources than before to make their agents actually useful for end users, whether they’re consumers or professionals.",
+              "Anthropic turns to ‘skills’ to make Claude more useful at work\nThe announcement follows a similar new tool from OpenAI.",
+              "People can also build their own Skills for Claude relative to their specific jobs and use them across Claude.ai, Claude Code, Anthropic’s API, and the Claude Agent SDK.",
+              "Essentially, the feature is designed to improve Claude’s AI agent capabilities for your work specifically, so you don’t have to spend as much time writing the perfect prompt or referring to past context every time you’re trying to accomplish a task.",
+              "It’s available to Pro, Max, Team, and Enterprise users."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google pitches Workspace tools for &#8216;when, not if&#8217; Microsoft 365 fails",
+            "link": "https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing",
+            "site_name": "The Verge",
+            "novelty_hash": "ff145142025184eb19551d727936f4e5c3a2a01f"
+          },
+          "review": {
+            "headline_rewrite": "Google pitches Workspace tools for &#8216;when, not if&#8217; Microsoft 365 fails",
+            "bullets": [
+              "Google is trying to capitalize on what it calls “frequent and severe” Microsoft 365 outages by offering up services like email, storage, and videoconferencing to businesses in the event of a Microsoft outage.",
+              "The search giant’s new Business Continuity plan runs a Google Workspace in parallel with Microsoft 365, so if there’s an outage then businesses just switch over to Gmail and Google Meet instead of Outlook and Microsoft Teams.",
+              "Google pitches Workspace tools for ‘when, not if’ Microsoft 365 fails\nGoogle wants businesses to use Gmail and Google Meet as a backup solution for Microsoft 365 outages.",
+              "“Workspace, with support from our partners, will sync emails, calendars, chat, and more with Microsoft 365, so customer data is right where organizations need it, without requiring migration,” explains Google.",
+              "“This can protect against disruptions to the core business and impacts to customers.”\nGoogle says “it’s a question of when and for how long, not if,” Microsoft 365 goes down, and points to the company’s Microsoft 365 Status account on X that regularly posts outages.",
+              "The last Microsoft 365 outage occurred on October 8th, just days after a problematic configuration change impacted mailbox connectivity for users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "SpaceX has plans to launch Falcon Heavy from California—if anyone wants it to",
+            "link": "https://arstechnica.com/space/2025/10/spacex-has-plans-to-launch-falcon-heavy-from-california-if-anyone-wants-it-to/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "896d70ed32b3a11afe61cc60f21ec110e6f03e22"
+          },
+          "review": {
+            "headline_rewrite": "SpaceX has plans to launch Falcon Heavy from California—if anyone wants it to",
+            "bullets": [
+              "The Department of the Air Force has approved SpaceX's plans to launch up to 100 missions per year from Vandenberg Space Force Base in California.",
+              "Five years ago, Vandenberg hosted just a single orbital launch.",
+              "This year's number stands at 51 orbital flights, or 53 launches if you count a pair of Minuteman missile tests, the most in a single calendar year at Vandenberg since the early 1970s.",
+              "Vandenberg is used for missions launching into polar orbits, paths oriented north-south that, over time, cover most of the Earth's surface area.",
+              "The surge in rocket launches on the West Coast has been driven by SpaceX, primarily missions deploying satellites for the commercial Starlink broadband network and secret spy platforms for the US government.",
+              "Military officials have now authorized SpaceX to double its annual launch rate at Vandenberg from 50 to 100, with up to 95 missions using the Falcon 9 rocket and up to five launches of the larger Falcon Heavy."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
