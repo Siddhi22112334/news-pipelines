@@ -174879,6 +174879,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:11": [
+        {
+          "item": {
+            "title": "Apple loses another AI exec to Meta",
+            "link": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9b8ef459bbf40c469833962e0068198599760929"
+          },
+          "review": {
+            "headline_rewrite": "Apple loses another AI exec to Meta",
+            "bullets": [
+              "Ke Yang, the Apple executive leading the iPhone-maker’s efforts to build AI-driven web search, is heading to Meta, according to a Bloomberg report.",
+              "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company into jeopardy in the lead up to a much-anticipated Siri revamp scheduled for March.",
+              "Rouming Pang, Apple’s former head of AI models, left for Meta earlier this year.",
+              "Roughly a dozen team members on Apple’s AIML (AI and machine learning) team also left the company.",
+              "A few weeks ago, Yang began overseeing the Answers, Knowledge, and Information (AKI) team, which is tasked with improving Siri’s functionality by allowing it to pull information from the web so Apple can better compete with rivals in the AI search market, like OpenAI, Perplexity, and Google.",
+              "Bloomberg reports that Apple’s remaining team members expect more AI team members to jump ship in the coming months."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains",
+            "link": "https://techcrunch.com/2025/10/16/microsoft-aws-and-google-are-trying-to-drastically-reduce-chinas-role-in-their-supply-chains/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "091a8434cec01bd15ec550219208933fe00515f5"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft, AWS and Google are trying to drastically reduce China’s role in their supply chains",
+            "bullets": [
+              "and China, tech giants Microsoft, Amazon, and Google are ramping up efforts to move production of their products and data centers outside of China, Nikkei reported, citing supply chain sources.",
+              "In particular, Microsoft wants to have up to 80% of the components needed to make its Surface notebooks and tablets, as well as its data centers, manufactured outside of China as soon as 2026, the report said.",
+              "The scope of the change is “quite wide” and includes components and assembly for the company’s future notebooks and server products, Nikkei cited a supply chain source as saying.",
+              "The company is reportedly asking its existing partners to prepare manufacturing capabilities outside the country starting next year, and it is also pushing to move some production of its Xbox gaming consoles to other parts of Asia.",
+              "Amazon Web Services, meanwhile, is considering buying fewer printed circuit boards for its AI data centers from its long-time supplier SYE, and has conducted an evaluation of what it could need to do.",
+              "And Google is pushing its suppliers to ramp up server production in Thailand, where it has already secured multiple partners for parts, components, and assembly, the report said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space",
+            "link": "https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space",
+            "site_name": "The Verge",
+            "novelty_hash": "47fbf8ff1c27bda0267d475bf5b7c3c1fbcf83c1"
+          },
+          "review": {
+            "headline_rewrite": "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space",
+            "bullets": [
+              "OnePlus has announced OxygenOS 16, its take on Android 16, with upgrades to its Mind Space AI tool including complete integration with Google Gemini.",
+              "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space\nGoogle’s AI assistant will be able to respond to what you’ve saved.",
+              "When it launched in June, Mind Space only allowed you to save screenshots, which the AI would then analyze to extract information or create calendar entries.",
+              "Now you can also save longer, scrolling screenshots to the AI locker, and record 60-second voice memos to add more information for the AI to work with.",
+              "More importantly, OnePlus has worked with Google to integrate its Gemini AI Assistant, which is capable of handling tasks based on the information in your Mind Space.",
+              "Connectivity with other products has been improved too: you can now tap to share photos between an Oppo phone and an iPhone, connect to an Apple Watch for basic notification syncing, and take remote control of both Macs and now Windows PCs, all through the O Plus Connect app."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google pitches Workspace tools for &#8216;when, not if&#8217; Microsoft 365 fails",
+            "link": "https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing",
+            "site_name": "The Verge",
+            "novelty_hash": "ff145142025184eb19551d727936f4e5c3a2a01f"
+          },
+          "review": {
+            "headline_rewrite": "Google pitches Workspace tools for &#8216;when, not if&#8217; Microsoft 365 fails",
+            "bullets": [
+              "Google is trying to capitalize on what it calls “frequent and severe” Microsoft 365 outages by offering up services like email, storage, and videoconferencing to businesses in the event of a Microsoft outage.",
+              "The search giant’s new Business Continuity plan runs a Google Workspace in parallel with Microsoft 365, so if there’s an outage then businesses just switch over to Gmail and Google Meet instead of Outlook and Microsoft Teams.",
+              "Google pitches Workspace tools for ‘when, not if’ Microsoft 365 fails\nGoogle wants businesses to use Gmail and Google Meet as a backup solution for Microsoft 365 outages.",
+              "“Workspace, with support from our partners, will sync emails, calendars, chat, and more with Microsoft 365, so customer data is right where organizations need it, without requiring migration,” explains Google.",
+              "“This can protect against disruptions to the core business and impacts to customers.”\nGoogle says “it’s a question of when and for how long, not if,” Microsoft 365 goes down, and points to the company’s Microsoft 365 Status account on X that regularly posts outages.",
+              "The last Microsoft 365 outage occurred on October 8th, just days after a problematic configuration change impacted mailbox connectivity for users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Antarctica is starting to look a lot like Greenland—and that isn’t good",
+            "link": "https://insideclimatenews.org/news/16102025/antarctica-greenlandification-ice-melt/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "13e0eba12b1f73788ba7646d326f246b7a7725f4"
+          },
+          "review": {
+            "headline_rewrite": "Antarctica is starting to look a lot like Greenland—and that isn’t good",
+            "bullets": [
+              "Some scientists are sounding the alarm, warning that the rapid “Greenlandification” of Antarctica will have serious consequences, including an accelerated rise in sea levels and significant shifts in rainfall and drought patterns.",
+              "On average, it is more than 1 mile thick and holds 61 percent of all the fresh water on Earth, enough to raise the global average sea level by about 190 feet if it all melts.",
+              "The smaller, western portion of the ice sheet is especially vulnerable, with enough ice to raise sea level more than 10 feet.",
+              "Thirty years ago, undergraduate students were told that the Antarctic ice sheets were going to be stable and that they weren’t going to melt much, said Ruth Mottram, an ice researcher with the Danish Meteorological Institute and lead author of a new paper in Nature Geoscience that examined the accelerating ice melt and other similarities between changes in northern and southern polar regions."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Use Satellite Communications on the Garmin Fenix 8 Pro",
+            "link": "https://www.wired.com/story/how-to-use-satcomms-garmin-fenix-8-pro/",
+            "site_name": "WIRED",
+            "novelty_hash": "07d55cf17b67ac2aa44951f592ab9b8507aae075"
+          },
+          "review": {
+            "headline_rewrite": "How to Use Satellite Communications on the Garmin Fenix 8 Pro",
+            "bullets": [
+              "If I’ve learned one thing from listening to the entire back catalog of the excellent podcast Real Survival Stories, it’s this: Whether you’re mountain biking Californian trails or kayaking the west coast of England, the proverbial, you know, can hit the fan really fast.",
+              "The new Garmin Fenix 8 Pro now packs Garmin’s inReach satellite communication smarts, including satellite-powered text messaging, location check-ins and Emergency SOS–a virtual flare that hails assistance via Garmin Response.",
+              "Monthly subscriptions are available, and if your tracking or communication needs change, you can also move up or down tiers.",
+              "Satellite\nProvided you’ve paid for the right account, the watch has three ways to deliver the services: via your Bluetooth connected phone, via LTE, or via satellite.",
+              "It’s good for updating friends, family, and crew when you’re heading off for runs, rides, and hikes, less so for regular daily comms.",
+              "If the watch fails to find a connected phone or LTE uplink, it’ll send via satellite, which requires you to make sure you’re pointing your wrist towards the satellite in a specific position."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
