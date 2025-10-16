@@ -174517,6 +174517,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "19:48": [
+        {
+          "item": {
+            "title": "Ready, Set, Reward — GeForce NOW Membership Rewards Await",
+            "link": "https://blogs.nvidia.com/?p=85888",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "907026a019185e5762b1f3a121dc1e25e753162a"
+          },
+          "review": {
+            "headline_rewrite": "Ready, Set, Reward — GeForce NOW Membership Rewards Await",
+            "bullets": [
+              "This week, GeForce NOW Ultimate members can score a free Borderlands 4 reward and upgrade their setup with the latest SteelSeries Nimbus Cloud controllers and headsets — the perfect gear for leveling up any cloud-based adventures.",
+              "Fire up the cloud, grab a controller and check out the 10 new games in the cloud this week, on top of the 1.0 release of Pax Dei.",
+              "This week, Control joins the lineup of GeForce RTX 5080-ready titles, already available on the service.",
+              "All members are automatically opted in, so when a new reward drops, an email with all the details lands right in the inbox — no extra sign-ups or hoops to jump through.",
+              "The reward is available through Sunday, Nov.",
+              "Members can keep an eye out for an email to redeem."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips",
+            "link": "https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0decebca992080262cd9eccad65a3037741fd457"
+          },
+          "review": {
+            "headline_rewrite": "General Intuition lands $134M seed to teach agents spatial reasoning using video game clips",
+            "bullets": [
+              "Medal, a platform for uploading and sharing video game clips, has spun out a new frontier AI research lab that’s using its trove of gaming videos to train and build foundation models and AI agents that can understand how objects and entities move through space and time – a concept known as spatial-temporal reasoning.",
+              "Called General Intuition, the startup is betting that Medal’s dataset – which consists of 2 billion videos per year from 10 million monthly active users across tens of thousands of games – surpasses alternatives like Twitch or YouTube for training agents.",
+              "He noted that gamers who upload clips tend to post very negative or positive examples, which serve as really useful edge cases for training.",
+              "“You get this selection bias towards precisely the kind of data you actually want to use for training work.”\nThis data moat is what reportedly attracted the attention of OpenAI, which late last year attempted to acquire Medal for $500 million, per The Information.",
+              "(Neither OpenAI nor General Intuition would comment on the report.)\nIt’s also what has led to General Intuition’s raising a whopping $133.7 million in seed funding, led by Khosla Ventures and General Catalyst with participation from Raine.",
+              "The startup intends to use the funds to grow its team of researchers and engineers focused on training a general agent that can interact with the world around it, aiming for initial applications in gaming, and search and rescue drones."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon launches pay-per-visit virtual healthcare service for kids",
+            "link": "https://techcrunch.com/2025/10/16/amazon-launches-pay-per-visit-virtual-healthcare-service-for-kids/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "641ed6e87c395ab7455094d3664dd5b9574cf43c"
+          },
+          "review": {
+            "headline_rewrite": "Amazon launches pay-per-visit virtual healthcare service for kids",
+            "bullets": [
+              "Amazon One Medical, the retailer’s primary care provider acquired in 2022, is launching a pay-per-visit virtual healthcare service for children ages 2 to 11, the company announced on Thursday.",
+              "“This service isn’t meant to replace a family’s relationship with their child’s pediatrician, but rather to serve as a convenient option for those ‘in-between’ moments for parents with time-sensitive concerns who don’t already have on-demand access through a One Medical membership,” said Natasha Bhuyan, MD, family physician and national medical director for Amazon One Medical, in a press release.",
+              "The move comes as companies like Walgreens, CVS, and Walmart are scaling back their retail health services.",
+              "For instance, Rite Aid recently closed all of its remaining stores; CVS has closed more than 1,000 stores since 2021; and Walgreens closed 500 stores over the past year.",
+              "The launch of the new pay-per-visit service for kids marks Amazon’s latest move to expand its presence in the healthcare sector.",
+              "In 2018, Amazon purchased online pharmacy PillPack for $750 million and then launched Amazon Pharmacy in 2020."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Uber is turning its app into an AI training ground",
+            "link": "https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app",
+            "site_name": "The Verge",
+            "novelty_hash": "37c1945e39938531754c8f394c3c0420c0bd2209"
+          },
+          "review": {
+            "headline_rewrite": "Uber is turning its app into an AI training ground",
+            "bullets": [
+              "In its quest to become the ultimate app for “flexible work,” Uber launched today a new pilot to allow its US drivers and couriers to earn extra money by performing “microtasks” to train AI models.",
+              "Uber is turning its app into an AI training ground\nUber wants to challenge established players like Scale AI or Amazon’s Mechanical Turks.",
+              "These tasks include audio voice recording, capturing and uploading images, and submitting documents in certain languages.",
+              "The move could position Uber’s global army of freelance drivers and delivery workers to challenge established players like Scale AI and Amazon’s Mechanical Turks — businesses and platforms that work with generative AI companies to help train their models by having humans annotate and label the data that feeds them.",
+              "Most of that work is done through low-cost labor outside the US and is seen as critical in the development of powerful AI models.",
+              "Most of the announcements center on how drivers and couriers interact with the app, aiming to make the experience of working for Uber easier, smarter, and fairer."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft wants you to talk to your PC and let AI control it",
+            "link": "https://www.theverge.com/news/799768/microsoft-windows-ai-copilot-voice-vision-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "a53b88e68e1acff84a77329050a34241e0086c28"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft wants you to talk to your PC and let AI control it",
+            "bullets": [
+              "Microsoft might not be ready to announce Windows 12 just yet, but it clearly wants to turn every Windows 11 PC into an AI PC that Copilot controls and users talk to.",
+              "Microsoft wants you to talk to your PC and let AI control it\nMicrosoft is rewriting Windows to turn computers into AI PCs that you talk to.",
+              "“We think we’re on the cusp of the next evolution, where AI happens not just in that chatbot and gets naturally integrated into the hundreds of millions of experiences that people use every day,” says Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, in a briefing with The Verge.",
+              "“The vision that we have is: let’s rewrite the entire operating system around AI, and build essentially what becomes truly the AI PC.”\nMicrosoft is launching a set of capabilities in Windows today that will start to weave AI features into regular Windows 11 PCs, instead of consumers having to buy a special Copilot Plus PC.",
+              "“With your permission, we want people to be able to share with their AI on Windows what they’re doing and what they’re seeing.",
+              "Microsoft is now convinced that AI will somehow spark a change in behavior and convince people that talking to a PC isn’t weird."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "All Windows 11 PCs Will Get These Advanced Copilot AI Features",
+            "link": "https://www.wired.com/story/microsoft-is-rewriting-windows-11-around-ai/",
+            "site_name": "WIRED",
+            "novelty_hash": "55a9516b5a1268a8ef371143114bef9193e7b8c7"
+          },
+          "review": {
+            "headline_rewrite": "All Windows 11 PCs Will Get These Advanced Copilot AI Features",
+            "bullets": [
+              "Microsoft saved its most powerful AI tools for paying customers in the first phase of its AI evolution.",
+              "Alongside the update, Microsoft is launching an ad campaign to expose people to these new features.",
+              "It's All About Voice\n“Hey, Copilot.” That's the wake word for the AI assistant in voice mode, now coming to all Windows 11 computers.",
+              "This capability has been available on smartphones for many years with varying degrees of success, as well as Microsoft's own Copilot+ line of laptops.",
+              "With voice-powered Copilot arriving on all Windows 11 computers, Microsoft hopes people will begin using its AI features more.",
+              "Copilot Vision and Actions\nThe more prompting and context you give AI, the more it can do."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
