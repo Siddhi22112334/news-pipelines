@@ -80104,6 +80104,44 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:07": [
+        {
+          "item": {
+            "title": "US stocks edge higher, Treasury yields rise amid calming credit, trade worries",
+            "link": "https://www.livemint.com/market/stock-market-news/us-stocks-edge-higher-treasury-yields-rise-amid-calming-credit-trade-worries-11760728451586.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US stocks edge higher, Treasury yields rise amid calming credit, trade worries",
+            "bullets": [
+              "Treasury yields rebounded on Friday as investors assessed the health of regional banks and President Donald Trump said his face-to-face trade talks with Chinese",
+              "Benchmark Treasury yields and the dollar turned higher, while gold pulled back after a record run sent the precious metal to all-time highs.",
+              "Worries over potential systemic credit problems in the banking sector abated the day after Zions disclosed it would take a $50 million loan loss",
+              "Of those, 86% have delivered stronger-than-expected results."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Wall Street climbs as investors digest Trump trade comments",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-investors-digest-trump-trade-comments-11760726551379.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street climbs as investors digest Trump trade comments",
+            "bullets": [
+              "* Trump says 100% tariffs on China not sustainable Eli Lilly falls after Trump vows weight-loss drug price cut S&P 500 0.44%, Nasdaq 0.42%,",
+              "President Donald Trump's latest remarks on China, while quarterly results from regional banks eased concerns about credit risks.",
+              "\"There's just a lot of back-and-forth comments with regards to China and trade tariffs and pretty much everything else.\" Regional bank stocks rebounded following",
+              "\"Looking through all the big banks' results, credit is very good."
+            ],
+            "impact": "Bearish"
+          }
+        }
       ]
     }
   }
