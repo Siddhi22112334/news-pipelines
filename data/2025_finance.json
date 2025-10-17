@@ -80028,5 +80028,46 @@
         }
       ]
     }
+  },
+  "2025-10-18": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "Wall Street climbs as investors digest Trump trade comments",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-investors-digest-trump-trade-comments-11760726551379.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street climbs as investors digest Trump trade comments",
+            "bullets": [
+              "* Trump says 100% tariffs on China not sustainable Eli Lilly falls after Trump vows weight-loss drug price cut S&P 500 0.44%, Nasdaq 0.42%,",
+              "President Donald Trump's latest remarks on China, while quarterly results from regional banks eased concerns about credit risks.",
+              "\"There's just a lot of back-and-forth comments with regards to China and trade tariffs and pretty much everything else.\" Regional bank stocks rebounded following",
+              "\"Looking through all the big banks' results, credit is very good."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Bitcoin drops under $106,000 to hit its lowest level in months, Binance-linked coin also struggles — Here's why",
+            "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-drops-under-106-000-to-hit-its-lowest-level-in-months-binance-linked-coin-also-struggles-heres-why-11760719222152.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Bitcoin drops under $106,000 to hit its lowest level in months, Binance-linked coin also struggles — Here's why",
+            "bullets": [
+              "Other major tokens also suffered heavy losses, with Ethereum slipping under $3,700 on Friday.",
+              "The primary cause of the market turmoil was the escalation of the US-China trade war.",
+              "Last Friday, CNN reported that the crypto market experienced a “mini crash” after US President Donald Trump threatened to impose 100% tariffs on some"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
