@@ -180297,6 +180297,120 @@
             "impact": "Positive"
           }
         }
+      ],
+      "00:43": [
+        {
+          "item": {
+            "title": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "link": "https://blogs.nvidia.com/blog/open-source-ai-week/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "c518d4f64755f6fd6846d703a063cfeb37d7d0d8"
+          },
+          "review": {
+            "headline_rewrite": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "bullets": [
+              "Open Source AI Week kicks off on Monday with a series of hackathons, workshops and meetups spotlighting the latest advances in AI, machine learning and open-source innovation.",
+              "The event brings together leading organizations, researchers and open-source communities to share knowledge, collaborate on tools and explore how openness accelerates AI development.",
+              "NVIDIA continues to expand access to advanced AI innovation by providing open-source tools, models and datasets designed to empower developers at the system level.",
+              "With more than 1,000 open-source resources available on the NVIDIA GitHub repositories and over 450 models and 80 datasets on the NVIDIA Hugging Face collections, NVIDIA is accelerating the pace of open, collaborative AI development.",
+              "We’re on the ground all week — stay tuned for a celebration highlighting the spirit of innovation, collaboration and community that drives open-source AI forward, with the PyTorch Conference serving as the flagship event.",
+              "Plus, follow NVIDIA AI Dev on social channels for additional news and insights."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook’s AI can now suggest edits to the photos still on your phone",
+            "link": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a7110f57ec046bdcbbf134e7aec1085d3e4f02c4"
+          },
+          "review": {
+            "headline_rewrite": "Facebook’s AI can now suggest edits to the photos still on your phone",
+            "bullets": [
+              "A Facebook feature that gives Meta AI the ability to suggest edits to photos stored on your phone’s camera roll, but haven’t yet been shared, is now rolling out to all users in the U.S.",
+              "The company announced on Friday that users can choose to opt in to receive these sharing suggestions, which will then prompt them to post photos to their Facebook Feed and Stories with the AI edits.",
+              "First launched as a test over the summer, Facebook’s app pops up a permission dialog box requesting access to “allow cloud processing” so users can get “creative ideas made for you from your camera roll.” This box explains that the feature could offer ideas like collages, recaps, AI restyling, birthday themes, and more for the end user.",
+              "For the AI to work, Facebook’s app would upload images from your device to its cloud on an ongoing basis.",
+              "This allows Meta’s AI to make its suggested edits.",
+              "Meta says users’ media will not be used for ad targeting purposes, and it won’t use the media to improve its AI systems, unless the user takes the step of editing the media or sharing the edited photos with friends or others on its social network."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Should AI do everything? OpenAI thinks so",
+            "link": "https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4672f898d7d579dbcc17d36cb47c9d1c8aeb7223"
+          },
+          "review": {
+            "headline_rewrite": "Should AI do everything? OpenAI thinks so",
+            "bullets": [
+              "As OpenAI removes guardrails and VCs criticize companies like Anthropic for supporting AI safety regulations, it’s becoming clearer who the industry thinks should shape AI development.",
+              "Watch to the full episode for more about:\n- The real-world DDoS attack that blocked Waymo service for a day near a dead-end San Francisco street\n- Goldman Sachs acquiring Industry Ventures for up to $965 million, signaling Wall Street’s growing interest in the secondary venture market\n- FleetWorks’ $17 million Series A to modernize trucking with AI\n- Why advocating for AI safety has become “uncool” in Silicon Valley from Anthropic facing backlash to California’s SB 243 regulation of AI companion chatbots and the success of companies like Character.AI\n- Which startups are using an SEC workaround to file for IPOs during the shutdown\nEquity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Big Tech sues Texas, says age-verification law is “broad censorship regime”",
+            "link": "https://arstechnica.com/tech-policy/2025/10/big-tech-sues-texas-says-age-verification-law-is-broad-censorship-regime/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4d0eddf73ef835474bc3396f98ac9d2f0228d656"
+          },
+          "review": {
+            "headline_rewrite": "Big Tech sues Texas, says age-verification law is “broad censorship regime”",
+            "bullets": [
+              "“The Texas App Store Accountability Act imposes a broad censorship regime on the entire universe of mobile apps,” the Computer & Communications Industry Association (CCIA) said yesterday in a lawsuit.",
+              "Anyone under 18 must obtain parental consent for every app and in-app purchase they try to download—from ebooks to email to entertainment.”\nThe CCIA said in a press release that the law violates the First Amendment by imposing “a sweeping age-verification, parental consent, and compelled speech regime on both app stores and app developers.” When app stores determine that a user is under 18, “the law prohibits them from downloading virtually all apps and software programs and from making any in-app purchases unless their parent consents and is given control over the minor’s account,” the CCIA said.",
+              "“Minors who are unable to link their accounts with a parent’s or guardian’s, or who do not receive permission, would be prohibited from accessing app store content.”\nThe law requires app developers “to ‘age-rate’ their content into several subcategories and explain their decision in detail,” and “notify app stores in writing every time they improve or modify the functions, features, or user experience of their apps,” the group said.",
+              "The lawsuit says the age-rating system relies on a “vague and unworkable set of age categories.”\n“Our Constitution forbids this,” the lawsuit said.",
+              "CCIA members include Apple and Google, which have both said the law would reduce privacy for app users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s Ring now works with video surveillance company Flock",
+            "link": "https://www.theverge.com/news/801856/amazon-ring-partners-flock-video",
+            "site_name": "The Verge",
+            "novelty_hash": "1f90eaab146ee55075c76cefe3c527e59ff30186"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s Ring now works with video surveillance company Flock",
+            "bullets": [
+              "Amazon’s smart doorbell company Ring is now working with the AI-powered surveillance camera company Flock.",
+              "In the request, Ring says that law enforcement must include details about an alleged crime and its time and location.",
+              "They must also include a “unique investigation code.” A request for footage will appear in Ring’s Neighbors app feed to all users in certain areas of interest."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps",
+            "link": "https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review",
+            "site_name": "The Verge",
+            "novelty_hash": "b0779b7cd0a405807ac0206cc397197adcc8e5db"
+          },
+          "review": {
+            "headline_rewrite": "Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps",
+            "bullets": [
+              "Though the Pokémon games’ Rotom Phones haven’t really changed all that much design-wise over the past few years, each generation has introduced new functionalities that made upgrading a no-brainer.",
+              "But what the new phone lacks in aesthetic flair, it makes up for with improved hardware and a couple of fresh tricks — including one that makes leaping across rooftops a snap — that make it a must-have for anyone visiting present-day Lumiose City.",
+              "8\nVerge Score\nRotom Phone 3\nThe Good\n- Hands-free usability is more robust\n- More functional camera array with zoom\n- Roto-Glide is a game-changer\n- Excellent call quality and battery life\nThe Bad\n- Physical design is getting a little long in the tooth\n- No accessories\n- Might not work outside of the Kalos region\n- No snazzy Pokédex art\n- Still can’t send your helper Rotom into battle\nBut in addition to adding a handy new zoom feature by way of a third (very functional) lens, the new Rotom Phone’s back-facing camera array can also be used while you are moving — something that opens up a new world of possibilities for trainers who fancy themselves shutterbugs.",
+              "And being able to move while you’re using the back cameras also makes it relatively simple to get the hell out of dodge in instances when something does catch sight of you and decides to launch an attack.",
+              "(You do still have to remain still while you’re using the new Rotom Phone’s improved front-facing camera, though.)\nAlong with the Z-A Royale hub, an updated, Lumiose-specific Pokédex is the new Rotom Phone’s most useful application.",
+              "The default map application also provides you with helpful information about which pokémon appear in Lumiose’s Wild Zones, where Z-A Royale battle zones pop up, and details about locations like shopping centers and Pokémon Centers."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
