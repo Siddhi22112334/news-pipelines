@@ -180057,6 +180057,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:52": [
+        {
+          "item": {
+            "title": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "link": "https://blogs.nvidia.com/blog/open-source-ai-week/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "c518d4f64755f6fd6846d703a063cfeb37d7d0d8"
+          },
+          "review": {
+            "headline_rewrite": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "bullets": [
+              "Open Source AI Week kicks off on Monday with a series of hackathons, workshops and meetups spotlighting the latest advances in AI, machine learning and open-source innovation.",
+              "The event brings together leading organizations, researchers and open-source communities to share knowledge, collaborate on tools and explore how openness accelerates AI development.",
+              "NVIDIA continues to expand access to advanced AI innovation by providing open-source tools, models and datasets designed to empower developers at the system level.",
+              "With more than 1,000 open-source resources available on the NVIDIA GitHub repositories and over 450 models and 80 datasets on the NVIDIA Hugging Face collections, NVIDIA is accelerating the pace of open, collaborative AI development.",
+              "We’re on the ground all week — stay tuned for a celebration highlighting the spirit of innovation, collaboration and community that drives open-source AI forward, with the PyTorch Conference serving as the flagship event.",
+              "Plus, follow NVIDIA AI Dev on social channels for additional news and insights."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook’s AI can now suggest edits to the photos still on your phone",
+            "link": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a7110f57ec046bdcbbf134e7aec1085d3e4f02c4"
+          },
+          "review": {
+            "headline_rewrite": "Facebook’s AI can now suggest edits to the photos still on your phone",
+            "bullets": [
+              "A Facebook feature that gives Meta AI the ability to suggest edits to photos stored on your phone’s camera roll, but haven’t yet been shared, is now rolling out to all users in the U.S.",
+              "The company announced on Friday that users can choose to opt in to receive these sharing suggestions, which will then prompt them to post photos to their Facebook Feed and Stories with the AI edits.",
+              "First launched as a test over the summer, Facebook’s app pops up a permission dialog box requesting access to “allow cloud processing” so users can get “creative ideas made for you from your camera roll.” This box explains that the feature could offer ideas like collages, recaps, AI restyling, birthday themes, and more for the end user.",
+              "For the AI to work, Facebook’s app would upload images from your device to its cloud on an ongoing basis.",
+              "This allows Meta’s AI to make its suggested edits.",
+              "Meta says users’ media will not be used for ad targeting purposes, and it won’t use the media to improve its AI systems, unless the user takes the step of editing the media or sharing the edited photos with friends or others on its social network."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows",
+            "link": "https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e342996e0ea26e8731251acc96381688766d0704"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows",
+            "bullets": [
+              "ChatGPT’s mobile app growth may have hit its peak, according to a new analysis of download trends and daily active users provided by the third-party app intelligence Apptopia.",
+              "The firm looked at the global daily active user (DAU) growth and found that the numbers have begun to even out over the past month or so.",
+              "In ChatGPT’s case, increased competition and changes to its AI model’s characteristics could be to blame.",
+              "has also dropped and stabilized during this time, indicating that the app is now retaining its core users and seeing fewer who just drop by briefly to experiment, then abandon the app.",
+              "OpenAI did not respond to a request for comment.",
+              "That includes not only competition from Google’s Gemini, but also user engagement changes following an April update that was designed to make the chatbot’s AI model less sycophantic."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s Ring now works with video surveillance company Flock",
+            "link": "https://www.theverge.com/news/801856/amazon-ring-partners-flock-video",
+            "site_name": "The Verge",
+            "novelty_hash": "1f90eaab146ee55075c76cefe3c527e59ff30186"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s Ring now works with video surveillance company Flock",
+            "bullets": [
+              "Amazon’s smart doorbell company Ring is now working with the AI-powered surveillance camera company Flock.",
+              "In the request, Ring says that law enforcement must include details about an alleged crime and its time and location.",
+              "They must also include a “unique investigation code.” A request for footage will appear in Ring’s Neighbors app feed to all users in certain areas of interest."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ex-lidar CEO makes a bid to reclaim his company",
+            "link": "https://www.theverge.com/news/801827/ex-lidar-ceo-makes-a-bid-to-reclaim-his-company",
+            "site_name": "The Verge",
+            "novelty_hash": "9fb68d8d62acb7d70bb2fc5495751565681b0ada"
+          },
+          "review": {
+            "headline_rewrite": "Ex-lidar CEO makes a bid to reclaim his company",
+            "bullets": [
+              "Now, the 30-year-old billionaire is trying to wrest back control of his old company, which made him a fortune by designing lidar sensors of self-driving cars.",
+              "Ex-lidar CEO makes a bid to reclaim his company\nAustin Russell says he wants to acquire ‘100%’ of outstanding shares in Luminar, his former lidar company.",
+              "According to an SEC filing (and first reported by TechCrunch), Russell wants to acquire “100% of the outstanding shares of the Class A Common Stock” in Luminar under the auspices of his new company, Russell AI Labs.",
+              "The new company would still be publicly listed (Luminar went public through a reverse SPAC merger in 2020) and traded under the same “LAZR” ticker symbol.",
+              "Russell says in the filing he was invited to acquire the company “at the suggestion of certain shareholders and the invitation of certain members of the board of directors” of Luminar.",
+              "At the time, Luminar didn’t explain the reason for Russell’s departure, nor has it said whether the ethics inquiry turned anything up."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
+            "link": "https://arstechnica.com/gadgets/2025/10/backblaze-owner-of-317230-hdds-says-hdds-are-lasting-longer/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "19a715e5da249a18c5ad0c77d3004240d17f5212"
+          },
+          "review": {
+            "headline_rewrite": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
+            "bullets": [
+              "Backblaze is a backup and cloud storage company that has been tracking the annualized failure rates (AFRs) of the hard drives in its datacenter since 2013.",
+              "Doyle and Patterson said they identified “a pretty solid deviation in both age of drive failure and the high point of AFR from the last two times we’ve run the analyses.”\nAs Doyle and Patterson wrote, the tested drives’ high failure percentage peaks this year were 4.25 percent at 10 years and three months, compared to 13.73 percent at about three years and three months in 2013 and 14.24 percent at seven years and nine months in 2021.",
+              "“Not only is that a significant improvement in drive longevity, it’s also the first time we’ve seen the peak drive failure rate at the hairy end of the drive curve.",
+              "And, it’s about a third of each of the other failure peaks,” Doyle and Patterson wrote.",
+              "As Backblaze has done in the past, Doyle and Paterson compared the behaviors of Backblaze’s datacenter HDDs with the bathtub curve, an engineering principle that says component failure rates tend to follow a U-shape over time, with more failures occurring early in life before the rate drops, settles, and then picks up again as the component ages."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
