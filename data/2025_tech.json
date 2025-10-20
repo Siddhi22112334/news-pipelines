@@ -192527,6 +192527,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:44": [
+        {
+          "item": {
+            "title": "Anthropic brings Claude Code to the web",
+            "link": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cef9071de50a933a9aac53f8569697f1b984b3f1"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic brings Claude Code to the web",
+            "bullets": [
+              "Anthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agents from their browser.",
+              "Pro and Max users can access Claude Code on the web by navigating to claude.ai (the same website for Anthropic’s consumer chatbot) and clicking into the “Code” tab, or through the Claude iOS app.",
+              "The launch marks Anthropic’s latest attempt to evolve Claude Code beyond a command-line interface (CLI) tool that developers access from a terminal.",
+              "By putting Claude Code on the web, Anthropic hopes developers will spin up AI coding agents in more places.",
+              "It’s increasingly competitive for tech companies trying to make their AI coding tools stand out.",
+              "While Microsoft’s GitHub Copilot once dominated the space, Cursor, Google, OpenAI, and Anthropic now have highly performant AI coding tools of their own — many of them already available on the web."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
+            "link": "https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c975991035776839b08802bf6f071d7389d5e0e9"
+          },
+          "review": {
+            "headline_rewrite": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
+            "bullets": [
+              "New data indicates that use of Meta AI’s mobile app for iOS and Android has seen a significant increase.",
+              "According to a new analysis from market intelligence provider Similarweb, the app’s daily active users across both platforms jumped to 2.7 million as of October 17, up from around 775,000 just four weeks ago.",
+              "In addition, Meta AI’s app installs are also up, reaching 300,000 new downloads per day, compared with under 200,000 daily downloads a few weeks ago.",
+              "For comparison, Meta AI’s app had just 4,000 daily downloads a year ago, on October 17, 2024.",
+              "However, there’s also another possible explanation for the sharp rise: the launch of Meta’s new Vibes feed in September, which introduced short-form AI-generated videos to the Meta AI mobile app.",
+              "Meta AI introduced the Vibes feed on September 25, which correlates with the sharp increase in the app’s daily active users on iOS and Android, as seen in the chart below."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Musk’s $1 trillion Tesla pay plan draws some protest ahead of likely approval",
+            "link": "https://arstechnica.com/tech-policy/2025/10/musks-1-trillion-pay-plan-doesnt-force-him-to-keep-focus-on-tesla-critics-say/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "489267a7a4b9c4ecd9eef3cf958d6498acc12356"
+          },
+          "review": {
+            "headline_rewrite": "Musk’s $1 trillion Tesla pay plan draws some protest ahead of likely approval",
+            "bullets": [
+              "Tesla shareholders should reject a compensation plan that could pay Elon Musk more than $1 trillion over the next decade, proxy advisory firm Institutional Shareholder Services (ISS) said in a report Friday.",
+              "The plan is designed “to retain Musk and keep his time and attention on Tesla instead of his other business ventures,” but “there are no prescriptive elements within the award to ensure his focus and time remain on Tesla as opposed to his other ventures, undermining the award’s primary rationale,” the advisory firm said in a report for its clients.",
+              "The “astronomical grant value” awarded to Musk could dilute value for other shareholders “due to the extreme value and number of shares being granted,” and it is questionable whether the award “is necessary or appropriate to further align his interests [with Tesla] when he currently holds a 19.8 percent ownership stake in the company,” ISS said.",
+              "It would be awarded in 12 tranches as Musk hits each goal laid out in the proposal.",
+              "Using Tesla’s lower valuation, the ultimate value for Musk would exceed $1 trillion if all market capitalization goals are reached.",
+              "“Full achievement of the market capitalization milestones requires historic growth of approximately $7.5 trillion (as of the grant date) to reach the final $8.5 trillion target,” the ISS report said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Has a Bed Bug Infestation in Its New York Offices",
+            "link": "https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/",
+            "site_name": "WIRED",
+            "novelty_hash": "33448cb13a7146f9b945f08f53720bbddefdb107"
+          },
+          "review": {
+            "headline_rewrite": "Google Has a Bed Bug Infestation in Its New York Offices",
+            "bullets": [
+              "Exterminators arrived at the scene with a sniffer dog “and found credible evidence of their presence,” according to an email obtained by WIRED.",
+              "The email was sent to all Google employees in New York on behalf of the company’s environmental, health, and safety team.",
+              "Google is performing additional inspections at other Google campuses in New York, including buildings at the company’s Hudson Square campus, “out of an abundance of caution,” the email says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
+            "link": "https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/",
+            "site_name": "WIRED",
+            "novelty_hash": "68c7e8b75623bdc940b2dba9c90a59daeaa6b123"
+          },
+          "review": {
+            "headline_rewrite": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
+            "bullets": [
+              "The National Transportation Safety Board confirmed Sunday that it is investigating an airliner that was struck by an object in its windscreen, mid-flight, over Utah.",
+              "“NTSB gathering radar, weather, flight recorder data,” the federal agency said on the social media site X.",
+              "“Windscreen being sent to NTSB laboratories for examination.”\nThe strike occurred Thursday, during a United Airlines flight from Denver to Los Angeles.",
+              "Images shared on social media showed that one of the two large windows at the front of a 737 MAX aircraft was significantly cracked.",
+              "Object’s Origin Not Confirmed\nThe captain of the flight reportedly described the object that hit the plane as “space debris.” This has not been confirmed, however.",
+              "After the impact, the aircraft safely landed at Salt Lake City International Airport after being diverted."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How to watch Samsung unveil its Android XR headset",
+            "link": "https://www.engadget.com/ar-vr/how-to-watch-samsung-unveil-its-android-xr-headset-184820772.html",
+            "site_name": "Engadget",
+            "novelty_hash": "927efbab33380e41b5b0dc5b457f11e357ef2c8e"
+          },
+          "review": {
+            "headline_rewrite": "How to watch Samsung unveil its Android XR headset",
+            "bullets": [
+              "Samsung is set to officially reveal its long-anticipated Android extended reality (XR) headset, which has been codenamed Project Moohan.",
+              "The company has scheduled a livestream event for October 21 at 10PM ET.",
+              "The event will be streamed live via the company's YouTube page and on the official Samsung Newsroom site.",
+              "We don't know how long the stream will be, but Samsung promises that Project Moohan will open up the \"true potential\" of mixed-reality devices.",
+              "Samsung says that this technology \"seamlessly blends everyday utility with immersive new experiences.\" Hopefully we'll get a look at both everyday utility and immersive new experiences during the livestream."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
