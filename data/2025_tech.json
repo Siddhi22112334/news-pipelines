@@ -191457,6 +191457,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "20:12": [
+        {
+          "item": {
+            "title": "Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’",
+            "link": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors",
+            "site_name": "The Verge",
+            "novelty_hash": "c0c48bd5afae83f4c66373f019b655d11b42d5df"
+          },
+          "review": {
+            "headline_rewrite": "Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’",
+            "bullets": [
+              "AI’\nOliver Kharraz on competition, healthcare, and where AI really belongs in medicine.",
+              "You’re almost certainly familiar with Zocdoc — it’s a platform that helps people find and book appointments with doctors.",
+              "It’s a classic of the early app economy, right alongside Uber, Airbnb, DoorDash, and others — it’s a friendly mobile app that efficiently matches supply and demand in a way that ultimately reshapes the market.",
+              "So, Zocdoc has a very different relationship to big platforms like Google and new AI tools like ChatGPT, which promise to just take commands and do things like book doctor appointments for you.",
+              "It’s a very different relationship than the one between AI companies and DoorDash, Airbnb, TaskRabbit, and others that we’ve talked about here on Decoder in the past.",
+              "ChatGPT” — my entire family is full of doctors, and they tell me that people are increasingly asking AI chatbots for medical advice that runs the range from really useful to outright dangerous."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Adobe launches a foundry service that builds custom generative AI models for enteprises",
+            "link": "https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enteprises/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "62b3444b22497eaf4a58b6bb65c6b2e269689868"
+          },
+          "review": {
+            "headline_rewrite": "Adobe launches a foundry service that builds custom generative AI models for enteprises",
+            "bullets": [
+              "Creative design giant Adobe is beefing up the products it offers businesses to include custom generative AI models.",
+              "Adobe launched Adobe AI Foundry on Monday, a new offering that allows enterprises to work with the company to build custom generative AI models trained on their branding and intellectual property.",
+              "The foundry’s custom models, which can produce text, images, video, and other mediums like 3D scenes, are built off Adobe’s Firefly family of AI models.",
+              "These Firefly models were launched in 2023 and have been trained entirely on licensed data.",
+              "The foundry service pricing is based on usage, as opposed to by seat like many of Adobe’s other products.",
+              "Hannah Elsakr, a vice president of generative AI new business ventures at Adobe, told TechCrunch the foundry service was a natural expansion of the company’s enterprise AI products — and customers were asking for more customization."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "These nonprofits lobbied to regulate OpenAI — then the subpoenas came",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring",
+            "site_name": "The Verge",
+            "novelty_hash": "521b471388be88ff06b1740942347355e58e33d4"
+          },
+          "review": {
+            "headline_rewrite": "These nonprofits lobbied to regulate OpenAI — then the subpoenas came",
+            "bullets": [
+              "A man, the text said, was knocking on their door with legal documents to serve.",
+              "These nonprofits lobbied to regulate OpenAI — then the subpoenas came\nOpenAI’s legal battle with Elon Musk has caught company critics in the crossfire.",
+              "Johnston is the founder and sole employee of The Midas Project: a nonprofit that monitors the practices of “leading AI companies to ensure transparency, privacy, and ethical standards are maintained.” The Midas Project is behind The OpenAI Files, a 50-page report about OpenAI’s evolution from under-the-radar nonprofit to moneymaking household name.",
+              "It organized an open letter to OpenAI asking for transparency about its transition to a for-profit company, garnering more than 10,000 signatures.",
+              "Now, apparently, OpenAI was striking back.",
+              "Johnston was traveling in California at the time, but he quickly learned that OpenAI had hired a process server from an Oklahoma-based firm called Smoking Gun Investigations, LLC, whose website featured a smoking pistol and the tagline, “A bitter truth is better than the sweetest lies.” Two 15-page subpoenas ended up being delivered by email: one to The Midas Project, the other to Johnston personally."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "X to launch marketplace for buying inactive handles",
+            "link": "https://techcrunch.com/2025/10/20/x-to-launch-marketplace-for-buying-inactive-handles/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cf89ab617137692f0052e8a15974c4a9049fbb77"
+          },
+          "review": {
+            "headline_rewrite": "X to launch marketplace for buying inactive handles",
+            "bullets": [
+              "X is launching a marketplace for inactive handles that will allow Premium subscribers to request and purchase usernames.",
+              "The marketplace will offer both free and paid options for requesting or acquiring eligible handles.",
+              "X notes that examples of “Priority” handles include usernames like @GabrielJones, @PizzaEater, and @ParadoxAI.",
+              "The launch of the new marketplace will allow X to boost revenue through direct payments.",
+              "These handles won’t be available through standard requests and will instead be offered through public drops and direct, pre-priced purchases available by invitation only.",
+              "X explained on a help page that it’s launching the marketplace instead of releasing inactive handles at once for anyone to claim because it wants to prevent bot spam or misuse, noting on that the marketplace “allows for fair and secure distribution through a controlled process.”\nIf a user has a specific inactive handle in mind that isn’t on the marketplace, they can “Register” their interest to add the handle to their Watchlist."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "What the Huge AWS Outage Reveals About the Internet",
+            "link": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
+            "site_name": "WIRED",
+            "novelty_hash": "e7bbed3ef87443c67e35105c2210cbbf137cf1aa"
+          },
+          "review": {
+            "headline_rewrite": "What the Huge AWS Outage Reveals About the Internet",
+            "bullets": [
+              "A massive cloud outage stemming from Amazon Web Services's key US-EAST-1 region, its hub near the United States capitol in northern Virginia, caused widespread disruptions of websites and platforms around the world on Monday morning.",
+              "Amazon's main e-commerce platform and other properties including Ring doorbells and the Alexa smart assistant suffered interruptions and outages throughout the morning, as did Meta's communication platform WhatsApp, OpenAI's ChatGPT, PayPal's Venmo payment platform, multiple web services from Epic Games, multiple British government sites, and many others.",
+              "The outages stemmed from Amazon's “DynamoDB” database application programming interfaces in US-EAST-1, and AWS said in status updates that the problem was specifically related to DNS resolution issues.",
+              "The “Domain Name System” is a foundational internet service that essentially acts as an automatic phonebook lookup to translate web URLs like “www.wired.com” into numeric server IP addresses so web browsers show users the right content.",
+              "“Based on our investigation, the issue appears to be related to DNS resolution of the DynamoDB API endpoint in US-EAST-1,” AWS wrote in status updates on Monday.",
+              "Shortly after the company added: “If you are still experiencing an issue resolving the DynamoDB service endpoints in US-EAST-1, we recommend flushing your DNS caches.”\nAn AWS spokesperson did not immediately respond when asked for details about the nature of the failure."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best new computers to replace your old Windows 10 PC",
+            "link": "https://www.engadget.com/computing/the-best-new-computers-to-replace-your-old-windows-10-pc-134500000.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1a68a3a65fa521411beacfcf96d3abfa4280affd"
+          },
+          "review": {
+            "headline_rewrite": "The best new computers to replace your old Windows 10 PC",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Thankfully, there’s a free and easy way to get another year’s worth of Extended Security Updates (which will take you to mid-October 2026).",
+              "But even if your computer meets the minimum system requirements for a free Windows 11 upgrade, anything older than a year won't be able to take advantage of Microsoft's Copilot+ AI PC features, like Windows Recall or Studio Effects for video chats.",
+              "It's incredibly light, surprisingly powerful for something with a mobile chip and its battery lasted over 17-and-a-half hours in our testing.",
+              "The S14 is also lighter than the MacBook Air, and it includes more useful ports (two USB-C, one USB-A, HDMI and a headphone jack).",
+              "(Check out our full review of the ASUS ZenBook S 14.)\nApple MacBook Air\nDon't yell at me — Apple's new computers are so good that Windows users should seriously consider jumping ship to Macs."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
