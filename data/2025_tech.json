@@ -192873,6 +192873,117 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:12": [
+        {
+          "item": {
+            "title": "U.S. and Australia sign $3B critical minerals deal",
+            "link": "https://techcrunch.com/2025/10/20/u-s-and-australia-sign-3b-critical-minerals-deal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "11f4064674fc142e1bc02d8ed472ad26853483d2"
+          },
+          "review": {
+            "headline_rewrite": "U.S. and Australia sign $3B critical minerals deal",
+            "bullets": [
+              "The total project pipeline is worth $8.5 billion, the governments said.",
+              "The move comes as China has restricted exports of certain minerals, including rare earth elements, that are vital to the production of electronics and electric motors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Do animals fall for optical illusions? It’s complicated.",
+            "link": "https://arstechnica.com/science/2025/10/do-animals-fall-for-optical-illusions-its-complicated/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5fdb0049ad45bd8226c24a7a117ba72694a14acf"
+          },
+          "review": {
+            "headline_rewrite": "Do animals fall for optical illusions? It’s complicated.",
+            "bullets": [
+              "Dolphins, chicks, and redtail splitfins seem to be susceptible, for example, while pigeons, baboons, and gray bamboo snakes are not.",
+              "The doves are terrestrial, pecking at small seeds scattered on the ground for food, so the authors reasoned that precision and attention to detail—rather than global processing to first analyze an entire scene, as humans do—would be more advantageous for the doves.",
+              "They must make rapid decisions in order to survive, and thus it would be advantageous for guppies to be able to judge relative size at a glance—a human-like global processing ability that is key to the Ebbinghaus illusion."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Has a Bedbug Infestation in Its New York Offices",
+            "link": "https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/",
+            "site_name": "WIRED",
+            "novelty_hash": "2d6e37d6ceb1b3c2499ddd4ec646f739bd880d6f"
+          },
+          "review": {
+            "headline_rewrite": "Google Has a Bedbug Infestation in Its New York Offices",
+            "bullets": [
+              "Exterminators arrived at the scene with a sniffer dog “and found credible evidence of their presence,” according to an email obtained by WIRED.",
+              "The email was sent to all Google employees in New York on behalf of the company’s environmental, health, and safety team.",
+              "Google is performing additional inspections at other Google campuses in New York, including buildings at the company’s Hudson Square campus, “out of an abundance of caution,” the email says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
+            "link": "https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/",
+            "site_name": "WIRED",
+            "novelty_hash": "68c7e8b75623bdc940b2dba9c90a59daeaa6b123"
+          },
+          "review": {
+            "headline_rewrite": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
+            "bullets": [
+              "The National Transportation Safety Board confirmed Sunday that it is investigating an airliner that was struck by an object in its windscreen, mid-flight, over Utah.",
+              "“NTSB gathering radar, weather, flight recorder data,” the federal agency said on the social media site X.",
+              "“Windscreen being sent to NTSB laboratories for examination.”\nThe strike occurred Thursday, during a United Airlines flight from Denver to Los Angeles.",
+              "Images shared on social media showed that one of the two large windows at the front of a 737 MAX aircraft was significantly cracked.",
+              "Object’s Origin Not Confirmed\nThe captain of the flight reportedly described the object that hit the plane as “space debris.” This has not been confirmed, however.",
+              "After the impact, the aircraft safely landed at Salt Lake City International Airport after being diverted."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How to watch Samsung unveil its Android XR headset",
+            "link": "https://www.engadget.com/ar-vr/how-to-watch-samsung-unveil-its-android-xr-headset-184820772.html",
+            "site_name": "Engadget",
+            "novelty_hash": "927efbab33380e41b5b0dc5b457f11e357ef2c8e"
+          },
+          "review": {
+            "headline_rewrite": "How to watch Samsung unveil its Android XR headset",
+            "bullets": [
+              "Samsung is set to officially reveal its long-anticipated Android extended reality (XR) headset, which has been codenamed Project Moohan.",
+              "The company has scheduled a livestream event for October 21 at 10PM ET.",
+              "The event will be streamed live via the company's YouTube page and on the official Samsung Newsroom site.",
+              "We don't know how long the stream will be, but Samsung promises that Project Moohan will open up the \"true potential\" of mixed-reality devices.",
+              "Samsung says that this technology \"seamlessly blends everyday utility with immersive new experiences.\" Hopefully we'll get a look at both everyday utility and immersive new experiences during the livestream."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+            "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html",
+            "site_name": "Engadget",
+            "novelty_hash": "df80b75ae90fd52f12cd0afcf0397393f2c5445d"
+          },
+          "review": {
+            "headline_rewrite": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+            "bullets": [
+              "A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running.",
+              "Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.",
+              "As of 1:15PM ET though, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home.",
+              "By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage.",
+              "Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.",
+              "As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
