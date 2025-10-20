@@ -191579,6 +191579,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:47": [
+        {
+          "item": {
+            "title": "Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050",
+            "link": "https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "997d2ebce76fb4cc75e8666614ef6cab7f066eaf"
+          },
+          "review": {
+            "headline_rewrite": "Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050",
+            "bullets": [
+              "My favorite was the $600 off deal on Lenovo’s Legion 5 gaming laptop, which has a 15.1-inch 2,560 x 1,600 (16:10 aspect ratio) OLED screen with a 165Hz refresh rate, Nvidia’s RTX 5060 GPU, and other solid specs.",
+              "The Ryzen 7 260 is capable and efficient, but if you’d rather opt for the version of the Legion 5 that has a slightly faster Intel Core i7 14700HX processor, plus double the internal storage (1TB versus 512GB), it’s available at Walmart for $1,199 ($301 off).",
+              "Or better yet, save another $2 on the product by purchasing it through Woot.",
+              "- The passing of Tomonobu Itagaki last week inspired me to dive back into some of the excellent Ninja Gaiden games that he directed.",
+              "If you want to do the same, and you have either a gaming PC or a gaming handheld, grab the Ninja Gaiden Master Collection for just $15.95 at Fanatical (it’s a Steam key) with the code OMENVIP that should automatically be applied when you click the link.",
+              "The collection contains the Sigma versions of the first two reboot titles, plus Ninja Gaiden 3: Razor’s Edge, which is a low point for the series."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/20/san-francisco-mayor-daniel-lurie-is-coming-to-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8381601ad3360f3149b6496dbc241fbbd6140601"
+          },
+          "review": {
+            "headline_rewrite": "San Francisco Mayor Daniel Lurie is coming to TechCrunch Disrupt 2025",
+            "bullets": [
+              "Disrupt has long been a launchpad for founders and investors chasing the next wave.",
+              "City Hall meets the startup community at Disrupt\nLurie, who campaigned on revitalizing the city’s economy and restoring its global standing, isn’t just glad-handing; his presence underscores an overdue détente between City Hall and the startup community, which is currently experiencing an AI-driven renaissance even as the city grapples with pandemic aftershocks.",
+              "Empty downtown offices and escalating skepticism about tech’s impact have strained the relationship, but the AI boom has brought renewed energy — and investment — back to the city.",
+              "By showing up at Disrupt 2025, Lurie is making a statement: San Francisco isn’t retreating from its role as a capital of innovation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "X to launch marketplace for buying inactive handles",
+            "link": "https://techcrunch.com/2025/10/20/x-to-launch-marketplace-for-buying-inactive-handles/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cf89ab617137692f0052e8a15974c4a9049fbb77"
+          },
+          "review": {
+            "headline_rewrite": "X to launch marketplace for buying inactive handles",
+            "bullets": [
+              "X is launching a marketplace for inactive handles that will allow Premium subscribers to request and purchase usernames.",
+              "The marketplace will offer both free and paid options for requesting or acquiring eligible handles.",
+              "X notes that examples of “Priority” handles include usernames like @GabrielJones, @PizzaEater, and @ParadoxAI.",
+              "The launch of the new marketplace will allow X to boost revenue through direct payments.",
+              "These handles won’t be available through standard requests and will instead be offered through public drops and direct, pre-priced purchases available by invitation only.",
+              "X explained on a help page that it’s launching the marketplace instead of releasing inactive handles at once for anyone to claim because it wants to prevent bot spam or misuse, noting on that the marketplace “allows for fair and secure distribution through a controlled process.”\nIf a user has a specific inactive handle in mind that isn’t on the marketplace, they can “Register” their interest to add the handle to their Watchlist."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "What the Huge AWS Outage Reveals About the Internet",
+            "link": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
+            "site_name": "WIRED",
+            "novelty_hash": "e7bbed3ef87443c67e35105c2210cbbf137cf1aa"
+          },
+          "review": {
+            "headline_rewrite": "What the Huge AWS Outage Reveals About the Internet",
+            "bullets": [
+              "A massive cloud outage stemming from Amazon Web Services's key US-EAST-1 region, its hub near the United States capitol in northern Virginia, caused widespread disruptions of websites and platforms around the world on Monday morning.",
+              "Amazon's main e-commerce platform and other properties including Ring doorbells and the Alexa smart assistant suffered interruptions and outages throughout the morning, as did Meta's communication platform WhatsApp, OpenAI's ChatGPT, PayPal's Venmo payment platform, multiple web services from Epic Games, multiple British government sites, and many others.",
+              "The outages stemmed from Amazon's “DynamoDB” database application programming interfaces in US-EAST-1, and AWS said in status updates that the problem was specifically related to DNS resolution issues.",
+              "The “Domain Name System” is a foundational internet service that essentially acts as an automatic phonebook lookup to translate web URLs like “www.wired.com” into numeric server IP addresses so web browsers show users the right content.",
+              "“Based on our investigation, the issue appears to be related to DNS resolution of the DynamoDB API endpoint in US-EAST-1,” AWS wrote in status updates on Monday.",
+              "Shortly after the company added: “If you are still experiencing an issue resolving the DynamoDB service endpoints in US-EAST-1, we recommend flushing your DNS caches.”\nAn AWS spokesperson did not immediately respond when asked for details about the nature of the failure."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best new computers to replace your old Windows 10 PC",
+            "link": "https://www.engadget.com/computing/the-best-new-computers-to-replace-your-old-windows-10-pc-134500000.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1a68a3a65fa521411beacfcf96d3abfa4280affd"
+          },
+          "review": {
+            "headline_rewrite": "The best new computers to replace your old Windows 10 PC",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Thankfully, there’s a free and easy way to get another year’s worth of Extended Security Updates (which will take you to mid-October 2026).",
+              "But even if your computer meets the minimum system requirements for a free Windows 11 upgrade, anything older than a year won't be able to take advantage of Microsoft's Copilot+ AI PC features, like Windows Recall or Studio Effects for video chats.",
+              "It's incredibly light, surprisingly powerful for something with a mobile chip and its battery lasted over 17-and-a-half hours in our testing.",
+              "The S14 is also lighter than the MacBook Air, and it includes more useful ports (two USB-C, one USB-A, HDMI and a headphone jack).",
+              "(Check out our full review of the ASUS ZenBook S 14.)\nApple MacBook Air\nDon't yell at me — Apple's new computers are so good that Windows users should seriously consider jumping ship to Macs."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "13 Best White Elephant Gifts (2025): Coffee Pot Mug, Legos, Sushi Magnets, and More",
+            "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2025/",
+            "site_name": "WIRED",
+            "novelty_hash": "b47f305577b3d8463de24689c7f7936e7aae41b5"
+          },
+          "review": {
+            "headline_rewrite": "13 Best White Elephant Gifts (2025): Coffee Pot Mug, Legos, Sushi Magnets, and More",
+            "bullets": [
+              "My friends and I tried it mixed into a pomegranate cocktail instead of tequila, which was fantastic, and we also loved it with seltzer as a THC twist on a gin and tonic.",
+              "Unless there's a fun theme that you're certain appeals to the group attending, like the D&D candles above for my fellow nerdy friends or book-themed candles for book lovers, skip bringing a single candle to a white elephant exchange.",
+              "Instead, I'm gifting fun paint-by-number kits.",
+              "But otherwise, unless you're good friends with the entire group and are completely certain it wouldn't be inappropriate (and no kids will be in attendance), it's safer to buy these for your significant other instead.",
+              "It's certainly inappropriate for a work gift exchange.",
+              "Rules of a White Elephant\nIf you're headed to your first white elephant gift exchange, here's a quick explainer on what's about to happen."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
