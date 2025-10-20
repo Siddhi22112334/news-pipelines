@@ -84893,7 +84893,27 @@
     "runs": {
       "00:21": [],
       "00:44": [],
-      "01:07": []
+      "01:07": [],
+      "01:50": [
+        {
+          "item": {
+            "title": "Stocks jump as key earnings reports ahead; US yields ease",
+            "link": "https://www.livemint.com/market/stock-market-news/stocks-jump-as-key-earnings-reports-ahead-us-yields-ease-11760989067850.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Stocks jump as key earnings reports ahead; US yields ease",
+            "bullets": [
+              "By Caroline Valetkevitch NEW YORK -Major stock indexes gained sharply on Monday as investors awaited more quarterly results from some big U.S.",
+              "Treasury yields edging lower ahead of upcoming U.S.-China trade discussions.",
+              "federal government shutdown, now in its 20th consecutive day.",
+              "Key economic reports have not been published by government agencies as a result, although the September U.S."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
