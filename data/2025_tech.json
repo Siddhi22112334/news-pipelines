@@ -193096,6 +193096,118 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:07": [
+        {
+          "item": {
+            "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+            "link": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9748461ae2efb0ba9366a94001a3106a6163a0ea"
+          },
+          "review": {
+            "headline_rewrite": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+            "bullets": [
+              "Periodic Labs, a new startup by one of OpenAI’s most respected researchers, Liam Fedus, and his former Google Brain colleague, Ekin Dogus Cubuk, came out of stealth last month with an enormous $300 million seed round.",
+              "Cubuk was one of Google Brain’s foremost machine learning and material science researchers.",
+              "After endless Silicon Valley takes on how GenAI would radically change scientific discovery, they decided that the pieces were finally in place to make this a reality.",
+              "“There are a few things that happened in the LLM field, in experimental science and in simulations that kind of made this the right time,” Cubuk told TechCrunch.",
+              "For one, he said, robotic arms that could handle powder synthesis — the process of mixing and creating new materials — had recently proved themselves reliable.",
+              "And, third, LLMs now had powerful reasoning capabilities — in part through the work of Fedus and his team at OpenAI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
+            "link": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "bc15d80141b72f0530f02b5537eb51028646336d"
+          },
+          "review": {
+            "headline_rewrite": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
+            "bullets": [
+              "It took awhile, but Google’s Pixel line of smartphones has established itself as a mainstay of Android after 10 generations.",
+              "It’s not unheard of for companies to have loyal customers help test new products, but it’s not usually big companies like Google with well-established products like Pixel.",
+              "They must demonstrate deep knowledge of the Pixel product family and suggest ways the phones can be improved.",
+              "Is Google going to get gushing praise or constructive criticism?"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Blind patients read again with smart glasses-linked eye implant",
+            "link": "https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision",
+            "site_name": "The Verge",
+            "novelty_hash": "398270efbf2eaece9698e8f361a130eb387bb95c"
+          },
+          "review": {
+            "headline_rewrite": "Blind patients read again with smart glasses-linked eye implant",
+            "bullets": [
+              "Several dozen patients with vision loss due to a progressive form of blindness called age-related macular degeneration (AMD) regained some of their central vision thanks to an eye implant paired with a set of smart glasses.",
+              "The study was published Monday in The New England Journal of Medicine, and researchers report that patients could see well enough using the technology to fill out crossword puzzles and read regular books again.",
+              "Participants included people aged 60 or older with diagnosed AMD in both eyes, and visual impairment of a measured visual acuity of at least 1.2 logMAR or worse in the study eye.",
+              "Blind patients read again with smart glasses-linked eye implant\n80 percent of participants with ‘profound’ degrees of vision loss reported seeing better.",
+              "The study focused on restoring some of that lost vision using a 2-by-2-millimeter device made of tiny photovoltaic solar panels.",
+              "The technology comes from the brain-computer interface company Science Corporation, whose founder and CEO, Max Hodak, cofounded Neuralink in 2016 with Elon Musk."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Breaking down rare earth element magnets for recycling",
+            "link": "https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "dbbf9429bdf8f81b55b0d1f8ce3cc5b7902fda91"
+          },
+          "review": {
+            "headline_rewrite": "Breaking down rare earth element magnets for recycling",
+            "bullets": [
+              "“And, in our argument, it’s all in our waste… We have it right here, just pull it right back out of the waste.”\nGetting hot in here\nIn 2018, Tour and his colleagues discovered that this rapid heating process, called flash joule heating, can turn any carbon source—including coal, biochar, and mixed plastic—into graphene, a very thin, strong, and conductive material.",
+              "A current runs through the platform, rapidly producing immense heat, thousands of degrees celsius in a matter of seconds."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+            "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html",
+            "site_name": "Engadget",
+            "novelty_hash": "df80b75ae90fd52f12cd0afcf0397393f2c5445d"
+          },
+          "review": {
+            "headline_rewrite": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+            "bullets": [
+              "A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running.",
+              "Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.",
+              "As of 1:15PM ET though, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home.",
+              "By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage.",
+              "Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.",
+              "As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "One of Google's New York offices needs literal debugging",
+            "link": "https://www.engadget.com/big-tech/one-of-googles-new-york-offices-needs-literal-debugging-194029103.html",
+            "site_name": "Engadget",
+            "novelty_hash": "8dd25dc4b6d6ec4172d97af6b8e226265c89ad03"
+          },
+          "review": {
+            "headline_rewrite": "One of Google's New York offices needs literal debugging",
+            "bullets": [
+              "The team at the company's Chelsea campus were notified on Sunday that a possible bed bug infestation had been discovered in the building and were told to remain at home so the location could be treated.",
+              "Google told employees to file a report if they had symptoms of bed bug bites or saw evidence of bed bugs on site, according to an email sent by the company and obtained by Wired."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
