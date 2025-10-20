@@ -191939,6 +191939,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:16": [
+        {
+          "item": {
+            "title": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization",
+            "link": "https://blogs.nvidia.com/blog/nvidia-google-cloud-enterprise-ai-industrial-digitalization/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "0b68973af208288510d052f4e8c54bd211955dbd"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization",
+            "bullets": [
+              "NVIDIA and Google Cloud are expanding access to accelerated computing to transform the full spectrum of enterprise workloads, from visual computing to agentic and physical AI.",
+              "Google Cloud today announced the general availability of G4 VMs, powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs.",
+              "Plus, NVIDIA Omniverse and NVIDIA Isaac Sim are now available as virtual machine images (VMIs) on the Google Cloud Marketplace to unlock physical AI-driven applications for key industries like manufacturing, automotive and logistics.",
+              "This powerful combination creates a versatile, multi-workload platform for enterprises to accelerate their most demanding challenges on Google Cloud.",
+              "NVIDIA RTX PRO 6000 Blackwell GPUs excel at high-performance AI inference for multimodal, generative and agentic AI deployments, while also powering complex visual and simulation workloads ranging from computer-aided engineering and content creation to robotics simulation.",
+              "Customers like WPP are using G4 VMs with NVIDIA Omniverse to instantly generate photorealistic 3D advertising environments at global scale, while Altair is using the platform within Altair One to accelerate demanding simulation and fluid dynamics workloads."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-waitlist-ebs-volume-clones-ec2-capacity-manager-and-more-october-20-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "c1252d623911c0cd3510e03a00177f38d5adedf2"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)\nLast week’s launches\nThese are the launches from last week that caught my attention:\n- Kiro is now available for every developer — Since its launch more than 90 days ago, more than 100,000 developers have joined the waitlist to try Kiro out.",
+              "The waitlist is gone so if you want to try out this spec-driven approach to coding with AI, sign up now.",
+              "- Amazon EC2 Capacity Manager — If you’re using Amazon Elastic Compute Cloud (Amazon EC2) at scale operate hundreds of instance types across multiple Availability Zones and accounts, using On-Demand Instances, Spot Instances, and Capacity Reservations, you’ll be pleased to learn that EC2 Capacity Manager is now available to provide you a centralized solution to monitor, analyze, and manage capacity usage across all account and AWS Regions from a single interface.",
+              "- Amazon EBS Volume Clones — Sometimes you need production data to test a fix in a non-production environment before implementing it in production.",
+              "Learn about the availability of Amazon EBS Volume Clones, a new capability for you to create instant point-in-time copies of your EBS volumes within the same Availability Zone.",
+              "Additional updates\nI thought these projects, blog posts, and news items were also interesting:\n- AWS Transfer Family SFTP connectors now support VPC-based connectivity — AWS Transfer Family SFTP connectors now support connectivity to remote SFTP servers through Amazon Virtual Private Cloud (Amazon VPC) environments."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Automattic CEO calls Tumblr his ‘biggest failure’ so far",
+            "link": "https://techcrunch.com/2025/10/20/automattic-ceo-calls-tumblr-his-biggest-failure-so-far/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e084e0073761d909ad98260075f562b602a903dc"
+          },
+          "review": {
+            "headline_rewrite": "Automattic CEO calls Tumblr his ‘biggest failure’ so far",
+            "bullets": [
+              "WordPress co-founder and Automattic CEO Matt Mullenweg called the company’s Tumblr acquisition his biggest failure — but one he hasn’t given up on yet.",
+              "However, that massive undertaking was put on hold earlier this year, as the cost to move Tumblr’s half a billion blogs would be difficult given that the blogging platform wasn’t profitable and continues to be sustained by the profits of other Automattic products.",
+              "It’s over 500 million blogs, actually, and, as a business, it’s costing so much more to run than it generates in revenue.”\nAs a result, Automattic had to prioritize other projects to make Tumblr sustainable, he said.",
+              "“It’s probably my biggest failure or missed opportunity right now, but we’re still working on it,” he added.",
+              "If Tumblr were to move to the WordPress back end, it would be simpler and more cost effective to maintain.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b6d7d5260fa3fcec7b1aaff7c8b5b51d07b63811"
+          },
+          "review": {
+            "headline_rewrite": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025",
+            "bullets": [
+              "We can’t say from experience whether the food is a hit, but we’ll certainly be taste-testing some wagyu galbi and tteokbokki when the food truck rolls up to TechCrunch Disrupt 2025, where Shin Starr is part of the Startup Battlefield 200.",
+              "Companies like DoorDash are experimenting with autonomous delivery robots, but Shin Starr is doing the reverse: A human drives the truck, but the body of the vehicle is outfitted with the company’s “Autowok,” a modular, AI-powered robotics system that automates cooking, serving, and cleaning.",
+              "“It was designed to be able to serve food and cook en route,” Shin said.",
+              "It takes us eight minutes to cook wagyu beef [so it] won’t start cooking your food until it has moved seven minutes closer to your location, so that when you get your food, your food is literally freshly cooked.”\nOther robotic kitchen startups have struggled to find product-market fit, but Shin Starr thinks it can find its niche in airports.",
+              "Soon, the company will open an OLHSO micro restaurant in a leading California airport, and if that goes smoothly, the company has other airports interested in implementing the technology.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050",
+            "link": "https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "eca7559415e28b8eb778d0af1c620b765891609f"
+          },
+          "review": {
+            "headline_rewrite": "Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050",
+            "bullets": [
+              "My favorite was the $600 off deal on Lenovo’s Legion 5 gaming laptop, which has a 15.1-inch 2,560 x 1,600 (16:10 aspect ratio) OLED screen with a 165Hz refresh rate, Nvidia’s RTX 5060 GPU, and other solid specs.",
+              "The Ryzen 7 260 is capable and efficient, but if you’d rather opt for the version of the Legion 5 that has a slightly faster Intel Core i7 14700HX processor — plus double the internal storage (1TB versus 512GB) — it’s available at Walmart for $1,199 ($301 off).",
+              "Or better yet, save another $2 on the product by purchasing it through Woot.",
+              "- The passing of Tomonobu Itagaki last week inspired me to dive back into some of the excellent Ninja Gaiden games that he directed.",
+              "If you want to do the same, and you have either a gaming PC or a gaming handheld, grab the Ninja Gaiden Master Collection for just $15.95 at Fanatical (it’s a Steam key) with promo code OMENVIP, which should automatically be applied when you click the link.",
+              "The collection contains the Sigma versions of the first two reboot titles, plus Ninja Gaiden 3: Razor’s Edge, which is a low point for the series."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-satellites-data-leak-cybertrucks-politicized-federal-workers/",
+            "site_name": "WIRED",
+            "novelty_hash": "f8bde62db6871216da4ae4d942a39095a9cb91eb"
+          },
+          "review": {
+            "headline_rewrite": "WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers",
+            "bullets": [
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Do they come up with some other reasons to explain it?",
+              "Zoë Schiffer: There are a few explanations as to why all this information was available for anyone to access, but the researchers agreed that the main reason is because the overall security strategy of a lot of global satellite communication systems is just hoping that no one looks up to the sky and checks out their communications.",
+              "I'm imagining in my head that it came with a bit of one of them losing their mind in a meeting like Leonardo DiCaprio on air in that movie, but.",
+              "But it's not just a random pitch because again, it got circulated among the Trump administration.",
+              "But the pitch deck was reportedly created by some of the businessmen who helped create the controversial nonprofit, the Gaza Humanitarian Foundation, which is currently leading aid distribution in Gaza."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
