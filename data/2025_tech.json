@@ -192061,6 +192061,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:46": [
+        {
+          "item": {
+            "title": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization",
+            "link": "https://blogs.nvidia.com/blog/nvidia-google-cloud-enterprise-ai-industrial-digitalization/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "0b68973af208288510d052f4e8c54bd211955dbd"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization",
+            "bullets": [
+              "NVIDIA and Google Cloud are expanding access to accelerated computing to transform the full spectrum of enterprise workloads, from visual computing to agentic and physical AI.",
+              "Google Cloud today announced the general availability of G4 VMs, powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs.",
+              "Plus, NVIDIA Omniverse and NVIDIA Isaac Sim are now available as virtual machine images (VMIs) on the Google Cloud Marketplace to unlock physical AI-driven applications for key industries like manufacturing, automotive and logistics.",
+              "This powerful combination creates a versatile, multi-workload platform for enterprises to accelerate their most demanding challenges on Google Cloud.",
+              "NVIDIA RTX PRO 6000 Blackwell GPUs excel at high-performance AI inference for multimodal, generative and agentic AI deployments, while also powering complex visual and simulation workloads ranging from computer-aided engineering and content creation to robotics simulation.",
+              "Customers like WPP are using G4 VMs with NVIDIA Omniverse to instantly generate photorealistic 3D advertising environments at global scale, while Altair is using the platform within Altair One to accelerate demanding simulation and fluid dynamics workloads."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-waitlist-ebs-volume-clones-ec2-capacity-manager-and-more-october-20-2025/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "c1252d623911c0cd3510e03a00177f38d5adedf2"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)",
+            "bullets": [
+              "AWS Weekly Roundup: Kiro waitlist, EBS Volume Clones, EC2 Capacity Manager, and more (October 20, 2025)\nLast week’s launches\nThese are the launches from last week that caught my attention:\n- Kiro is now available for every developer — Since its launch more than 90 days ago, more than 100,000 developers have joined the waitlist to try Kiro out.",
+              "The waitlist is gone so if you want to try out this spec-driven approach to coding with AI, sign up now.",
+              "- Amazon EC2 Capacity Manager — If you’re using Amazon Elastic Compute Cloud (Amazon EC2) at scale operate hundreds of instance types across multiple Availability Zones and accounts, using On-Demand Instances, Spot Instances, and Capacity Reservations, you’ll be pleased to learn that EC2 Capacity Manager is now available to provide you a centralized solution to monitor, analyze, and manage capacity usage across all account and AWS Regions from a single interface.",
+              "- Amazon EBS Volume Clones — Sometimes you need production data to test a fix in a non-production environment before implementing it in production.",
+              "Learn about the availability of Amazon EBS Volume Clones, a new capability for you to create instant point-in-time copies of your EBS volumes within the same Availability Zone.",
+              "Additional updates\nI thought these projects, blog posts, and news items were also interesting:\n- AWS Transfer Family SFTP connectors now support VPC-based connectivity — AWS Transfer Family SFTP connectors now support connectivity to remote SFTP servers through Amazon Virtual Private Cloud (Amazon VPC) environments."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "FTC removes Lina Khan-era posts about AI risks and open source",
+            "link": "https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7366a788b1298106848e79841d4b55d34c5d44b1"
+          },
+          "review": {
+            "headline_rewrite": "FTC removes Lina Khan-era posts about AI risks and open source",
+            "bullets": [
+              "The Federal Trade Commission has removed three blog posts from the Lina Khan-era that addressed open-source AI and risks of AI to consumers, according to a Wired report.",
+              "Another, titled “Consumers Are Voicing Concerns About AI,” came out in October 2023.",
+              "A third, authored by Khan’s staff, was published on January 3, 2025 with the title “AI and the Risk of Consumer Harm.” That post noted the FTC was “taking note of AI’s potential for real-world instances of harm – from incentivizing commercial surveillance to enabling fraud and impersonation to perpetuating illegal discrimination.”\nTechCrunch has reached out to the FTC to learn why the posts were taken down.",
+              "After his inauguration, Trump also installed a new head of the FTC and removed several FTC commissioners, installing leadership that focused less on Khan’s aggressive antitrust agenda and more on deregulation for Big Tech.",
+              "In September, new FTC Chair Andrew Ferguson submitted recommendations for deleting or revising anticompetitive regulations across the entire federal government.",
+              "The blog posts most recently removed by the FTC, which focused on consumer harm, don’t seem to align with the Trump administration’s AI Action Plan."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2be447bfff3fa715007318f353db98788364780f"
+          },
+          "review": {
+            "headline_rewrite": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025",
+            "bullets": [
+              "We can’t say from experience whether the food is a hit, but we’ll certainly be taste-testing some wagyu galbi and tteokbokki when the food truck rolls up to TechCrunch Disrupt 2025, where Shin Starr is part of the Startup Battlefield 200.",
+              "Companies like DoorDash are experimenting with autonomous delivery robots, but Shin Starr is doing the reverse: A human drives the truck, but the body of the vehicle is outfitted with the company’s “Autowok,” a modular, AI-powered robotics system that automates cooking, serving, and cleaning.",
+              "“It was designed to be able to serve food and cook en route,” Shin said.",
+              "It takes us eight minutes to cook wagyu beef [so it] won’t start cooking your food until it has moved seven minutes closer to your location, so that when you get your food, your food is literally freshly cooked.”\nOther robotic kitchen startups have struggled to find product-market fit, but Shin Starr thinks it can find its niche in airports.",
+              "Soon the company will open an OLHSO micro restaurant in a leading California airport, and if that goes smoothly, the company has other airports interested in implementing the technology.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Major AWS outage took down Fortnite, Alexa, Snapchat, and more",
+            "link": "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline",
+            "site_name": "The Verge",
+            "novelty_hash": "df75a4f7ac59cd710b38d66812745596af87c50a"
+          },
+          "review": {
+            "headline_rewrite": "Major AWS outage took down Fortnite, Alexa, Snapchat, and more",
+            "bullets": [
+              "The AWS dashboard first reported issues affecting the US-EAST-1 Region at 3:11AM ET, and eventually said that “The underlying DNS issue has been fully mitigated.” According to Amazon’s latest notes, “the issue originated from within the EC2 internal network,” and the most recent update was published at 12:13PM ET:\nWe have taken additional mitigation steps to aid the recovery of the underlying internal subsystem responsible for monitoring the health of our network load balancers and are now seeing connectivity and API recovery for AWS services.",
+              "We have also identified and are applying next steps to mitigate throttling of new EC2 instance launches.",
+              "Users on Reddit reported that the Alexa smart assistant was down and unable to respond to queries or complete requests, and others experienced gaps in recording for Amazon’s Ring security cameras.",
+              "The AWS issue impacted many platforms and services running on its cloud network, including Perplexity, Airtable, Canva, Zapier, and the McDonalds app."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Iniu&#8217;s tiny 10,000mAh power bank is almost half off right now",
+            "link": "https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "cb4eccfecb1d175bce61d15c93236feac293f158"
+          },
+          "review": {
+            "headline_rewrite": "Iniu&#8217;s tiny 10,000mAh power bank is almost half off right now",
+            "bullets": [
+              "The three-port USB charger is roughly the size of an AirPods Pro case, yet it manages to squeeze in a large 10,000mAh battery.",
+              "For instance, it has a display that shows the remaining charge of the power bank in real time, and it supports pass-through charging, so you can charge both the power bank and a connected device at the same time."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
