@@ -192645,6 +192645,122 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:07": [
+        {
+          "item": {
+            "title": "Anthropic brings Claude Code to the web",
+            "link": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cef9071de50a933a9aac53f8569697f1b984b3f1"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic brings Claude Code to the web",
+            "bullets": [
+              "Anthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agents from their browser.",
+              "Pro and Max users can access Claude Code on the web by navigating to claude.ai (the same website for Anthropic’s consumer chatbot) and clicking into the “Code” tab, or through the Claude iOS app.",
+              "The launch marks Anthropic’s latest attempt to evolve Claude Code beyond a command-line interface (CLI) tool that developers access from a terminal.",
+              "By putting Claude Code on the web, Anthropic hopes developers will spin up AI coding agents in more places.",
+              "It’s increasingly competitive for tech companies trying to make their AI coding tools stand out.",
+              "While Microsoft’s GitHub Copilot once dominated the space, Cursor, Google, OpenAI, and Anthropic now have highly performant AI coding tools of their own — many of them already available on the web."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
+            "link": "https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c975991035776839b08802bf6f071d7389d5e0e9"
+          },
+          "review": {
+            "headline_rewrite": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
+            "bullets": [
+              "New data indicates that use of Meta AI’s mobile app for iOS and Android has seen a significant increase.",
+              "According to a new analysis from market intelligence provider Similarweb, the app’s daily active users across both platforms jumped to 2.7 million as of October 17, up from around 775,000 just four weeks ago.",
+              "In addition, Meta AI’s app installs are also up, reaching 300,000 new downloads per day, compared with under 200,000 daily downloads a few weeks ago.",
+              "For comparison, Meta AI’s app had just 4,000 daily downloads a year ago, on October 17, 2024.",
+              "However, there’s also another possible explanation for the sharp rise: the launch of Meta’s new Vibes feed in September, which introduced short-form AI-generated videos to the Meta AI mobile app.",
+              "Meta AI introduced the Vibes feed on September 25, which correlates with the sharp increase in the app’s daily active users on iOS and Android, as seen in the chart below."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "SpaceX launches 10,000th Starlink satellite, with no sign of slowing down",
+            "link": "https://arstechnica.com/space/2025/10/spacex-launches-10000th-starlink-satellite-with-no-sign-of-slowing-down/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "aaa0b239a0eca164a96b18ce5f680ba5143982f4"
+          },
+          "review": {
+            "headline_rewrite": "SpaceX launches 10,000th Starlink satellite, with no sign of slowing down",
+            "bullets": [
+              "The second of these two launches—originating from Vandenberg Space Force Base, California—propelled SpaceX’s Starlink program past a notable milestone.",
+              "The first two Starlink prototypes, named Tintin A and Tintin B, launched in 2018 as pathfinders.",
+              "SpaceX began launching Starlink satellites with a radically different design in 2019, initially flying 60 satellites at a time.",
+              "The number of spacecraft per launch has gone down as the satellites grew larger and more capable, with the Falcon 9’s capacity now maxed out at 28 satellites per flight.",
+              "SpaceX’s launch director nodded at the moment the Falcon 9 took off from California Sunday: “From Tintin to 10,000.",
+              "Go Starlink, go Falcon, go SpaceX.”\nBy the numbers\n- 8,680 total Starlink satellites in orbit\n- 8,664 functioning Starlink satellites in orbit (including newly launched satellites not yet operational)\n- 7,448 Starlink satellites in operational orbit"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Do animals fall for optical illusions? It’s complicated.",
+            "link": "https://arstechnica.com/science/2025/10/do-animals-fall-for-optical-illusions-its-complicated/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5fdb0049ad45bd8226c24a7a117ba72694a14acf"
+          },
+          "review": {
+            "headline_rewrite": "Do animals fall for optical illusions? It’s complicated.",
+            "bullets": [
+              "Dolphins, chicks, and redtail splitfins seem to be susceptible, for example, while pigeons, baboons, and gray bamboo snakes are not.",
+              "The doves are terrestrial, pecking at small seeds scattered on the ground for food, so the authors reasoned that precision and attention to detail—rather than global processing to first analyze an entire scene, as humans do—would be more advantageous for the doves.",
+              "They must make rapid decisions in order to survive, and thus it would be advantageous for guppies to be able to judge relative size at a glance—a human-like global processing ability that is key to the Ebbinghaus illusion."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Has a Bed Bug Infestation in Its New York Offices",
+            "link": "https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/",
+            "site_name": "WIRED",
+            "novelty_hash": "33448cb13a7146f9b945f08f53720bbddefdb107"
+          },
+          "review": {
+            "headline_rewrite": "Google Has a Bed Bug Infestation in Its New York Offices",
+            "bullets": [
+              "Exterminators arrived at the scene with a sniffer dog “and found credible evidence of their presence,” according to an email obtained by WIRED.",
+              "The email was sent to all Google employees in New York on behalf of the company’s environmental, health, and safety team.",
+              "Google is performing additional inspections at other Google campuses in New York, including buildings at the company’s Hudson Square campus, “out of an abundance of caution,” the email says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
+            "link": "https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/",
+            "site_name": "WIRED",
+            "novelty_hash": "68c7e8b75623bdc940b2dba9c90a59daeaa6b123"
+          },
+          "review": {
+            "headline_rewrite": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
+            "bullets": [
+              "The National Transportation Safety Board confirmed Sunday that it is investigating an airliner that was struck by an object in its windscreen, mid-flight, over Utah.",
+              "“NTSB gathering radar, weather, flight recorder data,” the federal agency said on the social media site X.",
+              "“Windscreen being sent to NTSB laboratories for examination.”\nThe strike occurred Thursday, during a United Airlines flight from Denver to Los Angeles.",
+              "Images shared on social media showed that one of the two large windows at the front of a 737 MAX aircraft was significantly cracked.",
+              "Object’s Origin Not Confirmed\nThe captain of the flight reportedly described the object that hit the plane as “space debris.” This has not been confirmed, however.",
+              "After the impact, the aircraft safely landed at Salt Lake City International Airport after being diverted."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
