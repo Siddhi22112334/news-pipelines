@@ -197895,6 +197895,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "05:07": [
+        {
+          "item": {
+            "title": "Netflix goes ‘all in’ on generative AI as entertainment industry remains divided",
+            "link": "https://techcrunch.com/2025/10/21/netflix-goes-all-in-on-generative-ai-as-entertainment-industry-remains-divided/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a454a6cb656c401275188a0242606df954f6462c"
+          },
+          "review": {
+            "headline_rewrite": "Netflix goes ‘all in’ on generative AI as entertainment industry remains divided",
+            "bullets": [
+              "As the entertainment industry reckons with when and how to use generative AI in filmmaking, Netflix is leaning in.",
+              "In its quarterly earnings report released on Tuesday afternoon, Netflix wrote in its letter to investors that it is “very well positioned to effectively leverage ongoing advances in AI.”\nNetflix isn’t planning to use generative AI as the backbone of its content but believes the technology has potential as a tool to make creatives more efficient.",
+              "“It takes a great artist to make something great,” Netflix CEO Ted Sarandos said on Tuesday’s earnings call.",
+              "“AI can give creatives better tools to enhance their overall TV/movie experience for our members, but it doesn’t automatically make you a great storyteller if you’re not.”\nEarlier this year, Netflix said it used generative AI in final footage for the first time in the Argentine show “The Eternaut” to create a scene of a building collapsing.",
+              "Since then, the filmmakers behind “Happy Gilmore 2” used generative AI to make characters look younger in the film’s opening scene, while the producers of “Billionaires’ Bunker” used the technology as a pre-production tool to envision wardrobe and set design.",
+              "“We’re confident that AI is going to help us and help our creative partners tell stories better, faster, and in new ways,” Sarandos said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The iPhone 17’s selfie camera is to blame for delayed Project Indigo support",
+            "link": "https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support",
+            "site_name": "The Verge",
+            "novelty_hash": "06dfd7611f568a74f0adb33434340dd168129c21"
+          },
+          "review": {
+            "headline_rewrite": "The iPhone 17’s selfie camera is to blame for delayed Project Indigo support",
+            "bullets": [
+              "The iPhone 17 series launched just over a month ago, but Adobe’s camera app Project Indigo still doesn’t support the latest iPhones — you can run it on an iPhone 12 Pro if you have one handy, but I can’t use it on the iPhone 17 Pro on my desk.",
+              "And although it seems the wait might be over soon, support for the selfie camera might not be available right away.",
+              "Product manager Boris Ajdin has been relaying information about Project Indigo’s updates to eager fans on Adobe’s community forums, and he posted an update on October 16th with more information about the delayed iPhone 17 support.",
+              "Responding to another comment in the thread today, Ajdin says he is “hoping that we can release an update this week.” I reached out to Adobe to ask for more details about the challenges the selfie camera has posed; Adobe spokesperson Erin Di Leva referred me to the aforementioned forum posts.",
+              "The iPhone 17 series included the first major update to the selfie camera since switching to a 12-megapixel sensor in the iPhone 11.",
+              "The 17’s 18-megapixel front camera sensor is square, allowing it to capture both portrait and landscape orientation images without rotating the whole phone (or losing a lot of resolution to cropping)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Netflix is &#8216;judiciously&#8217; expanding into interactive experiences",
+            "link": "https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings",
+            "site_name": "The Verge",
+            "novelty_hash": "b105a3500d80c47b5b1b105770d986c0d4b45c14"
+          },
+          "review": {
+            "headline_rewrite": "Netflix is &#8216;judiciously&#8217; expanding into interactive experiences",
+            "bullets": [
+              "Netflix has been investing a lot of time and energy into gaming, but the company sees its work on games as part of a broader initiative around interactivity, co-CEO Greg Peters said in today’s Q3 2025 earnings call.",
+              "“We’ve mostly talked so far about our work in this space as games because that’s an easy shorthand,” he said.",
+              "How is it able to unlock whole new entertainment experiences?” As an example, he mentioned real-time voting, which Netflix is currently testing with Dinner Time Live With David Chang and plans to use with its live Star Search revival in January.",
+              "“We expect to provide other interactive features to deepen engagement with live events as we go in the future,” Peters said.",
+              "“These games are super easy to access,” Peters said.",
+              "You don’t need a special controller — that’s key to this access.”\nIn the “years ahead,” Netflix expects that “creators will really find interesting and novel ways to unlock all of the power that is in this incredibly advanced controller that we all happen to have in our pockets, which, of course, is our phones,” Peters said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Open source agentic startup LangChain hits $1.25B valuation",
+            "link": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "78ebfa5fb4fc43f8ac19210b60aa8335f930b116"
+          },
+          "review": {
+            "headline_rewrite": "Open source agentic startup LangChain hits $1.25B valuation",
+            "bullets": [
+              "LangChain raised $125 million at a $1.25 billion valuation, the company announced on Monday.",
+              "TechCrunch reported in July that the provider of a popular open source framework for building AI agents was raising fresh funds at a valuation of at least $1 billion.",
+              "New investors CapitalG and Sapphire Ventures joined in, as did existing investors Sequoia, Benchmark, and Amplify.",
+              "LangChain began in 2022 as an open source project founded by machine learning engineer Harrison Chase.",
+              "The startup was an early darling of the AI era, solving problems that made building apps with early-stage LLMs difficult, such as searching the web, calling APIs, and interacting with databases.",
+              "It became a smash hit project, and Chase launched a startup with a $10 million seed round from Benchmark in April 2023."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "e847dd7482853ff41265c581c09127dcb1936067"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Politics\nMike Michaud endorses Matt Dunlap to primary Jared GoldenNews Showcase\nStories selected by newsroom editors\nThe Central Valley's News Source\nIn-Custody Crisis\nFresno Man in Custody Fatally Shoots Himself With Officer’s GunShock and Shells\nUS Marines Probe Firing of Live Artillery Over CA HighwayWhite House 2028\nNewsom Gains Ground on Vance in Early 2028 PollThe Almanac\nOct 21 2025, 1:44 PM\n‘Expressive, bold and daring’: Omakase restaurant Sushi Kinsen opens in downtown Redwood CityOct 21 2025, 1:38 PM\nMenlo Park downtown parking initiative headed to voteOct 21 2025, 7:56 AM\nSheriff’s Office investigates attempted burglary in Portola ValleyHawaii’s In-Depth News Source\nSAN FRANCISCO'S TOP STORIES\nSTOCK MARKET TODAY\nLATEST MARKET UPDATE\nDow Rises As Tesla Earnings Loom; Gold Stocks Take A DiveGM EARNINGS\nGeneral Motors Stock Soars After Q3 Earnings Despite EV WoesWARNER BROS.",
+              "teacher urged to resign after Kirk post is suing employerGeorgia Health Care\nWellstar approved to build $1B hospital in affluent Acworth areaTuesday's news in Fairfax County\nCOLORADO NEWS\nTuesday's news in Arlington, Virginia\nWhat to know in Baton Rouge\nTheAdvocate.com\nJudge Tiffany Foxworth asks Supreme Court for leniencyTheAdvocate.com\nNo formal disciplinary action taken against LSU protestersTheAdvocate.com\nLSU football offense: Brian Kelly on playcalling, Joe SloanTuesday Morning Update 10-21-2025\nArroyo Seco Montecito Heights\nChase ends with driver struck by vehicle on freeway Good to Know:\nThinking of running for City Council?Real Estate High & Low\nEast L.A., Lincoln Heights, Los Feliz, Silver LakeDIPLOMACY\nRubio-Lavrov meeting postponed\nTrump-Putin summit on hold as Russia rejects Ukraine ceasefireAlienating Latin America\nTrump's Colombia tariffs would flip US policy on drugs, tradeRevamp of ties\nErdogan turns Trump's Gaza deal into a power play for TurkeyDaily Dose of Neighborhood News 10.21.25\nCAPITOLHILLSEATTLE.COM\nLatest news for Mountlake Terrace\nTuesday Night Update\nThe Rundown\nCommunity\nSNAP benefits set to expire Oct.",
+              "31 if shutdown continues: Urgent help available in Racine and KenoshaSchool\nRaymond School Board moves forward with RFP for facilities feasibility study that could pave the way for a new referendumSports\nHigh School Football: Badger crushes Union Grove 45-14 to win SLCTODAY IN SANTA CRUZ COUNTY\nIn Brief\nFree Halloween costumes\nHow kids and adults can get them in Santa MonicaCollege scholarships\nFund for Black CA students open to all after suitHomeless count volunteers\nLAHSA seeks help with January surveyLatest Vermont News\nDallas-Fort Worth News - Oct.",
+              "House to seat Grijalva'Academic compact'\nUA won't sign Trump deal, offers 'commitment to collaboration'Speaker keeps House at home\nLimbo: Grijalva still not seated a month after CD7 electionBridge Michigan\nOct 21 2025, 5:06 PM\nCourt: Chimps don’t have human rights, must stay in Michi...Oct 21 2025, 4:54 PM\nMichigan Senate votes to hike hunting and fishing feesOct 21 2025, 4:46 PM\nFact check: Trump promised Michigan peace in Mideast, not...Toledo's Leader in News, Sports & Entertainment\nCobb Courier Evening Update October 21, 2025\nKennesaw Post 3\nQ&A with Jonathon Bothers, Candidate for Kennesaw City CouncilCobb DOT Open House\nRoundabouts proposed on Cobb Parkway in north CobbAdopt, Don't Shop!",
+              "Are you here to adopt me?\"A wrap on the day’s hard-hitting news and opinion\nThe Business Journal of the Boulder Valley and Northern Colorado\nWhat Utah is buzzing about\nDaily Chronicle\nWILLMAR MINNESOTA NEWS\nTop Stories October 21\nWhat to know in New Orleans\nBest of Tuesday\nNorth Shore Dining\nOwner of The Bagel determined to reopen beloved deli in SkokieGetting the Creeps\nA game that is dead on arrival in WilmettePolice Reports\nPride flag burned, 15 watches stolen, Halloween displays damagedCHARLOTTE HEADLINES\nAfternoon Update\nGOLD'S PULLBACK, RARE EARTHS DROP\nLuxury Real Estate News\nPennsylvania\nEstate in Philadelphia’s Ritziest Suburb Listed for $8.5MSmart Homes\nHelpful Gadgets for Hosting This Holiday SeasonListing of the Day\nYou Can See All of Jackson Hole From This Massive CompoundChicago Does\nBlack Information Network\n'I Do Have A Nazi Streak In Me': Trump Pick Says MLK Day Belongs In ‘Hell’Stacy M.",
+              "Brown, Black Press USA\nThe Cashless Conspiracy: How Trump’s Economy and Musk’s Data Grab Threaten FreedomBlack Information Network\nWhat SNAP Recipients Need To Know About Their November BenefitsFort Worth & Tarrant County Headlines\nTop stories\nLatest Boston news\nThe Evening Recap | October 21, 2025\nSan Antonio Music\nLive Music: Paul McCartney, Boris, All Time LowSan Antonio Flavor\nSan Antonio's Bandit BBQ to close down — yet againSan Antonio News\nMore than 12,000 ballots in first day of early voting in SAPittsburgh Does\nRob Taylor Jr."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Oct 22, 2025 How a single 'technical rule' change by America angered China, leading to escalation in US-China trade tensions The US expanded its export blacklist to include subsidiaries of listed companies, a move China views as a targeted escalation. This action, effective late September, has intensified the US-China trade war and influenced foreign governments, such as the Netherlands' seizure of chip firm Nexperia due to national security concerns.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-a-single-technical-rule-change-by-america-angered-china-leading-to-escalation-in-us-china-trade-tensions/articleshow/124728743.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "d2f582dc6c2f6dbd7fc2b21bc4d8b702059e0456"
+          },
+          "review": {
+            "headline_rewrite": "Technology Oct 22, 2025 How a single 'technical rule' change by America angered China, leading to escalation in US-China trade tensions The US expanded its export blacklist to include subsidiaries of listed companies, a move China views as a targeted escalation. This action, effective late September, has intensified the US-China trade war and influenced foreign governments, such as the Netherlands' seizure of chip firm Nexperia due to national security concerns.",
+            "bullets": [
+              "According to a report in the South China Morning Post, the decision by the US Bureau of Industry and Security (BIS) to widen its trade blacklists in late September angered China, leading to a slew of retaliatory measures against the US.",
+              "In late September, the US Bureau of Industry and Security (BIS) broadened its trade blacklists, that is said to have prompted not only Chinaâs retaliatory measures but also influencing the Netherlandsâ seizure of chip firm Nexperia.",
+              "The BIS oversees two blacklists -- the entity list and the military end-user list -- targeting companies deemed security threats.",
+              "The action is said to have greatly increased the number of companies that require licenses to receive American goods and services.",
+              "The rule is likely to disrupt supply chains.",
+              "Though companies around the world are on the Entity List, the change will most significantly impact Chinese entities, experts said."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
