@@ -197533,6 +197533,126 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:45": [
+        {
+          "item": {
+            "title": "OpenAI’s new browser is a broadside shot at Google",
+            "link": "https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9a04d85a97de1b6dec802a97c784a91832dcb8e0"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s new browser is a broadside shot at Google",
+            "bullets": [
+              "Today, OpenAI launched its new Atlas web browser in a surprise livestream.",
+              "“We think AI represents a rare, once-a-decade opportunity to rethink what a browser can be,” Altman said.",
+              "It wasn’t just casting present-day browsers as old, but part of a whole package of goods that are about to be replaced by AI — as Altman put it, part of “the previous way people used the internet.” And most of those soon-to-be obsolete services trace back to a single company: Google.",
+              "OpenAI’s browser project has been an open secret in Silicon Valley since at least this summer — and it was clear from the beginning that it would be a potential threat to Google, current owner of the world’s most popular browser.",
+              "But Tuesday’s product and presentation details made it clear exactly how much the web giant has to lose in the AI era — and how little the Google’s success with Gemini seems to have helped.",
+              "Losing those users doesn’t have an immediate dollar cost for Google (it’s a free product, after all) but it limits Google’s ability to target ads to those users or nudge them to Google Search — a particular sore point because, just last month, Google was barred by the US Department of Justice from making any search exclusivity deals."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Did Microsoft just tease that the next Xbox is a PC and console?",
+            "link": "https://www.theverge.com/news/803824/microsoft-xbox-sarah-bond-next-gen-xbox-console-pc",
+            "site_name": "The Verge",
+            "novelty_hash": "3371600b2fd6d458b8d6469dec8144cf6fa687f3"
+          },
+          "review": {
+            "headline_rewrite": "Did Microsoft just tease that the next Xbox is a PC and console?",
+            "bullets": [
+              "We already know that the next-gen Xbox console isn’t locked to a single store, will use an AMD chip inside, and will maintain compatibility with an existing library of Xbox games.",
+              "“I can tell you you’re right, that the next-gen console is going to be a very premium, very high-end curated experience,” said Bond.",
+              "Bond’s latest comments are subtle, but they once again line up with her previous promise of delivering an “Xbox experience not locked to a single store or tied to one device,” and prioritizing Windows.",
+              "“That’s why we’re working closely with the Windows team to ensure that Windows is the number one platform for gaming,” said Bond in June, while announcing a multi-year partnership with AMD for a portfolio of Xbox devices.",
+              "Most Popular\n- Amazon hopes to replace 600,000 US workers with robots, according to leaked documents\n- OpenAI’s AI-powered browser, ChatGPT Atlas, is here\n- Apple adds a new toggle to make Liquid Glass less glassy\n- OpenAI is about to launch its new AI web browser, ChatGPT Atlas\n- Apple iPad Pro (2025) review: fast, faster, fastest"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How Apple’s walled garden protects ICE",
+            "link": "https://www.theverge.com/column/803693/ice-epic-games-apple-app-store",
+            "site_name": "The Verge",
+            "novelty_hash": "a85f06f34583428b4cf979d85a97b6ec62ac3cab"
+          },
+          "review": {
+            "headline_rewrite": "How Apple’s walled garden protects ICE",
+            "bullets": [
+              "(At the time, Fortnite, at that point the most popular game in the world, had made $1 billion through mobile transactions alone.) The game was abruptly kicked off both platforms for breach of contract.",
+              "But Epic Games CEO Tim Sweeney had purposefully done this as the pretext for a lawsuit: Epic immediately sued both tech giants, claiming that they were engaging in anticompetitive behavior.",
+              "While a jury eventually found that the Android Play Store was an illegal monopoly and Apple was eventually forced to ease restrictions on how app users could pay for their purchases, Apple did chalk up a key win: the App Store remained the only way users could download apps onto their iPhones, boxing out third-party apps downloaded directly from the web.",
+              "Weeks ago, Apple’s App Store abruptly removed ICEBlock, an app that allowed users to report the locations of ICE agents and raids in real time, without explanation.",
+              "Trump administration officials immediately claimed responsibility.",
+              "“We reached out to Apple today demanding they remove the ICEBlock app from their App Store — and Apple did so,” Attorney General Pam Bondi told Fox News Digital, claiming broadly that the app could have been used to commit acts of violence against ICE officers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Open source agentic startup LangChain hits $1.25B valuation",
+            "link": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "78ebfa5fb4fc43f8ac19210b60aa8335f930b116"
+          },
+          "review": {
+            "headline_rewrite": "Open source agentic startup LangChain hits $1.25B valuation",
+            "bullets": [
+              "LangChain raised $125 million at a $1.25 billion valuation, the company announced on Monday.",
+              "TechCrunch reported in July that the provider of a popular open source framework for building AI agents was raising fresh funds at a valuation of at least $1 billion.",
+              "New investors CapitalG and Sapphire Ventures joined in, as did existing investors Sequoia, Benchmark, and Amplify.",
+              "LangChain began in 2022 as an open source project founded by machine learning engineer Harrison Chase.",
+              "The startup was an early darling of the AI era, solving problems that made building apps with early-stage LLMs difficult, such as searching the web, calling APIs, and interacting with databases.",
+              "It became a smash hit project, and Chase launched a startup with a $10 million seed round from Benchmark in April 2023."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Someone made a 'camera' that can shoot at two billion frames per second",
+            "link": "https://www.engadget.com/science/someone-made-a-camera-that-can-shoot-at-two-billion-frames-per-second-202259391.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0d0e4da0291bdcdce350966269ccae3b6343e872"
+          },
+          "review": {
+            "headline_rewrite": "Someone made a 'camera' that can shoot at two billion frames per second",
+            "bullets": [
+              "Brian Haidet, a scientist creating videos on YouTube under the handle AlphaPhoenix, showed off a camera in a new video that can capture footage of a laser pointer at the speed of light.",
+              "Haidet's camera is made from a gimbal-mounted mirror, two tubes, a simple lens, a light sensor and some Python code to tie it all together.",
+              "\"Light moves about six inches, or 15 centimeters, per frame of this video,\" Haidet says.",
+              "Light in any reference frame will never move any faster or any slower than this speed.\"\nWhile it's theoretically possible to create a more traditional camera that can capture footage at two billion frames per second, as Haidet explains, you can't do it with the tools most people have in their garage.",
+              "According to Haidet, \"if all these videos are synchronized and we take many, many, many, one pixel videos, we can tile these videos next to each other and play them all back at the exact same moment and give something that looks like a video.\"\nWhile it's not the same thing as a true two billion frames-per-second camera, \"that's just a significantly more expensive way to do it,\" Haidet says, \"and it really wouldn't get us any better of a result.\""
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "f013de1aeaecb911331dacc050efac0e18b74e38"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "SPORTS\nThe Mariners Game at Brick West: The ups and downs of watching yNews Showcase\nStories selected by newsroom editors\nLatest and Local – Gillette, WY\nLane County News\nCAPITOLHILLSEATTLE.COM\nToday's Rundown\nGovernment Shutdown\nU.S.",
+              "energy secretary announces NNSA furloughs amid shutdownBusiness\nNew owner of Santa Fe mainstay Joe's ready to settle in 'We've grown to hate Fridays'\nNM universities grappling with $134 million in federal cutsSTOCK MARKET TODAY\nLATEST MARKET UPDATE\nDow Rises As Tesla Earnings Loom; Gold Stocks Take A DiveGM EARNINGS\nGeneral Motors Stock Soars After Q3 Earnings Despite EV WoesWARNER BROS.",
+              "Stock Soars On News Board Open To SaleWhat to know in Baton Rouge\nTheAdvocate.com\nRaising Cane's Todd Graves creates Baton Rouge time capsuleTheAdvocate.com\nThree killed in plane crash outside Lafayette, LouisianaTheAdvocate.com\nYouTube comic Agent Ratliff accused of defaming BR businessThe Central Valley's News Source\nIn-Custody Crisis\nFresno Man in Custody Fatally Shoots Himself With Officer’s GunShock and Shells\nUS Marines Probe Firing of Live Artillery Over CA HighwayWhite House 2028\nNewsom Gains Ground on Vance in Early 2028 PollNEWS FROM FARGO-MOORHEAD\nBerkeley news — free for all, funded by readers\nChurch for Today building\nBerkeley church to be razed and replaced with 3 homesNew cafe in Berkeley\nCafe Brusco brings house-made bagels to University Ave.Celebrating local spots\n2025 Nosh Awards: Nominate your favorite East Bay spotsThe Almanac\nOct 21 2025, 7:56 AM\nSheriff’s Office investigates attempted burglary in Portola ValleyOct 21 2025, 6:00 AM\nWhat we know about the money behind — and against — Prop.",
+              "50Oct 21 2025, 5:30 AM\nSupporters are way ahead in fundraising for Newsom’s Prop.",
+              "50, but the race remains closeGJ Sentinel Headlines 10/21/25\nHappy Birthday, NCA!",
+              "Events to mark McInnis Canyons 25 anniversary | gjsentinel.comLeading the charge\nAirport commission eyes electric plane infrastructure | gjsentinel.comThe watchers\nStudy: GJ third-most ‘screen addicted’ city in ColoradoEntertainment & Arts\nAfternoon Update\nLatest news for Mountlake Terrace\nTuesday's news in Fairfax County\nDanville San Ramon\nOct 21 2025, 9:16 AM\nTwo Bishop Ranch projects request affordable housing amendmentsOct 21 2025, 8:54 AM\nSRVUSD board considering proposal to move district HQ to San RamonOct 21 2025, 8:36 AM\n‘The kids are hard workers’: 7-0 Grizzlies roar ahead after dominant win over WolvesLatest Vermont News\nDallas-Fort Worth News - Oct."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
