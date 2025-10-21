@@ -196567,6 +196567,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:54": [
+        {
+          "item": {
+            "title": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+            "link": "https://blogs.nvidia.com/blog/uc-santa-cruz-maps-coastal-flooding/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "ae1856ec86503d98e4ce0166cb6d1c55583e0408"
+          },
+          "review": {
+            "headline_rewrite": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+            "bullets": [
+              "Beck and his team produce detailed, NVIDIA GPU-accelerated visualizations of coastal flooding to help government agencies, nongovernmental organizations and financial organizations better understand flood risks and demonstrate how nature-based solutions can mitigate damages on shore.",
+              "“We view visualizations as fundamental to motivating action,” said Beck.",
+              "“These are difficult problems revolving around people, some of them expensive to fix, so you’ve got to be able to visualize the solutions and ensure they’re going to work.”\nTo accelerate the simulations, the center uses NVIDIA CUDA-X software, including the cuPyNumeric library and nvfortran compiler, running on NVIDIA RTX GPUs awarded through the NVIDIA Academic Grant Program.",
+              "Accelerating Flood Mapping With NVIDIA GPUs\nFlood modeling starts with a question such as, “What would happen to Santa Cruz, California, in the event of a 100-year storm?”\nTo answer that question, the research team uses simulation tools such as SFINCS and feeds the results into the Unreal Engine 5 rendering engine to produce data-driven videos showing various flooding scenarios.",
+              "Beck’s team accelerated their flood risk models and visualizations from a process that originally took approximately six hours on CPU workloads to just about 40 minutes using a single NVIDIA RTX 6000 Ada Generation GPU.",
+              "With the team’s cluster of four GPUs, they can now run four simulations simultaneously."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Better connections and instant in-app support for Google Fi Wireless",
+            "link": "https://blog.google/products/google-fi-wireless/ai-updates-auto-connect-bill-summaries/",
+            "site_name": "Google",
+            "novelty_hash": "f2c2b9da669d08d285ca61e2e4a1a08fe3de43fc"
+          },
+          "review": {
+            "headline_rewrite": "Better connections and instant in-app support for Google Fi Wireless",
+            "bullets": [
+              "This Feature Reveal includes new ways Google Fi Wireless is using Google AI and other new technology to give you a more reliable connection and easy to use features.",
+              "A faster connection and crystal-clear calls, across your devices\nWith Google Fi, you always get top priority data speeds powered by America’s fastest 5G network, but sometimes it’s still difficult to get a strong cell signal in indoor venues — like if you’re trying to stream a video at the airport or read product reviews while shopping at a mall.",
+              "2 Now, we’re expanding availability of this feature to millions of locations, including supported major airports like LAX, ORD and JFK, and participating shopping malls and stores.",
+              "It works automatically and it’s available at no extra cost.",
+              "Noises like wind, construction or traffic can derail a conversation.",
+              "For other calls, including when you’re talking to someone on a landline or older device, your calls will now use AI-enhanced audio (available in the coming weeks)."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "link": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "38a1b6b33de3b3681046f9e579908350d3facff1"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "bullets": [
+              "OpenAI announced Tuesday the launch of its AI-powered browser, ChatGPT Atlas, a major step in the company’s quest to unseat Google as the main way people find information online.",
+              "OpenAI says the product will be available to all free users at launch.",
+              "Browsers have quickly become the AI industry’s next battleground.",
+              "While Google Chrome has long dominated the space, there’s a sense that AI chatbots and agents are fundamentally changing how people get work done online.",
+              "A handful of startups have tried to capture this by launching AI-powered browsers of their own, such as Perplexity’s Comet and The Browser Company’s Dia.",
+              "Google and Microsoft have also tried to update Chrome and Edge, respectively, with AI-powered features to make their legacy products stand out."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple MacBook Pro M5 review: new chip, same greatness",
+            "link": "https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review",
+            "site_name": "The Verge",
+            "novelty_hash": "3c3f68ea3c48b287bfa3b529f44a3e411476a96a"
+          },
+          "review": {
+            "headline_rewrite": "Apple MacBook Pro M5 review: new chip, same greatness",
+            "bullets": [
+              "Between the M4 chip, increased RAM, improved webcam, and a third Thunderbolt 4 port, the most affordable MacBook Pro was also one of the best deals in Apple’s lineup.",
+              "Apple MacBook Pro M5 review: new chip, same greatness\nA chip bump to an excellent laptop doesn’t make it less excellent.",
+              "But instead of a glorified roster update, you get a slightly faster chip and much faster storage, potentially speeding things up when working on big project files and cutting down on time looking at progress bars.",
+              "But unlike the last time Apple gave its base MacBook Pro a straight chip bump, this isn’t a holdover of an outdated design.",
+              "Component report card:\n- Screen: A\n- Webcam: A\n- Mic: B\n- Keyboard: B\n- Touchpad: A\n- Port selection: B\n- Speakers: A\n- Number of ugly stickers to remove: 0\nBeyond modest improvements to the M5 chip, the other speed upgrade that stands out here is to the laptop’s storage.",
+              "Tests and synthetic benchmarks I ran on the M5 showed small speed gains, particularly across creative tools."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent",
+            "site_name": "The Verge",
+            "novelty_hash": "5c307dc5e92a80013f71b258cdac8c179897b7b1"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+            "bullets": [
+              "OpenAI’s next move in its battle against Google is an AI-powered web browser.",
+              "OpenAI’s AI-powered browser, ChatGPT Atlas, is here\nChatGPT is the “beating heart of Atlas,” according to employees on the livestream.",
+              "ChatGPT Atlas is available “globally” on macOS starting today, while access for Windows, iOS, and Android is “coming soon,” per the company.",
+              "But its “agent mode” is only available to ChatGPT Plus and Pro users for now, OpenAI CEO Sam Altman said on the livestream.",
+              "“The way that we hope people will use the internet in the future… the chat experience in a web browser can be a great analog,” Altman said.",
+              "Besides Altman, the livestream featured OpenAI employees Will Ellsworth, who works on post-training research; Adam Fry, the product lead for ChatGPT Search; Ben Goodger, a staff member who in previous roles helped develop Google Chrome and Mozilla Firefox; Ryan O’Rouke, an interface designer; Justin Rushing, who previously worked at Apple; and Pranav Vishnu."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Fi to add AI-enhanced audio and RCS web messaging",
+            "link": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "41cf87326969c54680a6bda3281481c319fb70f6"
+          },
+          "review": {
+            "headline_rewrite": "Google Fi to add AI-enhanced audio and RCS web messaging",
+            "bullets": [
+              "Google announced on Tuesday that Google Fi, its telecommunications service, is getting several new updates, including AI noise filters and RCS web messaging.",
+              "The tech giant says calls will now use AI-enhanced audio to reduce background noise and improve voice clarity, even when speaking to someone on a landline or older device.",
+              "AI-enhanced audio is rolling out next month.",
+              "Additionally, Google Fi is expanding the availability of its Wi-Fi Auto Connect+ feature, which puts users on premium Wi-Fi so their connection is more reliable in crowded places like airports or malls.",
+              "“We’re expanding availability of this feature to millions of locations, including supported major airports like LAX, ORD, and JFK, and participating shopping malls and stores,” wrote Jane Harnett, Senior Product Manager, Google Fi Wireless, in a blog post.",
+              "“It works automatically, and it’s available at no extra cost."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
