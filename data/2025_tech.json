@@ -193755,6 +193755,85 @@
             "impact": "Negative"
           }
         }
+      ],
+      "08:20": [
+        {
+          "item": {
+            "title": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+            "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html",
+            "site_name": "Engadget",
+            "novelty_hash": "97633424fdf12859137a6fa6d0b9f62381e8f1bd"
+          },
+          "review": {
+            "headline_rewrite": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+            "bullets": [
+              "A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running.",
+              "Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it.",
+              "The good news is that, Amazon announced by 6:53PM Eastern time on October 20 that it resolved the \"increased error rates and latencies for AWS Services.\"\nThe company said it \"identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints.\" It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything.",
+              "\"By 3:01 PM, all AWS services returned to normal operations,\" it said.",
+              "As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home.",
+              "By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "36c2ba5a3a37c3118666673be4bc12309f0501b9"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "POLITICS\nNo Kings protests unfold across California as state sues TrumpNews Showcase\nStories selected by newsroom editors\nAfternoon rundown\nNews\nWashington Examiner\nMan arrested at Atlanta airport after family told police he wanted to ‘shoot it up’Washington Examiner\nComey cites Trump social media post as ‘smoking gun evidence’ of selective prosecutionWashington Examiner\nThune says House GOP should return to pass new funding billThe Business Journal of the Boulder Valley and Northern Colorado\nMonday's news in Fairfax County\nDaily Chronicle\nLatest Boston news\nSTOCK MARKET TODAY\nLATEST MARKET UPDATE\nStocks Gain As Indexes Move Closer To Record Highs; Apple PopsAPPLE STOCK\nApple Stock Hits Buy Point On Improving SentimentARCHER AVIATION STOCK\nFlying Taxi Startup Jumps After Korean Air DealMonday's news in Arlington, Virginia\nA wrap on the day’s hard-hitting news and opinion\nAfternoon Update\nSuburbs - North Mississippi\nNoise complaint turns deadly in DeSoto CountyPublic Safety\nNearly half of federal charges against Memphis doctor dismissedSports - Memphis Grizzlies\nJa Morant cleared for season opener.",
+              "Ty Jerome will be out weeksNEWS FROM BEMIDJI MINNESOTA\nWhat to know in Baton Rouge\nTheAdvocate.com\nSouthern fires football coach Terrence Graves in second yearTheAdvocate.com\nBaton Rouge restaurateurs set to open restaurant in Mid CityTheAdvocate.com\nElementary student in Denham Springs airlifted to hospitalSCV News from The Signal for Oct.",
+              "20, 2025\nMountain View Voice\nOct 20 2025, 3:28 PM\nMountain View Whisman test scores improve slightly, but achievement gaps persistOct 20 2025, 1:39 PM\nMonday is last day to register to vote in Nov.",
+              "Brooklyn Conservatory of Music Breaks Ground on Campus Expan...Happening in Loudoun County\nSan Diego Monday Evening Report\nDetention under scrutiny\nAsylum-seekers held for days – in a downtown San Diego basement25 years in the making\nLa Mesa puts pen to paper on a new Civic CenterDay of the Dead\nA Guide: San Diego Celebrates Día de los MuertosNEWS FOR YOU\nRETIREMENT ADVICE\nWill I have to pay taxes on my $4,700 military pension & Social Security?NETFLIX EARNINGS\nNetflix is ticking along nicely ahead of earnings, setting the table for an ad-business surgeTHE LOUVRE HEIST GEMS\nWhere could the Louvre heist gems turn up?Daily Briefing\nLatest news for Edmonds\nEvening Headlines, Oct.",
+              "1Bureau County Republican\nWyaton Hills recognizes state champion Wyatt NovotnyDetroit Does\nSam Robinson\nDetroit Early Voting Begins SaturdayBlack Information Network\nOpenAI Blocks MLK Jr.",
+              "“My name is Silver, and I'm in need of a loving home!\"Today's Top Headlines\nPost and Courier\nSouth Carolina unveils new SC250 license plate and new IDsPost and Courier\nSee a green comet blaze over SC for 1st time in 1,350 yearsPost and Courier\nNew ZIP code wanted for confusing Goose Creek communityTop stories\nAmazon Web Services\nOutage hitting platforms ‘showing signs of recovery’Virginia Roberts Giuffre\nNobody’s Girl review – a devastating exposé of power and abuseLouvre museum\nHow the robbery happened in video, photographs and mapsCAPITOLHILLSEATTLE.COM\nSheridan County news for you\nBaltimore news to know\nFree Lecture at Loyola\nDara Horn tackles antisemitism in Cardin Lecture SeriesStudent ingenuity\nUMBC students' app prototype could make campus parking easierCity politics\nMayor Brandon Scott makes leadership changesThe Evening Recap (Oct."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "d00fb3b1ce951643d20d03b1ce7ef6e6c2f892bb"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Cisco AI Readiness Index highlights leaders in AI adoption and infrastructure\nA Cisco report reveals 'Pacesetter' companies are leading in AI adoption, achieving significant gains in profitability and innovation.",
+              "These leaders prioritize AI roadmaps, flexible networks, and robust security, with 71% in India reporting positive impacts.",
+              "While many Indian firms plan AI agent deployment, infrastructure challenges like 'AI Infrastructure Debt' remain a concern."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini AI Diwali Picture Prompts: Capture joy, lights, and traditional celebrations",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/gemini-ai-diwali-picture-prompts-capture-joy-lights-and-traditional-celebrations/articleshow/124643082.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "c8bf8cf09fa4eba8e2200ca9a9bf5d2e0f4708b6"
+          },
+          "review": {
+            "headline_rewrite": "Gemini AI Diwali Picture Prompts: Capture joy, lights, and traditional celebrations",
+            "bullets": [
+              "Capturing the essence of this festival has never been easier thanks to Gemini AI, which allows you to create stunning, hyper-realistic Diwali pictures.",
+              "From intricately designed Rangoli patterns to glowing Diyas, sparkling fireworks, and festive family moments, Gemini AI helps bring your Diwali vision to life.",
+              "Whether you want images of traditional celebrations, modern Diwali decor, or cinematic portraits, Gemini AI generates high-quality, lifelike visuals perfect for social media, blogs, or personal keepsakes.",
+              "Using Gemini AI for Diwali pictures is a creative way to preserve memories and showcase the warmth, joy, and festive spirit of this magical occasion.",
+              "Fairy lights hang above, reflecting off the diyas, creating a warm golden glow.",
+              "Young woman with diya garlandA hyper-realistic 4K portrait of a young Indian woman standing near a decorated balcony on Diwali night."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
