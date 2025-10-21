@@ -196691,5 +196691,131 @@
         }
       ]
     }
+  },
+  "2025-10-22": {
+    "runs": {
+      "00:19": [
+        {
+          "item": {
+            "title": "Better connections and instant in-app support for Google Fi Wireless",
+            "link": "https://blog.google/products/google-fi-wireless/ai-updates-auto-connect-bill-summaries/",
+            "site_name": "Google",
+            "novelty_hash": "f2c2b9da669d08d285ca61e2e4a1a08fe3de43fc"
+          },
+          "review": {
+            "headline_rewrite": "Better connections and instant in-app support for Google Fi Wireless",
+            "bullets": [
+              "This Feature Reveal includes new ways Google Fi Wireless is using Google AI and other new technology to give you a more reliable connection and easy to use features.",
+              "A faster connection and crystal-clear calls, across your devices\nWith Google Fi, you always get top priority data speeds powered by America’s fastest 5G network, but sometimes it’s still difficult to get a strong cell signal in indoor venues — like if you’re trying to stream a video at the airport or read product reviews while shopping at a mall.",
+              "2 Now, we’re expanding availability of this feature to millions of locations, including supported major airports like LAX, ORD and JFK, and participating shopping malls and stores.",
+              "It works automatically and it’s available at no extra cost.",
+              "Noises like wind, construction or traffic can derail a conversation.",
+              "For other calls, including when you’re talking to someone on a landline or older device, your calls will now use AI-enhanced audio (available in the coming weeks)."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "link": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "38a1b6b33de3b3681046f9e579908350d3facff1"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "bullets": [
+              "OpenAI announced Tuesday the launch of its AI-powered browser, ChatGPT Atlas, a major step in the company’s quest to unseat Google as the main way people find information online.",
+              "OpenAI says the product will be available to all free users at launch.",
+              "Browsers have quickly become the AI industry’s next battleground.",
+              "While Google Chrome has long dominated the space, there’s a sense that AI chatbots and agents are fundamentally changing how people get work done online.",
+              "A handful of startups have tried to capture this by launching AI-powered browsers of their own, such as Perplexity’s Comet and The Browser Company’s Dia.",
+              "Google and Microsoft have also tried to update Chrome and Edge, respectively, with AI-powered features to make their legacy products stand out."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple MacBook Pro M5 review: new chip, same greatness",
+            "link": "https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review",
+            "site_name": "The Verge",
+            "novelty_hash": "3c3f68ea3c48b287bfa3b529f44a3e411476a96a"
+          },
+          "review": {
+            "headline_rewrite": "Apple MacBook Pro M5 review: new chip, same greatness",
+            "bullets": [
+              "Between the M4 chip, increased RAM, improved webcam, and a third Thunderbolt 4 port, the most affordable MacBook Pro was also one of the best deals in Apple’s lineup.",
+              "Apple MacBook Pro M5 review: new chip, same greatness\nA chip bump to an excellent laptop doesn’t make it less excellent.",
+              "But instead of a glorified roster update, you get a slightly faster chip and much faster storage, potentially speeding things up when working on big project files and cutting down on time looking at progress bars.",
+              "But unlike the last time Apple gave its base MacBook Pro a straight chip bump, this isn’t a holdover of an outdated design.",
+              "Component report card:\n- Screen: A\n- Webcam: A\n- Mic: B\n- Keyboard: B\n- Touchpad: A\n- Port selection: B\n- Speakers: A\n- Number of ugly stickers to remove: 0\nBeyond modest improvements to the M5 chip, the other speed upgrade that stands out here is to the laptop’s storage.",
+              "Tests and synthetic benchmarks I ran on the M5 showed small speed gains, particularly across creative tools."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent",
+            "site_name": "The Verge",
+            "novelty_hash": "5c307dc5e92a80013f71b258cdac8c179897b7b1"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+            "bullets": [
+              "OpenAI’s next move in its battle against Google is an AI-powered web browser.",
+              "OpenAI’s AI-powered browser, ChatGPT Atlas, is here\nChatGPT is the “beating heart of Atlas,” according to employees on the livestream.",
+              "ChatGPT Atlas is available “globally” on macOS starting today, while access for Windows, iOS, and Android is “coming soon,” per the company.",
+              "But its “agent mode” is only available to ChatGPT Plus and Pro users for now, OpenAI CEO Sam Altman said on the livestream.",
+              "“The way that we hope people will use the internet in the future… the chat experience in a web browser can be a great analog,” Altman said.",
+              "Besides Altman, the livestream featured OpenAI employees Will Ellsworth, who works on post-training research; Adam Fry, the product lead for ChatGPT Search; Ben Goodger, a staff member who in previous roles helped develop Google Chrome and Mozilla Firefox; Ryan O’Rouke, an interface designer; Justin Rushing, who previously worked at Apple; and Pranav Vishnu."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Fi to add AI-enhanced audio and RCS web messaging",
+            "link": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "41cf87326969c54680a6bda3281481c319fb70f6"
+          },
+          "review": {
+            "headline_rewrite": "Google Fi to add AI-enhanced audio and RCS web messaging",
+            "bullets": [
+              "Google announced on Tuesday that Google Fi, its telecommunications service, is getting several new updates, including AI noise filters and RCS web messaging.",
+              "The tech giant says calls will now use AI-enhanced audio to reduce background noise and improve voice clarity, even when speaking to someone on a landline or older device.",
+              "AI-enhanced audio is rolling out next month.",
+              "Additionally, Google Fi is expanding the availability of its Wi-Fi Auto Connect+ feature, which puts users on premium Wi-Fi so their connection is more reliable in crowded places like airports or malls.",
+              "“We’re expanding availability of this feature to millions of locations, including supported major airports like LAX, ORD, and JFK, and participating shopping malls and stores,” wrote Jane Harnett, Senior Product Manager, Google Fi Wireless, in a blog post.",
+              "“It works automatically, and it’s available at no extra cost."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "MacBook Pro: Apple’s most awkward laptop is the first to show off Apple M5",
+            "link": "https://arstechnica.com/gadgets/2025/10/m5-macbook-pro-review-fifth-generation-apple-silicon-in-a-familiar-wrapper/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b05878091d3784afaa00f6d6f0555a9d8bf2c097"
+          },
+          "review": {
+            "headline_rewrite": "MacBook Pro: Apple’s most awkward laptop is the first to show off Apple M5",
+            "bullets": [
+              "It competes with the 13- and 15-inch MacBook Air, significantly cheaper computers that meet or exceed the “good enough” boundary for the vast majority of computer users.",
+              "The basic MacBook Pro also doesn’t have the benefit of Apple’s Pro or Max-series chips, which come with many more CPU cores, substantially better graphics performance, and higher memory capacity for true professionals and power users.",
+              "But the low-end Pro makes sense for a certain type of power user.",
+              "Unlike the MacBook Air, it comes with a cooling fan, which has historically meant meaningfully better sustained performance and less performance throttling.",
+              "And it’s also Apple’s cheapest laptop with three Thunderbolt ports, an HDMI port, and an SD card slot, all genuinely useful for people who want to plug lots of things in without having multiple dongles or a bulky dock competing for the Air’s two available ports.",
+              "The new M5 version makes almost no changes to the laptop other than the chip, so it’s unlikely to change your calculus if you already looked at the M3 or M4 version and passed it up."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
