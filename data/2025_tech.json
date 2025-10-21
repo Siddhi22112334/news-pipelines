@@ -196323,6 +196323,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:46": [
+        {
+          "item": {
+            "title": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+            "link": "https://blogs.nvidia.com/blog/uc-santa-cruz-maps-coastal-flooding/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "ae1856ec86503d98e4ce0166cb6d1c55583e0408"
+          },
+          "review": {
+            "headline_rewrite": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+            "bullets": [
+              "Beck and his team produce detailed, NVIDIA GPU-accelerated visualizations of coastal flooding to help government agencies, nongovernmental organizations and financial organizations better understand flood risks and demonstrate how nature-based solutions can mitigate damages on shore.",
+              "“We view visualizations as fundamental to motivating action,” said Beck.",
+              "“These are difficult problems revolving around people, some of them expensive to fix, so you’ve got to be able to visualize the solutions and ensure they’re going to work.”\nTo accelerate the simulations, the center uses NVIDIA CUDA-X software, including the cuPyNumeric library and nvfortran compiler, running on NVIDIA RTX GPUs awarded through the NVIDIA Academic Grant Program.",
+              "Accelerating Flood Mapping With NVIDIA GPUs\nFlood modeling starts with a question such as, “What would happen to Santa Cruz, California, in the event of a 100-year storm?”\nTo answer that question, the research team uses simulation tools such as SFINCS and feeds the results into the Unreal Engine 5 rendering engine to produce data-driven videos showing various flooding scenarios.",
+              "Beck’s team accelerated their flood risk models and visualizations from a process that originally took approximately six hours on CPU workloads to just about 40 minutes using a single NVIDIA RTX 6000 Ada Generation GPU.",
+              "With the team’s cluster of four GPUs, they can now run four simulations simultaneously."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Better connections and instant in-app support for Google Fi Wireless",
+            "link": "https://blog.google/products/google-fi-wireless/ai-updates-auto-connect-bill-summaries/",
+            "site_name": "Google",
+            "novelty_hash": "f533a1d4237f5cb8eaa198c81e19e55438b3b113"
+          },
+          "review": {
+            "headline_rewrite": "Better connections and instant in-app support for Google Fi Wireless",
+            "bullets": [
+              "This Feature Reveal includes new ways Google Fi Wireless is using Google AI and other new technology to give you a more reliable connection and easy to use features.",
+              "A faster connection and crystal-clear calls, across your devices\nWith Google Fi, you always get top priority data speeds powered by America’s fastest 5G network, but sometimes it’s still difficult to get a strong cell signal in indoor venues — like if you’re trying to stream a video at the airport or read product reviews while shopping at a mall.",
+              "2 Now, we’re expanding availability of this feature to millions of locations, including supported major airports like LAX, ORD and JFK, and participating shopping malls and stores.",
+              "It works automatically and it’s available at no extra cost.",
+              "Noises like wind, construction or traffic can derail a conversation.",
+              "For other calls, including when you’re talking to someone on a landline or older device, your calls will now use AI-enhanced audio (available in the coming weeks)."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Learn what’s new in Demand Gen with October’s Demand Gen Drop.",
+            "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2025/",
+            "site_name": "Google",
+            "novelty_hash": "a505f74700fea7471154be98d728f7a6794e4367"
+          },
+          "review": {
+            "headline_rewrite": "Learn what’s new in Demand Gen with October’s Demand Gen Drop.",
+            "bullets": [
+              "This month’s Demand Gen Drop is focused on bidding optimizations and creative tools to boost your YouTube performance:\n- New customer acquisition goals are rolling out this month.",
+              "Advertisers that use New Customer Only Mode have, on average, improved their new customer ratio by 11.5% with a -3% reduced acquisition cost.",
+              "1\n- Deep linking via Web to App Connect is now available for iOS.",
+              "- Use AI to generate videos that optimize for viewer experience and increase your reach on YouTube.",
+              "- Leverage product feeds as your virtual storefront.",
+              "Demand Gen campaigns that do so using tROAS goals typically see a 20% increase in conversions."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic CEO claps back after Trump officials accuse firm of AI fear-mongering",
+            "link": "https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a3e9bd3ee897a97589410147e11b2e41cc2237ed"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic CEO claps back after Trump officials accuse firm of AI fear-mongering",
+            "bullets": [
+              "Anthropic CEO Dario Amodei published a statement Tuesday to “set the record straight” on the company’s alignment with Trump administration AI policy, responding to what he called “a recent uptick in inaccurate claims about Anthropic’s policy stances.”\n“Anthropic is built on a simple principle: AI should be a force for human progress, not peril,” Amodei wrote.",
+              "“That means making products that are genuinely useful, speaking honestly about risks and benefits, and working with anyone serious about getting this right.”\nAmodei’s response comes after last week’s dogpiling on Anthropic from AI leaders and top members of the Trump administration, including AI czar David Sacks and White House senior policy advisor for AI Sriram Krishnan — all accusing the AI giant of stoking fears to damage the industry.",
+              "The first hit came from Sacks after Anthropic co-founder Jack Clark shared his hopes and “appropriate fears” about AI, including that AI is a powerful, mysterious, “somewhat unpredictable” creature, not a dependable machine that’s easily mastered and put to work.",
+              "It is principally responsible for the state regulatory frenzy that is damaging the startup ecosystem.”\nCalifornia Senator Scott Wiener, author of AI safety bill SB 53, defended Anthropic, calling out President Trump’s “effort to ban states from acting on AI w/o advancing federal protections.” Sacks then doubled down, claiming Anthropic was working with Wiener to “impose the Left’s vision of AI regulation.”\nFurther commentary ensued, with anti-regulation advocates like Groq COO Sunny Madra saying that Anthropic was “causing chaos for the entire industry” by advocating for a modicum of AI safety measures instead of unfettered innovation.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge.",
+              "In his statement, Amodei said managing the societal impacts of AI should be a matter of “policy over politics,” and that he believes everyone wants to ensure America secures its lead in AI development while also building tech that benefits the American people."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "link": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "aed6840220c23a788da3d5a00fe6b5ecfb7395de"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "bullets": [
+              "OpenAI announced Tuesday the launch of its AI-powered browser, ChatGPT Atlas, a major step in the company’s quest to unseat Google as the main way people find information online.",
+              "OpenAI says the product will be available to all free users at launch.",
+              "Browsers have quickly become the AI industry’s next battleground.",
+              "While Google Chrome has long dominated the space, there’s a sense that AI chatbots and agents are fundamentally changing how people get work done online.",
+              "A handful of startups have tried to capture this by launching AI-powered browsers of their own, such as Perplexity’s Comet and The Browser Company’s Dia.",
+              "Google and Microsoft have also tried to update Chrome and Edge, respectively, with AI-powered features to make their legacy products stand out."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent",
+            "site_name": "The Verge",
+            "novelty_hash": "8e14ede0f37bcc9812447ccb7a69ddb4b7b1bf04"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+            "bullets": [
+              "OpenAI’s next move in its battle against Google is an AI-powered web browser.",
+              "OpenAI’s AI-powered browser, ChatGPT Atlas, is here\nChatGPT is the “beating heart of Atlas,” according to employees on the livestream.",
+              "ChatGPT Atlas is available “globally” on macOS starting today, while access for Windows, iOS, and Android is “coming soon,” per OpenAI.",
+              "“The way that we hope people will use the internet in the future… the chat experience in a web browser can be a great analog,” OpenAI CEO Sam Altman said on the livestream.",
+              "Besides Altman, the livestream description said it would feature OpenAI employees Will Ellsworth, who works on post-training research; Adam Fry, the product lead for ChatGPT Search; Ben Goodger, a staff member who in previous roles helped develop Google Chrome and Mozilla Firefox; Ryan O’Rouke, an interface designer; Justin Rushing, who previously worked at Apple; and Pranav Vishnu.",
+              "Fry said one of the browser’s best features is memory — making the browser “more personalized and more helpful to you,” as well as Agent, meaning that “in Atlas, ChatGPT can now take actions for you… It can help you book reservations or flights or even just edit a document that you’re working on.”\nWhenever you click a link from a search result in Atlas, it’ll by default show a split-screen with the webpage and the ChatGPT transcript, with the goal being to display a “companion” at all times, employees said, though a user can turn off the split-screen if they’d rather."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
