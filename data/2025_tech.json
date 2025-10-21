@@ -196445,6 +196445,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "23:10": [
+        {
+          "item": {
+            "title": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+            "link": "https://blogs.nvidia.com/blog/uc-santa-cruz-maps-coastal-flooding/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "ae1856ec86503d98e4ce0166cb6d1c55583e0408"
+          },
+          "review": {
+            "headline_rewrite": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+            "bullets": [
+              "Beck and his team produce detailed, NVIDIA GPU-accelerated visualizations of coastal flooding to help government agencies, nongovernmental organizations and financial organizations better understand flood risks and demonstrate how nature-based solutions can mitigate damages on shore.",
+              "“We view visualizations as fundamental to motivating action,” said Beck.",
+              "“These are difficult problems revolving around people, some of them expensive to fix, so you’ve got to be able to visualize the solutions and ensure they’re going to work.”\nTo accelerate the simulations, the center uses NVIDIA CUDA-X software, including the cuPyNumeric library and nvfortran compiler, running on NVIDIA RTX GPUs awarded through the NVIDIA Academic Grant Program.",
+              "Accelerating Flood Mapping With NVIDIA GPUs\nFlood modeling starts with a question such as, “What would happen to Santa Cruz, California, in the event of a 100-year storm?”\nTo answer that question, the research team uses simulation tools such as SFINCS and feeds the results into the Unreal Engine 5 rendering engine to produce data-driven videos showing various flooding scenarios.",
+              "Beck’s team accelerated their flood risk models and visualizations from a process that originally took approximately six hours on CPU workloads to just about 40 minutes using a single NVIDIA RTX 6000 Ada Generation GPU.",
+              "With the team’s cluster of four GPUs, they can now run four simulations simultaneously."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Better connections and instant in-app support for Google Fi Wireless",
+            "link": "https://blog.google/products/google-fi-wireless/ai-updates-auto-connect-bill-summaries/",
+            "site_name": "Google",
+            "novelty_hash": "f533a1d4237f5cb8eaa198c81e19e55438b3b113"
+          },
+          "review": {
+            "headline_rewrite": "Better connections and instant in-app support for Google Fi Wireless",
+            "bullets": [
+              "This Feature Reveal includes new ways Google Fi Wireless is using Google AI and other new technology to give you a more reliable connection and easy to use features.",
+              "A faster connection and crystal-clear calls, across your devices\nWith Google Fi, you always get top priority data speeds powered by America’s fastest 5G network, but sometimes it’s still difficult to get a strong cell signal in indoor venues — like if you’re trying to stream a video at the airport or read product reviews while shopping at a mall.",
+              "2 Now, we’re expanding availability of this feature to millions of locations, including supported major airports like LAX, ORD and JFK, and participating shopping malls and stores.",
+              "It works automatically and it’s available at no extra cost.",
+              "Noises like wind, construction or traffic can derail a conversation.",
+              "For other calls, including when you’re talking to someone on a landline or older device, your calls will now use AI-enhanced audio (available in the coming weeks)."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Learn what’s new in Demand Gen with October’s Demand Gen Drop.",
+            "link": "https://blog.google/products/ads-commerce/demand-gen-drop-october-2025/",
+            "site_name": "Google",
+            "novelty_hash": "a505f74700fea7471154be98d728f7a6794e4367"
+          },
+          "review": {
+            "headline_rewrite": "Learn what’s new in Demand Gen with October’s Demand Gen Drop.",
+            "bullets": [
+              "This month’s Demand Gen Drop is focused on bidding optimizations and creative tools to boost your YouTube performance:\n- New customer acquisition goals are rolling out this month.",
+              "Advertisers that use New Customer Only Mode have, on average, improved their new customer ratio by 11.5% with a -3% reduced acquisition cost.",
+              "1\n- Deep linking via Web to App Connect is now available for iOS.",
+              "- Use AI to generate videos that optimize for viewer experience and increase your reach on YouTube.",
+              "- Leverage product feeds as your virtual storefront.",
+              "Demand Gen campaigns that do so using tROAS goals typically see a 20% increase in conversions."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "link": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e03d777c87d59e7a931d00c61f0ff1c27d61ff81"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches an AI-powered browser: ChatGPT Atlas",
+            "bullets": [
+              "OpenAI announced Tuesday the launch of its AI-powered browser, ChatGPT Atlas, a major step in the company’s quest to unseat Google as the main way people find information online.",
+              "OpenAI says the product will be available to all free users at launch.",
+              "Browsers have quickly become the AI industry’s next battleground.",
+              "While Google Chrome has long dominated the space, there’s a sense that AI chatbots and agents are fundamentally changing how people get work done online.",
+              "A handful of startups have tried to capture this by launching AI-powered browsers of their own, such as Perplexity’s Comet and The Browser Company’s Dia.",
+              "Google and Microsoft have also tried to update Chrome and Edge, respectively, with AI-powered features to make their legacy products stand out."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "YouTube’s likeness-detection technology has officially launched",
+            "link": "https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c334a6c7d94bec1345f04406f682ecb206cde91f"
+          },
+          "review": {
+            "headline_rewrite": "YouTube’s likeness-detection technology has officially launched",
+            "bullets": [
+              "The technology allows creators to request the removal of AI-generated content that uses their likeness.",
+              "This is the first wave of the rollout, a YouTube spokesperson informed TechCrunch, adding that eligible creators received emails this morning.",
+              "YouTube’s detection technology identifies and manages AI-generated content featuring the likeness of creators, such as their face and voice.",
+              "The technology is designed to prevent people from having their likeness misused, whether for endorsing products and services they have not agreed to support or for spreading misinformation.",
+              "There have been plenty of examples of AI likeness misuse in recent years, such as the company Elecrow using an AI clone of YouTuber Jeff Geerling’s voice to promote its products.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple MacBook Pro M5 review: new chip, same greatness",
+            "link": "https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review",
+            "site_name": "The Verge",
+            "novelty_hash": "ddfbb3c69ed7556da02c7b0654af06c227c45433"
+          },
+          "review": {
+            "headline_rewrite": "Apple MacBook Pro M5 review: new chip, same greatness",
+            "bullets": [
+              "Between the M4 chip, increased RAM, improved webcam, and a third Thunderbolt 4 port, the most affordable MacBook Pro was also one of the best deals in Apple’s lineup.",
+              "Apple MacBook Pro M5 review: new chip, same greatness\nA chip bump to an excellent laptop doesn’t make it less excellent.",
+              "But instead of a glorified roster update, you get a slightly faster chip and much faster storage, potentially speeding things up when working on big project files and cutting down on time looking at progress bars.",
+              "But unlike the last time Apple gave its base MacBook Pro a straight chip bump, this isn’t a holdover of an outdated design.",
+              "Component report card:\n- Screen: A\n- Webcam: A\n- Mic: B\n- Keyboard: B\n- Touchpad: A\n- Port selection: B\n- Speakers: A\n- Number of ugly stickers to remove: 0\nBeyond modest improvements to the M5 chip, the other speed upgrade that stands out here is to the laptop’s storage.",
+              "Tests and synthetic benchmarks I ran on the M5 showed small speed gains, particularly across creative tools."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
