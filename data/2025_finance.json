@@ -87108,6 +87108,43 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "08:24": [
+        {
+          "item": {
+            "title": "Netflix shares fall 6.5% after missing Q3 earnings estimates - what led to the drop?",
+            "link": "https://www.livemint.com/market/stock-market-news/netflix-shares-fall-6-5-after-missing-q3-earnings-estimates-what-led-to-the-drop-11761093676320.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Netflix shares fall 6.5% after missing Q3 earnings estimates - what led to the drop?",
+            "bullets": [
+              "shares dropped over 6% on Tuesday, 21 October, after the streaming platform missed Wall Street's third-quarter earnings estimates due to an unforeseen expense from",
+              "The online streaming platform posted quarterly operating income of $3.24 billion, roughly $400 million less than its forecast and analyst estimates, Bloomberg reported.",
+              "The company recognised the potential risk in earlier filings but did not include it in its earnings guidance.",
+              "It stated that without this expense, it would have exceeded forecasts."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic, Google discuss major cloud pact to boost AI computing power",
+            "link": "https://www.thehindubusinessline.com/info-tech/anthropic-google-discuss-major-cloud-pact-to-boost-ai-computing-power/article70188634.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Anthropic, Google discuss major cloud pact to boost AI computing power",
+            "bullets": [
+              "Anthropic PBC is in discussions with Alphabet Inc.’s Google about a deal that would provide the artificial intelligence company with additional computing power valued",
+              "The plan, which has not been finalized, involves Google providing cloud computing services to Anthropic, according to the people, who asked not to be",
+              "Google is a previous investor in, and cloud provider for, Anthropic."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
