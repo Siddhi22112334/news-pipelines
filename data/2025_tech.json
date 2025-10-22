@@ -200302,6 +200302,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:17": [
+        {
+          "item": {
+            "title": "Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence",
+            "link": "https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5c67b8a74596b4537995a9e1e8568ed047424ee7"
+          },
+          "review": {
+            "headline_rewrite": "Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence",
+            "bullets": [
+              "The brainchild of Anthony Goldbloom and Ben Hamner, the founders of data science and machine learning community Kaggle, Sumble uses a knowledge graph underpinned by large language models to connect the various data points it gathers.",
+              "The result, Goldbloom told TechCrunch, is a comprehensive view of a company’s technographic data — which tools are used in which departments, any projects being launched or run, its organizational chart, what tech a company might be looking to adopt, and crucially, who to contact.",
+              "But given how crowded this market already is, from incumbents to myriad AI sales development reps agents, the question is: does the world really need more?",
+              "Goldbloom believes so, and says the startup’s approach seems to be working: He told TechCrunch that since the startup launched in April 2024, it’s signed 17 enterprise customers, including Snowflake, Figma, Wiz, Vercel and Elastic, and it has tens of thousands of users in total.",
+              "The startup declined to share details of its revenue, but we understand revenue increased by 550% year-over-year.",
+              "“What tends to happen is, we go viral inside a company,” Goldbloom said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is downsizing its legacy AI research team",
+            "link": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence",
+            "site_name": "The Verge",
+            "novelty_hash": "18c6c1dca66d618efa91a6dac5fe67282b95d43d"
+          },
+          "review": {
+            "headline_rewrite": "Meta is downsizing its legacy AI research team",
+            "bullets": [
+              "Meta is planning to axe around 600 roles within its legacy AI research division, according to a report from Axios.",
+              "The layoffs will reportedly impact Meta’s Fundamental AI Research unit, also known as FAIR, along with its AI product and infrastructure division, while the company continues to hire workers for its newly formed superintelligence team, TBD Lab.",
+              "Meta is downsizing its legacy AI research team\nBut Meta is still hiring for its team tasked with achieving superintelligence, according to a report from Axios.",
+              "Over the summer, Meta kicked off an AI hiring spree after investing $14.3 billion in Scale AI and hiring CEO Alexandr Wang.",
+              "It paused hiring just months later and announced a restructuring that will focus on AI-related products and infrastructure.",
+              "Meanwhile, Meta’s AI research team has taken a backseat, with FAIR leader Joelle Pineau leaving earlier this year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Shuttle raises $6 million to fix vibe-coding’s deployment problem",
+            "link": "https://techcrunch.com/2025/10/22/shuttle-raises-6-million-to-fix-vibe-codings-deployment-problem/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ff418a8cc2b878943ae66e796e0c34ce84916b83"
+          },
+          "review": {
+            "headline_rewrite": "Shuttle raises $6 million to fix vibe-coding’s deployment problem",
+            "bullets": [
+              "The promise of vibe coding was that full-scale applications could be spun up from just an idea, powered by systems like Lovable and Replit AI.",
+              "But it turns out writing the code is just the first step in the process — and vibe-coders are already running into the standard headaches of maintaining and updating a software product.",
+              "On Wednesday, the platform engineering startup Shuttle announced $6 million in seed funding to handle the infrastructure problems that start where products like Lovable and Cursor leave off.",
+              "Once the user agrees, Shuttle can arrange payment and deploy the software directly to the cloud provider with minimal friction.",
+              "It’s been a long road for Shuttle, which launched as part of a Y Combinator class back in 2020.",
+              "With this new round of funding, the company plans to expand that to every programming language and AI coding systems."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Remedy CEO steps down following FBC: Firebreak’s disastrous launch",
+            "link": "https://www.theverge.com/news/804372/remedy-ceo-resigns-fbc-firebreak-control",
+            "site_name": "The Verge",
+            "novelty_hash": "a89830ce7f7a09557be92abbbfca88fdeca10368"
+          },
+          "review": {
+            "headline_rewrite": "Remedy CEO steps down following FBC: Firebreak’s disastrous launch",
+            "bullets": [
+              "Tero Virtala, CEO of Control developer Remedy Entertainment, is stepping down from his position immediately.",
+              "The news comes in the aftermath of a disappointing launch for FBC: Firebreak, the Finnish studio’s first foray into multiplayer gaming.",
+              "Virtala will be replaced on an interim basis by Markus Mäki, Remedy’s chief product officer and one of the studio’s co-founders.",
+              "The studios says it will “initiate a search process for a new CEO immediately.”\nRemedy CEO steps down following FBC: Firebreak’s disastrous launch\nTero Virtala was a key figure behind the studio’s transformation over the last decade.",
+              "This period was highlighted by the launch of Control in 2019 and the long-awaited sequel to Alan Wake in 2023.",
+              "However, the combination didn’t win over players and, despite launching a major update in September, two weeks ago Remedy issued a profit warning due to “weak sales” of Firebreak."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Jaguar Land Rover looking at $2.5 billion price tag from crippling cyberattack",
+            "link": "https://www.ft.com/content/6f2923b3-2a4b-4c9b-9cde-eb5f0d5b9ce3",
+            "site_name": "Ars Technica",
+            "novelty_hash": "91d383abf162cc255cac6d0ed6cbb57cfe9d58d6"
+          },
+          "review": {
+            "headline_rewrite": "Jaguar Land Rover looking at $2.5 billion price tag from crippling cyberattack",
+            "bullets": [
+              "The month-long shutdown of internal systems and production at JLR affected over 5,000 British organisations, according to an analysis by Cyber Monitoring Centre, a non-profit organization that ranks the severity of cyber events in the UK.",
+              "“This incident looks to have been by some distance, the single most financially damaging cyber event ever to hit the UK,” said Ciaran Martin, former head of the National Cyber Security Centre and chair of CMC’s technical committee.",
+              "JLR, which is owned by India’s Tata Motors, only recently restarted partial production of its vehicles in the UK following a shutdown since the August 31 attack.",
+              "CMC mainly attributes the financial cost to the fall in vehicle sales and lower profits caused by the production halt, the costs to address the incident, and the impact on its supply chain and other local businesses.",
+              "Its estimate is also based on the assumption that JLR would not be able to fully restore its production until January and that the attackers did not infiltrate its so-called “operational technology,” which if they had, would take longer to resolve.",
+              "There has been a spate of ransomware attacks on UK companies and organizations in recent years, including retailers Marks and Spencer and Co-op, in addition to NHS England."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Gifts for Rock Climbers (2025): Coros, Meta, Gramicci",
+            "link": "https://www.wired.com/gallery/gifts-for-rock-climbers/",
+            "site_name": "WIRED",
+            "novelty_hash": "5fdc6d1a9dc96c217bd68f999dd78cf321154bc1"
+          },
+          "review": {
+            "headline_rewrite": "The Best Gifts for Rock Climbers (2025): Coros, Meta, Gramicci",
+            "bullets": [
+              "That person spends quite a lot of time looking up at someone else's butt, so you can help them ease that onerous duty with a pair of belay glasses (or belay goggles, or “beloggles” as we extremely cool people used to call them).",
+              "My pair is over 10 years old at this point, and I'm shocked at how much lighter these newer pairs are.",
+              "Now they're using their iPhone with 4 percent battery life to navigate up a winding, goat track trail along a cliff face.",
+              "Crimps With Coffee\nWhen my husband saw this mug in our house, he held it up and said, “I want you to drink three cups of coffee with this every day.” Done and done.",
+              "Your favorite climber probably already has grip strength trainers sitting by their desk or in the living room in front of the TV so they can flex their banged-up, overlarge hands anytime they want.",
+              "There are also air holes with grommets and air fresheners in it so your sweaty climbing shoes don't get super stank."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
