@@ -201266,5 +201266,129 @@
         }
       ]
     }
+  },
+  "2025-10-23": {
+    "runs": {
+      "00:21": [
+        {
+          "item": {
+            "title": "A new water infrastructure project is increasing water security in Oregon.",
+            "link": "https://blog.google/outreach-initiatives/sustainability/the-dalles-oregon-water/",
+            "site_name": "Google",
+            "novelty_hash": "1f3cb31c7760fe7e4c224bde34de7d9cf642056c"
+          },
+          "review": {
+            "headline_rewrite": "A new water infrastructure project is increasing water security in Oregon.",
+            "bullets": [
+              "This project is part of our deep investment in Oregon, where we operate data centers that deliver AI-powered technologies — like Cloud, Maps, Workspace and YouTube — to people and businesses around the world.",
+              "Functioning like a savings account, the ASR system captures and stores water during the rainy season that would otherwise be lost as runoff.",
+              "This stored water can be used during drier months, helping safeguard The Dalles against drought.",
+              "By making this resource available for public benefit, we’ve provided the community with over 100 million additional gallons of water annually."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available",
+            "link": "https://aws.amazon.com/blogs/aws/aws-customer-carbon-footprint-tool-now-includes-scope-3-emissions/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "27c6017976178a0419ccaab3d90aea2f4b681cbd"
+          },
+          "review": {
+            "headline_rewrite": "Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available",
+            "bullets": [
+              "Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available\nSince it launched in 2022, the Customer Carbon Footprint Tool (CCFT) has supported our customers’ sustainability journey to track, measure, and review their carbon emissions by providing the estimated carbon emissions associated with their usage of Amazon Web Services (AWS) services.",
+              "AWS prioritizes the most detailed and accurate methods for components that contribute significantly to overall emissions.",
+              "The analysis covers data center shells, rooms, and long-lead equipment such as air handling units and generators.",
+              "This amortization means that we fairly distribute the total embodied carbon of each asset across its operational lifetime, accounting for scenarios such as early retirement or extended use.",
+              "All these updates are part of methodology version 3.0.0 and are explained in detail in our methodology document, which has been independently verified by a third party.",
+              "The granular carbon data we get from cloud providers like AWS are critical to helping us better understand the actual emissions associated with our cloud infrastructure and focus reductions where they matter most.”\nGerhard Loske, Head of Environmental Management at SAP said “The latest updates to the CCFT are a big step forward in helping us managing SAP’s sustainability goals."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "6 ways I spent a busy weekend with Gemini on Pixel Watch 4",
+            "link": "https://blog.google/products/gemini/using-wear-os-gemini-raise-to-talk/",
+            "site_name": "Google",
+            "novelty_hash": "3a1f079e0b4168f93fe11429dbd3ce38b41c87b4"
+          },
+          "review": {
+            "headline_rewrite": "6 ways I spent a busy weekend with Gemini on Pixel Watch 4",
+            "bullets": [
+              "As a Gemini product manager, I naturally turned to Gemini on Wear OS.",
+              "Used Raise to Talk to start my class — before I even got there.",
+              "No problem: While running into the studio, I used Raise to Talk and said, “Start Pilates” so I can track my fitness with Fitbit.",
+              "Raise to Talk is one of my favorite exclusive Pixel Watch 4 features, allowing me to use Gemini just by raising my wrist and speaking — no need for “Hey Google” or pressing a button.",
+              "I often get my best ideas during those in-between moments, like while taking a walk or eating dinner with friends, when my brain connects dots in new ways.",
+              "I just raise my wrist and say: \"Remember this idea...\"\nOn my way home from Pilates, I realized I hadn't looked up my travel plans for the weekend."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon unveils AI smart glasses for its delivery drivers",
+            "link": "https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "13dec5c2e54ed84f16c87fefea34c4c87d7c2001"
+          },
+          "review": {
+            "headline_rewrite": "Amazon unveils AI smart glasses for its delivery drivers",
+            "bullets": [
+              "Amazon announced on Wednesday that it’s developing AI-powered smart glasses for its delivery drivers.",
+              "The glasses use AI-powered sensing capabilities and computer vision alongside cameras to create a display that includes things like hazards and delivery tasks.",
+              "Amazon likely hopes that the new glasses will shave time off of each delivery by providing delivery drivers with detailed directions and information about hazards directly in their line of sight.",
+              "The glasses are paired with a controller worn in the delivery vest that contains operational controls, a swappable battery, and a dedicated emergency button.",
+              "The retailer is currently trialing the glasses with delivery drivers in North America and plans to refine the technology before a wider rollout.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple confirms it pulled controversial dating apps Tea & TeaOnHer from the App Store",
+            "link": "https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "59a150848179fd8f0265065745f3abafd526cf66"
+          },
+          "review": {
+            "headline_rewrite": "Apple confirms it pulled controversial dating apps Tea & TeaOnHer from the App Store",
+            "bullets": [
+              "The apps’ removal was first spotted by the app store intelligence provider Appfigures, which told TechCrunch the two apps were removed from the App Store on Tuesday in all markets, but remain live on Google Play.",
+              "Reached for comment, Apple confirmed the apps’ removal, saying it removed Tea Dating Advice and TeaOnHer from the App Store because they failed to meet Apple’s requirements around content moderation and user privacy.",
+              "The company also said it saw an excessive number of user complaints and negative reviews, which included complaints of minors’ personal information being posted in these apps.",
+              "Apple communicated the issues to the developers of the apps, a representative said, but the complaints were not addressed.",
+              "The app encouraged women to spill details about men, particularly those on dating apps.",
+              "After going viral and generating controversy, Tea suffered a data breach over the summer, with hackers gaining access to 72,000 images, including 3,000 selfies and photo IDs submitted for account verification, as well as 59,000 images from posts, comments, and direct messages."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Reddit sues Perplexity for allegedly ripping its content to feed AI",
+            "link": "https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "75d9efd9221e039dd244a181cf2762d1607b4b58"
+          },
+          "review": {
+            "headline_rewrite": "Reddit sues Perplexity for allegedly ripping its content to feed AI",
+            "bullets": [
+              "Reddit is suing Perplexity and three “data-scraping service providers” to “stop the industrial-scale, unlawful circumvention of data protections by a group of bad actors who will stop at nothing to get their hands on valuable copyrighted content on Reddit,” according to the complaint.",
+              "Reddit sues Perplexity for allegedly ripping its content to feed AI\nReddit is selling your posts to AI companies, and now it’s suing to stop the ones who won’t pay.",
+              "The company equates the data scraping companies — SerpApi, Oxylabs, and AWMProxy — to “would-be bank robbers” who “knowing they cannot get into the bank vault, break into the armored truck carrying the cash instead.” Reddit alleges that Perplexity is a customer of “at least one” of the data scraping companies, saying that it “will apparently do anything to get the Reddit data it desperately needs to fuel its ‘answer engine’ — that is, anything other than enter into an agreement with Reddit directly, as some of its competitors have done.”\nAccording to the lawsuit, Reddit sent a cease-and-desist letter to Perplexity in May 2024 “demanding that it stop scraping Reddit data.” While Perplexity told Reddit at the time that it didn’t use Reddit content to train AI models and that it would respect Reddit’s robots.txt, after that letter, the volume of Reddit citations on Perplexity actually increased.",
+              "“The only way that Perplexity could have obtained that Reddit content and then used it in its ‘answer engine’ is if it and/or its Co-Defendants scraped Google SERPs for that Reddit content and Perplexity then quickly incorporated that data into its answer engine,” Reddit writes.",
+              "Reddit’s data — posts on all sorts of topics written by and ranked by humans — is hugely helpful to help train AI models, and the company knows it; the API changes that sparked the 2023 protests were positioned as a way for the company to be compensated for that data.",
+              "Reddit has struck deals with AI companies including OpenAI and Google, and it reportedly wants better ones."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
