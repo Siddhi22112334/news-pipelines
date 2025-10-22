@@ -201388,6 +201388,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:44": [
+        {
+          "item": {
+            "title": "A new water infrastructure project is increasing water security in Oregon.",
+            "link": "https://blog.google/outreach-initiatives/sustainability/the-dalles-oregon-water/",
+            "site_name": "Google",
+            "novelty_hash": "1f3cb31c7760fe7e4c224bde34de7d9cf642056c"
+          },
+          "review": {
+            "headline_rewrite": "A new water infrastructure project is increasing water security in Oregon.",
+            "bullets": [
+              "This project is part of our deep investment in Oregon, where we operate data centers that deliver AI-powered technologies — like Cloud, Maps, Workspace and YouTube — to people and businesses around the world.",
+              "Functioning like a savings account, the ASR system captures and stores water during the rainy season that would otherwise be lost as runoff.",
+              "This stored water can be used during drier months, helping safeguard The Dalles against drought.",
+              "By making this resource available for public benefit, we’ve provided the community with over 100 million additional gallons of water annually."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available",
+            "link": "https://aws.amazon.com/blogs/aws/aws-customer-carbon-footprint-tool-now-includes-scope-3-emissions/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "27c6017976178a0419ccaab3d90aea2f4b681cbd"
+          },
+          "review": {
+            "headline_rewrite": "Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available",
+            "bullets": [
+              "Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available\nSince it launched in 2022, the Customer Carbon Footprint Tool (CCFT) has supported our customers’ sustainability journey to track, measure, and review their carbon emissions by providing the estimated carbon emissions associated with their usage of Amazon Web Services (AWS) services.",
+              "AWS prioritizes the most detailed and accurate methods for components that contribute significantly to overall emissions.",
+              "The analysis covers data center shells, rooms, and long-lead equipment such as air handling units and generators.",
+              "This amortization means that we fairly distribute the total embodied carbon of each asset across its operational lifetime, accounting for scenarios such as early retirement or extended use.",
+              "All these updates are part of methodology version 3.0.0 and are explained in detail in our methodology document, which has been independently verified by a third party.",
+              "The granular carbon data we get from cloud providers like AWS are critical to helping us better understand the actual emissions associated with our cloud infrastructure and focus reductions where they matter most.”\nGerhard Loske, Head of Environmental Management at SAP said “The latest updates to the CCFT are a big step forward in helping us managing SAP’s sustainability goals."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s Atlas is more about ChatGPT than the web",
+            "link": "https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "643c3cb9f001e34041f59e4aded2725e60e9be5c"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s Atlas is more about ChatGPT than the web",
+            "bullets": [
+              "OpenAI unveiled its AI browser ChatGPT Atlas during a livestream on Tuesday.",
+              "There have been other AI browsers such as The Browser Company’s Dia, Opera’s Neon, Perplexity’s Comet, and General Catalyst-backed Strawberry.",
+              "OpenAI’s launch is notable because of the sheer scale of reaching potentially 800 million of its weekly ChatGPT consumers.",
+              "While Atlas is currently available only on the Mac, the company is already working on bringing it to Windows, iOS, and Android — all the surfaces where ChatGPT already exists.",
+              "OpenAI has also made the browser available to all users instead of opting for an invite system like its rivals.",
+              "All the AI browsers have a similar idea about search and Q&A."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon unveils AI smart glasses for its delivery drivers",
+            "link": "https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "13dec5c2e54ed84f16c87fefea34c4c87d7c2001"
+          },
+          "review": {
+            "headline_rewrite": "Amazon unveils AI smart glasses for its delivery drivers",
+            "bullets": [
+              "Amazon announced on Wednesday that it’s developing AI-powered smart glasses for its delivery drivers.",
+              "The glasses use AI-powered sensing capabilities and computer vision alongside cameras to create a display that includes things like hazards and delivery tasks.",
+              "Amazon likely hopes that the new glasses will shave time off of each delivery by providing delivery drivers with detailed directions and information about hazards directly in their line of sight.",
+              "The glasses are paired with a controller worn in the delivery vest that contains operational controls, a swappable battery, and a dedicated emergency button.",
+              "The retailer is currently trialing the glasses with delivery drivers in North America and plans to refine the technology before a wider rollout.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Reddit sues Perplexity for allegedly ripping its content to feed AI",
+            "link": "https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "75d9efd9221e039dd244a181cf2762d1607b4b58"
+          },
+          "review": {
+            "headline_rewrite": "Reddit sues Perplexity for allegedly ripping its content to feed AI",
+            "bullets": [
+              "Reddit is suing Perplexity and three “data-scraping service providers” to “stop the industrial-scale, unlawful circumvention of data protections by a group of bad actors who will stop at nothing to get their hands on valuable copyrighted content on Reddit,” according to the complaint.",
+              "Reddit sues Perplexity for allegedly ripping its content to feed AI\nReddit is selling your posts to AI companies, and now it’s suing to stop the ones who won’t pay.",
+              "The company equates the data scraping companies — SerpApi, Oxylabs, and AWMProxy — to “would-be bank robbers” who “knowing they cannot get into the bank vault, break into the armored truck carrying the cash instead.” Reddit alleges that Perplexity is a customer of “at least one” of the data scraping companies, saying that it “will apparently do anything to get the Reddit data it desperately needs to fuel its ‘answer engine’ — that is, anything other than enter into an agreement with Reddit directly, as some of its competitors have done.”\nAccording to the lawsuit, Reddit sent a cease-and-desist letter to Perplexity in May 2024 “demanding that it stop scraping Reddit data.” While Perplexity told Reddit at the time that it didn’t use Reddit content to train AI models and that it would respect Reddit’s robots.txt, after that letter, the volume of Reddit citations on Perplexity actually increased.",
+              "“The only way that Perplexity could have obtained that Reddit content and then used it in its ‘answer engine’ is if it and/or its Co-Defendants scraped Google SERPs for that Reddit content and Perplexity then quickly incorporated that data into its answer engine,” Reddit writes.",
+              "Reddit’s data — posts on all sorts of topics written by and ranked by humans — is hugely helpful to help train AI models, and the company knows it; the API changes that sparked the 2023 protests were positioned as a way for the company to be compensated for that data.",
+              "Reddit has struck deals with AI companies including OpenAI and Google, and it reportedly wants better ones."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The PlayStation 5 is $125 off straight from Sony",
+            "link": "https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "dc9d7a3bdc5683f203a313547a0594991e8b42ac"
+          },
+          "review": {
+            "headline_rewrite": "The PlayStation 5 is $125 off straight from Sony",
+            "bullets": [
+              "The PlayStation 5 is $125 off straight from Sony\nSony previously hiked the price of both slim models.",
+              "Update, October 22nd: Updated to include details about the offer’s terms.",
+              "Most Popular\n- OpenAI’s AI-powered browser, ChatGPT Atlas, is here\n- Amazon hopes to replace 600,000 US workers with robots, according to leaked documents\n- Even Xbox developer kits are getting a big price hike\n- Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today\n- Hallmark’s glowing Xbox 360 ornament plays the Halo theme"
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
