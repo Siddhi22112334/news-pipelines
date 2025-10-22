@@ -202335,6 +202335,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:44": [
+        {
+          "item": {
+            "title": "Snapchat makes its first open prompt AI Lens available for free in the US",
+            "link": "https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "377e86d1ff13fe8aa7f184d7b5c3bb1124411928"
+          },
+          "review": {
+            "headline_rewrite": "Snapchat makes its first open prompt AI Lens available for free in the US",
+            "bullets": [
+              "Snapchat is making its new “Imagine Lens,” the company’s first open prompt image-generation AI Lens, available to all users for free.",
+              "The Lens was initially launched in September but only for paid subscribers.",
+              "The broadened availability of the AI Lens follows the launch of AI video-generating apps from Meta (Meta AI) and OpenAI (Sora), which compete for young people’s attention with even more advanced AI tools and features than photo modifications.",
+              "Friends can share these AI personas, dubbed “cameos,” with one another, so they can star in videos together.",
+              "That puts pressure on other social apps like Snapchat to keep up, so making the AI image Lens free to use seems a worthwhile investment for the app maker.",
+              "Until now, Snapchat’s AI Lens was only available to Lens+ and Snapchat Platinum Subscribers, the company says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly",
+            "link": "https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5248e2218bc60f7718c9813fe5026e504927028c"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly",
+            "bullets": [
+              "The tension between Tesla’s current automotive-driven business and the AI-centric one that Musk is aiming for has never been more clear.",
+              "The company explained in the letter that a big increase in operating expenses — 50% higher compared to the third quarter last year — was one of the culprits.",
+              "That operating expense bump was thanks to spending on AI and other R&D projects, as well as “restructuring” charges of nearly $240 million.",
+              "Tesla didn’t explain what those restructuring charges were for, but it’s possibly related to the recent decision to shut down the company’s six-year Dojo supercomputer project.",
+              "Tesla’s chief financial officer Vaibhav Taneja said on a conference call Wednesday the tariff hit was about $400 million.",
+              "“We’re at a critical inflection point for Tesla and our strategy going forward as we bring AI into the real world,” Musk said on the call."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Here are Amazon’s smart delivery glasses that guide drivers and scan packages",
+            "link": "https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages",
+            "site_name": "The Verge",
+            "novelty_hash": "8ba1ed8b4542ed4bd0d6701096cf4a6bc7d102b9"
+          },
+          "review": {
+            "headline_rewrite": "Here are Amazon’s smart delivery glasses that guide drivers and scan packages",
+            "bullets": [
+              "Remember when word got out that Amazon was building smart glasses for its delivery drivers before possibly launching a version for consumers as well?",
+              "“If there are hazards, or a need to navigate complex environments like apartment buildings, the glasses will guide [drivers] safely to their destination,” Amazon claims, showing off mocked-up video clips of what drivers should see as they work.",
+              "As you can see in the photo below, the glasses aren’t standalone — they’re paired with a vest that contains a swappable battery, and a button the driver can press to take a photo of each successful delivery.",
+              "Amazon hasn’t said which sensors are inside the glasses, but images suggest they may have two cameras: one centered above the nose, and one above the temple.",
+              "While the company isn’t saying exactly when or where the glasses might roll out, the company says hundreds of drivers have already tested early versions of the tech, and that it wants to put more AI features inside.",
+              "The Information reported in September that Amazon’s glasses-with-a-screen for consumers, codename “Jayhawk”, might launch for consumers in 2026 or 2027."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’",
+            "link": "https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk",
+            "site_name": "The Verge",
+            "novelty_hash": "15d0255cdeced3dd57ebe5f8baacc7262b33a188"
+          },
+          "review": {
+            "headline_rewrite": "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’",
+            "bullets": [
+              "Tesla CEO Elon Musk predicted the company would be able to remove the safety monitors from its robotaxis “by the end of the year.” He also said Tesla would launch a robotaxi service in 8-10 new markets also before the end of 2025.",
+              "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’\nThe company plans on launching robotaxis in 8-10 new markets by the end of 2025, Musk also said.",
+              "“We are expecting to have no safety drivers in at least large parts of Austin by the end of this year,” Musk said in an earnings call with investors.",
+              "Musk has said that the human monitors are only there because Tesla is being “paranoid about safety,” and not because of some deficiency in the company’s technology.",
+              "“So it’s better for us to take a cautious approach here.”\nMusk also said that he expects Tesla to be operating robotaxis in 8-10 new states before the end of the year, barring no regulatory hiccups.",
+              "Tesla’s robotaxis in Austin have covered “more than a quarter million miles,” while its vehicles in San Francisco have driven “more than a million,” said Ashok Elluswamy, VP of AI software."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+            "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ecbdfdee25c9e264cac158bdc132a4437676e4c1"
+          },
+          "review": {
+            "headline_rewrite": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+            "bullets": [
+              "The makers of BIND, the Internet’s most widely used software for resolving domain names, are warning of two vulnerabilities that allow attackers to poison entire caches of results and send users to malicious destinations that are indistinguishable from the real ones.",
+              "The vulnerabilities, tracked as CVE-2025-40778 and CVE-2025-40780, stem from a logic error and a weakness in generating pseudo-random numbers, respectively.",
+              "Separately, makers of the Domain Name System resolver software Unbound warned of similar vulnerabilities that were reported by the same researchers.",
+              "The unbound vulnerability severity score is 5.6\nRevisiting Kaminsky’s cache poisoning attack\nThe vulnerabilities can be exploited to cause DNS resolvers located inside thousands of organizations to replace valid results for domain lookups with corrupted ones.",
+              "The corrupted results would replace the IP addresses controlled by the domain name operator (for instance, 3.15.119.63 for arstechnica.com) with malicious ones controlled by the attacker.",
+              "Patches for all three vulnerabilities became available on Wednesday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla profits fall 37% in Q3 despite healthy sales",
+            "link": "https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d3b60b673bd45a1a9e8dd5710643f681c92ee6ea"
+          },
+          "review": {
+            "headline_rewrite": "Tesla profits fall 37% in Q3 despite healthy sales",
+            "bullets": [
+              "Even though revenues grew by 12 percent to $28 billion compared to the same period last year, Tesla’s operating expenses grew by 50 percent.",
+              "As a result, its operating margin halved to just 5.8 percent.",
+              "And so its profit for the quarter fell by 37 percent to $1.4 billion."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
