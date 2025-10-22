@@ -202454,6 +202454,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "05:07": [
+        {
+          "item": {
+            "title": "Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly",
+            "link": "https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5248e2218bc60f7718c9813fe5026e504927028c"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk frets over controlling Tesla’s ‘robot army’ as car biz rebounds slightly",
+            "bullets": [
+              "The tension between Tesla’s current automotive-driven business and the AI-centric one that Musk is aiming for has never been more clear.",
+              "The company explained in the letter that a big increase in operating expenses — 50% higher compared to the third quarter last year — was one of the culprits.",
+              "That operating expense bump was thanks to spending on AI and other R&D projects, as well as “restructuring” charges of nearly $240 million.",
+              "Tesla didn’t explain what those restructuring charges were for, but it’s possibly related to the recent decision to shut down the company’s six-year Dojo supercomputer project.",
+              "Tesla’s chief financial officer Vaibhav Taneja said on a conference call Wednesday the tariff hit was about $400 million.",
+              "“We’re at a critical inflection point for Tesla and our strategy going forward as we bring AI into the real world,” Musk said on the call."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Here are Amazon’s smart delivery glasses that guide drivers and scan packages",
+            "link": "https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages",
+            "site_name": "The Verge",
+            "novelty_hash": "8ba1ed8b4542ed4bd0d6701096cf4a6bc7d102b9"
+          },
+          "review": {
+            "headline_rewrite": "Here are Amazon’s smart delivery glasses that guide drivers and scan packages",
+            "bullets": [
+              "Remember when word got out that Amazon was building smart glasses for its delivery drivers before possibly launching a version for consumers as well?",
+              "“If there are hazards, or a need to navigate complex environments like apartment buildings, the glasses will guide [drivers] safely to their destination,” Amazon claims, showing off mocked-up video clips of what drivers should see as they work.",
+              "As you can see in the photo below, the glasses aren’t standalone — they’re paired with a vest that contains a swappable battery, and a button the driver can press to take a photo of each successful delivery.",
+              "Amazon hasn’t said which sensors are inside the glasses, but images suggest they may have two cameras: one centered above the nose, and one above the temple.",
+              "While the company isn’t saying exactly when or where the glasses might roll out, the company says hundreds of drivers have already tested early versions of the tech, and that it wants to put more AI features inside.",
+              "The Information reported in September that Amazon’s glasses-with-a-screen for consumers, codename “Jayhawk”, might launch for consumers in 2026 or 2027."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’",
+            "link": "https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk",
+            "site_name": "The Verge",
+            "novelty_hash": "15d0255cdeced3dd57ebe5f8baacc7262b33a188"
+          },
+          "review": {
+            "headline_rewrite": "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’",
+            "bullets": [
+              "Tesla CEO Elon Musk predicted the company would be able to remove the safety monitors from its robotaxis “by the end of the year.” He also said Tesla would launch a robotaxi service in 8-10 new markets also before the end of 2025.",
+              "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’\nThe company plans on launching robotaxis in 8-10 new markets by the end of 2025, Musk also said.",
+              "“We are expecting to have no safety drivers in at least large parts of Austin by the end of this year,” Musk said in an earnings call with investors.",
+              "Musk has said that the human monitors are only there because Tesla is being “paranoid about safety,” and not because of some deficiency in the company’s technology.",
+              "“So it’s better for us to take a cautious approach here.”\nMusk also said that he expects Tesla to be operating robotaxis in 8-10 new states before the end of the year, barring no regulatory hiccups.",
+              "Tesla’s robotaxis in Austin have covered “more than a quarter million miles,” while its vehicles in San Francisco have driven “more than a million,” said Ashok Elluswamy, VP of AI software."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+            "link": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ecbdfdee25c9e264cac158bdc132a4437676e4c1"
+          },
+          "review": {
+            "headline_rewrite": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+            "bullets": [
+              "The makers of BIND, the Internet’s most widely used software for resolving domain names, are warning of two vulnerabilities that allow attackers to poison entire caches of results and send users to malicious destinations that are indistinguishable from the real ones.",
+              "The vulnerabilities, tracked as CVE-2025-40778 and CVE-2025-40780, stem from a logic error and a weakness in generating pseudo-random numbers, respectively.",
+              "Separately, makers of the Domain Name System resolver software Unbound warned of similar vulnerabilities that were reported by the same researchers.",
+              "The unbound vulnerability severity score is 5.6\nRevisiting Kaminsky’s cache poisoning attack\nThe vulnerabilities can be exploited to cause DNS resolvers located inside thousands of organizations to replace valid results for domain lookups with corrupted ones.",
+              "The corrupted results would replace the IP addresses controlled by the domain name operator (for instance, 3.15.119.63 for arstechnica.com) with malicious ones controlled by the attacker.",
+              "Patches for all three vulnerabilities became available on Wednesday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla profits fall 37% in Q3 despite healthy sales",
+            "link": "https://arstechnica.com/cars/2025/10/tesla-profits-fall-37-in-q3-despite-healthy-sales/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d3b60b673bd45a1a9e8dd5710643f681c92ee6ea"
+          },
+          "review": {
+            "headline_rewrite": "Tesla profits fall 37% in Q3 despite healthy sales",
+            "bullets": [
+              "Even though revenues grew by 12 percent to $28 billion compared to the same period last year, Tesla’s operating expenses grew by 50 percent.",
+              "As a result, its operating margin halved to just 5.8 percent.",
+              "And so its profit for the quarter fell by 37 percent to $1.4 billion."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "4e3aceead4dee65b93e2064774e74927fbd9c6f4"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Española Public Schools\nDixon parents decry district's elementary school closure planNews Showcase\nStories selected by newsroom editors\nLatest and Local – Cheyenne, WY\nLatest news for Edmonds\n$100,123 raised since 2011\nEdmonds Petanque Club donates $10,500 to Edmonds Food BankFinancial policies, more\nCouncil committee addresses meeting presentation rules60 days to review\nProposal for solar farm goes again to WA governor for approvalRENO MORNING HEADLINES | October 22, 2025\nHappening in Loudoun County\nToledo's Leader in News, Sports & Entertainment\nSAN FRANCISCO'S TOP STORIES\nLatest Vermont News\nTRANSPORTATION\nUpper Valley residents make ‘longest-possible’ trip across Vermont — using only busesGOVERNMENT & POLITICS\n'We are in a difficult part of American history:' Supreme Court Justice Sonia Sotomayor speaks at UVMPUBLIC SAFETY\nJudge finds suspect in arson at Bernie Sanders' office unable to assist in his own defenseBureau County Republican\nBureau County Republican\nIllinois Valley Week 9 IHSA/I8FA playoff outlook: Who’s in, who’s almost in and who has work to doBureau County Republican\nHeritage Tractor to host Halloween Howl event Oct.",
+              "25Bureau County Republican\nPrinceton Music Boosters fundraiser offers fruit, meat and cheeseLatest news from The Portland Press Herald\nThe latest news in Berkeley\nFederal immigration operation\nTrump sends feds to Bay Area for immigration crackdownWhat to say to ICE agents\nWhat to know about your rights as feds head to Bay Area\"SH*T Bag\"\nBerkeley man selling dog poop bags with Donald Trump's faceWellesley, Mass., news\nWellesley restaurant news\nBlank Street coffee buddies up with black & blue Steak and CrabLocal government\nAdvisory body has say on Wellesley Special Town Meeting warrantShopping, business, holidays\nSave the date—Wellesley Square Holiday Stroll is Dec.",
+              "7thNew York City News Today\nROCHESTER MINNESOTA NEWS\nTODAY IN SANTA CRUZ COUNTY\nAGING IN SANTA CRUZ\nFree lunch draws crowd in search of affordable meals, connectionLOCAL BUSINESS ROUNDUP\nBusiness owners’ input sought ahead of 2026 sporting eventsSANTA CRUZ\nCity workers reject latest contract offer, authorize strikeTampa Bay Times Top Stories\nAdvocate Top Stories\nBy Madelyn Edwards\nTeter’s to move to north Lake HighlandsBy Victoria Hernandez\nOne week since fatal hit-and-run on W Davis StreetBy Madelyn Edwards\nTwo fires & a shooting occur over the weekend in East DallasBridgeDetroit\nOct 22 2025, 1:48 PM\nFact check: Trump promised Michigan peace in Mideast, not...Oct 22 2025, 7:18 AM\nWill Kercheval housing project bring density or displacem...Oct 22 2025, 6:00 AM\nOp-ed: Police oversight should matter to Detroiters, but ...News\nWashington Examiner\nTrump hosts NATO secretary as he turns up the heat on RussiaWashington Examiner\nUS allows Ukraine to use Western cruise missile for strikes inside Russia: ReportWashington Examiner\nAnger at White House renovation lacks ‘historical context’: Zito & ConchaDon't Miss Headlines\nThings to Do 🚧\nOrange Cone Festival set for Oct.",
+              "26 in MansfieldMansfield news 🌳\nHeirs of John Todd oppose easement proposal in public parkRichland County news 🚨\nCounty jail, sheriff's office at 'best staffing' levels in yearsLatest Boston news\nThe Herald News\nCobb Courier Evening Update October 22, 2025\nCommunity Life\nBattery Atlanta releases its schedule of holiday eventsMunicipal & PSC elections\nCobb elections reports on progress of early votingAdopt, Don't Shop!",
+              "Are you here to adopt me?\"Latest and Local – Casper, WY\nOctober 22, 2025\nPublic Education\nRegion One feared they could lose GEAR UP funding.",
+              "Instead, they found bipartisan support.Guest Column\nCanales: A Call to Action: Using Prop 14 for Dementia Research to Support Texas' FutureBorder Life\nVillarreal: SpaceX's workforce is going to jump from 4,300 to 8,000 over the next yearNORTHEAST GEORGIA\nJAMESTOWN ND NEWS\nWhat Utah is buzzing about\nKendall County Now\nThe Business Journal of the Boulder Valley and Northern Colorado\nCHARLOTTE HEADLINES\nGJ Sentinel Headlines 10/22/25\nDredging up a dead dictator\nPeters attorney pens open letter pushing election conspiraciesChild endangerment charges\nMan arrested after chaotic incident in Glade Park areaKEKB named for founder's kids\nFormer GJ radio owner to enter state's Broadcasters Hall of FameWednesday Night Update\nCouncil Approves Water Quality Report\nWILLMAR MINNESOTA NEWS\nToday's Top Headlines\nPost and Courier\nPlanned SC gas plant could pollute air for 2 millionPost and Courier\nSC Ports work to stabilize downtown Charleston SC landmarkPost and Courier\nFeds charge Charleston magistrate for having child pornBaltimore news to know\nPumpkin Smash!"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
