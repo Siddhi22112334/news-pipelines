@@ -204436,6 +204436,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:06": [
+        {
+          "item": {
+            "title": "Redwood Materials raises another $350M to power up its energy storage business",
+            "link": "https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "99dee408dd129bda7ade13b8b84c9f74b686b176"
+          },
+          "review": {
+            "headline_rewrite": "Redwood Materials raises another $350M to power up its energy storage business",
+            "bullets": [
+              "Battery recycling and cathode production company Redwood Materials has raised $350 million as it grows its new energy storage business in a bid to power the AI data center boom.",
+              "The Series E round, led by venture firm Eclipse, also included a new strategic investment by Nvidia’s venture capital arm, NVentures.",
+              "The funds will be used to expand the company’s burgeoning energy storage business as well as its refining and materials production capacity.",
+              "When Redwood Materials was founded in 2017, it set out to create a circular supply chain for batteries by focusing on recycling scrap from battery cell production and consumer electronics like cell phone batteries and laptop computers.",
+              "Redwood has since added new, related pursuits like cathode production.",
+              "Most recently, it launched an energy storage business that uses the thousands of EV batteries it collects to provide power to companies."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The ChatGPT Atlas browser still feels like Googling with extra steps",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search",
+            "site_name": "The Verge",
+            "novelty_hash": "507e728e692249d197c10b6e5b5865898b6e2665"
+          },
+          "review": {
+            "headline_rewrite": "The ChatGPT Atlas browser still feels like Googling with extra steps",
+            "bullets": [
+              "This week, OpenAI debuted its long-rumored AI browser that aims to put its AI chatbot at the center of the internet.",
+              "OpenAI is likely betting that putting ChatGPT front and center is enough to draw users in, but the overall experience falls short when compared to rivals so far.",
+              "The ChatGPT Atlas browser still feels like Googling with extra steps\nChatGPT Atlas is great at providing AI-generated responses, but not so great at searches.",
+              "Either way, I found myself missing the option to view the daily news stories and weather I can find on the Microsoft Edge homepage, or the Perplexity Comet browser’s customizable “Discover” page with recent news, even if all its snippets are AI-generated (which raises a bunch of questions).",
+              "When you first type a query, you’ll typically receive an AI-generated response from ChatGPT, after which you can elect to do things like turn your query into a classic web search with a list of related blue links, similar to classic Google Search.",
+              "When I searched for “news near me,” for example, ChatGPT provided an AI-generated response with stories relevant to my area."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened",
+            "link": "https://arstechnica.com/features/2025/10/we-let-openais-agent-mode-surf-the-web-for-us-heres-what-happened/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d330fd45e36c5b04c5d1fc7349c22da08f15fff9"
+          },
+          "review": {
+            "headline_rewrite": "We let OpenAI’s “Agent Mode” surf the web for us—here’s what happened",
+            "bullets": [
+              "On Tuesday, OpenAI announced Atlas, a new web browser with ChatGPT integration, to let you “chat with a page,” as the company puts it.",
+              "But Atlas also goes beyond the usual LLM back-and-forth with Agent Mode, a “preview mode” feature the company says can “get work done for you” by clicking, scrolling, and reading through various tabs.",
+              "“Agentic” AI is far from new, of course; OpenAI itself rolled out a preview of the web browsing Operator agent in January and introduced the more generalized “ChatGPT agent” in July.",
+              "Still, prominently featuring this capability in a major product release like this—even in “preview mode”—signals a clear push to get this kind of system in front of end users.",
+              "My final evaluation will rank each task on a 10-point scale, with 10 being “did exactly what I wanted with no problems” and one being “complete failure.”\nPlaying web games\nThe problem: I want to get a high score on the popular tile-sliding game 2048 without having to play it myself.",
+              "After all, if frontier-model LLMs like Google Gemini can beat a complex game like Pokémon, 2048 should pose no problem for a web browser agent."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas",
+            "link": "https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates",
+            "site_name": "The Verge",
+            "novelty_hash": "9872b6909eb8a96f1ceda89524c7713a89bfae99"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas",
+            "bullets": [
+              "Less than two days ago, OpenAI came out swinging in the fight for the future of the internet with the release of ChatGPT Atlas, an AI-powered web browser it hopes will topple Google Chrome.",
+              "Adam Fry, OpenAI’s Atlas leader, says the team is already “heads down making it better” and teased a bunch of new features on the way.",
+              "OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas\nProfiles, tab groups, and ad blockers are on their way.",
+              "“Profiles coming!” Fry said.",
+              "The features, common to many popular internet browsers, were included on a list of “post-launch fixes” for Atlas that Fry posted on X.",
+              "Most of these should land “over the coming weeks,” he said, “though some may take a little longer.”\nThe list includes a series of quality of life upgrades like an overflow bookmarks menu and a list of shortcuts."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Samsung's Galaxy XR doesn't give me much hope for Android XR",
+            "link": "https://www.engadget.com/ar-vr/samsungs-galaxy-xr-doesnt-give-me-much-hope-for-android-xr-110000129.html",
+            "site_name": "Engadget",
+            "novelty_hash": "216807550c3784505b4728b50bdfc445a3f26235"
+          },
+          "review": {
+            "headline_rewrite": "Samsung's Galaxy XR doesn't give me much hope for Android XR",
+            "bullets": [
+              "While Samsung deserves credit for offering something close to the Vision Pro for nearly half the price, an $1,800 headset still won't get mainstream consumers rushing out the door to experience the wonders of mixed reality.",
+              "(The Meta Quest Pro, the company’s first high-end mixed reality device, was unceremoniously killed after launching at an eye-watering $1,500.)\nThere aren't many custom-built XR apps, aside from Google's offerings like Maps and Photos.",
+              "Samsung and Google also haven't said much about how they plan to elevate XR content.",
+              "For the most part, it seems as if Google is treating Android XR as another way to force its Gemini AI on users.",
+              "In its press release for the Galaxy XR, Samsung notes that it's \"introducing a new category of AI-native devices designed to deliver immersive experiences in a form factor optimized for multimodal AI.\"\n…What?",
+              "In addition to being a crime against the English language, what the company is actually pitching is fairly simple: It's just launching a headset that can access AI features via camera and voice inputs."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Bose QuietComfort Ultra Headphones Gen 2 Review: Major Fun",
+            "link": "https://www.wired.com/review/bose-quietcomfort-ultra-headphones-2/",
+            "site_name": "WIRED",
+            "novelty_hash": "c311cda85711d040fb2fe1f21bddfb1e3543852a"
+          },
+          "review": {
+            "headline_rewrite": "Bose QuietComfort Ultra Headphones Gen 2 Review: Major Fun",
+            "bullets": [
+              "They stood as the unequivocal noise-canceling masters until Sony rivaled their dominance with the WH-1000XM6, which brings new tech like a crazy-fast chipset to inch past the Ultra in some scenarios.",
+              "The upgrades come at a relatively low cost—especially since Bose jacked up the price of its previous best headphones from $430 to $450 post-launch (they’re now back to $430)."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
