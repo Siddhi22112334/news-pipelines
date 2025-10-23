@@ -206927,6 +206927,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:45": [
+        {
+          "item": {
+            "title": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
+            "link": "https://arstechnica.com/ai/2025/10/openai-acquires-the-team-that-made-apples-shortcuts/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e06731d903d9d004ef53b8539d1b760754099ba1"
+          },
+          "review": {
+            "headline_rewrite": "With new acquisition, OpenAI signals plans to integrate deeper into the OS",
+            "bullets": [
+              "OpenAI has acquired Software Applications Incorporated (SAI), perhaps best known for the core team that produced what became Shortcuts on Apple platforms.",
+              "More recently, the team has been working on Sky, a context-aware AI interface layer on top of macOS.",
+              "The financial terms of the acquisition have not been publicly disclosed.",
+              "“AI progress isn’t only about advancing intelligence—it’s about unlocking it through interfaces that understand context, adapt to your intent, and work seamlessly,” an OpenAI rep wrote in the company’s blog post about the acquisition.",
+              "The post goes on to specify that OpenAI plans to “bring Sky’s deep macOS integration and product craft into ChatGPT, and all members of the team will join OpenAI.”\nThat includes SAI co-founders Ari Weinstein (CEO), Conrad Kramer (CTO), and Kim Beverett (Product Lead)—all of whom worked together for several years at Apple after Apple acquired Weinstein and Kramer’s previous company, which produced an automation tool called Workflows, to integrate Shortcuts across Apple’s software platforms.",
+              "The three SAI founders left Apple to work on Sky, which leverages Apple APIs and accessibility features to provide context about what’s on screen to a large language model; the LLM takes plain language user commands and executes them across multiple applications."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results",
+            "link": "https://arstechnica.com/tech-policy/2025/10/reddit-sues-to-block-perplexity-from-scraping-google-search-results/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "26f113c152056cf259482a1ea7bf9a1dcdaae51e"
+          },
+          "review": {
+            "headline_rewrite": "Lawsuit: Reddit caught Perplexity “red-handed” stealing data from Google results",
+            "bullets": [
+              "In a lawsuit filed on Wednesday, Reddit accused an AI search engine, Perplexity, of conspiring with several companies to illegally scrape Reddit content from Google search results, allegedly dodging anti-scraping methods that require substantial investments from both Google and Reddit.",
+              "Reddit alleged that Perplexity feeds off Reddit and Google, claiming to be “the world’s first answer engine” but really doing “nothing groundbreaking.”\n“Its answer engine simply uses a different company’s” large language model “to parse through a massive number of Google search results to see if it can answer a user’s question based on those results,” the lawsuit said.",
+              "“But Perplexity can only run its ‘answer engine’ by wrongfully accessing and scraping Reddit content appearing in Google’s own search results from Google’s own search engine.”\nLikening companies involved in the alleged conspiracy to “bank robbers,” Reddit claimed it caught Perplexity “red-handed” stealing content that its “answer engine” should not have had access to.",
+              "Baiting Perplexity with “the digital equivalent of marked bills,” Reddit tested out posting content that could only be found in Google search engine results pages (SERPs) and “within hours, queries to Perplexity’s ‘answer engine’ produced the contents of that test post.”\n“The only way that Perplexity could have obtained that Reddit content and then used it in its ‘answer engine’ is if it and/or its Co-Defendants scraped Google SERPs for that Reddit content and Perplexity then quickly incorporated that data into its answer engine,” Reddit’s lawsuit said.",
+              "Perplexity suggested that Reddit was attacking the open Internet by trying to extort licensing fees for Reddit content, despite knowing that Perplexity doesn’t train foundational models.",
+              "Reddit’s endgame, Perplexity alleged, was to use the Perplexity lawsuit as a “show of force in Reddit’s training data negotiations with Google and OpenAI.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump's Investment in Intel Is Paying Off",
+            "link": "https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/",
+            "site_name": "WIRED",
+            "novelty_hash": "a8a2f13648c6636233cec67417acb6af2ae5e331"
+          },
+          "review": {
+            "headline_rewrite": "Trump's Investment in Intel Is Paying Off",
+            "bullets": [
+              "The Trump administration’s investment in Intel appears to be paying off, but the once-mighty chipmaker has a long way to climb back to industry dominance.",
+              "On the earnings call, Tan said he was “honored by the trust and confidence” that Tump and Commerce Secretary Howard Lutnick had placed in him.",
+              "He added that Intel was “fully committed to the Trump administration’s vision and proudly welcomes the US as an essential partner in our efforts.”\nIntel’s stronger-than-expected revenue suggests that global demand for x86 chips, the kind that Intel specializes in, continues to rise as the tech industry invests heavily in AI infrastructure.",
+              "While GPUs, such as Nvidia’s H100s, continue to be the gold standard for training AI models, data center buildouts include a combination of GPUs and x86 CPUs, which power different AI workloads.",
+              "Intel noted in the earnings call that it hasn't been able to supply its device customers with enough older chips, which aren’t as advanced as newer generations of AI semiconductors.",
+              "This is partly because consumer demand for AI-powered PCs isn’t particularly strong, so device manufacturers are still seeking older—and cheaper—chips."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft Edge’s new Copilot Mode turns on more AI features",
+            "link": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "0bfeb5c655621d92050011eb8454d78e7d192a06"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft Edge’s new Copilot Mode turns on more AI features",
+            "bullets": [
+              "Microsoft is joining the AI browser wave with the official launch of a new “Copilot Mode” in Edge.",
+              "Microsoft Edge’s new Copilot Mode turns on more AI features\nCopilot in Edge can now help you book a reservation or unsubscribe from emails — when it works.",
+              "Copilot Mode ties Microsoft’s AI assistant more closely to Edge, as it combines AI-generated responses, search results, and navigation into one window.",
+              "It also draws from all of your tabs — not just the one you’re on — allowing you to ask Copilot to summarize the information in all of your open windows or compare products in each one.",
+              "Though Microsoft previously launched Copilot Mode as an experimental feature, it’s now available for everyone to try, alongside a few new features available in a limited preview.",
+              "That includes an agentic Copilot Actions feature that can do things like unsubscribe from marketing emails or book a reservation on your behalf."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nintendo&#8217;s chips make this Lego Game Boy upgrade kit the most authentic",
+            "link": "https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic",
+            "site_name": "The Verge",
+            "novelty_hash": "aa10c1eb08fc072f04bf1867fd67e39c52fd3990"
+          },
+          "review": {
+            "headline_rewrite": "Nintendo&#8217;s chips make this Lego Game Boy upgrade kit the most authentic",
+            "bullets": [
+              "The same day Lego officially launched the set, Natalie the Nerd revealed she’d already transformed it to play real Game Boy cartridges on real Game Boy chips.",
+              "Nintendo’s chips make this Lego Game Boy upgrade kit the most authentic\nNatalie the Nerd is bringing her mod to a Lego Game Boy near you.",
+              "As far as harvesting the chips goes, Natalie says she’s managed to buy damaged Game Boy Pockets in bulk, as they’re the “unloved sibling” of the Game Boy family, but she doubts she’ll have enough to satisfy demand.",
+              "“I am aiming for $99 USD but y’know how the world is at the moment,” she writes.",
+              "While it’s quite a feat to shrink an entire actual working Game Boy down to the size of a Game Boy cartridge, others are coming close — modder Hairo Satoh has been showing off an excellent Game Boy Color version on Instagram that uses real cartridges, though he tells me it required a lot of modification to the Lego “shell” and he’s not sure he’ll release a kit himself.",
+              "Meanwhile, the rival BrickBoy kit might be the easiest and most sustainable way to power a Lego Game Boy yet."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple loses UK antitrust lawsuit over App Store fees",
+            "link": "https://www.engadget.com/big-tech/apple-loses-uk-antitrust-lawsuit-over-app-store-fees-184515613.html",
+            "site_name": "Engadget",
+            "novelty_hash": "8becfb7170bcbc01bc4b9bbc57e0e83eee7d3c51"
+          },
+          "review": {
+            "headline_rewrite": "Apple loses UK antitrust lawsuit over App Store fees",
+            "bullets": [
+              "Apple will owe money to UK users after losing an App Store antitrust lawsuit there on Thursday, according to Financial Times.",
+              "The decision declared that Apple has been \"abusing its dominant position by charging excessive and unfair prices.\" FT reports that Apple will appeal the decision.",
+              "The class action claimants said damages of about £1.5bn would be split between 36 million consumers.",
+              "Apple has an increasingly strained relationship with the tighter regulations across the Atlantic.",
+              "The App Store faces vigorous competition from many other platforms — often with far fewer privacy and security protections — giving developers and consumers many options in how they build, share, and download apps."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
