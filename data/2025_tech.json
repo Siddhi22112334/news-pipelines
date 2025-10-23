@@ -206697,6 +206697,118 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:46": [
+        {
+          "item": {
+            "title": "OpenAI buys Sky, an AI interface for Mac",
+            "link": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "90c6a6475d2438f84efa6d0350db0eada2bb9545"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI buys Sky, an AI interface for Mac",
+            "bullets": [
+              "OpenAI announced on Thursday it has acquired Software Applications, Inc., the makers of an AI-powered natural language interface for Mac computers called Sky.",
+              "The software product, which had not been released to the public, is designed to work alongside you throughout your day, as you use apps on the computer, writing, planning, coding, and more.",
+              "Similar to AI browsers, Sky can see what’s on the your screen and take action in your apps for you.",
+              "The move is a significant step toward embedding OpenAI’s technology into consumers’ everyday lives and within businesses that run on Mac.",
+              "With LLMs, we can finally put the pieces together.",
+              "That’s why we built Sky, an AI experience that floats over your desktop to help you think and create."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco",
+            "link": "https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bfb699ca044382a7b7fd7443ca727f1fe11bde51"
+          },
+          "review": {
+            "headline_rewrite": "Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco",
+            "bullets": [
+              "President Trump had planned an operation to “surge” San Francisco by marching National Guard troops into the city, but was convinced to alter course, he said on a post on his social network Truth Social on Thursday.",
+              "Nvidia’s Jensen Huang and Salesforce CEO Marc Benioff were among the tech industry’s luminaries who called him and convinced him to change his mind, the post said.",
+              "Earlier this month — shortly before Salesforce held its enormous tech conference in San Francisco, where it is headquartered – Benioff (who was born and raised there) said he supported Trump.",
+              "He also said he thought National Guard troops should be sent to patrol its streets.",
+              "“… after the largest and safest Dreamforce in our history, I do not believe the National Guard is needed to address safety in San Francisco,” Benioff said in a post on X earlier this month.",
+              "Perhaps we’ll hear more about how the city, ground zero of the AI industry, has improved safety and rallied to de-escalate the situation."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft Edge’s new Copilot Mode turns on more AI features",
+            "link": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "0bfeb5c655621d92050011eb8454d78e7d192a06"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft Edge’s new Copilot Mode turns on more AI features",
+            "bullets": [
+              "Microsoft is joining the AI browser wave with the official launch of a new “Copilot Mode” in Edge.",
+              "Microsoft Edge’s new Copilot Mode turns on more AI features\nCopilot in Edge can now help you book a reservation or unsubscribe from emails — when it works.",
+              "Copilot Mode ties Microsoft’s AI assistant more closely to Edge, as it combines AI-generated responses, search results, and navigation into one window.",
+              "It also draws from all of your tabs — not just the one you’re on — allowing you to ask Copilot to summarize the information in all of your open windows or compare products in each one.",
+              "Though Microsoft previously launched Copilot Mode as an experimental feature, it’s now available for everyone to try, alongside a few new features available in a limited preview.",
+              "That includes an agentic Copilot Actions feature that can do things like unsubscribe from marketing emails or book a reservation on your behalf."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can get three months of Audible’s subscription for $3",
+            "link": "https://www.theverge.com/tech/805665/audible-premium-plus-subscription-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "4eed9897d3f64243d19e26c25c9c2c9c6e7067b2"
+          },
+          "review": {
+            "headline_rewrite": "You can get three months of Audible’s subscription for $3",
+            "bullets": [
+              "The subscription includes one credit per month, enough for one audiobook, and each redemption will remain in your library even if you end the service.",
+              "The deal is available until December 17th at 2:59AM ET / 11:59PM PT, and saves you around $41 once the monthly discounts have concluded."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Researchers show that training on “junk data” can lead to LLM “brain rot”",
+            "link": "https://arstechnica.com/ai/2025/10/researchers-show-that-training-on-junk-data-can-lead-to-llm-brain-rot/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6c88821dbd890534157c38f2304894810d84710e"
+          },
+          "review": {
+            "headline_rewrite": "Researchers show that training on “junk data” can lead to LLM “brain rot”",
+            "bullets": [
+              "On the surface, it seems obvious that training an LLM with “high quality” data will lead to better performance than feeding it any old “low quality” junk you can find.",
+              "Now, a group of researchers is attempting to quantify just how much this kind of low quality data can cause an LLM to experience effects akin to human “brain rot.”\nFor a pre-print paper published this month, the researchers from Texas A&M, the University of Texas, and Purdue University drew inspiration from existing research showing how humans who consume “large volumes of trivial and unchallenging online content” can develop problems with attention, memory, and social cognition.",
+              "That led them to what they’re calling the “LLM brain rot hypothesis,” summed up as the idea that “continual pre-training on junk web text induces lasting cognitive decline in LLMs.”\nSince brain rot in humans is “a consequence of Internet addiction,” they write, junk tweets should be ones “that can maximize users’ engagement in a trivial manner.” As such, the researchers created one “junk” dataset by collecting tweets with high engagement numbers (likes, retweets, replies, and quotes) and shorter lengths, figuring that “more popular but shorter tweets will be considered to be junk data.”\nFor a second “junk” metric, the researchers drew from marketing research to define the “semantic quality” of the tweets themselves.",
+              "Using a complex GPT-4o prompt, they sought to pull out tweets that focused on “superficial topics (like conspiracy theories, exaggerated claims, unsupported assertions or superficial lifestyle content)” or that had an “attention-drawing style (such as sensationalized headlines using clickbait language or excessive trigger words).” A random sample of these LLM-based classifications was spot-checked against evaluations from three graduate students with a 76 percent matching rate."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Dinosaurs may have flourished right up to when the asteroid hit",
+            "link": "https://arstechnica.com/science/2025/10/dinosaurs-may-have-flourished-right-up-to-when-the-asteroid-hit/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "230f2c67341d4a12254cf5f1d76496a340677069"
+          },
+          "review": {
+            "headline_rewrite": "Dinosaurs may have flourished right up to when the asteroid hit",
+            "bullets": [
+              "But the details of their end have remained a matter of debate since the impact crater was discovered.",
+              "Beyond this area, which reflects the ecosystem of the northern Great Plains, we have little else."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
