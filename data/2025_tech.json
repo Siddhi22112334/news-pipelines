@@ -205869,5 +205869,129 @@
         }
       ]
     }
+  },
+  "2025-10-24": {
+    "runs": {
+      "00:19": [
+        {
+          "item": {
+            "title": "Two days after OpenAI’s Atlas, Microsoft launches a nearly identical AI browser",
+            "link": "https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4c7061f8d28b42e80748e00264d9ea91ac2fbf8f"
+          },
+          "review": {
+            "headline_rewrite": "Two days after OpenAI’s Atlas, Microsoft launches a nearly identical AI browser",
+            "bullets": [
+              "Microsoft released a new batch of features for its AI assistant Thursday, including an ambitious project that builds artificial intelligence directly into one of its most central products.",
+              "More than a simple extension, the new CoPilot Mode of Microsoft’s Edge browser is the company’s take on the long-hyped AI browser category — an intelligent and flexible AI assistant that follows you as you browse the web.",
+              "Mustafa Suleyman, the CEO of Microsoft AI, even described the new product in those terms in the announcement.",
+              "“Copilot Mode in Edge is evolving into an AI browser that is your dynamic, intelligent companion,” Suleyman wrote in the announcement post.",
+              "“With your permission, Copilot can see and reason over your open tabs, summarize and compare information, and even take actions like booking a hotel or filling out forms.”\nThe announcement comes just two days after a similar launch from OpenAI, which showed off its new Atlas browser.",
+              "Neither company invented the idea of an AI-assisted web browser."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
+            "link": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9f7761c5f02e1051dfc140b5abac6f767b11bdca"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
+            "bullets": [
+              "Microsoft has a new Clippy, and it’s an AI friend called Mico.",
+              "At the company’s Copilot fall release press event on Thursday, the company introduced a range of new features and updates for its AI chatbot, but one that telegraphed how the tech giant intends to bring AI to consumers was the official introduction of its AI chatbot’s “face” — an expressive avatar blob named Mico.",
+              "The company explains that Mico (its name a nod to “Microsoft Copilot”) is meant to offer consumers a “warm” and “customizable” visual presence that “listens, reacts, and even changes colors to reflect your interactions.”\nIf the talking AI helper immediately brings to mind Microsoft’s infamous productivity assistant, Clippy, you wouldn’t be wrong in thinking that.",
+              "It’s initially available in the U.S., Canada, and the U.K., and will be able to save memories of your conversations and learn from your feedback, Microsoft says.",
+              "We’re building AI that gets you back to your life.",
+              "That earns your trust,” wrote CEO of Microsoft AI, Mustafa Suleyman, in an announcement."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+            "link": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
+            "site_name": "The Verge",
+            "novelty_hash": "f1fd4f5981e830ca1b470625b764624f99cd11f4"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+            "bullets": [
+              "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting.",
+              "The upgrade for all paid subscribers should make Claude more useful and convenient.",
+              "Max subscribers will be able to turn on Claude’s “memory” in their settings from today, Anthropic said.",
+              "The feature, which has been available to Team and Enterprise users since September, lets Claude remember details from previous chats.",
+              "Pro subscribers will see the memory feature “roll out over the coming days,” Anthropic said.",
+              "The company did not say whether it plans to make the feature available to free users in the future."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.",
+            "link": "https://www.theverge.com/news/805387/warner-bros-sale-netflix-amazon-apple-interested",
+            "site_name": "The Verge",
+            "novelty_hash": "73e2702a5cfa26dc28dad95f0af0bf5ae7b2c883"
+          },
+          "review": {
+            "headline_rewrite": "Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.",
+            "bullets": [
+              "Three of the rumored potential buyers for entertainment titan Warner Bros.",
+              "Discovery as a whole or acquiring pieces of the company, like its content libraries and production assets, according to Bloomberg.",
+              "Discovery announced it was launching a “review of strategic alternatives to maximize shareholder value, in light of unsolicited interest the Company has received from multiple parties for both the entire company and Warner Bros.” According to the report, after receiving the above inquiries, as well as others from Paramount and Comcast, it’s readying nondisclosure agreements for the prospective buyers ahead of sharing financial data with them.",
+              "Paramount recently completed a tricky (and controversial) merger with Skydance Media.",
+              "If the Paramount-Skydance merger is any indication, finding a buyer that can acquire WBD as a whole could prove challenging."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI buys the maker of Mac automation app Sky",
+            "link": "https://www.engadget.com/ai/openai-buys-the-maker-of-mac-automation-app-sky-182624253.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1a98de3278cd8360844a0369fabdadcdb090a0d5"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI buys the maker of Mac automation app Sky",
+            "bullets": [
+              "OpenAI’s relentless push for growth took another turn on Thursday when the company said it had bought Software Applications Incorporated.",
+              "Given its focus on agentic AI — artificial intelligence systems that carry out actions on your behalf — it’s easy to see why OpenAI would be interested in scooping that up.",
+              "“Whether you’re chatting, writing, planning, or coding, Sky understands what’s on your screen and can take action using your apps,” Software Applications said.",
+              "“Now, we’re joining OpenAI to bring these capabilities to even more people.",
+              "We can’t wait to share more.”\nOpenAI plans to incorporate “Sky’s deep macOS integration and product craft” into ChatGPT.",
+              "OpenAI recently announced third-party app integration for ChatGPT."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "‘War on Crypto Is Over’: Donald Trump Pardons Binance Founder CZ",
+            "link": "https://www.wired.com/story/trump-pardons-cz-binance/",
+            "site_name": "WIRED",
+            "novelty_hash": "f1ef221796c7b5603b207f6eb324d5f2b95ffda8"
+          },
+          "review": {
+            "headline_rewrite": "‘War on Crypto Is Over’: Donald Trump Pardons Binance Founder CZ",
+            "bullets": [
+              "Regulators brought a volley of lawsuits against high-profile businesses during this era, and the DOJ prosecuted crypto industry figureheads for fraud.",
+              "“The Biden administration’s war on crypto is over.”\nZhao, who founded Binance in 2017, is something of a legend in cryptoland for his bullish pronouncements and flair for social media.",
+              "In late March, Trump pardoned the cofounders of crypto exchange BitMEX, who in 2022 pleaded guilty to charges relating to their failure to maintain an adequate anti-money-laundering program.",
+              "“For him, I think this is really about clearing his name,” claims Patrick Hillmann, who previously worked under Zhao as chief strategy officer at Binance.",
+              "“The US is not something we are focusing on now,” he said."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
