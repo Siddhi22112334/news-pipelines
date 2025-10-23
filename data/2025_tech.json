@@ -205390,6 +205390,126 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:16": [
+        {
+          "item": {
+            "title": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "link": "https://blogs.nvidia.com/blog/open-source-ai-week/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "bac033abcb47ead71cfd7613cdc005e33a672a54"
+          },
+          "review": {
+            "headline_rewrite": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "bullets": [
+              "NVIDIA’s on the ground at Open Source AI Week.",
+              "Stay tuned for a celebration highlighting the spirit of innovation, collaboration and community that drives open-source AI forward.",
+              "Follow NVIDIA AI Developer on social channels for additional news and insights.",
+              "Highlights From Open Source AI Week 🔗\nAttendees of Open Source AI Week are getting a peek at the latest advancements and creative projects that are shaping the future of open technology.",
+              "Here’s a look at what’s happening onsite:\nThe world’s smallest AI supercomputer: NVIDIA DGX Spark represents the cutting edge of AI computing hardware for enterprise and research applications.",
+              "Why open source is important: Learn how it can empower developers to build stronger communities, iterate on features, and seamlessly integrate the best of open source AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Research: accelerating scientific breakthroughs to real-world impact",
+            "link": "https://blog.google/technology/research/google-research-team-tackles-big-challenges-with-science/",
+            "site_name": "Google",
+            "novelty_hash": "3ebb9023b2f80dc2571a9560e4186e5558605548"
+          },
+          "review": {
+            "headline_rewrite": "Google Research: accelerating scientific breakthroughs to real-world impact",
+            "bullets": [
+              "The magic cycle is accelerating significantly, powered by stronger models, and agentic tools, like the AI co-scientist and AI-based expert-level empirical software.",
+              "And it applies across many disciplines and domains,\nResearch is our chance — and imperative — to improve day-to-day lives, and address societal challenges and opportunities, and it means that research and innovation is never “done.”\nHere’s how Google Research’s approach is helping solve challenges in three areas that affect so many people:\n1.",
+              "Fighting cancer with AI\nChildhood leukemias and many other cancers have incredibly complex genetic signatures, requiring tailored treatments based on their specific mutations.",
+              "That’s what led to DeepSomatic, our new AI-powered tool that helps scientists and doctors spot genetic variants in cancer cells.",
+              "For example, without any training on the brain cancer glioblastoma, DeepSomatic was able to pinpoint which genetic variants cause it.",
+              "In collaboration with Yale and Google DeepMind, we also introduced Cell2Sentence-Scale 27B, a new 27-billion-parameter AI model based on Gemma that understands the language of individual cells."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New updates and more access to Google Earth AI",
+            "link": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
+            "site_name": "Google",
+            "novelty_hash": "f30d9fb6a66a6467737311d87fb769e63368662b"
+          },
+          "review": {
+            "headline_rewrite": "New updates and more access to Google Earth AI",
+            "bullets": [
+              "New updates and more access to Google Earth AI\nWhen disasters strike, Google products like Search and Maps help billions of people make critical decisions to stay safe.",
+              "This is all made possible by our geospatial AI models, not only for floods and wildfires, but cyclones, air quality and many more.",
+              "We recently introduced Google Earth AI, bringing together these geospatial models to help tackle the planet's most critical needs.",
+              "Earth AI is built on decades modeling the world, combined with state of the art predictive models and Gemini’s advanced reasoning, letting enterprises, cities and nonprofits achieve deeper understanding in minutes — efforts that previously required complex analytics and years of research.",
+              "Today, we’re advancing Earth AI’s innovations and capabilities, and expanding access around the globe.",
+              "That’s the idea behind Geospatial Reasoning, a framework powered by Gemini that now lets AI automatically connect different Earth AI models — like weather forecasts, population maps and satellite imagery — to answer complex questions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
+            "link": "https://techcrunch.com/2025/10/23/sora-update-to-bring-ai-videos-of-your-pets-new-social-features-and-soon-an-android-version/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b42e80312a432e4eb8ce2356aa8fddb27e7d10aa"
+          },
+          "review": {
+            "headline_rewrite": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
+            "bullets": [
+              "OpenAI is teasing a series of updates coming to its viral app for AI-generated videos, Sora, which recently shot to the top of the App Store after a late September launch.",
+              "The app, which remains at No.",
+              "The term “cameo” refers to the Sora feature where users can make AI personas of themselves after providing the app with a recorded video as a reference file.",
+              "These cameos can be shared with friends and others, allowing them to make videos with your AI character.",
+              "The company says it’s working to reduce the excessive moderation of generations, which some users have complained is too strict, and improve the overall app performance.",
+              "Though the app is currently listed on the Google Play Store for pre-registration, OpenAI hasn’t yet shared a launch date for its arrival."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s bets on carbon capture power plants, which have a mixed record",
+            "link": "https://techcrunch.com/2025/10/23/googles-bets-on-carbon-capture-power-plants-which-have-a-mixed-record/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3ba79d7a24d39b04d7ae45d86b81c38dfd96c797"
+          },
+          "review": {
+            "headline_rewrite": "Google’s bets on carbon capture power plants, which have a mixed record",
+            "bullets": [
+              "Google said today that it will invest in a natural gas power plant in Illinois that intends to capture the majority of its carbon emissions.",
+              "Google intends to capture “approximately 90%” of the CO2 generated by the power plant, the company said.",
+              "ADM said the leak was the result of corrosion at a monitoring well, E&E News reported, and they’ve since resumed injections.",
+              "CCS, when it works, can help mitigate pollution from burning natural gas to generate power, but it won’t do anything to address the methane leaks that occur throughout the natural gas supply chain."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meet Mico, Microsoft&#8217;s AI version of Clippy",
+            "link": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy",
+            "site_name": "The Verge",
+            "novelty_hash": "53bb94e99bbd2361c4d8d3a5c25940b2e410fbd5"
+          },
+          "review": {
+            "headline_rewrite": "Meet Mico, Microsoft&#8217;s AI version of Clippy",
+            "bullets": [
+              "The technology still wasn’t quite there a decade ago, but now Microsoft is ready to try again with Mico, a new character for Copilot’s voice mode.",
+              "Meet Mico, Microsoft’s AI version of Clippy\nCopilot now has its own virtual character for its voice mode.",
+              "“Clippy walked so that we could run,” jokes Jacob Andreou, corporate VP of product and growth at Microsoft AI, in an interview with The Verge.",
+              "“You can see it, it reacts as you speak to it, and if you talk about something sad you’ll see its facial expressions react almost immediately,” explains Andreou.",
+              "“All the technology fades into the background, and you just start talking to this cute orb and build this connection with it.”\nMico will only be available in the US, UK, and Canada at launch, and this new Copilot virtual character will also rely on a new memory feature inside Copilot to be able to surface facts it has learned about you and the things you’re working on.",
+              "Mico is all part of a goal to give Copilot an identity, as Microsoft AI CEO Mustafa Suleyman alluded to earlier this year."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
