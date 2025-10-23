@@ -205510,6 +205510,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:45": [
+        {
+          "item": {
+            "title": "Google Research: accelerating scientific breakthroughs to real-world impact",
+            "link": "https://blog.google/technology/research/google-research-team-tackles-big-challenges-with-science/",
+            "site_name": "Google",
+            "novelty_hash": "3ebb9023b2f80dc2571a9560e4186e5558605548"
+          },
+          "review": {
+            "headline_rewrite": "Google Research: accelerating scientific breakthroughs to real-world impact",
+            "bullets": [
+              "The magic cycle is accelerating significantly, powered by stronger models, and agentic tools, like the AI co-scientist and AI-based expert-level empirical software.",
+              "And it applies across many disciplines and domains,\nResearch is our chance — and imperative — to improve day-to-day lives, and address societal challenges and opportunities, and it means that research and innovation is never “done.”\nHere’s how Google Research’s approach is helping solve challenges in three areas that affect so many people:\n1.",
+              "Fighting cancer with AI\nChildhood leukemias and many other cancers have incredibly complex genetic signatures, requiring tailored treatments based on their specific mutations.",
+              "That’s what led to DeepSomatic, our new AI-powered tool that helps scientists and doctors spot genetic variants in cancer cells.",
+              "For example, without any training on the brain cancer glioblastoma, DeepSomatic was able to pinpoint which genetic variants cause it.",
+              "In collaboration with Yale and Google DeepMind, we also introduced Cell2Sentence-Scale 27B, a new 27-billion-parameter AI model based on Gemma that understands the language of individual cells."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Announcing the 2025 Google PhD Fellows",
+            "link": "https://blog.google/outreach-initiatives/google-org/phd-fellowship-program-2025/",
+            "site_name": "Google",
+            "novelty_hash": "6b627f44b7b080e8ec69aaffabcc37162f8b5372"
+          },
+          "review": {
+            "headline_rewrite": "Announcing the 2025 Google PhD Fellows",
+            "bullets": [
+              "Google.org is providing over $10 million to support 255 PhD students across 35 countries and 12 research domains, committing to a generation of researchers who understand that accelerating scientific discovery is vital to solving the world’s toughest challenges.",
+              "We equip our fellows with funding, dedicated support from a Google Mentor, and connections to a broad research community, all of which enable long-term partnerships that foster innovation across the scientific continuum.",
+              "This year, we have expanded our reach to countries in Latin America and the Middle East, alongside eight existing regions, with the aim to strengthen and support research ecosystems around the world.",
+              "Here’s a look at past and present fellows who are shaping the future of the technology landscape:\nSupport from the PhD Fellowship Program enables researchers to focus on ambitious, high-impact work.",
+              "With its global reach, the PhD Fellowship Program aims to support research communities around the world and foster collaborative ecosystems."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
+            "link": "https://techcrunch.com/2025/10/23/sora-update-to-bring-ai-videos-of-your-pets-new-social-features-and-soon-an-android-version/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b42e80312a432e4eb8ce2356aa8fddb27e7d10aa"
+          },
+          "review": {
+            "headline_rewrite": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
+            "bullets": [
+              "OpenAI is teasing a series of updates coming to its viral app for AI-generated videos, Sora, which recently shot to the top of the App Store after a late September launch.",
+              "The app, which remains at No.",
+              "The term “cameo” refers to the Sora feature where users can make AI personas of themselves after providing the app with a recorded video as a reference file.",
+              "These cameos can be shared with friends and others, allowing them to make videos with your AI character.",
+              "The company says it’s working to reduce the excessive moderation of generations, which some users have complained is too strict, and improve the overall app performance.",
+              "Though the app is currently listed on the Google Play Store for pre-registration, OpenAI hasn’t yet shared a launch date for its arrival."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
+            "link": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4f09f3e1714f0715d632e2a949174b1530e49f0d"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
+            "bullets": [
+              "Microsoft has a new Clippy, and it’s an AI friend called Mico.",
+              "At the company’s Copilot fall release press event on Thursday, the company introduced a range of new features and updates for its AI chatbot, but one that telegraphed how the tech giant intends to bring AI to consumers was the official introduction of its AI chatbot’s “face” — an expressive avatar blob named Mico.",
+              "The company explains that Mico (its name a nod to “Microsoft Copilot”) is meant to offer consumers a “warm” and “customizable” visual presence that “listens, reacts, and even changes colors to reflect your interactions.”\nIf the talking AI helper immediately brings to mind Microsoft’s infamous productivity assistant, Clippy, you wouldn’t be wrong in thinking that.",
+              "It’s initially available in the U.S., Canada, and the U.K., and will be able to save memories of your conversations and learn from your feedback, Microsoft says.",
+              "We’re building AI that gets you back to your life.",
+              "That earns your trust,” wrote CEO of Microsoft AI, Mustafa Suleyman, in an announcement."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+            "link": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
+            "site_name": "The Verge",
+            "novelty_hash": "f1fd4f5981e830ca1b470625b764624f99cd11f4"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+            "bullets": [
+              "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting.",
+              "The upgrade for all paid subscribers should make Claude more useful and convenient.",
+              "Max subscribers will be able to turn on Claude’s “memory” in their settings from today, Anthropic said.",
+              "The feature, which has been available to Team and Enterprise users since September, lets Claude remember details from previous chats.",
+              "Pro subscribers will see the memory feature “roll out over the coming days,” Anthropic said.",
+              "The company did not say whether it plans to make the feature available to free users in the future."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump eyes government control of quantum computing firms with Intel-like deals",
+            "link": "https://arstechnica.com/tech-policy/2025/10/trumps-industry-meddling-may-give-us-a-stake-in-quantum-computing-firms/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2fa66d81dadbd7780ced29a0ef26680a2accbf58"
+          },
+          "review": {
+            "headline_rewrite": "Trump eyes government control of quantum computing firms with Intel-like deals",
+            "bullets": [
+              "Donald Trump is eyeing taking equity stakes in quantum computing firms in exchange for federal funding, The Wall Street Journal reported.",
+              "At least five companies are weighing whether allowing the government to become a shareholder would be worth it to snag funding that the Trump administration has “earmarked for promising technology companies,” sources familiar with the potential deals told the WSJ.",
+              "IonQ, Rigetti Computing, and D-Wave Quantum are currently in talks with the government over potential funding agreements, with minimum awards of $10 million each, some sources said.",
+              "No deals have been completed yet, sources said, and terms could change as quantum-computing firms weigh the potential risks of government influence over their operations.",
+              "If the deal goes through, the US would become Intel’s largest shareholder, the WSJ noted, potentially influencing major decisions that could prompt layoffs or restrict business in certain foreign markets.",
+              "chief executive Yuping Huang told the WSJ that “the government’s potential equity stakes in companies in the industry are exciting.” The funding could be one of “the first significant signs of support for the sector from Washington,” the WSJ noted, potentially paving the way for breakthroughs such as Google’s recent demonstration of a quantum algorithm running 13,000 times faster than a supercomputer."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
