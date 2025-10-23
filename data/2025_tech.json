@@ -203829,6 +203829,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "15:11": [
+        {
+          "item": {
+            "title": "Introducing AWS RTB Fabric for real-time advertising technology workloads",
+            "link": "https://aws.amazon.com/blogs/aws/introducing-aws-rtb-fabric-for-real-time-advertising-technology-workloads/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "41c52ad63d8811f7934470a566553f66703ef664"
+          },
+          "review": {
+            "headline_rewrite": "Introducing AWS RTB Fabric for real-time advertising technology workloads",
+            "bullets": [
+              "Modules support containerized applications and foundation models (FMs) that can enhance transaction efficiency and bidding effectiveness.",
+              "At launch, AWS RTB Fabric includes modules for optimizing traffic management, improving bid efficiency, and increasing bid response rates, all running inline within the service for consistent low-latency execution.",
+              "Others have turned to cloud infrastructure to gain elasticity and scale, but they often face complex provisioning, partner-specific connectivity, and long-term commitments to achieve cost efficiency.",
+              "AWS RTB Fabric solves these challenges by providing a managed private network built for RTB workloads that delivers consistent performance, simplifies partner onboarding, and achieves predictable cost efficiency without the burden of maintaining colocation or custom networking setups.",
+              "Using the AWS RTB Fabric API, you can create optimized, private connections to exchange RTB traffic securely across different environments.",
+              "External Links are also available to connect with partners who aren’t using RTB Fabric, such as those operating on premises or in third-party cloud environments."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "This ‘Privacy Browser’ Has Dangerous Hidden Features",
+            "link": "https://www.wired.com/story/universe-browser-malware-gambling-networks/",
+            "site_name": "WIRED",
+            "novelty_hash": "590eb6f1f40af9f2291f2a969e6b7f4aaf5292bd"
+          },
+          "review": {
+            "headline_rewrite": "This ‘Privacy Browser’ Has Dangerous Hidden Features",
+            "bullets": [
+              "The browser, which is linked to Chinese online gambling websites and is thought to have been downloaded millions of times, actually routes all internet traffic through servers in China and “covertly installs several programs that run silently in the background,” according to new findings from network security company Infoblox.",
+              "“The threat is ultimately becoming more serious and concerning, and this is one example of where we see that.”\nUnder the Hood\nThe Universe Browser was first spotted—and mentioned by name—by Infoblox and UNODC at the start of this year when they began unpacking the digital systems around an online casino operation based in Cambodia, which was previously raided by law enforcement officials.",
+              "Infoblox, which specializes in domain name system (DNS) management and security, detected a unique DNS fingerprint from those systems that they linked to Vault Viper, making it possible for the researchers to trace and map websites and infrastructure linked to the group.",
+              "Tens of thousands of web domains, plus various command-and-control infrastructure and registered companies, are linked to Vault Viper activity, Infoblox researchers say in a report shared with WIRED.",
+              "Time and time again, they came across the Universe Browser online.",
+              "There are desktop versions available for Windows, as well as an app version in Apple’s App Store."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best noise-canceling headphones for 2025",
+            "link": "https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html",
+            "site_name": "Engadget",
+            "novelty_hash": "b5229173daf73765cdc69ffcfb31972f82b08efc"
+          },
+          "review": {
+            "headline_rewrite": "The best noise-canceling headphones for 2025",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Whether you're working in a noisy office, commuting on a packed train or just trying to focus at home, a good pair of noise-canceling headphones can make all the difference.",
+              "You’ll also get lossless audio over USB-C, putting the QC Ultra Headphones on the same level at Apple’s AirPods Max and others.",
+              "We also noticed in our tests that the company made noticeable improvements to the active noise cancellation, thanks to a new QN3 chip.",
+              "Its battery life remains the same 30 hours as its predecessor, which is more than enough to get you through several days of work or long international flights.",
+              "- Improved sound\n- Better ANC performance\n- Tons of handy features\n- Supremely comfy\n- Price has increased again\n- Speak-to-Chat still needs work\n- Call quality suffers in loud environments\nConnectivity: Bluetooth | ANC type: Hybrid | Customizable ANC: Yes | Max battery life with ANC: 35 hours | Transparency mode: Yes | Weight: 192 grams | Collapsible: No (ear cups swivel flat but do not fold inward)\nRead our full Sony WH-CH720N review\nThe WH-CH720N won’t win any design awards with these over-ear headphones, but what you get for the price is well worth some aesthetic sacrifices."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology Oct 23, 2025 ‘I wouldn’t be surprised if…’: Nvidia CEO Jensen Huang on future of AI workforce",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/i-wouldnt-be-surprised-if-nvidia-ceo-jensen-huang-on-future-of-ai-workforce/articleshow/124758721.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "4da45b1f73df2dc1ae5abf5873bb51b0987ec91e"
+          },
+          "review": {
+            "headline_rewrite": "Technology Oct 23, 2025 ‘I wouldn’t be surprised if…’: Nvidia CEO Jensen Huang on future of AI workforce",
+            "bullets": [
+              "According to the tech executive, in future, artificial intelligence (AI) agents will work alongside human employees as well as go through formal hiring and onboarding processes to absorb a company's culture.",
+              "He has estimated the potential market for new, \"agentic\" AI workforce may be worth trillions of dollars.",
+              "In a recent interview with Citadel Securities, Huang said that he envisions a future workforce populated by digital nurses, accountants, lawyers and marketers.",
+              "Huang says HR work will go digital\nHuang detailed the integration of these new digital hires, suggesting they will need to be properly introduced to the company's culture, philosophies, and practicesâjust like human employees.",
+              "âI tell my CIO, our companyâs IT department, theyâre going to be the HR department of agentic AI in the future,â he said.",
+              "These AI workers could come from various platforms, with Huang name-checking providers like OpenAI, Harvey, OpenEvidence, Cursor, Replit, and Lovable."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "47e6d335d61d344729f9f46277f5c3e2b5d734f5"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "Metro\nNYC mayoral candidate quits radio gig in on-air shouting matchNews Showcase\nStories selected by newsroom editors\nWhat to know in Baton Rouge\nToday's Rundown\nEspañola Public Schools\nDixon parents decry district's elementary school closure planSanta Fe Int'l Film Festival\nThese movies earned awards at the international film festivalCrime\nSanta Fe firefighter accused of taking law into his own hands Council Approves Water Quality Report\nWednesday Evening Update 10-22-2025\nSauk Valley\nGRAND FORKS ND NEWS\nLATEST CALIFORNIA NEWS\nPittsburgh Does\nRob Taylor Jr.",
+              "Go out of your gourd at the 'Great Pumpkin Smash'Politics and Business\nLiving Classrooms Foundation launches $70M fund driveBaltimore City\nGuaranteed income pilot helped young, low-income familiesNews, art & life in Fayetteville, Arkansas\nLatest news around Maryland\nTARIFFS\nEscalation in trade war\nUS weighs software export curbs on China, sources sayUS tariffs cut German exports\nChina overtakes US as Germany's top trading partnerNew chapter in negotiations\nTrump could meet Brazil's Lula in MalaysiaSan Diego Wednesday Evening Report\nWant damages assessed\nLawmakers demand answers on live artillery shot over I-5Fundraiser for family\nBoy killed in San Carlos identified as Andrew Olsen, 11Patio parties anger neighbors\nNumber One becomes flashpoint in LGBTQ Cultural DistrictBRAINERD MINNESOTA NEWS\nOctober 22, 2025\nPublic Education\nRegion One feared they could lose GEAR UP funding.",
+              "Instead, they found bipartisan support.Guest Column\nCanales: A Call to Action: Using Prop 14 for Dementia Research to Support Texas' FutureBorder Life\nVillarreal: SpaceX's workforce is going to jump from 4,300 to 8,000 over the next yearWednesday News Roundup - Evening Edition\nThe Herald News\nWill County to host one-day textile collection event FridayThe Herald News\nEl Flamingo filling Louis Joliet Mall restaurant spotThe Herald News\nMorris volleyball uses balanced attack to sweep KanelandWhat Utah is buzzing about\nWe still don't know\nWhat caused Intermountain Medical Center power outage?Utah environmental crisis\nCan the Great Salt Lake be saved in time for Winter Olympics?Misleading members?",
+              "Supreme CourtDaily Briefing\nMountain View Voice\nOct 22 2025, 10:40 AM\nSanta Clara County will create ICE-free zonesOct 22 2025, 10:17 AM\nObituaries: Local residents who died recentlyOct 22 2025, 10:15 AM\nChess grandmaster who grew up in Bay Area dies at 29Danville San Ramon\nOct 22 2025, 11:22 AM\nLivermore High alum, girlfriend guilty in Tracy murder trialOct 22 2025, 11:19 AM\n‘Lemme at ’em!’ See Scrappy Doo at Tri-Valley Animal RescueOct 22 2025, 11:17 AM\nVictim in Danville fatal fire ID’d; investigation ongoingTrending in Olathe\nThe Central Valley's News Source\nCustody Tragedy\nFresno Man in Custody Fatally Shoots Himself With Officer’s Gun White House 2028\nNewsom Gains Ground on Vance in Early 2028 PollSecond Amendment\nMadera County Becomes Second Amendment SanctuaryLatest and Local – Gillette, WY\nDaily updates from 🌈 America's LGBTQ newspaper\nJAMESTOWN ND NEWS\nWednesday's news in Arlington, Virginia\nNews\nWashington Examiner\nAfter weekend violence in Chicago, Trump calls for bringing in ‘the federal government’Washington Examiner\nCuomo and Sliwa turn up heat on Mamdani in final NYC mayoral debate before early votingWashington Examiner\nHegseth announces second strike on ‘terrorist’ vessel in Pacific OceanDaily News\nEnvironment & Nature\nUniversity of Iowa water sensor program will get funding from…Local Government\nHistoric Sanxay-Gilmore house will be preserved after Iowa…Campaigns & Elections\nIowa governor candidate Rob Sand ends statewide tour with…Luxury Real Estate News\nCobb Courier Evening Update October 22, 2025\nCommunity Life\nBattery Atlanta releases its schedule of holiday eventsMunicipal & PSC elections\nCobb elections reports on progress of early votingAdopt, Don't Shop!",
+              "7thNew York City News Today\nDaily Dose of Neighborhood News 10.22.25\nCitywide\nIn ICE’s Expanding Chicago Blitz, Federal Authorities Turn Resistance Into A CrimeLogan Square, Humboldt Park, Avondale\nHumboldt Park Teen Wins 'Courage' Award For Teaching Her High School Chemistry ClassBlock Club Eats\nGiordano’s Launches Tavern-Style Pizza With Cheese Folded Into The DoughDICKINSON ND NEWS\nThe latest news in Oakland\nFederal immigration operation\nTrump is sending federal agents to Bay Area starting ThursdayMaintaining attendance\nEnrollment is up in OUSD for the first time in 8 yearsFuture vision for I-980\nCaltrans issues I-980 survey results ahead of ‘block party’What to know in New Orleans\nAfternoon rundown\nCRIME/PUBLIC SAFETY\nCoeur d'Alene teen pleads guilty to planning attack in support oGONZAGA BASKETBALL\nAttorney with strong record against NCAA to serve at injunctionTRANSPORTATION\nWestbound I-90 near Cle Elum closed after crash causes 'significBKReader: Brooklyn Reader - Latest\nZeroSpace in Gowanus will t...",
+              "The Other Art Fair Brings 130 Independent Artists to Brookly...Independent mayoral candida..."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "d00fb3b1ce951643d20d03b1ce7ef6e6c2f892bb"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Cisco AI Readiness Index highlights leaders in AI adoption and infrastructure\nA Cisco report reveals 'Pacesetter' companies are leading in AI adoption, achieving significant gains in profitability and innovation.",
+              "These leaders prioritize AI roadmaps, flexible networks, and robust security, with 71% in India reporting positive impacts.",
+              "While many Indian firms plan AI agent deployment, infrastructure challenges like 'AI Infrastructure Debt' remain a concern."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
