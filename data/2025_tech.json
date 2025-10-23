@@ -206470,6 +206470,119 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:45": [
+        {
+          "item": {
+            "title": "OpenAI buys Sky, an AI interface for Mac",
+            "link": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "90c6a6475d2438f84efa6d0350db0eada2bb9545"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI buys Sky, an AI interface for Mac",
+            "bullets": [
+              "OpenAI announced on Thursday it has acquired Software Applications, Inc., the makers of an AI-powered natural language interface for Mac computers called Sky.",
+              "The software product, which had not been released to the public, is designed to work alongside you throughout your day, as you use apps on the computer, writing, planning, coding, and more.",
+              "Similar to AI browsers, Sky can see what’s on the your screen and take action in your apps for you.",
+              "The move is a significant step toward embedding OpenAI’s technology into consumers’ everyday lives and within businesses that run on Mac.",
+              "With LLMs, we can finally put the pieces together.",
+              "That’s why we built Sky, an AI experience that floats over your desktop to help you think and create."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Instagram users can now use Meta AI editing tools directly in IG Stories",
+            "link": "https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fa91957fcd2f0a735cd6eb61a9354c7c63212ec5"
+          },
+          "review": {
+            "headline_rewrite": "Instagram users can now use Meta AI editing tools directly in IG Stories",
+            "bullets": [
+              "Meta is bringing its AI-powered photo and video editing tools directly to Instagram Stories, allowing users to enter text prompts to add or remove things in photos and videos or even change it completely.",
+              "While Meta has already offered image editing capabilities on Instagram, those tools were limited to interactions with the Meta AI chatbot.",
+              "The new features can be found in the “Restyle” menu located at the top of Instagram Stories when tapping the paintbrush icon.",
+              "For instance, Meta explains you can ask it to change your hair color, add a crown to your head, or insert a sunset background.",
+              "It’s important to note that when you’re using Meta AI on Instagram, you’re accepting Meta’s AI Terms of Service, which allow your media and facial features to be analyzed by AI.",
+              "According to these terms, when you upload your photos, Meta can “summarize image contents, modify images, and generate new content based on the image.”\nMeta continues to introduce AI updates to remain competitive in the market."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is turning on the gas for its data centers",
+            "link": "https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture",
+            "site_name": "The Verge",
+            "novelty_hash": "166cbcdb22f914a057f36615b3b7c0a83df2cbbb"
+          },
+          "review": {
+            "headline_rewrite": "Google is turning on the gas for its data centers",
+            "bullets": [
+              "It’ll be paired with carbon capture and storage (CCS), technology meant to filter carbon dioxide from smokestack emissions and then store it underground so that the greenhouse gas doesn’t build up in the atmosphere.",
+              "There’s also a healthy amount of skepticism over whether CCS will only prolong dependence on fossil fuels rather than encouraging a transition to more sustainable sources of energy, like solar and wind power.",
+              "The US Department of Energy (DOE) has burned through hundreds of millions of dollars on failed CCS projects, according to a 2021 report by the Government Accountability Office.",
+              "And the CO2 will be sequestered a mile underground in a well near the power plant, rather than sold as a product for enhanced oil recovery.",
+              "Google claims Broadwing will be able to permanently store about 90 percent of the carbon dioxide emissions the plant generates, a figure higher than many other CCS projects have been able to achieve to date.",
+              "Methane routinely leaks from oil and gas wells and pipelines, a problem that merely capturing CO2 at a power plant fails to solve."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can get three months of Audible’s subscription for $3",
+            "link": "https://www.theverge.com/tech/805665/audible-premium-plus-subscription-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "4eed9897d3f64243d19e26c25c9c2c9c6e7067b2"
+          },
+          "review": {
+            "headline_rewrite": "You can get three months of Audible’s subscription for $3",
+            "bullets": [
+              "The subscription includes one credit per month, enough for one audiobook, and each redemption will remain in your library even if you end the service.",
+              "The deal is available until December 17th at 2:59AM ET / 11:59PM PT, and saves you around $41 once the monthly discounts have concluded."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Our Favorite Compact Pod Coffee Maker Is $30 Off",
+            "link": "https://www.wired.com/story/keurig-k-mini-deal-1025/",
+            "site_name": "WIRED",
+            "novelty_hash": "58537e6543580abc809d455596a6065a659f61f2"
+          },
+          "review": {
+            "headline_rewrite": "Our Favorite Compact Pod Coffee Maker Is $30 Off",
+            "bullets": [
+              "That's a healthy $30 discount on your morning cup of brew, as long as you aren't too picky about the particulars, or just want an afternoon lift in your home office without getting out of your chair.",
+              "Beyond its exceptionally compact footprint, the Keurig K-Mini is also super simple and straightforward to use.",
+              "While the K-Mini is available in a variety of colors, I was able to find the $30 discount on Black, Oasis, and Evergreen."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "China's latest five-year plan aims for technological self-reliance",
+            "link": "https://www.engadget.com/big-tech/chinas-latest-five-year-plan-aims-for-technological-self-reliance-194551489.html",
+            "site_name": "Engadget",
+            "novelty_hash": "3a1cfc9bcd521a07492caa299313c347b35140a9"
+          },
+          "review": {
+            "headline_rewrite": "China's latest five-year plan aims for technological self-reliance",
+            "bullets": [
+              "China's new five-year plan — an overarching policy proposal for the next term of Chinese Communist Party leadership — is focused on making the nation technologically self-reliant and less vulnerable to foreign pressure, Bloomberg reports.",
+              "The main focus of the proposal is to make China's tech and science industries self-reliant and less dependent on products created by international companies.",
+              "Bloomberg writes that the proposal is particularly interested in developing \"fields such as semiconductors and artificial intelligence\" which are currently driven in part by products from US companies like Nvidia and OpenAI.",
+              "In particular, the new plan aims to continue the growth of China's wind and solar industries and \"accelerate the all-out green transformation of economic and social development.\""
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
