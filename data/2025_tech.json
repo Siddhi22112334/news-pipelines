@@ -205631,6 +205631,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:09": [
+        {
+          "item": {
+            "title": "Google Research: accelerating scientific breakthroughs to real-world impact",
+            "link": "https://blog.google/technology/research/google-research-team-tackles-big-challenges-with-science/",
+            "site_name": "Google",
+            "novelty_hash": "a85388fafbacd8a5be1dc2c16fb5d293425a8e3b"
+          },
+          "review": {
+            "headline_rewrite": "Google Research: accelerating scientific breakthroughs to real-world impact",
+            "bullets": [
+              "The magic cycle is accelerating significantly, powered by stronger models, and agentic tools, like the AI co-scientist and AI-based expert-level empirical software.",
+              "And it applies across many disciplines and domains.",
+              "Fighting cancer with AI\nChildhood leukemias and many other cancers have incredibly complex genetic signatures, requiring tailored treatments based on their specific mutations.",
+              "That’s what led to DeepSomatic, our new AI-powered tool that helps scientists and doctors spot genetic variants in cancer cells.",
+              "For example, without any training on the brain cancer glioblastoma, DeepSomatic was able to pinpoint which genetic variants cause it.",
+              "In collaboration with Yale and Google DeepMind, we also introduced Cell2Sentence-Scale 27B, a new 27-billion-parameter AI model based on Gemma that understands the language of individual cells."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Announcing the 2025 Google PhD Fellows",
+            "link": "https://blog.google/outreach-initiatives/google-org/phd-fellowship-program-2025/",
+            "site_name": "Google",
+            "novelty_hash": "6b627f44b7b080e8ec69aaffabcc37162f8b5372"
+          },
+          "review": {
+            "headline_rewrite": "Announcing the 2025 Google PhD Fellows",
+            "bullets": [
+              "Google.org is providing over $10 million to support 255 PhD students across 35 countries and 12 research domains, committing to a generation of researchers who understand that accelerating scientific discovery is vital to solving the world’s toughest challenges.",
+              "We equip our fellows with funding, dedicated support from a Google Mentor, and connections to a broad research community, all of which enable long-term partnerships that foster innovation across the scientific continuum.",
+              "This year, we have expanded our reach to countries in Latin America and the Middle East, alongside eight existing regions, with the aim to strengthen and support research ecosystems around the world.",
+              "Here’s a look at past and present fellows who are shaping the future of the technology landscape:\nSupport from the PhD Fellowship Program enables researchers to focus on ambitious, high-impact work.",
+              "With its global reach, the PhD Fellowship Program aims to support research communities around the world and foster collaborative ecosystems."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
+            "link": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4f09f3e1714f0715d632e2a949174b1530e49f0d"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
+            "bullets": [
+              "Microsoft has a new Clippy, and it’s an AI friend called Mico.",
+              "At the company’s Copilot fall release press event on Thursday, the company introduced a range of new features and updates for its AI chatbot, but one that telegraphed how the tech giant intends to bring AI to consumers was the official introduction of its AI chatbot’s “face” — an expressive avatar blob named Mico.",
+              "The company explains that Mico (its name a nod to “Microsoft Copilot”) is meant to offer consumers a “warm” and “customizable” visual presence that “listens, reacts, and even changes colors to reflect your interactions.”\nIf the talking AI helper immediately brings to mind Microsoft’s infamous productivity assistant, Clippy, you wouldn’t be wrong in thinking that.",
+              "It’s initially available in the U.S., Canada, and the U.K., and will be able to save memories of your conversations and learn from your feedback, Microsoft says.",
+              "We’re building AI that gets you back to your life.",
+              "That earns your trust,” wrote CEO of Microsoft AI, Mustafa Suleyman, in an announcement."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s bets on carbon capture power plants, which have a mixed record",
+            "link": "https://techcrunch.com/2025/10/23/googles-bets-on-carbon-capture-power-plants-which-have-a-mixed-record/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fe4b7d5d49ec0a63a7eef307d2e49ad90c35486b"
+          },
+          "review": {
+            "headline_rewrite": "Google’s bets on carbon capture power plants, which have a mixed record",
+            "bullets": [
+              "Google said today that it will invest in a natural gas power plant in Illinois that intends to capture the majority of its carbon emissions.",
+              "Google intends to capture “approximately 90%” of the CO2 generated by the power plant, the company said.",
+              "ADM said the leak was the result of corrosion at a monitoring well, E&E News reported, and they’ve since resumed injections.",
+              "CCS, when it works, can help mitigate pollution from burning natural gas to generate power, but it won’t do anything to address the methane leaks that occur throughout the natural gas supply chain."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+            "link": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
+            "site_name": "The Verge",
+            "novelty_hash": "f1fd4f5981e830ca1b470625b764624f99cd11f4"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+            "bullets": [
+              "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting.",
+              "The upgrade for all paid subscribers should make Claude more useful and convenient.",
+              "Max subscribers will be able to turn on Claude’s “memory” in their settings from today, Anthropic said.",
+              "The feature, which has been available to Team and Enterprise users since September, lets Claude remember details from previous chats.",
+              "Pro subscribers will see the memory feature “roll out over the coming days,” Anthropic said.",
+              "The company did not say whether it plans to make the feature available to free users in the future."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.",
+            "link": "https://www.theverge.com/news/805387/warner-bros-sale-netflix-amazon-apple-interested",
+            "site_name": "The Verge",
+            "novelty_hash": "73e2702a5cfa26dc28dad95f0af0bf5ae7b2c883"
+          },
+          "review": {
+            "headline_rewrite": "Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.",
+            "bullets": [
+              "Three of the rumored potential buyers for entertainment titan Warner Bros.",
+              "Discovery as a whole or acquiring pieces of the company, like its content libraries and production assets, according to Bloomberg.",
+              "Discovery announced it was launching a “review of strategic alternatives to maximize shareholder value, in light of unsolicited interest the Company has received from multiple parties for both the entire company and Warner Bros.” According to the report, after receiving the above inquiries, as well as others from Paramount and Comcast, it’s readying nondisclosure agreements for the prospective buyers ahead of sharing financial data with them.",
+              "Paramount recently completed a tricky (and controversial) merger with Skydance Media.",
+              "If the Paramount-Skydance merger is any indication, finding a buyer that can acquire WBD as a whole could prove challenging."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
