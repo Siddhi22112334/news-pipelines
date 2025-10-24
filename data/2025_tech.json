@@ -209803,6 +209803,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:17": [
+        {
+          "item": {
+            "title": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "link": "https://blogs.nvidia.com/blog/open-source-ai-week/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "bfcfe1ea7784335dcd2590ce428e8d37e0edf0ac"
+          },
+          "review": {
+            "headline_rewrite": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+            "bullets": [
+              "NVIDIA’s on the ground at Open Source AI Week.",
+              "Stay tuned for a celebration highlighting the spirit of innovation, collaboration and community that drives open-source AI forward.",
+              "Follow NVIDIA AI Developer on social channels for additional news and insights.",
+              "NVIDIA Expands Open Access to Nemotron RAG Models 🔗\nNVIDIA is making eight NVIDIA Nemotron RAG models openly available on Hugging Face, expanding access beyond research to include the full suite of commercial models.",
+              "Developers can also access six production-grade models for text embedding, reranking and PDF data extraction — key components for real-world retrieval and document intelligence applications.",
+              "Building and Training AI Models With the Latest Open Datasets 🔗\nNVIDIA is expanding access to high-quality open datasets that help developers overcome the challenges of large-scale data collection and focus on building advanced AI systems."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI",
+            "link": "https://blogs.nvidia.com/blog/nvidia-gtc-washington-dc-2025-news/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "d08460e794287f3ac893f1f529f837593b3fa25f"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI",
+            "bullets": [
+              "Expect more than product news — expect a roadmap for how AI will reshape industries, infrastructure and the public sector.",
+              "It provides full immersion: 70+ sessions, hands-on workshops and demos covering everything from agentic AI and robotics to quantum computing and AI-native telecom networks.",
+              "Exhibits-only passes are still available.",
+              "Starting Monday, NVIDIA will live-blog the news, the color and the context, straight from the floor."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI is pitching in at this year’s World Series",
+            "link": "https://blog.google/products/google-cloud/fox-sports-major-league-baseball/",
+            "site_name": "Google",
+            "novelty_hash": "bb1e35ae226f8056c2a30686910dd3c25c6a0a48"
+          },
+          "review": {
+            "headline_rewrite": "How AI is pitching in at this year’s World Series",
+            "bullets": [
+              "How AI is pitching in at this year’s World Series\nIt’s the bottom of the ninth at the World Series.",
+              "Broadcasters like Joe Davis and John Smoltz at FOX Sports, along with their production teams, do hours of prep before each game to make sure they keep things interesting.",
+              "FOX Sports and Google Cloud worked together to build FOX Foresight, an AI platform built with Vertex AI.",
+              "FOX Foresight was then trained on data from many seasons of major league play, down to the smallest details.",
+              "This allows the production team to ask incredibly specific questions and get answers in seconds.",
+              "For example, if a certain left-handed hitter is coming up to bat, they could ask: “Who are the top five left-handed batters who played in this year’s playoffs?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Find out what’s new in the Gemini app in October's Gemini Drop.",
+            "link": "https://blog.google/products/gemini/gemini-drop-october-2025/",
+            "site_name": "Google",
+            "novelty_hash": "073e44a8ad07fdbb78329f1ac73dd3ddaa461c40"
+          },
+          "review": {
+            "headline_rewrite": "Find out what’s new in the Gemini app in October's Gemini Drop.",
+            "bullets": [
+              "Gemini Drops are our regular update on what’s new in the Gemini app.",
+              "Check out how Gemini app got better this month:\n- With Veo 3.1, you can create videos with true-to-life textures, easier camera control and dialogue with sound effects.",
+              "- Gemini 2.5 Flash updates help provide step-by-step guidance for complex topics.",
+              "Plus, get more organized responses and better image understanding for your notes or diagrams.",
+              "- In Canvas, just give Gemini a topic or upload a source, and it will generate a full set of slides — complete with a theme and relevant images."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The full breakout session agenda at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "17561c62198ef783d4f6d9f7efa08f4a3e06fb38"
+          },
+          "review": {
+            "headline_rewrite": "The full breakout session agenda at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Breakout sessions are tailored for hands-on learning and tactical takeaways.",
+              "The complete Disrupt 2025 breakout session agenda\nThe Untapped Opportunity Hidden in Business Workflows\nUmair Javed, CEO, tkxel; Marcus Torres, CPO, Quickbase; and Umair Bashir, fractional CTO, Signal\nThe biggest growth levers often hide in plain sight — inside everyday processes.",
+              "Learn how to spot and productize “boring” workflow pain points into sticky software that drives ROI and fast payback periods.",
+              "From Vibes to Velocity: How AI Tools Can Help You Achieve Your Development Goals\nTim Rogers, staff product manager, GitHub Copilot\nGo beyond demos and put AI to work in your SDLC.",
+              "We’ll dig into real patterns for using agents and copilots to reduce toil, speed reviews, and unblock teams — without sacrificing code quality or security.",
+              "Build First, Fund Later: The Founder’s Guide to Bootstrapping Breakout Startups\nTarun Raisoni, co-founder and CEO, Gruve\n2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft Outlook is getting an AI overhaul under new leaders",
+            "link": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad",
+            "site_name": "The Verge",
+            "novelty_hash": "98129aa111bec8d116c51fa2e78aacb421373a2e"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft Outlook is getting an AI overhaul under new leaders",
+            "bullets": [
+              "Outlook users have only just got over the webification of Microsoft’s email client in recent years, and already there are major changes on the horizon.",
+              "Sources familiar with Microsoft’s plans tell me that the company recently reorganized its Outlook team under new leadership with a focus on rebuilding the email client for the AI era.",
+              "Microsoft Outlook is getting an AI overhaul under new leaders\nOutlook won’t simply bolt on AI but rebuild around it.",
+              "“Instead of bolting AI onto legacy experiences, we have the chance to reimagine Outlook from the ground up,” Gaurav Sareen, corporate vice president of global experiences and platform at Microsoft, writes in an internal memo seen by Notepad.",
+              "He lays out a somewhat unclear vision of how Microsoft is going to transform its email client into more of an assistant, in a way that sounds very much like what Copilot already aspires to be.",
+              "Sareen envisions a future version of Outlook where the email client reads your messages, drafts replies, and organizes all of your time."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
