@@ -209087,6 +209087,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:18": [
+        {
+          "item": {
+            "title": "OpenAI made ChatGPT better at sifting through your work or school information",
+            "link": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update",
+            "site_name": "The Verge",
+            "novelty_hash": "ce834ad08f3233553021ce78a7b58596e9477eb2"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI made ChatGPT better at sifting through your work or school information",
+            "bullets": [
+              "OpenAI has launched a new ChatGPT feature that makes it easier to search for workspace information without switching between apps.",
+              "OpenAI made ChatGPT better at sifting through your work or school information\nThe ‘company knowledge’ update allows ChatGPT to be used as a search engine for workspace data.",
+              "The goal is to enable business users to utilize ChatGPT as a conversational search engine of sorts that can scour through all available workplace data to find what they need.",
+              "Anthropic launched a similar “Skills” tool for its own Claude AI earlier this month that aims to improve AI agent capabilities for specific work tasks.",
+              "OpenAI says the GPT‑5-powered company knowledge update was specifically trained to search multiple sources simultaneously to provide more comprehensive and accurate answers.",
+              "“Every response includes clear citations so you can see where the information came from and trust the results,” OpenAI said in its announcement."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI's recent chip deals heap more pressure on TSMC",
+            "link": "https://www.engadget.com/computing/openais-recent-chip-deals-heap-more-pressure-on-tsmc-130000194.html",
+            "site_name": "Engadget",
+            "novelty_hash": "905952eb0bae5a5fb5339b91e57d51ca4c43915e"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI's recent chip deals heap more pressure on TSMC",
+            "bullets": [
+              "In recent weeks, OpenAI has signed blockbuster deals with AMD and Broadcom to build vast numbers of AI chips.",
+              "Much of the focus has been on the financial implications, since OpenAI will need hundreds of billions of dollars to make good on its promises.",
+              "Like, the chips themselves, what that spells for the AI industry as a whole, and the added pressure on TSMC, the only chip company that can actually build this stuff.",
+              "The Deals\nOpenAI’s deal with AMD will see the chip giant build out 6 gigawatts’ (GW) worth of GPUs in the next few years.",
+              "Meanwhile, Broadcom’s deal with OpenAI will see the pair collaborate on building 10 gigawatts’ worth of AI accelerators and ethernet systems that it has designed.",
+              "The latter will be crucial to speed up connections between each individual system in OpenAI’s planned data centers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Oreo-maker Mondelez will use AI for TV ads next year",
+            "link": "https://www.theverge.com/news/806047/mondelez-ai-generated-ads",
+            "site_name": "The Verge",
+            "novelty_hash": "270a958bca3d18ee463bc3e464f8d98429331f64"
+          },
+          "review": {
+            "headline_rewrite": "Oreo-maker Mondelez will use AI for TV ads next year",
+            "bullets": [
+              "Snacking giant Mondelez is using generative AI to slash marketing costs and is preparing to release AI-generated TV ads next year, a senior executive told Reuters.",
+              "Oreo-maker Mondelez will use AI for TV ads next year\nIt’s a risk given fierce backlash some AI ads have provoked, like Coca-Cola’s 2024 Christmas videos.",
+              "Jon Halvorson, Mondelez’s global senior vice president of consumer experience, said the company has spent more than $40 million on an AI video tool that can halve production costs.",
+              "TV ads made using the tool should be ready to air in time for the 2026 holiday season, he said, and potentially the 2027 Super Bowl.",
+              "Companies are increasingly turning to AI to cut ad spending, though results are mixed.",
+              "Last year, Coca-Cola’s AI-generated Christmas ads were savaged online as “soulless” and creepy."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Best Laptop Stands (2025): 25+ Models Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-laptop-stands/",
+            "site_name": "WIRED",
+            "novelty_hash": "42b1e14c1260aeba1129d3b614eed6f6d6bb0a2e"
+          },
+          "review": {
+            "headline_rewrite": "Best Laptop Stands (2025): 25+ Models Tested and Reviewed",
+            "bullets": [
+              "Whether you're working from home, studying at your local coffee shop, or binge-watching Andor for the sixth time, you're unfortunately setting yourself up for back, neck, and wrist strain.",
+              "As experts on the matter have explained to me, the top of your screen should be just above eye level, and your keyboard just below elbow height—an arrangement you're never going to get with a laptop computer sitting flat on your desk.",
+              "Read our guides to Best Ergonomic Mice, Best Standing Desks, Best Office Chairs, and Best Home Office Gear.",
+              "Note: The right keyboard and ergonomic mouse can prevent muscle strain.",
+              "While an office chair or standing desk can lift the height of your laptop screen, that'll mess with the angle of your elbows and wrists, which is also an ergonomic faux pas.",
+              "While you certainly can use the keyboard or touchpad of your laptop in a pinch while it's elevated on a laptop stand, it's not the best ergonomic decision."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Engadget Podcast: How to survive our AI video hellscape",
+            "link": "https://www.engadget.com/mobile/smartphones/engadget-podcast-how-to-survive-our-ai-video-hellscape-120432652.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d39f09859e0ca7ce9bee417638ef725d4a6d69dd"
+          },
+          "review": {
+            "headline_rewrite": "Engadget Podcast: How to survive our AI video hellscape",
+            "bullets": [
+              "The era of AI video is upon us, and honestly it's kind of terrifying.",
+              "Between OpenAI's Sora and official communications from the Trump White House, it's clear that we're not ready for an unending onslaught of AI video.",
+              "In this episode, Devindra and producer Ben chat with the Washington Post's technology reporter Drew Harwell and Jeremy Carrasco (AKA \"ShowtoolsAI\"), a former livestream and media producer turned AI video literacy creator.",
+              "Topics\nGoogle and Open AI’s video generation models have upended our sense of reality online, what comes next?",
+              "– 1:10\nApple’s M5 chip is a significant boost in graphics power on the Macbook Pro – 34:11\nThe iPad Pro M5 is a solid speed boost for whoever wants it – 39:36\nPreview of the Vision Pro M5 review – 44:00\nWorking on – 50:23\nPop culture Picks – 51:45\nCredits\nHost: Devindra Hardawar\nGuests: Drew Harwell and Jeremy “ShowtoolsAI” Carrasco\nProducer: Ben Ellman\nMusic: Dale North and Terrence O'Brien\nIf you buy something through a link in this article, we may earn commission."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Best 360 Cameras (2025), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-360-cameras/",
+            "site_name": "WIRED",
+            "novelty_hash": "3ff1f8ac141ba728cee700c1393618697419d24e"
+          },
+          "review": {
+            "headline_rewrite": "Best 360 Cameras (2025), Tested and Reviewed",
+            "bullets": [
+              "At this price the X3 remains a viable option for those wanting to dabble in 360 video without spending a fortune.",
+              "That said, now that the X3 and X4 can also be used as 4K action cameras, the One RS is less tempting than it used to be.",
+              "The real combo would be the the 360 lens paired with the Leica lens, but the price for that combo is considerably higher.",
+              "The main reason the Max is not one of our top picks is that the Max 2 is likely coming very soon.",
+              "If you want a Max, you're better off waiting.",
+              "Qoocam 3 Ultra for $599: It's not widely available, and we have not had a chance to try one, but Kandao's Qoocam 3 Ultra is another 8K 360 camera that looks promising, at least on paper."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
