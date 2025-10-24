@@ -209569,6 +209569,121 @@
             "impact": "Positive"
           }
         }
+      ],
+      "21:11": [
+        {
+          "item": {
+            "title": "NVIDIA GTC DC: Live Updates on What’s Next in AI",
+            "link": "https://blogs.nvidia.com/blog/nvidia-gtc-washington-dc-2025-news/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "042aba1fad2575ca39661a35c52995b1866f54a1"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA GTC DC: Live Updates on What’s Next in AI",
+            "bullets": [
+              "Expect more than product news — expect a roadmap for how AI will reshape industries, infrastructure and the public sector.",
+              "It provides full immersion: 70+ sessions, hands-on workshops and demos covering everything from agentic AI and robotics to quantum computing and AI-native telecom networks.",
+              "Exhibits-only passes are still available.",
+              "Starting Monday, NVIDIA will live-blog the news, the color and the context, straight from the floor."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI is pitching in at this year’s World Series",
+            "link": "https://blog.google/products/google-cloud/fox-sports-major-league-baseball/",
+            "site_name": "Google",
+            "novelty_hash": "bb1e35ae226f8056c2a30686910dd3c25c6a0a48"
+          },
+          "review": {
+            "headline_rewrite": "How AI is pitching in at this year’s World Series",
+            "bullets": [
+              "How AI is pitching in at this year’s World Series\nIt’s the bottom of the ninth at the World Series.",
+              "Broadcasters like Joe Davis and John Smoltz at FOX Sports, along with their production teams, do hours of prep before each game to make sure they keep things interesting.",
+              "FOX Sports and Google Cloud worked together to build FOX Foresight, an AI platform built with Vertex AI.",
+              "FOX Foresight was then trained on data from many seasons of major league play, down to the smallest details.",
+              "This allows the production team to ask incredibly specific questions and get answers in seconds.",
+              "For example, if a certain left-handed hitter is coming up to bat, they could ask: “Who are the top five left-handed batters who played in this year’s playoffs?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The full breakout session agenda at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a0e89869306a799979bf61782976dac6adaa2f4d"
+          },
+          "review": {
+            "headline_rewrite": "The full breakout session agenda at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Breakout sessions are tailored for hands-on learning and tactical takeaways.",
+              "The complete Disrupt 2025 breakout session agenda\nThe Untapped Opportunity Hidden in Business Workflows\nUmair Javed, CEO, tkxel; Marcus Torres, CPO, Quickbase; and Umair Bashir, fractional CTO, Signal\nThe biggest growth levers often hide in plain sight—inside everyday processes.",
+              "Learn how to spot and productize “boring” workflow pain points into sticky software that drives ROI and fast payback periods.",
+              "From Vibes to Velocity: How AI Tools Can Help You Achieve Your Development Goals\nTim Rogers, staff product manager, GitHub Copilot\nGo beyond demos and put AI to work in your SDLC.",
+              "We’ll dig into real patterns for using agents and copilots to reduce toil, speed reviews, and unblock teams—without sacrificing code quality or security.",
+              "Build First, Fund Later: The Founder’s Guide to Bootstrapping Breakout Startups\nTarun Raisoni, co-founder and CEO, Gruve\n2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025",
+            "link": "https://techcrunch.com/2025/10/24/ai-at-the-edge-how-startups-are-powering-the-future-of-space-at-techcrunch-disrupt-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "da2e9c8ac242027b3261d3aca806f85acf71cb42"
+          },
+          "review": {
+            "headline_rewrite": "AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025",
+            "bullets": [
+              "Emmons (The Aerospace Corporation) will unpack how AI is transforming life in orbit.",
+              "Redefining the final frontier: AI at the edge of space\nForget just rockets and satellites.",
+              "The real revolution in space isn’t in what we launch, but in the intelligence we deploy.",
+              "To truly harness it, we need more than just pipes; we need brains in orbit.",
+              "AI isn’t just optimizing missions — it’s transforming them.",
+              "2-FOR-1 DISCOUNT: Bring a +1 and save 60%\nGoogle Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans",
+            "link": "https://www.theverge.com/news/806093/dji-osmo-mobile-8-smartphone-gimbal-tracking-module",
+            "site_name": "The Verge",
+            "novelty_hash": "566340f80bb53c5aef3a8521848de0511c9cafeb"
+          },
+          "review": {
+            "headline_rewrite": "DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans",
+            "bullets": [
+              "DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans\nIt’s available now for around $126, but only in China.",
+              "Similar to other products that DJI announced this year, the company hasn’t finalized plans for a US or international release for the new Osmo Mobile 8.",
+              "“The Osmo Mobile 8 is currently only available in China, and we do not have an estimated timeline for other markets at this time,” according to DJI spokesperson Daisy Kong.",
+              "DJI has also added a counterweight mount so the gimbal remains balanced even when you use a smartphone with a large lens or when other bulky accessories are attached.",
+              "Most Popular\n- Meet Mico, Microsoft’s AI version of Clippy\n- Nike says its first ‘powered footwear’ is like an e-bike for your feet\n- GM will ditch Apple CarPlay and Android Auto on all its cars, not just EVs\n- The BrickBoy kit turns Lego’s Game Boy into a handheld emulator\n- Rivian’s first e-bike is unlike anything you’ve ever seen"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Satellite shows what’s really happening at the East Wing of the White House",
+            "link": "https://arstechnica.com/space/2025/10/satellite-shows-whats-really-happening-at-the-east-wing-of-the-white-house/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d9a5aaa9db7e7280c9aa454615d1f88f40e73ab9"
+          },
+          "review": {
+            "headline_rewrite": "Satellite shows what’s really happening at the East Wing of the White House",
+            "bullets": [
+              "“It won’t interfere with the current building,” he said in July.",
+              "“People are saying, ‘Oh, the government’s being destroyed,'” she said."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
