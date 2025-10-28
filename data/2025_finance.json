@@ -99059,5 +99059,81 @@
         }
       ]
     }
+  },
+  "2025-10-29": {
+    "runs": {
+      "00:22": [
+        {
+          "item": {
+            "title": "Big market shift: FPIs convert futures to cash shares",
+            "link": "https://www.livemint.com/market/stock-market-news/fpi-investors-convert-stock-futures-cash-shares-market-movement-nifty-f-o-sensex-11761673422804.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Big market shift: FPIs convert futures to cash shares",
+            "bullets": [
+              "Big market shift: FPIs convert futures to cash shares Huge conversion of stock futures on expiry day by FPIs results in a bloated buy",
+              "Around 122,914 stock futures contracts were closed out by FPIs on the expiry day, leaving them with 1.27 million stock futures contracts versus 1.393",
+              "This meant these futures were converted into delivery, resulting in the inflated buying figure on the stock exchange.",
+              "FPIs holding large stock futures positions kept these open, resulting in them having to take delivery of the cash shares while simultaneously closing out"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "US Fed Meeting: Date, time, when and where to watch Fed chair Jerome Powell’s speech",
+            "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-date-time-when-and-where-to-watch-fed-chair-jerome-powell-s-speech-11761671859419.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US Fed Meeting: Date, time, when and where to watch Fed chair Jerome Powell’s speech",
+            "bullets": [
+              "US Fed Meeting: The United States Federal Reserve's (US Fed's) Federal Open Market Committee (FOMC) is holding its two-day policy meeting to discuss and",
+              "As investors and policymakers around the world wait for the outcome of the Chairman Jerome Powell-led FOMC panel, the interest rates fixed by the",
+              "The US Federal Reserve has started its October 2025 two-day policy meeting to determine the key interest rates for the US economy on Tuesday,",
+              "The US Fed's policy outcome is scheduled to be made public at 2 p.m."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "TRAI, DoT agree to show caller’s real name by default to prevent frauds",
+            "link": "https://www.thehindubusinessline.com/info-tech/trai-dot-agree-to-show-callers-real-name-by-default-to-prevent-frauds/article70214129.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "TRAI, DoT agree to show caller’s real name by default to prevent frauds",
+            "bullets": [
+              "The telecom regulator TRAI has agreed with the Department of Telecom to enable, by default, the display of the original name of the caller",
+              "The DoT, however, in its reference back to TRAIi had sought modification in the recommendation, saying that CNAP service shall be available by default",
+              "TRAI \"noted\" DoT's view without countering it."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "DGFT allows self-declaration of origin under India–EFTA trade pact",
+            "link": "https://www.thehindubusinessline.com/economy/dgft-allows-self-declaration-of-origin-under-indiaefta-trade-pact/article70214137.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "DGFT allows self-declaration of origin under India–EFTA trade pact",
+            "bullets": [
+              "The commerce ministry's arm DGFT on Tuesday said it has amended a provision to facilitate domestic exporters to obtain the Certificate of Origin (CoO)",
+              "The pact was implemented on October 1.",
+              "A certificate of origin is a key document required for exports to those countries with which India has trade agreements."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
