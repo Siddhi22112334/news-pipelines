@@ -108387,5 +108387,47 @@
         }
       ]
     }
+  },
+  "2025-11-03": {
+    "runs": {
+      "00:14": [
+        {
+          "item": {
+            "title": "Wall Street week ahead: Market’s focus on Q3 earnings amid longest US government shutdown",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-market-s-focus-on-q3-earnings-amid-longest-us-government-shutdown-11762103611986.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street week ahead: Market’s focus on Q3 earnings amid longest US government shutdown",
+            "bullets": [
+              "Key companies scheduled to report their quarterly financial results include Palantir, AMD, Shopify, Uber, Amgen, Pfizer, McDonald's, Qualcomm, and Airbnb.",
+              "Beyond the corporate results, market participants will also be monitoring several important economic data releases, including the September job openings figures, manufacturing and services",
+              "The week ahead will also mark a somewhat ignominious milestone as, in the absence of any decisive action, the ongoing US government shutdown is",
+              "On November 4 (Tuesday), separate reports on US trade deficit for September, factory orders for September, and job openings for September will be released."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "ISRO targets 7 missions by March 2026, eyes first uncrewed Gaganyaan launch",
+            "link": "https://www.thehindubusinessline.com/news/science/isro-targets-7-missions-by-march-2026-eyes-first-uncrewed-gaganyaan-launch/article70233821.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "ISRO targets 7 missions by March 2026, eyes first uncrewed Gaganyaan launch",
+            "bullets": [
+              "Space industry congratulates ISRO Industry bodies on Sunday congratulated the Indian Space Research Organisation (ISRO) on the launch of CMS-03, the heaviest satellite to",
+              "At 4410 kg, the CMS-03, a replacement satellite for GSAT-7 used by the Indian Navy, was placed in the Geosynchronous Transfer Orbit (GTO) by",
+              "“The successful launch of the CMS-03 satellite by LVM3 rocket (Bahubali) is a monumental achievement for India, powerfully demonstrating our sovereign capability in launching",
+              "ATL also supplied several critical subsystems, including control electronics modules, navigation and guidance systems, electro-mechanical actuator systems, avionics power supply modules, and several other"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
