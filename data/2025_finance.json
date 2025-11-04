@@ -112351,5 +112351,43 @@
         }
       ]
     }
+  },
+  "2025-11-05": {
+    "runs": {
+      "00:20": [
+        {
+          "item": {
+            "title": "Apple readies budget Mac to rival Chromebooks, launch set for 2026",
+            "link": "https://www.thehindubusinessline.com/info-tech/apple-readies-budget-mac-to-rival-chromebooks-launch-set-for-2026/article70241550.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Apple readies budget Mac to rival Chromebooks, launch set for 2026",
+            "bullets": [
+              "Strategic shift for Apple The move would represent a strategic shift for Apple, which has historically focused on premium devices with hefty profit margins.",
+              "But Apple is facing a growing threat from Chromebooks, the low-cost laptops that run Google’s operating system, Chrome OS."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "CAFE-3 norms stir divisions among carmakers; SIAM readies unified response",
+            "link": "https://www.thehindubusinessline.com/economy/cafe-3-norms-stir-divisions-among-carmakers-siam-readies-unified-response/article70240996.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "CAFE-3 norms stir divisions among carmakers; SIAM readies unified response",
+            "bullets": [
+              "Members of the Society of Indian Automobile Manufacturers (SIAM) are busy thrashing out a consensus on the latest draft of the CAFE norms, and",
+              "Tarun Garg, Chief Operating Officer and whole-time director, Hyundai Motor India, said, “I think SIAM and BEE are under discussion, so let’s wait."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
