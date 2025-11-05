@@ -114227,6 +114227,42 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:10": [
+        {
+          "item": {
+            "title": "US Stock Market today: Wall Street gains as more firms report results, McDonald’s jumps 3%",
+            "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-gains-as-more-firms-report-results-mcdonald-s-jumps-3-11762355263851.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US Stock Market today: Wall Street gains as more firms report results, McDonald’s jumps 3%",
+            "bullets": [
+              "Wall Street gained on Wednesday, rebounding after a tech-led sell-off in the previous session, as more US firms delivered their quarterly results.",
+              "In the bond market, the yield on the 10-year Treasury rose to 4.12% from 4.09% late on Tuesday.",
+              "Taser manufacturer Axon Enterprise saw its slumped 17.3% after it forecast lower profits than expected by Wall Street analysts.",
+              "Similarly, Live Nation Entertainment stock shed 6.4% after the company’s results fell short of market forecasts."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple readies a low-cost laptop to rival Chromebooks and Windows PCs",
+            "link": "https://www.thehindubusinessline.com/specials/technophile/apple-readies-a-low-cost-laptop-to-rival-chromebooks-and-windows-pcs/article70244320.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Apple readies a low-cost laptop to rival Chromebooks and Windows PCs",
+            "bullets": [
+              "The move would represent a strategic shift for Apple, which has historically focused on premium devices with hefty profit margins.",
+              "But Apple is facing a growing threat from Chromebooks, the low-cost laptops that run Google’s operating system, Chrome OS."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
