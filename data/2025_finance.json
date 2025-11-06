@@ -116248,5 +116248,29 @@
         }
       ]
     }
+  },
+  "2025-11-07": {
+    "runs": {
+      "00:22": [
+        {
+          "item": {
+            "title": "Oil slips as investors weigh potential supply glut, weak demand",
+            "link": "https://www.livemint.com/market/commodities/oil-slips-as-investors-weigh-potential-supply-glut-weak-demand-11762448202806.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil slips as investors weigh potential supply glut, weak demand",
+            "bullets": [
+              "By Georgina McCartney HOUSTON (Reuters) -Oil prices fell on Thursday as investors weighed a potential supply glut and weakened demand in the United States,",
+              "Global oil prices fell for a third straight month in October on fears of oversupply as OPEC and its allies - known as OPEC",
+              "In the year to November 4, global oil demand rose by 850,000 barrels per day, below the 900,000 bpd projected previously by JPMorgan, the",
+              "oil consumption remains subdued,\" the note said, pointing to weak travel activity and lower container shipments."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
