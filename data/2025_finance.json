@@ -131468,7 +131468,27 @@
   },
   "2025-11-15": {
     "runs": {
-      "00:20": []
+      "00:20": [],
+      "00:44": [
+        {
+          "item": {
+            "title": "Bitcoin sinks to six-month low as risk-off sentiment persists",
+            "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-sinks-to-six-month-low-as-risk-off-sentiment-persists-11763147432799.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Bitcoin sinks to six-month low as risk-off sentiment persists",
+            "bullets": [
+              "interest rates at its upcoming policy meeting.",
+              "\"If there is no enthusiasm toward risk-taking, it seems like that also translates into hesitation with bitcoin and the like.\" Risky assets overall have",
+              "Kansas City Fed President Jeffrey Schmid, a voter on the policy-setting Federal Open Market Committee, was the latest central bank official to express doubts",
+              "He said on Friday his concerns about \"too hot\" inflation go well beyond the narrow effects of tariffs alone."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
