@@ -136223,6 +136223,43 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:48": [
+        {
+          "item": {
+            "title": "US Stock Market Today: Wall Street mixed as investors eye Nvidia and retailer earnings, Alphabet jumps 5.2%",
+            "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-mixed-as-investors-eye-nvidia-and-retailer-earnings-alphabet-jumps-52-11763391810446.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US Stock Market Today: Wall Street mixed as investors eye Nvidia and retailer earnings, Alphabet jumps 5.2%",
+            "bullets": [
+              "These results will be closely watched for signs of how consumers are coping as President Donald Trump’s tariffs take effect.",
+              "Market participants will also be eagerly anticipating the minutes from the Federal Reserve’s October policy meeting as they assess the probability of further interest",
+              "In the bond market, the yield on the 10-year Treasury was steady at 4.14%.",
+              "Alphabet stock jumped 5.2% after Berkshire Hathaway announced it built a $4.34 billion ownership stake in Google’s parent company."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Azimuth AI, Cyient Semiconductors launch IP-powered silicon chip",
+            "link": "https://www.thehindubusinessline.com/info-tech/azimuth-ai-cyient-semiconductors-launch-ip-powered-silicon-chip/article70291443.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Azimuth AI, Cyient Semiconductors launch IP-powered silicon chip",
+            "bullets": [
+              "Azimuth AI, an embedded silicon company, and Cyient Semiconductors have launched ARKA GKT-1, the country’s first-generation intelligent power platform-on-a-chip, designed for high-efficiency edge AI",
+              "The chip was launched by Union IT and Electronics Minister Ashwini Vaishnaw in New Delhi on Monday.",
+              "“ARKA GKT-1 integrates multi-core custom computing, advanced analog sensing, memory and intelligent power management into a single, highly energy-efficient SoC (System-on-a-Chip),” a statement said."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
