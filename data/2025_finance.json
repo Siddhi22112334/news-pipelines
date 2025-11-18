@@ -138228,5 +138228,28 @@
         }
       ]
     }
+  },
+  "2025-11-19": {
+    "runs": {
+      "00:23": [
+        {
+          "item": {
+            "title": "3.3-billion-year-old life discovered using machine learning",
+            "link": "https://www.thehindubusinessline.com/news/science/33-billion-year-old-life-discovered-using-machine-learning/article70296241.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "3.3-billion-year-old life discovered using machine learning",
+            "bullets": [
+              "Scientists have detected some of the oldest signs of life on Earth using a new method that recognizes chemical fingerprints of living organisms in",
+              "The oldest definitive fossils of living organisms are mound-like microbial deposits called stromatolites about 3.5 billion years old in Australia and microbial mat structures",
+              "But such fossils are exceptionally scarce."
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
