@@ -142141,5 +142141,47 @@
         }
       ]
     }
+  },
+  "2025-11-21": {
+    "runs": {
+      "00:22": [
+        {
+          "item": {
+            "title": "Gold price today: Comex gold rates drop to $4,062/oz. Is yellow metal facing caution ahead?",
+            "link": "https://www.livemint.com/market/stock-market-news/gold-price-today-comex-gold-rates-drop-to-4-062-oz-is-yellow-metal-facing-caution-ahead-11763655755674.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold price today: Comex gold rates drop to $4,062/oz. Is yellow metal facing caution ahead?",
+            "bullets": [
+              "Experts indicate that the precious yellow metal gold is facing a cautious stage ahead, with uncertainty looming over due to the US Federal Reserve's",
+              "In India, the Multi-Commodity Exchange (MCX) data shows that the gold futures for the December 2025 contract dropped 0.61% or ₹752 per 10 grams",
+              "Geopolitical tensions, persistent central-bank buying — expected to touch 900 tonnes in 2025 — and negative real yields are all keeping gold structurally strong,”",
+              "“The MACD has turned negative and RSI has slipped below 70 on the weekly chart, indicating profit booking for the upcoming days."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Street scales a high as heavyweights fire. Will the rally last?",
+            "link": "https://www.livemint.com/market/stock-market-news/street-scales-a-high-as-heavyweights-fire-will-the-rally-continue-nifty-50-11763642821393.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Street scales a high as heavyweights fire. Will the rally last?",
+            "bullets": [
+              "The Sensex closed 0.52% higher at 85,632.68, a whisker away from its own peak of 85,836.12.",
+              "FPIs cut their net bearish index futures bets by buying back contracts worth ₹405 crore.",
+              "FPIs also turned a tad more optimistic, increasing bullish call options on Nifty and Bank Nifty to 56,530 contracts on Thursday from 22,531 the",
+              "As of Thursday, FPIs' cumulative net short index futures stood at 165,565 contracts."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
