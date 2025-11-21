@@ -144393,6 +144393,43 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "00:45": [
+        {
+          "item": {
+            "title": "Oracle share price drops below $200 level for first time since September; is this the OpenAI curse?",
+            "link": "https://www.livemint.com/market/stock-market-news/oracle-share-price-drops-below-200-level-for-first-time-since-september-is-this-the-openai-curse-11763744586428.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oracle share price drops below $200 level for first time since September; is this the OpenAI curse?",
+            "bullets": [
+              "On Thursday, Oracle stock's Relative Strength (RS) Rating got a boost to 83, from 80 the day before, an indication of a positive run.",
+              "The company outlined plans to reach $166 billion in cloud revenue by 2030, but failed to impress investors.",
+              "Around 65% of Oracle’s projected additional revenue is linked with just one customer — the ChatGPT maker."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Oil prices drop 2% to one-month low as US seeks Russia-Ukraine peace deal",
+            "link": "https://www.livemint.com/market/commodities/oil-prices-drop-2-to-one-month-low-as-us-seeks-russia-ukraine-peace-deal-11763751346554.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil prices drop 2% to one-month low as US seeks Russia-Ukraine peace deal",
+            "bullets": [
+              "By Scott DiSavino NEW YORK -Oil prices fell about 2% on Friday to a one-month low as the U.S.",
+              "pushed for a Russia-Ukraine peace deal that could boost global oil supplies, while uncertainty over U.S.",
+              "Market sentiment turned bearish as Washington pushed for a peace plan between Ukraine and Russia to end the three-year war, while sanctions on Russian",
+              "Russia was the second-biggest producer of crude oil in the world after the U.S."
+            ],
+            "impact": "Bearish"
+          }
+        }
       ]
     }
   }
