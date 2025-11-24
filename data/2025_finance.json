@@ -149842,5 +149842,44 @@
         }
       ]
     }
+  },
+  "2025-11-25": {
+    "runs": {
+      "00:24": [
+        {
+          "item": {
+            "title": "ED freezes assets over ₹500 crore of 3 gaming companies",
+            "link": "https://www.thehindubusinessline.com/info-tech/ed-freezes-assets-over-500-crore-of-3-gaming-companies/article70318942.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "ED freezes assets over ₹500 crore of 3 gaming companies",
+            "bullets": [
+              "Earlier, ED carried out search operations at various locations across Bengaluru and Gurugram between November 18 and November 22 as users lodged complaints of",
+              "ED also stated that WinZO is operating RMG in foreign countries like Brazil, USA and Germany etc., from India.",
+              "In a statement, WinZO said it is cooperating with the investigating agency and remains fully compliant with all applicable laws."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "COP30 falling short of expectations",
+            "link": "https://www.thehindubusinessline.com/data-stories/visually/cop30-falling-short-of-expectations/article70318993.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "COP30 falling short of expectations",
+            "bullets": [
+              "The global climate action forum, the COP30 meeting in Belém, Brazil, disappointed, as there was lesser emphasis on moving away from fossil fuels to",
+              "The large package to increase climate finance was the saving grace"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
