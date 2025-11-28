@@ -157221,5 +157221,28 @@
         }
       ]
     }
+  },
+  "2025-11-29": {
+    "runs": {
+      "00:19": [
+        {
+          "item": {
+            "title": "Stock market returns: These 5 stocks give up to 54% returns this week. How many of these you own?",
+            "link": "https://www.livemint.com/market/stock-market-news/stock-market-returns-these-5-stocks-give-up-to-54-returns-this-week-how-many-of-these-you-own-11764348795213.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Stock market returns: These 5 stocks give up to 54% returns this week. How many of these you own?",
+            "bullets": [
+              "Stock market returns: The benchmark Indian stock market indices ended flat on Friday, 28 November 2025, after investors booked their profits at a higher",
+              "The Nifty 50 index closed 0.05% lower at 26,202.95 points, compared to 26,215.55 points at the previous market close, as per NSE data.",
+              "Data collected from the BSE website showed that the BSE Sensex index closed 0.02% lower at 85,706.67 points, compared to 85,720.38 points at the"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
