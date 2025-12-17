@@ -192237,5 +192237,64 @@
         }
       ]
     }
+  },
+  "2025-12-18": {
+    "runs": {
+      "00:01": [
+        {
+          "item": {
+            "title": "Sebi slashes brokerage fees for mutual funds by half",
+            "link": "https://www.livemint.com/market/stock-market-news/mutual-funds-cheaper-sebi-new-rules-investor-benefits-stock-market-11765887931687.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Sebi slashes brokerage fees for mutual funds by half",
+            "bullets": [
+              "The Securities and Exchange Board of India (Sebi) cut brokerage costs that mutual funds can charge investors to 6 basis points (bps) from the",
+              "The Sebi board also scrapped the additional 5bps charged over the exit load or the fee levied when investors redeem their investments.",
+              "In October, the market regulator recommended an overhaul of brokerage and transaction fees that investors pay over and above the total expense ratio (TER),",
+              "Sebi had suggested cutting brokerage fee cap from 0.12% to 0.02% for cash-market trades and from 0.05% to 0.01% for derivatives transactions."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Sebi raises threshold for High Value Debt Listed Entities to  ₹5,000 crore; aims to ease fundraise efforts",
+            "link": "https://www.livemint.com/market/stock-market-news/sebi-raises-threshold-for-high-value-debt-listed-entities-to-rs-5-000-crore-aims-to-ease-fundraise-efforts-11765984551801.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Sebi raises threshold for High Value Debt Listed Entities to  ₹5,000 crore; aims to ease fundraise efforts",
+            "bullets": [
+              "The Securities and Exchange Board of India (Sebi), on Wednesday, 17 December, eased the threshold for High Value Debt Listed Entities (HVDLEs) in an",
+              "Sebi increased the HVDLE threshold to ₹5,000 crore through its latest amendment as the market regulator aims to facilitate the ease of doing business,",
+              "This will make it easier for regulated entities like NBCs, HFCs, ARCs, insurance companies and REITS to raise funds through corporate bond issuance,” said",
+              "According to Sebi Chairman Tuhin Kanta Pandey, the High Value Debt Listed Entities limit was ‘very low’ in relation to the debt which many"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Work days up but Centre may spend less in rural job scheme",
+            "link": "https://www.thehindubusinessline.com/economy/work-days-up-but-centre-may-spend-less-in-rural-job-scheme/article70408014.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Work days up but Centre may spend less in rural job scheme",
+            "bullets": [
+              "Participation indicators also point to a contraction in the scheme’s reach.",
+              "In Uttar Pradesh, 875 panchayats reported no MGNREGA activity this year, partly due to the merger of some rural panchayats into urban local bodies.",
+              "Devendra Kumar Pant, Chief Economist at India Ratings, said that if the VB-G RAM G Bill is enacted, the Centre’s share is likely to"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
