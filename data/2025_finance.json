@@ -208416,7 +208416,42 @@
   "2025-12-27": {
     "runs": {
       "00:24": [],
-      "00:47": []
+      "00:47": [],
+      "01:10": [
+        {
+          "item": {
+            "title": "Wall St hovers near all-time highs in light, post-holiday session",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-st-hovers-near-all-time-highs-in-light-post-holiday-session-11766777095290.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall St hovers near all-time highs in light, post-holiday session",
+            "bullets": [
+              "* Target climbs after report activist investor builds stake Nvidia rises after licensing deal with Groq and hiring its CEO Three main indexes set",
+              "indexes seesawed between slight gains and losses after five-session rally which sent the S&P 500 and the Dow to record closing highs.",
+              "Nvidia climbed 2.0% after the AI chipmaker agreed to license chip technology from startup Groq and hire its CEO."
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Silver crosses $77 mark while gold, platinum stretch record highs",
+            "link": "https://www.livemint.com/market/commodities/silver-crosses-77-mark-while-gold-platinum-stretch-record-highs-11766777403114.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Silver crosses $77 mark while gold, platinum stretch record highs",
+            "bullets": [
+              "While there is some risk of profit-taking before the year-end, the trend remains strong,\" said Peter Grant, vice president and senior metals strategist at",
+              "Gold remains poised for its strongest annual gain since 1979, underpinned by Fed policy easing, central bank purchases, ETF inflows, and ongoing de-dollarization trends."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
