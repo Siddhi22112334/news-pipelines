@@ -213674,7 +213674,26 @@
   "2025-12-30": {
     "runs": {
       "00:00": [],
-      "00:25": []
+      "00:25": [],
+      "00:47": [
+        {
+          "item": {
+            "title": "US stocks slip as tech loses steam in final week of 2025",
+            "link": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-as-tech-loses-steam-in-final-week-of-2025-11767035001217.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US stocks slip as tech loses steam in final week of 2025",
+            "bullets": [
+              "Conversely, energy stocks gained the most, up 0.9%, tracking a 2% rise in oil prices.",
+              "All three indexes are headed for firm monthly gains, with the Dow and S&P 500 on pace for their eighth consecutive month in the",
+              "All three main indexes are set for their third consecutive yearly gain."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
