@@ -215599,7 +215599,27 @@
   },
   "2025-12-31": {
     "runs": {
-      "00:01": []
+      "00:01": [],
+      "00:27": [
+        {
+          "item": {
+            "title": "European Stocks Gain With Focus on Fed Minutes, Ukraine Talks",
+            "link": "https://www.livemint.com/market/stock-market-news/european-stocks-gain-with-focus-on-fed-minutes-ukraine-talks-11767119519078.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "European Stocks Gain With Focus on Fed Minutes, Ukraine Talks",
+            "bullets": [
+              "analysts boosted their price target on the company while maintaining a buy rating, to take account of higher silver and gold prices.",
+              "“The growth outlook in the US is looking strong but there’s optimism there’ll be enough disinflation to allow the Fed to lower interest rates",
+              "basket of regional defense stocks rose 0.6%.",
+              "To subscribe to a daily list of European analyst rating changes, click here."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
