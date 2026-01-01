@@ -1853,5 +1853,27 @@
         }
       ]
     }
+  },
+  "2026-01-02": {
+    "runs": {
+      "00:25": [
+        {
+          "item": {
+            "title": "Swiss Alpine New Year bar fire kills at least 40, injures 115",
+            "link": "https://www.thehindubusinessline.com/news/world/swiss-alpine-new-year-bar-fire-kills-at-least-40-injures-115/article70461514.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Swiss Alpine New Year bar fire kills at least 40, injures 115",
+            "bullets": [
+              "Two women told French broadcaster BFMTV they were inside when they saw a male bartender lifting a female bartender on his shoulders as she",
+              "The injured were so numerous that the intensive care unit and operating theater at the regional hospital quickly hit full capacity, Reynard said."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
