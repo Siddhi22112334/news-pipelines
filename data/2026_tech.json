@@ -6936,6 +6936,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "16:49": [
+        {
+          "item": {
+            "title": "Punkt’s German-made MC03 smartphone comes to the US this spring",
+            "link": "https://www.theverge.com/tech/849740/punkt-mc03-secure-smartphone-made-in-germany",
+            "site_name": "The Verge",
+            "novelty_hash": "0a71242afa9b66de16b040b2e73f9e0770f65967"
+          },
+          "review": {
+            "headline_rewrite": "Punkt’s German-made MC03 smartphone comes to the US this spring",
+            "bullets": [
+              "Punkt, the Switzerland-based, privacy-focused phone maker, is trying the whole “smartphone” thing again.",
+              "The MC03 improves on some of the disappointing features of its previous effort, the MC02, while maintaining its security focus.",
+              "The MC03 is IP68 rated, comes with a MediaTek 7300 chipset, and is scheduled to get three OS upgrades and five years of security updates.",
+              "The parts are sourced from elsewhere, naturally, but moving assembly out of Asia is a significant feat — certainly beyond the American company that said it would in 2025.",
+              "AphyOS claims to strip away the background tracking features of Google’s services, offering proprietary apps for things like email and calendar while letting you run any app from the Play Store in a secure “sandbox.”\nThis is where the fee comes in; since you’re not the product, you’ll need to pay up.",
+              "If you plan to use the phone for a few years, that brings the cost in line with the $899 Fairphone 6 — the highly repairable device running privacy-minded software by Murena."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Trump phone just missed another release date",
+            "link": "https://www.theverge.com/news/851151/trump-phone-missed-another-release-date",
+            "site_name": "The Verge",
+            "novelty_hash": "b17682ed888eac59bcbd9c79a0c4585a82915e5f"
+          },
+          "review": {
+            "headline_rewrite": "The Trump phone just missed another release date",
+            "bullets": [
+              "As usual, we’re still waiting for a response.",
+              "The Trump phone just missed another release date\nSo much for launching ‘later this year.’\nWhen we started writing about Trump Mobile regularly, it all began with a simple post pointing out that the company’s T1 Phone had missed its original release date.",
+              "When it was announced in June, the Trump phone was promised to launch in both August and September (one of the many impossible details in the launch announcement).",
+              "The Financial Times asked Trump Mobile’s customer service about the delay, and was reportedly told that “the recent US government shutdown had delayed deliveries of the phone.” If true, that probably means the T1 Phone was, like many other gadgets, prevented from getting FCC clearance to launch.",
+              "Other delayed products, like the OnePlus 15, have since hit the market though."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You Can Track Plenty of Fitness Stats With Just Your Phone—No Wearables Required",
+            "link": "https://www.wired.com/story/track-fitness-stats-with-just-your-phone/",
+            "site_name": "WIRED",
+            "novelty_hash": "5a1378559ae1f8ebfda4b73522271b8e53673075"
+          },
+          "review": {
+            "headline_rewrite": "You Can Track Plenty of Fitness Stats With Just Your Phone—No Wearables Required",
+            "bullets": [
+              "As long as you've always got it with you, it can tell you if you're reaching that daily step count or not, with no other devices required.",
+              "You can find it from Settings by tapping Security and privacy > Privacy controls > Health Connect.",
+              "As far as automatic tracking goes, this is mainly for steps, but other data can be added manually too (and the app can send data to Health Connect).",
+              "You get detailed read-outs of sleep stages and timings, and it's another app that can pipe data into Health Connect.",
+              "It'll work with your phone by default, and you can just tap Record from the main screen to start an exercise activity."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How Protesters Became Content for the Cops",
+            "link": "https://www.wired.com/story/expired-tired-wired-protest-surveillance/",
+            "site_name": "WIRED",
+            "novelty_hash": "fc53980e553fba809a436503d0ff370c59c0745f"
+          },
+          "review": {
+            "headline_rewrite": "How Protesters Became Content for the Cops",
+            "bullets": [
+              "In 2025, protest policing in major US cities increasingly took on the character of a spectacle: overwhelming deployments, theatrical staging, and aggressive crowd-control tactics that emphasized signaling power over maintaining public safety.",
+              "After protests erupted in June over an increase in aggressive Immigration and Customs Enforcement raids, President Donald Trump ordered roughly 4,000 federalized National Guard troops into the city and activated about 700 US Marines.",
+              "Inside the Pentagon, officials rushed to draft domestic use-of-force guidance for Marines that contemplated temporary civilian detention—an unusually explicit entry into a legal gray area, paired with a highly visible show of force.",
+              "The administration’s rhetoric was not subtle—Trump cast the crackdown as an image project, calling Washington a “wasteland for the world to see,” and openly endorsing fear as a policing tactic, urging officers to “knock the hell out of them.” City leaders countered that the supposed emergency was manufactured, noting that crime in the capital was at multi-decade lows.",
+              "In city after city, “restoring order” became a flimsy euphemism for preemptive displays of force aimed at deterring dissent before it reached the streets.",
+              "The most brazen moment came when homeland security secretary Kristi Noem appeared on the facility’s roof beside armed agents and a camera crew, positioned near a sniper’s post, as arrests unfolded below."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Minimal phone pioneer Punkt is back with a new privacy-focused model at CES",
+            "link": "https://www.engadget.com/mobile/smartphones/minimal-phone-pioneer-punkt-is-back-with-a-new-privacy-focused-model-at-ces-110000705.html",
+            "site_name": "Engadget",
+            "novelty_hash": "37f7e8401effddfaee6df982dc3e39cec6c66eea"
+          },
+          "review": {
+            "headline_rewrite": "Minimal phone pioneer Punkt is back with a new privacy-focused model at CES",
+            "bullets": [
+              "The new handset continues Punkt's focus on privacy, security and digital minimalism.",
+              "What you lose in physical beauty and tactile buttons, you gain in flexibility.",
+              "As before, the smartphone runs the privacy- and security-focused AphyOS, based on the Android Open Source Project (AOSP).",
+              "Its UI includes a Light Phone-adjacent row of text for the most common shortcuts, like mail, contacts and calendar.",
+              "There's The Vault, a secure enclave for apps Punkt has vetted for privacy and security.",
+              "All the apps from another Swiss company, Proton, are available in The Vault."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "e591ae6d5f6ce9fa01cf2fc802eeefc678fa0e5f"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nWarren Buffett's retirement chevron_right\nAI stocks on the market's radar chevron_right\nMarket outlook for 2026 chevron_right\nChina's BYD EV sales chevron_right\nBusiness Insider\nBy Kathleen Elkins\nCNBC\nBy Natalie Wu\nIRS guidance on car loan interest deduction chevron_right\nTrump administration orders Colorado coal plant to stay open chevron_right\nFinancial experts offer advice for 2026 resolutions chevron_rightWant to be better about saving money in 2026?",
+              "Try these money-saving tips for having a ‘low-buy’ January and beyond\nYahoo\nBy Kaitlin Reilly\nEuropean stock market chevron_rightEuropean stocks fly again; precious metals extend sparkling rally\nReuters\nBy Vidya Ranganathan & Rae Wee\nMany retailers open with adjusted hours on New Year's Day chevron_right\nHangzhou's tech rise chevron_right\nK-shaped economy chevron_rightThe K-shaped economy of the rich doing fine and everyone else struggling is back — and it could mean a rocky 2026\nBy Juliana Kaplan & Madison Hoff\nUS dollar year chevron_right\nSpaceX, OpenAI, and Anthropic may go public in 2026 chevron_right\nJudge's ruling on CFPB funding chevron_rightJudge blocks White House’s attempt to defund the CFPB, ensuring employees get paid\nFederal News Network\nBy Ken Sweet\nNew GLP-1 weight-loss pills to be available in 2026 chevron_right2026 will bring more GLP-1 weight loss pills — and new habits.",
+              "These stocks are poised to benefit\nBy Christina Cheddar Berk\nRam 1500 SRT TRX returns with 777 horsepower chevron_right\nLabor Department reports decline in jobless claims chevron_right\nTrumpMobile gold phone delay chevron_right\nWTI oil price chevron_right\nThe Guardian\nBy Lauren Aratani\nElon Musk's Neuralink plans chevron_right\nAI's future at chipmakers chevron_rightThe Best AI Semiconductor Stock to Buy for 2026, According to Certain Wall Street Analysts (Hint: Not Nvidia or Broadcom)\nYahoo Finance\nBy Trevor Jennewine\nNvidia stock chevron_rightNvidia Stock Has Barely Budged Since the End of July.",
+              "What Gets It Going Again.",
+              "Prediction: AI stocks will rise again in 2026 and Nvidia’s share price will soar to this level\nBarron's\nBy Adam Clark\nYahoo Finance UK\nBy Edward Sheldon\nReport: Iran to sell weapons for cryptocurrency chevron_rightIran moves to accept crypto payments in weapon sales to evade sanctions: FT\nThe Block\nBy Danny Kunwoong Park\nChina warns the Netherlands over chipmaker Nexperia dispute chevron_rightChina warns the Netherlands to ‘immediately correct its mistakes’ over Nexperia saga that has disrupted auto production — chip shipments remain suspended, auto industry suffering from undersupply\nTom's Hardware\nBy Jowi Morales\nSaks Global prepares for bankruptcy after missing debt payment chevron_right\n$400,000 worth of lobster stolen from Costco chevron_right\nSouth Korea's Kospi index hits record high chevron_right\nDevyani International and Sapphire Foods to merge chevron_rightShares of KFC and Pizza Hut Indian operator Devyani jump on merger with rival franchisee Sapphire\nIndia's KFC, Pizza Hut operators to merge in $934 million deal\nBy Priyanka Salve\nBy Hritam Mukherjee & Nishit Navin\n2025 Year in Review chevron_rightThe 19 predictions that came true in 2025 — and the 4 that didn’t\nVox\nBy Dylan Matthews, Dylan Scott & Izzie Ramirez\nUS holiday shopping trends chevron_right\nNIO sets new delivery records for December and Q4 chevron_right\nJim Beam to pause production at its Kentucky plant chevron_right\nLowe's acquires Foundation Building Materials for $8.8 billion chevron_right\nCNN\nBy Katia Hetter\nPost and Courier\nBy Caitlin Bell\nBy Danielle Antosz\nInternational Business Times UK\nBy Akshay Puri\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
