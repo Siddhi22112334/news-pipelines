@@ -15045,6 +15045,60 @@
             "impact": "Negative"
           }
         }
+      ],
+      "16:17": [
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 4, 2026 Why one of America's biggest investor who predicted 2008 financial crisis thinks Nvidia may make America lose AI race to China: Nvidia chips are not ... Investor Michael Burry warns the US is on the wrong path in the AI race, citing Nvidia's energy-intensive chips and China's power generation advantage. He believes the US needs to shift from brute-force scaling to more efficient AI designs, while his firm has taken put options against Nvidia and Palantir.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/why-one-of-americas-biggest-investor-who-predicted-2008-financial-crisis-thinks-nvidia-may-make-america-lose-ai-race-to-china-nvidia-chips-are-not-/articleshow/126333769.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "f5d8f229de46240e8449fafc7b1593d2594ac830"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 4, 2026 Why one of America's biggest investor who predicted 2008 financial crisis thinks Nvidia may make America lose AI race to China: Nvidia chips are not ... Investor Michael Burry warns the US is on the wrong path in the AI race, citing Nvidia's energy-intensive chips and China's power generation advantage. He believes the US needs to shift from brute-force scaling to more efficient AI designs, while his firm has taken put options against Nvidia and Palantir.",
+            "bullets": [
+              "According to Burry, China's rapidly accelerating power-generation buildout gives it a structural edge in artificial intelligence race if the industry continues relying on increasingly energy-intensive chips.",
+              "Burry said that Nvidia has a \"death grip\" on AI development in the US, citing its extensive investments and agreements with many major AI companies and startups.",
+              "In a series of posts on X, formerly Twitter, Burry said that America is on the wrong path if its AI strategy continues to rely on increasingly energy-intensive Nvidia Corp chips.",
+              "\"Power hungry Nvidia chips are not the way forward,\" he wrote.",
+              "\"It is the slope.\"\nWhy Nvidia, according to Michael Burry, is hurting America\nMichael Burry shared 'Why China will win AI in one chart'.",
+              "He wrote: Power hungry Nvidia chips are not the way forward for the US."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "005734fa717dcabae6e1eafb72b94d8b2055ce57"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "3, 2025\nSaturday Evening Headlines 1-3-2026\nCobb Courier Evening Update January 3, 2025\nGJ Sentinel Headlines 1/3/26\nToday's Top Headlines\nSTORIES FROM MINNESOTA\nEntertainment & Arts\nAMERICAS\nSan Diego Saturday Evening Report\nSCV News from The Signal for Jan.",
+              "3, 2026\nToledo's Leader in News, Sports & Entertainment\nDaily Briefing\nStart the day with must-read news and opinion\nWeekend wrapup\nWhat to know in New Orleans\nLatest news for Edmonds\nDaily Rundown\nSauk Valley\nSaturday's news in Fairfax County\nNEWS FOR YOU\nDaily News"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
