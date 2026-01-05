@@ -20827,6 +20827,116 @@
             "impact": "Positive"
           }
         }
+      ],
+      "00:53": [
+        {
+          "item": {
+            "title": "Offshore wind developers sue Trump administration for halting $25B in projects",
+            "link": "https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bd87793039ba6057a0e8cd3d1388254951640f90"
+          },
+          "review": {
+            "headline_rewrite": "Offshore wind developers sue Trump administration for halting $25B in projects",
+            "bullets": [
+              "Dominion said it was losing $5 million per day as a result of the halt.",
+              "The Department of the Interior cited national security concerns in its decision to stop construction on the projects.",
+              "The Department of Energy had issued a report that discussed this security concern, as well as solutions to it, in February 2024.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+              "Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge.",
+              "Vineyard Wind 1 agreed to help fund radar adaptations and to curtail operations when asked by the Pentagon, for example."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Hacktivist deletes white supremacist websites live on stage during hacker conference",
+            "link": "https://techcrunch.com/2026/01/05/hacktivist-deletes-white-supremacist-websites-live-on-stage-during-hacker-conference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "94c219af03194a6cd353f933ea1a5e80d9a8f032"
+          },
+          "review": {
+            "headline_rewrite": "Hacktivist deletes white supremacist websites live on stage during hacker conference",
+            "bullets": [
+              "As of this writing WhiteDate, which Hoffmann described as a “Tinder for Nazis”; WhiteChild, a site that claimed to match white supremacists’ sperm and egg donors; and WhiteDeal, a sort-of Taskrabbit-esque labor marketplace for racists, are all offline.",
+              "The administrator also claimed that Root deleted their X account before it was restored.",
+              "The hacker said that they scraped WhiteDate’s public data and found “poor cybersecurity hygiene that would make even your grandma’s AOL account blush.” Root said that users’ images included precise geolocation metadata that “practically hands out home addresses with a side of awkward selfies.”\n“Imagine calling yourselves the ‘master race’ but forgetting to secure your own website — maybe try mastering to host WordPress before world domination,” Root wrote.",
+              "The leaked data includes users’ profiles with name, pictures, description, age, location (both containing precise coordinates and user-set country and state), gender, language, race, and other personal information that users uploaded.",
+              "Root wrote on the site that “for now” there are no emails, passwords or private conversations.",
+              "Root infiltrated the sites using AI chatbots that bypassed verification processes and were verified as “white,” according to the talks’ abstract."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Lego announces Smart Brick, the &#8216;most significant evolution&#8217; in 50 years",
+            "link": "https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years",
+            "site_name": "The Verge",
+            "novelty_hash": "2c5b351bc98f892ffc660c62625990177d3c914c"
+          },
+          "review": {
+            "headline_rewrite": "Lego announces Smart Brick, the &#8216;most significant evolution&#8217; in 50 years",
+            "bullets": [
+              "When it detects NFC-equipped smart tags nearby, embedded inside new Lego tiles and new Lego minifigures, or when it sees other Smart Bricks, the company claims it will make entire Lego sets come to life — starting with the humming lightsabers, roaring engines, light-up blasters, and the music of Lego Star Wars.",
+              "The bricks also have a microphone, one that Lego Group spokesperson Jessica Benson explains is used as a virtual button rather than recording anything.",
+              "It’s very much used as another sensor point, it’s not recording any details, it’s just picking up those inputs that are to do with sound and reacting in real time to what the kids are doing with it.”\nThere’s also no AI in this product at all, Benson confirms, and no camera.",
+              "“Lego Smart Play will continue to expand through new updates, launches and technology,” the company writes."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google TV’s big Gemini update adds image and video generation, voice control for settings",
+            "link": "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "fc668975e18134b32b18a4c034fd6aa07b37caed"
+          },
+          "review": {
+            "headline_rewrite": "Google TV’s big Gemini update adds image and video generation, voice control for settings",
+            "bullets": [
+              "Soon, even loafing around on the couch won’t help you steer clear of AI.",
+              "TV makers are busily integrating AI models into the experience, and Google is no different.",
+              "Google began integrating Gemini with the TV Streamer box this past fall, but the new expansion brings some of the company’s most popular AI features to TVs: Nano Banana (image) and Veo (video), which offered a huge leap in visual fidelity at launch and have only improved with subsequent updates.",
+              "You can also enter a solo prompt to generate a totally new image or video with Google’s AI on your TV."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "X blames users for Grok-generated CSAM; no fixes announced",
+            "link": "https://arstechnica.com/tech-policy/2026/01/x-blames-users-for-grok-generated-csam-no-fixes-announced/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "fee5050c18c7d64adcb0238ca05d7cf092ef0cb6"
+          },
+          "review": {
+            "headline_rewrite": "X blames users for Grok-generated CSAM; no fixes announced",
+            "bullets": [
+              "“We take action against illegal content on X, including Child Sexual Abuse Material (CSAM), by removing it, permanently suspending accounts, and working with local governments and law enforcement as necessary,” X Safety said.",
+              "One of the reasons the Copyright Office won’t allow AI-generated works to be registered is the lack of human agency in determining what AI image generators spit out."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "These On-Ear Beats Headphones Are Marked Down by $70",
+            "link": "https://www.wired.com/story/beats-solo-4-deal-126/",
+            "site_name": "WIRED",
+            "novelty_hash": "229ecdfcb6a30dc19ed68bd814af3dffc9985949"
+          },
+          "review": {
+            "headline_rewrite": "These On-Ear Beats Headphones Are Marked Down by $70",
+            "bullets": [
+              "As a result, they have a tone that reviewer Ryan Waniata described as “tempered with a pleasant layer of smoky warmth” that isn't as impressive as more expensive pairs while still being an enjoyable listen.",
+              "Despite being produced by Apple, the Beats headphones are happy to work with both Android and iOS devices, and support one-touch pairing for both sides of the aisle."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }

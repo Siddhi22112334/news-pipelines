@@ -8723,7 +8723,26 @@
           }
         }
       ],
-      "00:29": []
+      "00:29": [],
+      "00:53": [
+        {
+          "item": {
+            "title": "Gold hits one-week high after US strikes in Venezuela",
+            "link": "https://www.livemint.com/market/commodities/gold-hits-one-week-high-after-us-strikes-in-venezuela-11767640078620.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold hits one-week high after US strikes in Venezuela",
+            "bullets": [
+              "\"The situation around Venezuela has clearly reactivated safe-haven demand, but it comes on top of existing concerns about geopolitics, energy supply and monetary policy,\"",
+              "efforts to open up its oil industry and stop drug trafficking, and suggested possible action against Colombia and Mexico over illicit drug flows.",
+              "Gold is a traditional store of value that also performs well in a low-interest rate environment due to its non-yielding nature."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
