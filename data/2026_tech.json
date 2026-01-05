@@ -21889,6 +21889,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:14": [
+        {
+          "item": {
+            "title": "NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems",
+            "link": "https://blogs.nvidia.com/blog/dgx-superpod-rubin/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "b5dec6c80b0730170615f7b335f7fe9bdb273a8f"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems",
+            "bullets": [
+              "NVIDIA DGX SuperPOD is paving the way for large-scale system deployments built on the NVIDIA Rubin platform — the next leap forward in AI computing.",
+              "At the CES trade show in Las Vegas, NVIDIA today introduced the Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer, and engineered to accelerate agentic AI, mixture‑of‑experts (MoE) models and long‑context reasoning.",
+              "The Rubin platform unites six chips — the NVIDIA Vera CPU, Rubin GPU, NVLink 6 Switch, ConnectX-9 SuperNIC, BlueField-4 DPU and Spectrum-6 Ethernet Switch — through an advanced codesign approach that accelerates training and reduces the cost of inference token generation.",
+              "DGX SuperPOD remains the foundational design for deploying Rubin‑based systems across enterprise and research environments.",
+              "The NVIDIA DGX platform addresses the entire technology stack — from NVIDIA computing to networking to software — as a single, cohesive system, removing the burden of infrastructure integration and allowing teams to focus on AI innovation and business results.",
+              "“Rubin arrives at exactly the right moment, as AI computing demand for both training and inference is going through the roof,” said Jensen Huang, founder and CEO of NVIDIA."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design",
+            "link": "https://blogs.nvidia.com/blog/bluefield-cybersecurity-acceleration-enterprise-ai-factory-validated-design/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "9c6f83d9e39ab54e184056f30dc7ac169b37d87c"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design",
+            "bullets": [
+              "AI is powering breakthroughs across industries, helping enterprises operate with greater intelligence and speed.",
+              "As AI factories scale, the next generation of enterprise AI depends on infrastructure that can efficiently manage data, secure every stage of the pipeline and accelerate the core services that move, protect and process information alongside AI workloads.",
+              "NVIDIA has expanded the NVIDIA Enterprise AI Factory validated design to include NVIDIA BlueField cybersecurity and infrastructure acceleration capabilities.",
+              "This accelerates the data center services that keep AI factories running and delivers security that can operate at the same speed as AI.",
+              "Leading software platforms from NVIDIA BlueField ecosystem partners Armis, Check Point, F5, Fortinet, Palo Alto Networks, Rafay, Red Hat, Spectro Cloud and Trend Micro are now validated as part of NVIDIA Enterprise AI Factory, helping enterprises enhance runtime protection, streamline operations and strengthen the infrastructure that powers AI.",
+              "How NVIDIA BlueField Accelerates the Operating System of AI Factories\nNVIDIA BlueField, the processor powering the operating system of AI factories, accelerates the essential services that support AI — networking, storage, security and orchestration — so that CPUs and GPUs can stay focused on AI itself."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia launches powerful new Rubin chip architecture",
+            "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3054d0551236ebd92addb9fa4380c3bce346a747"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia launches powerful new Rubin chip architecture",
+            "bullets": [
+              "Today at the Consumer Electronics Show, Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI hardware.",
+              "The new architecture is currently in production and is expected to ramp up further in the second half of the year.",
+              "“Vera Rubin is designed to address this fundamental challenge that we have: The amount of computation necessary for AI is skyrocketing.” Huang told the audience.",
+              "“Today, I can tell you that Vera Rubin is in full production.”\nRubin chips are already slated for use by nearly every major cloud provider, including high-profile Nvidia partnerships with Anthropic, OpenAI, and Amazon Web Services.",
+              "Named for the astronomer Vera Florence Cooper Rubin, the Rubin architecture consists of six separate chips designed to be used in concert.",
+              "The Rubin GPU stands at the center, but the architecture also addresses growing bottlenecks in storage and interconnection with new improvements in the Bluefield and NVLink, systems respectively."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+            "link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3758690b69970437cba98fe3a4540066b64fcfd8"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+            "bullets": [
+              "A couple of weeks after Merriam-Webster named “slop” as its word of the year, Microsoft CEO Satya Nadella weighed in on what to expect from AI in 2026.",
+              "In his classic, intellectual style, Nadella wrote on his personal blog that he wants us to stop thinking of AI as “slop” and start thinking of it as “bicycles for the mind.”\nHe wrote, “A new concept that evolves ‘bicycles for the mind’ such that we always think of AI as a scaffolding for human potential vs a substitute.”\nHe continued: “We need to get beyond the arguments of slop vs sophistication and develop a new equilibrium in terms of our ‘theory of the mind’ that accounts for humans being equipped with these new cognitive amplifier tools as we relate to each other.”\nIf you parse through those syllables, you may see that he’s not only urging everyone to stop thinking of AI-generated content as slop, but also wants the tech industry to stop talking about AI as a replacement for humans.",
+              "He hopes the industry will start talking about it as a human-helper productivity tool instead.",
+              "Here’s the problem with that framing, though: Much of AI agent marketing uses the idea of replacing human labor as a way to price it, and justify its expense.",
+              "Meanwhile, some of the biggest names in AI have been sounding the alarm that that the tech will soon cause very high levels of human unemployment.",
+              "For instance, in May Anthropic CEO Dario Amodei warned that AI could take away half of all entry-level white-collar jobs, raising unemployment to 10-20% over the next five years, and he doubled down on that last month in an interview on 60 Minutes."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The new Stealth 16 laptop from MSI finally looks stealthy (well, a little)",
+            "link": "https://www.theverge.com/news/851516/msi-stealth-16-laptop-gaming-looks-stealthy",
+            "site_name": "The Verge",
+            "novelty_hash": "15e98ce1777fc34c1215efb311e548be4fe3fa88"
+          },
+          "review": {
+            "headline_rewrite": "The new Stealth 16 laptop from MSI finally looks stealthy (well, a little)",
+            "bullets": [
+              "MSI is announcing a new Stealth 16 AI Plus gaming laptop for CES 2026.",
+              "It’ll run $2,099 with an Intel Panther Lake processor and Nvidia RTX 5060 GPU (configurations go up to an RTX 5090), and it’s due out in March.",
+              "The new Stealth 16 laptop from MSI finally looks stealthy (well, a little)\nMSI’s new part-gaming laptop, part-creator laptop comes with Intel Panther Lake and Nvidia GPUs.",
+              "The GPUs in the Stealth are throttled to 100W, as this laptop prioritizes a thin chassis to appeal to creators and everyday users instead of aiming purely for gaming performance.",
+              "It may be just 19.9mm at its thickest point, but the Stealth 16 AI Plus manages to cram in two internal DDR5 RAM slots, two M.2 2280 PCIe Gen4 x4 SSD slots, a 90Wh battery (smaller than the current 99Wh one), plenty of ports, and even ethernet."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’",
+            "link": "https://www.wired.com/story/nvidias-rubin-chips-are-going-into-production/",
+            "site_name": "WIRED",
+            "novelty_hash": "ba20a0de0dbcb90ca6d618afd3585baab66bc0ea"
+          },
+          "review": {
+            "headline_rewrite": "Jensen Huang Says Nvidia’s New Vera Rubin Chips Are in ‘Full Production’",
+            "bullets": [
+              "Nvidia CEO Jensen Huang says that the company’s next-generation AI superchip platform, Vera Rubin, is on schedule to begin arriving to customers later this year.",
+              "“Today, I can tell you that Vera Rubin is in full production,” Huang said during a press event on Monday at the annual CES technology trade show in Las Vegas.",
+              "Rubin will cut the cost of running AI models to about one-tenth of Nvidia’s current leading chip system, Blackwell, the company told analysts and journalists during a call on Sunday.",
+              "Nvidia also said Rubin can train certain large models using roughly one-fourth as many chips as Blackwell requires.",
+              "Taken together, those gains could make advanced AI systems significantly cheaper to operate and make it harder for Nvidia’s customers to justify moving away from its hardware.",
+              "Nvidia said on the call that two of its existing partners, Microsoft and CoreWeave, will be among the first companies to begin offering services powered by Rubin chips later this year."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
