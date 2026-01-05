@@ -21525,6 +21525,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:51": [
+        {
+          "item": {
+            "title": "NVIDIA DRIVE AV Software Debuts in All-New Mercedes-Benz CLA",
+            "link": "https://blogs.nvidia.com/blog/drive-av-software-mercedes-benz-cla/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "188dd5c1e433f6cb838057c7f887dda70984703a"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA DRIVE AV Software Debuts in All-New Mercedes-Benz CLA",
+            "bullets": [
+              "NVIDIA is enabling a new era of AI-defined driving, bringing its NVIDIA DRIVE AV software with enhanced level 2 point-to-point driver assistance capabilities to U.S.",
+              "The all-new Mercedes-Benz CLA — the brand’s first vehicle featuring the MB.OS platform — introduces advanced driver-assistance features powered by NVIDIA’s full-stack DRIVE AV software, AI infrastructure and accelerated compute.",
+              "This design may enable over-the-air updates of future upgrades and new features, including planned enhancements to MB.DRIVE ASSIST PRO, which may be available ex-factory and through the Mercedes-Benz store.",
+              "“As the automotive industry embraces physical AI, NVIDIA is the intelligence backbone that makes every vehicle programmable, updatable and perpetually improving through data and software,” said Ali Kani, vice president of automotive at NVIDIA.",
+              "“Starting with Mercedes-Benz and its incredible new CLA, we’re celebrating a stunning achievement in safety, design, engineering and AI-powered driving that will turn every car into a living, learning machine.”\nNVIDIA DRIVE AV — a Dual-Stack Architecture for Intelligent Safety and Performance\nNVIDIA DRIVE AV uses an AI end-to-end stack for core driving, alongside a parallel classical safety stack — built on NVIDIA Halos safety system — that adds redundancy and safety guardrails.",
+              "For consumers, this means greater confidence and comfort, knowing there are built-in redundancy and fail-safe checks designed to help support a safe, secure journey."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA Unveils New Open Models, Data and Tools to Advance AI Across Every Industry",
+            "link": "https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "b89de5bfcd9229168e3f525c382678a497737550"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Unveils New Open Models, Data and Tools to Advance AI Across Every Industry",
+            "bullets": [
+              "Expanding the open model universe, NVIDIA today released new open models, data and tools to advance AI across every industry.",
+              "These models — spanning the NVIDIA Nemotron family for agentic AI, the NVIDIA Cosmos platform for physical AI, the new NVIDIA Alpamayo family for autonomous vehicle development, NVIDIA Isaac GR00T for robotics and NVIDIA Clara for biomedical — will empower companies with the tools to develop real-world AI systems.",
+              "NVIDIA contributes open-source training frameworks and one of the world’s largest collections of open multimodal data, including 10 trillion language training tokens, 500,000 robotics trajectories, 455,000 protein structures and 100 terabytes of vehicle sensor data.",
+              "NVIDIA Nemotron Brings Speech, Multimodal Intelligence and Safety to AI Agents\nBuilding on the recently released NVIDIA Nemotron 3 family of open models and data, NVIDIA is releasing Nemotron models for speech, multimodal retrieval-augmented generation (RAG) and safety.",
+              "- Nemotron Speech comprises leaderboard-topping open models, including a new ASR model, that deliver real-time, low-latency speech recognition for live captions and speech AI applications.",
+              "Daily and Modal benchmarks show that the model delivers 10x faster performance than other models in its class."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia launches powerful new Rubin chip architecture",
+            "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c3fe64f99586ccd02586991dff02638ed38e04ac"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia launches powerful new Rubin chip architecture",
+            "bullets": [
+              "Today at the Consumer Electronics show, Nvidia CEO Jensen Huang officially launched the company’s new Rubin computing architecture, which he described as the state of the art in AI hardware.",
+              "The new architecture is currently in production and is expected to ramp up further in the second half of the year.",
+              "“Vera Rubin is designed to address this fundamental challenge that we have: The amount of computation necessary for AI is skyrocketing.” Huang told the audience.",
+              "“Today, I can tell you that Vera Rubin is in full production.”\nRubin chips are already slated for use by nearly every major cloud provider, including high-profile Nvidia partnerships with Anthropic, OpenAI, and Amazon Web Services.",
+              "Named for the astronomer Vera Florence Cooper Rubin, the Rubin architecture consists of six separate chips designed to be used in concert.",
+              "The Rubin GPU stands at the center, but the architecture also addresses growing bottlenecks in storage and interconnection with new improvements in the Bluefield and NVLink systems respectively."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Boston Dynamics’s next-gen humanoid robot will have Google DeepMind DNA",
+            "link": "https://techcrunch.com/2026/01/05/boston-dynamicss-next-gen-humanoid-robot-will-have-google-deepmind-dna/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cda724feb63e1f115bca59894a171c6bfa0255e0"
+          },
+          "review": {
+            "headline_rewrite": "Boston Dynamics’s next-gen humanoid robot will have Google DeepMind DNA",
+            "bullets": [
+              "Robotics company Boston Dynamics announced Monday a strategic partnership with Google’s AI research lab to speed up the development of its next-generation humanoid robot Atlas — and make it act more human around people.",
+              "The partnership, which was announced during the Hyundai press conference at CES 2026, is centered on robotics research that will use Google DeepMind’s AI foundation models.",
+              "“We’re looking to integrate our cutting-edge AI foundation models with Boston Dynamics’ new Atlas robots, and we’ll aim to develop the world’s most advanced robot foundation model to fulfill the promise of true general-purpose human needs,” Parada said on stage.",
+              "The tie-up comes less than a year after the Google AI research lab announced new AI models called Gemini Robotics that are designed to allow robots to perceive, reason, use tools, and interact with humans.",
+              "Gemini Robotics is based on a large-scale multimodal generative AI model, Gemini.",
+              "At the time, Google DeepMind said the robotics AI model was trained to generalize behavior across a range of different robotics hardware."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Boston Dynamics’ Tesla Bot rival Atlas will start building Hyundai cars in 2028",
+            "link": "https://www.theverge.com/news/853973/hyundai-boston-dynamics-atlas-robot-factory-2028",
+            "site_name": "The Verge",
+            "novelty_hash": "af20809d91aa75cb581e65e1adfa5a2219c6955d"
+          },
+          "review": {
+            "headline_rewrite": "Boston Dynamics’ Tesla Bot rival Atlas will start building Hyundai cars in 2028",
+            "bullets": [
+              "The robot, with a glowing circle for a face, a fully electric, battery-powered body, and joints that can rotate 360 degrees, is so advanced that it will soon be working alongside human factory workers for parent company Hyundai, the companies claimed.",
+              "Boston Dynamics’ Tesla Bot rival Atlas will start building Hyundai cars in 2028\nThe companies say they’ll start making 30,000 Atlas robots annually in 2028.",
+              "Hyundai said it plans on mass-producing Atlas as “production-ready humanoid robots” that will be put to work at the automaker’s car plants, starting with the Hyundai Motor Group Metaplant in Savannah, Georgia.",
+              "The company also plans on putting the first Atlas robots to work that year “on processes with proven safety and quality benefits, such as parts sequencing.” By 2030, Hyundai says that Atlas will level up to tasks involving “repetitive motions, heavy loads, and other complex operations.” The automaker envisions a “harmonious collaboration between humans and robots,” despite widespread fears about job losses as a result of increased automation.",
+              "Hyundai kicked off its keynote with a K-pop dance number featuring its Spot robots (which lasted about as long as one of the robots took to open a door afterward).",
+              "A future production model that will actually be rolling out to Hyundai and other customers was also shown off, albeit static and non-working."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "This smart mirror was a menace at CES 2026",
+            "link": "https://www.theverge.com/tech/855540/nuralogix-longevity-mirror-health-tech-ces-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "445e07634e307084516831808349ab9631fcfe3c"
+          },
+          "review": {
+            "headline_rewrite": "This smart mirror was a menace at CES 2026",
+            "bullets": [
+              "All hail the protective powers of sunscreen.",
+              "This sort of tech should be taken with a grain of salt.",
+              "(A Nuralogix rep told me that the blood pressure metric is currently undergoing the FDA clearance process.) My colleague Antonio Di Benedetto said he got similar heart rate and blood pressure results during his demo.",
+              "Otherwise, there’s a built-in AI assistant that can help parse results.",
+              "The device is expected to launch in Q1 2026, and the $899 cost includes the first year of service."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
