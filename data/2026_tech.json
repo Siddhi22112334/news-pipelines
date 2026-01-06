@@ -26120,6 +26120,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:51": [
+        {
+          "item": {
+            "title": "xAI says it raised $20B in Series E funding",
+            "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "08b8f539b155e53fc35b3d506daf55d9fdc92acf"
+          },
+          "review": {
+            "headline_rewrite": "xAI says it raised $20B in Series E funding",
+            "bullets": [
+              "xAI, Elon Musk’s AI company behind the Grok chatbot — it also owns X – announced that it has raised $20 billion in a Series E funding round.",
+              "The company wrote in a blog post that investors will include Valor Equity Partners, Fidelity, Qatar Investment Authority, and others, including Nvidia and Cisco as “strategic investors.” xAI has not disclosed if these investments come in the form of equity or debt.",
+              "xAI says it has about 600 million monthly active users of X and Grok, and it will use this new funding to continue expanding its data centers and Grok models.",
+              "However, as xAI grows, so does its capacity for harm.",
+              "Instead of refusing these requests or activating any sort of guardrail, Grok complied, effectively generating child sexual abuse material (CSAM) and other nonconsensual sexual content of real people.",
+              "xAI is now under investigation by international authorities in the European Union, the United Kingdom, India, Malaysia, and France."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "California lawmaker proposes a four-year ban on AI chatbots in kids’ toys",
+            "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1e01229c3ab4ee46a1009bce39fafa5449740dd5"
+          },
+          "review": {
+            "headline_rewrite": "California lawmaker proposes a four-year ban on AI chatbots in kids’ toys",
+            "bullets": [
+              "Senator Steve Padilla (D-CA) introduced a bill on Monday that would place a four-year ban on the sale and manufacture of toys with AI chatbot capabilities for kids under 18.",
+              "The goal is to give safety regulators time to develop regulations to protect children from “dangerous AI interactions.”\n“Chatbots and other AI tools may become integral parts of our lives in the future, but the dangers they pose now require us to take bold action to protect our children,” Senator Padilla said in a statement.",
+              "Pausing the sale of these chatbot-integrated toys allows us time to craft the appropriate safety guidelines and framework for these toys to follow.”\nThe bill, dubbed SB 867, comes in the wake of President Trump’s recent executive order directing federal agencies to challenge state AI laws in court — though the order explicitly carves out exceptions for state laws related to child safety.",
+              "The legislation also follows several concerning incidents involving AI, chatbots, and children.",
+              "While the use of chatbots in toys isn’t as mainstream yet, there have already been reports of troubling interactions.",
+              "NBC News found that Miiloo, an “AI toy for kids” made by Chinese company Miriat, would at times indicate that it was programmed to reflect Chinese Communist Party values."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "At CES, EVs take a backseat to robotaxis and AI",
+            "link": "https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts",
+            "site_name": "The Verge",
+            "novelty_hash": "43d25ef02243d3904a4ce4e9d80708cf5af191a6"
+          },
+          "review": {
+            "headline_rewrite": "At CES, EVs take a backseat to robotaxis and AI",
+            "bullets": [
+              "At CES, EVs take a backseat to robotaxis and AI\nCES used to be a car show.",
+              "Now its another stop on the AI hype train.",
+              "Hyundai’s decision to use its CES keynote to tout Boston Dynamics’ Atlas robot sends a pretty clear message about how the auto industry is absorbing the bad news about EVs in the United States in 2025, and where it thinks things are heading in the new year.",
+              "EVs are out, and AI and robotaxis are in.",
+              "In addition to Hyundai, Mercedes announced its plans to roll out its Nvidia-powered Level 2++ driver assist feature in the US later this year.",
+              "And Nvidia, the world’s biggest chipmaker and arguably the company most responsible for the current AI bubble, announced a new family of open-source models called Alpamayo, which it says will power new autonomous and driver-assistance features."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7",
+            "link": "https://www.theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek",
+            "site_name": "The Verge",
+            "novelty_hash": "89ec0336cd09d19bca1d191b8eec934f13d5505f"
+          },
+          "review": {
+            "headline_rewrite": "Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7",
+            "bullets": [
+              "The first Wi-Fi 8 routers and chips made a surprise appearance at CES 2026, and could launch this year, only a couple of years after Wi-Fi 7 debuted.",
+              "Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7\nAI spider routers are out, polyhedral dice routers are in.",
+              "Wi-Fi 8 is also better at maintaining fast, stable connections when users are moving devices around, or moving them further away from their router.",
+              "Asus went from last year’s AI spider router covered in antennas to the ROG NeoCore, a Wi-Fi 8 concept router with no antennas at all.",
+              "According to Asus, the production model will offer the same data speeds as Wi-Fi 7, but with higher throughput and lower latency, so it can move more data with fewer bottlenecks and less lag.",
+              "Similarly, on Monday, MediaTek announced its family of Wi-Fi 8 chips, Filogic 8000, which it says will power “premium and flagship devices leveraging Wi-Fi 8 technology,” everything from enterprise access points to smartphones, laptops, TVs, and smart home devices."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
+            "link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "cf07de0019068aeb642c93ae578ba66c2087fbf4"
+          },
+          "review": {
+            "headline_rewrite": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
+            "bullets": [
+              "Groups dedicated to Wi-Fi and GPS also raised concerns in comments to the FCC.",
+              "“Jamming will block all communications, not just communications from contraband devices,” wireless lobby group CTIA said in December 29 comments in response to Chairman Brendan Carr’s proposal.",
+              "The CTIA said that “jamming blocks all communications, including lawful communications such as 911 calling,” and argued that the FCC “has no authority to allow jamming.”\nCTIA members AT&T and Verizon expressed their displeasure in separate comments to the FCC.",
+              "While the Communications Act prohibits interference with authorized radio communications, Carr’s plan tries to sidestep this prohibition by proposing to de-authorize certain communications, AT&T wrote.",
+              "Previous FCC leaders recognized the problem that radio jammers can’t differentiate between contraband and legitimate devices, AT&T said.",
+              "“As explained above, there are no technical workarounds to that limitation with respect to jammers,” AT&T wrote."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Inevitable Rise of the Art TV",
+            "link": "https://www.wired.com/story/art-frame-tv-trends/",
+            "site_name": "WIRED",
+            "novelty_hash": "d473accd7f529fb935cff089803bdeaf0151cfdb"
+          },
+          "review": {
+            "headline_rewrite": "The Inevitable Rise of the Art TV",
+            "bullets": [
+              "But switch it off and it sure is pretty—certainly much better to look at than an empty black void.",
+              "This is thanks to its matte-finish, anti-glare screen and the picture-frame-like bezels that together transform whatever fine art you choose to display on the TV when it's in standby mode (Samsung offers a variety of high-resolution digital slides) into something that resembles a framed painting.",
+              "(We have a review unit coming shortly.) TCL has the similar NXTvision model that uses a Vincent van Gogh self-portrait in the marketing, and LG has announced the Gallery TV (also repping van Gogh) for later this year.",
+              "Announced this week at CES 2026, Amazon's $899 television can display one of 2,000 works of art (available for free to Ember Artline owners) and even has a tool that uses Alexa AI to help you decide which artworks are the best fit for your room.",
+              "But also, young city-dwelling professionals are less likely to have the room to place a large screen in a dedicated area in their home, a pain point compounded by the fact that TV screen sizes have ballooned over the past decade.",
+              "Brands are choosing to step into this space now because they have finally developed the means to create matte screens that can accurately represent a painting or a fine art photograph."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
