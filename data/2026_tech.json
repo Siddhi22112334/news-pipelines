@@ -22845,6 +22845,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "12:33": [
+        {
+          "item": {
+            "title": "NVIDIA Brings GeForce RTX Gaming to More Devices With New GeForce NOW Apps for Linux PC and Amazon Fire TV",
+            "link": "https://blogs.nvidia.com/blog/geforce-now-ces-2026/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "266b0efd7a172f984ec6f4db7f860de4ceaa6d15"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Brings GeForce RTX Gaming to More Devices With New GeForce NOW Apps for Linux PC and Amazon Fire TV",
+            "bullets": [
+              "Announced at the CES trade show running this week in Las Vegas, NVIDIA is bringing more devices, more games and more ways to play to its GeForce NOW cloud gaming service.",
+              "Powered by GeForce RTX 5080-class performance on the NVIDIA Blackwell RTX platform, GeForce NOW Ultimate continues to raise the bar for PC gamers streaming from the cloud.",
+              "Flight-simulation fans are also getting flight controls support, and members everywhere gain faster access to more games thanks to new single sign-on integrations and upcoming AAA titles joining the cloud.",
+              "Here Come the Platforms\nLinux PCs and Amazon Fire TV sticks are joining the GeForce NOW native app family, unlocking new ways to play in the cloud across desktops and living rooms.",
+              "Linux users can transform their compatible systems into GeForce RTX-powered gaming rigs, streaming supported PC titles from the cloud at up to 5K and 120 fps or 1080p 360 fps.",
+              "With rendering handled in the cloud, high-end PC gaming is possible on Linux operating systems, breathing new life into older devices."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA RTX Accelerates 4K AI Video Generation on PC With LTX-2 and ComfyUI Upgrades",
+            "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-ces-2026-open-models-video-generation/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "5825091dfd77026ba88b15b2f4ca9c3035c77a55"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA RTX Accelerates 4K AI Video Generation on PC With LTX-2 and ComfyUI Upgrades",
+            "bullets": [
+              "2025 marked a breakout year for AI development on PC.",
+              "PC-class small language models (SLMs) improved accuracy by nearly 2x over 2024, dramatically closing the gap with frontier cloud-based large language models (LLMs).",
+              "AI PC developer tools including Ollama, ComfyUI, llama.cpp and Unsloth have matured, their popularity has doubled year over year and the number of users downloading PC-class models grew tenfold from 2024.",
+              "These developments are paving the way for generative AI to gain widespread adoption among everyday PC creators, gamers and productivity users this year.",
+              "At CES this week, NVIDIA is announcing announcing a wave of AI upgrades for GeForce RTX, NVIDIA RTX PRO and NVIDIA DGX Spark devices that unlock the performance and memory needed for developers to deploy generative AI on PC, including:\n- Up to 3x performance and 60% reduction in VRAM for video and image generative AI via PyTorch-CUDA optimizations and native NVFP4/FP8 precision support in ComfyUI.",
+              "- A new video generation pipeline for generating 4K AI video using a 3D scene in Blender to precisely control outputs."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
+            "link": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+            "site_name": "The Verge",
+            "novelty_hash": "f4f948773868af9f0881c068463cc87e50c1d0d3"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
+            "bullets": [
+              "Nvidia’s RTX 5080 rollout for its GeForce Now cloud gaming service is now complete, so it’s ready to announce some additional features for subscribers.",
+              "In the coming months, Nvidia is planning to launch native GeForce Now apps for Linux and Amazon’s Fire TV devices, alongside flight control support for its cloud gaming service.",
+              "A beta of GeForce Now for Linux will be available initially for Ubuntu 24.04 and newer soon, nearly a year after Nvidia made it easier to access GeForce Now on the Linux-based SteamOS.",
+              "“Right now, the GeForce Now Linux app is going to launch first as a beta on Ubuntu 24.04 primarily because this is a long-term support release that enables stable graphics drivers and consistent system libraries,” says Michael McSorley, product marketing manager at Nvidia, in a briefing with The Verge.",
+              "The app will launch early this year for Fire TV Stick 4K Plus and 4K Max initially, allowing owners to stream PC games to their TV with just a controller.",
+              "If you’re a fan of Microsoft Flight Simulator, Nvidia is also introducing full flight control support for GeForce Now so that devices from Thrustmaster and Logitech will work on its cloud gaming service."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+            "link": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+            "site_name": "The Verge",
+            "novelty_hash": "64c8ae092f90d2bfe6a75b89215178f784f114df"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+            "bullets": [
+              "DLSS 4.5 includes Nvidia’s second-generation Super Resolution transformer model and a new 6x Multi Frame Generation mode for RTX 50-series GPUs that uses AI to generate up to five additional frames for every single rendered one.",
+              "DLSS 4.5 will be available for all RTX GPUs today, but will run the fastest on Nvidia’s latest RTX 40- and 50-series cards.",
+              "“This second-generation model is our most sophisticated yet,” says Henry Lin, director of product management at Nvidia, in a briefing with The Verge.",
+              "“It utilizes 5x the compute power over the original transformer model, it’s trained on a significantly expanded high-fidelity dataset, and it also takes full advantage of our GeForce RTX 40- and 50-series GPUs, which benefit from faster and more advanced Tensor Cores.”\nNvidia has updated its DLSS model to better understand scenes in games so it can use game engine data to improve lighting, finer edges, and motion clarity.",
+              "Ghosting is reduced in The Elder Scrolls IV: Oblivion Remastered, anti-aliasing is improved in Indiana Jones and the Great Circle, and there is less shimmering in certain scenes in Kingdom Come: Deliverance II.",
+              "While the AI model improvements to DLSS 4.5 will benefit all RTX owners today, Nvidia is also launching a new 6x Multi Frame Generation mode for RTX 50-series owners in spring."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA announces DLSS 4.5 at CES 2026",
+            "link": "https://www.engadget.com/gaming/nvidia-announces-dlss-45-at-ces-2026-053000128.html",
+            "site_name": "Engadget",
+            "novelty_hash": "85feb2c0932fbbf0b7be68d8076b55fb66bbe304"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA announces DLSS 4.5 at CES 2026",
+            "bullets": [
+              "The 2nd Gen Transformer Super Resolution is available now for all RTX GPUs, while the Dynamic 6x Frame Generation will arrive some time in spring 2026 for the RTX 50 series.",
+              "It will also be available for more than 400 games through the NVIDIA app."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 6, 2026 Nvidia announces Vera Rubin AI chip, claims it is 5X more powerful than Blackwell",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-announces-vera-rubin-ai-chip-claims-it-is-5x-more-powerful-than-blackwell/articleshow/126366561.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "77bb65e0a247c1333aa8fb403f7ec6ab6fa12d37"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 6, 2026 Nvidia announces Vera Rubin AI chip, claims it is 5X more powerful than Blackwell",
+            "bullets": [
+              "Nvidia has unveiled its next-generation AI computing platform, called Vera Rubin, at the ongoing Consumer Electronics Show (CES) 2026 in Las Vegas.",
+              "The announcement was made by Nvidia founder and CEO Jensen Huang, who said the new platform is now in full production.",
+              "Rubin is designed to support large-scale artificial intelligence workloads and is aimed at data centres, cloud providers and enterprises building advanced AI systems.",
+              "Nvidia said the platform is built to lower the cost of AI computing and support faster training and deployment of AI models.",
+              "Rubin succeeds Nvidiaâs Blackwell architecture and is part of the companyâs broader push to expand AI use across industries.",
+              "What is the Vera Rubin AI platform\nVera Rubin is Nvidiaâs first six-chip AI platform developed using an âextreme codesignâ approach, where multiple components are designed together."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
