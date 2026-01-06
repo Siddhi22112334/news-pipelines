@@ -25878,6 +25878,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:52": [
+        {
+          "item": {
+            "title": "Intel is building a handheld gaming platform including a dedicated chip",
+            "link": "https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b050f3daf9a00c9bc6efc0aecb9d189721dcb031"
+          },
+          "review": {
+            "headline_rewrite": "Intel is building a handheld gaming platform including a dedicated chip",
+            "bullets": [
+              "Intel is looking to double down on gaming hardware with a new chip and platform for portable gaming devices.",
+              "The platform will include hardware and software, Intel vice president and general manager of PC products, Daniel Rogers, announced at CES on Monday.",
+              "This future platform includes a chip specifically for handheld gaming devices, according to reporting from IGN, which was confirmed by TechCrunch.",
+              "These Panther Lake chips are the company’s first built on its 18A manufacturing process, which started production in 2025.",
+              "Intel is no stranger to the gaming industry and has been building chips for gaming PCs since the 1990s.",
+              "The company leaned more heavily into gaming in 2022 with the release of its Intel Arc GPUs."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The biggest Nvidia announcements at CES 2026",
+            "link": "https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup",
+            "site_name": "The Verge",
+            "novelty_hash": "2ad909a3cbf42a16bea6b7ca983f1169bd742190"
+          },
+          "review": {
+            "headline_rewrite": "The biggest Nvidia announcements at CES 2026",
+            "bullets": [
+              "We’re not even a full week into 2026 yet, but Nvidia has already announced several products and updates to start the new year.",
+              "Nvidia’s new Vera Rubin architecture was launched earlier than expected at CES, joined by announcements for its own Tesla-rivaling self-driving car technology, and the latest updates coming to DLSS, G-Sync display tech, and the GeForce Now cloud gaming platform.",
+              "While none of these hold quite the same appeal as a new generation of consumer graphics cards — something we might see at CES 2027, following the RTX 50-series launch last year — it can still be a lot to parse, especially through the vast slurry of everything else being promoted at the giant Consumer Electronics Show.",
+              "Vera Rubin ‘AI supercomputer’\nNvidia launched the Vera Rubin platform during its CES keynote, its next-generation successor to the Blackwell architecture that’s currently used in its most powerful AI chips.",
+              "Nvidia says this new architecture, which is named after American astronomer Vera Rubin, can train large “mixture of experts” (MoE) AI models as quickly as Blackwell, but with far greater efficiency.",
+              "Dion Harris, Nvidia’s senior director of HPC and AI infrastructure solutions, described Vera Rubin as “six chips that make one AI supercomputer,” which include the Vera CPU, Rubin GPU, NVLink 6th-gen switch, Connect-X9 NIC, BlueField4 DPU, and Spectrum-X 102.4T CPO."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "xAI says it raised $20B in Series E funding",
+            "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "08b8f539b155e53fc35b3d506daf55d9fdc92acf"
+          },
+          "review": {
+            "headline_rewrite": "xAI says it raised $20B in Series E funding",
+            "bullets": [
+              "xAI, Elon Musk’s AI company behind the Grok chatbot — it also owns X – announced that it has raised $20 billion in a Series E funding round.",
+              "The company wrote in a blog post that investors will include Valor Equity Partners, Fidelity, Qatar Investment Authority, and others, including Nvidia and Cisco as “strategic investors.” xAI has not disclosed if these investments come in the form of equity or debt.",
+              "xAI says it has about 600 million monthly active users of X and Grok, and it will use this new funding to continue expanding its data centers and Grok models.",
+              "However, as xAI grows, so does its capacity for harm.",
+              "Instead of refusing these requests or activating any sort of guardrail, Grok complied, effectively generating child sexual abuse material (CSAM) and other nonconsensual sexual content of real people.",
+              "xAI is now under investigation by international authorities in the European Union, the United Kingdom, India, Malaysia, and France."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Universal Music signs a new AI deal with Nvidia",
+            "link": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal",
+            "site_name": "The Verge",
+            "novelty_hash": "841b95ab06603acb6f10022b3263cab991188575"
+          },
+          "review": {
+            "headline_rewrite": "Universal Music signs a new AI deal with Nvidia",
+            "bullets": [
+              "Universal Music Group is partnering with Nvidia to bring a new AI model to one of the world’s largest music catalogs.",
+              "Among other initiatives, Tuesday’s announcement touts the extension of Nvidia’s music AI model Music Flamingo, which is designed to mimic how humans understand music by recognizing nuanced elements like song structure, harmony, emotional arcs, and chord progressions.",
+              "Universal Music signs a new AI deal with Nvidia\nNvidia’s AI model built for ‘human-like understanding’ of music will make it easier to find songs within UMG’s massive catalog — and it won’t create more AI slop, the companies say.",
+              "It’s another instance of the music industry’s about-face on AI, which took UMG from suing Anthropic in 2023 over distribution of song lyrics to partnering with AI music generator Udio in October following another high-profile lawsuit.",
+              "Still, concerns remain that AI is proliferating slop on streaming platforms, stomping on copyright holders, and enabling a new wave of AI artists.",
+              "But UMG’s statement stresses that its collaboration with Nvidia pursues “responsible AI” meant to make it easier to discover, engage with, and create music."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Inevitable Rise of the Art TV",
+            "link": "https://www.wired.com/story/art-frame-tv-trends/",
+            "site_name": "WIRED",
+            "novelty_hash": "d473accd7f529fb935cff089803bdeaf0151cfdb"
+          },
+          "review": {
+            "headline_rewrite": "The Inevitable Rise of the Art TV",
+            "bullets": [
+              "But switch it off and it sure is pretty—certainly much better to look at than an empty black void.",
+              "This is thanks to its matte-finish, anti-glare screen and the picture-frame-like bezels that together transform whatever fine art you choose to display on the TV when it's in standby mode (Samsung offers a variety of high-resolution digital slides) into something that resembles a framed painting.",
+              "(We have a review unit coming shortly.) TCL has the similar NXTvision model that uses a Vincent van Gogh self-portrait in the marketing, and LG has announced the Gallery TV (also repping van Gogh) for later this year.",
+              "Announced this week at CES 2026, Amazon's $899 television can display one of 2,000 works of art (available for free to Ember Artline owners) and even has a tool that uses Alexa AI to help you decide which artworks are the best fit for your room.",
+              "But also, young city-dwelling professionals are less likely to have the room to place a large screen in a dedicated area in their home, a pain point compounded by the fact that TV screen sizes have ballooned over the past decade.",
+              "Brands are choosing to step into this space now because they have finally developed the means to create matte screens that can accurately represent a painting or a fine art photograph."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 57 Best Shows on Disney+, WIRED’s Picks (January 2026)",
+            "link": "https://www.wired.com/story/best-shows-disney-plus/",
+            "site_name": "WIRED",
+            "novelty_hash": "cb98f37a1bdc8a4636cc3c98ba9eff9093639ada"
+          },
+          "review": {
+            "headline_rewrite": "The 57 Best Shows on Disney+, WIRED’s Picks (January 2026)",
+            "bullets": [
+              "Since launching the service, Disney has used the name recognition of Star Wars and Marvel to launch scores of TV shows, from The Mandalorian to Loki.",
+              "Also: Because Disney+ merged its content with Hulu in 2024, most of the same shows you might like on Hulu (see our list of picks here) are also available to stream on Disney+.",
+              "Fans of the The X-Files will enjoy this History Channel docuseries, which attempts to uncover the details of the government’s most clandestine files, dealing with everything from deep space to dark science and, yes, the possible existence of aliens.",
+              "Percy Jackson and the Olympians\nMore than 20 years after the release of the first book in Rick Riordan’s Percy Jackson series, this small-screen adaptation has been praised for how faithful it remains to Riordan’s beloved words.",
+              "This nine-part docuseries, which originally aired on Britain’s ITV in 1995, has been reedited, restored, and expanded for Disney+.",
+              "While we wait to learn the answer, Disney+ is taking a deep dive (no pun intended) into the movie series in this two-part docuseries."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
