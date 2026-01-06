@@ -26000,6 +26000,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:15": [
+        {
+          "item": {
+            "title": "xAI says it raised $20B in Series E funding",
+            "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "08b8f539b155e53fc35b3d506daf55d9fdc92acf"
+          },
+          "review": {
+            "headline_rewrite": "xAI says it raised $20B in Series E funding",
+            "bullets": [
+              "xAI, Elon Musk’s AI company behind the Grok chatbot — it also owns X – announced that it has raised $20 billion in a Series E funding round.",
+              "The company wrote in a blog post that investors will include Valor Equity Partners, Fidelity, Qatar Investment Authority, and others, including Nvidia and Cisco as “strategic investors.” xAI has not disclosed if these investments come in the form of equity or debt.",
+              "xAI says it has about 600 million monthly active users of X and Grok, and it will use this new funding to continue expanding its data centers and Grok models.",
+              "However, as xAI grows, so does its capacity for harm.",
+              "Instead of refusing these requests or activating any sort of guardrail, Grok complied, effectively generating child sexual abuse material (CSAM) and other nonconsensual sexual content of real people.",
+              "xAI is now under investigation by international authorities in the European Union, the United Kingdom, India, Malaysia, and France."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "California lawmaker proposes a four-year ban on AI chatbots in kids’ toys",
+            "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1e01229c3ab4ee46a1009bce39fafa5449740dd5"
+          },
+          "review": {
+            "headline_rewrite": "California lawmaker proposes a four-year ban on AI chatbots in kids’ toys",
+            "bullets": [
+              "Senator Steve Padilla (D-CA) introduced a bill on Monday that would place a four-year ban on the sale and manufacture of toys with AI chatbot capabilities for kids under 18.",
+              "The goal is to give safety regulators time to develop regulations to protect children from “dangerous AI interactions.”\n“Chatbots and other AI tools may become integral parts of our lives in the future, but the dangers they pose now require us to take bold action to protect our children,” Senator Padilla said in a statement.",
+              "Pausing the sale of these chatbot-integrated toys allows us time to craft the appropriate safety guidelines and framework for these toys to follow.”\nThe bill, dubbed SB 867, comes in the wake of President Trump’s recent executive order directing federal agencies to challenge state AI laws in court — though the order explicitly carves out exceptions for state laws related to child safety.",
+              "The legislation also follows several concerning incidents involving AI, chatbots, and children.",
+              "While the use of chatbots in toys isn’t as mainstream yet, there have already been reports of troubling interactions.",
+              "NBC News found that Miiloo, an “AI toy for kids” made by Chinese company Miriat, would at times indicate that it was programmed to reflect Chinese Communist Party values."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Universal Music signs a new AI deal with Nvidia",
+            "link": "https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal",
+            "site_name": "The Verge",
+            "novelty_hash": "841b95ab06603acb6f10022b3263cab991188575"
+          },
+          "review": {
+            "headline_rewrite": "Universal Music signs a new AI deal with Nvidia",
+            "bullets": [
+              "Universal Music Group is partnering with Nvidia to bring a new AI model to one of the world’s largest music catalogs.",
+              "Among other initiatives, Tuesday’s announcement touts the extension of Nvidia’s music AI model Music Flamingo, which is designed to mimic how humans understand music by recognizing nuanced elements like song structure, harmony, emotional arcs, and chord progressions.",
+              "Universal Music signs a new AI deal with Nvidia\nNvidia’s AI model built for ‘human-like understanding’ of music will make it easier to find songs within UMG’s massive catalog — and it won’t create more AI slop, the companies say.",
+              "It’s another instance of the music industry’s about-face on AI, which took UMG from suing Anthropic in 2023 over distribution of song lyrics to partnering with AI music generator Udio in October following another high-profile lawsuit.",
+              "Still, concerns remain that AI is proliferating slop on streaming platforms, stomping on copyright holders, and enabling a new wave of AI artists.",
+              "But UMG’s statement stresses that its collaboration with Nvidia pursues “responsible AI” meant to make it easier to discover, engage with, and create music."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "At CES, EVs take a backseat to robotaxis and AI",
+            "link": "https://www.theverge.com/tech/856503/ces-2026-robotaxi-ai-ev-car-concepts",
+            "site_name": "The Verge",
+            "novelty_hash": "43d25ef02243d3904a4ce4e9d80708cf5af191a6"
+          },
+          "review": {
+            "headline_rewrite": "At CES, EVs take a backseat to robotaxis and AI",
+            "bullets": [
+              "At CES, EVs take a backseat to robotaxis and AI\nCES used to be a car show.",
+              "Now its another stop on the AI hype train.",
+              "Hyundai’s decision to use its CES keynote to tout Boston Dynamics’ Atlas robot sends a pretty clear message about how the auto industry is absorbing the bad news about EVs in the United States in 2025, and where it thinks things are heading in the new year.",
+              "EVs are out, and AI and robotaxis are in.",
+              "In addition to Hyundai, Mercedes announced its plans to roll out its Nvidia-powered Level 2++ driver assist feature in the US later this year.",
+              "And Nvidia, the world’s biggest chipmaker and arguably the company most responsible for the current AI bubble, announced a new family of open-source models called Alpamayo, which it says will power new autonomous and driver-assistance features."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
+            "link": "https://arstechnica.com/tech-policy/2026/01/letting-prisons-jam-contraband-phones-is-a-bad-idea-phone-companies-tell-fcc/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "cf07de0019068aeb642c93ae578ba66c2087fbf4"
+          },
+          "review": {
+            "headline_rewrite": "Letting prisons jam contraband phones is a bad idea, phone companies tell FCC",
+            "bullets": [
+              "Groups dedicated to Wi-Fi and GPS also raised concerns in comments to the FCC.",
+              "“Jamming will block all communications, not just communications from contraband devices,” wireless lobby group CTIA said in December 29 comments in response to Chairman Brendan Carr’s proposal.",
+              "The CTIA said that “jamming blocks all communications, including lawful communications such as 911 calling,” and argued that the FCC “has no authority to allow jamming.”\nCTIA members AT&T and Verizon expressed their displeasure in separate comments to the FCC.",
+              "While the Communications Act prohibits interference with authorized radio communications, Carr’s plan tries to sidestep this prohibition by proposing to de-authorize certain communications, AT&T wrote.",
+              "Previous FCC leaders recognized the problem that radio jammers can’t differentiate between contraband and legitimate devices, AT&T said.",
+              "“As explained above, there are no technical workarounds to that limitation with respect to jammers,” AT&T wrote."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Dell’s XPS revival is a welcome reprieve from the “AI PC” fad",
+            "link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ab0235e7cb96f36ed9bb8987312d8e1ff72536f1"
+          },
+          "review": {
+            "headline_rewrite": "Dell’s XPS revival is a welcome reprieve from the “AI PC” fad",
+            "bullets": [
+              "After making the obviously poor decision to kill its XPS laptops and desktops in January 2025, Dell started selling 16- and 14-inch XPS laptops again today.",
+              "“It was obvious we needed to change,” Jeff Clarke, vice chairman and COO at Dell Technologies, said at a press event in New York City previewing Dell’s CES 2026 announcements.",
+              "Inheriting traits from the XPS 13 Plus introduced in 2022, the XPS-equivalent laptops that Dell released in 2025 had a capacitive-touch row without physical buttons, a borderless touchpad with haptic feedback, and a flat, lattice-free keyboard.",
+              "The XPS 14 and XPS 16 laptops launching today have physical function rows."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
