@@ -26481,6 +26481,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:13": [
+        {
+          "item": {
+            "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+            "link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8e668dd85794dd3cd4954a28cfe3b204b98bda71"
+          },
+          "review": {
+            "headline_rewrite": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+            "bullets": [
+              "As has been the case for the past two years at CES, AI is at the forefront of many companies’ messaging, though the hardware upgrades and oddities that have long defined the annual event still have their place on the show floor and in adjacent announcements.",
+              "Nvidia reveals AI model for autonomous vehicles, showcases Rubin architecture\nNvidia CEO Jensen Huang delivered an expectedly lengthy presentation at CES, taking a victory lap for the company’s AI-driven successes, setting the stage for 2026, and yes, hanging out with some robots.",
+              "The Rubin computing architecture, which has been developed to meet the increasing computation demands that AI adoption creates, is set to begin replacing Blackwell architecture in the second half of this year.",
+              "It comes with speed and storage upgrades, but our Senior AI Editor Russell Brandom goes into the nitty-gritty of what distinguishes Rubin.",
+              "And Nvidia continued its push to bring the AI revolution into the physical world, showcasing its Alpamayo family of open-source AI models and tools that will be used by autonomous vehicles this year.",
+              "AMD’s keynote highlights new processors and partnerships\nAMD Chair and CEO Lisa Su delivered the first keynote of CES, with a presentation that featured partners including OpenAI President Greg Brockman, AI legend Fei-Fei Lei, Luma AI CEO Amit Jain, and more."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
+            "link": "https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump",
+            "site_name": "The Verge",
+            "novelty_hash": "57a56a78d182e79bfd91d28634b68398e1c4cf3a"
+          },
+          "review": {
+            "headline_rewrite": "Jake Sullivan is furious that Trump destroyed his AI foreign policy",
+            "bullets": [
+              "Jake Sullivan is furious that Trump destroyed his AI foreign policy\nBiden’s national security adviser tried to stop Nvidia from selling high-end chips to China.",
+              "In a wide-ranging interview with The Verge, Sullivan predicts the consequences of Trump reversing that policy.",
+              "In 2022, Jake Sullivan, then national security adviser under President Joe Biden and a powerful figure in the White House’s foreign policy team, assembled an interagency planning exercise out of the Situation Room: What were all the possible circumstances and outcomes of an AI arms race between the US and China — from trade wars to real wars, possibly even the arrival of AGI — and how would the federal government respond?",
+              "The details and results of that simulation are classified, but on Sunday, I spoke to Sullivan and asked if he could at least describe one outcome: Did they ever run a scenario where the AI industry’s profit interests were driving foreign policy instead of the government?",
+              "But he thinks about AI in a way that a former national security adviser would: as a means to gain a geopolitical advantage against adversaries like China.",
+              "His decision at the time was to place tight controls on the high-end chips that American companies were allowed to sell to China, extending a policy that dates back to the Cold War: Don’t sell high-end tech to America’s foreign enemies."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
+            "link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e0ea1ca8d8d4938081b549e7589547b999859c53"
+          },
+          "review": {
+            "headline_rewrite": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
+            "bullets": [
+              "A Reddit user claiming to be a whistleblower from a food delivery app has been outed as a fake.",
+              "“You guys always suspect the algorithms are rigged against you, but the reality is actually so much more depressing than the conspiracy theories,” the supposed whistleblower wrote.",
+              "He claimed to be drunk and at the library to use its public Wi-Fi, where he was typing this long screed about how the company was exploiting legal loopholes to steal drivers’ tips and wages with impunity.",
+              "Those claims were, unfortunately, believable — DoorDash actually was sued for stealing tips from drivers, resulting in a $16.75 million settlement.",
+              "The Redditor shared what looked like a photo of his UberEats employee badge, as well as an 18-page “internal document” outlining the company’s use of AI to determine the “desperation score” of individual drivers.",
+              "But as Newton tried to verify that the whistleblower’s account was legitimate, he realized that he was being baited into an AI hoax."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
+            "link": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b5c6e7064fa9c31d4bafae53b55208898593f567"
+          },
+          "review": {
+            "headline_rewrite": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard",
+            "bullets": [
+              "But Raspberry Pis largely appeal to tinkerers, DIYers, and Linux fans, making Pi-as-a-desktop a niche product with a substantial learning curve for newcomers.",
+              "HP says the EliteBoard will support Windows 11 Pro for Business and an AMD Ryzen AI 300-series processor with up to 50 TOPs NPU."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
+            "link": "https://arstechnica.com/gadgets/2026/01/nvidia-leans-on-dlss-improvements-to-make-up-for-a-lack-of-gpus-at-ces/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0981d9f6e546553b0ad1b239758411bbf8f74170"
+          },
+          "review": {
+            "headline_rewrite": "With GeForce Super GPUs missing in action, Nvidia focuses on software upgrades",
+            "bullets": [
+              "CEO Jensen Huang’s characteristically sprawling and under-rehearsed 90-minute keynote focused almost entirely on the company’s dominant AI business, relegating the company’s gaming-related announcements to a separate video posted later in the evening.",
+              "DLSS upscaling is being improved by a new “second-generation transformer model” that Nvidia says has been “trained on an expanded data set” to improve its predictions when generating new pixels.",
+              "DLSS Multi-Frame Generation is also improving, increasing the number of AI-generated frames per rendered frame from three to five.",
+              "This new 6x mode for DLSS MFG is being paired with something called Dynamic Multi-Frame Generation, where the number of AI-generated frames can dynamically change, increasing generated frames during “demanding scenes,” and decreasing the number of generated frames during simpler scenes “so it only computes what’s needed.”\nThe standard caveats for Multi-Frame Generation still apply: It still needs an RTX 50-series GPU (the 40-series can still only generate one frame for every rendered frame, and older cards can’t generate extra frames at all), and the game still needs to be running at a reasonably high base frame rate to minimize lag and weird rendering artifacts.",
+              "It remains a useful tool for making fast-running games run faster, but it won’t help make an unplayable frame rate into a playable one."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Grok Is Pushing AI ‘Undressing’ Mainstream",
+            "link": "https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/",
+            "site_name": "WIRED",
+            "novelty_hash": "97c8c1dd0531d26f3e9601eee4084d547bd0570f"
+          },
+          "review": {
+            "headline_rewrite": "Grok Is Pushing AI ‘Undressing’ Mainstream",
+            "bullets": [
+              "Elon Musk hasn’t stopped Grok, the chatbot developed by his artificial intelligence company xAI, from generating sexualized images of women.",
+              "The images do not contain nudity but involve the Musk-owned chatbot “stripping” clothes from photos that have been posted to X by other users.",
+              "Often, in an attempt to evade Grok’s safety guardrails, users are, not necessarily successfully, requesting photos to be edited to make women wear a “string bikini” or a “transparent bikini.”\nWhile harmful AI image generation technology has been used to digitally harass and abuse women for years—these outputs are often called deepfakes and are created by “nudify” software—the ongoing use of Grok to create vast numbers of nonconsensual images marks seemingly the most mainstream and widespread abuse instance to date.",
+              "Unlike specific harmful nudify or “undress” software, Grok doesn’t charge the user money to generate images, produces results in seconds, and is available to millions of people on X—all of which may help to normalize the creation of nonconsensual intimate imagery.",
+              "“When a company offers generative AI tools on their platform, it is their responsibility to minimize the risk of image-based abuse,” says Sloan Thompson, the director of training and education at EndTAB, an organization that works to tackle tech-facilitated abuse.",
+              "They’ve embedded AI-enabled image abuse directly into a mainstream platform, making sexual violence easier and more scalable.”\nOne analyst who has tracked explicit deepfakes for years, and asked not to be named for privacy reasons, says that Grok has likely become one of the largest platforms hosting harmful deepfake images."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
