@@ -22362,6 +22362,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "10:29": [
+        {
+          "item": {
+            "title": "AMD unveils new AI PC processors for general use and gaming at CES",
+            "link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a05c921e94372846b16015c8035328e203cef4a2"
+          },
+          "review": {
+            "headline_rewrite": "AMD unveils new AI PC processors for general use and gaming at CES",
+            "bullets": [
+              "AMD Chair and CEO Lisa Su kicked off her keynote at CES 2026 with a message about what compute could deliver: AI for everyone.",
+              "As part of that promise, AMD announced a new line of AI processors as the company thinks AI-powered personal computers are the way of the future.",
+              "The semiconductor giant revealed AMD Ryzen AI 400 Series processor, its latest version of its AI-powered PC chips, at the yearly CES conference on Monday.",
+              "These new chips feature 12 CPU Cores, individual processing units inside a core processor, and 24 threads, independent streams of instruction\nThis is an upgrade to the Ryzen AI 300 Series processor that was announced in 2024.",
+              "Rahul Tikoo, senior vice president and general manager of AMD’s client business, said AMD has expanded to over 250 AI PC platforms on the company’s recent press briefing.",
+              "“In the years ahead, AI is going to be a multi-layered fabric that gets woven into every level of computing at the personal layer,” Tikoo said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops",
+            "link": "https://arstechnica.com/gadgets/2026/01/amd-reheats-last-years-ryzen-ai-and-x3d-cpus-for-2026s-laptops-and-desktops/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e2bff3e33118e80efc1c5f08a635de8f2c445159"
+          },
+          "review": {
+            "headline_rewrite": "AMD reheats last year’s Ryzen AI and X3D CPUs for 2026’s laptops and desktops",
+            "bullets": [
+              "Intel, AMD, Nvidia, and other chip companies usually have some kind of news to announce at CES to kick off the year, but some of those announcements are more interesting than others.",
+              "Sometimes you see new chips with significant speed boosts and other new technologies, and sometimes you get rebranded versions of old silicon meant to fill out a lineup or make an existing architecture seem newer and more exciting than it is.",
+              "AMD’s Ryzen CPU announcements this year fall firmly into the latter camp—these are all gently tweaked variants of chips that launched in 2024 and 2025.",
+              "“New,” for certain values of “new”\nLet’s start with the Ryzen AI 400 series.",
+              "Officially the follow-up to the Ryzen AI 300 chips announced in June 2024, these processors offer some modest clock speed improvements and faster memory support.",
+              "The new Ryzen AI 9 HX 470 has a peak boost clock speed of 5.2 GHz and support for LPDDR5x-8533, for example, up from 5.1 GHz and LPDDR5x-8000 for the Ryzen AI 9 HX 370, and its built-in neural processing unit (NPU) is capable of 60 trillion operations per second (TOPS) rather than 50 TOPS."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "HP crammed an entire desktop computer into this keyboard",
+            "link": "https://www.theverge.com/news/851965/hp-crammed-an-entire-desktop-computer-into-this-keyboard",
+            "site_name": "The Verge",
+            "novelty_hash": "f0b320e443a5da10edaa98bc3f735588ed22d997"
+          },
+          "review": {
+            "headline_rewrite": "HP crammed an entire desktop computer into this keyboard",
+            "bullets": [
+              "The Eliteboard G1a looks like a normal office keyboard with either a captive or detachable USB-C cable, but inside it is an AMD Ryzen AI 300-series chip, stereo speakers, RAM, storage, a fan, and ports — all the things that make up a computer.",
+              "You just plug this keyboard into a monitor (up to dual 4K displays via daisy-chain connection), turn on the included and pre-paired Bluetooth mouse, and you’re good to go.",
+              "HP crammed an entire desktop computer into this keyboard\nThe HP Eliteboard G1a packs an AMD chip into a keyboard with either an attached or detachable USB-C cable.",
+              "The Eliteboard isn’t likely to blow the doors off a proper desktop or small form factor PCs in terms of performance, but its AMD Krackan Point processor options ranging from a Ryzen AI 5 350 to a Ryzen AI 7 370 Pro should be more than capable for office work and productivity apps.",
+              "The detachable cable version sounds more appealing to my keyboard-pilled brain (as it’s what I’m used to with mechanical boards), but the Eliteboard with the attached cable has a spare USB4 port to use.",
+              "The Eliteboard G1a is expected to launch in March, but HP doesn’t have pricing."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AMD heard you like powerful gaming portables — so here are new Strix Halo chips",
+            "link": "https://www.theverge.com/tech/855463/amd-strix-halo-ai-max-plus-388-392-handheld-gaming",
+            "site_name": "The Verge",
+            "novelty_hash": "cc7ec4e000baf8963bb6d04e334a312d1adcf98b"
+          },
+          "review": {
+            "headline_rewrite": "AMD heard you like powerful gaming portables — so here are new Strix Halo chips",
+            "bullets": [
+              "AMD’s Strix Halo, aka “Ryzen AI Max,” is a hugely expensive chip that includes some of the most powerful integrated graphics ever made.",
+              "Though AMD initially marketed it more to AI workloads with its tremendous complement of up to 128GB of RAM, it’s also inspired some unprecedented gaming designs — by far the most powerful handheld, the Framework Desktop, and this monster Asus tablet.",
+              "AMD heard you like powerful gaming portables — so here are new Strix Halo chips\nWill AI Max Plus chips make seriously powerful handhelds more affordable?",
+              "Maybe that’ll change now that AMD’s announcing two lower-end Ryzen AI Max Plus parts with full-fat graphics but fewer CPU cores, specifically aimed at gaming devices.",
+              "They still have 40 graphics compute units for 60 teraflops, but the Ryzen AI Max Plus 392 has 12 cores rather than 16, and the Max Plus 388 has just eight CPU cores.",
+              "“The reason we introduced the 392 and 388 chips is because those are the right products for gamers we’re bringing in,” AMD client chip boss Rahul Tikoo tells us in a press briefing."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Alienware teases new super-slim and entry-level gaming laptops at CES 2026",
+            "link": "https://www.engadget.com/computing/laptops/alienware-teases-new-super-slim-and-entry-level-gaming-laptops-at-ces-2026-033000700.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1fb045e01248ad5eab67760b92502153733dd4e8"
+          },
+          "review": {
+            "headline_rewrite": "Alienware teases new super-slim and entry-level gaming laptops at CES 2026",
+            "bullets": [
+              "After relaunching its Area-51 brand with a new 16-inch laptop in 2025, Alienware is teasing two new laptops at CES 2026 in an attempt to reach an even larger audience.",
+              "Dell's gaming brand plans to launch both entry-level and ultra-slim models later this year, and in the meantime, it's rolling out updates to its existing desktops and laptops to tide people over.",
+              "Alienware isn't sharing all the details of its new laptops at CES, but we do have the highlights.",
+              "Instead, Alienware suggests the laptop will work for gaming and also \"creative projects, productivity and everything in between.\"\nThe entry-level laptop is similarly not at Area-51-levels of power, but Alienware claims it'll deliver \"strong gaming performance\" at its \"most accessible price point yet.\" That should ideally put the new laptop under the $1,199 starting price of the more streamlined Alienware 16 Aurora laptop.",
+              "On top of those two new models, Alienware is bringing new anti-glare OLED panels to a selection of its Alienware 16X Aurora and Alienware 16 Area-51 laptops, along with new Intel Core Ultra 200HX chips.",
+              "The Alienware 18 Area-51 is also getting an upgrade to Intel Core Ultra 200HX chips, while the Alienware Area-51 Desktop will ship with AMD's new Ryzen 7 9850X3D chips."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AMD's new Ryzen AI Max+ chips and Ryzen 7 9850X3D court desktop enthusiasts at CES 2026",
+            "link": "https://www.engadget.com/computing/amds-new-ryzen-ai-max-chips-and-ryzen-7-9850x3d-court-desktop-enthusiasts-at-ces-2026-033000587.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0612450a2f0704e8d1ec844ee0bbb33721a068e2"
+          },
+          "review": {
+            "headline_rewrite": "AMD's new Ryzen AI Max+ chips and Ryzen 7 9850X3D court desktop enthusiasts at CES 2026",
+            "bullets": [
+              "While it's nice to see desktop support in AMD's new Ryzen AI 400 chips, demanding gamers and enthusiasts will likely be more intrigued by the company's next batch of Ryzen AI Max+ chips, as well as the new Ryzen 7 9850X3D with 3D V-Cache.",
+              "Last year, AMD debuted its Ryzen AI Max chips as a way to create a single piece of silicon with powerful CPU cores, GPU cores, NPUs and integrated memory, similar to Apple's home-brewed chips.",
+              "At the time, AMD VP Joe Macri also noted that the existence of Apple Silicon helped make the Ryzen AI Max chips possible.",
+              "\"Many people in the PC industry said, well, if you want graphics, it's gotta be discrete graphics because otherwise people will think it's bad graphics,\" Macri said at last year's CES.",
+              "They care about what it does.\"\nAt CES this year, AMD is unveiled the 12-core Ryzen AI Max+ 392 and eight-core Ryzen AI Max+ 388.",
+              "Both chips feature boost speeds up to 5GHz, 50 TOPS NPUs and GPUs capable of 60 TFLOPs."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
