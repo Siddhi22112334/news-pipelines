@@ -25512,6 +25512,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:12": [
+        {
+          "item": {
+            "title": "LMArena lands $1.7B valuation four months after launching its product",
+            "link": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation-four-months-after-launching-its-product/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "71ba6f8ca43e1b61f086882bf9b0aba18ffc4545"
+          },
+          "review": {
+            "headline_rewrite": "LMArena lands $1.7B valuation four months after launching its product",
+            "bullets": [
+              "LMArena, a startup that originally launched as UC Berkeley research project in 2023, announced on Tuesday that it raised an $150 million Series A at a post-money valuation of $1.7 billion.",
+              "This new rounds means it raised $250 million in about seven months.",
+              "LMArena is best known for its crowdsourced AI model performance leaderboards.",
+              "The models it tests include various flavors of OpenAI GPT, Google Gemini, Anthropic Claude, and Grok, as well as ones that are geared toward specialties like image generation, text to image, or reasoning.",
+              "When LMArena started pursuing revenue, it partnered with select model companies such as OpenAI, Google, and Anthropic to make their flagship models available for its community to evaluate.",
+              "In September, it publicly launched a commercial service, AI Evaluations, in which enterprises, model labs, and developers can hire the company to perform model evaluations through its community."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel is building a handheld gaming platform including a dedicated chip",
+            "link": "https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "81a23a4ebea3624e6412abe4e2495fcebbfb7145"
+          },
+          "review": {
+            "headline_rewrite": "Intel is building a handheld gaming platform including a dedicated chip",
+            "bullets": [
+              "Intel is looking to double down on gaming hardware with a new chip and platform for portable gaming devices.",
+              "The platform will include hardware and software, Intel vice president and general manager of PC products, Daniel Rogers, announced at CES on Monday.",
+              "This future platform includes a chip specifically for handheld gaming devices, according to reporting from IGN, which was confirmed by TechCrunch.",
+              "These Panther Lake chips are the company’s first built on its 18A manufacturing process which started production in 2025.",
+              "Intel is no stranger to the gaming industry and has been building chips for gaming PCs since the 90s.",
+              "The company leaned more heavily into gaming in 2022 with the release of its Intel Arc GPUs."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The biggest Nvidia announcements at CES 2026",
+            "link": "https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup",
+            "site_name": "The Verge",
+            "novelty_hash": "2ad909a3cbf42a16bea6b7ca983f1169bd742190"
+          },
+          "review": {
+            "headline_rewrite": "The biggest Nvidia announcements at CES 2026",
+            "bullets": [
+              "We’re not even a full week into 2026 yet, but Nvidia has already announced several products and updates to start the new year.",
+              "Nvidia’s new Vera Rubin architecture was launched earlier than expected at CES, joined by announcements for its own Tesla-rivaling self-driving car technology, and the latest updates coming to DLSS, G-Sync display tech, and the GeForce Now cloud gaming platform.",
+              "While none of these hold quite the same appeal as a new generation of consumer graphics cards — something we might see at CES 2027, following the RTX 50-series launch last year — it can still be a lot to parse, especially through the vast slurry of everything else being promoted at the giant Consumer Electronics Show.",
+              "Vera Rubin ‘AI supercomputer’\nNvidia launched the Vera Rubin platform during its CES keynote, its next-generation successor to the Blackwell architecture that’s currently used in its most powerful AI chips.",
+              "Nvidia says this new architecture, which is named after American astronomer Vera Rubin, can train large “mixture of experts” (MoE) AI models as quickly as Blackwell, but with far greater efficiency.",
+              "Dion Harris, Nvidia’s senior director of HPC and AI infrastructure solutions, described Vera Rubin as “six chips that make one AI supercomputer,” which include the Vera CPU, Rubin GPU, NVLink 6th-gen switch, Connect-X9 NIC, BlueField4 DPU, and Spectrum-X 102.4T CPO."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News orgs want OpenAI to dig up millions of deleted ChatGPT logs",
+            "link": "https://arstechnica.com/ai/2026/01/news-orgs-want-openai-to-dig-up-millions-of-deleted-chatgpt-logs/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a52322f808493734668eb576b44f211c0bbc950d"
+          },
+          "review": {
+            "headline_rewrite": "News orgs want OpenAI to dig up millions of deleted ChatGPT logs",
+            "bullets": [
+              "Not only does it appear that OpenAI has lost its fight to keep news organizations from digging through 20 million ChatGPT logs to find evidence of copyright infringement—but also OpenAI now faces calls for sanctions and demands to retrieve and share potentially millions of deleted chats long thought of as untouchable in the litigation.",
+              "On Monday, US District Judge Sidney Stein denied objections that OpenAI raised, claiming that Magistrate Judge Ona Wang failed to adequately balance the privacy interests of ChatGPT users who are not involved in the litigation when ordering OpenAI to produce 20 million logs.",
+              "Instead, OpenAI wanted Stein to agree that it would be much less burdensome to users if OpenAI ran search terms to find potentially infringing outputs in the sample.",
+              "That way, news plaintiffs would only get access to chats that were relevant to its case, OpenAI suggested.",
+              "But Stein found that Wang appropriately weighed ChatGPT users’ privacy interests when ordering OpenAI to produce the logs.",
+              "For example, to shield ChatGPT users, the total number of logs shared was substantially reduced from tens of billions to 20 million, he wrote, and OpenAI has stripped all identifying information from any chats that will be shared."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI moves into the real world as companion robots and pets",
+            "link": "https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet",
+            "site_name": "The Verge",
+            "novelty_hash": "390f2b15a02b73fc4bcff38bac4b8592b948b946"
+          },
+          "review": {
+            "headline_rewrite": "AI moves into the real world as companion robots and pets",
+            "bullets": [
+              "Sometimes, AI just wants to be your friend.",
+              "And while robot pets weren’t the biggest stars of CES 2026, they’ve become more than just noise and are signaling how AI is apparently leaving our screens and taking on a physical presence in our lives.",
+              "AI moves into the real world as companion robots and pets\nSometimes AI doesn’t need to be a know-it-all, it just wants to keep you company.",
+              "To be clear, there’s no shortage of purpose-built machines on display in Las Vegas: there’s Samsung’s voice-controlled refrigerator, Bosch’s Alexa Plus-powered AI barista, and smarter robovacs like Narwal’s earring-finding Flow 2 or Anker’s Eufy S2, which moonlights as an aromatherapy diffuser – all promising to automate the drudgery of daily life.",
+              "Humanoid robots like LG’s CLOiD and SwitchBot’s Onero H1 stole much of the spotlight, too, taking that logic a step further by promising more general-purpose helpers around the home — or the factory floor, in the case of Boston Dynamics’ Atlas — even if they remain years away from everyday use.",
+              "The company says the tool is powered by AI, though it does not say how."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Appeals court agrees that Congress blocked cuts to research costs",
+            "link": "https://arstechnica.com/science/2026/01/appeals-court-upholds-block-on-one-of-trumps-cuts-to-research-funds/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "105ed3dd6501f4149297598dc2e86da1c12ad483"
+          },
+          "review": {
+            "headline_rewrite": "Appeals court agrees that Congress blocked cuts to research costs",
+            "bullets": [
+              "One of the first signs of what would become an ongoing attack on scientific research came when the Trump administration ordered the National Institutes of Health (NIH) to radically reduce research funding for universities.",
+              "They cover costs that aren’t directly associated with the research project, such as utilities, facilities for research animals, and building maintenance.",
+              "A number of states, later joined by organizations representing a broad array of universities and medical schools, immediately sued to block the policy change.",
+              "A district court temporarily blocked the new policy from being implemented and later issued a permanent injunction.",
+              "Indirect research funding will remain intact unless the Supreme Court intervenes.",
+              "Don’t try that again\nUniversities rely on indirect costs to cover everything from building and maintaining dedicated lab space to paying the staff who pick up trash and dispose of hazardous waste."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
