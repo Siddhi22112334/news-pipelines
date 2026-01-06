@@ -24329,6 +24329,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:22": [
+        {
+          "item": {
+            "title": "Amazon’s Ring doorbells get fire alerts, an app store and new sensors",
+            "link": "https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ad6d4feee470ee279c63885d58629c08e88e68ff"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s Ring doorbells get fire alerts, an app store and new sensors",
+            "bullets": [
+              "The company said the new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor carbon monoxide levels, leaks, temperature changes, and air quality.",
+              "The store is currently available in the U.S.",
+              "While the company didn’t specify what kind of apps the store would feature, it said these apps would focus on small business operations and everyday needs around the house.",
+              "Notably, the new devices being launched support Amazon’s Sidewalk shared network feature, which creates a mesh network between the company’s Echo and Ring devices by sharing a small portion of your bandwidth, enabling devices to work even when they aren’t in wireless range of your Wi-Fi router.",
+              "Amazon is also adding a new AI-based feature to Ring cameras that learns the everyday patterns of a property and alerts users if anything unusual occurs.",
+              "Dubbed “AI Unusual Event Alerts,” the company said the feature enables the Ring camera to surface specific warnings when it detects a person, based on location, actions and clothing."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything announced at CES 2026",
+            "link": "https://www.engadget.com/general/everything-announced-at-ces-2026-130124802.html",
+            "site_name": "Engadget",
+            "novelty_hash": "6183269480ca94943d2af92f2b07b777f06395a8"
+          },
+          "review": {
+            "headline_rewrite": "Everything announced at CES 2026",
+            "bullets": [
+              "Samsung has already held its First Look presentation, which focuses on home products, while LG has shown off a wide array of TVs and Lego unveiled its new Smart Brick technology.",
+              "However, Micro RGB units are said to be brighter and more color accurate than TVs that use other display tech, in part because the LEDs in these screens offer smaller, more customizable dimming zones.",
+              "Read reporter Steve Dent’s explainer for a deeper dive into how Micro RGB differs from other types of display tech.",
+              "Speaking of Fire TV, Amazon has revamped the platform’s user interface with rounded corners for show, movie and app tiles; a little more space for said tiles; and typography and color gradient changes.",
+              "The company is bringing the ability to search Google Photos for certain moments and people to Google TV, along with the options to remix photos into different styles and create slideshows on the fly.",
+              "The Veo and Nano Banana AI video and photo generation models are coming to Google TV as well."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Razer’s AI wearable is a headset with built-in cameras",
+            "link": "https://www.theverge.com/tech/854756/razer-concept-ai-wearable-headphones-project-motoko",
+            "site_name": "The Verge",
+            "novelty_hash": "0ab16596c6a059e6b9fbd337c196f782182281b0"
+          },
+          "review": {
+            "headline_rewrite": "Razer’s AI wearable is a headset with built-in cameras",
+            "bullets": [
+              "Razer announced a concept AI wearable at CES that resembles a pair of wireless headphones (or Razer’s Barracuda gaming headsets, to be precise), with two camera lenses built into the ear cups.",
+              "Razer’s AI wearable is a headset with built-in cameras\nSay hello to the Snapdragon-powered ‘Project Motoko’ concept.",
+              "The current iteration of Project Motoko is powered by an unspecified Qualcomm Snapdragon chip and uses dual first-person-view cameras positioned at eye level to capture objects, text, and anything else around you.",
+              "Motoko is designed to be compatible with all major AI models, including those from OpenAI, Google Gemini, and Grok.",
+              "The wearable “interprets and responds instantly, acting as a full-time AI assistant that adapts to schedules, preferences, and habits,” according to Razer, and will be able to understand context “instantly.”\nIt’s a design that makes a lot of sense.",
+              "The company believes a headphone form factor is superior to glasses for an AI wearable and says there’s an “untapped” market of 1.4 billion headset users."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Aqara came to CES with something to prove",
+            "link": "https://www.theverge.com/tech/854695/aqara-came-to-ces-with-something-to-prove",
+            "site_name": "The Verge",
+            "novelty_hash": "bad205534a4cde1185b5b9fa5c3d4d1d6b7fdc8d"
+          },
+          "review": {
+            "headline_rewrite": "Aqara came to CES with something to prove",
+            "bullets": [
+              "Aqara came to Vegas with a number of smart home firsts in its rapidly growing portfolio.",
+              "It’s showcasing an impressive smart lock that unlocks on approach, a thermostat with support for Apple’s Adaptive Temperature and Clean Energy Guidance, a Matter-enabled camera, and a pair of sensors to track human occupants and objects.",
+              "They also support Aqara’s quest for “Spatial Intelligence” that allows the hubs to act as a central point to connect and manage both Aqara devices and Matter-compatible products.",
+              "It’s all part of the company’s long-term effort to achieve ambient intelligence in the home with some help from AI.",
+              "Aqara didn’t provide any pricing ahead of the thermostat’s launch next month.",
+              "Aqara is pricing the U400 smart lock at $269.99 and it’s available today."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "CES 2026 day 0: The biggest news you missed from the show's Monday press conferences",
+            "link": "https://www.engadget.com/big-tech/ces-2026-day-0-the-biggest-news-you-missed-from-the-shows-monday-press-conferences-142811448.html",
+            "site_name": "Engadget",
+            "novelty_hash": "e1e5586645cfbd1ef9248b7640ea8a793cc41416"
+          },
+          "review": {
+            "headline_rewrite": "CES 2026 day 0: The biggest news you missed from the show's Monday press conferences",
+            "bullets": [
+              "AI was everywhere, chipmakers dominated the schedule and a handful of brands used the pre-show window to quietly drop meaningful hardware updates.",
+              "LG doubles down on AI\nLG’s World Premiere keynote leaned hard into its vision of “Affectionate Intelligence,” with AI positioned as the connective tissue across TVs, appliances and even robotics.",
+              "NVIDIA pushes deeper into physical AI\nNVIDIA’s CES keynote was long, dense and firmly focused on AI infrastructure rather than consumer GPUs.",
+              "CEO Jensen Huang introduced the Vera Rubin supercomputer platform, alongside updates to NVIDIA’s open AI models, robotics tools and autonomous vehicle stack.",
+              "Between discussions of “physical AI,” self-driving systems and massive data center hardware, NVIDIA made it clear it sees CES as a place to define the future of computing, not just sell graphics cards.",
+              "Intel tries to reset the PC narrative\nIntel’s press conference followed NVIDIA’s with a more focused pitch: the launch of Core Ultra Series 3 processors, also known as Panther Lake."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Spot the difference: Sony’s electric car gets a crossover version",
+            "link": "https://arstechnica.com/cars/2026/01/sony-wants-its-afeela-ev-to-be-heavy-on-ai-also-shows-crossover/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c5411bcf02aef7cfc4af0db8a32543c799b580f4"
+          },
+          "review": {
+            "headline_rewrite": "Spot the difference: Sony’s electric car gets a crossover version",
+            "bullets": [
+              "Production of the Afeela 1, the electric sedan that has been developed by Sony Honda Mobility, is already underway in Ohio.",
+              "“The way we are fusing diverse technologies to deliver a completely novel mobility experience is not limited to a single model type,” said Sony Honda Mobility CEO Yasuhide Mizuno.",
+              "We first saw a Sony electric vehicle back at CES in 2020 when the consumer electronics company showed off the Vision-S, telling the world it was mostly just a showcase for things like sensors and infotainment.",
+              "And in China particularly, we’re seeing how tech companies can make highly competitive EVs with infotainment experiences that, I’m told, far outstrip anything we’re seeing here from more traditional OEMs."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
