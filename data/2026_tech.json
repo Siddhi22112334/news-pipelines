@@ -29959,6 +29959,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:55": [
+        {
+          "item": {
+            "title": "Anthropic reportedly raising $10B at $350B valuation",
+            "link": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f211a4b08be5b59e4851c99d31980fdb021fd487"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic reportedly raising $10B at $350B valuation",
+            "bullets": [
+              "Anthropic is gearing up to raise a fresh $10 billion at a $350 billion valuation, according to The Wall Street Journal.",
+              "TechCrunch has confirmed the raise and valuation, according to a person familiar with the matter.",
+              "The Claude maker last raised a $13 billion Series F round at a $183 billion valuation three months ago, so this raise nearly doubles the AI firm’s value.",
+              "This round would be separate from the $15 billion Nvidia and Microsoft recently committed to invest in Anthropic, a “circular” deal that would see Anthropic buying $30 billion of compute capacity from Microsoft Azure running on Nvidia’s chips.",
+              "The fresh capital comes as Anthropic continues to win over developer hearts with Claude Code, its tool designed to automate coding, powered by Claude Opus 4.5.",
+              "It also comes as Anthropic prepares for a potential IPO this year alongside its main rival OpenAI."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches ChatGPT Health, encouraging users to connect their medical records",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records",
+            "site_name": "The Verge",
+            "novelty_hash": "5d1b8a9e7c4b61505afd689f428a1165773d249a"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches ChatGPT Health, encouraging users to connect their medical records",
+            "bullets": [
+              "OpenAI has been dropping hints this week about AI’s role as a “healthcare ally” — and today, the company is announcing a product to go along with that idea: ChatGPT Health.",
+              "OpenAI launches ChatGPT Health, encouraging users to connect their medical records\nBut it’s ‘not intended for diagnosis or treatment.’\nChatGPT Health is a sandboxed tab within ChatGPT that’s designed for users to ask their health-related questions in what it describes as a more secure and personalized environment, with a separate chat history and memory feature than the rest of ChatGPT.",
+              "On the medical records front, OpenAI says it’s partnered with b.well, which will provide back-end integration for users to upload their medical records, since the company works with about 2.2 million providers.",
+              "For now, ChatGPT Health requires users to sign up for a waitlist to request access, as it’s starting with a beta group of early users, but the product will roll out gradually to all users regardless of subscription tier.",
+              "The company makes sure to mention in the blog post that ChatGPT Health is “not intended for diagnosis or treatment,” but it can’t fully control how people end up using AI when they leave the chat.",
+              "Google’s AI Overview made headlines for weeks after its launch over dangerous advice, such as putting glue on pizza, and a recent investigation by The Guardian found that dangerous health advice has continued, with false advice for liver function tests, women’s cancer tests, and recommended diets for those with pancreatic cancer."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Where VCs think AI startups can win, even with OpenAI in the game",
+            "link": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2699a41fe887a8eda2a4ed2040cf7465e372d6a5"
+          },
+          "review": {
+            "headline_rewrite": "Where VCs think AI startups can win, even with OpenAI in the game",
+            "bullets": [
+              "Vanessa Larco, partner at Premise and former partner at NEA, thinks 2026 will finally be the year of consumer AI.",
+              "Larco, who’s been investing in consumer and prosumer for years, thinks we’re about to see a shift in how consumers spend time online, with AI powering “concierge-like” services.",
+              "The question is, will legacy consumer products like WebMD and TripAdvisor continue to exist as standalone apps, or will they just get absorbed into ChatGPT or Meta AI?",
+              "And where can startups carve out an AI-powered niche for themselves?",
+              "Watch as TechCrunch’s Rebecca Bellan sat down with Larco on Equity to talk about why consumer is back, what OpenAI won’t kill, and where the real opportunities are hiding."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
+            "link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1669d60ec57c6db2e500a76e4117699e73c3dcc1"
+          },
+          "review": {
+            "headline_rewrite": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life",
+            "bullets": [
+              "Bose released the Application Programming Interface (API) documentation for its SoundTouch speakers today, putting a silver lining around the impending end-of-life (EoL) of the expensive home theater devices.",
+              "At the time, Bose said that the speakers would only work if a device was connected via AUX, HDMI, or Bluetooth (which has higher latency than Wi-Fi).",
+              "After that date, the speakers would stop receiving security and software updates and lose cloud connectivity and their companion app, the Framingham, Massachusetts-based company said.",
+              "Many questioned companies’ increasingly common practice of bricking expensive products to focus on new devices or to minimize costs, or because they’ve gone through acquisitions or bankruptcy.",
+              "In an email to customers, Bose announced that AirPlay and Spotify Connect will still work with SoundTouch speakers after EoL, expanding the wireless capabilities that people will still be able to access.",
+              "Additionally, SoundTouch devices that support AirPlay 2 can play the same audio simultaneously."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon&#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay",
+            "link": "https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "9effe14fd72e96a48684eab5bd325469a559372e"
+          },
+          "review": {
+            "headline_rewrite": "Amazon&#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay",
+            "bullets": [
+              "Amazon is launching a revamped version of its smart shopping cart, which it plans to bring to dozens of Whole Foods locations by the end of this year, according to an announcement on Wednesday.",
+              "Amazon is launching its new Dash Cart as the company shakes up its grocery business, which has tied Whole Foods more closely to the Amazon brand."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI Models Are Starting to Learn by Asking Themselves Questions",
+            "link": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/",
+            "site_name": "WIRED",
+            "novelty_hash": "c594255ce258a0ceeb1dba160594496d06c986a5"
+          },
+          "review": {
+            "headline_rewrite": "AI Models Are Starting to Learn by Asking Themselves Questions",
+            "bullets": [
+              "But perhaps AI can, in fact, learn in a more human way—by figuring out interesting questions to ask itself and attempting to find the right answer.",
+              "A project from Tsinghua University, the Beijing Institute for General Artificial Intelligence (BIGAI), and Pennsylvania State University shows that AI can learn to reason in this way by playing with computer code.",
+              "And finally, the AZR system uses successes and failures as a signal to refine the original model, augmenting its ability to both pose better problems and solve them.",
+              "I spoke to Andrew Zhao, a PhD student at Tsinghua University who came up with the original idea for Absolute Zero, as well as Zilong Zheng, a researcher at BIGAI who worked on the project with him, over Zoom.",
+              "“In the beginning you imitate your parents and do like your teachers, but then you basically have to ask your own questions,” he said.",
+              "“And eventually you can surpass those who taught you back in school.”\nZhao and Zheng noted that the idea of AI learning in this way, sometimes dubbed “self-play,” dates back years and was previously explored by the likes of Jürgen Schmidhuber, a well-known AI pioneer, and Pierre-Yves Oudeyer, a computer scientist at Inria in France."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
