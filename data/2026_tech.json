@@ -27805,6 +27805,79 @@
             "impact": "Negative"
           }
         }
+      ],
+      "15:23": [
+        {
+          "item": {
+            "title": "CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen",
+            "link": "https://www.wired.com/live/ces-2026-live-blog/",
+            "site_name": "WIRED",
+            "novelty_hash": "1e77f4d7616c21a386f90be1d4857bf09415e0c8"
+          },
+          "review": {
+            "headline_rewrite": "CES Live Blog, Day 3: Even More of the Coolest Tech We’ve Seen",
+            "bullets": [
+              "The 200 LEDs are set in a (again, beautiful!) microcircuit to precisely control the emission of two selected wavelengths of light—red light (630 nm) and near-infrared light (830 nm).",
+              "Guive Balooch, L'Oreal's global vice president of technology, noted that usability is incredibly important for something that you're supposed to wear every day against your skin.",
+              "“It's the world's lightest face mask, near 1-mm thick,” Balooch said.",
+              "While it's important to note that this is still a prototype, Balooch also said that the battery life is incredibly long, lasting for weeks of use instead of three or four uses or hours that is now standard.",
+              "These Earbuds Can Dictate Whispers\nAI-based noise suppression is already baked into just about every piece of tech you already own, often times in multiple layers, but I've never seen anything this precise.",
+              "They claim to have nailed its machine learning algorithm in a way that companies like Apple, Nvidia, Microsoft, and Google haven’t been able to do."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "It turns out I’ve been using my Hue lights all wrong",
+            "link": "https://www.theverge.com/tech/857250/philips-hue-spatial-aware-smart-lighting-feature",
+            "site_name": "The Verge",
+            "novelty_hash": "865d70a7594705da9b76a64c92e7a53a1004d91d"
+          },
+          "review": {
+            "headline_rewrite": "It turns out I’ve been using my Hue lights all wrong",
+            "bullets": [
+              "Held in a dining room filled with Hue ambient lighting products and Hue bulbs in overhead can lighting, the demo showed the original scene, then the remastered scene.",
+              "Photos and video by Jennifer Pattison Tuohy / The Verge\nMost Popular\n- Lego announces Smart Brick, the ‘most significant evolution’ in 50 years\n- The best tech announced at CES 2026 so far\n- CES 2026 live: all the news, announcements, and innovations from the show floor and beyond\n- Corsair fit a whole Stream Deck into its new gaming keyboard\n- I tested Apple’s hands-free Home Key — and it’s a big upgrade"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 7, 2026 Google AI CEO Demis Hassabis wants everyone to know that Gemini 3.0 Pro is better than any of ChatGPT models with testimonial saying: I was literally a top 1% user of ChatGPT in 2025 and ...",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-ai-ceo-demis-hassabis-wants-everyone-to-know-that-gemini-3-0-pro-is-better-than-any-of-chatgpt-models-with-testimonial-saying-i-was-literally-a-top-1-user-of-chatgpt-in-2025-and-/articleshow/126390433.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "3ae194e4c9c26bab6bee20b8008ff7a38729268a"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 7, 2026 Google AI CEO Demis Hassabis wants everyone to know that Gemini 3.0 Pro is better than any of ChatGPT models with testimonial saying: I was literally a top 1% user of ChatGPT in 2025 and ...",
+            "bullets": [
+              "Among others, it caught the attention of Google AI CEO Demis Hassabis who reposted it.",
+              "Being a heavy AI user, Carlson asserts Gemini 3.0 Pro surpasses all ChatGPT models in reasoning, logical soundness, explanatory depth, and access to recent data, based on his intensive daily workflows like business analysis and idea validation.",
+              "Google leaves ChatGPT âbehindâ in AI market share: Report\nInterestingly, Carlsonâs remarks resonate with a recent report by Menlo Venture which revealed that OpenAI seems to have lost significant market share in the lucrative market for enterprise customers, falling to 27%.",
+              "Incidentally, the ChatGPT-maker disputes the figures from Menlo, noting that the venture capital company is an investor in Anthropic.",
+              "Data from Similarweb reveals that in the last 12 months, Google's Gemini has reportedly more than tripled its share of generative AI web traffic, climbing from a modest 5.4% to 18.2%."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
