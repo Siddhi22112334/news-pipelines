@@ -34043,5 +34043,127 @@
         }
       ]
     }
+  },
+  "2026-01-09": {
+    "runs": {
+      "00:26": [
+        {
+          "item": {
+            "title": "AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track",
+            "link": "https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "ef56c9fbe117d5da7304e885baf8e4c34542b62d"
+          },
+          "review": {
+            "headline_rewrite": "AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track",
+            "bullets": [
+              "In the rolling hills of Berkeley, California, an AI agent is supporting high-stakes physics experiments at the Advanced Light Source (ALS) particle accelerator.",
+              "Researchers at the Lawrence Berkeley National Laboratory ALS facility recently deployed the Accelerator Assistant, a large language model (LLM)-driven system to keep X-ray research on track.",
+              "The Accelerator Assistant — powered by an NVIDIA H100 GPU harnessing CUDA for accelerated inference — taps into institutional knowledge data from the ALS support team and routes requests through Gemini, Claude or ChatGPT.",
+              "“It’s really important for such a machine to be up, and when we go down, there are 40 beamlines that do X-ray experiments, and they are waiting,” said Thorsten Hellert, staff scientist from the Accelerator Technology and Applied Physics Division at Berkeley Lab and lead author of a research paper on the groundbreaking work.",
+              "“The novel approach offers a blueprint for securely and transparently applying large language model-driven systems to particle accelerators, nuclear and fusion reactor facilities, and other complex scientific infrastructures,” said Hellert.",
+              "Applying Context Engineering Prompts to Accelerator Assistant\nThe ALS operators interact with the system through either a command line interface or Open WebUI, which enables interaction with various LLMs and is accessible from control room stations, as well as remotely."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
+            "link": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "78f33a363883b300bfec4b8fe0e391ec2ae48573"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
+            "bullets": [
+              "OpenAI is kicking off the new year with yet another acqui-hire.",
+              "The AI giant is acquiring the team behind Convogo, a business software platform that helps executive coaches, consultants, talent leaders and HR teams automate and improve leadership assessments and feedback reporting.",
+              "An OpenAI spokesperson said the company is not acquiring Convogo’s IP or technology, but rather hiring the team to work on its “AI cloud efforts.” The three co-founders – Matt Cooper, Evan Cater, and Mike Gillett – will join OpenAI as part of what a source familiar with the matter called an all-stock deal.",
+              "Convogo’s product will be wound down.",
+              "The startup began as a “weekend hackathon” sparked by a question by Cooper’s mother, who is an executive coach: could an AI tool automate the drudgery of report writing so she could spend more time on the human coaching work she loves?",
+              "Over the past two years, Convogo has helped “thousands” of coaches and partnered with the “world’s top leadership development firms,” per an email bearing news of the acquisition sent by Convogo."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft will put buy buttons directly in Copilot",
+            "link": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products",
+            "site_name": "The Verge",
+            "novelty_hash": "b667d66c32850dcb23d9b289c1299dc01e2c2145"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft will put buy buttons directly in Copilot",
+            "bullets": [
+              "Microsoft is launching a new feature in Copilot that will allow you to make purchases during conversations with the AI chatbot.",
+              "Now, when you’re asking for suggestions about what kind of sneakers you should buy, Copilot can surface a checkout option for the product you choose directly inside the app.",
+              "The chatbot responds with a recommendation, along with a “Details” button for more information and a “Buy” option.",
+              "Hitting the “Buy” button pulls up a checkout screen where you can enter shipping and payment information and confirm your purchase without visiting the retailer’s website.",
+              "It’s similar to the built-in checkout feature OpenAI has launched within ChatGPT and comes as part of a growing trend that has AI-powered agents shopping on a customer’s behalf.",
+              "Google has launched agentic checkout in Search and AI Mode, while Perplexity’s AI-powered browser and chatbot can help users buy products, too, which Amazon isn’t very happy about."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia’s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
+            "link": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e7233e3f0f9ee12649bd87d8f07ecfa5fd50a38f"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia’s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
+            "bullets": [
+              "Nvidia is now requiring its customers in China to pay upfront in full for its H200 AI chips even as approval stateside and from Beijing remains uncertain, Reuters reported, citing anonymous sources.",
+              "The chipmaker isn’t leaving any room for refunds or changes to orders, the report said.",
+              "China is expected to allow Nvidia to sell its H200 chips in the country, per Bloomberg, though Beijing wants to prevent the chips from being used by its military, state-owned firms, and sensitive infrastructure concerns.",
+              "Despite the challenges, demand for Nvidia’s H200 remains strong, and Chinese companies have reportedly placed orders for more than 2 million of the GPUs in 2026, prompting the chipmaker to ramp up production.",
+              "Nvidia is trying to strike a careful balance between meeting strong demand for its chips while managing political risk in both the U.S.",
+              "chipmaker suffered costly setbacks when the Trump administration said it would need a license to export its H20 chips to China, forcing the company to write down $5.5 billion worth of inventory."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+            "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "40c5bd731b234c41cac0c93a25d3f2b8f440703f"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+            "bullets": [
+              "On Wednesday, OpenAI announced ChatGPT Health, a dedicated section of the AI chatbot designed for “health and wellness conversations” intended to connect a user’s health and medical records to the chatbot in a secure way.",
+              "But mixing generative AI technology like ChatGPT with health advice or analysis of any kind has been a controversial idea since the launch of the service in late 2022.",
+              "Just days ago, SFGate published an investigation detailing how a 19-year-old California man died of a drug overdose in May 2025 after 18 months of seeking recreational drug advice from ChatGPT.",
+              "It’s a telling example of what can go wrong when chatbot guardrails fail during long conversations and people follow erroneous AI guidance.",
+              "Despite the known accuracy issues with AI chatbots, OpenAI’s new Health feature will allow users to connect medical records and wellness apps like Apple Health and MyFitnessPal so that ChatGPT can provide personalized health responses like summarizing care instructions, preparing for doctor appointments, and understanding test results.",
+              "OpenAI says more than 230 million people ask health questions on ChatGPT each week, making it one of the chatbot’s most common use cases."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The first privately funded space-based telescope is in the works",
+            "link": "https://www.theverge.com/news/858671/schmidt-sciences-lazuli-space-telescope",
+            "site_name": "The Verge",
+            "novelty_hash": "f5508a40377fd800ab2b203f6c2d0bba75ee2534"
+          },
+          "review": {
+            "headline_rewrite": "The first privately funded space-based telescope is in the works",
+            "bullets": [
+              "Those instruments will be used to study everything from exoplanets to supernovae, but Schmidt Sciences also envisions Lazuli being used for “rapid response” purposes, such as quickly swiveling to gather data on objects spotted by other telescopes.",
+              "Most Popular\n- OpenAI launches ChatGPT Health, encouraging users to connect their medical records\n- Fujifilm’s new instant camera captures video with vintage effects\n- Dell admits consumers don’t care about AI PCs\n- Lego announces Smart Brick, the ‘most significant evolution’ in 50 years\n- CES 2026 live: all the news, announcements, and innovations from the show floor and beyond"
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
