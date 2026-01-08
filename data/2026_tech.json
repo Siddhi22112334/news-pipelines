@@ -33679,6 +33679,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:00": [
+        {
+          "item": {
+            "title": "AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track",
+            "link": "https://blogs.nvidia.com/?p=88961",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "ef56c9fbe117d5da7304e885baf8e4c34542b62d"
+          },
+          "review": {
+            "headline_rewrite": "AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track",
+            "bullets": [
+              "In the rolling hills of Berkeley, California, an AI agent is supporting high-stakes physics experiments at the Advanced Light Source (ALS) particle accelerator.",
+              "Researchers at the Lawrence Berkeley National Laboratory ALS facility recently deployed the Accelerator Assistant, a large language model (LLM)-driven system to keep X-ray research on track.",
+              "The Accelerator Assistant — powered by an NVIDIA H100 GPU harnessing CUDA for accelerated inference — taps into institutional knowledge data from the ALS support team and routes requests through Gemini, Claude or ChatGPT.",
+              "“It’s really important for such a machine to be up, and when we go down, there are 40 beamlines that do X-ray experiments, and they are waiting,” said Thorsten Hellert, staff scientist from the Accelerator Technology and Applied Physics Division at Berkeley Lab and lead author of a research paper on the groundbreaking work.",
+              "“The novel approach offers a blueprint for securely and transparently applying large language model-driven systems to particle accelerators, nuclear and fusion reactor facilities, and other complex scientific infrastructures,” said Hellert.",
+              "Applying Context Engineering Prompts to Accelerator Assistant\nThe ALS operators interact with the system through either a command line interface or Open WebUI, which enables interaction with various LLMs and is accessible from control room stations, as well as remotely."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care",
+            "link": "https://blogs.nvidia.com/?p=88856",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "627037cf580e9b2fb9e1b3304ee1a75755194ff3"
+          },
+          "review": {
+            "headline_rewrite": "Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care",
+            "bullets": [
+              "The Moonshot research program, funded by the Japan Science and Technology Agency and accelerated by NVIDIA AI and robotics technologies, is working to create a world by 2050 where AI-powered, autonomously learning robots are integrated into Japanese citizens’ everyday lives.",
+              "3 of the broader Moonshot initiative, which includes researchers from across Japan’s universities and comprises 10 ambitious technology goals — from ultra-early disease prediction to sustainable resource circulation.",
+              "In light of Japan’s rising elderly population, many of the research projects underway center on how robots can aid in senior care.",
+              "NVIDIA Architecture Powers On Moonshot Robots\nNVIDIA technologies are integrated into every level of the Moonshot project’s senior care robots known as AI-Driven Robot for Embrace and Care, or AIREC.",
+              "Dry-AIREC robot, the larger and more mobile member of the Moonshot family, has two NVIDIA GPUs onboard.",
+              "For AIREC-Basic, primarily used for data collection for the motion foundation model, three NVIDIA Jetson Orin NX modules power AI processing at the edge."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk’s lawsuit against OpenAI will face a jury in March",
+            "link": "https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fdd72b4ab7a8a95849cfa89d1d12f901285257b6"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk’s lawsuit against OpenAI will face a jury in March",
+            "bullets": [
+              "Elon Musk’s lawsuit against OpenAI will go to trial after a U.S.",
+              "judge said there is evidence to support the billionaire’s case.",
+              "Musk sued OpenAI and its co-founders Sam Altman and Greg Brockman in 2024, alleging they betrayed their original contractual agreements by pursuing profits instead of the nonprofit’s founding mission to develop AI that benefits humanity.",
+              "Musk, who has launched his own for-profit company xAI, was an early financial backer and co-founder of OpenAI.",
+              "Officially, Musk cited potential conflicts of interest with Tesla’s own AI development for self-driving cars.",
+              "Since leaving OpenAI, he’s been a vocal critic of the firm’s transition to a for-profit model, and even made an unsolicited $97.4 billion bid to buy OpenAI in February 2025, which Altman rejected."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "All the tech and gadgets announced at CES 2026",
+            "link": "https://www.engadget.com/general/all-the-tech-and-gadgets-announced-at-ces-2026-130124023.html",
+            "site_name": "Engadget",
+            "novelty_hash": "6fbf9ccebc25df9203fc07a13b2ba0bba1c15af4"
+          },
+          "review": {
+            "headline_rewrite": "All the tech and gadgets announced at CES 2026",
+            "bullets": [
+              "Samsung held its First Look presentation, which focuses on home products, while LG has shown off a wide array of TVs and Lego unveiled its new Smart Brick technology.",
+              "We’ve heard from the major chipmakers, gone hands-on with Samsung’s trifold phone, checked out some funky laptops and seen some cute robots.",
+              "You don’t necessarily have to wait to get your hands on all of these gadgets either.",
+              "Some are available to buy right now.",
+              "Lego\nIn its first CES appearance, Lego announced the Smart Brick, a standard-sized brick with a 4.1mm ASIC chip inside that’s designed to respond in different ways depending on what set you’re building and how you’re building it.",
+              "The first “Smart Play” partner is, unsurprisingly, Star Wars, which will launch three “all-in-one” sets using Smart Bricks, Smart Tags and Smart Minifigures."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft will put buy buttons directly in Copilot",
+            "link": "https://www.theverge.com/news/858664/microsoft-copilot-ai-checkout-buy-products",
+            "site_name": "The Verge",
+            "novelty_hash": "69b70919ee1edb9b7b0e59cf05576a2cb3321a5f"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft will put buy buttons directly in Copilot",
+            "bullets": [
+              "Microsoft is launching a new feature in Copilot that will allow you to make purchases during conversations with the AI chatbot.",
+              "Now, when you’re asking for suggestions about what kind of sneakers you should buy, Copilot can surface a checkout option for the product you choose directly inside the app.",
+              "The chatbot responds with a recommendation, along with a “Details” button for more information and a “Buy” option.",
+              "Hitting the “Buy” button pulls up a checkout screen where you can enter shipping and payment information and confirm your purchase without visiting the retailer’s website.",
+              "It’s similar to the built-in checkout feature OpenAI has launched within ChatGPT and comes as part of a growing trend that has AI-powered agents shopping on a customer’s behalf.",
+              "Google has launched agentic checkout in Search and AI Mode, while Perplexity’s AI-powered browser and chatbot can help users buy products, too, which Amazon isn’t very happy about."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia’s reportedly asking Chinese customers to pay upfront its for H200 AI chips",
+            "link": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c9bc671bee45e0612d27d72c16d8a9838047705d"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia’s reportedly asking Chinese customers to pay upfront its for H200 AI chips",
+            "bullets": [
+              "Nvidia is now requiring its customers in China to pay upfront in full for its H200 AI chips even as approval Stateside and from Beijing remains uncertain, Reuters reported, citing anonymous sources.",
+              "The chipmaker isn’t leaving any room for refunds or changes to orders, the report said.",
+              "China is expected to allow Nvidia to sell its H200 chips in the country, per Bloomberg, though Beijing wants to prevent the chips from being used by its military, state-owned firms, and sensitive infrastructure concerns.",
+              "Despite the challenges, demand for Nvidia’s H200 remains strong, and Chinese companies have reportedly placed orders for more than 2 million of the GPUs in 2026, prompting the chipmaker to ramp up production.",
+              "Nvidia is trying to strike a careful balance between meeting strong demand for its chips while managing political risk in both the U.S.",
+              "chipmaker has suffered costly setbacks, when the Trump administration said it would need a license to export its H20 chips to China, forcing the company to write down $5.5 billion worth of inventory."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
