@@ -16686,5 +16686,46 @@
         }
       ]
     }
+  },
+  "2026-01-10": {
+    "runs": {
+      "00:02": [
+        {
+          "item": {
+            "title": "Akzo Nobel India appoints Parth Jindal as Chairman",
+            "link": "https://www.thehindubusinessline.com/companies/akzo-nobel-india-appoints-parth-jindal-as-chairman/article70492204.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Akzo Nobel India appoints Parth Jindal as Chairman",
+            "bullets": [
+              "The proposal, which came into effect from Friday, was approved by the board, subject to approval of the shareholders of the company.",
+              "Last December, JSW Paints completed the acquisition of Akzo Nobel India by acquiring a majority stake of 60.76 per cent from Akzo Nobel NV",
+              "JSW Paints had already acquired 0.44 per cent stake from the public shareholders of Akzo Nobel India upon completion of an open offer and"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Reliance in talks with US for permit to buy Venezuelan oil",
+            "link": "https://www.thehindubusinessline.com/markets/commodities/reliance-in-talks-with-us-for-permit-to-buy-venezuelan-oil/article70492200.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Reliance in talks with US for permit to buy Venezuelan oil",
+            "bullets": [
+              "India's Reliance Industries is seeking approval from the U.S.",
+              "to resume purchases of Venezuelan crude, two sources familiar with the matter said on Friday, as the private refiner looks to secure oil amid",
+              "State and Treasury departments to obtain the authorization, the sources said, as Washington and Caracas progress in negotiations to ship 50 million barrels of",
+              "The Indian conglomerate had received licenses from Washington in past years to import crude from U.S.-sanctioned Venezuela for its refining complex, the world's largest."
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
