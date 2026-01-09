@@ -38829,6 +38829,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:54": [
+        {
+          "item": {
+            "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
+            "link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "93e2d3eb73fe831ccfa939e584b96e15b5143e02"
+          },
+          "review": {
+            "headline_rewrite": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
+            "bullets": [
+              "Ozlo, the maker of comfortable, easy-to-use “sleepbuds” that drown out outside noise so you can get better rest, is turning its product into a platform.",
+              "For instance, software features that use AI or are designed to provide relief to users with tinnitus could be offered as premium subscriptions.",
+              "And a recent acquisition of a neurotech startup should help Ozlo expand beyond being a consumer product to entering the medical device market, too.",
+              "How Ozlo’s platform ambitions begin\nFounded by former Bose employees, Ozlo always intended to build an ecosystem, Ozlo co-founder and CEO NB Patil explained on the sidelines of CES.",
+              "“The way we did that from the beginning is we built the iOS and Android SDK — so our first-party app actually runs on that SDK.",
+              "That means whatever you see in our app can be made available to anybody,” Patil said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
+            "link": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
+            "site_name": "The Verge",
+            "novelty_hash": "5f70a1bc81f2442a80a6616cb51ad48744c62ec1"
+          },
+          "review": {
+            "headline_rewrite": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
+            "bullets": [
+              "Meta has forged agreements with three nuclear power providers in an effort to secure the vast amount of electricity it needs to power AI data centers.",
+              "Meta expands nuclear power ambitions to include Bill Gates’ startup\nThe agreements will see Meta fund the construction of new nuclear reactors to power its AI data centers.",
+              "These AI projects include Prometheus, the first of several supercluster computing systems, which is expected to come online in New Albany, Ohio, sometime this year.",
+              "Meta is funding the construction of new nuclear reactors as part of the agreements, the first of which may come online “as early as 2030.” These announcements are part of Meta’s ongoing goal to support its future AI operations with nuclear energy, having previously signed a deal with Constellation to revive an aging nuclear power plant last year.",
+              "Financial information for the agreements hasn’t been released, but Meta says that it will “pay the full costs for energy used by our data centers so consumers don’t bear these expenses.”\n“Our agreements with Vistra, TerraPower, Oklo, and Constellation make Meta one of the most significant corporate purchasers of nuclear energy in American history,” Meta’s chief global affairs officer, Joel Kaplan, said in the announcement.",
+              "“State-of-the-art data centers and AI infrastructure are essential to securing America’s position as a global leader in AI.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The latest on Grok&#8217;s gross AI deepfakes problem",
+            "link": "https://www.theverge.com/news/859715/x-grok-ai-deepfakes",
+            "site_name": "The Verge",
+            "novelty_hash": "fa8f17f456cf28934fa7222849a1175ae22d5e66"
+          },
+          "review": {
+            "headline_rewrite": "The latest on Grok&#8217;s gross AI deepfakes problem",
+            "bullets": [
+              "The launch of an AI image editing feature on xAI’s Grok has caused chaos on X after it was used to generate a flood of nonconsensual sexualized deepfakes.",
+              "And we will take action on this because it’s simply not tolerable.” X has slightly restricted the feature by requiring a paid subscription to generate images by tagging Grok on X, but the AI image editor remains freely available otherwise.",
+              "As of this writing, it no longer generates images as @grok replies for free, but Grok’s image editing tools remain readily available for any X user to churn out images, both sexualized and tame.",
+              "Users now attempting this are met with an automated response from the chatbot’s account, telling them that “Image generation and editing are currently limited to paying subscribers.” The reply includes a link encouraging them to subscribe to X’s paid programs “to unlock these features.”\nRead Article >UK Prime Minister Keir Starmer says the country will take action against X following reports that the platform’s Grok AI chatbot is generating sexualized deepfakes of adults and minors, as reported earlier by The Telegraph and Sky News.",
+              "And we will take action on this because it’s simply not tolerable.”\nRead Article >- Europe demands X retain documents amid Grok’s undressing spree.",
+              "X is facing international scrutiny as its AI chatbot continues virtually undressing images without consent."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS",
+            "link": "https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5f3133668cbca3b66fca2c706f8821fb55f6b381"
+          },
+          "review": {
+            "headline_rewrite": "Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS",
+            "bullets": [
+              "Italy fined Cloudflare 14.2 million euros for refusing to block access to pirate sites on its 1.1.1.1 DNS service, the country’s communications regulatory agency, AGCOM, announced yesterday.",
+              "Cloudflare said it will fight the penalty and threatened to remove all of its servers from Italian cities.",
+              "AGCOM issued the fine under Italy’s controversial Piracy Shield law, saying that Cloudflare was required to disable DNS resolution of domain names and routing of traffic to IP addresses reported by copyright holders.",
+              "The law provides for fines up to 2 percent of a company’s annual turnover, and the agency said it applied a fine equal to 1 percent.",
+              "The fine relates to a blocking order issued to Cloudflare in February 2025.",
+              "Cloudflare argued that installing a filter applying to the roughly 200 billion daily requests to its DNS system would significantly increase latency and negatively affect DNS resolution for sites that aren’t subject to the dispute over piracy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "US Black Hawk helicopter trespasses on private Montana ranch to grab elk antlers",
+            "link": "https://arstechnica.com/culture/2026/01/us-black-hawk-helicopter-trespasses-on-private-montana-ranch-to-grab-elk-antlers/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d41681c514943eaf3162244826c517c8d8aebee2"
+          },
+          "review": {
+            "headline_rewrite": "US Black Hawk helicopter trespasses on private Montana ranch to grab elk antlers",
+            "bullets": [
+              "Collecting fallen (or “shed”) elk antlers is a popular pastime in elk-heavy places like Montana, but it’s usually a pretty low-tech, on-the-ground affair.",
+              "Was it really possible that US military personnel were using multimillion-dollar government aircraft to land on private property in the Crazy Mountains—yes, that’s their actual name—just to grab some antlers valued at a few hundred bucks?",
+              "“He said, ‘Linda, there’s a green Army helicopter landed on your place, picking up elk antlers,’” McMullen told The New York Times last year.",
+              "“I said, ‘Are you joking?’ He said, ‘I’m looking at them with binoculars.’”\nThe local sheriff, who said he was “still trying to figure all this out” at the time, added that this was “the first helicopter I’ve heard of” regarding shed antler collection.",
+              "Peter Hronek, quickly issued a statement on Facebook “regarding unauthorized use of military aircraft.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 9, 2026 Oracle founder Larry Ellison: ChatGPT, Gemini share the same weakness; Says Oracle has the fix Oracle's Larry Ellison believes AI's next frontier is private enterprise data, not just public internet. He argues current models are commoditized and true value lies in securely accessing and reasoning over sensitive company information. Oracle is investing heavily, leveraging its vast database presence to become the enterprise AI backbone, facing competition from cloud rivals.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-founder-larry-ellison-tells-the-biggest-problem-with-ai-models-from-google-openai-meta-and-other-big-tech-companies/articleshow/126430918.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "d7b826796aab887b9754f41d6e636de4576e0556"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 9, 2026 Oracle founder Larry Ellison: ChatGPT, Gemini share the same weakness; Says Oracle has the fix Oracle's Larry Ellison believes AI's next frontier is private enterprise data, not just public internet. He argues current models are commoditized and true value lies in securely accessing and reasoning over sensitive company information. Oracle is investing heavily, leveraging its vast database presence to become the enterprise AI backbone, facing competition from cloud rivals.",
+            "bullets": [
+              "Oracle founder and CTO Larry Ellison has identified what he calls the critical limitation holding back AI models from Gemini to ChatGPT: they're all trained on the same publicly available internet data, making them increasingly commoditized with little real differentiation between them.",
+              "Speaking during Oracle's fiscal Q2 2026 earnings call in December, Ellison argued that while training foundational models on public data has created \"the largest and fastest-growing business in human history,\" the real value lies ahead in a second phase: enabling these models to securely reason over private enterprise data without compromising security.",
+              "\"For these models to reach their peak value, you need to train them not just on publicly available data, but make privately owned data available for those models as well,\" Ellison said.",
+              "He estimates this next phase will prove \"even larger and more valuable\" than the current GPU and data center boom.",
+              "Oracle bets big on becoming the enterprise AI backbone\nOracle is positioning itself as uniquely equipped for this shift.",
+              "Its AI Data Platform uses techniques like Retrieval-Augmented Generation to let any major AI model query private data in real-time while maintaining security."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
