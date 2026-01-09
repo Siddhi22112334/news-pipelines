@@ -38950,6 +38950,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:18": [
+        {
+          "item": {
+            "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
+            "link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8358a4e2d2b79e51a9f09746724a20e07f9e6e3f"
+          },
+          "review": {
+            "headline_rewrite": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
+            "bullets": [
+              "Ozlo, the maker of comfortable, easy-to-use Sleepbuds that drown out outside noise so you can get better rest, is turning its product into a platform.",
+              "For instance, software features that use AI or are designed to provide relief to users with tinnitus could be offered as premium subscriptions.",
+              "And a recent acquisition of a neurotech startup should help Ozlo expand beyond being a consumer product to entering the medical device market, too.",
+              "How Ozlo’s platform ambitions began\nFounded by former Bose employees, Ozlo always intended to build an ecosystem, Ozlo co-founder and CEO NB Patil explained on the sidelines of CES.",
+              "“The way we did that from the beginning is we built the iOS and Android SDK — so our first-party app actually runs on that SDK.",
+              "That means whatever you see in our app can be made available to anybody,” Patil said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
+            "link": "https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers",
+            "site_name": "The Verge",
+            "novelty_hash": "5f70a1bc81f2442a80a6616cb51ad48744c62ec1"
+          },
+          "review": {
+            "headline_rewrite": "Meta expands nuclear power ambitions to include Bill Gates&#8217; startup",
+            "bullets": [
+              "Meta has forged agreements with three nuclear power providers in an effort to secure the vast amount of electricity it needs to power AI data centers.",
+              "Meta expands nuclear power ambitions to include Bill Gates’ startup\nThe agreements will see Meta fund the construction of new nuclear reactors to power its AI data centers.",
+              "These AI projects include Prometheus, the first of several supercluster computing systems, which is expected to come online in New Albany, Ohio, sometime this year.",
+              "Meta is funding the construction of new nuclear reactors as part of the agreements, the first of which may come online “as early as 2030.” These announcements are part of Meta’s ongoing goal to support its future AI operations with nuclear energy, having previously signed a deal with Constellation to revive an aging nuclear power plant last year.",
+              "Financial information for the agreements hasn’t been released, but Meta says that it will “pay the full costs for energy used by our data centers so consumers don’t bear these expenses.”\n“Our agreements with Vistra, TerraPower, Oklo, and Constellation make Meta one of the most significant corporate purchasers of nuclear energy in American history,” Meta’s chief global affairs officer, Joel Kaplan, said in the announcement.",
+              "“State-of-the-art data centers and AI infrastructure are essential to securing America’s position as a global leader in AI.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Did you know that Gmail has emoji reactions?",
+            "link": "https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default",
+            "site_name": "The Verge",
+            "novelty_hash": "a10093c2e4397de9f4317f3f55539ece89d48bb8"
+          },
+          "review": {
+            "headline_rewrite": "Did you know that Gmail has emoji reactions?",
+            "bullets": [
+              "Google rolled out emoji reactions to personal Gmail accounts a little over two years ago, and I completely forgot about it until now — probably because the option is hidden within a small, smiley face icon beside the Forward button.",
+              "Did you know that Gmail has emoji reactions?",
+              "Emoji reactions have been hiding at the bottom of your personal Gmail messages for over two years, and now they’re coming to Workspace by default.",
+              "If your recipient is another Gmail user, they’ll see your reaction at the bottom of the email, as well as see the emoji as an update to the thread in their inbox.",
+              "People using other email providers — or if they have emoji reactions disabled — will receive a separate email saying that you “reacted via Gmail.” Google introduced emoji reactions as an opt-in feature for Workspace users last April, so you may have seen them attached to your work email before this announcement.",
+              "Additionally, emails sent to multiple people will show how many people reacted to the message, and with which emoji."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS",
+            "link": "https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5f3133668cbca3b66fca2c706f8821fb55f6b381"
+          },
+          "review": {
+            "headline_rewrite": "Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS",
+            "bullets": [
+              "Italy fined Cloudflare 14.2 million euros for refusing to block access to pirate sites on its 1.1.1.1 DNS service, the country’s communications regulatory agency, AGCOM, announced yesterday.",
+              "Cloudflare said it will fight the penalty and threatened to remove all of its servers from Italian cities.",
+              "AGCOM issued the fine under Italy’s controversial Piracy Shield law, saying that Cloudflare was required to disable DNS resolution of domain names and routing of traffic to IP addresses reported by copyright holders.",
+              "The law provides for fines up to 2 percent of a company’s annual turnover, and the agency said it applied a fine equal to 1 percent.",
+              "The fine relates to a blocking order issued to Cloudflare in February 2025.",
+              "Cloudflare argued that installing a filter applying to the roughly 200 billion daily requests to its DNS system would significantly increase latency and negatively affect DNS resolution for sites that aren’t subject to the dispute over piracy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 9, 2026 Oracle founder Larry Ellison: ChatGPT, Gemini share the same weakness; Says Oracle has the fix Oracle's Larry Ellison believes AI's next frontier is private enterprise data, not just public internet. He argues current models are commoditized and true value lies in securely accessing and reasoning over sensitive company information. Oracle is investing heavily, leveraging its vast database presence to become the enterprise AI backbone, facing competition from cloud rivals.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-founder-larry-ellison-tells-the-biggest-problem-with-ai-models-from-google-openai-meta-and-other-big-tech-companies/articleshow/126430918.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "d7b826796aab887b9754f41d6e636de4576e0556"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 9, 2026 Oracle founder Larry Ellison: ChatGPT, Gemini share the same weakness; Says Oracle has the fix Oracle's Larry Ellison believes AI's next frontier is private enterprise data, not just public internet. He argues current models are commoditized and true value lies in securely accessing and reasoning over sensitive company information. Oracle is investing heavily, leveraging its vast database presence to become the enterprise AI backbone, facing competition from cloud rivals.",
+            "bullets": [
+              "Oracle founder and CTO Larry Ellison has identified what he calls the critical limitation holding back AI models from Gemini to ChatGPT: they're all trained on the same publicly available internet data, making them increasingly commoditized with little real differentiation between them.",
+              "Speaking during Oracle's fiscal Q2 2026 earnings call in December, Ellison argued that while training foundational models on public data has created \"the largest and fastest-growing business in human history,\" the real value lies ahead in a second phase: enabling these models to securely reason over private enterprise data without compromising security.",
+              "\"For these models to reach their peak value, you need to train them not just on publicly available data, but make privately owned data available for those models as well,\" Ellison said.",
+              "He estimates this next phase will prove \"even larger and more valuable\" than the current GPU and data center boom.",
+              "Oracle bets big on becoming the enterprise AI backbone\nOracle is positioning itself as uniquely equipped for this shift.",
+              "Its AI Data Platform uses techniques like Retrieval-Augmented Generation to let any major AI model query private data in real-time while maintaining security."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Morning After: The best of CES 2026",
+            "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-193045065.html",
+            "site_name": "Engadget",
+            "novelty_hash": "72828730bfa227f1340936f3fe77971d88ab158b"
+          },
+          "review": {
+            "headline_rewrite": "The Morning After: The best of CES 2026",
+            "bullets": [
+              "CES 2026 is almost over, and while we have more stories and wrap-ups to come, here are the most interesting products we’ve spotted, written about and critiqued/praised.",
+              "As Engadget’s editor-in-chief Aaron Souppouris put it, “Lego could almost be seen as the antithesis of the typical CES product.”\nRegardless of trends, Lego has always persisted.",
+              "The Smart Brick has a 4.1mm ASIC chip, which Lego says is smaller than a standard Lego stud.",
+              "It’s hard to explain it in only a few words (we’ve got a deep-dive hands-on right here), but what immediately drew me in was the lack of smartphone pairing and screens.",
+              "— Mat Smith\nThe other big stories (and deals) this morning\nWait, IKEA?",
+              "Best robot: Switchbot Onero H1\nBest accessibility tech: WheelMove\nBest TV: LG’s Wallpaper TV\nBest AI hardware: Subtle Voicebuds\nBest smart home: IKEA Matter-compatible smart home\nBest home theater: Samsung HW-QS90H\nBest audio: Shokz OpenFit Pro\nBest outdoor tech: Tone Outdoors T1\nBest toy: Lego Smart Play\nBest PC or laptop: Dell XPS 14 + 16\nBest health tech: Eyebot eye test booth\nBest gaming tech: ASUS ROG Zephyrus Duo\nBest mobile tech: Samsung Galaxy Z TriFold\nMost promising concept: Lenovo Legion Pro Rollable\nBest emerging technology: IXI autofocus lenses\nNVIDIA has started production of its Vera Rubin supercomputer."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
