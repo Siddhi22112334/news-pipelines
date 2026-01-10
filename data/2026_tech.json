@@ -43259,6 +43259,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:50": [
+        {
+          "item": {
+            "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+            "link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ff6eed8588084b883d975a21ecbbbe4208c0d331"
+          },
+          "review": {
+            "headline_rewrite": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
+            "bullets": [
+              "Indonesian officials said Saturday that they are temporarily blocking access to xAI’s chatbot Grok.",
+              "This is one of the most aggressive moves so far from government officials responding to a flood of sexualized, AI-generated imagery — often depicting real women and minors, and sometimes showing assault and abuse — posted by Grok in response to requests from users on the social network X.",
+              "(X and xAI are part of the same company.)\nIn a statement shared with the Guardian and other publications, Indonesia’s communications and digital minister Meutya Hafid said, “The government views the practice of non-consensual sexual deepfakes as a serious violation of human rights, dignity, and the security of citizens in the digital space.”\nThe ministry has also reportedly summoned X officials to discuss the issue.",
+              "Varied governmental responses over the past week include an order from India’s IT ministry for xAI to take action to prevent Grok from generating obscene content, as well as an order from the European Commission for the company to retain all documents related to Grok, which could be setting the stage for an investigation.",
+              "In the United Kingdom, the communications regulator Ofcom has said that it will “undertake a swift assessment to determine whether there are potential compliance issues that warrant investigation.” Prime Minister Keir Starmer said in an interview Ofcom has his “full support to take action.”\nAnd while in the United States, the Trump administration appears to be staying silent on the issue (xAI CEO Elon Musk is a major Trump donor and led the administration’s controversial Department of Government Efficiency last year), Democratic senators have called on Apple and Google to remove X from their app stores.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+            "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "038b0a766169e4bf8465e33ebd94a9bfa02a69ab"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+            "bullets": [
+              "OpenAI reportedly asking contractors to upload real work from past jobs\nOpenAI and training data company Handshake AI are asking third-party contractors to upload real work that they did in past and current jobs, according to a report in Wired.",
+              "This appears to be part of a larger strategy across AI companies that are hiring contractors to generate high-quality training data in the hopes that this will eventually allow their models to automate more white-collar work.",
+              "In OpenAI’s case, a company presentation reportedly asks contractors to describe tasks they’ve performed at other jobs and upload examples of “real, on-the-job work” that they’ve “actually done.” These examples can include “a concrete output (not a summary of the file, but the actual file), e.g., Word doc, PDF, Powerpoint, Excel, image, repo.”\nThe company reportedly instructs contractors to delete proprietary and personally identifiable information before uploading, and it points them to a ChatGPT “Superstar Scrubbing” tool to do so.",
+              "Nonetheless, intellectual property lawyer Evan Brown told Wired that any AI lab taking this approach is “putting itself at great risk” with an approach that requires “a lot of trust in its contractors to decide what is and isn’t confidential.”\nAn OpenAI spokesperson declined to comment."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
+            "link": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites",
+            "site_name": "The Verge",
+            "novelty_hash": "70c0af1dc9b5f4716dfff866f36cd4f3db98c864"
+          },
+          "review": {
+            "headline_rewrite": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
+            "bullets": [
+              "The FCC approved SpaceX’s plan to launch an additional 7,500 Gen2 Starlink satellites on Friday.",
+              "As part of the approval, the government is also waiving previous requirements that prevented overlapping coverage and enhanced capacity.",
+              "The FCC is letting SpaceX launch 7,500 more Starlink satellites\nThat will bring the total number in orbit to 15,000 by the end of 2031.",
+              "The government says 50 percent of the Gen2 satellites must be launched and operational by December 1st of 2028, with the rest to follow by December of 2031.",
+              "That many new satellites in orbit is likely to raise concerns from astronomers who have complained about light pollution, as well as increase worries over space junk and orbital collisions."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "An Instagram data breach reportedly exposed the personal info of 17.5 million users",
+            "link": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+            "site_name": "Engadget",
+            "novelty_hash": "2183e3815768a2cec45db2d98d2043d5eaf4a7af"
+          },
+          "review": {
+            "headline_rewrite": "An Instagram data breach reportedly exposed the personal info of 17.5 million users",
+            "bullets": [
+              "As reported by Malwarebytes, an antivirus software company, there was a data breach revealing the \"sensitive information\" of 17.5 million Instagram users.",
+              "Malwarebytes added that the leak included Instagram usernames, physical addresses, phone numbers, email addresses and more.",
+              "The company added that the \"data is available for sale on the dark web and can be abused by cybercriminals.\" Malwarebytes noted in an email to its customers that it discovered the breach during its routine dark web scan and that it's tied to a potential incident related to an Instagram API exposure from 2024.",
+              "The reported breach has resulted in users receiving several emails from Instagram about password reset requests.",
+              "Meta hasn't released an official statement about the latest incident, but it's not the first time Instagram's parent company has been in hot water for data breaches."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GameStop reportedly shuts down more than 400 US stores",
+            "link": "https://www.engadget.com/gaming/gamestop-reportedly-shuts-down-more-than-400-us-stores-210632743.html",
+            "site_name": "Engadget",
+            "novelty_hash": "be1fdac401cde0f730832f56f246c0051c0f608b"
+          },
+          "review": {
+            "headline_rewrite": "GameStop reportedly shuts down more than 400 US stores",
+            "bullets": [
+              "Your neighborhood GameStop might be on the chopping block, along with more than 400 other retail locations across the US.",
+              "As first reported by Polygon, the retailer is pursuing a severe cost-saving measure by closing up several hundred physical locations.",
+              "The same filing detailed that the company's board would pay out the GameStop CEO, Ryan Cohen, up to $35 billion in stock options, given that he increases the retailer's market cap to $100 billion.",
+              "Even though GameStop saw a historic spike in market value in 2021, it has struggled with the brand's direction, as seen with failed attempts at offering a crypto locker and an NFT marketplace."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "8bc9478ff784d125794a41bbc4e7685a7cc4cab7"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nDonald Trump calls for 10% cap on credit card interest rates chevron_rightTrump calls for a 10% cap on credit card rates in his latest appeal to affordability concerns\nCNN\nBy Luciana Lopez\nUS job numbers for December chevron_right\nUK government considers banning X over Grok's AI images chevron_rightIndonesia temporarily blocks access to Grok over sexualised images\nDavid Lammy: JD Vance agrees that sexualised AI images on X are ‘unacceptable’\nReuters\nBy Stephen Coates & Fransiska Nangoy\nThe Guardian\nBy Jessica Elgot & Rajeev Syal\nThe New York Times\nBy Theodore Schleifer, Heather Knight & Ryan Mac\nCES 2026 showcases new consumer technology in Las Vegas chevron_right\nSaks Global’s bankruptcy filing is reportedly pending financing chevron_right\nAvelo Airlines to end deportation flights for ICE chevron_right\nMeta pledges support for nuclear power for data centers chevron_right\nTrump issues executive order on defense contractors chevron_rightTrump order targeting defense contractor pay, stock buybacks is ‘full of ambiguity’\nFederal News Network\nBy Anastasia Obis\nPolitico\nBy Meredith Hill & Jasper Goodman\nCoinDesk\nBy Jesse A.",
+              "Hamilton\nJohnson & Johnson drug price deal chevron_right\nWegovy pill offers new weight loss treatment option chevron_right\nTrump orders $200 billion in mortgage bond purchases chevron_right\nTwo women arrested after counterfeit cash scheme at In-N-Outs chevron_rightIn-N-Out Burger outlets in Southern California hit by counterfeit bill scam\nIn-N-Out restaurants targeted by counterfeit $100 bills scam, 2 women arrested, Glendale police say\nLos Angeles Times\nBy Dakota Smith\nABC7 Los Angeles\nSan Francisco hosts JP Morgan Healthcare Conference chevron_right\nRio Tinto, Glencore in renewed merger talks chevron_rightRio-Glencore talks highlight ‘bigger is better’ mining mantra\nRio Tinto's bid for Glencore piles pressure on BHP\nFinancial Times\nBy Camilla Hodgson, Nic Fildes & Emma Dunkley\nBy Clara Denina, Amy-jo Crowley & Melanie Burton\nWinter weather causes flight cancellations and travel disruptions in Europe chevron_right\nGM announces $7.1 billion charge for EV pullback chevron_right\nStellantis cancels its entire plug-in hybrid vehicle lineup chevron_rightStellantis cancels entire plug-in hybrid lineup that made it segment leader\nAutomotive News\nBy Vince Bond Jr.",
+              "Macy's announces new round of store closures chevron_rightMacy’s Is Closing 14 Stores in 12 States — Here Are the Affected Locations\nPeople.com\nBy Desiree Anello\nElon Musk on AI dominance in China chevron_rightChina is closing in on US technology lead despite constraints, AI researchers say\nBy Laurie Chen\nExxon on Venezuela chevron_rightOur perspective regarding the situation in Venezuela as shared with President TrumpExxon studies Venezuela return as Chevron plots immediate production bump\nExxon Mobil Corporation\nBy Sheila Dang & Jarrett Renshaw\nBy Aaron Hutcherson\nVenezuela debt investors chevron_right\nElon Musk's xAI raises $20 billion in Series E funding chevron_right\nAndreessen Horowitz's venture capital fund chevron_rightTrump Allies Raise Biggest Fund Of Decade, Grabbing A Fifth Of All 2025 Venture Dollars\nForbes\nBy Iain Martin\nColorado drivers report issues after receiving contaminated fuel chevron_rightDiesel was mistakenly distributed instead of regular unleaded at many Colorado gas pumps\nThe Colorado Sun\nBy Olivia Prentzel\nChinese AI firm MiniMax IPO chevron_rightMiniMax, China's second 'AI tiger' to go public, doubles in value in Hong Kong debut\nBy Liam Mo, Kane Wu & Yantoultra Ngui\nBoston Dynamics' Atlas robot starts work at Hyundai factory chevron_rightCES 2026: Hyundai Motor Group leverages Group capabilities to lead the AI Robotics industry\nhyundai.com\nOpenAI, SoftBank Group invest in SB Energy to build data centers chevron_rightOpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout\nCNBC\nBy Ashley Capoot\nArgentina's repayment of US currency swap chevron_right\nTexas proposes new rules for consumable hemp products chevron_right\nFDA issues Class I recall for cheese with Listeria contamination chevron_right\nNew Year's resolutions for savings chevron_right\nColorado's purchase of Eldora ski area chevron_rightA tiny Colorado town has approved a $120 million purchase of a ski resort on the Ikon Pass\nNederland’s Eldora ski resort deal: What comes next after the vote\nSteamboat Pilot\nBy Ryan Spencer\nThe Boulder Reporting Lab\nBy Jenna Sampson\nChevron in Venezuela chevron_right\nVenezuela oil market chevron_rightOil settles up 3% on Venezuela news, supply worries in Russia, Iraq and Iran\nBy Scott DiSavino\nChina's consumer inflation chevron_right\nX sues music publishers over alleged licensing conspiracy chevron_rightMusic Publishers Sued By X in Growing Licensing Battle\nThe Hollywood Reporter\nBy Winston Cho & Ethan Millman\nNetflix stock chevron_right\nAI impact on teen job market chevron_right\nAmerican Airlines to serve Pecan Lodge barbecue chevron_rightRenowned Dallas barbecue will be served on certain American Airlines flights\nAmerican Airlines will soon serve barbecue from Dallas restaurant on some flights\nWFAA\nBy Rachel Louise Snyder\nDallas News\nBy Claire Ballor\nMarket Basket ranks as second-best grocery store chain chevron_right\nNational Geographic's list of pizzerias chevron_rightThe best pizza spots in the U.S.",
+              "that aren't in New York or Chicago\nNational Geographic\nBy Brian Cicioni\nMichael Burry on Oracle shares chevron_rightInvestor Michael Burry Reveals Options Bet Against Oracle\nYahoo Finance\nBy Jeran Wittenstein & Carmen Reinicke\nICE agents at Target in Richfield chevron_rightPattern emerging of ICE targeting civilians at Twin Cities retail stores\nBring Me The News\nBy Adam Uren\nBNY's blockchain deposits chevron_right\nArtificial Intelligence stocks chevron_right\nVolkswagen's US sales chevron_right\nAI therapy chatbot chevron_rightAI models were given four weeks of therapy: the results worried researchers\nTherapy Should Be Hard.",
+              "That’s Why AI Can’t Replace It\nNature\nBy Elizabeth Gibney\nTime Magazine\nBy Jesse C Finkelstein & Shireen L."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
