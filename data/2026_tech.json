@@ -44574,6 +44574,44 @@
             "impact": "Positive"
           }
         }
+      ],
+      "15:15": [
+        {
+          "item": {
+            "title": "Technology News Jan 11, 2026 xAI banned from Claude: Anthropic blocks Musk's AI lab; X chief threatens retaliation",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-cofounder-tony-wu-sends-email-to-employees-says-anthropic-has-banned-us-this-is-a-/articleshow/126463060.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "b85ea654e8326a0e6f2c54928c6ae952c883fb2b"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 11, 2026 xAI banned from Claude: Anthropic blocks Musk's AI lab; X chief threatens retaliation",
+            "bullets": [
+              "Anthropic has cut off access to its Claude AI models for developers at xAI,\nElon Musk's competing AI lab, according to an internal email sent this week by xAI cofounder Tony Wu to his team.",
+              "\"According to Cursor this is a new policy Anthropic is enforcing for all its major competitors.\"\nThe block came after xAI staff had been using Claude models through Cursor, a popular AI-powered coding tool, to accelerate their own development work.",
+              "Wu acknowledged the hit to productivity but framed it as motivation: \"We will get a hit on productivity, but it rly pushes us to develop our own coding product / models.\"\nxAI's Cursor usage violated competitive restrictions\nThe restriction appears rooted in Anthropic's commercial terms, which explicitly prohibit customers from using its services to \"build a competing product or service, including to train competing AI models.\" While Cursor itself is a legitimate development tool, xAI's specific use of Claude through the platform apparently triggered the enforcement action.",
+              "This isn't the first time Anthropic has wielded its terms of service against rivals.",
+              "Last August, the company revoked\nOpenAI's API access under similar circumstances, and in June 2025, it limited access for the coding environment Windsurf after reports emerged of a potential sale to OpenAI.",
+              "Anthropic's block on xAI aligns with wider enforcement against third-party tools\nThe xAI block comes as Anthropic simultaneously tightened technical safeguards against third-party tools spoofing its Claude Code client to access models at consumer subscription rates rather than metered API pricing."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
