@@ -46536,6 +46536,119 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:11": [
+        {
+          "item": {
+            "title": "Google removes AI Overviews for certain medical queries",
+            "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "99ff4a7182b3212f7dc8e28b992c0a25e0c630f6"
+          },
+          "review": {
+            "headline_rewrite": "Google removes AI Overviews for certain medical queries",
+            "bullets": [
+              "Following an investigation by the Guardian that found Google AI Overviews offering misleading information in response to certain health-related queries, the company appears to have removed the AI Overviews for some of those queries.",
+              "Now, the Guardian says AI Overviews have been removed from the results for “what is the normal range for liver blood tests” and “what is the normal range for liver function tests.” However, it found that variations on those queries, such as “lft reference range” or “lft test reference range,” could still lead to AI-generated summaries.",
+              "When I tried those queries this morning — several hours after the Guardian published its story — none of them resulted in seeing AI Overviews, though Google still gave me the option to ask the same query in AI Mode.",
+              "A Google spokesperson told the Guardian that the company does not “comment on individual removals within Search,” but that it works to “make broad improvements.” The spokesperson also said that an internal team of clinicians reviewed the queries highlighted by the Guardian and found “in many instances, the information was not inaccurate and was also supported by high quality websites.”\nTechCrunch has reached out to Google for additional comment.",
+              "Last year, the company announced new features aimed at improving Google Search for healthcare use cases, including improved overviews and health-focused AI models.",
+              "Vanessa Hebditch, the director of communications and policy at the British Liver Trust, told the Guardian that the removal is “excellent news,” but added, “Our bigger concern with all this is that it is nit-picking a single search result and Google can just shut off the AI Overviews for that but it’s not tackling the bigger issue of AI Overviews for health.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google pulls AI overviews for some medical searches",
+            "link": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
+            "site_name": "The Verge",
+            "novelty_hash": "ce321704515628a133ead0937e24ff914d1a1694"
+          },
+          "review": {
+            "headline_rewrite": "Google pulls AI overviews for some medical searches",
+            "bullets": [
+              "Earlier this month, The Guardian published an investigation that showed Google was serving up misleading and outright false information via its AI overviews in response to certain medical inquiries.",
+              "According to the original report:\nGoogle pulls AI overviews for some medical searches\nExperts described the results as “alarming” and “dangerous.”\nIn one case that experts described as “really dangerous”, Google wrongly advised people with pancreatic cancer to avoid high-fat foods.",
+              "Experts said this was the exact opposite of what should be recommended, and may increase the risk of patients dying from the disease.",
+              "As of this morning, the AI overviews for questions like “what is the normal range for liver blood tests?” have been disabled entirely."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions",
+            "link": "https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness",
+            "site_name": "The Verge",
+            "novelty_hash": "b670159212e48e57214fb8ad9063e525bc3b241f"
+          },
+          "review": {
+            "headline_rewrite": "Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions",
+            "bullets": [
+              "The Owala FreeSip Sway helps make it part of your daily routine with a lightweight design and handle so you can carry it anywhere.",
+              "It even looks more expensive than it is, thanks to an OLED touchscreen and a sharp, stainless steel build.",
+              "They’re also just a great pair of workout earbuds, with solid sound, ANC, and a secure ear-hook design.",
+              "It offers powerful 16,600Pa suction with lidar-based navigation, and can even maintain itself thanks to a self-cleaning roller mop and a self-emptying, self-washing dock.",
+              "A base plan grants access to thousands of on-demand classes, including strength training, yoga, stretching, meditation, outdoor running, and more, with extras like live classes and leaderboards available on higher-tier plans.",
+              "It helps reduce stiffness, ease back and neck strain, and encourage movement, making it easier to stay energized and focused while you work."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Wing's drone deliveries are coming to 150 more Walmarts",
+            "link": "https://www.engadget.com/transportation/wings-drone-deliveries-are-coming-to-150-more-walmarts-180708189.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9990c35e804f963904ad52628f10a6de5a85137e"
+          },
+          "review": {
+            "headline_rewrite": "Wing's drone deliveries are coming to 150 more Walmarts",
+            "bullets": [
+              "The partnership said that drone delivery services will be available at 150 more Walmart locations in Los Angeles, St.",
+              "To meet growing demand, Wing and Walmart said it will serve up to 40 million US customers and build up a network of 270 delivery locations by 2027.",
+              "The partnership launched its service in August 2023 with the inaugural deliveries offered to the Dallas-Fort Worth customer base.",
+              "Last month, the two companies launched their delivery service in Atlanta and are planning to kick off deliveries in Houston on January 15.",
+              "Before Walmart, Wing broke into the US market by working with Walgreens to deliver health and wellness products in April 2022.",
+              "Since then, the Alphabet subsidiary has partnered with DoorDash and Apian, a London-based healthcare logistics company."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "1e30833184d64a3252109cdb6791e59abadee1c5"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nGoogle and Shopify launch new AI shopping standard chevron_rightWalmart teams up with Google's Gemini to make it easier for shoppers to find and buy products\nNew tech and tools for retailers to succeed in an agentic shopping era\nCNBC\nBy Melissa Repko\nblog.google\nBy Vidhya Srinivasan\nGM's new headquarters features artifacts from company history chevron_rightGM nods to its heritage as it begins future at new Hudson's Detroit HQ\nThe Detroit News\nBy Candice Williams & Summer Ballentine\nYahoo Finance\nBy Wyatte Grantham\nCalifornia tax on billionaires chevron_rightThiel Gives $3 Million to Group Seeking to Block California Wealth Tax\nThe New York Times\nBy Theodore Schleifer & Ryan Mac\nBy Nick Lichtenberg\nUS job numbers for December chevron_right\nFox Business\nBy Anders Hagstrom\nAmericans' energy costs chevron_right'I had no electricity for six months': American families struggle with soaring energy prices\nBBC\nBy Danielle Kaye\nDonald Trump calls for 10% cap on credit card interest rates chevron_rightBanks balk as Trump pushes for 1-year, 10% cap on credit card interest rates\n'This is a mistake President': Bill Ackman responds to Trump's call for a one-year 10% cap on credit card interest\nPBS\nBy Ken Sweet & Seung Min Kim\nBusiness Insider\nBy Nathan Rennolds\nTop innovations and gadgets revealed at CES 2026 chevron_right\nLawmakers propose changes to crypto market structure bill chevron_rightLawmakers are preparing to try again on major crypto bill.",
+              "Why it matters and what happens next\nBy Liz Napolitano\nStates and developers sue over wind project freeze chevron_rightNew York attorney general sues Trump administration over offshore wind project freeze\nBillions at Stake in the Ocean as Trump Throttles Offshore Wind Farms\nAP News\nBy Philip Marcelo\nBy Brad Plumer & Maxine Joselow\nFederal News Network\nBy Anastasia Obis\nMeta strikes deals for nuclear power to support AI data centers chevron_right\nExxon on Venezuela chevron_rightOur perspective regarding the situation in Venezuela as shared with President TrumpExxon studies Venezuela return as Chevron plots immediate production bump\nExxon Mobil Corporation\nReuters\nBy Sheila Dang & Jarrett Renshaw\nUS national debt surpasses $38 trillion chevron_right\nListeria cheese recall chevron_rightFDA upgrades nationwide cheese recall to highest danger level after listeria-causing bacteria found\nkare11.com\nBy Chris Mccrory\nBy Adam Babetski\nGameStop reportedly closes more than 400 US stores chevron_rightGameStop's future is in turmoil as an estimated 400 stores close in 2026\nPolygon\nBy Patricia Hernandez\nRussell Vought's CFPB funding request chevron_rightRussell Vought, CFPB Leader, Requests $145 Million for Agency He Wants to Eliminate\nBy Stacy Cowley\nSprinkles Cupcakes closes all 20 stores nationwide chevron_right\nStock market outlook 2026 chevron_right\nRecord bond market volumes chevron_right\nStocks with dividends chevron_right\nFCC grants SpaceX approval for 7,500 more Starlink satellites chevron_rightFCC approves SpaceX plan to deploy an additional 7,500 Starlink satellites\nBy David Shepardson\nAI demand for memory chips causes global shortage chevron_right\nQuantum computing near mainstream chevron_rightQuantum computing has advantages over traditional, but still in early innings: BMO (IONQ:NYSE)\nSeeking Alpha\nBy Chris Ciaccia\nInvestors on AI bubble chevron_right\nGlendale police arrest two women in counterfeit cash scheme chevron_rightIn-N-Out Burger outlets in Southern California hit by counterfeit bill scam\nLos Angeles Times\nBy Dakota Smith\nSaks Global nearing bankruptcy filing chevron_rightLeveraged luxury: fall of Saks Global to scorch US business stars\nFinancial Times\nBy Eric Platt & Sujeet Indap\nIndia's security code for smartphones chevron_rightIndia's proposed phone security rules that are worrying tech firms\nExclusive: India proposes forcing smartphone makers to give source code in security overhaul\nBy Munsif Vengattil & Aditya Kalra\nKing Soopers, Costco, and Murphy Express sold contaminated fuel chevron_right\nX sues music publishers for alleged collusion chevron_right\nElon Musk on AI dominance in China chevron_rightChina is closing in on US technology lead despite constraints, AI researchers say\nBy Laurie Chen\nZillow: Hartford tops list for hottest housing market chevron_right\nBy Christian Davies & David Keohane\nHartford Business Journal\nBy Andrew Larson\nBuick unveils Electra E7 PHEV for Chinese market chevron_right\nAI stock picks chevron_rightWant to Buy Artificial Intelligence (AI) Stocks in 2026?",
+              "The Motley Fool\nBy Howard Smith\nAmerican Airlines to serve Pecan Lodge barbecue chevron_rightAmerican Airlines will soon serve barbecue from Dallas restaurant on some flights\nDallas News\nBy Claire Ballor\nAmazon offers deals on winter essentials and more chevron_right\nAuto loan interest deduction applies to new US-assembled vehicles chevron_rightThese autos quality for Secretary Bessent's $10,000 auto loan relief program\nBy Tony Owusu\nBy Aaron Hutcherson\nVolkswagen car sales in the US chevron_right\nBofA on Coinbase chevron_right\nBoeing 737 MAX 10 enters second phase of flight testing chevron_rightBoeing's biggest 737 MAX model moves to next stage in certification but still faces hurdles\nBy Dan Catchpole & David Shepardson\nBig Pharma's race for biotech assets chevron_right\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
