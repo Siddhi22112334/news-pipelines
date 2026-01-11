@@ -46196,6 +46196,117 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:58": [
+        {
+          "item": {
+            "title": "Google removes AI Overviews for certain medical queries",
+            "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "99ff4a7182b3212f7dc8e28b992c0a25e0c630f6"
+          },
+          "review": {
+            "headline_rewrite": "Google removes AI Overviews for certain medical queries",
+            "bullets": [
+              "Following an investigation by the Guardian that found Google AI Overviews offering misleading information in response to certain health-related queries, the company appears to have removed the AI Overviews for some of those queries.",
+              "Now, the Guardian says AI Overviews have been removed from the results for “what is the normal range for liver blood tests” and “what is the normal range for liver function tests.” However, it found that variations on those queries, such as “lft reference range” or “lft test reference range,” could still lead to AI-generated summaries.",
+              "When I tried those queries this morning — several hours after the Guardian published its story — none of them resulted in seeing AI Overviews, though Google still gave me the option to ask the same query in AI Mode.",
+              "A Google spokesperson told the Guardian that the company does not “comment on individual removals within Search,” but that it works to “make broad improvements.” The spokesperson also said that an internal team of clinicians reviewed the queries highlighted by the Guardian and found “in many instances, the information was not inaccurate and was also supported by high quality websites.”\nTechCrunch has reached out to Google for additional comment.",
+              "Last year, the company announced new features aimed at improving Google Search for healthcare use cases, including improved overviews and health-focused AI models.",
+              "Vanessa Hebditch, the director of communications and policy at the British Liver Trust, told the Guardian that the removal is “excellent news,” but added, “Our bigger concern with all this is that it is nit-picking a single search result and Google can just shut off the AI Overviews for that but it’s not tackling the bigger issue of AI Overviews for health.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Instagram says it fixed the issue that let someone send all those password reset emails",
+            "link": "https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails",
+            "site_name": "The Verge",
+            "novelty_hash": "83081351291266434b7ea7615357c60860b98dfa"
+          },
+          "review": {
+            "headline_rewrite": "Instagram says it fixed the issue that let someone send all those password reset emails",
+            "bullets": [
+              "If you’re one of the many, many people who received a password reset email from Instagram the other day, the company says it fixed the issue.",
+              "All we know is that an “external party” triggered the emails, and Instagram says you can safely ignore them.",
+              "Instagram says it fixed the issue that let someone send all those password reset emails\nThe company claims there was no breach of its systems.",
+              "The company posted on X that the issue had been fixed and also claimed there was no breach of its systems.",
+              "This seemingly contradicts reports from Malwarebytes, which said that information on 17.5 million Instagram accounts, including usernames, physical addresses, phone numbers, and email addresses, was available on the dark web"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GameStop is kicking off 2026 by shutting down over 400 stores in 42 states",
+            "link": "https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states",
+            "site_name": "The Verge",
+            "novelty_hash": "fcb8f7867b4fa44e6c7fa080b273d627ad4a9f72"
+          },
+          "review": {
+            "headline_rewrite": "GameStop is kicking off 2026 by shutting down over 400 stores in 42 states",
+            "bullets": [
+              "The company closed 590 stores in fiscal year 2024, and said in a recent SEC filing that it anticipates “closing a significant number of additional stores in fiscal 2025.” With the fiscal year set to end on January 31st, it appears the race is on, and according to a blog tracking closures, GameStop is planning on shuttering (or already has) over 430 stores this month.",
+              "GameStop is kicking off 2026 by shutting down over 400 stores in 42 states\nThe retailer continues to shrink its brick and mortar presence as the CEO races for $35 billion payday.",
+              "As of February 2025 the company was operating 2,325 stores in the US, so that represents a significant reduction in its retail presence."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Wing's drone deliveries are coming to 150 more Walmarts",
+            "link": "https://www.engadget.com/transportation/wings-drone-deliveries-are-coming-to-150-more-walmarts-180708189.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9990c35e804f963904ad52628f10a6de5a85137e"
+          },
+          "review": {
+            "headline_rewrite": "Wing's drone deliveries are coming to 150 more Walmarts",
+            "bullets": [
+              "The partnership said that drone delivery services will be available at 150 more Walmart locations in Los Angeles, St.",
+              "To meet growing demand, Wing and Walmart said it will serve up to 40 million US customers and build up a network of 270 delivery locations by 2027.",
+              "The partnership launched its service in August 2023 with the inaugural deliveries offered to the Dallas-Fort Worth customer base.",
+              "Last month, the two companies launched their delivery service in Atlanta and are planning to kick off deliveries in Houston on January 15.",
+              "Before Walmart, Wing broke into the US market by working with Walgreens to deliver health and wellness products in April 2022.",
+              "Since then, the Alphabet subsidiary has partnered with DoorDash and Apian, a London-based healthcare logistics company."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "c9fe0d1323214759850bde51605f1d4aebd727c3"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nGoogle launches new AI shopping standard with retailers chevron_rightWalmart teams up with Google's Gemini to make it easier for shoppers to find and buy products\nGoogle Bets on AI-Based Shopping With New AI Agents for Retailers\nCNBC\nBy Melissa Repko\nThe Wall Street Journal\nBy Belle Lin\nCalifornia tax on billionaires chevron_rightThiel Gives $3 Million to Group Seeking to Block California Wealth Tax\nThe New York Times\nBy Theodore Schleifer & Ryan Mac\nYahoo Finance\nBy Wyatte Grantham\nOpinion\nBy Jack Pitcher & Alexander Osipovich\nGM's new headquarters features artifacts from company history chevron_rightGM nods to its heritage as it begins future at new Hudson's Detroit HQ\nThe Detroit News\nBy Candice Williams & Summer Ballentine\nUS job numbers for December chevron_right\nBy Nick Lichtenberg\nDonald Trump calls for 10% cap on credit card interest rates chevron_rightBanks balk as Trump pushes for 1-year, 10% cap on credit card interest rates\n'This is a mistake President': Bill Ackman responds to Trump's call for a one-year 10% cap on credit card interest\nPBS\nBy Ken Sweet & Seung Min Kim\nBusiness Insider\nBy Nathan Rennolds\nFox Business\nBy Anders Hagstrom\nAmericans' energy costs chevron_right'I had no electricity for six months': American families struggle with soaring energy prices\nBBC\nBy Danielle Kaye\nTop innovations and gadgets revealed at CES 2026 chevron_right5 ground-breaking (and strange) products you could soon buy from the 2026 Consumer Electronics Show\nBy Katherine Li\nLawmakers propose changes to crypto market structure bill chevron_rightLawmakers are preparing to try again on major crypto bill.",
+              "Why it matters and what happens next\nBy Liz Napolitano\nNew York wind project freeze chevron_rightNew York attorney general sues Trump administration over offshore wind project freeze\nBillions at Stake in the Ocean as Trump Throttles Offshore Wind Farms\nAP News\nBy Philip Marcelo\nBy Brad Plumer & Maxine Joselow\nFederal News Network\nBy Anastasia Obis\nMeta partners with Oklo and TerraPower on nuclear projects chevron_right\nExxon on Venezuela chevron_rightOur perspective regarding the situation in Venezuela as shared with President TrumpExxon studies Venezuela return as Chevron plots immediate production bump\nExxon Mobil Corporation\nReuters\nBy Sheila Dang & Jarrett Renshaw\nBy Adam Babetski\nUS national debt surpasses $38 trillion chevron_right\nGameStop reportedly closes more than 400 US stores chevron_rightGameStop's future is in turmoil as an estimated 400 stores close in 2026\nPolygon\nBy Patricia Hernandez\nAmbriola Company recalls grated cheese due to listeria contamination chevron_rightFDA upgrades nationwide cheese recall to highest danger level after listeria-causing bacteria found\nkare11.com\nBy Chris Mccrory\nSprinkles Cupcakes closes all 20 stores nationwide chevron_right\nRussell Vought's CFPB funding request chevron_rightRussell Vought, CFPB Leader, Requests $145 Million for Agency He Wants to Eliminate\nBy Stacy Cowley\nRecord bond market volumes chevron_right\nFCC grants SpaceX approval for 7,500 more Starlink satellites chevron_rightFCC approves SpaceX plan to deploy an additional 7,500 Starlink satellites\nBy David Shepardson\nAI demand for memory chips causes global shortage chevron_right\nQuantum computing near mainstream chevron_rightQuantum computing has advantages over traditional, but still in early innings: BMO (IONQ:NYSE)\nSeeking Alpha\nBy Chris Ciaccia\nGlendale police arrest two women in counterfeit cash scheme chevron_rightIn-N-Out Burger outlets in Southern California hit by counterfeit bill scam\nLos Angeles Times\nBy Dakota Smith\nInvestors on AI bubble chevron_right\nSaks Global nearing bankruptcy filing chevron_rightLeveraged luxury: fall of Saks Global to scorch US business stars\nFinancial Times\nBy Eric Platt & Sujeet Indap\nColorado officials investigate diesel contamination at gas stations chevron_right\nX sues music publishers for alleged collusion chevron_right\nElon Musk on AI dominance in China chevron_rightChina is closing in on US technology lead despite constraints, AI researchers say\nBy Laurie Chen\nBy Christian Davies & David Keohane\nHartford Business Journal\nBy Andrew Larson\nZillow: Hartford tops list for hottest housing market chevron_right\nColorado's purchase of Eldora ski area chevron_rightA tiny Colorado town has approved a $120 million purchase of a ski resort on the Ikon Pass\nNederland’s Eldora ski resort deal: What comes next after the vote\nSteamboat Pilot\nBy Ryan Spencer\nThe Boulder Reporting Lab\nBy Jenna Sampson\nArtificial Intelligence stocks chevron_rightWant to Buy Artificial Intelligence (AI) Stocks in 2026?",
+              "The Motley Fool\nBy Howard Smith\nNvidia at CES 2026 chevron_right\nOre-Ida, Sysco tater tots recalled across 26 states chevron_right\nAmazon offers deals on winter essentials and more chevron_right\nAuto loan interest deduction applies to new US-assembled vehicles chevron_rightThese autos quality for Secretary Bessent's $10,000 auto loan relief program\nBy Tony Owusu\nBy Aaron Hutcherson\nBofA on Coinbase chevron_right\nBig Pharma's race for biotech assets chevron_right\nAmy's Kitchen to close final drive-thru restaurant chevron_rightPioneering burger chain, once a national sensation, is closing its last restaurant\nPennLive\nBy Brian Linder\nBy Katherine Blunt\nBy Tamara Chuang & Tracy Ross\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
