@@ -49733,6 +49733,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:55": [
+        {
+          "item": {
+            "title": "Increased file size limits and expanded inputs support in Gemini API",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-new-file-limits/",
+            "site_name": "Google",
+            "novelty_hash": "61a7366d8610e80f359a4cf48426c3bf19ce624a"
+          },
+          "review": {
+            "headline_rewrite": "Increased file size limits and expanded inputs support in Gemini API",
+            "bullets": [
+              "Increased file size limits and expanded inputs support in Gemini API\nToday, we’re introducing significant updates to how you ingest data into the Gemini API: support for Google Cloud Storage (GCS) object registration, HTTPS/Signed URLs and increased inline file size limits.",
+              "These changes are designed to help you bring your own data — wherever it lives — directly into Gemini API.",
+              "There’s no longer a need to re-upload data from existing storage, allowing you to scale your AI applications to production faster.",
+              "Bring your own data: GCS and external URLs\nPreviously, using large files (video, long audio, massive documents) required uploading them to the Gemini Files API, where they persisted for only 48 hours.",
+              "While sufficient for prototyping, this ephemeral storage became a bottleneck for production apps relying on persistent data in cloud storage platforms.",
+              "External URLs (public / signed):\nWe now support both files stored in public domains, as well as private storage (via signed URLs)\n- You can pass any publicly accessible URL (like a PDF or image on the web) directly in your generation request."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "New biddable capabilities for live sports with Display & Video 360",
+            "link": "https://blog.google/products/marketingplatform/360/new-biddable-capabilities-for-live-sports-with-display-video-360/",
+            "site_name": "Google",
+            "novelty_hash": "465e9b7f623f79b51900b9fe4606260a269b6982"
+          },
+          "review": {
+            "headline_rewrite": "New biddable capabilities for live sports with Display & Video 360",
+            "bullets": [
+              "2026 is shaping up to be a massive year for live sports, with fans gearing up for a packed calendar in football, rugby, cricket, basketball and tennis.",
+              "To help advertisers, we are announcing access to NBCUniversal’s Olympic Winter Games programmatic inventory and pairing it with new biddable live sports updates on Google Display & Video 360.",
+              "- Cross-device Conversion: Leveraging Google AI, this feature connects the dots between a CTV impression and purchase.",
+              "This gives marketers real time visibility into the ROI of their Live CTV sports campaigns, at no extra cost."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini to power Apple’s AI features like Siri",
+            "link": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "66c48c7b37caf85615c0fcfe14e1dbe0b67cb325"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini to power Apple’s AI features like Siri",
+            "bullets": [
+              "Apple has chosen to work with Google, a longtime partner, to power AI features like Siri.",
+              "“After careful evaluation, we determined that Google’s technology provides the most capable foundation for Apple Foundation Models and we’re excited about the innovative new experiences it will unlock for our users,” Apple and Google said in a statement.",
+              "Neither Apple nor Google have confirmed the price tag, but previous reports indicate Apple could be paying Google around$1 billion for access to its AI technology.",
+              "The deal also comes after Apple spent some time testing the technology of competitorslike OpenAI and Anthropic.",
+              "The multi-year partnership will involve Apple using Google’s Gemini models and cloud technology for future Apple foundational models.",
+              "The iPhone-maker has faced a fair amount of public chatter criticizing it after its AI efforts, particularly its assistant Siri, lagged behind competitors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple picks Google’s Gemini AI for its big Siri upgrade",
+            "link": "https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization",
+            "site_name": "The Verge",
+            "novelty_hash": "3dfd99cfe7345b459a2b5c55d6f37d90003d7d23"
+          },
+          "review": {
+            "headline_rewrite": "Apple picks Google’s Gemini AI for its big Siri upgrade",
+            "bullets": [
+              "Apple will use Google’s Gemini AI model to power a more personalized Siri coming this year.",
+              "Apple picks Google’s Gemini AI for its big Siri upgrade\n‘Google’s technology provides the most capable foundation for Apple Foundation Models.‘\nCNBC first reported on the multi-year partnership, which will allow Apple to use Google Gemini and the company’s cloud technology for its future models.",
+              "“These models will help power future Apple Intelligence features, including a more personalized Siri coming this year,” Apple and Google say, adding that Apple Intelligence will still run on Apple devices and Private Cloud Compute.",
+              "Apple has spent the past year working on an AI-upgraded version of Siri that’s supposed to perform actions on your behalf, as well as understand your personal context.",
+              "The company delayed the update last March after admitting that it’s taking “longer than we thought.”\nAs part of these efforts, Bloomberg reported that Apple considered using a custom version of Gemini for AI-powered features in Siri, including a “World Knowledge Answers” capability that allows users to search for information and receive AI-generated summaries using results from the web.",
+              "Google launched its Gemini 3 AI model in November, which topped AI leaderboards."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger",
+            "link": "https://techcrunch.com/2026/01/12/paramount-files-lawsuit-against-warner-bros-amidst-controversial-netflix-merger/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4d8025bd005abc809e3bc4faeac74383ea532d4a"
+          },
+          "review": {
+            "headline_rewrite": "Paramount files lawsuit against Warner Bros. amidst controversial Netflix merger",
+            "bullets": [
+              "and Netflix—prepare for a merger, concerns continue to be voiced about the implications of the deal, which represents more consolidation in the media business.",
+              "On Monday, Paramount CEO David Ellison announced that the company has filed a lawsuit against Warner Bros.",
+              "Discovery (WBD) in Delaware, demanding greater financial disclosure regarding Netflix’s $82.7 billion acquisition.",
+              "In a letter to shareholders, Ellison disclosed that the lawsuit has been filed in the Delaware Chancery Court, requesting that WBD provide essential information that it allegedly has failed to share.",
+              "Ellison argues that shareholders need accurate information to assess whether to accept Paramount’s competing offer of $30 per share in cash, which he claims is superior to Netflix’s deal.",
+              "Ellison wrote, “WBD has provided increasingly novel reasons for avoiding a transaction with Paramount, but what it has never said, because it cannot, is that the Netflix transaction is financially superior to our actual offer.”\n“Along with the WBD shareholders, we have asked for the customary financial disclosure a board is supposed to provide shareholders when making an investment recommendation…WBD has failed to include any disclosure about how it valued the overall Netflix transaction, how the purchase price reduction for debt works in the Netflix transaction, or even what the basis is for its ‘risk adjustment’ of our $30 per share all-cash offer."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon has started automatically upgrading Prime members to Alexa Plus",
+            "link": "https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade",
+            "site_name": "The Verge",
+            "novelty_hash": "4cbf450af9b056427d249fbccfbf6e0ccdb537a0"
+          },
+          "review": {
+            "headline_rewrite": "Amazon has started automatically upgrading Prime members to Alexa Plus",
+            "bullets": [
+              "Screenshots of a message from Amazon sent to users state that, “After your device updates, you can still revert to the original Alexa by saying, ‘Alexa, exit Alexa+.’”\nAlexa Plus is an LLM-powered overhaul of Alexa that’s intended to help Amazon’s voice assistant compete with rivals like Google Gemini.",
+              "Not everyone is eager to use the latest version of Amazon’s AI, though, and the rollout of the Gemini update for Google Home has had its own issues, like misidentifying objects and hallucinating camera activity.",
+              "Some users on Reddit have responded to Amazon’s update with a variety of reasons for wanting to stick with the original Alexa, including disliking Alexa’s new voice and attitude and experiencing longer wait times for Alexa Plus to respond to queries.",
+              "Users also report an influx of ads for Alexa Plus, including one user who said that after they turned off the updated Alexa, they got “flooded with ads” until they turned it back on."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
