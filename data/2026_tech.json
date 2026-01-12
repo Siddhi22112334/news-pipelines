@@ -51246,6 +51246,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:11": [
+        {
+          "item": {
+            "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+            "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3d14c0bbc19916c9bd24db89e90ab2c5149a27c8"
+          },
+          "review": {
+            "headline_rewrite": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+            "bullets": [
+              "When Meta announced capital expenditure projections last year, the company made it known that it planned to spend big to build out capacity for its AI business.",
+              "“We expect that developing leading AI infrastructure will be a core advantage in developing the best AI models and product experiences,” said Susan Li, Meta CFO, during an earnings call last summer.",
+              "On Monday, CEO Mark Zuckerberg announced the launch of Meta Compute, a new initiative designed to bolster the tech giant’s AI infrastructure.",
+              "Zuckerberg said the company intended to drastically expand its energy footprint in the coming years.",
+              "How we engineer, invest, and partner to build this infrastructure will become a strategic advantage,” Zuckerberg said in a post on Threads.",
+              "The energy-hungry AI business means that America’s electrical consumption could spike exponentially over the next decade (from 5 GW to 50, according to one estimate)."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Framework hikes desktop PC prices as RAM shortage drags on",
+            "link": "https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage",
+            "site_name": "The Verge",
+            "novelty_hash": "687d3d529944d7c09ccd79927bb209bb60a56475"
+          },
+          "review": {
+            "headline_rewrite": "Framework hikes desktop PC prices as RAM shortage drags on",
+            "bullets": [
+              "Just weeks after raising the price of its RAM modules, Framework has announced that it’s also increasing the price of its desktop PC in response to the global memory shortage.",
+              "The Framework Desktop with 32GB of RAM and an AMD Ryzen AI Max 385 chip now starts at $1,139, instead of $1,099.",
+              "Framework Desktops with higher RAM configurations and a Ryzen AI Max Plus 395 chip have gone up in price, too, with the 64GB variation increasing from $1,599 to $1,639, and the 128GB option going from $1,999 to $2,459.",
+              "In December, Framework didn’t rule out the possibility of future increases, saying “it is very likely we’ll need to adjust module prices again within the next month.”\nAs AI companies continue to buy up massive amounts of RAM, device-makers across the tech industry are contending with a massive memory shortage that analysts predict could last into 2027.",
+              "Along with Framework, Raspberry Pi has raised the price of its single-board computers, while Dell, HP, Xiaomi, Acer, and Asus have warned of incoming hikes."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta plans to lay off hundreds of metaverse employees this week",
+            "link": "https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse",
+            "site_name": "The Verge",
+            "novelty_hash": "a30810cda4eb5844f54c2391854578d6bf6f0d02"
+          },
+          "review": {
+            "headline_rewrite": "Meta plans to lay off hundreds of metaverse employees this week",
+            "bullets": [
+              "The layoffs are apparently a side effect of Meta’s AI ambitions, which are pulling focus away from its virtual reality division.",
+              "Even if AI wasn’t Meta’s top priority right now, the metaverse itself has also struggled to catch on over the years, and many users seem to already think the VR social platform is dead."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google removes some AI health summaries after investigation finds “dangerous” flaws",
+            "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e94679e954deb437bb0ae5af3c0c21c2efe2604b"
+          },
+          "review": {
+            "headline_rewrite": "Google removes some AI health summaries after investigation finds “dangerous” flaws",
+            "bullets": [
+              "On Sunday, Google removed some of its AI Overviews health summaries after a Guardian investigation found people were being put at risk by false and misleading information.",
+              "The removals came after the newspaper found that Google’s generative AI feature delivered inaccurate health information at the top of search results, potentially leading seriously ill patients to mistakenly conclude they are in good health.",
+              "The report also highlighted a critical error regarding pancreatic cancer: The AI suggested patients avoid high-fat foods, a recommendation that contradicts standard medical guidance to maintain weight and could jeopardize patient health.",
+              "The AI feature also failed to adjust these figures for patient demographics such as age, sex, and ethnicity.",
+              "Experts warned that because the AI model’s definition of “normal” often differed from actual medical standards, patients with serious liver conditions might mistakenly believe they are healthy and skip necessary follow-up care.",
+              "Vanessa Hebditch, director of communications and policy at the British Liver Trust, told The Guardian that a liver function test is a collection of different blood tests and that understanding the results “is complex and involves a lot more than comparing a set of numbers.” She added that the AI Overviews fail to warn that someone can get normal results for these tests when they have serious liver disease and need further medical care."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Minnesota Sues to Stop ICE ‘Invasion’",
+            "link": "https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/",
+            "site_name": "WIRED",
+            "novelty_hash": "f92828697a9bcf6f8704ce1909f0261ec88abadf"
+          },
+          "review": {
+            "headline_rewrite": "Minnesota Sues to Stop ICE ‘Invasion’",
+            "bullets": [
+              "The 80-page complaint, filed in US district court in Minnesota, targets the US Department of Homeland Security and senior federal officials, including DHS secretary Kristi Noem.",
+              "It asks a judge to immediately block what the federal government calls “Operation Metro Surge,” a large-scale immigration operation that plaintiffs say has sent thousands of armed, masked federal agents into Minnesota communities far from the border, overwhelming local infrastructure and law enforcement.",
+              "At a press conference Monday afternoon, Minnesota attorney general Keith Ellison said the lawsuit is intended to stop what he described as an unlawful federal escalation.",
+              "Ellison said the surge has forced school closures and lockdowns, hurt local businesses, and diverted police resources away from routine public safety work.",
+              "Ellison said that the killing, along with subsequent federal rhetoric, left families and entire communities feeling unsafe in public spaces.",
+              "Plaintiffs argue the federal operation violates the Tenth Amendment, federal administrative law, and long-standing limits on immigration enforcement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath",
+            "link": "https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/",
+            "site_name": "WIRED",
+            "novelty_hash": "96b6e622152bf158df509ae80cdf0153365f1efa"
+          },
+          "review": {
+            "headline_rewrite": "FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath",
+            "bullets": [
+              "In testimony last month in federal court in Minnesota, FBI special agent Bernardo Medellin appeared to directly contradict a claim that ICE agent Jonathan Ross made under oath about whether a man they were trying to detain had asked to speak to his attorney.",
+              "Medellin’s testimony, which details federal training for interactions with drivers, also calls into question whether Ross followed his training during the interaction that led to the shooting and killing of Renee Nicole Good, a 37-year-old mother, last week.",
+              "Ross has been identified by multiple media outlets as the shooter; while the Trump administration has declined to confirm those reports, details about the shooter shared by Vice President JD Vance match details of Ross’ biography.",
+              "“When you say, ‘replied back in English,’” asked assistant US attorney Raphael Coburn, “what do you mean?”\n“He would—he would reply back he wants his attorney, I believe he said,” responded Ross.",
+              "“I was, frankly, quite shocked that he said it,” Newmark told district court judge Jeffrey Bryan.",
+              "“It was not in any of his previous statements, and it's my understanding he never—the government was as surprised as I was that he said it.” Newmark went on to explain that Ross’ claim pertained to whether his client “believed he was talking to law enforcement or someone who was trying to do him harm,” and that he intended to cross-examine Ross on the fact that Muñoz-Guatemala’s purported request for a lawyer had come up neither during an interview Ross gave the FBI nor during pretrial preparation—something neither Bryan nor Coburn, the government lawyer, objected to."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
