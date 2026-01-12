@@ -50550,6 +50550,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:19": [
+        {
+          "item": {
+            "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+            "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a4ead76f54ef35c52d210c6d77a0dc4150641d2f"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+            "bullets": [
+              "On the heels of OpenAI’s ChatGPT Health reveal, Anthropic announced on Sunday that it’s introducing Claude for Healthcare, a set of tools for providers, payers, and patients.",
+              "Like ChatGPT Health, Claude for Healthcare will allow users to sync health data from their phones, smart watches, and other platforms (both OpenAI and Anthropic have said that their models won’t use this data for training).",
+              "But Anthropic’s product promises more sophistication than ChatGPT Health, which seems as though it will be more focused on a patient-side chat experience as it rolls out gradually.",
+              "Though some industry professionals are concerned about the role of hallucination-prone LLMs in offering clients medical advice, Anthropic’s “agent skills” seem promising.",
+              "Claude has added what it calls “connectors” to give the AI access to platforms and databases that can speed up research processes and report generation for payers and providers, including: the Centers for Medicare and Medicaid Services (CMS) Coverage Database; the International Classifications of Diseases, 10th Revision (ICD-10); the National Provider Identifier Registry; and PubMed.",
+              "Anthropic explained in a blog post that Claude for Health could use its connectors to speed up prior authorization review, the process in which a doctor must submit additional information to an insurance provider to see if it will cover a medication or treatment."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon says 97% of its devices can support Alexa+",
+            "link": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "15f3aa9324b063e322533444a4fd1cc008bcd1f0"
+          },
+          "review": {
+            "headline_rewrite": "Amazon says 97% of its devices can support Alexa+",
+            "bullets": [
+              "Amazon offered a bit more insight into how it sees its AI platform competing in the real world at the Consumer Electronics Show in Las Vegas last week.",
+              "He said the latest figures Amazon has on hand indicate the company has sold more than 600 million devices, and the “vast majority” will support its revamped AI assistant, Alexa+.",
+              "Announced early last year, Alexa+ is Amazon’s future in the generative AI market, offering more expressive voices, access to world knowledge similar to other AI assistants, and AI agents that perform tasks on behalf of the customer — like calling an Uber or ordering food.",
+              "The company has been steadily rolling out access to the AI platform, with more than 1 million Alexa customers gaining access by last June, and now, “tens of millions” can opt in to upgrade to the AI assistant.",
+              "Amazon doesn’t have an exact date for when Alexa+ will be available to everyone; the company is focusing first on bringing the AI to all Prime members.",
+              "What Amazon soon has to prove, beyond availability, is whether customers will actually use its AI."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apps like Grok are explicitly banned under Google’s rules—why is it still in the Play Store?",
+            "link": "https://arstechnica.com/google/2026/01/apps-like-grok-are-explicitly-banned-under-googles-rules-why-is-it-still-in-the-play-store/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c0d914e27ca201d071fc03b338ab2e01c7ac616f"
+          },
+          "review": {
+            "headline_rewrite": "Apps like Grok are explicitly banned under Google’s rules—why is it still in the Play Store?",
+            "bullets": [
+              "Elon Musk’s xAI recently weakened content guard rails for image generation in the Grok AI bot.",
+              "This led to a new spate of non-consensual sexual imagery on X, much of it aimed at silencing women on the platform.",
+              "This, along with the creation of sexualized images of children in the more compliant Grok, has led regulators to begin investigating xAI.",
+              "It really could not be more clear from Google’s publicly available policies that Grok should have been banned yesterday.",
+              "And yet, it remains in the Play Store.",
+              "As Google has shifted from a laissez-faire attitude to more hard-nosed control of the Play Store, it has progressively piled on clarifications in the content policy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "CES 2026 proved the PC industry is hosed this year",
+            "link": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html",
+            "site_name": "Engadget",
+            "novelty_hash": "ff61c4a5b7dda4bd5d7bc1a8a756c5d08908e464"
+          },
+          "review": {
+            "headline_rewrite": "CES 2026 proved the PC industry is hosed this year",
+            "bullets": [
+              "And new AI supercomputers from NVIDIA and AMD are gobbling up the RAM market.",
+              "At CES 2026, it was hard not to notice the dire year ahead for the computing industry, one that will likely lead to higher prices and more limited availability for consumer goods across the board.",
+              "Really, though, the show just confirmed what was apparent since RAM prices skyrocketed over the last few months, driven by demand from AI datacenters.",
+              "As Samsung's marketing leader, Wonjin Lee, told Bloomberg at CES: \"There's going to be issues around semiconductor supplies, and it's going to affect everyone.",
+              "It’s just unfortunate that Dell doesn’t have cheaper configurations available for the launch if its new systems, especially since they look so compelling.",
+              "\"I think that will be potentially a trend that we see in 2026 with more component upgrades, as opposed to full system swap outs and, and altogether rebuilds,\" he said in a group interview with Engadget and other outlets."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic wants you to use Claude to &#8216;Cowork&#8217; in latest AI agent push",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code",
+            "site_name": "The Verge",
+            "novelty_hash": "bc3e31b0a27b34b2e25d75e26e6c55c7cd46ecb5"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic wants you to use Claude to &#8216;Cowork&#8217; in latest AI agent push",
+            "bullets": [
+              "Anthropic wants to expand Claude’s AI agent capabilities and take advantage of the growing hype around Claude Code — and it’s doing it with a brand-new feature released Monday, dubbed “Claude Cowork.”\nAnthropic wants you to use Claude to ‘Cowork’ in latest AI agent push\nThe new feature debuted today in research preview.",
+              "So far, Cowork is only available via Claude’s macOS app, and only for subscribers of Anthropic’s power-user tier, Claude Max, which costs $100 to $200 per month depending on usage.",
+              "“Nor do you have to wait for Claude to finish before offering further ideas or feedback: you can queue up tasks and let Claude work through them in parallel.",
+              "It feels much less like a back-and-forth and much more like leaving messages for a coworker.”\nThe new feature is part of Anthropic’s (and its competitors’) bid to provide the most actually useful AI agents, both for consumers and enterprise.",
+              "AI agents have come a long way from their humble beginnings as mostly-theoretically-useful tools, but there’s still much more development needed before you’ll see your non-tech-industry friends using them to complete everyday tasks.",
+              "As part of the announcement, Anthropic warned about the potential dangers of using Cowork and other AI agent tools, namely the fact that if instructions aren’t clear, Claude does have the ability to delete local files and take other “potentially destructive actions” — and that with prompt injection attacks, there are a range of potential safety concerns."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "NASA launches new mission to get the most out of the James Webb Space Telescope",
+            "link": "https://arstechnica.com/space/2026/01/nasas-newest-telescope-will-play-an-outsize-role-in-finding-earth-2-0/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ee2f99fdc3dfc2d9dd4074f94178bb230c26061d"
+          },
+          "review": {
+            "headline_rewrite": "NASA launches new mission to get the most out of the James Webb Space Telescope",
+            "bullets": [
+              "The Webb telescope, launched in 2021 at a cost of more than $10 billion, has the sensitivity to peer into distant planetary systems and detect the telltale chemical fingerprints of molecules critical to or indicative of potential life, like water vapor, carbon dioxide, and methane.",
+              "It hitched a ride with around 40 other small payloads aboard a SpaceX Falcon 9 rocket, launching into a polar Sun-synchronous orbit before deploying at an altitude of roughly 380 miles (613 kilometers).",
+              "Webb has the sensitivity to detect the filtered starlight and break it apart into its spectral components, telling astronomers about the composition of clouds and hazes in the planet’s atmosphere."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
