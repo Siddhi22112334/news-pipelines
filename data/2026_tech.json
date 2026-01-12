@@ -49967,5 +49967,125 @@
         }
       ]
     }
+  },
+  "2026-01-13": {
+    "runs": {
+      "00:03": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-for-net-10-aws-client-vpn-quickstart-best-of-aws-reinvent-and-more-january-12-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "38770d8d3fa5500d8cbf63e9661bdb5ad553e918"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)",
+            "bullets": [
+              "If AI and cloud computing are on your resolution list, consider creating an AWS Free Tier account to receive up to $200 in credits and have 6 months of risk-free experimentation with AWS services.",
+              "During this period, you can explore essential services across compute, storage, databases, and AI/ML, plus access to over 30 always-free services with monthly usage limits.",
+              "Whether you’re a student exploring career options, a developer expanding your skill set, or a professional building with cloud technologies, this hands-on approach lets you focus on what matters most: developing real expertise in the areas you’re passionate about.",
+              "Last week’s launches\nHere are the launches that got my attention this week:\n- AWS Lambda – Now supports creating serverless applications using .NET 10 both as a managed runtime and a container base image.",
+              "AWS will automatically apply updates to the managed runtime and base image as they become available.",
+              "- Amazon ECS – Adds support for tmpfs mounts to Linux tasks running on AWS Fargate and Amazon ECS Managed Instances in addition to the EC2 launch type."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Increased file size limits and expanded inputs support in Gemini API",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-new-file-limits/",
+            "site_name": "Google",
+            "novelty_hash": "61a7366d8610e80f359a4cf48426c3bf19ce624a"
+          },
+          "review": {
+            "headline_rewrite": "Increased file size limits and expanded inputs support in Gemini API",
+            "bullets": [
+              "Increased file size limits and expanded inputs support in Gemini API\nToday, we’re introducing significant updates to how you ingest data into the Gemini API: support for Google Cloud Storage (GCS) object registration, HTTPS/Signed URLs and increased inline file size limits.",
+              "These changes are designed to help you bring your own data — wherever it lives — directly into Gemini API.",
+              "There’s no longer a need to re-upload data from existing storage, allowing you to scale your AI applications to production faster.",
+              "Bring your own data: GCS and external URLs\nPreviously, using large files (video, long audio, massive documents) required uploading them to the Gemini Files API, where they persisted for only 48 hours.",
+              "While sufficient for prototyping, this ephemeral storage became a bottleneck for production apps relying on persistent data in cloud storage platforms.",
+              "External URLs (public / signed):\nWe now support both files stored in public domains, as well as private storage (via signed URLs)\n- You can pass any publicly accessible URL (like a PDF or image on the web) directly in your generation request."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Search is celebrating 250 years of America.",
+            "link": "https://blog.google/products-and-platforms/products/search/americas-250th-search-easter-egg/",
+            "site_name": "Google",
+            "novelty_hash": "8645bf5f8ae80a822db14c617b6b99348f040f67"
+          },
+          "review": {
+            "headline_rewrite": "Google Search is celebrating 250 years of America.",
+            "bullets": [
+              "To help kick things off, we’re launching a fun surprise in Search.",
+              "Throughout the year, we’re rolling out additional initiatives designed to actively empower Americans as we celebrate 250 years — from bringing America’s natural beauty and shared heritage to life for explorers across the country, to fueling a new era of economic growth by equipping communities with the AI skills for the future."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini to power Apple’s AI features like Siri",
+            "link": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "66c48c7b37caf85615c0fcfe14e1dbe0b67cb325"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini to power Apple’s AI features like Siri",
+            "bullets": [
+              "Apple has chosen to work with Google, a longtime partner, to power AI features like Siri.",
+              "“After careful evaluation, we determined that Google’s technology provides the most capable foundation for Apple Foundation Models and we’re excited about the innovative new experiences it will unlock for our users,” Apple and Google said in a statement.",
+              "Neither Apple nor Google have confirmed the price tag, but previous reports indicate Apple could be paying Google around$1 billion for access to its AI technology.",
+              "The deal also comes after Apple spent some time testing the technology of competitorslike OpenAI and Anthropic.",
+              "The multi-year partnership will involve Apple using Google’s Gemini models and cloud technology for future Apple foundational models.",
+              "The iPhone-maker has faced a fair amount of public chatter criticizing it after its AI efforts, particularly its assistant Siri, lagged behind competitors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Developers have made $550 billion on Apple’s App Store since 2008",
+            "link": "https://techcrunch.com/2026/01/12/developers-have-made-550-billion-on-apples-app-store-since-2008/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "56324534c261ee835d114418af2a4ce195d98d00"
+          },
+          "review": {
+            "headline_rewrite": "Developers have made $550 billion on Apple’s App Store since 2008",
+            "bullets": [
+              "Apple has less frequently disclosed figures about App Store payouts over the last several years, but the company shared that it has now paid $550 billion to developers since its launch in 2008.",
+              "This indicates significant growth, as Apple last reported that as of 2021, it had paid out $260 billion to developers, up from the $200 billion it reported in 2020.",
+              "Apple Music and Apple TV are growing\nApple’s entertainment products are making strides, too.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+              "Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge.",
+              "Ek’s investment firm led a €600 million investment in European defense tech company Helsing, which makes AI-powered military software and strike drones."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anker goes big with new whole home backup system",
+            "link": "https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system",
+            "site_name": "The Verge",
+            "novelty_hash": "13ad54be92dc7e7f1751efdd57c44bf4bcb7a790"
+          },
+          "review": {
+            "headline_rewrite": "Anker goes big with new whole home backup system",
+            "bullets": [
+              "Homeowners in search of grid independence have another option today with the launch of Anker’s Solix E10 big-ass battery system.",
+              "It can produce up to 28.8kW (120 LRA) peak when fitted with a single 6kWh battery, or 37.2kW (155 LRA) when configured with two or more batteries — enough to start a 5-ton air conditioner.",
+              "For most people, having that much battery capacity available is overkill and very expensive.",
+              "The E10 ecosystem is also launching with a weather-resistant, tri-fuel Smart Generator 5500 generator that runs on gasoline, propane, or natural gas."
+            ],
+            "impact": "Positive"
+          }
+        }
+      ]
+    }
   }
 }
