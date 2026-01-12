@@ -50317,6 +50317,121 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:14": [
+        {
+          "item": {
+            "title": "Amazon says 97% of its devices can support Alexa+",
+            "link": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c89a63bca0a98b4c6d42f240272935e0b415a4c0"
+          },
+          "review": {
+            "headline_rewrite": "Amazon says 97% of its devices can support Alexa+",
+            "bullets": [
+              "Amazon offered a bit more insight into how it sees its AI platform competing in the real world at the Consumer Electronics Show in Las Vegas last week.",
+              "He said the latest figures Amazon has on hand indicate the company has sold more than 600 million devices, and the “vast majority” will support its revamped AI assistant, Alexa+.",
+              "Announced early last year, Alexa+ is Amazon’s future in the generative AI market, offering more expressive voices, access to world knowledge similar to other AI assistants, and AI agents that perform tasks on behalf of the customer — like calling an Uber or ordering food.",
+              "The company has been steadily rolling out access to the AI platform, with more than 1 million Alexa customers gaining access by last June, and now, “tens of millions” can opt in to upgrade to the AI assistant.",
+              "Amazon doesn’t have an exact date for when Alexa+ will be available to everyone; the company is focusing first on bringing the AI to all Prime members.",
+              "What Amazon soon has to prove, beyond availability, is whether customers will actually use its AI."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
+            "link": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c3c2c114ebe8ce7e2c3536332ad6474dce07cff0"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s new Cowork tool offers Claude Code without the code",
+            "bullets": [
+              "Currently in research preview, Cowork is only available to Max subscribers, with a waitlist available for users on other plans.",
+              "The new tool is inspired in part by the growing number of subscribers using Claude Code to achieve non-coding tasks, treating it as a general-purpose agentic AI tool.",
+              "Cowork is built on the Claude Agent SDK, which means it’s drawing on the same underlying model as Claude Code.",
+              "“These risks aren’t new with Cowork,” the post reads, “but it might be the first time you’re using a more advanced tool that moves beyond a simple conversation.”\nLaunched as a command-line tool in November 2024, Claude Code has become one of Anthropic’s most successful products, leading the company to launch a string of new interfaces in recent months.",
+              "A web interface launched in October, followed by a Slack integration just two months later."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri",
+            "link": "https://arstechnica.com/apple/2026/01/apple-says-its-new-ai-powered-siri-will-use-googles-gemini-language-models/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "240285df480de7fcd6174f0c5a8fcc87354b9418"
+          },
+          "review": {
+            "headline_rewrite": "Apple chooses Google’s Gemini over OpenAI’s ChatGPT to power next-gen Siri",
+            "bullets": [
+              "CNBC reports that the deal is part of a “multi-year partnership” between Apple and Google that will allow Apple to use Google’s AI models in its own software.",
+              "Apple didn’t disclose terms, but Gurman said that Apple would be paying Google “about $1 billion a year” for access to its AI models “following an extensive evaluation period.”\nBloomberg has also reported that the Gemini model would be run on Apple’s Private Cloud Compute servers, “ensuring that user data remains walled off from Google’s infrastructure,” and that Apple still hopes to improve its own in-house language models to the point that they can eventually be used instead of relying on third-party models."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apps like Grok are explicitly banned under Google’s rules—why is it still in the Play Store?",
+            "link": "https://arstechnica.com/google/2026/01/apps-like-grok-are-explicitly-banned-under-googles-rules-why-is-it-still-in-the-play-store/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1fa8d016953640cecd105465ebf0485dd4e87c0a"
+          },
+          "review": {
+            "headline_rewrite": "Apps like Grok are explicitly banned under Google’s rules—why is it still in the Play Store?",
+            "bullets": [
+              "Elon Musk’s xAI recently weakened content guard rails for image generation in the Grok AI bot.",
+              "This led to a new spate of non-consensual sexual imagery on X, much of it aimed at silencing women on the platform.",
+              "This, along with the creation of sexualized images of children in the more compliant Grok, has led regulators to begin investigating xAI.",
+              "It really could not be more clear from Google’s publicly available policies that Grok should have been banned yesterday.",
+              "And yet, it remains in the Play Store.",
+              "As Google has shifted from a laissez-faire attitude to more hard-nosed control of the Play Store, it has progressively piled on clarifications in the content policy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic wants you to use Claude to &#8216;Cowork&#8217; in latest AI agent push",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code",
+            "site_name": "The Verge",
+            "novelty_hash": "bc3e31b0a27b34b2e25d75e26e6c55c7cd46ecb5"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic wants you to use Claude to &#8216;Cowork&#8217; in latest AI agent push",
+            "bullets": [
+              "Anthropic wants to expand Claude’s AI agent capabilities and take advantage of the growing hype around Claude Code — and it’s doing it with a brand-new feature released Monday, dubbed “Claude Cowork.”\nAnthropic wants you to use Claude to ‘Cowork’ in latest AI agent push\nThe new feature debuted today in research preview.",
+              "So far, Cowork is only available via Claude’s macOS app, and only for subscribers of Anthropic’s power-user tier, Claude Max, which costs $100 to $200 per month depending on usage.",
+              "“Nor do you have to wait for Claude to finish before offering further ideas or feedback: you can queue up tasks and let Claude work through them in parallel.",
+              "It feels much less like a back-and-forth and much more like leaving messages for a coworker.”\nThe new feature is part of Anthropic’s (and its competitors’) bid to provide the most actually useful AI agents, both for consumers and enterprise.",
+              "AI agents have come a long way from their humble beginnings as mostly-theoretically-useful tools, but there’s still much more development needed before you’ll see your non-tech-industry friends using them to complete everyday tasks.",
+              "As part of the announcement, Anthropic warned about the potential dangers of using Cowork and other AI agent tools, namely the fact that if instructions aren’t clear, Claude does have the ability to delete local files and take other “potentially destructive actions” — and that with prompt injection attacks, there are a range of potential safety concerns."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anker goes big with new whole home backup system",
+            "link": "https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system",
+            "site_name": "The Verge",
+            "novelty_hash": "13ad54be92dc7e7f1751efdd57c44bf4bcb7a790"
+          },
+          "review": {
+            "headline_rewrite": "Anker goes big with new whole home backup system",
+            "bullets": [
+              "Homeowners in search of grid independence have another option today with the launch of Anker’s Solix E10 big-ass battery system.",
+              "It can produce up to 28.8kW (120 LRA) peak when fitted with a single 6kWh battery, or 37.2kW (155 LRA) when configured with two or more batteries — enough to start a 5-ton air conditioner.",
+              "For most people, having that much battery capacity available is overkill and very expensive.",
+              "The E10 ecosystem is also launching with a weather-resistant, tri-fuel Smart Generator 5500 generator that runs on gasoline, propane, or natural gas."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
