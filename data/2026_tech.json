@@ -50900,6 +50900,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:50": [
+        {
+          "item": {
+            "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+            "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fb7e7d9da7f0ec9a1accb92bd18af6905cf41686"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+            "bullets": [
+              "On the heels of OpenAI’s ChatGPT Health reveal, Anthropic announced on Sunday that it’s introducing Claude for Healthcare, a set of tools for providers, payers, and patients.",
+              "Like ChatGPT Health, Claude for Healthcare will allow users to sync health data from their phones, smartwatches, and other platforms (both OpenAI and Anthropic have said that their models won’t use this data for training).",
+              "But Anthropic’s product promises more sophistication than ChatGPT Health, which seems as though it will be more focused on a patient-side chat experience as it rolls out gradually.",
+              "Though some industry professionals are concerned about the role of hallucination-prone LLMs in offering clients medical advice, Anthropic’s “agent skills” seem promising.",
+              "Claude has added what it calls “connectors” to give the AI access to platforms and databases that can speed up research processes and report generation for payers and providers, including the Centers for Medicare and Medicaid Services (CMS) Coverage Database; the International Classification of Diseases, 10th Revision (ICD-10); the National Provider Identifier Standard; and PubMed.",
+              "Anthropic explained in a blog post that Claude for Health could use its connectors to speed up prior authorization review, the process in which a doctor must submit additional information to an insurance provider to see if it will cover a medication or treatment."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta plans to lay off hundreds of metaverse employees this week",
+            "link": "https://www.theverge.com/news/860984/meta-reality-labs-layoffs-metaverse",
+            "site_name": "The Verge",
+            "novelty_hash": "a30810cda4eb5844f54c2391854578d6bf6f0d02"
+          },
+          "review": {
+            "headline_rewrite": "Meta plans to lay off hundreds of metaverse employees this week",
+            "bullets": [
+              "The layoffs are apparently a side effect of Meta’s AI ambitions, which are pulling focus away from its virtual reality division.",
+              "Even if AI wasn’t Meta’s top priority right now, the metaverse itself has also struggled to catch on over the years, and many users seem to already think the VR social platform is dead."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "CES 2026 proved the PC industry is hosed this year",
+            "link": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html",
+            "site_name": "Engadget",
+            "novelty_hash": "ff61c4a5b7dda4bd5d7bc1a8a756c5d08908e464"
+          },
+          "review": {
+            "headline_rewrite": "CES 2026 proved the PC industry is hosed this year",
+            "bullets": [
+              "And new AI supercomputers from NVIDIA and AMD are gobbling up the RAM market.",
+              "At CES 2026, it was hard not to notice the dire year ahead for the computing industry, one that will likely lead to higher prices and more limited availability for consumer goods across the board.",
+              "Really, though, the show just confirmed what was apparent since RAM prices skyrocketed over the last few months, driven by demand from AI datacenters.",
+              "As Samsung's marketing leader, Wonjin Lee, told Bloomberg at CES: \"There's going to be issues around semiconductor supplies, and it's going to affect everyone.",
+              "It’s just unfortunate that Dell doesn’t have cheaper configurations available for the launch if its new systems, especially since they look so compelling.",
+              "\"I think that will be potentially a trend that we see in 2026 with more component upgrades, as opposed to full system swap outs and, and altogether rebuilds,\" he said in a group interview with Engadget and other outlets."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath",
+            "link": "https://www.wired.com/story/fbi-agents-sworn-testimony-contradicts-claims-ices-jonathan-ross-made-under-oath/",
+            "site_name": "WIRED",
+            "novelty_hash": "acbe5622c0ac00d38fe285a087ea3f765a91628b"
+          },
+          "review": {
+            "headline_rewrite": "FBI Agent’s Sworn Testimony Contradicts Claims ICE’s Jonathan Ross Made Under Oath",
+            "bullets": [
+              "In testimony last month in federal court in Minnesota, FBI special agent Bernardo Medellin appeared to directly contradict a claim that ICE agent Jonathan Ross made under oath about whether a man they were trying to detain had asked to speak to his attorney.",
+              "Medellin’s testimony, which details federal training for interactions with drivers, also calls into question whether Ross followed his training during the interaction that led to the shooting and killing Renee Nicole Good, a 37-year-old mother, last week.",
+              "Ross has been identified by multiple media outlets as the shooter; while the Trump administration has declined to confirm those reports, details about the shooter shared by Vice President JD Vance match details of Ross’s biography.",
+              "“When you say, ‘replied back in English,’” asked assistant US attorney Raphael Coburn, “what do you mean?”\n“He would—he would reply back he wants his attorney, I believe he said,” responded Ross.",
+              "“I was, frankly, quite shocked that he said it,” Newmark told district court judge Jeffrey Bryan.",
+              "“It was not in any of his previous statements, and it's my understanding he never—the government was as surprised as I was that he said it.” Newmark went on to explain that Ross’ claim pertained to whether his client “believed he was talking to law enforcement or someone who was trying to do him harm,” and that he intended to cross-examine Ross on the fact that Muñoz-Guatemala’s purported request for a lawyer had come up neither during an interview Ross gave the FBI nor during pre-trial preparation—something neither Bryan nor Coburn, the government lawyer, objected to."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Dell revives its XPS laptops after a boneheaded rebranding",
+            "link": "https://www.engadget.com/computing/laptops/dell-revives-its-xps-laptops-after-a-boneheaded-rebranding-001028029.html",
+            "site_name": "Engadget",
+            "novelty_hash": "3466876b9685a7cf4dbda21fd9463387a977890e"
+          },
+          "review": {
+            "headline_rewrite": "Dell revives its XPS laptops after a boneheaded rebranding",
+            "bullets": [
+              "We called it an unforced error at the time, but after seeing how much Dell's PC market share fell over 2025, it's fair to say that rebranding was an absolute marketing disaster.",
+              "So, with its tail between its legs, Dell has returned to CES some welcome news for its fans: XPS lives!",
+              "So, in short, Dell seems to have solved most of our recent complaints about the XPS lineup.",
+              "Both systems are powered by Intel’s new Panther Lake Core Ultra Series 3 chips, and they also offer tandem OLED display options.",
+              "The new XPS 14 and 16 will be available on January 6, starting at $2,050 and $2,200, respectively."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "7b3a798f96229ce72dafebb3c5401535b7347654"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nFed chair Powell's DOJ investigation chevron_right\nWall Street updates chevron_rightS&P 500, Dow climb to closing records as traders look past Fed independence risk: Live updates\nStock market today: Dow, S&P 500 eke out records, gold soars after Trump amps up fight with Fed, Powell\nCNBC\nBy Yun Li, Sean Conlon & John Melloy\nYahoo Finance UK\nBy Karen Friar & Laura Bratton\nGold and silver reach record highs amid Fed investigation chevron_rightStock Market Today: Nasdaq Moves Higher; Gold Hits Record; DOJ Launches Powell Probe — Live Updates\nThe Wall Street Journal\nBy Nicholas G Miller, Joe Wallace & Alyssa Lukpat\nEU, China agree on new framework for EV tariffs chevron_right\nUS holiday retail sales growth chevron_right\nAllegiant to acquire Sun Country Airlines in $1.5 billion deal chevron_rightAllegiant Travel to Buy Sun Country Airlines for About $1.1 Billion\nBy Alison Sider & Dean Seal\nGoogle announces new AI shopping tools for retailers chevron_rightNew tech and tools for retailers to succeed in an agentic shopping era\nblog.google\nBy Vidhya Srinivasan\nOffshore Wind Developers' lawsuit chevron_rightWind chiefs warn of global ‘spillover’ from Donald Trump’s green crackdown\nFinancial Times\nBy Rachel Millard & Alice Hancock\nSEPTA rail service resumes after months of repairs chevron_rightSEPTA resumes Regional Rail morning express service; Center City T-trolley tunnel reopens\n6abc Philadelphia\nBy Corey Davis\nBy Fred Omar Imbert\nGeneral Motors moves into new Detroit headquarters chevron_rightGM unveils its new corporate Detroit headquarters.",
+              "Take a look inside\nThe Detroit News\nBy Candice Williams & Summer Ballentine\nDecember inflation index report chevron_rightWill US inflation figures derail the Fed’s rate cut plans?",
+              "By William Sandlund, Valentina Romei & Alexandra White\nReuters\nBy Ariane Luthi & Dave Graham\nFDA flexibility on cell and gene therapies chevron_right\nCalifornia tax on billionaires chevron_rightThiel Gives $3 Million to Group Seeking to Block California Wealth Tax\nThe New York Times\nBy Theodore Schleifer & Ryan Mac\nIran oil prices chevron_right\nAnthropic launches new AI tools for healthcare providers and patients chevron_right\nKnoxville News Sentinel\nBy Ryan Wilusz\nFederal News Network\nBy Anastasia Obis\nAbivax shares rise amid takeover speculation by Eli Lilly chevron_rightAbivax Surges on Report Eli Lilly is Preparing $17.5 Billion Bid\nBy Joe Stonor\nLawmakers prepare to vote on cryptocurrency legislation chevron_right\nApp “Are you dead?” tops paid app charts in China chevron_right\nAI race in China and the US chevron_rightThe Myth of the AI Race: Neither America Nor China Can Achieve True Tech Dominance\nForeign Affairs\nBy Colin Kahl\nstatnews.com\nBy Matthew Herper\nPrivacy concerns raised over Wegmans' use of facial recognition chevron_rightNot just Wegmans: More NYC retailers using facial recognition as tech outpaces law\nGothamist\nBy Andrew Giambrone & Paige Oamek\n17.5 million Instagram accounts data reportedly published to dark web chevron_right\nQuantum computing in the mainstream chevron_right\nIgniteTech CEO's layoffs chevron_right\nPharmaceutical companies face a $170 billion patent cliff chevron_rightHealthcare companies set for deals spree as drug patents expire\nBy Patrick Temple-West & Oliver Barnes\nEU legislators on Digital Euro chevron_right\nBy Anil Oza\nData centers and AI chevron_right\nGameStop shutters hundreds of stores as it adapts to market changes chevron_rightGameStop is kicking off 2026 by shutting down over 400 stores in 42 states\nGameStop's future is in turmoil as an estimated 400 stores close in 2026\nThe Verge\nBy Terrence O'Brien\nPolygon\nBy Patricia Hernandez\nIndia's smartphone source code proposal chevron_right\nAI stock picks chevron_rightA Once-in-a-Decade Investment Opportunity: The Best Artificial Intelligence (AI) Stock to Buy in 2026\nThis Is One of the Best Artificial Intelligence (AI) Stocks to Hold for the Next 10 Years\nThe Motley Fool\nBy Adam Spatacco\nYahoo Finance\nBy John Ballard\nColorado drivers face costly repairs after contaminated fuel mix-up chevron_right\nSaks Fifth Avenue bankruptcy chevron_rightLeveraged luxury: fall of Saks Global to scorch US business stars\nBy Eric Platt & Sujeet Indap\nLondon home sellers' losses chevron_rightLondoners are the most likely to lose money when selling their home\nThe Times\nBy Aaliyah Ahmed & David Byers\nGold, silver, and copper prices increase in 2026 chevron_right\nCBS News\nBy Alan Greenblatt\nFood Industry Executive\nOlder Americans face tax changes for 401(k) catch-up contributions chevron_rightFinancial Advisors Explain the Latest Changes in Retirement Advice.",
+              "Here's What to Know\nOlder Americans Making Catch-Up 401(k) Contributions Set for Tax Hit\nInvestopedia\nBy Jordyn Bradley\nBy Anne Tergesen\nSocial Security payments in 2026 include 2.8% COLA increase chevron_right2026 Social Security COLA Finalized -- Retirees Face Major Financial Hit\nBy Christy Bieber\nBank of America upgrades Coinbase to 'buy' rating chevron_rightStocks making the biggest moves premarket: Capital One, Affirm, Walmart, Akamai, Sun Country & more\nBig 5 Sporting Goods to shutter several Colorado stores chevron_right\nHousing inventory across US chevron_right\nBy Justin Harlan\nBy Annie Lane\nGoogle's Gemini AI growth chevron_rightGoogle’s AI Advantage, CES 2026 Highlights and More | Technology for Jan.",
+              "11\nBy Katherine Blunt\nUK startup Space Forge makes plasma in space chevron_right\nNvidia CEO Jensen Huang to visit Taiwan this month chevron_right\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
