@@ -50786,6 +50786,120 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:15": [
+        {
+          "item": {
+            "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+            "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "88ae08fed1f76114e6799ed2da064c1bf8d5bc46"
+          },
+          "review": {
+            "headline_rewrite": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+            "bullets": [
+              "When Meta announced capital expenditure projections last year, the company made it known that it planned to spend big to build out capacity for its AI business.",
+              "“We expect that developing leading AI infrastructure will be a core advantage in developing the best AI models and product experiences,” said Susan Li, Meta CFO, during an earnings call last summer.",
+              "On Monday, CEO Mark Zuckerberg announced the launch of Meta Compute, a new initiative designed to bolster the tech giant’s AI infrastructure.",
+              "Zuckerberg said the company intended to drastically expand its energy footprint in the coming years.",
+              "How we engineer, invest, and partner to build this infrastructure will become a strategic advantage,” Zuckerberg said, in a post on Threads.",
+              "The energy-hungry AI business means that America’s electrical consumption could spike exponentially over the next decade (from 5 GW to 50, according to one estimate)."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+            "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fb7e7d9da7f0ec9a1accb92bd18af6905cf41686"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+            "bullets": [
+              "On the heels of OpenAI’s ChatGPT Health reveal, Anthropic announced on Sunday that it’s introducing Claude for Healthcare, a set of tools for providers, payers, and patients.",
+              "Like ChatGPT Health, Claude for Healthcare will allow users to sync health data from their phones, smartwatches, and other platforms (both OpenAI and Anthropic have said that their models won’t use this data for training).",
+              "But Anthropic’s product promises more sophistication than ChatGPT Health, which seems as though it will be more focused on a patient-side chat experience as it rolls out gradually.",
+              "Though some industry professionals are concerned about the role of hallucination-prone LLMs in offering clients medical advice, Anthropic’s “agent skills” seem promising.",
+              "Claude has added what it calls “connectors” to give the AI access to platforms and databases that can speed up research processes and report generation for payers and providers, including the Centers for Medicare and Medicaid Services (CMS) Coverage Database; the International Classification of Diseases, 10th Revision (ICD-10); the National Provider Identifier Standard; and PubMed.",
+              "Anthropic explained in a blog post that Claude for Health could use its connectors to speed up prior authorization review, the process in which a doctor must submit additional information to an insurance provider to see if it will cover a medication or treatment."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "CES 2026 proved the PC industry is hosed this year",
+            "link": "https://www.engadget.com/computing/ces-2026-proved-the-pc-industry-is-hosed-this-year-174500314.html",
+            "site_name": "Engadget",
+            "novelty_hash": "ff61c4a5b7dda4bd5d7bc1a8a756c5d08908e464"
+          },
+          "review": {
+            "headline_rewrite": "CES 2026 proved the PC industry is hosed this year",
+            "bullets": [
+              "And new AI supercomputers from NVIDIA and AMD are gobbling up the RAM market.",
+              "At CES 2026, it was hard not to notice the dire year ahead for the computing industry, one that will likely lead to higher prices and more limited availability for consumer goods across the board.",
+              "Really, though, the show just confirmed what was apparent since RAM prices skyrocketed over the last few months, driven by demand from AI datacenters.",
+              "As Samsung's marketing leader, Wonjin Lee, told Bloomberg at CES: \"There's going to be issues around semiconductor supplies, and it's going to affect everyone.",
+              "It’s just unfortunate that Dell doesn’t have cheaper configurations available for the launch if its new systems, especially since they look so compelling.",
+              "\"I think that will be potentially a trend that we see in 2026 with more component upgrades, as opposed to full system swap outs and, and altogether rebuilds,\" he said in a group interview with Engadget and other outlets."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "UK pushes up a law criminalizing deepfake nudes in response to Grok",
+            "link": "https://www.theverge.com/news/860881/uk-ai-x-grok-law-criminalizing-deepfake-nudes-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "6d766ca2087db54afc58250b2916001c6eb0361a"
+          },
+          "review": {
+            "headline_rewrite": "UK pushes up a law criminalizing deepfake nudes in response to Grok",
+            "bullets": [
+              "The UK is bringing a law into force that makes creating nonconsensual intimate deepfake images, like the ones that have proliferated on X because of the Grok AI chatbot, a criminal offense, as reported by the BBC.",
+              "Should Ofcom find X in violation of the Online Safety Act, it could require the platform to take certain steps to comply and impose fines of “up to £18 million or 10% of qualifying worldwide revenue, whichever is greater.”\n“The government expects Ofcom to set out a timeline for the investigation as soon as possible,” Kendall says.",
+              "So this must not take months and months.”\nxAI didn’t immediately reply to a request for comment.",
+              "On January 3rd, X said, “We take action against illegal content on X, including Child Sexual Abuse Material (CSAM), by removing it, permanently suspending accounts, and working with local governments and law enforcement as necessary."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Switching water sources improved hygiene of Pompeii’s public baths",
+            "link": "https://arstechnica.com/science/2026/01/switching-water-sources-improved-hygiene-of-pompeiis-public-baths/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e13d695e3e940252145f0909f44241cd5bb2a558"
+          },
+          "review": {
+            "headline_rewrite": "Switching water sources improved hygiene of Pompeii’s public baths",
+            "bullets": [
+              "Prior research revealed that, early on, the city relied on rainwater stored in cisterns and wells for its water supply.",
+              "Analyzing those properties would enable them to “reconstruct the history of such systems—particularly public baths—revealing aspects of their maintenance and the adaptations made during their period of use,” the authors wrote."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Supreme Court takes case that could strip FCC of authority to issue fines",
+            "link": "https://arstechnica.com/tech-policy/2026/01/supreme-court-takes-case-that-could-strip-fcc-of-authority-to-issue-fines/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3bf6704e8ec4503517255daa903fc5ad236af351"
+          },
+          "review": {
+            "headline_rewrite": "Supreme Court takes case that could strip FCC of authority to issue fines",
+            "bullets": [
+              "The Supreme Court will hear a case that could invalidate the Federal Communications Commission’s authority to issue fines against companies regulated by the FCC.",
+              "In 2024, the FCC fined the big three carriers a total of $196 million for location data sales revealed in 2018, saying the companies were punished “for illegally sharing access to customers’ location information without consent and without taking reasonable measures to protect that information against unauthorized disclosure.” Carriers challenged in three appeals courts, arguing that the fines violated their Seventh Amendment right to a jury trial.",
+              "Carriers claim FCC violates right to jury trial\nThe carriers’ cases against the FCC rely on the Supreme Court’s June 2024 ruling in Securities and Exchange Commission v.",
+              "The conservative-leaning 5th Circuit appeals court decided that the FCC violated AT&T’s rights while “act[ing] as prosecutor, jury, and judge.” But the 2nd Circuit and District of Columbia Circuit courts found that each carrier could have obtained a jury trial if it simply decided not to pay the fine."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
