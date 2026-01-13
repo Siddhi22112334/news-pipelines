@@ -52561,6 +52561,101 @@
             "impact": "Negative"
           }
         }
+      ],
+      "16:22": [
+        {
+          "item": {
+            "title": "Microsoft is retiring its Office Lens app on iOS and Android",
+            "link": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
+            "site_name": "The Verge",
+            "novelty_hash": "c7d0fb239118aff36d5b6eb7a542651ae8bc5a86"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft is retiring its Office Lens app on iOS and Android",
+            "bullets": [
+              "Microsoft is retiring its Office Lens app on iOS and Android\nThe scanning features of Lens are now available in Microsoft’s OneDrive app instead.",
+              "The portable scanner features of Lens are available in OneDrive instead, making a dedicated app redundant for Microsoft.",
+              "Microsoft first launched its Office Lens app for iOS and Android in 2015, following its initial availability on Windows Phone."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best streaming devices for 2026",
+            "link": "https://www.engadget.com/entertainment/streaming/best-streaming-devices-media-players-123021395.html",
+            "site_name": "Engadget",
+            "novelty_hash": "fdee13cf6fa3af62c2c16b7e324a57b3ddf0d359"
+          },
+          "review": {
+            "headline_rewrite": "The best streaming devices for 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Table of contents\nBest streaming devices for 2026\nRead our full Google TV streamer review\nThe Google Chromecast product line was replaced with the Google TV Streamer in September of 2024.",
+              "It’ll track what you’ve been watching across different platforms so you can easily dive back in, and the recommendations are pulled fairly equitably from across your subscribed services.",
+              "Of course, no big tech company can release a product today without some AI contrivance and it comes here in the form of computer-generated plot and audience review summaries for titles.",
+              "- Excellent interface combines all streaming content equally\n- Useful smart home control with a slide-out paneluseful\n- Attractive device with a great remote\n- Required HDMI cable issold separately\n- Double the price of its predecessor\nRead our full Roku Streaming Stick Plus review\nBelieve it or not, the streaming world has enough free content to keep even the most voracious watchers entertained — and the Roku Streaming Stick Plus is probably the best way to access it.",
+              "It supports 4K and HDR as well as Apple Air Play 2 and works with Alexa, HomeKit, Google Home and Roku Home."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What to Do If ICE Invades Your Neighborhood",
+            "link": "https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/",
+            "site_name": "WIRED",
+            "novelty_hash": "01b26255f17cbbf4b2632bc5b1b42b88ccfd702f"
+          },
+          "review": {
+            "headline_rewrite": "What to Do If ICE Invades Your Neighborhood",
+            "bullets": [
+              "Paul police force,” Minnesota Senator Amy Klobuchar said on Friday.",
+              "“So they are outnumbering our own local police officers out on the streets.\" (Minnesota and Illinois have since filed lawsuits in federal court to end the ICE “invasion” in those states.)\n“The number of ICE agents has dramatically increased, the sheer presence in people’s communities is larger,” says Jennifer Whitlock, senior policy counsel at the National Immigration Law Center.",
+              "Over the last year, though, the Department of Homeland Security’s budget for immigration enforcement has expanded substantially at the same time that public unrest about the activity has grown.",
+              "“We’re surging operations because of the dangerous situation we see in this country,” homeland security secretary Kristi Noem said in a press conference on Wednesday.",
+              "“For its entire existence, ICE has been a very violent agency and a very unaccountable agency without a lot of oversight or transparency,” says Nithya Nathan-Pineau, policy attorney and strategist at the Immigrant Legal Resource Center.",
+              "Numerous sources told WIRED that their trainings and materials about interacting with federal immigration agents are actively evolving to reflect the current moment."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Grok AI misuse sparks global concern targeting women: Steps to protect privacy and stay safe online in 2026",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/grok-ai-misuse-sparks-global-concern-targeting-women-steps-to-protect-privacy-and-stay-safe-online-in-2026/articleshow/126488997.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "4d28e54618f01092d7c06e56251a40204ab524c9"
+          },
+          "review": {
+            "headline_rewrite": "Grok AI misuse sparks global concern targeting women: Steps to protect privacy and stay safe online in 2026",
+            "bullets": [
+              "Although these technological changes are very helpful, innovative, and convenient, they are certainly full of potential dangers, especially for women.",
+              "Cases related to the misuse of Grok AI technology, which serves as an image creation facility for the popular social networking site 'X', have brought into focus the misuse of artificial intelligence, particularly the creation of images related to women without consent, along with other aspects.",
+              "Misuse of AI technology results in the violation of privacy, along with grave implications related to laws, psychology, and other social aspects.",
+              "Understanding the risks of AI-manipulated photos\nThe ability to superimpose a personâs identity in situations theyâve never been in can be achieved with AI-generated images, or deepfakes.",
+              "The point of difference with scams, for instance, that rely on these kinds ofapplications and programs, is that they can scour pictures and videos that are publicly available, putting any woman, irrespective of how involved they are with these applications and programs, at risk.",
+              "The Grok AI case highlights the important lesson that while the application of technical expertise can quickly produce new AI tools, these developments can precede necessary safety and legal measures."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
