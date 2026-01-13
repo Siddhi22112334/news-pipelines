@@ -52892,6 +52892,126 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "18:14": [
+        {
+          "item": {
+            "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+            "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "90ff34e4c9f1c6aa504273d3bfc30765eb470e54"
+          },
+          "review": {
+            "headline_rewrite": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+            "bullets": [
+              "More than 200 startups are now competing to weave AI directly into research workflows, attracting growing interest from investors.",
+              "Converge Bio is the latest company to ride that shift, securing new capital as competition in the AI-driven drug discovery space heats up.",
+              "The Boston- and Tel Aviv–based startup, which helps pharma and biotech companies develop drugs faster using generative AI trained on molecular data, has raised a $25 million oversubscribed Series A round, led by Bessemer Venture Partners.",
+              "TLV Partners and Vintage Investment Partners also joined the round, along with additional backing from unidentified executives at Meta, OpenAI, and Wiz.",
+              "In practice, Converge trains generative models on DNA, RNA, and protein sequences then plugs them into pharma and biotech’s workflows to speed up drug development.",
+              "“The drug-development lifecycle has defined stages — from target identification and discovery to manufacturing, clinical trials, and beyond — and within each, there are experiments we can support,” Converge Bio CEO and co-founder Dov Gertz said in an exclusive interview with TechCrunch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+            "link": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0451d49fea840101650b18a83f98d44b713d9e90"
+          },
+          "review": {
+            "headline_rewrite": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+            "bullets": [
+              "Brazil’s competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app.",
+              "The agency has also started an investigation against the company to determine if the policy is anti-competitive.",
+              "“According to the investigations, there is possible anti-competitive conduct of an exclusive nature that arises from the application of the New WhatsApp Terms (“WhatsApp Business Solution Terms”) imposed by Meta to regulate the access and offer, by providers of artificial intelligence tools, of its technologies to WhatsApp users,” the Conselho Administrativo de Defesa Econômica (CADE) said.",
+              "CADE said it would investigate if Meta’s terms are exclusionary to competitors and unduly favor Meta AI, the company’s chatbot that’s offered on WhatsApp.",
+              "Meta last October changed its terms of use for the WhatsApp Business API to ban third-party AI companies from offering their chatbots on the app.",
+              "Companies like OpenAI, Perplexity, and Microsoft soon after noted that after the policy goes into force from January 15, their chatbots would no longer be offered on WhatsApp."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+            "link": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c3386ec39431b4189a74911569af8bc5639b590f"
+          },
+          "review": {
+            "headline_rewrite": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+            "bullets": [
+              "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way.",
+              "His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders.",
+              "Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them.",
+              "Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices.",
+              "Prior to that, using PGP email or other options to establish encrypted channels between two users was a cumbersome process that was easy to botch.",
+              "Even when users opt out of having their data stored long term, parties to a lawsuit can compel the platform to store it, as the world learned last May when a court ordered OpenAI to preserve all ChatGPT users’ logs—including deleted chats and sensitive chats logged through its API business offering."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration",
+            "link": "https://www.wired.com/story/the-big-interview-podcast-reid-hoffman/",
+            "site_name": "WIRED",
+            "novelty_hash": "19ef19720a1e87df240899e023fc123f74a452e5"
+          },
+          "review": {
+            "headline_rewrite": "Reid Hoffman Wants Silicon Valley to ‘Stand Up’ Against the Trump Administration",
+            "bullets": [
+              "He cofounded LinkedIn, of course, and helped bankroll companies including Meta and Airbnb in their startup days.",
+              "He has also fashioned himself, via books, podcasts, and other public appearances, as something of a public intellectual—a pro-capitalist philosopher who still insists that tech can be a force for good.",
+              "His newest book, 2025’s Superagency, makes the case that AI won’t diminish human capacity but will instead amplify it.",
+              "In our conversation for this week’s episode of The Big Interview, Hoffman readily riffed on AI’s utility for pretty much everything, whether you’re looking for a research assistant or a second opinion on your blood work.",
+              "Hoffman even relied on AI to make one of the most unconventional—and perhaps uncomfortable, depending on your view of AI-generated creativity—Christmas gifts I’ve heard of lately.",
+              "(And no, he didn’t get me one.)\nWhatever you think of Hoffman’s utopian views on AI, credit where due: He’s also a very outspoken critic of President Trump—a rare trait in a tech world that’s grown increasingly quiet, or cozy, when it comes to the cruelties of the US administration."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "PC shipments just grew unexpectedly amid RAM shortages",
+            "link": "https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc",
+            "site_name": "The Verge",
+            "novelty_hash": "7b75ed6b839aeee794feb2cc47b1d2022131a48c"
+          },
+          "review": {
+            "headline_rewrite": "PC shipments just grew unexpectedly amid RAM shortages",
+            "bullets": [
+              "RAM and NAND / SSD prices have surged in recent months due to shortages created by AI data center demand.",
+              "“Beyond the obvious pressure on prices of systems, already announced by certain manufacturers, we might also see PC memory specifications be lowered on average to preserve memory inventory on hand,” says Jean Philippe Bouchard, research vice president at IDC.",
+              "“The year ahead is shaping up to be extremely volatile.”\nIDC is now expecting average selling prices of PCs to rise in 2026 as PC makers shift priority to midrange and premium systems to offset the higher costs of memory.",
+              "All of this points to an AI-driven storm for the PC market throughout 2026."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Morning After: Apple will use Gemini to power Siri AI",
+            "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-151521620.html",
+            "site_name": "Engadget",
+            "novelty_hash": "8ccba521c13489393c1c7397067207bd4bc5a9bc"
+          },
+          "review": {
+            "headline_rewrite": "The Morning After: Apple will use Gemini to power Siri AI",
+            "bullets": [
+              "Apple and Google have confirmed that Gemini’s models power the new version of Siri and other generative AI features.",
+              "Here’s part of it: “Apple determined that Google’s Al technology provides the most capable foundation for Apple Foundation Models… Apple Intelligence will continue to run on Apple devices and Private Cloud Compute, while maintaining Apple’s industry-leading privacy standards.”\nIn June, it was reported that Apple was considering partnerships with OpenAI and Anthropic for Siri (the voice assistant can currently tap ChatGPT for certain queries as part of Apple Intelligence).",
+              "It’s also notable that current iPhones have direct access to OpenAI’s ChatGPT.",
+              "Netflix also won best performance in stand-up comedy on television for Ricky Gervais: Mortality.",
+              "The agency is targeting a February launch date for Artemis 2.",
+              "The agency now says it could launch as early as February."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
