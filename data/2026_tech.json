@@ -55291,6 +55291,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "05:13": [
+        {
+          "item": {
+            "title": "Why the White House keeps shitposting",
+            "link": "https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting",
+            "site_name": "The Verge",
+            "novelty_hash": "3e0a8383dcdfe1f6d598ac9d730009b77cff57f1"
+          },
+          "review": {
+            "headline_rewrite": "Why the White House keeps shitposting",
+            "bullets": [
+              "But the jaded political insider will also view Trump’s meme fusillade as an element of a media strategy known as “rapid response”: the full-time work of quickly shaping the political narrative of a breaking news event, sometimes within minutes, before the news media and your opponents can shape it for you.",
+              "“Every political office, every political campaign, has a dedicated operation that helps them respond strategically to events in the news that are out of their control.” Lis Smith, a high-profile Democratic communications strategist based in New York City, told me.",
+              "“You cannot control all the narratives that are going to be out there, so you need to be able to manage the chaos that’s coming into your world.”\nSmith served as the director of rapid response for Barack Obama’s 2012 presidential campaign, which was one of the first to fully take advantage of social media, and worked in the comms shop for several New York City mayors and Democratic candidates.",
+              "She views social networks through the lens of their messaging utility: X, formerly known as Twitter, is still the best for getting “text-based rapid response communications like written statements” in front of a wide range of “elites and opinion-shapers.” A Bluesky-based messaging strategy might engage a friendly left-leaning audience, but will never “penetrate” the world outside, nor will a Rumble-based campaign ever make it out of the right-wing bubble.",
+              "“The administration’s use of memes really flattens the political debate,” said Smith.",
+              "- “Tim Cook and Sundar Pichai are cowards”, Elizabeth Lopatto: X’s deepfake porn feature clearly violates app store guidelines."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New York governor clears path for robotaxis everywhere, with one notable exception",
+            "link": "https://techcrunch.com/2026/01/13/new-york-governor-clears-path-for-robotaxis-everywhere-with-one-notable-exception/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b486a54e5897756033d6d7ae4480e4cede2a35a3"
+          },
+          "review": {
+            "headline_rewrite": "New York governor clears path for robotaxis everywhere, with one notable exception",
+            "bullets": [
+              "Hochul, who made the comments Tuesday during her State of the State address, said the legislation would advance the next phase of the state’s autonomous vehicle pilot program.",
+              "Details on the proposed legislation and when it might be released are thin.",
+              "However, there are some hints contained within a document that outlines an array of proposals and promises Hochul made in her State of the State address.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+              "Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge.",
+              "“Governor Hochul’s proposal to legalize fully autonomous vehicles is a transformative moment for New York’s transportation system,” Justin Kintz, Waymo’s head of global public policy, said in an emailed statement."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "WeatherTech founder might be the newest US consumer protection official",
+            "link": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
+            "site_name": "The Verge",
+            "novelty_hash": "756d82e3f00e9056628b43199044f656800fb6ab"
+          },
+          "review": {
+            "headline_rewrite": "WeatherTech founder might be the newest US consumer protection official",
+            "bullets": [
+              "FTC Chair Andrew Ferguson congratulated MacNeil on X and called him an “outstanding businessman and great patriot,” sharing a clip from a news segment where MacNeil shared his commitment to manufacturing in the US.",
+              "Many come from legal and academic, or have experience working on Capitol Hill.",
+              "MacNeil is a reported billionaire who recently bought a $75 million mansion in a town near Trump’s Mar-a-Lago.",
+              "MacNeil will need to be confirmed by the Senate, where Democrats will likely take issue with Trump’s failure to nominate Democrats to the typically-five member panel after firing two of them against Supreme Court precedent.",
+              "Most Popular\n- Apple picks Google’s Gemini AI for its big Siri upgrade\n- What Apple and Google’s Gemini deal means for both companies\n- Apple Creator Studio suite is launching to take on Adobe\n- Amazon has started automatically upgrading Prime members to Alexa Plus\n- Anthropic wants you to use Claude to ‘Cowork’ in latest AI agent push"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Never-before-seen Linux malware is “far more advanced than typical”",
+            "link": "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "fbfa48ec95df788a79d4cfef7d18f5fd52fde389"
+          },
+          "review": {
+            "headline_rewrite": "Never-before-seen Linux malware is “far more advanced than typical”",
+            "bullets": [
+              "These modules can provide additional stealth and specific tools for reconnaissance, privilege escalation, and lateral movement inside a compromised network.",
+              "The components can be easily added or removed as objectives change over the course of a campaign.",
+              "A focus on Linux inside the cloud\nVoidLink can target machines within popular cloud services by detecting if an infected machine is hosted inside AWS, GCP, Azure, Alibaba, and Tencent, and there are indications that developers plan to add detections for Huawei, DigitalOcean, and Vultr in future releases.",
+              "To detect which cloud service hosts the machine, VoidLink examines metadata using the respective vendor’s API.",
+              "The feature set is unusually broad and is “far more advanced than typical Linux malware,” said researchers from Checkpoint, the security firm that discovered VoidLink.",
+              "Its creation may indicate that the attacker’s focus is increasingly expanding to include Linux systems, cloud infrastructure, and application deployment environments, as organizations increasingly move workloads to these environments."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
+            "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1c77c553a57c6902bac7609f1f9e44f5537af795"
+          },
+          "review": {
+            "headline_rewrite": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
+            "bullets": [
+              "RAM prices have soared, which is bad news for people interested in buying, building, or upgrading a computer this year, but it’s likely good news for people exasperated by talk of so-called AI PCs.",
+              "As Ars Technica has reported, the growing demands of data centers, fueled by the AI boom, have led to a shortage of RAM and flash memory chips, driving prices to skyrocket.",
+              "In an announcement today, Ben Yeh, principal analyst at technology research firm Omdia, said that in 2025, “mainstream PC memory and storage costs rose by 40 percent to 70 percent, resulting in cost increases being passed through to customers.”\nOverall, global PC shipments increased in 2025, according to Omdia, (which pegged growth at 9.2 percent compared to 2024), and IDC, (which today reported 9.6 percent growth), but analysts expect PC sales to be more tumultuous in 2026.",
+              "“The year ahead is shaping up to be extremely volatile,” Jean Philippe Bouchard, research VP with IDC’s worldwide mobile device trackers, said in a statement.",
+              "Both analyst firms expect PC makers to manage the RAM shortage by raising prices and by releasing computers with lower memory specs.",
+              "IDC expects price hikes of 15 to 20 percent and for PC RAM specs to “be lowered on average to preserve memory inventory on hand,” Bouchard said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Instagram wants you to personalize your Reels algorithm for 2026",
+            "link": "https://www.engadget.com/social-media/instagram-wants-you-to-personalize-your-reels-algorithm-for-2026-215252736.html",
+            "site_name": "Engadget",
+            "novelty_hash": "49a63dd0b1315e00919b4c9ed33be84640a9ec55"
+          },
+          "review": {
+            "headline_rewrite": "Instagram wants you to personalize your Reels algorithm for 2026",
+            "bullets": [
+              "Now, Meta is making that feature available to all English users of the app globally, along with the ability to highlight their top topics for the coming year.",
+              "The feature begins with a selection of topics Meta's AI thinks you're interested in based on your recent activity, and has controls to remove them or add new categories.",
+              "Try another topic or interest.\" I was able to successfully add \"sponsored content\" and \"AI\" to my \"see less\" list, though I'm pretty sure the latter will affect videos about AI rather than those made with the help of it."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
