@@ -53973,5 +53973,128 @@
         }
       ]
     }
+  },
+  "2026-01-14": {
+    "runs": {
+      "00:01": [
+        {
+          "item": {
+            "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+            "site_name": "Google",
+            "novelty_hash": "f3d7d670fe248f1936ab5ee7a0126e20367eaab8"
+          },
+          "review": {
+            "headline_rewrite": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+            "bullets": [
+              "This update makes videos more expressive and creative, even with simple prompts\n- Native vertical outputs for Ingredients to Video (portrait mode) to power mobile-first, short-form video creation\n- State-of-the-art upscaling to 1080p and 4K resolution for high-fidelity production workflows\nWhether you are looking for livelier movement, better control over visual elements or broadcast-ready resolution, these updates give you the tools to bring your vision to life.",
+              "These updates are launching in the Gemini app, YouTube, Flow, Google Vids, the Gemini API and Vertex AI.",
+              "Maintain identity consistency for your characters\nIdentity consistency is better than ever with Veo 3.1 Ingredients to Video.",
+              "Achieve background and object consistency\nControl the scene by maintaining the integrity of your setting and the objects within it.",
+              "For even more detail, choose 4K to capture rich textures and stunning clarity — ideal for high-end productions and large screens.",
+              "Try these updates today\nAcross our products and services, you can now access these new capabilities tailored to your workflow:\n- Consumers and creators: We are bringing Veo 3.1 Ingredients to Video directly to YouTube Shorts and the YouTube Create app for the first time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta confirms Reality Labs layoffs and shifts to invest more in wearables",
+            "link": "https://www.theverge.com/news/861295/meta-reality-labs-layoffs-shift-to-wearables",
+            "site_name": "The Verge",
+            "novelty_hash": "887f6b9f2dd97e02525e500a279c106996798534"
+          },
+          "review": {
+            "headline_rewrite": "Meta confirms Reality Labs layoffs and shifts to invest more in wearables",
+            "bullets": [
+              "Around 10 percent of Meta’s Reality Labs division, which develops its XR products and services, will be laid off beginning on Tuesday, as reported by Bloomberg.",
+              "Meta spokesperson Tracy Clayton confirmed the layoffs in a statement to The Verge: “We said last month that we were shifting some of our investment from Metaverse toward Wearables.",
+              "This is part of that effort, and we plan to reinvest the savings to support the growth of wearables this year.”\nMeta’s Ray-Ban smart glasses have stolen the spotlight from its VR headsets in recent years, especially with last year’s launch of the Meta Ray-Ban Display.",
+              "As Bloomberg also reported on Tuesday, Meta may be planning to double its production capacity for its AI smart glasses by the end of 2026 in response to surging demand.",
+              "Most Popular\n- Apple picks Google’s Gemini AI for its big Siri upgrade\n- What Apple and Google’s Gemini deal means for both companies\n- Anker goes big with new whole home backup system\n- Anthropic wants you to use Claude to ‘Cowork’ in latest AI agent push\n- Amazon has started automatically upgrading Prime members to Alexa Plus"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s update for Veo 3.1 lets users create vertical videos through reference images",
+            "link": "https://techcrunch.com/2026/01/13/googles-update-for-veo-3-1-lets-users-create-vertical-videos-through-reference-images/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5586b2f99a292e252570328efdf366ba0b50c4d2"
+          },
+          "review": {
+            "headline_rewrite": "Google’s update for Veo 3.1 lets users create vertical videos through reference images",
+            "bullets": [
+              "Google on Tuesday updated its Veo 3.1 AI video-generation model with the ability to create native vertical videos for social platforms using reference images.",
+              "When producing AI-generated videos for YouTube Shorts or other platforms like Instagram or TikTok, Veo users can now natively choose the 9:16 vertical format to avoid any cropping.",
+              "Google said the update also improves character, object, and background consistency.",
+              "Professional users can access them through Google’s video editor Flow, the Gemini API, Vertex AI, and Google Vids.",
+              "The new update also brings an improved upscaling feature to 1080p and 4K resolutions, which is available on Flow, Gemini API, and Vertex AI in Google Cloud."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Veo now turns portrait images into vertical AI videos",
+            "link": "https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update",
+            "site_name": "The Verge",
+            "novelty_hash": "55c8ccffe184f93da0a8801aa30b0409f7b7b9da"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Veo now turns portrait images into vertical AI videos",
+            "bullets": [
+              "Google is making its Veo 3.1 AI video model pay closer attention to the reference images you want generated clips to be based on.",
+              "Google’s Veo now turns portrait images into vertical AI videos\nVideos should now be more consistent with the images they’re based on, including those in portrait orientations.",
+              "Google is adding Veo’s improved Ingredients to Video and portrait mode features to the Gemini app starting today, and integrating those tools into YouTube Shorts and the YouTube Create app “for the first time.”\nLastly, this update allows Veo 3.1 users to upscale their generated videos to a 4K resolution, up from the previous 1080p limit.",
+              "Google says that 1080p video generation has also been improved to provide “a sharper, cleaner video.” This isn’t the native 4K resolution that Google claimed Veo was capable of generating back in 2024 — something we have yet to see in any version of Veo that’s launched to the public — but on-platform upscaling is better than nothing.",
+              "Most Popular\n- Apple picks Google’s Gemini AI for its big Siri upgrade\n- What Apple and Google’s Gemini deal means for both companies\n- Anker goes big with new whole home backup system\n- Anthropic wants you to use Claude to ‘Cowork’ in latest AI agent push\n- Amazon has started automatically upgrading Prime members to Alexa Plus"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+            "link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "42ce50f906bb0675de16363d3c482060a1e6176f"
+          },
+          "review": {
+            "headline_rewrite": "Neo humanoid maker 1X releases world model to help bots learn what they see",
+            "bullets": [
+              "The robotics company behind the Neo humanoid robot, 1X, has unveiled a new AI model that it says understands the dynamics of the real world and can help bots learn new information on their own.",
+              "The video allows Neo robots to learn new tasks they weren’t previously trained on, according to 1X.",
+              "“After years of developing our world model and making Neo’s design as close to human as possible, Neo can now learn from internet-scale video and apply that knowledge directly to the physical world,” Bernt Børnich, founder and CEO of 1X said in a statement.",
+              "“With the ability to transform any prompt into new actions — even without prior examples — this marks the starting point of Neo’s ability to teach itself to master nearly anything you could think to ask.”\nSaying that the bot can transform any prompt into a new action is a lofty claim and not entirely accurate; you can’t tell a Neo to drive a car and it will suddenly know how to parallel park, for instance.",
+              "It also gives users insight into how Neo is thinking of behaving or reacting to a certain prompt.",
+              "That kind of behavioral information could help 1X train these models to a point where robots will be able to react to a prompt of something they’ve never done before."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This one could use less power: The Jeep Wagoneer S EV",
+            "link": "https://arstechnica.com/cars/2026/01/this-one-could-use-less-power-the-jeep-wagoneer-s-ev/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "32d57d29c51118034cb9da2bcb3b6bd86087be9a"
+          },
+          "review": {
+            "headline_rewrite": "This one could use less power: The Jeep Wagoneer S EV",
+            "bullets": [
+              "It’s aimed at the highly competitive midsize SUV segment, which gets ever more crowded even as electrification faces a less certain future here.",
+              "I find it a rather handsome car, one that has to marry Jeep’s Wagoneer styling cues with as many wind-smoothing and air-shaping elements as possible.",
+              "The way the rear wing juts out above the tailgate window reminds me of a ’90s rally hatchback, but it’s the product of the designers and the engineers working on drag reduction.",
+              "When Ars first drove the Wagoneer S in early 2025, it was the more powerful (more expensive) Launch Edition.",
+              "In mid-December, we spent a week with the $65,200 Wagoneer S Limited, which still boasts 500 hp (400 kW) and 524 lb-ft (710 Nm) from its pair of electric motors.",
+              "(The Launch Edition uses a pair of equally powerful front and rear drive units, and the Limited uses a less-powerful front unit, giving away 100 hp (75 kW) in the process.)"
+            ],
+            "impact": "Positive"
+          }
+        }
+      ]
+    }
   }
 }
