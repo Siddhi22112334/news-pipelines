@@ -54573,6 +54573,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:20": [
+        {
+          "item": {
+            "title": "CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery",
+            "link": "https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "0fe78092fbd52135179a1dc3f0c353e5b5268390"
+          },
+          "review": {
+            "headline_rewrite": "CEOs of NVIDIA and Lilly Share ‘Blueprint for What Is Possible’ in AI and Drug Discovery",
+            "bullets": [
+              "NVIDIA and Lilly are putting together “a blueprint for what is possible in the future of drug discovery,” NVIDIA founder and CEO Jensen Huang told attendees at a fireside chat Monday with Dave Ricks, chair and CEO of Lilly.",
+              "Morgan Healthcare Conference in San Francisco — focused on the announcement of a first-of-its-kind AI co-innovation lab by NVIDIA and Lilly.",
+              "“We’re systematically bringing together some of the brightest minds in the field of drug discovery and some of the brightest minds in computer science,” Huang said.",
+              "“We’re going to have a lab where the expertise and the scale of that lab is sufficient to attract people who really want to do their life’s work at that intersection.”\nThe initiative will bring together Lilly’s world-leading expertise in the pharmaceutical industry with NVIDIA’s leadership in AI to tackle one of humanity’s greatest challenges: modeling the complexities of biology.",
+              "During the fireside chat, Ricks reflected on the painstaking work of drug discovery and AI’s potential to transform the cycle of pharmaceutical invention.",
+              "“Each small molecule discovery is like a work of art,” he said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Doctors think AI has a place in healthcare – but maybe not as a chatbot",
+            "link": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "be25c986e1a0ee252bd0a7f64eed2a312d5a2b8c"
+          },
+          "review": {
+            "headline_rewrite": "Doctors think AI has a place in healthcare – but maybe not as a chatbot",
+            "bullets": [
+              "Sina Bari, a practicing surgeon and AI healthcare leader at data company iMerit, has seen firsthand how ChatGPT can lead patients astray with faulty medical advice.",
+              "“I recently had a patient come in, and when I recommended a medication, they had a dialogue printed out from ChatGPT that said this medication has a 45% chance of pulmonary embolism,” Dr.",
+              "And yet, when OpenAI announced its dedicated ChatGPT Health chatbot last week, Dr.",
+              "ChatGPT Health, which will roll out in the coming weeks, allows users to talk to the chatbot about their health in a more private setting, where their messages won’t be used as training data for the underlying AI model.",
+              "Bari said.",
+              "For the security-minded, this raises immediate red flags."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+            "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "06e920d4891a7ac83cc7ce47c325118051a55006"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+            "bullets": [
+              "Although public backlash against data centers has been intense over the past twelve months, all of the tech industry’s biggest companies have promised additional buildouts of AI infrastructure in the coming year.",
+              "That includes OpenAI partner Microsoft, which, on Tuesday, announced what it calls a “community-first” approach to AI Infrastructure.",
+              "Microsoft’s announcement, which comes only a day after Mark Zuckerberg said that Meta would launch its own AI infrastructure program, isn’t unexpected.",
+              "Last year, the company announced that it planned to spend billions to expand its AI capacity.",
+              "“We will work closely with utility companies that set electricity prices and state commissions that approve these prices,” Microsoft said.",
+              "“Our goal is straightforward: to ensure that the electricity cost of serving our data centers is not passed on to residential customers.”\nIt’s pretty clear why Microsoft feels it is necessary to make these promises right now."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic shakes up C-suite to expand its internal incubator",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/861475/anthropic-ai-c-suite-internal-incubator-labs-team-mike-krieger",
+            "site_name": "The Verge",
+            "novelty_hash": "84b2b4e6f4392c18784a5d6f0467916c7298b952"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic shakes up C-suite to expand its internal incubator",
+            "bullets": [
+              "Mike Krieger, the Instagram co-founder who joined Anthropic two years ago as its chief product officer, is moving to a new focus at the AI startup: co-leading its internal incubator, dubbed the “Labs” team.",
+              "Anthropic shakes up C-suite to expand its internal incubator\nChief product officer Mike Krieger will change roles and join the “Labs” team.",
+              "The Anthropic Labs team started in mid-2024 with just two members; now, the company has decided to expand it, with a focus on building “experimental products.” Krieger’s new title will be simply a member of technical staff reporting to Anthropic president Daniela Amodei, and he’ll co-lead the Labs team with Ben Mann, who has been the company’s product engineering lead.",
+              "Ami Vora, the company’s current “head of product,” will take over Krieger’s duties and work closely with the company’s chief technology officer, Rahul Patil, to scale products, the company said.",
+              "In a statement to The Verge, Krieger said, “We’ve reached a watershed moment in AI—model capabilities are advancing so fast that the window to shape how they’re used is now.",
+              "That’s why I’m getting back into builder mode, moving from my role as CPO and joining our Labs team: I want to be hands-on at the frontier, building products that channel AI toward solving the world’s hardest problems."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is closing down three VR studios as part of its metaverse cuts",
+            "link": "https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature",
+            "site_name": "The Verge",
+            "novelty_hash": "bf046714cd4f346126c62d5e9db65f73c45520e9"
+          },
+          "review": {
+            "headline_rewrite": "Meta is closing down three VR studios as part of its metaverse cuts",
+            "bullets": [
+              "The team behind the VR fitness app Supernatural will no longer develop new content or features for it, though the “existing product” will still be supported, Bloomberg says.",
+              "Laid off staffers have posted about the closures online.",
+              "- “I’ve just been laid off.",
+              "In a statement about the broader Reality Labs layoffs, Clayton said that “We said last month that we were shifting some of our investment from Metaverse toward Wearables.",
+              "This is part of that effort, and we plan to reinvest the savings to support the growth of wearables this year.”\nUpdate, January 13th: Added details from Bloomberg about the studio closures.",
+              "Most Popular\n- Apple picks Google’s Gemini AI for its big Siri upgrade\n- What Apple and Google’s Gemini deal means for both companies\n- Anthropic wants you to use Claude to ‘Cowork’ in latest AI agent push\n- Amazon has started automatically upgrading Prime members to Alexa Plus\n- Anker goes big with new whole home backup system"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft vows to cover full power costs for energy-hungry AI data centers",
+            "link": "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1eefae5509d8af4762abfae4fc205e8f62f091fb"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft vows to cover full power costs for energy-hungry AI data centers",
+            "bullets": [
+              "On Tuesday Microsoft announced a new initiative called “Community-First AI Infrastructure” that commits the company to paying full electricity costs for its data centers and refusing to seek local property tax reductions.",
+              "As demand for generative AI services has increased over the past year, Big Tech companies have been racing to spin up massive new data centers for serving chatbots and image generators that can have profound economic effects on the surrounding areas in which they are located.",
+              "Among other concerns, communities across the country have grown concerned that data centers are driving up residential electricity rates through heavy power consumption and by straining water supplies due to server cooling needs.",
+              "This growth is happening while much of the country’s electricity transmission infrastructure is more than 40 years old and under strain.",
+              "It’s a big enough issue that in December, US Senators launched a probe demanding tech companies explain how they plan to prevent data center projects from increasing electricity bills.",
+              "Microsoft Vice Chair and President Brad Smith wrote in the company’s blog post about the announcement that the company will “set a high bar” for responsible data center development, making promises that seem targeted to quell the growing criticism surrounding AI data center construction."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
