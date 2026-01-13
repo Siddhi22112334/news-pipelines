@@ -53012,6 +53012,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:12": [
+        {
+          "item": {
+            "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+            "link": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0451d49fea840101650b18a83f98d44b713d9e90"
+          },
+          "review": {
+            "headline_rewrite": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+            "bullets": [
+              "Brazil’s competition watchdog has ordered WhatsApp to put on hold its policy that bars third-party AI companies from using its business API to offer chatbots on the app.",
+              "The agency has also started an investigation against the company to determine if the policy is anti-competitive.",
+              "“According to the investigations, there is possible anti-competitive conduct of an exclusive nature that arises from the application of the New WhatsApp Terms (“WhatsApp Business Solution Terms”) imposed by Meta to regulate the access and offer, by providers of artificial intelligence tools, of its technologies to WhatsApp users,” the Conselho Administrativo de Defesa Econômica (CADE) said.",
+              "CADE said it would investigate if Meta’s terms are exclusionary to competitors and unduly favor Meta AI, the company’s chatbot that’s offered on WhatsApp.",
+              "Meta last October changed its terms of use for the WhatsApp Business API to ban third-party AI companies from offering their chatbots on the app.",
+              "Companies like OpenAI, Perplexity, and Microsoft soon after noted that after the policy goes into force from January 15, their chatbots would no longer be offered on WhatsApp."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+            "link": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e499c0a6df731b187b6879c4316edf149e8797f8"
+          },
+          "review": {
+            "headline_rewrite": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+            "bullets": [
+              "Usage of voice AI in sales, marketing, customer support, and consumer applications has shot up in the last few years.",
+              "On the back of this demand, today, Deepgram said that it has raised $130 million in a Series C round led by AVP at a $1.3 billion dollar valuation.",
+              "Plus, new investors like Alumni Ventures, Columbia University, Princeville Capital, Twilio, and SAP joined the round.",
+              "The company has raised over $215 million in funding to date.",
+              "The startup’s raise continues the trend of sizable funding rounds in voice AI last year, including Seasame’s $250 million Series B, ElevenLab’s $180 million Series C, and Gradium’s $70 million seed round.",
+              "Elizabeth de Saint-Aignan, a partner at AVP, told TechCrunch that when the fund was talking to enterprises about how they were using AI, voice came up frequently, and it started looking into companies working in this area."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+            "link": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c3386ec39431b4189a74911569af8bc5639b590f"
+          },
+          "review": {
+            "headline_rewrite": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+            "bullets": [
+              "Moxie Marlinspike—the pseudonym of an engineer who set a new standard for private messaging with the creation of the Signal Messenger—is now aiming to revolutionize AI chatbots in a similar way.",
+              "His latest brainchild is Confer, an open source AI assistant that provides strong assurances that user data is unreadable to the platform operator, hackers, law enforcement, or any other party other than account holders.",
+              "Data and conversations originating from users and the resulting responses from the LLMs are encrypted in a trusted execution environment (TEE) that prevents even server administrators from peeking at or tampering with them.",
+              "Conversations are stored by Confer in the same encrypted form, which uses a key that remains securely on users’ devices.",
+              "Prior to that, using PGP email or other options to establish encrypted channels between two users was a cumbersome process that was easy to botch.",
+              "Even when users opt out of having their data stored long term, parties to a lawsuit can compel the platform to store it, as the world learned last May when a court ordered OpenAI to preserve all ChatGPT users’ logs—including deleted chats and sensitive chats logged through its API business offering."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "PC shipments just grew unexpectedly amid RAM shortages",
+            "link": "https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc",
+            "site_name": "The Verge",
+            "novelty_hash": "7b75ed6b839aeee794feb2cc47b1d2022131a48c"
+          },
+          "review": {
+            "headline_rewrite": "PC shipments just grew unexpectedly amid RAM shortages",
+            "bullets": [
+              "RAM and NAND / SSD prices have surged in recent months due to shortages created by AI data center demand.",
+              "“Beyond the obvious pressure on prices of systems, already announced by certain manufacturers, we might also see PC memory specifications be lowered on average to preserve memory inventory on hand,” says Jean Philippe Bouchard, research vice president at IDC.",
+              "“The year ahead is shaping up to be extremely volatile.”\nIDC is now expecting average selling prices of PCs to rise in 2026 as PC makers shift priority to midrange and premium systems to offset the higher costs of memory.",
+              "All of this points to an AI-driven storm for the PC market throughout 2026."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Morning After: Apple will use Gemini to power Siri AI",
+            "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-151521620.html",
+            "site_name": "Engadget",
+            "novelty_hash": "8ccba521c13489393c1c7397067207bd4bc5a9bc"
+          },
+          "review": {
+            "headline_rewrite": "The Morning After: Apple will use Gemini to power Siri AI",
+            "bullets": [
+              "Apple and Google have confirmed that Gemini’s models power the new version of Siri and other generative AI features.",
+              "Here’s part of it: “Apple determined that Google’s Al technology provides the most capable foundation for Apple Foundation Models… Apple Intelligence will continue to run on Apple devices and Private Cloud Compute, while maintaining Apple’s industry-leading privacy standards.”\nIn June, it was reported that Apple was considering partnerships with OpenAI and Anthropic for Siri (the voice assistant can currently tap ChatGPT for certain queries as part of Apple Intelligence).",
+              "It’s also notable that current iPhones have direct access to OpenAI’s ChatGPT.",
+              "Netflix also won best performance in stand-up comedy on television for Ricky Gervais: Mortality.",
+              "The agency is targeting a February launch date for Artemis 2.",
+              "The agency now says it could launch as early as February."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Insta360’s face-tracking webcams get bigger sensors and more expensive",
+            "link": "https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam",
+            "site_name": "The Verge",
+            "novelty_hash": "14532121259057696785d3ecd8991b10e0432f7b"
+          },
+          "review": {
+            "headline_rewrite": "Insta360’s face-tracking webcams get bigger sensors and more expensive",
+            "bullets": [
+              "Insta360 has announced new Pro versions of its Link 2 and Link 2C webcams that first launched in September 2024.",
+              "Both now feature larger 1/1.3-inch sensors paired with 24-millimeter equivalent f1.9 lenses for improved performance in low light or inconsistent lighting conditions.",
+              "Insta360’s face-tracking webcams get bigger sensors and more expensive\nThe new Link 2 Pro and Link 2C Pro feature larger 1/1.3-inch sensors and improved AI-powered noise canceling.",
+              "Both webcams are now available worldwide through Insta360’s online store, but are slightly more expensive than the $199 Link 2 and $149 Link 2C.",
+              "All previous versions of Insta360’s Link webcams have used half-inch sensors, but the company says the new 1/1.3-inch sensors introduce “major gains in low-light performance” and “deliver cleaner, brighter, and more detailed video across all lighting conditions.“ We haven’t had a chance to test those claims for ourselves, but larger sensors are typically a welcome upgrade.",
+              "Insta360 says both webcams also feature its “most advanced webcam audio system to date” that pairs two microphones — one directional and one omnidirectional — with AI-powered noise canceling."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
