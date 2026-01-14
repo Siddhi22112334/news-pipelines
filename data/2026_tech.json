@@ -57706,6 +57706,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:30": [
+        {
+          "item": {
+            "title": "Robotics software maker Skild AI hits $14B valuation",
+            "link": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "776335729f475c336ed44de6f444cfa95aae287f"
+          },
+          "review": {
+            "headline_rewrite": "Robotics software maker Skild AI hits $14B valuation",
+            "bullets": [
+              "Skild AI, which makes foundation models for robots, seems to have more than tripled its valuation in just seven months.",
+              "The startup has raised a $1.4 billion Series C round that values it at more than $14 billion, Bloomberg reported.",
+              "The round was led by SoftBank, and Nvidia, Macquarie Group, 1789 Capital and others also invested.",
+              "Skild AI last raised a funding at a $4.5 billion valuation this prior summer, Bloomberg reported.",
+              "The company hasn’t disclosed the exact value of that round — it was rumored to be around $500 million — but Skild AI CEO Deepak Pathak told Bloomberg that the company has now raised more than $2 billion to date.",
+              "TechCrunch has reached out to Skild AI for more information on its fundraising history, and we’ll update this piece when we hear more."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
+            "link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "662119291fedc7e7a28ace25a1f2bccc2cbb08fb"
+          },
+          "review": {
+            "headline_rewrite": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
+            "bullets": [
+              "Google announced on Wednesday that it’s launching a new beta feature in the Gemini app that allows the AI assistant to tailor its responses by connecting across your Google ecosystem, starting with Gmail, Photos, Search, and YouTube history.",
+              "Although Gemini could already retrieve information from these apps, it can now reason across your data to provide proactive results, such as connecting a thread in your emails to a video you watched.",
+              "Of course, not everyone wants AI looking at their photos and YouTube history.",
+              "“Personal Intelligence has two core strengths: reasoning across complex sources and retrieving specific details from, say, an email or photo to answer your question,” wrote Josh Woodward, VP, Gemini app, Google Labs, and AI Studio, in a blog post.",
+              "“It often combines these, working across text, photos and video to provide uniquely tailored answers.”\nWoodward shared an example of when he was standing in line at a tire shop and didn’t remember his car’s tire size.",
+              "While most AI chatbots can determine a car’s tire size, Woodward says Gemini can go further by offering personalized responses."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Civilization VII is coming to Apple Arcade",
+            "link": "https://www.theverge.com/news/861816/civilization-vii-apple-arcade-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "6641af63a4d64fd6cb829cfbfe598f9b7c95e1ea"
+          },
+          "review": {
+            "headline_rewrite": "Civilization VII is coming to Apple Arcade",
+            "bullets": [
+              "There are some limitations, though, as Civilization VII Arcade Edition won’t support multiplayer at launch, and also won’t receive any of the downloadable content you’d get on PC and other platforms.",
+              "Most Popular\n- Apple Creator Studio suite is launching to take on Adobe\n- What Apple and Google’s Gemini deal means for both companies\n- Amazon has started automatically upgrading Prime members to Alexa Plus\n- Meta is closing down three VR studios as part of its metaverse cuts\n- Anthropic shakes up C-suite to expand its internal incubator"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube",
+            "link": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos",
+            "site_name": "The Verge",
+            "novelty_hash": "95291286c41499889400df85f3bd2461a8ff2ac8"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube",
+            "bullets": [
+              "Google’s Gemini AI is getting what could prove to be a very big upgrade: To help answers from Gemini be more personalized, the company is going to let you connect the chatbot to Gmail, Google Photos, Search, and your YouTube history to provide what Google is calling “Personal Intelligence.”\nGoogle’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube\nWith Personal Intelligence, Gemini can give you more personalized answers to your questions, though it requires you to opt in.",
+              "This isn’t the first time Google has introduced some form of personalization with its AI chatbot; in September 2023, when Gemini was still called Bard, Google announced a way for it to connect to Google’s apps and services to be able to retrieve information based on what’s stored in your account.",
+              "But the big change with Personal Intelligence is that it can reason across the information from your Google account, meaning it’s able to pull details from things like an email or a photo without requiring you to specifically ask to pull from the apps you might want the information from.",
+              "It’s also powered by Google’s Gemini 3 AI models.",
+              "Here’s an example that Google’s Josh Woodward, VP of the Gemini app, Google Labs, and AI Studio, shared in a blog post about how Personal Intelligence can work.",
+              "It suggested different options: one for daily driving and another for all-weather conditions, referencing our family road trips to Oklahoma found in Google Photos."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans",
+            "link": "https://arstechnica.com/ai/2026/01/deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2e541c2aaefcfe2b3db803a3bffc4fbdfed9c622"
+          },
+          "review": {
+            "headline_rewrite": "Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans",
+            "bullets": [
+              "After repeatedly denying for weeks that his force used AI tools, the chief constable of the West Midlands police has finally admitted that a hugely controversial decision to ban Maccabi Tel Aviv football fans from the UK did involve hallucinated information from Microsoft Copilot.",
+              "Tensions were heightened in part due to an October 2 terror attack against a synagogue in Manchester where several people were killed by an Islamic attacker.",
+              "The police pointed specifically to claims that Maccabi Tel Aviv fans had been violent in a recent football match in Amsterdam.",
+              "Making it worse was the fact that the West Midlands Police narrative rapidly fell apart.",
+              "According to the BBC, police claimed that the Amsterdam football match featured “500-600 Maccabi fans [who] had targeted Muslim communities the night before the Amsterdam fixture, saying there had been ‘serious assaults including throwing random members of the public’ into a river.",
+              "They also claimed that 5,000 officers were needed to deal with the unrest in Amsterdam, after previously saying that the figure was 1,200.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story",
+            "link": "https://www.wired.com/story/trump-warned-of-a-tren-de-aragua-invasion-us-intel-told-a-different-story/",
+            "site_name": "WIRED",
+            "novelty_hash": "0065e5047e98316aff0fb5bc0e2da1a5b4a06ab5"
+          },
+          "review": {
+            "headline_rewrite": "Trump Warned of a Tren de Aragua ‘Invasion.’ US Intel Told a Different Story",
+            "bullets": [
+              "As the Trump administration publicly cast Venezuela’s Tren de Aragua (TdA) as a unified terrorist force tied to President Nicolás Maduro and operating inside the United States, hundreds of internal US government records obtained by WIRED tell a far less certain story.",
+              "Intelligence taskings, law-enforcement bulletins, and drug-task-force assessments show that agencies spent much of 2025 struggling to determine whether TdA even functioned as an organized entity in the US at all—let alone as a coordinated national security threat.",
+              "Again and again, they flag unresolved questions about TdA’s US footprint, including its size, financing, and weapons access, warning that key estimates—such as the number of members operating in the US—were often inferred or extrapolated by analysts due to a lack of corroborated facts.",
+              "Together, the documents show a wide gap between policy-level rhetoric and on-the-ground intelligence at the time.",
+              "In a March 2025 proclamation invoking the Alien Enemies Act, President Donald Trump claimed the gang had “thousands” of members who had “unlawfully infiltrated the United States” and were “conducting irregular warfare and undertaking hostile actions.” He claimed the group was “aligned with, and indeed has infiltrated, the Maduro regime,” warning that Venezuela had become a “hybrid criminal state” invading the US.",
+              "At the same time, however, an internal Border Patrol assessment obtained by WIRED shows officials could not substantiate those claims, relying instead on interview-based estimates rather than confirmed detections of gang members entering the US."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
