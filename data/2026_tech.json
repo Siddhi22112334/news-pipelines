@@ -57942,6 +57942,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:26": [
+        {
+          "item": {
+            "title": "Robotics software maker Skild AI hits $14B valuation",
+            "link": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "58633c6b9802de4c611bc6d3925606ffae31c0a0"
+          },
+          "review": {
+            "headline_rewrite": "Robotics software maker Skild AI hits $14B valuation",
+            "bullets": [
+              "Skild AI, which makes foundation models for robots, seems to have more than tripled its valuation in just seven months.",
+              "The startup has raised a $1.4 billion Series C round that values it at more than $14 billion, Bloomberg reported.",
+              "The round was led by SoftBank, and Nvidia, Macquarie Group, 1789 Capital, and others also invested.",
+              "Skild AI last raised funding at a $4.5 billion valuation this prior summer, Bloomberg reported.",
+              "The company hasn’t disclosed the exact value of that round — it was rumored to be around $500 million — but Skild AI CEO Deepak Pathak told Bloomberg that the company has now raised more than $2 billion to date.",
+              "TechCrunch has reached out to Skild AI for more information on its fundraising history, and we’ll update this piece when we hear more."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
+            "link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "662119291fedc7e7a28ace25a1f2bccc2cbb08fb"
+          },
+          "review": {
+            "headline_rewrite": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
+            "bullets": [
+              "Google announced on Wednesday that it’s launching a new beta feature in the Gemini app that allows the AI assistant to tailor its responses by connecting across your Google ecosystem, starting with Gmail, Photos, Search, and YouTube history.",
+              "Although Gemini could already retrieve information from these apps, it can now reason across your data to provide proactive results, such as connecting a thread in your emails to a video you watched.",
+              "Of course, not everyone wants AI looking at their photos and YouTube history.",
+              "“Personal Intelligence has two core strengths: reasoning across complex sources and retrieving specific details from, say, an email or photo to answer your question,” wrote Josh Woodward, VP, Gemini app, Google Labs, and AI Studio, in a blog post.",
+              "“It often combines these, working across text, photos and video to provide uniquely tailored answers.”\nWoodward shared an example of when he was standing in line at a tire shop and didn’t remember his car’s tire size.",
+              "While most AI chatbots can determine a car’s tire size, Woodward says Gemini can go further by offering personalized responses."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations",
+            "link": "https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits",
+            "site_name": "The Verge",
+            "novelty_hash": "d00bb340f1032288b3b96e52371d82ea408b9805"
+          },
+          "review": {
+            "headline_rewrite": "The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations",
+            "bullets": [
+              "Lawsuits seeking damages from Google’s illegal ad tech monopoly are piling up following the Justice Department’s successful antitrust case.",
+              "Vox Media, The Verge’s parent company, is the latest in a wave of media companies that have filed suit against Google, seeking to be reimbursed for the monopoly profits the tech company allegedly made at publishers’ expense.",
+              "The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations\nThe cases build off the Justice Department’s winning claims against Google’s ad tech monopoly.",
+              "“Absent Google’s conduct, Vox Media would be able to make available even more, higher quality impressions for purchase on Vox Media’s webpages and create more high-quality, premium journalism,” Vox Media alleges in its lawsuit, filed Wednesday in the Southern District of New York.",
+              "You can read our ethics policy here.)\nThe publishers claim Google’s dominance lets it “depress prices for publisher inventory below competitive levels”\nThe lawsuits underscore the ways that the highly technical subject of the 2024 trial impacts an ecosystem of publishers and tech providers.",
+              "For example, the media company complaints outline how Google’s illegal monopoly of the market for publisher ad servers, used to manage ad space for sale on publisher websites, has effectively stymied any viable competitors they might consider moving to."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube",
+            "link": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos",
+            "site_name": "The Verge",
+            "novelty_hash": "95291286c41499889400df85f3bd2461a8ff2ac8"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube",
+            "bullets": [
+              "Google’s Gemini AI is getting what could prove to be a very big upgrade: To help answers from Gemini be more personalized, the company is going to let you connect the chatbot to Gmail, Google Photos, Search, and your YouTube history to provide what Google is calling “Personal Intelligence.”\nGoogle’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube\nWith Personal Intelligence, Gemini can give you more personalized answers to your questions, though it requires you to opt in.",
+              "This isn’t the first time Google has introduced some form of personalization with its AI chatbot; in September 2023, when Gemini was still called Bard, Google announced a way for it to connect to Google’s apps and services to be able to retrieve information based on what’s stored in your account.",
+              "But the big change with Personal Intelligence is that it can reason across the information from your Google account, meaning it’s able to pull details from things like an email or a photo without requiring you to specifically ask to pull from the apps you might want the information from.",
+              "It’s also powered by Google’s Gemini 3 AI models.",
+              "Here’s an example that Google’s Josh Woodward, VP of the Gemini app, Google Labs, and AI Studio, shared in a blog post about how Personal Intelligence can work.",
+              "It suggested different options: one for daily driving and another for all-weather conditions, referencing our family road trips to Oklahoma found in Google Photos."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans",
+            "link": "https://arstechnica.com/ai/2026/01/deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2e541c2aaefcfe2b3db803a3bffc4fbdfed9c622"
+          },
+          "review": {
+            "headline_rewrite": "Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans",
+            "bullets": [
+              "After repeatedly denying for weeks that his force used AI tools, the chief constable of the West Midlands police has finally admitted that a hugely controversial decision to ban Maccabi Tel Aviv football fans from the UK did involve hallucinated information from Microsoft Copilot.",
+              "Tensions were heightened in part due to an October 2 terror attack against a synagogue in Manchester where several people were killed by an Islamic attacker.",
+              "The police pointed specifically to claims that Maccabi Tel Aviv fans had been violent in a recent football match in Amsterdam.",
+              "Making it worse was the fact that the West Midlands Police narrative rapidly fell apart.",
+              "According to the BBC, police claimed that the Amsterdam football match featured “500-600 Maccabi fans [who] had targeted Muslim communities the night before the Amsterdam fixture, saying there had been ‘serious assaults including throwing random members of the public’ into a river.",
+              "They also claimed that 5,000 officers were needed to deal with the unrest in Amsterdam, after previously saying that the figure was 1,200.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Man got $2,500 whole-body MRI that found no problems—then had massive stroke",
+            "link": "https://arstechnica.com/health/2026/01/man-got-2500-whole-body-mri-that-found-no-problems-then-had-massive-stroke/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b3ed4b44c93bc4fd2ced5e39df214640c9d11429"
+          },
+          "review": {
+            "headline_rewrite": "Man got $2,500 whole-body MRI that found no problems—then had massive stroke",
+            "bullets": [
+              "A New York man is suing Prenuvo, a celebrity-endorsed whole-body magnetic resonance imaging (MRI) provider, claiming that the company missed clear signs of trouble in his $2,500 whole-body scan—and if it hadn’t, he could have acted to avert the catastrophic stroke he suffered months later.",
+              "Sean Clifford and his legal team claim that his scan on July 15, 2023, showed a 60 percent narrowing and irregularity in a major artery in his brain—the proximal right middle cerebral artery, a branch of the most common artery involved in acute strokes.",
+              "But Prenuvo’s reviews of the scan did not flag the finding and otherwise reported everything in his brain looked normal; there was “no adverse finding.” (You can read Prenuvo’s report and see Clifford’s subsequent imaging here.)\nClifford suffered a massive stroke on March 7, 2024.",
+              "Clifford suffered paralysis of his left hand and leg, general weakness on his left side, vision loss and permanent double vision, anxiety, depression, mood swings, cognitive deficits, speech problems, and permanent difficulties with all daily activities.",
+              "He filed his lawsuit against Prenuvo in September 2024 in the New York State Supreme Court.",
+              "The company failed on both counts."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
