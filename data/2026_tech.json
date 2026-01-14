@@ -58645,6 +58645,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:17": [
+        {
+          "item": {
+            "title": "AI models are starting to crack high-level math problems",
+            "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2d5c1c37de8f40cabdbe09c05a4dcd4c126c9e2d"
+          },
+          "review": {
+            "headline_rewrite": "AI models are starting to crack high-level math problems",
+            "bullets": [
+              "Over the weekend, Neel Somani, who is a software engineer, former quant researcher, and a startup founder, was testing the math skills of OpenAI’s new model when he made an unexpected discovery.",
+              "“I was curious to establish a baseline for when LLMs are effectively able to solve open math problems compared to where they struggle,” Somani said.",
+              "ChatGPT’s chain of thought is even more impressive, rattling off mathematical axioms like Legendre’s formula, Bertrand’s postulate, and the Star of David theorum.",
+              "But ChatGPT’s final proof differed from Elkies’ work in important ways, and gave a more complete solution to a version of the problem posed by legendary mathematician Paul Erdős, whose vast collection of unsolved problems has become a proving ground for AI.",
+              "AI tools have become ubiquitous in mathematics, from formalization-oriented LLMs like Harmonic’s Aristotle to literature review tools like OpenAI’s deep research.",
+              "But since the release of GPT 5.2 — which Somani describes as “anecdotally more skilled at mathematical reasoning than previous iterations” — the sheer volume of solved problems has become difficult to ignore, raising new questions about large language models’ ability to push the frontiers of human knowledge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "App downloads declined again in 2025, but consumer spending soared to nearly $156B",
+            "link": "https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7d00453c98a95fd028632efa836d610e7d092a8f"
+          },
+          "review": {
+            "headline_rewrite": "App downloads declined again in 2025, but consumer spending soared to nearly $156B",
+            "bullets": [
+              "In fact, non-game app spending is up 33.9% year-over-year and reached $82.6 billion in 2025, Appfigures said.",
+              "While consumers may not like that nearly every app now has in-app purchases or a subscription model built in, this has offered a more sustainable path for app developers.",
+              "This includes subscription management platform RevenueCat, which raised a $50 million Series C this past year, and Appcharge, a startup helping mobile games improve their monetization, which announced a $58 million Series B back in August.",
+              "As revenue rose, downloads dropped again in 2025.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+              "Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon didn’t have to go far to find its live-action Kratos",
+            "link": "https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video",
+            "site_name": "The Verge",
+            "novelty_hash": "db8f9bf95eaeca80da34e2b6f18f9e82effb27d1"
+          },
+          "review": {
+            "headline_rewrite": "Amazon didn’t have to go far to find its live-action Kratos",
+            "bullets": [
+              "Amazon didn’t have to go far to find its live-action Kratos\nIt’s a voice actor from the games, but not the one you’re thinking\nAmazon originally announced the God of War series in 2022 in collaboration with PlayStation Productions.",
+              "The Last of Us (Sony) is currently working toward a third season, a Horizon Zero Dawn (Sony) show is in the works at Netflix, Fallout (Amazon) is currently in the middle of airing its second season, while Tomb Raider (Amazon) has recently announced its principle cast.",
+              "Most Popular\n- Apple Creator Studio suite is launching to take on Adobe\n- Amazon has started automatically upgrading Prime members to Alexa Plus\n- What Apple and Google’s Gemini deal means for both companies\n- Tesla to stop selling FSD as a standalone package and switch to subscription only\n- Anthropic shakes up C-suite to expand its internal incubator"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "BMW says electric M3 will be a ‘new level’ of performance",
+            "link": "https://www.theverge.com/news/861955/bmw-m3-electric-ev-quad-motor-neue-klasse",
+            "site_name": "The Verge",
+            "novelty_hash": "f798ada548d224e61645b730d1370248637de694"
+          },
+          "review": {
+            "headline_rewrite": "BMW says electric M3 will be a ‘new level’ of performance",
+            "bullets": [
+              "Tri-motors, sure, you can find plenty, like Tesla Model S Plaid and Lucid Air Sapphire.",
+              "That means when software updates are made available, the vehicle’s brain will be able to receive them over-the-air faster than BMW’s current processors.",
+              "Porsche, Hyundai, and Dodge are also on board the fake EV gear shifting bandwagon.",
+              "The upcoming M3 will be the first to bear the proper M badge, but certainly not the last.",
+              "Most Popular\n- Apple Creator Studio suite is launching to take on Adobe\n- Amazon has started automatically upgrading Prime members to Alexa Plus\n- What Apple and Google’s Gemini deal means for both companies\n- Tesla to stop selling FSD as a standalone package and switch to subscription only\n- Anthropic shakes up C-suite to expand its internal incubator"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI’s Hacking Skills Are Approaching an ‘Inflection Point’",
+            "link": "https://www.wired.com/story/ai-models-hacking-inflection-point/",
+            "site_name": "WIRED",
+            "novelty_hash": "7b1a452ccc566b17f1264c568c041368aac446d5"
+          },
+          "review": {
+            "headline_rewrite": "AI’s Hacking Skills Are Approaching an ‘Inflection Point’",
+            "bullets": [
+              "Vlad Ionescu and Ariel Herbert-Voss, cofounders of the cybersecurity startup RunSybil, were momentarily confused when their AI tool, Sybil, alerted them to a weakness in a customer’s systems last November.",
+              "Sybil uses a mix of different AI models—as well as a few proprietary technical tricks—to scan computer systems for issues that hackers might exploit, like an unpatched server or a misconfigured database.",
+              "In this case, Sybil flagged a problem with the customer’s deployment of federated GraphQL, a language used to specify how data is accessed over the web through application programming interfaces (APIs).",
+              "As AI models continue to get smarter, their ability to find zero-day bugs and other vulnerabilities also continues to grow.",
+              "Dawn Song, a computer scientist at UC Berkeley who specializes in both AI and security, says recent advances in AI have produced models that are better at finding flaws.",
+              "Simulated reasoning, which involves splitting problems into constituent pieces, and agentic AI, like searching the web or installing and running software tools, have amped up models’ cyber abilities."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later",
+            "link": "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/",
+            "site_name": "WIRED",
+            "novelty_hash": "0315caebda49f9b0fdf49f0a3170667a877a695e"
+          },
+          "review": {
+            "headline_rewrite": "Neuroscientists Decipher Procrastination: A Brain Mechanism Explains Why People Leave Certain Tasks for Later",
+            "bullets": [
+              "The reason you decide to postpone household chores and spend your time browsing social media could be explained by the workings of a brain circuit.",
+              "The study, led by Ken-ichi Amemori, a neuroscientist at Kyoto University, aimed to analyze the brain mechanisms that reduce motivation to act when a task involves stress, punishment, or discomfort.",
+              "To do this, the researchers designed an experiment with monkeys, a widely used model for understanding decisionmaking and motivation processes in the brain.",
+              "The scientists worked with two macaques that were trained to perform various decisionmaking tasks.",
+              "The monkeys were given the choice of drinking a moderate amount of water without negative consequences or drinking a larger amount on the condition of receiving a direct blast of air in the face.",
+              "This behavior allowed them to identify a brain circuit that acts as a brake on motivation in the face of anticipated adverse situations."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
