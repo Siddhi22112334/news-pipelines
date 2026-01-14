@@ -58535,6 +58535,116 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:52": [
+        {
+          "item": {
+            "title": "Celebrating 250 years of America, from its history to its future",
+            "link": "https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/",
+            "site_name": "blog.google",
+            "novelty_hash": "627b922529349f35bff54e9e3f4e080ce1506729"
+          },
+          "review": {
+            "headline_rewrite": "Celebrating 250 years of America, from its history to its future",
+            "bullets": [
+              "Throughout the year, we’ll use our products and platforms to bring history to life and showcase the country's iconic landmarks, inviting you to explore and broaden your understanding of the heritage, ideas, places and people that connect and define the country.",
+              "As we look to the future, we’re continuing to celebrate and advance the spirit of ingenuity with AI tools and training to support economic growth and accelerate this new era of American innovation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI models are starting to crack high-level math problems",
+            "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "45791870313f20520ad2cdbcbaa981af4aa3626f"
+          },
+          "review": {
+            "headline_rewrite": "AI models are starting to crack high-level math problems",
+            "bullets": [
+              "Over the weekend, Neel Somani, who is a software engineer, former quant researcher, and a startup founder, was testing the math skills of OpenAI’s new model when he made an unexpected discovery.",
+              "“I was curious to establish a baseline for when LLMs are effectively able to solve open math problems compared to where they struggle,” Somani said.",
+              "ChatGPT’s chain of thought is even more impressive, rattling off mathematical axioms like Legendre’s formula, Bertrand’s postulate, and the Star of David theorum.",
+              "But ChatGPT’s final proof differed from Elkies’ work in important ways, and gave a more complete solution to a version of the problem posed by legendary mathematician Paul Erdős, whose vast collection of unsolved problems has become a proving ground for AI.",
+              "AI tools have become ubiquitous in mathematics, from formalization-oriented LLMs like Harmonic’s Aristotle to literature review tools like OpenAI’s deep research.",
+              "But since the release of GPT 5.2 — which Somani describes as “anecdotally more skilled at mathematical reasoning than previous iterations” — the sheer volume of solved problems has become difficult to ignore, raising new questions about large language models’ ability to push the frontiers of human knowledge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "I’ve tested 30 smart locks, and these are the best",
+            "link": "https://www.theverge.com/23393163/best-smart-door-lock",
+            "site_name": "The Verge",
+            "novelty_hash": "d49ca7da23d78c0d8f2fe5c2e542208edee41517"
+          },
+          "review": {
+            "headline_rewrite": "I’ve tested 30 smart locks, and these are the best",
+            "bullets": [
+              "Hands are full, and it’s raining cats and dogs?",
+              "I’ve tested 30 smart locks, and these are the best\nNever get locked out again with a smart lock you can control from your phone, with your face, or with a fingerprint.",
+              "Most smart locks have the same security ratings as their non-smart counterparts (see FAQ for more details), and it’s harder to physically pick a lock without a keyway.",
+              "Featured Products\nWhat I’m looking for\nI install each lock on one of four exterior doors and use it daily for at least a week.",
+              "I test remote features like app control, code sharing, and platform integrations.Design, aesthetics, and how the lock pairs with devices like video doorbells are also considered.",
+              "A good smart lock should have at least three ways to unlock in case one method fails."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Trends Explore page gets new Gemini capabilities",
+            "link": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fa02e86a1c89ca6c46dd23333725015b498e4a5e"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Trends Explore page gets new Gemini capabilities",
+            "bullets": [
+              "Google announced Wednesday the launch of a revamped Trends Explore page, now featuring Gemini-powered capabilities that automatically identify and compare trends related to your searches.",
+              "The AI automatically populates the graph with up to eight search terms, such as “golden retriever” or “beagle.” It also suggests related topics like “hypoallergenic dog breeds” or “large dog breeds” for further exploration.",
+              "The company has already added AI capabilities to Search, Gmail, Maps, and Docs."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "BMW says electric M3 will be a ‘new level’ of performance",
+            "link": "https://www.theverge.com/news/861955/bmw-m3-electric-ev-quad-motor-neue-klasse",
+            "site_name": "The Verge",
+            "novelty_hash": "f798ada548d224e61645b730d1370248637de694"
+          },
+          "review": {
+            "headline_rewrite": "BMW says electric M3 will be a ‘new level’ of performance",
+            "bullets": [
+              "Tri-motors, sure, you can find plenty, like Tesla Model S Plaid and Lucid Air Sapphire.",
+              "That means when software updates are made available, the vehicle’s brain will be able to receive them over-the-air faster than BMW’s current processors.",
+              "Porsche, Hyundai, and Dodge are also on board the fake EV gear shifting bandwagon.",
+              "The upcoming M3 will be the first to bear the proper M badge, but certainly not the last.",
+              "Most Popular\n- Apple Creator Studio suite is launching to take on Adobe\n- Amazon has started automatically upgrading Prime members to Alexa Plus\n- What Apple and Google’s Gemini deal means for both companies\n- Tesla to stop selling FSD as a standalone package and switch to subscription only\n- Anthropic shakes up C-suite to expand its internal incubator"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Civilization VII is headed to iPhone and iPad with “Arcade Edition”",
+            "link": "https://arstechnica.com/gaming/2026/01/civilization-vii-is-headed-to-iphone-and-ipad-with-arcade-edition/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "983a6c68283416c58e536110522d6940cb6d2abd"
+          },
+          "review": {
+            "headline_rewrite": "Civilization VII is headed to iPhone and iPad with “Arcade Edition”",
+            "bullets": [
+              "That said, there is some fine print you shouldn’t miss.",
+              "It also notes that “post-launch updates that apply to other platforms may be excluded or delayed.” Also, the supported players listed is “1,” suggesting it may not have multiplayer."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
