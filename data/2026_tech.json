@@ -62028,6 +62028,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:32": [
+        {
+          "item": {
+            "title": "Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.",
+            "link": "https://blog.google/products/ads-commerce/campaign-total-budgets/",
+            "site_name": "Google",
+            "novelty_hash": "93e45d0b25d545e2f0b0bc006d9091fc6ee39bb5"
+          },
+          "review": {
+            "headline_rewrite": "Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.",
+            "bullets": [
+              "Managing budgets for specific campaign flights — like product launches, sales events or promotional bursts — shouldn't require constant manual adjustments.",
+              "Campaign total budgets are now available in open beta for Search, Performance Max and Shopping campaigns, allowing you to set the budget you want over a specific period of time from a few days to a few weeks.",
+              "Instead of making daily manual tweaks to keep pace, campaign total budgets optimize your spend and aim to fully and effectively utilize your budget by your end date.",
+              "Whether you’re running a 72-hour test or a month-long activation, you can launch with confidence knowing you won’t overspend or miss out on opportunities.",
+              "Your campaign will stay on track for your budget goals without the need for daily maintenance.",
+              "Escentual.com, a UK-based online beauty retailer, noticed their ads weren’t serving as much as they wanted to during promotions and underutilizing their budget."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TranslateGemma: A new suite of open translation models",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/",
+            "site_name": "Google",
+            "novelty_hash": "68277c208eb3493f60a54a80abded5792b9ca48a"
+          },
+          "review": {
+            "headline_rewrite": "TranslateGemma: A new suite of open translation models",
+            "bullets": [
+              "TranslateGemma: A new suite of open translation models\nToday, we're introducing TranslateGemma, a new collection of open translation models built on Gemma 3, available in 4B, 12B, and 27B parameter sizes.",
+              "Through our specialized training process, the 12B TranslateGemma model outperforms the Gemma 3 27B baseline as measured using MetricX on the WMT24++ benchmark.",
+              "Unprecedented language coverage\nWe have rigorously trained and evaluated TranslateGemma on 55 language pairs, ensuring reliable, high-quality performance across major languages (such as Spanish, French, Chinese, and Hindi) as well as many low-resource languages.",
+              "Beyond these core languages, we pushed the boundaries by training on nearly 500 additional language pairs.",
+              "We designed TranslateGemma to serve as a robust foundation for further adaptation, making it an ideal starting point for researchers to fine-tune their own state-of-the-art models for specific language pairs or to improve quality for low-resource languages.",
+              "Strong multimodal capabilities\nTranslateGemma models retain the strong multimodal capabilities of Gemma 3."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
+            "link": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "121cdf794e89e0da46fed79ecae35722830f0c9d"
+          },
+          "review": {
+            "headline_rewrite": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
+            "bullets": [
+              "After months of rumors that the Trump administration was going to impose tariffs on semiconductors, a tariff has been announced for some chips.",
+              "The tariff only applies to certain semiconductors, including the Nvidia H200 advanced AI chips set to ship to China.",
+              "President Donald Trump signed a proclamation on Wednesday that entailed a 25% tariff on advanced AI semiconductors that have been produced outside the U.S.",
+              "Department of Commerce’s decision to give Nvidia the green light to start shipping its H200 advanced AI chips to vetted customers in China in December.",
+              "It also includes chips from other companies, including the AMD MI325X.",
+              "In spite of the tariffs, Nvidia publicly cheered the move, which allows it to sell the chip to approved customers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
+            "link": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "29b6b74192f703222c81a298b5cf3a4fc4db6a2e"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
+            "bullets": [
+              "Just when you thought the circular deals couldn’t get any more circular, OpenAI has invested in CEO Sam Altman’s brain computer interface (BCI) startup Merge Labs.",
+              "A source familiar with the matter confirmed previous reports that OpenAI wrote the largest single check in Merge Labs’ $250 million seed round at an $850 million valuation.",
+              "“If we can interface with these neurons at scale, we could restore lost abilities, support healthier brain states, deepen our connection with each other, and expand what we can imagine and create alongside advanced AI.”\nMerge Labs said it intends to reach these feats noninvasively by developing “entirely new technologies that connect with neurons using molecules instead of electrodes” to “transit and receive information using deep-reaching modalities like ultrasound.”\nThe move deepens Altman’s competition with Elon Musk, whose startup Neuralink is also developing computer interface chips that allow people who suffer from severe paralysis to control devices with their thoughts.",
+              "Neuralink currently requires invasive surgery for implantation, where a surgical robot removes a small piece of skull and inserts ultra-fine electrode threads into the brain to read neural signals.",
+              "The company last raised a $650 million Series E at a $9 billion valuation in June 2025.",
+              "While there are undoubtedly medical use cases for BCIs, Merge Labs seems more focused on using the technology to fulfill a Silicon Valley fantasy of combining human biology with AI to give us superhuman capabilities."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft is closing its employee library and cutting back on subscriptions",
+            "link": "https://www.theverge.com/tech/862531/microsoft-library-closure-transition-changes-notepad",
+            "site_name": "The Verge",
+            "novelty_hash": "8390d95221ef11e1c66dc52cbb37c27b584f2fbc"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft is closing its employee library and cutting back on subscriptions",
+            "bullets": [
+              "Now those physical books, journals, and reports, and many of Microsoft’s digital subscriptions to leading US newspapers, are disappearing in a shift described inside Microsoft as an “AI-powered learning experience.”\nMicrosoft is closing its employee library and cutting back on subscriptions\nThe physical and digital Microsoft Library is transitioning to an AI-powered ‘learning experience.’\nMicrosoft started cutting back on its employee subscriptions to news and reports services in November, with some publishers receiving an automated email cancellation of a contract.",
+              "“This correspondence serves as official notification that Microsoft will not renew any existing contracts upon their respective expiration dates,” reads an email from Microsoft’s vendor management team.",
+              "In an email to Microsoft employees that relied on SNS reports, the publisher notes that “Microsoft has just released an automated announcement that all library contracts, of which the SNS Global Report is perhaps the most strategic for your own use, are to be turned off.”\nMicrosoft employees I’ve spoken to recently have lost access to digital publications like The Information.",
+              "While Microsoft often rotates the publishers it uses in its Library service, this time it’s part of a much broader change that seems like corporate cost cutting mixed with the continued push for AI.",
+              "In an internal FAQ about the changes, Microsoft notes that subscriptions aren’t being renewed as “part of Microsoft’s shift to a more modern, AI-powered learning experience through the Skilling Hub.” This means the physical library space is changing, too.",
+              "“The weight of the books took their toll on Building 4,” said veteran Windows developer Raymond Chen in a 2020 blog entry."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon is turning Fallout’s postapocalypse into a reality show",
+            "link": "https://www.theverge.com/streaming/862738/fallout-shelter-reality-show-amazon-prime-video",
+            "site_name": "The Verge",
+            "novelty_hash": "4af002cc80ce8db0aa89140e30ce0fb266bc6cd2"
+          },
+          "review": {
+            "headline_rewrite": "Amazon is turning Fallout’s postapocalypse into a reality show",
+            "bullets": [
+              "Here’s the official logline:\nThe show is being produced by the same company behind Squid Game: The Challenge and The Traitors, though there’s no word yet on when it will premiere.",
+              "And given the popularity of the live-action Fallout adaptation, it’s no surprise the streamer is looking for relatively quick and easy ways to capitalize on that success."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
