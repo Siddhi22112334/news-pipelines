@@ -63339,6 +63339,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:15": [
+        {
+          "item": {
+            "title": "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads",
+            "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "b9bf8fcede10e1208cc2dc96cf825227e160627e"
+          },
+          "review": {
+            "headline_rewrite": "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads",
+            "bullets": [
+              "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads\nSince a preview launch at AWS re:Invent 2025, we’re announcing the general availability of new memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X8i instances.",
+              "These instances are powered by custom Intel Xeon 6 processors with a sustained all-core turbo frequency of 3.9 GHz, available only on AWS.",
+              "These SAP certified instances deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud.",
+              "These instances offer up to 43% higher performance compared to X2i instances, with higher gains on some of the real-world workloads.",
+              "They deliver up to 50% higher SAP Application Performance Standard (SAPS) performance, up to 47% faster PostgreSQL performance, up to 88% faster Memcached performance, and up to 46% faster AI inference performance.",
+              "Orion reduced the number of active cores on X8i instances compared to X2idn instances while maintaining performance thresholds, cutting SQL Server licensing costs by 50%."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The AI lab revolving door spins ever faster",
+            "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f6b724bf6187b1f7ec104e3acf2f08566e90b2e7"
+          },
+          "review": {
+            "headline_rewrite": "The AI lab revolving door spins ever faster",
+            "bullets": [
+              "AI labs just can’t get their employees to stay put.",
+              "Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab.",
+              "All three were quickly snapped up by OpenAI, and now it seems they won’t be the last to leave.",
+              "Alex Heath is reporting that two more employees are expected to leave for OpenAI in the next few weeks.",
+              "Meanwhile, Anthropic continues to pull alignment researchers away from OpenAI.",
+              "The Verge is reporting that one of OpenAI’s senior safety research leads, Andrea Vallone, has left the company for Anthropic."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing",
+            "link": "https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "02685a31f5b262daae524759d5bd97e3db99ed9a"
+          },
+          "review": {
+            "headline_rewrite": "Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing",
+            "bullets": [
+              "Clair, the mother of one of X owner Elon Musk’s children, is suing his company for enabling its AI to virtually strip her down into a bikini without her consent.",
+              "Clair is arguing that X has created a public nuisance.",
+              "Clair is one of the many people over the past couple weeks who have found themselves undressed without permission by X’s AI chatbot, Grok.",
+              "The feature has caused an uproar from policymakers around the world who have launched investigations and vowed that new and existing laws should prevent this kind of behavior.",
+              "Clair filed suit against xAI in New York state, and the case was quickly moved to federal court on Thursday.",
+              "She’s alleging that the company has created a public nuisance and that the product is “unreasonably dangerous as designed,” according to The Wall Street Journal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Dave Filoni takes charge of Star Wars as new president of Lucasfilm",
+            "link": "https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars",
+            "site_name": "The Verge",
+            "novelty_hash": "d4d8c9a1052071395fd1831d3e3203556fd62911"
+          },
+          "review": {
+            "headline_rewrite": "Dave Filoni takes charge of Star Wars as new president of Lucasfilm",
+            "bullets": [
+              "“My love of storytelling was shaped by the films of Kathleen Kennedy and George Lucas,” Filoni said in a statement.",
+              "From Rey to Grogu, Kathy has overseen the greatest expansion in Star Wars storytelling onscreen that we have ever seen.“\n“It has been a true privilege to spend more than a decade working alongside the extraordinary talent at Lucasfilm,” she said in a statement."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta’s Layoffs Leave Supernatural Fitness Users in Mourning",
+            "link": "https://www.wired.com/story/metas-layoffs-supernatural-fitness-users/",
+            "site_name": "WIRED",
+            "novelty_hash": "5180ac8ff29e420263237c2adf66bda8d38172b3"
+          },
+          "review": {
+            "headline_rewrite": "Meta’s Layoffs Leave Supernatural Fitness Users in Mourning",
+            "bullets": [
+              "My fists flail, punching the air as sweat drips from my VR headset.",
+              "We’re breaking in, shaping up.",
+              "My new friends have nameplates floating above their heads that say Chip and Alisa.",
+              "“We’re all in this together.”\n”I always say,” Chip says, “if I miss ’em, as long as I swung at ’em I’m still getting a workout,”\nHis avatar gives me a high five.",
+              "All Systems Go\nSupernatural is a virtual reality fitness subscription service available on Meta Quest headsets.",
+              "Released in 2020, Supernatural was consistently one of the best-performing apps in Meta’s VR app store, and it was widely hailed as a flagship app for the medium."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ASUS has stopped producing the NVIDIA RTX 5070 Ti and 5060 Ti 16GB, saying they've reached 'end of life'",
+            "link": "https://www.engadget.com/gaming/pc/asus-has-stopped-producing-the-nvidia-rtx-5070-ti-and-5060-ti-16gb-saying-theyve-reached-end-of-life-162012253.html",
+            "site_name": "Engadget",
+            "novelty_hash": "04190c6ee98d0e48d08db7861e00b0df2d95d241"
+          },
+          "review": {
+            "headline_rewrite": "ASUS has stopped producing the NVIDIA RTX 5070 Ti and 5060 Ti 16GB, saying they've reached 'end of life'",
+            "bullets": [
+              "Hardware Unboxed also spoke to retailers in Australia, who told the channel the 5070 Ti is “no longer available to purchase from partners and distributors,” adding they expect that to be the case throughout at least the first quarter of the year.",
+              "Both GPUs are 16GB models, making them more expensive to manufacture in the current economic climate.",
+              "“Demand for GeForce RTX GPUs is strong, and memory supply is constrained.",
+              "We continue to ship all GeForce SKUs and are working closely with our suppliers to maximize memory availability,” a NVIDIA spokesperson told Engadget.",
+              "“ASUS did not tell us that NVIDIA said the RTX 5070 Ti has been discontinued.",
+              "ASUS told us there is very little supply of the 5070 Ti, so their own 5070 Ti products (e.g, the Prime and TUF Gaming) have been put into end of life status,” the channel said."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
