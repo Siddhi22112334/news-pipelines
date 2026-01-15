@@ -62148,5 +62148,127 @@
         }
       ]
     }
+  },
+  "2026-01-16": {
+    "runs": {
+      "00:19": [
+        {
+          "item": {
+            "title": "Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.",
+            "link": "https://blog.google/products/ads-commerce/campaign-total-budgets/",
+            "site_name": "Google",
+            "novelty_hash": "93e45d0b25d545e2f0b0bc006d9091fc6ee39bb5"
+          },
+          "review": {
+            "headline_rewrite": "Campaign total budgets are now available in Search, Performance Max and Shopping campaigns.",
+            "bullets": [
+              "Managing budgets for specific campaign flights — like product launches, sales events or promotional bursts — shouldn't require constant manual adjustments.",
+              "Campaign total budgets are now available in open beta for Search, Performance Max and Shopping campaigns, allowing you to set the budget you want over a specific period of time from a few days to a few weeks.",
+              "Instead of making daily manual tweaks to keep pace, campaign total budgets optimize your spend and aim to fully and effectively utilize your budget by your end date.",
+              "Whether you’re running a 72-hour test or a month-long activation, you can launch with confidence knowing you won’t overspend or miss out on opportunities.",
+              "Your campaign will stay on track for your budget goals without the need for daily maintenance.",
+              "Escentual.com, a UK-based online beauty retailer, noticed their ads weren’t serving as much as they wanted to during promotions and underutilizing their budget."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TranslateGemma: A new suite of open translation models",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/",
+            "site_name": "Google",
+            "novelty_hash": "68277c208eb3493f60a54a80abded5792b9ca48a"
+          },
+          "review": {
+            "headline_rewrite": "TranslateGemma: A new suite of open translation models",
+            "bullets": [
+              "TranslateGemma: A new suite of open translation models\nToday, we're introducing TranslateGemma, a new collection of open translation models built on Gemma 3, available in 4B, 12B, and 27B parameter sizes.",
+              "Through our specialized training process, the 12B TranslateGemma model outperforms the Gemma 3 27B baseline as measured using MetricX on the WMT24++ benchmark.",
+              "Unprecedented language coverage\nWe have rigorously trained and evaluated TranslateGemma on 55 language pairs, ensuring reliable, high-quality performance across major languages (such as Spanish, French, Chinese, and Hindi) as well as many low-resource languages.",
+              "Beyond these core languages, we pushed the boundaries by training on nearly 500 additional language pairs.",
+              "We designed TranslateGemma to serve as a robust foundation for further adaptation, making it an ideal starting point for researchers to fine-tune their own state-of-the-art models for specific language pairs or to improve quality for low-resource languages.",
+              "Strong multimodal capabilities\nTranslateGemma models retain the strong multimodal capabilities of Gemma 3."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
+            "link": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "121cdf794e89e0da46fed79ecae35722830f0c9d"
+          },
+          "review": {
+            "headline_rewrite": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
+            "bullets": [
+              "After months of rumors that the Trump administration was going to impose tariffs on semiconductors, a tariff has been announced for some chips.",
+              "The tariff only applies to certain semiconductors, including the Nvidia H200 advanced AI chips set to ship to China.",
+              "President Donald Trump signed a proclamation on Wednesday that entailed a 25% tariff on advanced AI semiconductors that have been produced outside the U.S.",
+              "Department of Commerce’s decision to give Nvidia the green light to start shipping its H200 advanced AI chips to vetted customers in China in December.",
+              "It also includes chips from other companies, including the AMD MI325X.",
+              "In spite of the tariffs, Nvidia publicly cheered the move, which allows it to sell the chip to approved customers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
+            "link": "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f88fb278f73434c4cef39a31410907d262262af6"
+          },
+          "review": {
+            "headline_rewrite": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
+            "bullets": [
+              "Mater said that the current shutdown in Iran is the third longest on record, after the internet shutdown in Sudan in mid-2021 that lasted around 35 days, followed by the outage in Mauritania in July 2024, which lasted 22 days.",
+              "“Iran’s shutdowns remain among the most comprehensive and tightly enforced nationwide blackouts we’ve observed, particularly in terms of population affected,” Mater told TechCrunch.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+              "Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge.",
+              "government’s sanctions against Iran to “increase support for internet freedom,” and allow U.S.",
+              "On Wednesday, however, Trump said he had information that “the killing has stopped and the executions won’t take place,” but conceded that, “who knows?”\nMeanwhile, the United Kingdom shuttered its embassy in Iran’s capital Tehran and evacuated its staff."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "An OpenAI safety research lead departed for Anthropic",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone",
+            "site_name": "The Verge",
+            "novelty_hash": "1bc6089b934e2ac9cd827d1ea0cfc5d97155e8c9"
+          },
+          "review": {
+            "headline_rewrite": "An OpenAI safety research lead departed for Anthropic",
+            "bullets": [
+              "One of the most controversial issues in the AI industry over the past year was what to do when a user displays signs of mental health struggles in a chatbot conversation.",
+              "OpenAI’s head of that type of safety research, Andrea Vallone, has now joined Anthropic.",
+              "An OpenAI safety research lead departed for Anthropic\nAndrea Vallone has joined Anthropic’s alignment team.",
+              "”Over the past year, I led OpenAI’s research on a question with almost no established precedents: how should models respond when confronted with signs of emotional over-reliance or early indications of mental health distress?” Vallone wrote in a LinkedIn post a couple of months ago.",
+              "Vallone, who spent three years at OpenAI and built out the “model policy” research team there, worked on how to best deploy GPT-4, OpenAI’s reasoning models, and GPT-5, as well as developing training processes for some of the AI industry’s most popular safety techniques, such as rule-based rewards.",
+              "Now, she’s joined the alignment team at Anthropic, a group tasked with understanding AI models’ biggest risks and how to address them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon is buying copper harvested by bacteria for its data centers",
+            "link": "https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers",
+            "site_name": "The Verge",
+            "novelty_hash": "a4dd94c140017d908b7467d62397971f726450c6"
+          },
+          "review": {
+            "headline_rewrite": "Amazon is buying copper harvested by bacteria for its data centers",
+            "bullets": [
+              "AWS will also be providing “cloud-based data and analytics support,” helping to optimize Nuton’s mining process.",
+              "The AI boom is driving up demand and prices for copper, which is vital for making chips and data centers."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
