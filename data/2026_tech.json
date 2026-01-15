@@ -62740,6 +62740,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:52": [
+        {
+          "item": {
+            "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+            "link": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "93f11093dff53d657a22e3f0d5b844837b707a60"
+          },
+          "review": {
+            "headline_rewrite": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+            "bullets": [
+              "Through an extension to its previous $50 million Series A round that closed in September, AI video generation startup Higgsfield has sold another $80 million worth of stock, bringing its total Series A to $130 million.",
+              "Higgsfield offers a tool that allows consumers, creators, and social media teams to create and edit AI-generated videos.",
+              "The company was founded by Alex Mashrabov, former head of Generative AI at Snap, who landed at the company after it bought his previous startup, AI Factory, in 2020 for $166 million.",
+              "Mashrabov was a co-founder of AI Factory.",
+              "Five months after Higgsfield launched its tool, it touted 11 million users and said it was a platform of choice for content creators.",
+              "The startup believes this puts it in rarified growth terrain, outpacing companies like Lovable, Cursor, OpenAI, Slack, and Zoom, according to its press release."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
+            "link": "https://www.theverge.com/news/862938/us-taiwan-chipmaking-deal-250-billion-investment-tsmc",
+            "site_name": "The Verge",
+            "novelty_hash": "693c805b22699cb88720abfe9c02ccbefa2eb54f"
+          },
+          "review": {
+            "headline_rewrite": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
+            "bullets": [
+              "The US just lowered Taiwan’s tariffs in exchange for a massive domestic chipmaking promise, the Commerce Department announced on Thursday.",
+              "Under the deal, tariffs on goods from Taiwan will decrease from 20 to 15 percent, while Taiwanese technology companies will invest $250 billion into building and expanding chipmaking facilities in the US, supported by at least $250 billion in credit offered by Taiwan’s government.",
+              "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing\nTaiwanese technology companies will invest billions into the US in exchange for a lower 15 percent tariff rate.",
+              "Last year, President Donald Trump threatened to impose a 100 percent tariff on chips and semiconductors not made in the US, something that Commerce Secretary Howard Lutnick tells CNBC is still on the table.",
+              "Trump also began imposing a 25 percent tariff that will allow the US government to take a cut of Nvidia and AMD’s advanced AI chip sales in China.",
+              "The deal also states that Taiwanese companies building US-based chipmaking factories can import up to 2.5 times the planned capacity without paying extra tariffs “during the approved construction period.” Once construction is complete, the companies can import 1.5 times their US production capacity, tariff-free."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+            "link": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8292320b76acd4fac10e5dda642d39fd683c7655"
+          },
+          "review": {
+            "headline_rewrite": "Taiwan to invest $250B in US semiconductor manufacturing",
+            "bullets": [
+              "The Trump administration signed a notable multi-billion-dollar trade deal with Taiwan that’s designed to help the United States boost domestic semiconductor manufacturing.",
+              "Department of Commerce on Thursday, Taiwanese semiconductor and tech companies have agreed to make direct investments of $250 billion into the U.S.",
+              "semiconductor industry.",
+              "These investments will span across semiconductors, energy and AI “production and innovation,” according to a press release.",
+              "Taiwan currently produces more than half of the world’s semiconductors.",
+              "Taiwan will also supply an additional $250 billion in credit guarantees for additional investments from these semiconductors and tech enterprises, according to the commerce department."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Inside OpenAI’s Raid on Thinking Machines Lab",
+            "link": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+            "site_name": "WIRED",
+            "novelty_hash": "3d4c85d1f4ec8eeac0346f589e5a530380cbf011"
+          },
+          "review": {
+            "headline_rewrite": "Inside OpenAI’s Raid on Thinking Machines Lab",
+            "bullets": [
+              "If someone ever makes an HBO Max series about the AI industry, the events of this week will make quite the episode.",
+              "On Wednesday, OpenAI’s CEO of applications, Fidji Simo, announced the company had rehired Barret Zoph and Luke Metz, cofounders of Mira Murati’s AI startup, Thinking Machines Lab.",
+              "Zoph and Metz had left OpenAI in late 2024.",
+              "That incident broke Murati’s trust, the source says, and disrupted the pair’s working relationship.",
+              "The source also alleged Murati fired Zoph on Wednesday—before knowing he was going to OpenAI—due to what the company claimed were issues that arose after the alleged misconduct.",
+              "Around the time the company learned that Zoph was returning to OpenAI, Thinking Machines raised concerns internally about whether he had shared confidential information with competitors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s New World: Aeternum MMO will shut down next year",
+            "link": "https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted",
+            "site_name": "The Verge",
+            "novelty_hash": "62e6e39be3cda7b9f4d5e5480ca64e46c1f6cf07"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s New World: Aeternum MMO will shut down next year",
+            "bullets": [
+              "The game will also be delisted and no longer available for purchase starting today, January 15th.",
+              "Last year, Amazon announced that it would be pivoting away from MMOs to put more of a focus on party games, and the company said at the time that it wouldn’t be releasing new content for New World: Aeternum and that the game’s servers would be active through 2026.",
+              "The Marks of Fortune in-game currency will be unavailable to purchase starting July 20th, 2026, and Amazon won’t offer refunds for it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
+            "link": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
+            "site_name": "WIRED",
+            "novelty_hash": "16121133aa87104a8af12ae2e301e93d7633230e"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
+            "bullets": [
+              "Elon Musk’s X has introduced new restrictions stopping people from editing and generating images of real people in bikinis or other “revealing clothing.” The change in policy on Wednesday night follows global outrage at Grok being used to generate thousands of harmful non-consensual “undressing” photos of women and sexualized images of apparent minors on X.",
+              "“We can still generate photorealistic nudity on Grok.com,” says Paul Bouchaud, the lead researcher at Paris-based nonprofit AI Forensics, who has been tracking the use of Grok to create sexualized images and ran multiple tests on Grok outside of X.",
+              "“We can generate nudity in ways that Grok on X cannot.”\nSince the start of the year, Musk’s businesses—including artificial intelligence firm xAI, X, and Grok—have all come under fire for the creation of non-consensual intimate imagery, explicit and graphic sexual videos, and sexualized imagery of apparent minors.",
+              "Officials in the United States, Australia, Brazil, Canada, the Europe Commission, France, India, Indonesia, Ireland, Malaysia, and the UK, have all condemned or launched investigations into X or Grok.",
+              "“We have implemented technological measures to prevent the Grok account from allowing the editing of images of real people in revealing clothing such as bikinis,” the account posted, adding that the rules apply to all users, including both free and paid subscribers.",
+              "In a section titled “Geoblock update,” the X account also claimed: “We now geoblock the ability of all users to generate images of real people in bikinis, underwear, and similar attire via the Grok account and in Grok in X in those jurisdictions where it’s illegal.” The company’s update also added that it is working to add additional safeguards and that it continues to “remove high-priority violative content, including Child Sexual Abuse Material (CSAM) and non-consensual nudity.”\nSpokespeople for xAI, which creates Grok, did not immediately reply to WIRED’s request for comment."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
