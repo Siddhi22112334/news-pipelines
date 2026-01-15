@@ -63099,6 +63099,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:19": [
+        {
+          "item": {
+            "title": "The AI lab revolving door spins ever faster",
+            "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f6b724bf6187b1f7ec104e3acf2f08566e90b2e7"
+          },
+          "review": {
+            "headline_rewrite": "The AI lab revolving door spins ever faster",
+            "bullets": [
+              "AI labs just can’t get their employees to stay put.",
+              "Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab.",
+              "All three were quickly snapped up by OpenAI, and now it seems they won’t be the last to leave.",
+              "Alex Heath is reporting that two more employees are expected to leave for OpenAI in the next few weeks.",
+              "Meanwhile, Anthropic continues to pull alignment researchers away from OpenAI.",
+              "The Verge is reporting that one of OpenAI’s senior safety research leads, Andrea Vallone, has left the company for Anthropic."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
+            "link": "https://www.theverge.com/news/862938/us-taiwan-chipmaking-deal-250-billion-investment-tsmc",
+            "site_name": "The Verge",
+            "novelty_hash": "693c805b22699cb88720abfe9c02ccbefa2eb54f"
+          },
+          "review": {
+            "headline_rewrite": "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing",
+            "bullets": [
+              "The US just lowered Taiwan’s tariffs in exchange for a massive domestic chipmaking promise, the Commerce Department announced on Thursday.",
+              "Under the deal, tariffs on goods from Taiwan will decrease from 20 to 15 percent, while Taiwanese technology companies will invest $250 billion into building and expanding chipmaking facilities in the US, supported by at least $250 billion in credit offered by Taiwan’s government.",
+              "The US claims it just strongarmed Taiwan into spending $250 billion on American chip manufacturing\nTaiwanese technology companies will invest billions into the US in exchange for a lower 15 percent tariff rate.",
+              "Last year, President Donald Trump threatened to impose a 100 percent tariff on chips and semiconductors not made in the US, something that Commerce Secretary Howard Lutnick tells CNBC is still on the table.",
+              "Trump also began imposing a 25 percent tariff that will allow the US government to take a cut of Nvidia and AMD’s advanced AI chip sales in China.",
+              "The deal also states that Taiwanese companies building US-based chipmaking factories can import up to 2.5 times the planned capacity without paying extra tariffs “during the approved construction period.” Once construction is complete, the companies can import 1.5 times their US production capacity, tariff-free."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Taiwan to invest $250B in US semiconductor manufacturing",
+            "link": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "469e922d913557106356f2d294aff96afd243795"
+          },
+          "review": {
+            "headline_rewrite": "Taiwan to invest $250B in US semiconductor manufacturing",
+            "bullets": [
+              "The Trump administration signed a notable multibillion-dollar trade deal with Taiwan that’s designed to help the United States boost domestic semiconductor manufacturing.",
+              "Department of Commerce on Thursday, Taiwanese semiconductor and tech companies have agreed to make direct investments of $250 billion into the U.S.",
+              "semiconductor industry.",
+              "These investments will span across semiconductors, energy, and AI “production and innovation,” according to a press release.",
+              "Taiwan currently produces more than half of the world’s semiconductors.",
+              "Taiwan will also supply an additional $250 billion in credit guarantees for additional investments from these semiconductors and tech enterprises, according to the commerce department."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app",
+            "link": "https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control",
+            "site_name": "The Verge",
+            "novelty_hash": "1f14b801f14697f00a855c91ae86d41c11693c5f"
+          },
+          "review": {
+            "headline_rewrite": "Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app",
+            "bullets": [
+              "The newly-launched wristband costs $129.99 and syncs with the Natural Cycles app, which uses an algorithm to determine a person’s “daily fertility status.”\nNatural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app\nThe company behind the controversial app launched a wristband that tracks your temperature, heart rate, and movement while you sleep.",
+              "Users can already track their fertility by pairing an Apple Watch or Oura Ring with Natural Cycles, but the wristband could be an option for users who don’t have either of these devices handy.",
+              "Natural Cycles initially offered a basal thermometer with its annual plan (or available separately for $14.50) so users could take their temperatures manually.",
+              "Hanafin says the company received authorization from the FDA to start using other temperature-tracking wearables without requiring additional approval, allowing it to launch the new wristband.",
+              "Wade, but the Electronic Frontier Foundation notes that while users should review the security and privacy protections of the app they choose, they aren’t an “immediate threat” to abortion-seekers.",
+              "Natural Cycles says it uses pseudonymization and encryption to conceal your information, while its band only collects data that’s “necessary.”\nNatural Cycles first introduced its wristband to “select” people as part of the launch of its perimenopause feature in October."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Inside OpenAI’s Raid on Thinking Machines Lab",
+            "link": "https://www.wired.com/story/inside-openai-raid-on-thinking-machines-lab/",
+            "site_name": "WIRED",
+            "novelty_hash": "3d4c85d1f4ec8eeac0346f589e5a530380cbf011"
+          },
+          "review": {
+            "headline_rewrite": "Inside OpenAI’s Raid on Thinking Machines Lab",
+            "bullets": [
+              "If someone ever makes an HBO Max series about the AI industry, the events of this week will make quite the episode.",
+              "On Wednesday, OpenAI’s CEO of applications, Fidji Simo, announced the company had rehired Barret Zoph and Luke Metz, cofounders of Mira Murati’s AI startup, Thinking Machines Lab.",
+              "Zoph and Metz had left OpenAI in late 2024.",
+              "That incident broke Murati’s trust, the source says, and disrupted the pair’s working relationship.",
+              "The source also alleged Murati fired Zoph on Wednesday—before knowing he was going to OpenAI—due to what the company claimed were issues that arose after the alleged misconduct.",
+              "Around the time the company learned that Zoph was returning to OpenAI, Thinking Machines raised concerns internally about whether he had shared confidential information with competitors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity",
+            "link": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2ee150b4c62d4ad2ddd4087ef0a3b16dbaf74ce0"
+          },
+          "review": {
+            "headline_rewrite": "Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity",
+            "bullets": [
+              "The New York Times has published new details about a purported cyberattack that unnamed US officials claim plunged parts of Venezuela into darkness in the lead-up to the capture of the country’s president, Nicolás Maduro.",
+              "Key among the new details is that the cyber operation was able to turn off electricity for most residents in the capital city of Caracas for only a few minutes, though in some neighborhoods close to the military base where Maduro was seized, the outage lasted for three days.",
+              "The paper said the US Cyber Command was involved.",
+              "Got more details?",
+              "The NYT provided few additional details.",
+              "When Russia took out electricity in December 2015, for instance, it used general-purpose malware known as BlackEnergy to first penetrate the corporate networks of the targeted power companies and then further encroach into the supervisory control and data acquisition systems the companies used to generate and transmit electricity."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
