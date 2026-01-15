@@ -63221,6 +63221,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:51": [
+        {
+          "item": {
+            "title": "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads",
+            "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-x8i-instances-powered-by-custom-intel-xeon-6-processors-are-generally-available-for-memory-intensive-workloads/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "b9bf8fcede10e1208cc2dc96cf825227e160627e"
+          },
+          "review": {
+            "headline_rewrite": "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads",
+            "bullets": [
+              "Amazon EC2 X8i instances powered by custom Intel Xeon 6 processors are generally available for memory-intensive workloads\nSince a preview launch at AWS re:Invent 2025, we’re announcing the general availability of new memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X8i instances.",
+              "These instances are powered by custom Intel Xeon 6 processors with a sustained all-core turbo frequency of 3.9 GHz, available only on AWS.",
+              "These SAP certified instances deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud.",
+              "These instances offer up to 43% higher performance compared to X2i instances, with higher gains on some of the real-world workloads.",
+              "They deliver up to 50% higher SAP Application Performance Standard (SAPS) performance, up to 47% faster PostgreSQL performance, up to 88% faster Memcached performance, and up to 46% faster AI inference performance.",
+              "Orion reduced the number of active cores on X8i instances compared to X2idn instances while maintaining performance thresholds, cutting SQL Server licensing costs by 50%."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The AI lab revolving door spins ever faster",
+            "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f6b724bf6187b1f7ec104e3acf2f08566e90b2e7"
+          },
+          "review": {
+            "headline_rewrite": "The AI lab revolving door spins ever faster",
+            "bullets": [
+              "AI labs just can’t get their employees to stay put.",
+              "Yesterday’s big AI news was the abrupt and seemingly acrimonious departure of three top executives at Mira Murati’s Thinking Machines lab.",
+              "All three were quickly snapped up by OpenAI, and now it seems they won’t be the last to leave.",
+              "Alex Heath is reporting that two more employees are expected to leave for OpenAI in the next few weeks.",
+              "Meanwhile, Anthropic continues to pull alignment researchers away from OpenAI.",
+              "The Verge is reporting that one of OpenAI’s senior safety research leads, Andrea Vallone, has left the company for Anthropic."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app",
+            "link": "https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control",
+            "site_name": "The Verge",
+            "novelty_hash": "1f14b801f14697f00a855c91ae86d41c11693c5f"
+          },
+          "review": {
+            "headline_rewrite": "Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app",
+            "bullets": [
+              "The newly-launched wristband costs $129.99 and syncs with the Natural Cycles app, which uses an algorithm to determine a person’s “daily fertility status.”\nNatural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app\nThe company behind the controversial app launched a wristband that tracks your temperature, heart rate, and movement while you sleep.",
+              "Users can already track their fertility by pairing an Apple Watch or Oura Ring with Natural Cycles, but the wristband could be an option for users who don’t have either of these devices handy.",
+              "Natural Cycles initially offered a basal thermometer with its annual plan (or available separately for $14.50) so users could take their temperatures manually.",
+              "Hanafin says the company received authorization from the FDA to start using other temperature-tracking wearables without requiring additional approval, allowing it to launch the new wristband.",
+              "Wade, but the Electronic Frontier Foundation notes that while users should review the security and privacy protections of the app they choose, they aren’t an “immediate threat” to abortion-seekers.",
+              "Natural Cycles says it uses pseudonymization and encryption to conceal your information, while its band only collects data that’s “necessary.”\nNatural Cycles first introduced its wristband to “select” people as part of the launch of its perimenopause feature in October."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Dave Filoni takes charge of Star Wars as new president of Lucasfilm",
+            "link": "https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars",
+            "site_name": "The Verge",
+            "novelty_hash": "d4d8c9a1052071395fd1831d3e3203556fd62911"
+          },
+          "review": {
+            "headline_rewrite": "Dave Filoni takes charge of Star Wars as new president of Lucasfilm",
+            "bullets": [
+              "“My love of storytelling was shaped by the films of Kathleen Kennedy and George Lucas,” Filoni said in a statement.",
+              "From Rey to Grogu, Kathy has overseen the greatest expansion in Star Wars storytelling onscreen that we have ever seen.“\n“It has been a true privilege to spend more than a decade working alongside the extraordinary talent at Lucasfilm,” she said in a statement."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity",
+            "link": "https://arstechnica.com/security/2026/01/unnamed-officials-tell-nyt-precise-cyber-op-took-out-venezuelas-power-grid/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2ee150b4c62d4ad2ddd4087ef0a3b16dbaf74ce0"
+          },
+          "review": {
+            "headline_rewrite": "Why I’m withholding certainty that “precise” US cyber-op disrupted Venezuelan electricity",
+            "bullets": [
+              "The New York Times has published new details about a purported cyberattack that unnamed US officials claim plunged parts of Venezuela into darkness in the lead-up to the capture of the country’s president, Nicolás Maduro.",
+              "Key among the new details is that the cyber operation was able to turn off electricity for most residents in the capital city of Caracas for only a few minutes, though in some neighborhoods close to the military base where Maduro was seized, the outage lasted for three days.",
+              "The paper said the US Cyber Command was involved.",
+              "Got more details?",
+              "The NYT provided few additional details.",
+              "When Russia took out electricity in December 2015, for instance, it used general-purpose malware known as BlackEnergy to first penetrate the corporate networks of the targeted power companies and then further encroach into the supervisory control and data acquisition systems the companies used to generate and transmit electricity."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta’s Layoffs Leave Supernatural Fitness Users in Mourning",
+            "link": "https://www.wired.com/story/metas-layoffs-supernatural-fitness-users/",
+            "site_name": "WIRED",
+            "novelty_hash": "5180ac8ff29e420263237c2adf66bda8d38172b3"
+          },
+          "review": {
+            "headline_rewrite": "Meta’s Layoffs Leave Supernatural Fitness Users in Mourning",
+            "bullets": [
+              "My fists flail, punching the air as sweat drips from my VR headset.",
+              "We’re breaking in, shaping up.",
+              "My new friends have nameplates floating above their heads that say Chip and Alisa.",
+              "“We’re all in this together.”\n”I always say,” Chip says, “if I miss ’em, as long as I swung at ’em I’m still getting a workout,”\nHis avatar gives me a high five.",
+              "All Systems Go\nSupernatural is a virtual reality fitness subscription service available on Meta Quest headsets.",
+              "Released in 2020, Supernatural was consistently one of the best-performing apps in Meta’s VR app store, and it was widely hailed as a flagship app for the medium."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }

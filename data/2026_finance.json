@@ -28008,7 +28008,45 @@
       ],
       "03:15": [],
       "03:52": [],
-      "04:19": []
+      "04:19": [],
+      "04:51": [
+        {
+          "item": {
+            "title": "Wall Street rises, led by chip stocks after TSMC blockbuster earnings, Nvidia surges 3%, BlackRock soars 4.5%",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-rises-led-by-chip-stocks-after-tsmc-blockbuster-earnings-11768488252483.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street rises, led by chip stocks after TSMC blockbuster earnings, Nvidia surges 3%, BlackRock soars 4.5%",
+            "bullets": [
+              "In the bond market, the yield on the 10-year Treasury climbed to 4.14% from 4.12%.",
+              "US-listed shares of Taiwan Semiconductor Manufacturing Co., a major chip supplier to the industry, jumped 3.7% after the company reported a stronger profit for",
+              "BlackRock stock soared 4.5% after the company posted better than expected quarterly profit and revenue.",
+              "Morgan Stanley shares climbed 3.4% after likewise delivering stronger profit and revenue than estimated."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "US yields higher after data flurry",
+            "link": "https://www.livemint.com/market/us-yields-higher-after-data-flurry-11768505510487.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US yields higher after data flurry",
+            "bullets": [
+              "* Weekly jobless claims stronger than expected US import prices rise Goolsbee says Fed should focus on inflation (Updates to afternoon US trading) By",
+              "Treasury yields were mostly higher on Thursday, after a round of economic data came in stronger than expected, slightly denting expectations the Federal Reserve",
+              "So there are likely scenarios where the Fed wouldn't cut this year.\" The yield on the benchmark U.S.",
+              "The yield on the 30-year bond slipped 0.8 basis point to 4.787%."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
