@@ -62268,6 +62268,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:55": [
+        {
+          "item": {
+            "title": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
+            "link": "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f88fb278f73434c4cef39a31410907d262262af6"
+          },
+          "review": {
+            "headline_rewrite": "Iran’s internet shutdown is now one of its longest ever, as protests continue",
+            "bullets": [
+              "Mater said that the current shutdown in Iran is the third longest on record, after the internet shutdown in Sudan in mid-2021 that lasted around 35 days, followed by the outage in Mauritania in July 2024, which lasted 22 days.",
+              "“Iran’s shutdowns remain among the most comprehensive and tightly enforced nationwide blackouts we’ve observed, particularly in terms of population affected,” Mater told TechCrunch.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+              "Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge.",
+              "government’s sanctions against Iran to “increase support for internet freedom,” and allow U.S.",
+              "On Wednesday, however, Trump said he had information that “the killing has stopped and the executions won’t take place,” but conceded that, “who knows?”\nMeanwhile, the United Kingdom shuttered its embassy in Iran’s capital Tehran and evacuated its staff."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple lost the AI race — now the real challenge starts",
+            "link": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
+            "site_name": "The Verge",
+            "novelty_hash": "809c1cda30a37f72c841f08c84c881e3b48e0cfa"
+          },
+          "review": {
+            "headline_rewrite": "Apple lost the AI race — now the real challenge starts",
+            "bullets": [
+              "For an AI loser, Apple did an awful lot of winning last year.",
+              "Apple lost the AI race — now the real challenge starts\nIt’s time to turn Apple Intelligence into something people actually care about.",
+              "With this week’s news that it’ll use Gemini models to power the long-awaited smarter Siri, Apple seems to have taken a big ‘ol L in the whole AI race.",
+              "Apple execs admitted they had gone back to the drawing board, people in charge were shuffled around, and it all looked like a big failure on Apple’s part.",
+              "Meanwhile, Apple Intelligence is much less prominent in the iPhone 17’s marketing than it was with the 16; you have to scroll halfway down the iPhone 17’s product page before you get to the first mention.",
+              "The stalling tactic worked, but these days investors break out in hives if you don’t mention AI every five minutes."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "An OpenAI safety research lead departed for Anthropic",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/862402/openai-safety-lead-model-policy-departs-for-anthropic-alignment-andrea-vallone",
+            "site_name": "The Verge",
+            "novelty_hash": "1bc6089b934e2ac9cd827d1ea0cfc5d97155e8c9"
+          },
+          "review": {
+            "headline_rewrite": "An OpenAI safety research lead departed for Anthropic",
+            "bullets": [
+              "One of the most controversial issues in the AI industry over the past year was what to do when a user displays signs of mental health struggles in a chatbot conversation.",
+              "OpenAI’s head of that type of safety research, Andrea Vallone, has now joined Anthropic.",
+              "An OpenAI safety research lead departed for Anthropic\nAndrea Vallone has joined Anthropic’s alignment team.",
+              "”Over the past year, I led OpenAI’s research on a question with almost no established precedents: how should models respond when confronted with signs of emotional over-reliance or early indications of mental health distress?” Vallone wrote in a LinkedIn post a couple of months ago.",
+              "Vallone, who spent three years at OpenAI and built out the “model policy” research team there, worked on how to best deploy GPT-4, OpenAI’s reasoning models, and GPT-5, as well as developing training processes for some of the AI industry’s most popular safety techniques, such as rule-based rewards.",
+              "Now, she’s joined the alignment team at Anthropic, a group tasked with understanding AI models’ biggest risks and how to address them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Many Bluetooth devices with Google Fast Pair vulnerable to “WhisperPair” hack",
+            "link": "https://arstechnica.com/gadgets/2026/01/researchers-reveal-whisperpair-attack-to-eavesdrop-on-google-fast-pair-headphones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "75c04c2609424c5e4d3d2703ccd56d6c9a3ae413"
+          },
+          "review": {
+            "headline_rewrite": "Many Bluetooth devices with Google Fast Pair vulnerable to “WhisperPair” hack",
+            "bullets": [
+              "Pairing Bluetooth devices can be a pain, but Google Fast Pair makes it almost seamless.",
+              "A team of security researchers from Belgium’s KU Leuven University has revealed a vulnerability dubbed WhisperPair that allows an attacker to hijack Fast Pair-enabled devices to spy on the owner.",
+              "Fast Pair is widely used, and your device may be vulnerable even if you’ve never used a Google product.",
+              "A full list of vulnerable devices is available on the project’s website.",
+              "The researchers say that it takes only a moment to gain control of a vulnerable Fast Pair device (a median of just 10 seconds) at ranges up to 14 meters.",
+              "However, WhisperPair also allows for location tracking and microphone access."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Are people avoiding iOS 26 because of Liquid Glass? It’s complicated.",
+            "link": "https://arstechnica.com/gadgets/2026/01/are-people-avoiding-ios-26-because-of-liquid-glass-its-complicated/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2c6c18a5e39c7011920eb2050521e460ecefe717"
+          },
+          "review": {
+            "headline_rewrite": "Are people avoiding iOS 26 because of Liquid Glass? It’s complicated.",
+            "bullets": [
+              "The new update, these reports claim, was being installed at dramatically lower rates than past iOS updates.",
+              "The iOS 18.7 update alone—released at the same time as iOS 26.0 in September for people who wanted the security patches but weren’t ready to step up to a brand-new OS—appears to be running on nearly one-third of all iOS devices."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
+            "link": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
+            "site_name": "WIRED",
+            "novelty_hash": "00ab21c3643b14e9b95892e320abf5f5a14d49b0"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
+            "bullets": [
+              "On Thursday, OpenAI announced its investment in neurotech startup Merge Labs, cofounded by its CEO, billionaire Sam Altman.",
+              "OpenAI will collaborate with the new venture to develop technology to link people’s brains to computers.",
+              "Merge Labs has raised $252 million in funding from OpenAI, private investment firm Bain Capital, video game developer Gabe Newell, and others to use ultrasound to read and modulate the brain.",
+              "Merge joins a growing number of companies, including Elon Musk’s Neuralink, that are developing brain-computer interface technology.",
+              "Altman previously invested in Musk’s Neuralink, which has raised $1.3 billion.",
+              "In contrast to Neuralink, Merge says it will not implant its technology in the brain."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
