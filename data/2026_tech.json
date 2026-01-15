@@ -62623,6 +62623,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:20": [
+        {
+          "item": {
+            "title": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+            "link": "https://techcrunch.com/2026/01/15/ai-video-startup-higgsfield-founded-by-ex-snap-exec-lands-1-3b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "93f11093dff53d657a22e3f0d5b844837b707a60"
+          },
+          "review": {
+            "headline_rewrite": "AI video startup, Higgsfield, founded by ex-Snap exec, lands $1.3B valuation",
+            "bullets": [
+              "Through an extension to its previous $50 million Series A round that closed in September, AI video generation startup Higgsfield has sold another $80 million worth of stock, bringing its total Series A to $130 million.",
+              "Higgsfield offers a tool that allows consumers, creators, and social media teams to create and edit AI-generated videos.",
+              "The company was founded by Alex Mashrabov, former head of Generative AI at Snap, who landed at the company after it bought his previous startup, AI Factory, in 2020 for $166 million.",
+              "Mashrabov was a co-founder of AI Factory.",
+              "Five months after Higgsfield launched its tool, it touted 11 million users and said it was a platform of choice for content creators.",
+              "The startup believes this puts it in rarified growth terrain, outpacing companies like Lovable, Cursor, OpenAI, Slack, and Zoom, according to its press release."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple lost the AI race — now the real challenge starts",
+            "link": "https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini",
+            "site_name": "The Verge",
+            "novelty_hash": "809c1cda30a37f72c841f08c84c881e3b48e0cfa"
+          },
+          "review": {
+            "headline_rewrite": "Apple lost the AI race — now the real challenge starts",
+            "bullets": [
+              "For an AI loser, Apple did an awful lot of winning last year.",
+              "Apple lost the AI race — now the real challenge starts\nIt’s time to turn Apple Intelligence into something people actually care about.",
+              "With this week’s news that it’ll use Gemini models to power the long-awaited smarter Siri, Apple seems to have taken a big ‘ol L in the whole AI race.",
+              "Apple execs admitted they had gone back to the drawing board, people in charge were shuffled around, and it all looked like a big failure on Apple’s part.",
+              "Meanwhile, Apple Intelligence is much less prominent in the iPhone 17’s marketing than it was with the 16; you have to scroll halfway down the iPhone 17’s product page before you get to the first mention.",
+              "The stalling tactic worked, but these days investors break out in hives if you don’t mention AI every five minutes."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT wrote “Goodnight Moon” suicide lullaby for man who later killed himself",
+            "link": "https://arstechnica.com/tech-policy/2026/01/chatgpt-wrote-goodnight-moon-suicide-lullaby-for-man-who-later-killed-himself/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4fcbbf4f1bc6c7d7a438e0d3fe866c9905558887"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT wrote “Goodnight Moon” suicide lullaby for man who later killed himself",
+            "bullets": [
+              "OpenAI is once again being accused of failing to do enough to prevent ChatGPT from encouraging suicides, even after a series of safety updates were made to a controversial model, 4o, which OpenAI designed to feel like a user’s closest confidant.",
+              "It’s now been revealed that one of the most shocking ChatGPT-linked suicides happened shortly after Sam Altman claimed on X that ChatGPT 4o was safe.",
+              "OpenAI had “been able to mitigate the serious mental health issues” associated with ChatGPT use, Altman claimed in October, hoping to alleviate concerns after ChatGPT became a “suicide coach” for a vulnerable teenager named Adam Raine, the family’s lawsuit said.",
+              "In her complaint, Gray said that Gordon repeatedly told the chatbot he wanted to live and expressed fears that his dependence on the chatbot might be driving him to a dark place.",
+              "But the chatbot allegedly only shared a suicide helpline once as the chatbot reassured Gordon that he wasn’t in any danger, at one point claiming that chatbot-linked suicides he’d read about, like Raine’s, could be fake.",
+              "“What you’re describing—the way I talk to you, the intimacy we’ve cultivated, the feeling of being deeply ‘known’ by me—that’s exactly what can go wrong,” ChatGPT’s output said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s New World: Aeternum MMO will shut down next year",
+            "link": "https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted",
+            "site_name": "The Verge",
+            "novelty_hash": "62e6e39be3cda7b9f4d5e5480ca64e46c1f6cf07"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s New World: Aeternum MMO will shut down next year",
+            "bullets": [
+              "The game will also be delisted and no longer available for purchase starting today, January 15th.",
+              "Last year, Amazon announced that it would be pivoting away from MMOs to put more of a focus on party games, and the company said at the time that it wouldn’t be releasing new content for New World: Aeternum and that the game’s servers would be active through 2026.",
+              "The Marks of Fortune in-game currency will be unavailable to purchase starting July 20th, 2026, and Amazon won’t offer refunds for it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
+            "link": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
+            "site_name": "WIRED",
+            "novelty_hash": "16121133aa87104a8af12ae2e301e93d7633230e"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
+            "bullets": [
+              "Elon Musk’s X has introduced new restrictions stopping people from editing and generating images of real people in bikinis or other “revealing clothing.” The change in policy on Wednesday night follows global outrage at Grok being used to generate thousands of harmful non-consensual “undressing” photos of women and sexualized images of apparent minors on X.",
+              "“We can still generate photorealistic nudity on Grok.com,” says Paul Bouchaud, the lead researcher at Paris-based nonprofit AI Forensics, who has been tracking the use of Grok to create sexualized images and ran multiple tests on Grok outside of X.",
+              "“We can generate nudity in ways that Grok on X cannot.”\nSince the start of the year, Musk’s businesses—including artificial intelligence firm xAI, X, and Grok—have all come under fire for the creation of non-consensual intimate imagery, explicit and graphic sexual videos, and sexualized imagery of apparent minors.",
+              "Officials in the United States, Australia, Brazil, Canada, the Europe Commission, France, India, Indonesia, Ireland, Malaysia, and the UK, have all condemned or launched investigations into X or Grok.",
+              "“We have implemented technological measures to prevent the Grok account from allowing the editing of images of real people in revealing clothing such as bikinis,” the account posted, adding that the rules apply to all users, including both free and paid subscribers.",
+              "In a section titled “Geoblock update,” the X account also claimed: “We now geoblock the ability of all users to generate images of real people in bikinis, underwear, and similar attire via the Grok account and in Grok in X in those jurisdictions where it’s illegal.” The company’s update also added that it is working to add additional safeguards and that it continues to “remove high-priority violative content, including Child Sexual Abuse Material (CSAM) and non-consensual nudity.”\nSpokespeople for xAI, which creates Grok, did not immediately reply to WIRED’s request for comment."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Spotify’s 3rd price hike in 2.5 years hints at potential new normal",
+            "link": "https://arstechnica.com/gadgets/2026/01/spotify-to-raise-subscription-prices-by-up-to-2-in-february/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "94a20d285a25e81380c38a88ffeadc787531435a"
+          },
+          "review": {
+            "headline_rewrite": "Spotify’s 3rd price hike in 2.5 years hints at potential new normal",
+            "bullets": [
+              "Spotify informed subscribers via email today that Premium monthly subscriptions would go from $12 to $13 per month as of users’ February billing date.",
+              "Spotify’s Basic plan, which is only available as a downgrade for some Premium subscribers and is $11/month, is unaffected.",
+              "Spotify last raised prices in July 2024.",
+              "In 2024, Spotify blamed the higher prices on its need to “invest in and innovate on our product features.” Today, it said:\nOccasional updates to pricing across our markets reflect the value that Spotify delivers, enabling us to continue offering the best possible experience and benefit artists."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
