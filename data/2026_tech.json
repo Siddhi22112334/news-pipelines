@@ -61087,6 +61087,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:13": [
+        {
+          "item": {
+            "title": "Learners and educators are AI’s new “super users”",
+            "link": "https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/",
+            "site_name": "Google",
+            "novelty_hash": "318d7639d9b28dd63aaec126cf56124b8fbbcfa8"
+          },
+          "review": {
+            "headline_rewrite": "Learners and educators are AI’s new “super users”",
+            "bullets": [
+              "Learners and educators are AI’s new “super users”\nFor the past three years, we’ve conducted the “Our Life with AI” study with Ipsos to measure how people around the world use AI.",
+              "Our most recent survey found something fascinating: for the first time, the top motivation for using AI is learning.",
+              "The survey, conducted late last year across 21 countries and 21,000 participants, reveals two firsts: that the majority of people in nearly every country surveyed say they use AI chatbots and, critically, that their motivation for using AI changed from curiosity to core utility.",
+              "Before this year, the top motivation for using AI was entertainment, but now 74% of users report using it to “learn something new” or “understand a complex topic.” People are moving from experimentation to real-world learning, and view AI for education with a different perspective.",
+              "Students, teachers and parents are using AI\n- 85% of students 18+ are using AI.",
+              "- 81% of teachers report using AI, far surpassing the global average (66% of the global public reports using an AI tool)."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "After Italy, WhatsApp excludes Brazil from rival chatbot ban",
+            "link": "https://techcrunch.com/2026/01/15/after-italy-whatsapp-excludes-brazil-from-rival-chatbot-ban/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "61c036da2c48af503eef2b55736d932de36fb135"
+          },
+          "review": {
+            "headline_rewrite": "After Italy, WhatsApp excludes Brazil from rival chatbot ban",
+            "bullets": [
+              "WhatsApp is allowing AI providers to continue offering their chatbots to users with Brazilian phone numbers, days after the country’s competition regulator ordered the company to suspend its new policy that bars third-party, general-purpose chatbots from being offered on the app via its business API.",
+              "Under the new policy, the company is providing a 90-day grace period starting January 15 to developers and AI providers, mandating them to cease responding to user queries on the chat app, and notify users that their chatbots won’t work on WhatsApp.",
+              "Now, Meta told developers that they don’t have to notify users with Brazilian phone numbers (with code +55) of any changes or cease offering their services, per a notice to AI providers seen by TechCrunch.",
+              "The policy, which goes into effect from today, impacts general-purpose chatbots like ChatGPT and Grok on the platform.",
+              "Notably, the policy does not stop businesses from providing customer service via bots within WhatsApp to their customers.",
+              "In its notice, Brazil’s competition agency said it would investigate if Meta’s terms are exclusionary to competitors and unduly favor Meta AI, the company’s chatbot that’s offered on WhatsApp."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests",
+            "link": "https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "898dfab2173cf966d5b3c788871a91e5defabeed"
+          },
+          "review": {
+            "headline_rewrite": "Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests",
+            "bullets": [
+              "Ethereal Exploration Guild, an Indian space tech better known as EtherealX, has climbed 5.5x in valuation to $80.5 million after its latest funding round.",
+              "The startup is developing a launch vehicle designed to be fully reusable and is readying engine hot-fire tests ahead of its first technology demonstration flight, planned for 2027.",
+              "The Bengaluru-based company confirms that it closed an oversubscribed $20.5 million Series A round led by TDK Ventures and BIG Capital, as TechCrunch reported earlier.",
+              "Accel, Prosus, YourNest, BlueHill, Campus Fund, and Riceberg Ventures also participated, EtherealX said.",
+              "The raise follows a $5 million seed round in August 2024 that valued the startup at $14.6 million.",
+              "As India pushes to mature its space ecosystem beyond small launchers and component contracts — targeting growth in its space economy to $45 billion from $8 billion over the next decade — EtherealX is among the startups drawing attention."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s ChatGPT translator challenges Google Translate",
+            "link": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website",
+            "site_name": "The Verge",
+            "novelty_hash": "f96a1255970015462fb45f46f6f2419b063bd201"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s ChatGPT translator challenges Google Translate",
+            "bullets": [
+              "OpenAI has launched ChatGPT Translate, a standalone web translation tool that supports over 50 languages and is positioned as a direct competitor to Google Translate.",
+              "OpenAI’s ChatGPT translator challenges Google Translate\nChatGPT Translate allows users to direct the style of translated text, such as ‘more fluent’ and ‘academic.’\nThere are some notable differences, however.",
+              "The ChatGPT Translate homepage notes that it can translate from text, images, and voice, but image support isn’t available yet on any version of the service.",
+              "OpenAI’s service also includes some additional presets to direct the style of the completed translation too, such as “translate this and make it more business formal.”\nThe regular ChatGPT chatbot has supported translation features for years, so this is just OpenAI releasing that as a dedicated web service.",
+              "There’s currently no sign of a ChatGPT Translate app on Apple or Google’s app stores, unlike Google Translate, which is available as both a website and app.",
+              "OpenAI has not made any announcements about the release or confirmed which AI model is powering the translation tool."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking",
+            "link": "https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/",
+            "site_name": "WIRED",
+            "novelty_hash": "964deeb1c3a5d5f27da52fa5c3771e07b2eb85d6"
+          },
+          "review": {
+            "headline_rewrite": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking",
+            "bullets": [
+              "Google designed the wireless protocol known as Fast Pair to optimize for ultra-convenient connections: It lets users connect their Bluetooth gadgets with Android and ChromeOS devices in a single tap.",
+              "The result is an enormous collection of Fast Pair-compatible audio devices that allow any spy or stalker to take control of speakers and microphones, or in some cases track an unwitting target’s location—even if the victim is an iPhone user who has never owned a Google product.",
+              "Today, security researchers at Belgium’s KU Leuven University Computer Security and Industrial Cryptography group are revealing a collection of vulnerabilities they found in 17 audio accessories that use Google’s Fast Pair protocol and are sold by 10 different companies: Sony, Jabra, JBL, Marshall, Xiaomi, Nothing, OnePlus, Soundcore, Logitech, and Google itself.",
+              "The hacking techniques the researchers demonstrated, which they’re collectively calling WhisperPair, would allow anyone within Bluetooth range of those devices—close to 50 feet in their testing—to silently pair with audio peripherals and hijack them.",
+              "Worse yet, certain devices sold by Google and Sony that are compatible with Google’s device geolocation tracking feature, Find Hub, could also be exploited to allow stealthy, high-resolution stalking.",
+              "“The attacker now owns this device,” adds researcher Nikola Antonijević, “and can basically do whatever he wants with it.”\nThe researchers demonstrate their hacking and tracking techniques in the video below:\nGoogle today published a security advisory in coordination with the researchers, acknowledging their findings and describing its efforts to fix the problem."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Spotify is hiking prices again",
+            "link": "https://www.theverge.com/news/862465/spotify-premium-us-price-increase-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "8d3344d0ba2ccb7c7443cf799e3d6c5a3905aaa1"
+          },
+          "review": {
+            "headline_rewrite": "Spotify is hiking prices again",
+            "bullets": [
+              "The price of Spotify Premium is about to jump again in the US, marking its third price hike since 2023.",
+              "Spotify is hiking prices again\nPremium, Duo, Family, and Student users in the US will be charged more from their next billing date.",
+              "“Occasional updates to pricing across our markets reflect the value that Spotify delivers, enabling us to continue offering the best possible experience and benefit artists,” Spotify said in its announcement.",
+              "In the email it’s sending to subscribers, Spotify justifies that it’s raising prices “to keep delivering a great experience.”\nWe knew that Spotify was planning to raise the price of Premium plans in the US before March 2026, but we didn’t know by how much until now.",
+              "Spotify last increased US prices in June 2024, and in other regions in August 2025, with several AI-powered features and long-awaited lossless audio support having launched since then."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
