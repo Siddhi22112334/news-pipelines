@@ -64666,6 +64666,68 @@
             "impact": "Negative"
           }
         }
+      ],
+      "14:57": [
+        {
+          "item": {
+            "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+            "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f6287f629e641eff56ef784eb268d93727249c8e"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+            "bullets": [
+              "AI startup prepares to open an office in Bengaluru.",
+              "The move underscores how India is becoming a key battleground for AI companies looking to expand beyond the U.S.",
+              "Her appointment gives Anthropic a seasoned executive with local enterprise and government relationships as it gears up to establish an on-the-ground presence in one of the world’s fastest-growing AI markets.",
+              "Arch-rival OpenAI is also sharpening its focus on the market with plans to open an office in New Delhi — a sign India is fast becoming one of the most contested arenas in the global race to commercialize generative AI.",
+              "While India offers enormous scale — with more than a billion internet subscribers and over 700 million smartphone users — converting that reach into meaningful revenue has proven difficult, pushing AI companies to experiment with aggressive pricing and promotions.",
+              "OpenAI last year introduced ChatGPT Go, its under-$5 plan aimed at attracting Indian users, and later made it available free for a year in the country."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 14, 2026 Zuckerberg hired Wang for $14B, now they're clashing: AI team in chaos; new boss moves in Meta's new structure reveals tension between Mark Zuckerberg and Alexandr Wang, the $14 billion AI recruit. Wang finds Zuckerberg's micromanagement stifling, while staff question his leadership for Meta's AI ambitions. A recent strategy clash highlighted differing priorities, with Wang pushing for cutting-edge AI over immediate product integration.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/all-is-not-well-between-meta-ceo-mark-zuckerberg-and-metas-highest-paid-employee-as-the-companys-new-reporting-structure-shows/articleshow/126526041.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "d02558b8cc6832820ed66fc9a80e86df379c4f3c"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 14, 2026 Zuckerberg hired Wang for $14B, now they're clashing: AI team in chaos; new boss moves in Meta's new structure reveals tension between Mark Zuckerberg and Alexandr Wang, the $14 billion AI recruit. Wang finds Zuckerberg's micromanagement stifling, while staff question his leadership for Meta's AI ambitions. A recent strategy clash highlighted differing priorities, with Wang pushing for cutting-edge AI over immediate product integration.",
+            "bullets": [
+              "Meta's newest reporting structure is exposing something leadership has tried to hideâfriction between CEO Mark\nZuckerberg and his highest-paid employee, Alexandr Wang.",
+              "At the same time, current staff question whether Wang has the chops to lead Meta's $600 billion AI bet.",
+              "Cox and Bosworth wanted Wang's new AI model trained on Instagram and Facebook data to boost the company's core advertising business.",
+              "He argued the goal should be catching up to OpenAI and Google's models first, worrying that customizing training for product tasks would slow progress.",
+              "Wang's researchers view the old guard as mere product managers stuck in the social media era.",
+              "Wang's inexperience becomes liability for Mark Zuckerberg as AI race intensifies\nThe cracks widened when Yann LeCun, Meta's legendary AI scientist and a Turing Award winner, bolted in November rather than report to Wang."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/8-whatsapp-hidden-security-tools-that-help-prevent-scams-and-strengthen-personal-privacy/articleshow/126523970.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "c38b5c1e4949690558a1eca5eb6725afc8548966"
+          },
+          "review": {
+            "headline_rewrite": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "bullets": [
+              "Recent studies have demonstrated the vulnerabilities faced by users, ranging from browser-based account hijacking to massive phone number scraping through contact discovery services.",
+              "The good news is that there are some settings available in WhatsApp that you could use to greatly enhance your own personal safety and avoid unnecessary exposure.",
+              "WhatsApp features that significantly improve your security and privacy\nWhatsApp continues to strengthen its platform with encrypted backups, privacy-focused AI tools, and collaboration with security researchers.",
+              "- Use a privacy checkup to control what others can see\n- Enable disappearing messages to limit long-term exposure\nEnd-to-end encryption ensures the security of the message during the transfer process, whereas the message stored on the device remains insecure even if the device is compromised.",
+              "- Protect your account with two-step verification and a security PIN\nYour phone number is at the heart of your WhatsApp account, making it a vulnerable spot.",
+              "To turn it on, you need to go to Settings > Account > Two-step verification, and you will be prompted to create a PIN and can choose to add an email which will help you restore your account if you lose access."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
