@@ -67624,6 +67624,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:15": [
+        {
+          "item": {
+            "title": "Snowflake, Databricks challenger ClickHouse hits $15B valuation",
+            "link": "https://techcrunch.com/2026/01/16/snowflake-databricks-challenger-clickhouse-hits-15b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5fd8a01843bdb3ee8393fc76a442e2cf4bdffc7b"
+          },
+          "review": {
+            "headline_rewrite": "Snowflake, Databricks challenger ClickHouse hits $15B valuation",
+            "bullets": [
+              "The round was led by Dragoneer Investment Group, the startup said, with participation from investors including Bessemer Venture Partners, GIC, Index Ventures, Khosla Ventures, and Lightspeed Venture Partners.",
+              "ClickHouse, which spun out from Russian search giant Yandex in 2021, develops database software designed to process the massive datasets required by AI agents.",
+              "The company also announced the acquisition of Langfuse, a startup that helps developers track and evaluate the performance of their AI agents.",
+              "Langfuse competes directly with LangSmith, LangChain’s observability platform.",
+              "ClickHouse database is open sourced, and it makes money by selling managed cloud services, which saw annual recurring revenue (ARR) grow by more than 250% year-over-year, it said.",
+              "The company’s customers include Meta, Tesla, Capital One, Lovable, Decagon, and Polymarket."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
+            "link": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "80cdbf6283146a3f104d8d83e72d4ead20b6e3f5"
+          },
+          "review": {
+            "headline_rewrite": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
+            "bullets": [
+              "Earlier this week, the California Attorney General’s office announced that it was investigating xAI over reports that the startup’s chatbot, Grok, was being used to create nonconsensual sexual imagery of women and minors.",
+              "On Friday, the government followed up by sending a cease-and-desist letter to the company, demanding that it take immediate action to stop the production of nonconsensual intimate images and CSAM — child sexual abuse material.",
+              "“Today, I sent xAI a cease-and-desist letter, demanding the company immediately stop the creation and distribution of deepfake, nonconsensual, intimate images and child sexual abuse material,” said California AG Rob Bonta in a press release.",
+              "I fully expect xAI to immediately comply.",
+              "California has zero tolerance for [CSAM].”\nThe AG’s office additionally claimed that xAI appeared to be “facilitating the large-scale production” of nonconsensual nudes, the likes of which are being “used to harass women and girls across the internet.” The agency said it expects xAI to prove that it is taking steps to address these issues within the next five days.",
+              "At the heart of the backlash is Grok’s “spicy” mode feature, which xAI created to generate explicit content."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google is appealing a judge’s search monopoly ruling",
+            "link": "https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal",
+            "site_name": "The Verge",
+            "novelty_hash": "d458ce8967c29a65bd19e2eb7827bf9c03a818c3"
+          },
+          "review": {
+            "headline_rewrite": "Google is appealing a judge’s search monopoly ruling",
+            "bullets": [
+              "“As we have long said, the Court’s August 2024 ruling ignored the reality that people use Google because they want to, not because they’re forced to,” Google’s vice president of regulatory affairs Lee-Anne Mulholland said in a blog post.",
+              "“The decision failed to account for the rapid pace of innovation and intense competition we face from established players and well-funded start-ups.",
+              "And it discounted compelling testimony from browser makers like Apple and Mozilla who said they choose to feature Google because it provides the highest quality search experience for their consumers.”\nGoogle is asking that remedies that would require it to share search data and syndicate services to rivals be put on hold, arguing that the measures “would risk Americans’ privacy and discourage competitors from building their own products — ultimately stifling the innovation that keeps the U.S.",
+              "“These are Fortune 500 companies, and they have nowhere else to turn other than Google”\nDC-based federal Judge Amit Mehta ruled in 2024 that Google maintained an illegal monopoly over “general search services” and “general search text advertising.” Mehta found that Google had anticompetitively deprived rivals of fair competition by entering exclusionary contracts with phone manufacturers and browsers to make its search products the default.",
+              "The result was a durable monopoly whose “partners have concluded that it is financially infeasible to switch” default search providers for fear of sacrificing hundreds of millions or billions of dollars in Google-paid revenue share, Mehta wrote.",
+              "He instead ordered the company to share search information with competitors that could help them gain a foothold in the market in an effort to restore competition for search services."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Archaeologists find a supersized medieval shipwreck in Denmark",
+            "link": "https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "339ab1203b9bb3a68681701569f418b8996d54a4"
+          },
+          "review": {
+            "headline_rewrite": "Archaeologists find a supersized medieval shipwreck in Denmark",
+            "bullets": [
+              "Archaeologists recently found the wreck of an enormous medieval cargo ship lying on the seafloor off the Danish coast, and it reveals new details of medieval trade and life at sea.",
+              "It lay on its side, half-buried in the sand, 12 meters below the choppy surface of the Øresund, the straight that runs between Denmark and Sweden.",
+              "A medieval megaship\nSvaelget 2, as archaeologists dubbed the wreck (its original name is long since lost to history), was a type of merchant ship called a cog: a wide, flat-bottomed, high-sided ship with an open cargo hold and a square sail on a single mast."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Campaign to Destroy Renee Good",
+            "link": "https://www.wired.com/story/the-campaign-to-destroy-renee-good/",
+            "site_name": "WIRED",
+            "novelty_hash": "b7480bc8fb8a59bc14827e6c19950e7e7b9a3410"
+          },
+          "review": {
+            "headline_rewrite": "The Campaign to Destroy Renee Good",
+            "bullets": [
+              "Hours after the shooting, Department of Homeland Security secretary Kristi Noem accused Good of “[weaponizing] her vehicle.” President Donald Trump claimed the 37-year-old had “violently, willfully, and viciously ran over” the agent who killed her.",
+              "Good was “100 percent to blame” for her own death, according to Matt Walsh of the Daily Wire.",
+              "Megyn Kelly said it “was her own doing.” The verdict felt unanimous: She deserved it.",
+              "Becca appears to be defiant and unafraid, telling the person behind the camera, “Go get yourself some lunch, big boy.” As Good tries to drive away, Ross fires several shots.",
+              "Speaking to reporters aboard Air Force One, President Trump repeatedly referred to Becca Good as Renee's “friend.” “The woman and her friend were highly disrespectful of law enforcement,” he said.",
+              "Newsmax's Carl Higbie referred to Good as the “worst mother of the year” and said she should have been “at home with her kids.” A Fox News column about the shooting claimed “organized gangs of wine moms” are using “Antifa tactics” to interfere with ICE operations."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The best VPN service for 2026",
+            "link": "https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html",
+            "site_name": "Engadget",
+            "novelty_hash": "6991d3c4d8bac232384d4648ee2534b59985f0bc"
+          },
+          "review": {
+            "headline_rewrite": "The best VPN service for 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "For each VPN on this list, I've shared which platforms it works on, how much it cuts into your download speed, where it offers servers, what other features are included and how much the best available deal costs.",
+              "Every feature is where you expect it to be, never demanding any digging or leaving you perplexed about what a certain setting is for.",
+              "There's no drop-off in quality between platforms, either: Proton has clearly paid equally close attention to its clients for Windows, Mac, iOS and Android.",
+              "It's also a VPN uniquely devoted to security and privacy.",
+              "Not only did it pass my leak tests without a scratch, but it's also a leader in physical VPN security — its Secure Core servers connect you through locations fortified in the real-world."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
