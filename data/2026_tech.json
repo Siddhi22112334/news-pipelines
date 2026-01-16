@@ -65733,6 +65733,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:19": [
+        {
+          "item": {
+            "title": "Siri is a Gemini",
+            "link": "https://www.theverge.com/podcast/863340/siri-is-a-gemini",
+            "site_name": "The Verge",
+            "novelty_hash": "f64f7799b90ae6b2f35d28eaa6654bbff018fb85"
+          },
+          "review": {
+            "headline_rewrite": "Siri is a Gemini",
+            "bullets": [
+              "Apple showed it off in 2024, made commercials about it, and generally promised that AI would change the way we used our gadgets forever.",
+              "This deal’s a big one, and it could change the landscape of the AI race going forward.",
+              "Siri is a Gemini\nOn The Vergecast: Google and Apple made an AI deal, the metaverse is dying, and what’s happening on Grok.",
+              "On this episode of The Vergecast, David and Nilay talk about the news that publishers are suing Google en masse on the heels of its adtech antitrust trial, including The Verge’s parent company, Vox Media.",
+              "Then they talk through what we know about the Siri-Gemini deal, and why some of the details we don’t yet know will end up being hugely important.",
+              "Either way, though, this all raises the question of whether Apple lost the AI wars in a way it will come to regret, or it simply realized the battle wasn’t worth fighting."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Bluesky rolls out cashtags and LIVE badges amid a boost in app installs",
+            "link": "https://techcrunch.com/2026/01/16/bluesky-rolls-out-cashtags-and-live-badges-amid-a-boost-in-app-installs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "74e55e1f8d945a83444a74fd8260c128f4e87aec"
+          },
+          "review": {
+            "headline_rewrite": "Bluesky rolls out cashtags and LIVE badges amid a boost in app installs",
+            "bullets": [
+              "The new features could potentially help Bluesky capitalize on a recent boost in new installs, which have arrived in the days after the X deepfake news went mainstream.",
+              "On X, users were asking its integrated AI bot Grok to turn photos of real women and sometimes minors into sexualized images without consent.",
+              "This week, California’s attorney general opened an investigation into xAI’s chatbot over the proliferation of the “nonconsensual sexually explicit material.”\nIn the wake of the controversy, Bluesky saw its downloads surge in the U.S.",
+              "According to new data from market intelligence provider Appfigures, daily downloads of Bluesky’s iOS app have jumped nearly 50% from the period before news of the deepfakes reached critical mass.",
+              "In April 2025, Appfigures noted that the social networking startup’s downloads dropped to new lows, and daily average users on mobile devices had declined nearly 40% by the end of October, per Similarweb data.",
+              "Adding new features will only be part of the battle for Bluesky; it will also have to find a way to get users to change years of ingrained behavior."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Italy investigates Activision Blizzard for pushing in-game purchases",
+            "link": "https://techcrunch.com/2026/01/16/italy-investigates-activision-blizzard-for-pushing-in-game-purchases/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f779e0bec65ec96465f8cb49b7500778e6656672"
+          },
+          "review": {
+            "headline_rewrite": "Italy investigates Activision Blizzard for pushing in-game purchases",
+            "bullets": [
+              "Italy has launched two investigations into Microsoft’s Activision Blizzard, alleging the company has engaged in “misleading and aggressive” sales practices for its popular smartphone games Diablo Immortal and Call of Duty Mobile.",
+              "The country’s competition regulator, Autorita Garante della Concorrenza E Del Mercato (AGCM), said the investigations focus on the use of design elements to induce users, particularly children, into playing for long periods, and make in-game purchases by urging them to not miss out on rewards.",
+              "The AGCM said the games are advertised as free-to-play but offer in-game purchases.",
+              "Diablo Immortal, for example, offers in-game cosmetics, as well as currency that allows players to accelerate their progression and gain items for crafting, for as much as $200.",
+              "The authority is also looking into the games’ parental control features, as the default settings lets minors make in-game purchases, play for long periods without restraints, and allow them to chat with others in-game.",
+              "The AGCM also highlighted privacy concerns, as the games appear to lead users to select all consent options when signing up, and said it would look into the company’s consent process for harvesting and using personal data."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability",
+            "link": "https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers",
+            "site_name": "The Verge",
+            "novelty_hash": "a7809a16ac1190625d62f77f687dceafbd1d7f61"
+          },
+          "review": {
+            "headline_rewrite": "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability",
+            "bullets": [
+              "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability\nResearchers say the issue can allow attackers to listen to the mics on wireless audio devices, or track their location.",
+              "Researchers from KU Leuven University’s Computer Security and Industrial Cryptography group in Belgium discovered several vulnerabilities in Google’s Fast Pair protocol that can allow a hacker within Bluetooth range to secretly pair with some headphones, earbuds, and speakers.",
+              "The attacks, which the researchers have collectively dubbed WhisperPair, can even be used on iPhone users with affected Bluetooth devices despite Fast Pair being a Google-specific feature.",
+              "Fast Pair streamlines Bluetooth pairing and lets wireless audio accessories connect to Android or Chrome OS devices by simply tapping them together.",
+              "But the researchers found that many devices don’t implement Fast Pair correctly, including a Google specification that says Fast Pair devices shouldn’t be able to connect to a new device while already paired to another.",
+              "The researchers tested their WhisperPair attacks on over two dozen Bluetooth devices and were successful in hacking 17 of them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Engadget Podcast: Why did Apple choose Gemini for next-gen Siri?",
+            "link": "https://www.engadget.com/computing/engadget-podcast-why-did-apple-choose-gemini-for-next-gen-siri-150000993.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9228b8ed552ea54ce48913faa8adfb71037dbee0"
+          },
+          "review": {
+            "headline_rewrite": "Engadget Podcast: Why did Apple choose Gemini for next-gen Siri?",
+            "bullets": [
+              "Apple's next-gen Siri is still far off, but this week the company announced that it'll be using Google's Gemini AI for its new foundation models.",
+              "In this episode, Devindra and Engadget's Igor Bonifacic discuss why Apple teamed up with Google again, instead of OpenAI or Anthropic.",
+              "Also, they chat about Meta's Reality Lab layoffs, which is refocusing the company on AI hardware like its smart glasses.",
+              "Topics\nMeta announces 1000+ layoffs, closes 3 VR studios as it shifts focus to AI hardware – 2:12\nGemini can now pull context from the rest of your Google apps including photos and Youtube history – 12:31\nFramework raises the price of its desktop by $460 because of the global RAM shortage – 18:36\nNVIDIA may revive the RTX 3060 and kill off 5070 Ti due to its VRAM demands – 21:57\nApple creates a subscription bundle for Pro creative apps like Final Cut Pro, Logic, and others – 23:00\nTesla’s Full Self Driving is also going subscription only, a year costs $999 – 29:15\nMatthew McConaughey trademarks himself to fight unauthorized AI likenesses – 33:27\nApple announces that its long delayed ’smarter Siri’ will be powered by Google Gemini – 35:15\nX finally responds to Grok’s CSAM and nudity generation with limits – 51:46\nCursor claims their AI agents wrote 1M+ lines of code to make a web browser from scratch, are developers cooked?",
+              "– 57:52\nCredits\nHost: Devindra Hardawar\nGuest: Igor Bonafacic\nProducer: Ben Ellman\nMusic: Dale North and Terrence O’Brien\nIf you buy something through a link in this article, we may earn commission."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mother of one of Elon Musk’s offspring sues xAI over sexualized deepfakes",
+            "link": "https://www.ft.com/content/519aba5f-13b6-4156-9271-d9e7fca3bbaa",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6492281f719b26138fed87362e1c95df8d6547f9"
+          },
+          "review": {
+            "headline_rewrite": "Mother of one of Elon Musk’s offspring sues xAI over sexualized deepfakes",
+            "bullets": [
+              "Ashley St Clair, the influencer and mother of one of Elon Musk’s children, has sued the billionaire’s AI company, accusing its Grok chatbot of creating fake sexual imagery of her without her consent.",
+              "In the lawsuit, filed in New York state court, St Clair alleged that xAI’s Grok first created an AI-generated or altered image of her in a bikini earlier this month.",
+              "St Clair claims she made a request to xAI that no further such images be made, but nevertheless “countless sexually abusive, intimate, and degrading deepfake content of St.",
+              "Clair [were] produced and distributed publicly by Grok.”\nIn one case, a photo of St Clair from when she was 14 years old was altered by Grok to undress her and put her in a bikini, according to the court filing.",
+              "St Clair is a conservative influencer with about 1 million followers on X and the mother of one of Musk’s children.",
+              "The billionaire entrepreneur has espoused pronatalist views, arguing in support of increasing birth rates, and has fathered at least 14 children with several different women."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
