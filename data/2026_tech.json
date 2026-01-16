@@ -66203,6 +66203,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:20": [
+        {
+          "item": {
+            "title": "TSMC says AI demand is “endless” after record Q4 earnings",
+            "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "45631fb6ececdb58dcb1006762afe5b09a6f1b23"
+          },
+          "review": {
+            "headline_rewrite": "TSMC says AI demand is “endless” after record Q4 earnings",
+            "bullets": [
+              "On Thursday, Taiwan Semiconductor Manufacturing Company (TSMC) reported record fourth-quarter earnings and said it expects AI chip demand to continue for years.",
+              "Wei told investors that while he cannot predict the semiconductor industry’s long-term trajectory, he remains bullish on AI.",
+              "TSMC manufactures chips for companies including Apple, Nvidia, AMD, and Qualcomm, making it a linchpin of the global electronics supply chain.",
+              "The company produces the vast majority of the world’s most advanced semiconductors, and its factories in Taiwan have become a focal point of US-China tensions over technology and trade.",
+              "When TSMC reports strong demand and ramps up spending, it signals that the companies designing AI chips expect years of continued growth.",
+              "“All in all, I believe in my point of view, the AI is real—not only real, it’s starting to grow into our daily life."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+            "link": "https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3d7254f97d2a8e01388b95ce4e4381c920fce500"
+          },
+          "review": {
+            "headline_rewrite": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+            "bullets": [
+              "The activist, who is following the digital side of the Iranian protests from afar, said the campaign targeted people involved in Iran-related activities, such as himself.",
+              "This hacking campaign comes as Iran grapples with the longest nationwide internet shutdown in its history, as anti-government protests — and violent crackdowns — rage across the country.",
+              "TechCrunch analyzed the source code of the phishing page, and with added input from security researchers, we believe the campaign aimed to steal Gmail and other online credentials, compromise WhatsApp accounts, and conduct surveillance by stealing location data, photos, and audio recordings.",
+              "The list includes a Middle Eastern academic working in national security studies; the boss of an Israeli drone maker; a senior Lebanese cabinet minister; at least one journalist; and people in the United States or with U.S.",
+              "Inside the attack chain\nAccording to Gharib, the WhatsApp message he received contained a suspicious link, which loaded a phishing site in the victim’s browser.",
+              "The link shows that the attackers relied on a dynamic DNS provider called DuckDNS for their phishing campaign."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "I saw the future of retail, and it’s all AI",
+            "link": "https://www.theverge.com/tech/863365/national-retail-federation-show-shopping-commerce-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "3b1bc8fd00c796120b0f152fb7f171b4c28b129d"
+          },
+          "review": {
+            "headline_rewrite": "I saw the future of retail, and it’s all AI",
+            "bullets": [
+              "With a microphone in front of him and a giant sign reading TALK TO ME placed above, “Mike” waits, hands clasped patiently in front of his body, to take questions from his public.",
+              "I saw the future of retail, and it’s all AI\nFrom window shopping and browsing to reviews and recommendations, retailers and tech companies envision a future filled with artificial intelligence — whether shoppers want it or not.",
+              "“Mike” is one of the flashier products exhibited at the National Retail Federation’s enormous annual trade show, where more than a thousand retail-adjacent companies descend on New York City to try to sell each other products and services that will then be used to sell actual goods to the rest of us.",
+              "No matter what vendors are exhibiting, though, one thing is clear: The future they imagine for all of us is overwhelmingly filled with AI — often in ways that a consumer would probably hate.",
+              "A few feet away from “Mike” is another hologram, also suspended midair in a clear box a few feet tall; this one is a small, gnome-like creature dressed in a monochromatic, vaguely medieval outfit (I did not catch his name).",
+              "Retail clients are increasingly requesting non-human holographic characters, a Hypervsn attendant tells me, in an effort to distance themselves from fears that AI will replace or eliminate people’s jobs."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "X is down for the second time this week",
+            "link": "https://techcrunch.com/2026/01/16/x-is-down-for-the-second-time-this-week/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7bb3b6d6786c6a7538c19e279385d822bfe70bb5"
+          },
+          "review": {
+            "headline_rewrite": "X is down for the second time this week",
+            "bullets": [
+              "It comes as the platform faces criticism after Grok, xAI’s chatbot that is integrated into X, has been fulfilling user requests to manipulate real photos of women, and even children, into nonconsensual sexual and violent imagery.",
+              "When Musk took over Twitter in 2022, he laid off much of the staff, sparking worries that the site wouldn’t be able to function normally or adequately monitor for harmful content.",
+              "The site has largely remained running, though there were notable outages last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "X is still having issues following an hour-long outage on Friday",
+            "link": "https://www.theverge.com/news/863425/x-twitter-outage-january-16th-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "88aa3960e15b03e4780b706d71ab007ba680f07d"
+          },
+          "review": {
+            "headline_rewrite": "X is still having issues following an hour-long outage on Friday",
+            "bullets": [
+              "Attempts to load the site with either the Twitter.com or X.com addresses were showing a Cloudflare connection error or failing to show any posts or feeds initially.",
+              "We will update this article if there is more information available."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke",
+            "link": "https://www.wired.com/story/former-usds-leaders-launch-tech-reform-project-doge/",
+            "site_name": "WIRED",
+            "novelty_hash": "6c3a803bc69e7be0ba582638b3babc7482ae19cd"
+          },
+          "review": {
+            "headline_rewrite": "Former USDS Leaders Launch Tech Reform Project to Fix What DOGE Broke",
+            "bullets": [
+              "The Viaduct cadre of experienced federal tech officials is in the process of cooking up specifics on how to remake the government, aiming to produce initial recommendations by the spring.",
+              "Tech Viaduct’s advisory panel includes former Obama chief of staff and Biden’s secretary of Veterans Affairs Denis McDonough; Biden’s deputy CTO Alexander Macgillivray; Marina Nitze, former CTO of the VA; and Hillary Clinton campaign manager Robby Mook.",
+              "No one is more familiar with how government tech services fail American citizens than Dickerson.",
+              "Dickerson was surprised a few months later when Mook called him to say he found funding from Searchlight Institute, a liberal think tank devoted to novel policy initiatives, to get the idea off the ground.",
+              "“Trump has knocked over all the beehives—the beltway bandits, the contractor industrial complex, the union industrial complex.”\nTech Viaduct has two aims.",
+              "“As hard as we’re going to work in the next three to six months, we’re going to have to spend another two to three years, through a primary season and through an election, advocating as if we were a lobbying group.”\nThe group’s second aim is to roll back what it regards as the damage of the Trump administration."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
