@@ -66803,6 +66803,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:53": [
+        {
+          "item": {
+            "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
+            "link": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e632e7620bad38aadd0896b7119bf09b04545139"
+          },
+          "review": {
+            "headline_rewrite": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
+            "bullets": [
+              "However, a new breed of biotech companies are leveraging AI and advanced data technologies in an attempt to accelerate and streamline the process.",
+              "Chai Discovery, an AI startup founded in 2024, is one such company.",
+              "In a little over 12 months, its young co-founders have managed to raise hundreds of millions of dollars and rally the backing of some of Silicon Valley’s most influential investors, making it one of the flashiest firms in a growing industry.",
+              "Last Friday, Chai also announced a partnership with Eli Lilly, a deal in which the pharmaceutical giant will use the startup’s software to help develop new medicines.",
+              "Chai’s algorithm, called Chai-2, is designed to develop antibodies—the proteins necessary to fight illnesses.",
+              "The startup has said it hopes to serve as a kind of “computer-aided design suite” for molecules."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The AI healthcare gold rush is here",
+            "link": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e69577e6a4527ab2223745633f04a4835f88b3b4"
+          },
+          "review": {
+            "headline_rewrite": "The AI healthcare gold rush is here",
+            "bullets": [
+              "AI companies are clustering around healthcare and fast.",
+              "In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $250 million seed round at an $850 million valuation.",
+              "The money and products are pouring into health and voice AI, but so are concerns about hallucination risks, inaccurate medical information, and massive security vulnerabilities in systems handling sensitive patient data.",
+              "Watch as Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into why the AI world is suddenly obsessed with health care, what other products can expect an AI-makeover, and more."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The two things AMD subtly revealed at CES that actually excite me",
+            "link": "https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price",
+            "site_name": "The Verge",
+            "novelty_hash": "a72c41f22cd7cdf2c65944f7fc461402cf2cafaa"
+          },
+          "review": {
+            "headline_rewrite": "The two things AMD subtly revealed at CES that actually excite me",
+            "bullets": [
+              "CES 2026 brought us several neat gamepads, but barely any handhelds and no new desktop GPUs — not from Nvidia, not from Intel, and not from AMD.",
+              "The two things AMD subtly revealed at CES that actually excite me\nThe company may not be focused on PC gamers right now, and yet…\nBut if you dig deep, AMD said two things at this year’s show that are worthy of attention.",
+              "Did you catch that the company’s about to make socketed mobile chips again?",
+              "“AMD failed us,” decried Gamers Nexus, pointing out that the company’s keynote was almost entirely fixated on AI.",
+              "Outside the keynote, the company’s few consumer-friendly announcements — including the Ryzen 7 9850X3D for gaming desktops and Ryzen AI 400 for laptops — are all retreads of existing components.",
+              "AMD also didn’t announce a new chip for handheld gaming PCs, no successor to the Z2 and Z2 Extreme it introduced a year ago, even as Intel publicly announced plans for an “entire handheld gaming platform” and Qualcomm teased its own handhelds for a possible March reveal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives",
+            "link": "https://arstechnica.com/gadgets/2026/01/ram-shortage-chaos-expands-to-gpus-high-capacity-ssds-and-even-hard-drives/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "729573e5eeae596012f68417fb54501d705d39b6"
+          },
+          "review": {
+            "headline_rewrite": "RAM shortage chaos expands to GPUs, high-capacity SSDs, and even hard drives",
+            "bullets": [
+              "Big Tech’s AI-fueled memory shortage is set to be the PC industry’s defining story for 2026 and beyond.",
+              "Standalone, direct-to-consumer RAM kits were some of the first products to feel the bite, with prices spiking by 300 or 400 percent by the end of 2025; prices for SSDs had also increased noticeably, albeit more modestly.",
+              "The rest of 2026 is going to be all about where, how, and to what extent those price spikes flow downstream into computers, phones, and other components that use RAM and NAND chips—areas where the existing supply of products and longer-term supply contracts negotiated by big companies have helped keep prices from surging too noticeably so far.",
+              "This week, we’re seeing signs that the RAM crunch is starting to affect the GPU market—Asus made some waves when it inadvertently announced that it was discontinuing its GeForce RTX 5070 Ti.",
+              "Though the company has tried to walk this announcement back since then, if you’re a GPU manufacturer, there’s a strong argument to be made for either discontinuing this model or de-prioritizing it in favor of other GPUs.",
+              "The 5070 Ti uses 16GB of GDDR7, plus a partially disabled version of Nvidia’s GB203 GPU silicon."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google brings its AI videomaker to Workspace users",
+            "link": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
+            "site_name": "The Verge",
+            "novelty_hash": "f58f9f9a091a64ba2f9d8102dd67785c6d0614a3"
+          },
+          "review": {
+            "headline_rewrite": "Google brings its AI videomaker to Workspace users",
+            "bullets": [
+              "Google is expanding access to its AI videomaking tool.",
+              "Launched last May, Flow was initially only available to Google AI Pro and AI Ultra subscribers, but now, those with Business, Enterprise, and Education Workspace plans can access it, too.",
+              "Google brings its AI videomaker to Workspace users\nUsers across Workspace plans can now use Flow to create videos based on a text prompt or images.",
+              "Flow uses Google’s AI video generation model Veo 3.1 to generate eight-second clips based on a text prompt or images.",
+              "The company also integrated its AI-powered image generator Nano Banana Pro into Flow, which you can use to create characters or starting points for your clips."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Calif. counters FCC attack on DEI with conditions on Verizon/Frontier merger",
+            "link": "https://arstechnica.com/tech-policy/2026/01/verizon-frontier-to-complete-10b-merger-after-approvals-from-fcc-and-states/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "7d127888f61d33732ea873f1156a27e17e30fdaa"
+          },
+          "review": {
+            "headline_rewrite": "Calif. counters FCC attack on DEI with conditions on Verizon/Frontier merger",
+            "bullets": [
+              "Verizon has received all approvals it needs for a $9.6 billion acquisition of Frontier Communications, an Internet service provider with about 3.3 million broadband customers in 25 states.",
+              "Verizon said it expects to complete the merger on January 20.",
+              "“The approval follows extensive public participation, testimony from multiple parties, and negotiated settlement agreements with consumer advocates and labor organizations,” the CPUC said yesterday.",
+              "Verizon struck the merger deal with Frontier in September 2024, agreeing to pay $9.6 billion in cash and assume over $10 billion in debt held by Frontier.",
+              "Verizon said yesterday that the merged firm “will have an expanded reach of almost 30 million fiber passings across 31 states and Washington, DC.”\nVerizon to expand network, maintain low-income plans\nAt yesterday’s CPUC meeting, Commissioner John Reynolds described Verizon’s commitments.",
+              "Verizon will deploy fiber to 75,000 new locations within five years, prioritizing census blocks with income at or below 90 percent of the county median, he said."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
