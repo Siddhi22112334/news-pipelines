@@ -65490,6 +65490,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:21": [
+        {
+          "item": {
+            "title": "The rise of ‘micro’ apps: non-developers are writing apps instead of buying them",
+            "link": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c66c1dd904205cfed806c1a86fa96c19237af0fd"
+          },
+          "review": {
+            "headline_rewrite": "The rise of ‘micro’ apps: non-developers are writing apps instead of buying them",
+            "bullets": [
+              "Yu is part of the growing trend of people who, due to rapid advancements in AI technology, can easily build their own apps for personal use.",
+              "Join the Disrupt 2026 Waitlist\nAdd yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.",
+              "Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen your edge.",
+              "Then there’s Shamillah Bankiya, a partner at Dawn Capital, who is building a podcast translation web app for personal use.",
+              "“A lot of people I know are using Claude Code, Replit, Bolt, and Lovable to build apps for specific use cases,” he said.",
+              "Burge III, a professor of computer science at Howard University, said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Siri is a Gemini",
+            "link": "https://www.theverge.com/podcast/863340/siri-is-a-gemini",
+            "site_name": "The Verge",
+            "novelty_hash": "4934a3e5d624a318671998d4b9cbda6b993398f4"
+          },
+          "review": {
+            "headline_rewrite": "Siri is a Gemini",
+            "bullets": [
+              "Apple showed it off in 2024, made commercials about it, and generally promised that AI would change the way we used our gadgets forever.",
+              "This deal’s a big one, and it could change the landscape of the AI race going forward.",
+              "Siri is a Gemini\nOn The Vergecast: Google and Apple made an AI deal, the metaverse is dying, and what’s happening on Grok.",
+              "On this episode of The Vergecast, David and Nilay talk about the news that publishers are suing Google en masse on the heels of its adtech antitrust trial, including The Verge’s parent company, Vox Media.",
+              "Then they talk through what we know about the Siri-Gemini deal, and why some of the details we don’t yet know will end up being hugely important.",
+              "Either way, though, this all raises the question of whether Apple lost the AI wars in a way it will come to regret, or it simply realized the battle wasn’t fighting."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability",
+            "link": "https://www.theverge.com/tech/863338/google-fast-pair-whisperpair-security-vulnerability-bluetooth-headphones-speakers",
+            "site_name": "The Verge",
+            "novelty_hash": "a7809a16ac1190625d62f77f687dceafbd1d7f61"
+          },
+          "review": {
+            "headline_rewrite": "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability",
+            "bullets": [
+              "Sony, Anker, and other headphones have a serious Google Fast Pair security vulnerability\nResearchers say the issue can allow attackers to listen to the mics on wireless audio devices, or track their location.",
+              "Researchers from KU Leuven University’s Computer Security and Industrial Cryptography group in Belgium discovered several vulnerabilities in Google’s Fast Pair protocol that can allow a hacker within Bluetooth range to secretly pair with some headphones, earbuds, and speakers.",
+              "The attacks, which the researchers have collectively dubbed WhisperPair, can even be used on iPhone users with affected Bluetooth devices despite Fast Pair being a Google-specific feature.",
+              "Fast Pair streamlines Bluetooth pairing and lets wireless audio accessories connect to Android or Chrome OS devices by simply tapping them together.",
+              "But the researchers found that many devices don’t implement Fast Pair correctly, including a Google specification that says Fast Pair devices shouldn’t be able to connect to a new device while already paired to another.",
+              "The researchers tested their WhisperPair attacks on over two dozen Bluetooth devices and were successful in hacking 17 of them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mother of one of Elon Musk’s offspring sues xAI over sexualized deepfakes",
+            "link": "https://www.ft.com/content/519aba5f-13b6-4156-9271-d9e7fca3bbaa",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6492281f719b26138fed87362e1c95df8d6547f9"
+          },
+          "review": {
+            "headline_rewrite": "Mother of one of Elon Musk’s offspring sues xAI over sexualized deepfakes",
+            "bullets": [
+              "Ashley St Clair, the influencer and mother of one of Elon Musk’s children, has sued the billionaire’s AI company, accusing its Grok chatbot of creating fake sexual imagery of her without her consent.",
+              "In the lawsuit, filed in New York state court, St Clair alleged that xAI’s Grok first created an AI-generated or altered image of her in a bikini earlier this month.",
+              "St Clair claims she made a request to xAI that no further such images be made, but nevertheless “countless sexually abusive, intimate, and degrading deepfake content of St.",
+              "Clair [were] produced and distributed publicly by Grok.”\nIn one case, a photo of St Clair from when she was 14 years old was altered by Grok to undress her and put her in a bikini, according to the court filing.",
+              "St Clair is a conservative influencer with about 1 million followers on X and the mother of one of Musk’s children.",
+              "The billionaire entrepreneur has espoused pronatalist views, arguing in support of increasing birth rates, and has fathered at least 14 children with several different women."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
+            "link": "https://www.wired.com/gallery/best-wifi-routers/",
+            "site_name": "WIRED",
+            "novelty_hash": "3f411db2f78647879673c03608886de33616fe53"
+          },
+          "review": {
+            "headline_rewrite": "9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming",
+            "bullets": [
+              "If you're confused about terminology, our How to Buy a Router guide can help, along with our explainer on mesh systems versus single routers.",
+              "D-Link AX3000 DBR-330 for $110: This lightweight, rectangular travel router from D-Link is aimed at business professionals who travel for work.",
+              "Netgear Nighthawk RAXE300 for $190: The curvy spaceship design in matte black is a little more stealthy than your average gaming gear, but those wings contain antennas for a strong signal throughout your home.",
+              "Asus includes its usual security software, parental controls, and VPN support.",
+              "It even has AiMesh support, so you can also use the RT-AX57 Go as a mesh node.",
+              "But if you want enhanced security and parental controls, you have to subscribe, which takes the shine off the value."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Why Everyone Is Suddenly in a ‘Very Chinese Time’ in Their Lives",
+            "link": "https://www.wired.com/story/made-in-china-chinese-time-of-my-life/",
+            "site_name": "WIRED",
+            "novelty_hash": "fdda1327d60cfde6bc67a2e524da0d479b143e7b"
+          },
+          "review": {
+            "headline_rewrite": "Why Everyone Is Suddenly in a ‘Very Chinese Time’ in Their Lives",
+            "bullets": [
+              "Across social media, people are proclaiming that “You met me at a very Chinese time of my life,” while performing stereotypically Chinese-coded activities like eating dim sum or wearing the viral Adidas Chinese jacket.",
+              "Despite all of the tariffs, export controls, and anti-China rhetoric, many people in the United States, especially younger generations, have fallen in love with Chinese technology, Chinese brands, Chinese cities, and are overall consuming more Chinese-made products than ever before.",
+              "Everything Is China\nAs is often the case with Western narratives about China, these memes are not really meant to paint an accurate picture of life in the country.",
+              "With its awe-inspiring skylines and abundant high-speed trains, the country serves as a symbol of the earnest and urgent desire among many Americans for something completely different from their own realities.",
+              "Critics frequently point to China’s massive clean energy investments to highlight America’s climate policy failures, or they point to its urban infrastructure development to shame the US housing shortage.",
+              "“It’s convenient to eat Chinese food, buy Chinese products, learn Nihao, or do any surface-level stuff to feel like you’re part of a movement without internalizing Chinese culture itself,” she says."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
