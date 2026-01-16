@@ -29770,5 +29770,44 @@
         }
       ]
     }
+  },
+  "2026-01-17": {
+    "runs": {
+      "00:01": [
+        {
+          "item": {
+            "title": "India allows export of 5,00,000 tonnes of wheat flour",
+            "link": "https://www.thehindubusinessline.com/economy/agri-business/india-allows-export-of-500000-tonnes-of-wheat-flour/article70516349.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India allows export of 5,00,000 tonnes of wheat flour",
+            "bullets": [
+              "India on Friday allowed 500,000 metric tonnes of wheat flour and related products to be exported, the government said, as supplies have improved in",
+              "New Delhi had banned wheat exports in May 2022 after a scorching heatwave curtailed output and pushed domestic prices to record highs."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Software development drives Claude.ai adoption in India",
+            "link": "https://www.thehindubusinessline.com/info-tech/software-development-drives-claudeai-adoption-in-india/article70515245.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Software development drives Claude.ai adoption in India",
+            "bullets": [
+              "India ranks second globally in the use of Anthropic’s Claude.ai, with most usage concentrated in technical and software development work, the new Anthropic Economic",
+              "Developer-led usage Five of the top 10 use cases of Claude in India are in the software development category, and almost half of the",
+              "Usage intensity metric India-specific patterns Global usage concentration Uneven job impact Regional usage trends Country-wise usage trends indicate distinct regional patterns in how Claude"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }

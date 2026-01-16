@@ -66320,5 +66320,131 @@
         }
       ]
     }
+  },
+  "2026-01-17": {
+    "runs": {
+      "00:01": [
+        {
+          "item": {
+            "title": "TSMC says AI demand is “endless” after record Q4 earnings",
+            "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "45631fb6ececdb58dcb1006762afe5b09a6f1b23"
+          },
+          "review": {
+            "headline_rewrite": "TSMC says AI demand is “endless” after record Q4 earnings",
+            "bullets": [
+              "On Thursday, Taiwan Semiconductor Manufacturing Company (TSMC) reported record fourth-quarter earnings and said it expects AI chip demand to continue for years.",
+              "Wei told investors that while he cannot predict the semiconductor industry’s long-term trajectory, he remains bullish on AI.",
+              "TSMC manufactures chips for companies including Apple, Nvidia, AMD, and Qualcomm, making it a linchpin of the global electronics supply chain.",
+              "The company produces the vast majority of the world’s most advanced semiconductors, and its factories in Taiwan have become a focal point of US-China tensions over technology and trade.",
+              "When TSMC reports strong demand and ramps up spending, it signals that the companies designing AI chips expect years of continued growth.",
+              "“All in all, I believe in my point of view, the AI is real—not only real, it’s starting to grow into our daily life."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+            "link": "https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3d7254f97d2a8e01388b95ce4e4381c920fce500"
+          },
+          "review": {
+            "headline_rewrite": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+            "bullets": [
+              "The activist, who is following the digital side of the Iranian protests from afar, said the campaign targeted people involved in Iran-related activities, such as himself.",
+              "This hacking campaign comes as Iran grapples with the longest nationwide internet shutdown in its history, as anti-government protests — and violent crackdowns — rage across the country.",
+              "TechCrunch analyzed the source code of the phishing page, and with added input from security researchers, we believe the campaign aimed to steal Gmail and other online credentials, compromise WhatsApp accounts, and conduct surveillance by stealing location data, photos, and audio recordings.",
+              "The list includes a Middle Eastern academic working in national security studies; the boss of an Israeli drone maker; a senior Lebanese cabinet minister; at least one journalist; and people in the United States or with U.S.",
+              "Inside the attack chain\nAccording to Gharib, the WhatsApp message he received contained a suspicious link, which loaded a phishing site in the victim’s browser.",
+              "The link shows that the attackers relied on a dynamic DNS provider called DuckDNS for their phishing campaign."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI releases a cheaper ChatGPT subscription",
+            "link": "https://www.theverge.com/news/863466/openai-chatgpt-go-global-release",
+            "site_name": "The Verge",
+            "novelty_hash": "591785d30f160d607c83e36508f7c5940cea887e"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI releases a cheaper ChatGPT subscription",
+            "bullets": [
+              "OpenAI is expanding a low-cost subscription tier called ChatGPT Go to the US and the rest of the world.",
+              "Go was released in India in August and later became available in another 170 countries prior to Friday’s global release.",
+              "“In markets where Go has been available, we’ve seen strong adoption and regular everyday use for tasks like writing, learning, image creation, and problem-solving,” the company’s announcement stated.",
+              "OpenAI releases a cheaper ChatGPT subscription\n‘ChatGPT Go’ is available worldwide for $8 per month.",
+              "The price slots Go between the free version of the AI chatbot and the $20-a-month “Plus” subscription tier.",
+              "OpenAI says the Go tier is meant for people who want greater access to the company’s fast version of the latest AI model, GPT-5.2 Instant."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ads are coming soon to ChatGPT, starting with shopping links",
+            "link": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
+            "site_name": "The Verge",
+            "novelty_hash": "947e0078412fbb3e56fa1db9892d878f1d3aff8b"
+          },
+          "review": {
+            "headline_rewrite": "Ads are coming soon to ChatGPT, starting with shopping links",
+            "bullets": [
+              "ChatGPT will soon start showing you sponsored products or services if they’re related to your conversation.",
+              "In an announcement on Friday, OpenAI says it will start testing ads in the coming weeks for logged-in users in the US who use the app for free or have a ChatGPT Go subscription.",
+              "Ads are coming soon to ChatGPT, starting with shopping links\nOpenAI says the ads won’t impact ChatGPT’s answers.",
+              "OpenAI says it will “keep your conversations with ChatGPT private from advertisers,” adding that it will “never sell your data” to them.",
+              "Advertisers also won’t influence the answers you see, which will remain “optimized based on what’s most helpful to you,” according to OpenAI.",
+              "The less expensive $8 /month ChatGPT Go plan is expanding to the US today, but it will also contain ads."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
+            "link": "https://www.wired.com/story/openai-testing-ads-us/",
+            "site_name": "WIRED",
+            "novelty_hash": "4330311c07c2bc024da438de96b583f98a7d8348"
+          },
+          "review": {
+            "headline_rewrite": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
+            "bullets": [
+              "OpenAI plans to start testing ads inside ChatGPT in the coming weeks, marking a significant shift for one of the world’s most widely used AI products.",
+              "OpenAI says ads will not influence ChatGPT’s responses, and that all ads will appear in separate, clearly labeled boxes directly below the chatbot’s answer.",
+              "“People trust ChatGPT for many important and personal tasks, so as we introduce ads, it’s crucial we preserve what makes ChatGPT valuable in the first place,” wrote OpenAI CEO of applications Fidji Simo in a blog post announcing the ad trial.",
+              "The Go tier—which is already available in India, France, and other countries—lets users send more messages and generate more images than the free version.",
+              "OpenAI says users on its Plus, Pro, and Enterprise subscriptions will not see ads.",
+              "OpenAI also outlined the principles guiding its approach to advertising."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 16, 2026 Days after Trump announced 25% ‘cut’ on Nvidia’s AI chips, White House official says it is only ‘phase one’ action The US Commerce Department has initiated a 25% national security tariff on select high-end semiconductors, signaling a \"phase one\" approach to bolster domestic chip manufacturing. This move, part of broader efforts by the Trump administration, may see further actions based on ongoing international and industry discussions. The administration views semiconductors as critical for national security.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-trump-announced-25-cut-on-nvidias-ai-chips-white-house-official-says-it-is-only-phase-one-action/articleshow/126588202.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "de10c55e84cc573b7ef2bfba8c3478880c76e70b"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 16, 2026 Days after Trump announced 25% ‘cut’ on Nvidia’s AI chips, White House official says it is only ‘phase one’ action The US Commerce Department has initiated a 25% national security tariff on select high-end semiconductors, signaling a \"phase one\" approach to bolster domestic chip manufacturing. This move, part of broader efforts by the Trump administration, may see further actions based on ongoing international and industry discussions. The administration views semiconductors as critical for national security.",
+            "bullets": [
+              "The United States Commerce Departmentâs decision to impose a 25% national security tariff on certain high-end semiconductors is only the âphase oneâ step, a White House official said.",
+              "According to a report by news agency Reuters, the move, announced earlier this week is being described as a âphase oneâ action aimed at protecting the US semiconductor sector.",
+              "Speaking on condition of anonymity, the official said further announcements could follow after talks with other countries and companies.",
+              "The comments suggest that the tariff policy may expand depending on how negotiations progress.",
+              "Trump previously threatened of 100% tariff on chips that are not made in the US\nThe report said the tariff is part of broader efforts by President Donald Trump to strengthen domestic chip manufacturing.",
+              "The official noted that Trump has earlier warned of much higher duties (up to 100%) on chips produced outside the United States."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
