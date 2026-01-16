@@ -66444,6 +66444,126 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "00:29": [
+        {
+          "item": {
+            "title": "The AI healthcare gold rush is here",
+            "link": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e69577e6a4527ab2223745633f04a4835f88b3b4"
+          },
+          "review": {
+            "headline_rewrite": "The AI healthcare gold rush is here",
+            "bullets": [
+              "AI companies are clustering around healthcare and fast.",
+              "In just the past week, OpenAI bought health startup Torch, Anthropic launched Claude for healthcare, and Sam Altman-backed MergeLabs closed a $250 million seed round at an $850 million valuation.",
+              "The money and products are pouring into health and voice AI, but so are concerns about hallucination risks, inaccurate medical information, and massive security vulnerabilities in systems handling sensitive patient data.",
+              "Watch as Equity podcast hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into why the AI world is suddenly obsessed with health care, what other products can expect an AI-makeover, and more."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+            "link": "https://techcrunch.com/2026/01/16/how-a-hacking-campaign-targeted-high-profile-gmail-and-whatsapp-users-across-the-middle-east/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3d7254f97d2a8e01388b95ce4e4381c920fce500"
+          },
+          "review": {
+            "headline_rewrite": "How a hacking campaign targeted high-profile Gmail and WhatsApp users across the Middle East",
+            "bullets": [
+              "The activist, who is following the digital side of the Iranian protests from afar, said the campaign targeted people involved in Iran-related activities, such as himself.",
+              "This hacking campaign comes as Iran grapples with the longest nationwide internet shutdown in its history, as anti-government protests — and violent crackdowns — rage across the country.",
+              "TechCrunch analyzed the source code of the phishing page, and with added input from security researchers, we believe the campaign aimed to steal Gmail and other online credentials, compromise WhatsApp accounts, and conduct surveillance by stealing location data, photos, and audio recordings.",
+              "The list includes a Middle Eastern academic working in national security studies; the boss of an Israeli drone maker; a senior Lebanese cabinet minister; at least one journalist; and people in the United States or with U.S.",
+              "Inside the attack chain\nAccording to Gharib, the WhatsApp message he received contained a suspicious link, which loaded a phishing site in the victim’s browser.",
+              "The link shows that the attackers relied on a dynamic DNS provider called DuckDNS for their phishing campaign."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI releases a cheaper ChatGPT subscription",
+            "link": "https://www.theverge.com/news/863466/openai-chatgpt-go-global-release",
+            "site_name": "The Verge",
+            "novelty_hash": "591785d30f160d607c83e36508f7c5940cea887e"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI releases a cheaper ChatGPT subscription",
+            "bullets": [
+              "OpenAI is expanding a low-cost subscription tier called ChatGPT Go to the US and the rest of the world.",
+              "Go was released in India in August and later became available in another 170 countries prior to Friday’s global release.",
+              "“In markets where Go has been available, we’ve seen strong adoption and regular everyday use for tasks like writing, learning, image creation, and problem-solving,” the company’s announcement stated.",
+              "OpenAI releases a cheaper ChatGPT subscription\n‘ChatGPT Go’ is available worldwide for $8 per month.",
+              "The price slots Go between the free version of the AI chatbot and the $20-a-month “Plus” subscription tier.",
+              "OpenAI says the Go tier is meant for people who want greater access to the company’s fast version of the latest AI model, GPT-5.2 Instant."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ads are coming soon to ChatGPT, starting with shopping links",
+            "link": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
+            "site_name": "The Verge",
+            "novelty_hash": "947e0078412fbb3e56fa1db9892d878f1d3aff8b"
+          },
+          "review": {
+            "headline_rewrite": "Ads are coming soon to ChatGPT, starting with shopping links",
+            "bullets": [
+              "ChatGPT will soon start showing you sponsored products or services if they’re related to your conversation.",
+              "In an announcement on Friday, OpenAI says it will start testing ads in the coming weeks for logged-in users in the US who use the app for free or have a ChatGPT Go subscription.",
+              "Ads are coming soon to ChatGPT, starting with shopping links\nOpenAI says the ads won’t impact ChatGPT’s answers.",
+              "OpenAI says it will “keep your conversations with ChatGPT private from advertisers,” adding that it will “never sell your data” to them.",
+              "Advertisers also won’t influence the answers you see, which will remain “optimized based on what’s most helpful to you,” according to OpenAI.",
+              "The less expensive $8 /month ChatGPT Go plan is expanding to the US today, but it will also contain ads."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
+            "link": "https://www.wired.com/story/openai-testing-ads-us/",
+            "site_name": "WIRED",
+            "novelty_hash": "4330311c07c2bc024da438de96b583f98a7d8348"
+          },
+          "review": {
+            "headline_rewrite": "Ads Are Coming to ChatGPT. Here’s How They’ll Work",
+            "bullets": [
+              "OpenAI plans to start testing ads inside ChatGPT in the coming weeks, marking a significant shift for one of the world’s most widely used AI products.",
+              "OpenAI says ads will not influence ChatGPT’s responses, and that all ads will appear in separate, clearly labeled boxes directly below the chatbot’s answer.",
+              "“People trust ChatGPT for many important and personal tasks, so as we introduce ads, it’s crucial we preserve what makes ChatGPT valuable in the first place,” wrote OpenAI CEO of applications Fidji Simo in a blog post announcing the ad trial.",
+              "The Go tier—which is already available in India, France, and other countries—lets users send more messages and generate more images than the free version.",
+              "OpenAI says users on its Plus, Pro, and Enterprise subscriptions will not see ads.",
+              "OpenAI also outlined the principles guiding its approach to advertising."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Lego's latest educational kit seeks to teach AI as part of computer science, not to build a chatbot",
+            "link": "https://www.engadget.com/ai/legos-latest-educational-kit-seeks-to-teach-ai-as-part-of-computer-science-not-to-build-a-chatbot-184636741.html",
+            "site_name": "Engadget",
+            "novelty_hash": "916ed7cb80b33f1a93649533483993c807b802a8"
+          },
+          "review": {
+            "headline_rewrite": "Lego's latest educational kit seeks to teach AI as part of computer science, not to build a chatbot",
+            "bullets": [
+              "It was unexpected and delightful to see Lego come up with a way to modernize its bricks without the need for apps, screens or AI.",
+              "So I was a little surprised this week when the Lego Education group announced its latest initiative is the Computer Science and AI Learning Solution.",
+              "After all, generative AI feels like the antithesis of Lego’s creative values.",
+              "But Andrew Silwinski, Lego Education’s head of product experience, was quick to defend Lego’s approach, noting that being fluent in the tools behind AI is not about generating sloppy images or music and more about expanding what it means by teaching computer science.",
+              "“Some of the ideas that underline AI are really powerful foundational ideas, regardless of the current frontier model that's out this week.",
+              "These are really foundational core ideas that go back to the 1970s.”\nTo that end, Lego Education designed courses for grades K-2, 3-5 and 6-8 that incorporate Lego bricks, additional hardware and lessons tailored to introducing the fundamentals of AI as an extension of existing computer science education."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
