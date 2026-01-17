@@ -30131,7 +30131,45 @@
       "03:52": [],
       "04:19": [],
       "04:51": [],
-      "05:15": []
+      "05:15": [],
+      "06:55": [
+        {
+          "item": {
+            "title": "Grok, a test for AI governance",
+            "link": "https://www.thehindubusinessline.com/opinion/grok-a-test-for-ai-governancex/article70515677.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Grok, a test for AI governance",
+            "bullets": [
+              "JB Branch In recent weeks, Grok — the AI system developed by Elon Musk’s xAI — has been generating nonconsensual, sexualized images of women",
+              "The ease with which Grok can be prompted to produce sexualized imagery involving minors, the breadth of regulatory scrutiny it now faces, and the",
+              "As governments increasingly integrate AI systems into public administration, procurement, and policy workflows, retaining the public’s trust will require assurances that these technologies comply",
+              "Equally important, it demonstrates that governance frameworks are not merely aspirational statements, but operational constraints – and that breaches will have real consequences."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Implications of SC ruling in the Tiger Global case",
+            "link": "https://www.thehindubusinessline.com/opinion/implications-of-sc-ruling-in-the-tiger-global-case/article70515658.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Implications of SC ruling in the Tiger Global case",
+            "bullets": [
+              "Tiger Global Response CBDT Circulars and Press Releases state that a Mauritian TRC is sufficient evidence of residence and beneficial ownership for treaty purposes,",
+              "Domestic doctrines like substance-over-form or lifting the corporate veil cannot be used to dilute treaty protections, absent express treaty language.",
+              "Apex Court decision The Supreme Court upheld the Revenue’s position that taxability arises in India.",
+              "Consequently, it held that the transaction constituted an impermissible tax-avoidance arrangement."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
