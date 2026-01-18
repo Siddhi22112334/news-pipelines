@@ -74828,6 +74828,97 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:53": [
+        {
+          "item": {
+            "title": "This UGreen 3-in-1 wireless charger is 32 percent off right now",
+            "link": "https://www.engadget.com/deals/this-ugreen-3-in-1-wireless-charger-is-32-percent-off-right-now-214707378.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0caac49fe5e0cf14b1cc460b5f6a69983ab92262"
+          },
+          "review": {
+            "headline_rewrite": "This UGreen 3-in-1 wireless charger is 32 percent off right now",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "It boasts a foldable design and has smart little design details to keep it feeling like a premium product.",
+              "The Qi2 25W charging works across a range of iPhone models and accessories, such as AirPods."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft issues emergency fix after a security update left some Windows 11 devices unable to shut down",
+            "link": "https://www.engadget.com/computing/microsoft-issues-emergency-fix-afer-a-security-update-left-some-windows-11-devices-unable-to-shut-down-192216734.html",
+            "site_name": "Engadget",
+            "novelty_hash": "005f16d918e809bb2d9571af145da22cccea0715"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft issues emergency fix after a security update left some Windows 11 devices unable to shut down",
+            "bullets": [
+              "If you weren't able to shut down your Windows 11 device recently, Microsoft has rolled out an emergency fix addressing a couple of critical bugs that popped up with its latest January 2026 Windows security update.",
+              "The latest \"out-of-band\" update repairs an issue for some Windows 11 devices that would only restart when users tried to shut down or hibernate.",
+              "Microsoft said the inability to shut down or hibernate affected Windows 11 devices using Secure Launch, a security feature that protects a computer from firmware-level attacks during startup.",
+              "As for the remote connection issue, Microsoft explained in its Known issues page that credential prompt failures were responsible when users tried to log in remotely to affected Windows 10 and 11 devices.",
+              "According to WindowsLatest, some lingering issues with the January 2026 Windows security update are still affecting users, like seeing blank screens or Outlook Classic crashing.",
+              "For those still hesitant to upgrade to Windows 11, Microsoft is allowing you to squeeze some more life out of Windows 10 by enrolling in Extended Security Updates."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/8-whatsapp-hidden-security-tools-that-help-prevent-scams-and-strengthen-personal-privacy/articleshow/126523970.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "68163cacf6848ceb6042a95bdbf248e14aa72952"
+          },
+          "review": {
+            "headline_rewrite": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "bullets": [
+              "Recent studies have demonstrated the vulnerabilities faced by users, ranging from browser-based account hijacking to massive phone number scraping through contact discovery services.",
+              "The good news is that there are some settings available in WhatsApp that you could use to greatly enhance your own personal safety and avoid unnecessary exposure.",
+              "WhatsApp features that significantly improve your security and privacy\nWhatsApp continues to strengthen its platform with encrypted backups, privacy-focused AI tools, and collaboration with security researchers.",
+              "- Use a privacy checkup to control what others can see\n- Enable disappearing messages to limit long-term exposure\nEnd-to-end encryption ensures the security of the message during the transfer process, whereas the message stored on the device remains insecure even if the device is compromised.",
+              "- Protect your account with two-step verification and a security PIN\nYour phone number is at the heart of your WhatsApp account, making it a vulnerable spot.",
+              "To turn it on, you need to go to Settings > Account > Two-step verification, and you will be prompted to create a PIN and can choose to add an email which will help you restore your account if you lose access."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "c5e03f745654ebd669bbde63ca3b24756cff5828"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Daulerio\nBy Auzinea Bacon\nThe Wall Street Journal\nBy Isabella Simonetti\nCSIS | Center for Strategic and International Studies\nBy Gracelin Baskaran\nBy John Kelley Dineen\nBy Claire Reid\nABC7 New York\nBy N.",
+              "Burkett\nCNBC\nBy Lora Kolodny\nBy Barbara Moens\nBy Rachel Wolfe\nPCMag\nBy Rob Pegoraro\nFrequent Miler\nBy Nick Reyes\nBilt Rewards\nBy Ankur Jain\nCBS News\nBy Elyssa Kaufman\nBy Bradley Olson\nElectrek\nBy Fred Lambert\nThere are no items to show."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
