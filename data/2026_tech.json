@@ -74053,6 +74053,121 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:22": [
+        {
+          "item": {
+            "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+            "link": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f87bace11c046f25c8d3e6e47b77c784ef8196b4"
+          },
+          "review": {
+            "headline_rewrite": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+            "bullets": [
+              "If you’re at all concerned about privacy, the rise of AI personal assistants can feel alarming.",
+              "It’s difficult to use one without sharing personal information, which is retained by the model’s parent company.",
+              "With OpenAI already testing advertising, it’s easy to imagine the same data collection that fuels Facebook and Google creeping into your chatbot conversations.",
+              "A new project, launched in December by Signal co-founder Moxie Marlinspike, is showing what a privacy-conscious AI service might look like.",
+              "Your Confer conversations can’t be used to train the model or target ads, for the simple reason that the host will never have access to them.",
+              "When you combine that with advertising, it’s like someone paying your therapist to convince you to buy something.”\nEnsuring that privacy requires several different systems working in concert."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How YC-backed Bucket Robotics survived its first CES",
+            "link": "https://techcrunch.com/2026/01/18/how-yc-backed-bucket-robotics-survived-its-first-ces/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f960265b92851c22b077025246c759128e5d066d"
+          },
+          "review": {
+            "headline_rewrite": "How YC-backed Bucket Robotics survived its first CES",
+            "bullets": [
+              "So he rented a Hyundai Santa Fe and packed it up.",
+              "“It was… it was tight,” he said with a laugh on the show floor.",
+              "It took 12 hours driving in the rain, but the gear – and Puchalski – made it safely to Las Vegas, and so began the young company’s first-ever CES.",
+              "San Francisco-based Bucket Robotics was just one of thousands of companies exhibiting at the annual tech conference, a speck of sand on a beach full of products and promises.",
+              "But despite its modest setup in the automotive-focused West Hall, Puchalski said the trip was worth it.",
+              "An engineer by trade, Puchalski spent most of the last decade working on autonomous vehicles at Uber, Argo AI, Ford’s subsidiary Latitude AI, and SoftBank-backed Stack AV."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shuting down",
+            "link": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
+            "site_name": "The Verge",
+            "novelty_hash": "b01cdf019f7933db956aa610a95eeca2295b8883"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shuting down",
+            "bullets": [
+              "Microsoft released its first security update of 2026 for Windows 11 on January 13th.",
+              "The security patch was stopping some systems from shutting down or hibernating properly, and also preventing some users from logging in via remote desktop.",
+              "Microsoft’s first Windows 11 update of 2026 stopped some computers from shuting down\nThankfully there’s an emergency fix already available.",
+              "Microsoft has identified issues upon installing the January 2026 Windows security update.",
+              "- Connection and authentication failures in remote connection applications: This issue affects multiple platforms including Windows 11, version 25H2; Windows 10, version 22H2 ESU; and Windows Server 2025.",
+              "See the bottom of this message for the complete list of affected products."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple's latest 25W MagSafe charger is on sale for $30",
+            "link": "https://www.engadget.com/deals/apples-latest-25w-magsafe-charger-is-on-sale-for-30-141707297.html",
+            "site_name": "Engadget",
+            "novelty_hash": "063c50b5f067ee1b16de0d295e8ab7d4601bf12e"
+          },
+          "review": {
+            "headline_rewrite": "Apple's latest 25W MagSafe charger is on sale for $30",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "The retailer is selling the one meter Apple Magsafe charger for $30, saving you $10 off the regular price, while also selling the two meter model for $40 ($10 off).",
+              "If you have an iPhone 16, iPhone 17 or iPhone Air, this cable can charge your device at 25W as long as it's connected to a 30W power adapter on the other end.",
+              "The cable works with AirPods wireless charging cases too — it's certified for Qi2.2 and Qi charging.",
+              "The MagSafe charger is one of our favorite iPhone accessories, and would pair quite nicely with your new iPhone if you're picking up one of the latest models.",
+              "If you're on the fence about that, be sure to check out our reviews of the iPhone 17, iPhone Pro/Pro Max and iPhone Air."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Disney+ and Hulu deal: Get one month of the bundle for only $10",
+            "link": "https://www.engadget.com/deals/disney-and-hulu-deal-get-one-month-of-the-bundle-for-only-10-192814033.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d0cb991223297b8965cff3f201796f658c6302f4"
+          },
+          "review": {
+            "headline_rewrite": "Disney+ and Hulu deal: Get one month of the bundle for only $10",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Disney+ and Hulu make one of the most balanced streaming pairs available, blending family-friendly favorites with acclaimed originals and network TV staples.",
+              "The platform hosts series like The Bear, The Handmaid’s Tale and Only Murders in the Building, alongside comedies, thrillers and documentaries that regularly feature in awards conversations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
