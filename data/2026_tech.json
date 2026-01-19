@@ -77934,5 +77934,122 @@
         }
       ]
     }
+  },
+  "2026-01-20": {
+    "runs": {
+      "00:01": [
+        {
+          "item": {
+            "title": "Here are the 55 US AI startups that have raised $100M or more in 2025",
+            "link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3d699f5399cdd9be5313a6f1fab9864c3a01a626"
+          },
+          "review": {
+            "headline_rewrite": "Here are the 55 US AI startups that have raised $100M or more in 2025",
+            "bullets": [
+              "The AI industry entered 2025 with strong momentum.",
+              "There were 49 startups that raised funding rounds worth $100 million or more in 2024, per our count at TechCrunch; three companies raised more than one “mega-round,” and seven companies raised rounds that were $1 billion in size or larger.",
+              "While less companies raised rounds larger than $1 billion, four — Anthropic raised two rounds over $1 billion — significantly more companies raised multiple rounds compared to 2024, eight.",
+              "Elon Musk’s xAI announced a $20 billion Series E round and Sam Altman’s brain computer interface startup Merge Labs raised a $250 million seed round (with OpenAI as the lead investor) in the first few weeks of 2026, so signs point to another strong year.",
+              "AI companies that raised $100 million this year:\nDecember:\n- Austin, Texas-based Mythic, which builds power-efficient compute for AI, raised a $125 million venture round that was led by DCVC.",
+              "The round was announced on December 17 and included SoftBank, NEA and Linse Capital, among other investors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Reports of ad-supported Xbox game streams show Microsoft's lack of imagination",
+            "link": "https://arstechnica.com/gaming/2026/01/reports-of-ad-supported-xbox-game-streams-show-microsofts-lack-of-imagination/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4e7d3da12e164366fe21a125ffc9233fbc5698c5"
+          },
+          "review": {
+            "headline_rewrite": "Reports of ad-supported Xbox game streams show Microsoft's lack of imagination",
+            "bullets": [
+              "Currently, Microsoft’s long-running Cloud Gaming service is limited to players that have a Microsoft’s Game Pass subscription.",
+              "Now, new reporting suggests Microsoft is planning to offer non-subscribers access to game streams paid for by advertising in the near future, but only in extremely limited circumstances.",
+              "The latest wave of rumors was set off late last week when The Verge’s Tom Warren shared an Xbox Cloud Gaming loading screen with a message mentioning “1 hour of ad supported playtime per session.” That leaked message comes after Windows Central reported last summer that Microsoft has been “exploring video ads for free games for quite some time,” à la the two-minute sponsorships that appear before free-tier game streams on Nvidia’s GeForce Now service.",
+              "Don’t get your hopes up for easy, free, ad-supported access to the entire Xbox Cloud Gaming library, though."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Bungie’s Marathon shooter launches on March 5th",
+            "link": "https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price",
+            "site_name": "The Verge",
+            "novelty_hash": "3dd41d52de8e017b9399825537bff622ee56808b"
+          },
+          "review": {
+            "headline_rewrite": "Bungie’s Marathon shooter launches on March 5th",
+            "bullets": [
+              "The slick-looking shooter from the makers of Halo and Destiny was originally set to release in September, but will now launch on March 5th.",
+              "Bungie will launch Marathon on Xbox Series S / X, PS5, and PC, priced at $39.99.",
+              "Bungie’s Marathon shooter launches on March 5th\nBungie is pricing its upcoming extraction shooter at $39.99.",
+              "Bungie’s delay to Marathon means it is now launching months after ARC Raiders, an extraction shooter from the makers of The Finals that has consistently been in the top five most-played games on Steam since its launch in late October.",
+              "Bungie had originally planned to launch Marathon ahead of ARC Raiders.",
+              "Most Popular\n- Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies\n- Why Coinbase derailed the crypto industry’s political future\n- Under Musk, the Grok disaster was inevitable\n- The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend\n- Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The race to build a super-large ground telescope is likely down to two competitors",
+            "link": "https://arstechnica.com/space/2026/01/as-europes-large-ground-telescope-project-advances-how-is-its-us-competitor-faring/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "18ad92d4c5d3126896c3596e865d2e2e1e880bba"
+          },
+          "review": {
+            "headline_rewrite": "The race to build a super-large ground telescope is likely down to two competitors",
+            "bullets": [
+              "An international consortium to build the Thirty Meter Telescope in Hawaii ran into local protests that have bogged down development.",
+              "Originally backers of the GMT intended it to be fully operational by now, but it has faced funding and technology challenges.",
+              "It has a price tag of approximately $2 billion, and although it is smaller than the European project, the 25.4-meter telescope now represents the best avenue for US-based astronomy to remain competitive in the field."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Musk claims Tesla will restart work on its Dojo supercomputer",
+            "link": "https://www.engadget.com/ai/musk-claims-tesla-will-restart-work-on-its-dojo-supercomputer-173127863.html",
+            "site_name": "Engadget",
+            "novelty_hash": "75f2032c7307ce7f5a3e1ebe1d94631c08c2ce5e"
+          },
+          "review": {
+            "headline_rewrite": "Musk claims Tesla will restart work on its Dojo supercomputer",
+            "bullets": [
+              "The Dojo team had been disbanded last year as the company prioritized the AI chips that run on board Tesla vehicles.",
+              "Musk said the company is returning to the project \"now that the AI5 chip design is in good shape.\"\nThe purpose of the Dojo project is to process video recordings and other data from Tesla vehicles and use that to train the \"neural net\" behind the company's Full Self-Driving software.",
+              "Last year, however, Musk posted on X that \"It doesn’t make sense for Tesla to divide its resources and scale two quite different AI chip designs.",
+              "The Tesla AI5, AI6 and subsequent chips will be excellent for inference and at least pretty good for training.",
+              "All effort is focused on that.\"\nThe AI chips Musk is referring to are ones developed for running FSD onboard Tesla vehicles and are not optimized for training.",
+              "The AI6 chips will be made by Samsung in the company's Texas factory, after it struck a $16 billion agreement with Tesla."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
+      ]
+    }
   }
 }
