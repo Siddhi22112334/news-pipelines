@@ -76790,6 +76790,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "18:16": [
+        {
+          "item": {
+            "title": "10 things I learned from burning myself out with AI coding agents",
+            "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d2e689aaadcbacdd1fc27bf7787892b0bbc26841"
+          },
+          "review": {
+            "headline_rewrite": "10 things I learned from burning myself out with AI coding agents",
+            "bullets": [
+              "But the result isn’t polished and ready for mass production, and creating a novel shape requires more skills than just pushing a button.",
+              "Interestingly, today’s AI coding agents feel much the same way.",
+              "Since November, I have used Claude Code and Claude Opus 4.5 through a personal Claude Max account to extensively experiment with AI-assisted software development (I have also used OpenAI’s Codex in a similar way, though not as frequently).",
+              "This opinion comes not as an endorsement but as personal experience: I voluntarily undertook this project, and I paid out of pocket for both OpenAI and Anthropic’s premium AI plans.",
+              "They can spit out flashy prototypes of simple applications, user interfaces, and even games, but only as long as they borrow patterns from their training data.",
+              "Much like a 3D printer, doing production-level work takes far more effort."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Threads overtakes X on mobile, but still lags far behind",
+            "link": "https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users",
+            "site_name": "The Verge",
+            "novelty_hash": "aa7cb179e1c327579cc3afce359965f43dbe0d1c"
+          },
+          "review": {
+            "headline_rewrite": "Threads overtakes X on mobile, but still lags far behind",
+            "bullets": [
+              "After launching almost three years ago, Meta’s Threads is now reportedly attracting more daily mobile users than rival platform X.",
+              "According to Similarweb data shared by TechCrunch, Threads has 141.5 million daily active iOS and Android global app users as of January 7th, compared to 125 million users for Elon Musk’s mobile platform.",
+              "Threads overtakes X on mobile, but still lags far behind\nElon Musk’s platform still dominates for daily web visits.",
+              "X still has more mobile users than Threads in the US, according to Similarweb, but notes that Threads is catching up, and that X has half as many daily active mobile users in the US now as it did last year.",
+              "As of January 13th, X was attracting 145.4 million daily web visitors, compared to just 8.5 million on Threads.",
+              "Meta may have won the mobile battle, according to these new estimates, but with only 150 million daily users combined, it has an uphill struggle to catch up with X’s more than 270 million."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Dumbphone Owners Have Lost Their Minds",
+            "link": "https://www.wired.com/story/dumbphone-owners-have-literally-lost-their-minds/",
+            "site_name": "WIRED",
+            "novelty_hash": "346254f46c0b1c48fc8624434adb975feefe65a4"
+          },
+          "review": {
+            "headline_rewrite": "Dumbphone Owners Have Lost Their Minds",
+            "bullets": [
+              "Against her will, she did own an iPhone for a time.",
+              "Designed for those weaning themselves off the real thing, it connected to Wi-Fi but not to the internet, and it certainly didn’t accommodate apps.",
+              "“I think my main reason for getting rid of it was that I felt like my brain was being consumed,” she recently told me.",
+              "It’s deeply embarassing—it really makes me feel like a giant baby—but I am certain that my smartphone is a part of me.",
+              "Back in 1998, Andy Clark and David Chalmers introduced their “extended mind hypothesis,” the idea that external tools can extend, in an all but physical way, the biological brain.",
+              "That's not just your phone at work, and it’s also not just your biological brain—it’s a single cognitive system composed of both."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Clean Your Keurig (and When)",
+            "link": "https://www.wired.com/story/how-to-clean-keurig/",
+            "site_name": "WIRED",
+            "novelty_hash": "01a5060901fc43ebd09190cc3c6b28f9886ec487"
+          },
+          "review": {
+            "headline_rewrite": "How to Clean Your Keurig (and When)",
+            "bullets": [
+              "But with proper maintenance and a dedicated routine, cleaning is a breeze.",
+              "Here’s everything you need to know about light daily cleaning as well as deeper cleans.",
+              "Daily Maintenance\nTo clean your drip tray and water reservoir, remove them and wash them by hand with hot, soapy water (though avoid using too much dish soap to prevent buildup).",
+              "Let them air dry or wipe them down with a lint-free towel after rinsing them off.",
+              "Most machines with these types of filters have maintenance reminders—heed them!",
+              "You should deep-clean or descale your pod coffee maker every three to six months, or possibly more often if you notice hard water stains, calcium deposits, or mineral buildup, or your machine prompts you to deep-clean it."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/8-whatsapp-hidden-security-tools-that-help-prevent-scams-and-strengthen-personal-privacy/articleshow/126523970.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "68163cacf6848ceb6042a95bdbf248e14aa72952"
+          },
+          "review": {
+            "headline_rewrite": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "bullets": [
+              "Recent studies have demonstrated the vulnerabilities faced by users, ranging from browser-based account hijacking to massive phone number scraping through contact discovery services.",
+              "The good news is that there are some settings available in WhatsApp that you could use to greatly enhance your own personal safety and avoid unnecessary exposure.",
+              "WhatsApp features that significantly improve your security and privacy\nWhatsApp continues to strengthen its platform with encrypted backups, privacy-focused AI tools, and collaboration with security researchers.",
+              "- Use a privacy checkup to control what others can see\n- Enable disappearing messages to limit long-term exposure\nEnd-to-end encryption ensures the security of the message during the transfer process, whereas the message stored on the device remains insecure even if the device is compromised.",
+              "- Protect your account with two-step verification and a security PIN\nYour phone number is at the heart of your WhatsApp account, making it a vulnerable spot.",
+              "To turn it on, you need to go to Settings > Account > Two-step verification, and you will be prompted to create a PIN and can choose to add an email which will help you restore your account if you lose access."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
