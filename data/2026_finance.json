@@ -36611,5 +36611,80 @@
         }
       ]
     }
+  },
+  "2026-01-21": {
+    "runs": {
+      "00:05": [
+        {
+          "item": {
+            "title": "S&amp;P 500 drops over 1% on Trump's tariff threat to EU allies over Greenland",
+            "link": "https://www.livemint.com/market/sp-500-drops-over-1-per-cent-on-trumps-tariff-threat-to-eu-allies-over-greenland-11768931037222.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "S&amp;P 500 drops over 1% on Trump's tariff threat to EU allies over Greenland",
+            "bullets": [
+              "Typically, when geopolitical tensions unsettled stock markets, investors seek refuge in traditional US safe-haven assets such as the dollar and government bonds.",
+              "This drop in value reflects broad-based losses for the US currency.",
+              "Meanwhile, the yield on the 10-year US government bond gained.",
+              "Since debt's yield moves inversely to price, it means that the value of the note declined due to the sell-off, NY time reported."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Trade tussle takes toll, Nifty logs worst fall in eight months",
+            "link": "https://www.livemint.com/market/trade-tussle-takes-toll-nifty-logs-worst-fall-in-seven-months-11768916593039.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Trade tussle takes toll, Nifty logs worst fall in eight months",
+            "bullets": [
+              "The Nifty fell 1.38% or 353 points to close at 25,232.5, its lowest since 13 May 2025, while the Sensex fell 1.28% or 1065",
+              "The rupee fell 0.07% to a new low of 97.9 to the dollar, as foreign investors sold.",
+              "Caution “Sentiment could remain cautious over the next few weeks until clarity emerges on the European trade deal, with markets facing a busy period",
+              "The underperformance has been driven by rising US bond yields and slower corporate earnings growth at home relative to market valuations."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Inspira Global to buy controlling stake in Burger King India operator RBA",
+            "link": "https://www.thehindubusinessline.com/companies/inspira-global-to-buy-controlling-stake-in-burger-king-india-operator-rba/article70530916.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Inspira Global to buy controlling stake in Burger King India operator RBA",
+            "bullets": [
+              "Inspira Global will buy a controlling stake in Restaurant Brands Asia, which operates the Burger King restaurant chain in India, by buying out Everstone",
+              "Open offer trigger The transactions will take Inspira’s stake in RBA close to 35 per cent, triggering an open offer for an additional 26"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Saina Nehwal confirms retirement from badminton after long injury battle",
+            "link": "https://www.thehindubusinessline.com/news/sports/saina-nehwal-confirms-retirement-from-badminton-after-long-injury-battle/article70530846.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Saina Nehwal confirms retirement from badminton after long injury battle",
+            "bullets": [
+              "Olympic medallist Saina Nehwal on Tuesday confirmed her retirement from competitive badminton after being out of action for nearly two years due to a",
+              "“I had stopped playing two years back.",
+              "I actually felt that I entered the sport on my own terms and left on my own terms, so there was no need to"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
