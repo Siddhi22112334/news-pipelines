@@ -82426,6 +82426,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:53": [
+        {
+          "item": {
+            "title": "Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7e-instances-accelerated-by-nvidia-rtx-pro-6000-blackwell-server-edition-gpus/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "972b7cd575974cfcaf9f6552b2a9232043248625"
+          },
+          "review": {
+            "headline_rewrite": "Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs",
+            "bullets": [
+              "Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs\nToday, we’re announcing the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7e instances that deliver cost-effective performance for generative AI inference workloads and the highest performance for graphics workloads.",
+              "G7e instances are accelerated by the NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs and are well suited for a broad range of GPU-enabled workloads including spatial computing and scientific computing workloads.",
+              "Improvements made compared to predecessors:\n- NVIDIA RTX PRO 6000 Blackwell GPUs — NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs offer two times the GPU memory and 1.85 times the GPU memory bandwidth compared to G6e instances.",
+              "By using the higher GPU memory offered by G7e instances, you can run medium-sized models of up to 70B parameters with FP8 precision on a single GPU.",
+              "- NVIDIA GPUDirect P2P — For models that are too large to fit into the memory of a single GPU, you can split the model or computations across multiple GPUs.",
+              "G7e instances reduce the latency of your multi-GPU workloads with support for NVIDIA GPUDirect P2P, which enables direct communication between GPUs over PCIe interconnect."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
+            "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0d061a6940dfc5c91aa0c9080f23914c8faa9d59"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
+            "bullets": [
+              "Elon Musk said over the long weekend that Tesla aims to restart work on Dojo3, the electric vehicle company’s previously abandoned third-generation AI chip.",
+              "Only this time, Dojo3 won’t be aimed at training self-driving models on Earth.",
+              "Instead, Musk says it will be dedicated to “space-based AI compute.”\nThe move comes five months after Tesla effectively shut down its Dojo effort.",
+              "Around 20 Dojo workers also left to join DensityAI, a new AI infrastructure startup founded by former Dojo head Ganesh Venkataramanan and ex-Tesla employees Bill Chang and Ben Floering.",
+              "At the time of Dojo’s shutdown, Bloomberg reported Tesla planned to increase its reliance on Nvidia and other partners like AMD for compute and Samsung for chip manufacturing, rather than continue developing its own custom silicon.",
+              "Musk’s latest comments suggest the strategy has shifted again."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "X open sources its algorithm while facing a transparency fine and Grok controversies",
+            "link": "https://techcrunch.com/2026/01/20/x-open-sources-its-algorithm-while-facing-a-transparency-fine-and-grok-controversies/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b264c921d0c1fa1c0de268655582a23f0a15e474"
+          },
+          "review": {
+            "headline_rewrite": "X open sources its algorithm while facing a transparency fine and Grok controversies",
+            "bullets": [
+              "In those days, Tesla billionaire Elon Musk had only recently acquired the platform, and he claimed to be on a mission to restructure the social media platform to make it more transparent.",
+              "Now the site (rebranded as X) has open sourced its algorithm again, fulfilling a promise made by Musk last week.",
+              "“We will make the new 𝕏 algorithm, including all code used to determine what organic and advertising posts are recommended to users, open source in 7 days,” he’d said.",
+              "What has been revealed isn’t particularly earth-shattering — but it does provide a peek behind the algorithmic curtain.",
+              "The algorithm then filters out certain kinds of posts, including ones that come from blocked accounts or that are associated with muted keywords, as well as content that has been deemed too violent or spam-like.",
+              "This whole system is AI-based, according to X."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "FTC says it will appeal Meta antitrust loss",
+            "link": "https://www.theverge.com/news/864622/ftc-meta-antitrust-ruling-appeal",
+            "site_name": "The Verge",
+            "novelty_hash": "bdcfed650734e3c7f0624e675f8c700b736a9caf"
+          },
+          "review": {
+            "headline_rewrite": "FTC says it will appeal Meta antitrust loss",
+            "bullets": [
+              "The Federal Trade Commission will appeal its loss in a landmark antitrust case against Meta, the agency announced Tuesday.",
+              "FTC says it will appeal Meta antitrust loss\nA federal judge found that Meta does not have a monopoly over personal social networking services.",
+              "US District Court Judge James Boasberg ruled in November that the government failed to prove that Meta had an illegal monopoly over a subset of social networking services meant for connecting with friends and family online.",
+              "The government argued that Meta maintained its monopoly over the personal social networking market — which it said included services like Snapchat and MeWe, but not TikTok or YouTube — by acquiring nascent threats Instagram and WhatsApp.",
+              "businesses compete fairly against one another,” FTC Bureau of Competition Director Daniel Guarnera said in a statement.",
+              "“Yet Meta has maintained its dominant position and record profits for well over a decade not through legitimate competition, but by buying its most significant competitive threats."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump admin admits DOGE employees had access to off-limits Social Security data",
+            "link": "https://www.theverge.com/news/864643/doge-social-security-data-misuse",
+            "site_name": "The Verge",
+            "novelty_hash": "391281af81288e2c8d14b38651866388a28ac9b6"
+          },
+          "review": {
+            "headline_rewrite": "Trump admin admits DOGE employees had access to off-limits Social Security data",
+            "bullets": [
+              "Department of Government Efficiency (DOGE) staffers working at the Social Security Administration (SSA) broke protocols, had more access to sensitive data on Americans than previously disclosed, and were in touch with a political advocacy group hunting for election fraud, the Trump administration admitted in a recent court filing.",
+              "Trump admin admits DOGE employees had access to off-limits Social Security data\nA court filing reveals DOGE employees had more access to Social Security data than previously disclosed.",
+              "In a recent review, the SSA found out that two members of the DOGE team working at the agency had been contacted in March 2025 by a political advocacy group “with a request to analyze state voter rolls that the advocacy group had acquired.” The group’s “stated aim was to find evidence of voter fraud and to overturn election results in certain States,” the filing says.",
+              "For example, the government maintains its earlier statement that the US Digital Service, taken over by DOGE, “never had access to SSA systems of record.” But, it was later found out that a member of the SSA DOGE team sent an encrypted, password-protected file that the SSA believes contained personal information on about 1,000 people to a then-senior advisor to DOGE.",
+              "It remains “unclear” if the DOGE advisor was ever given the password, according to the filing.",
+              "DOGE staffers were also briefly granted access to systems with Americans’ personal information after the court issued a temporary restraining order, but the government says the staffers never actually viewed personal information with that access."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+            "link": "https://arstechnica.com/tech-policy/2026/01/verizon-starts-requiring-365-days-of-paid-service-before-it-will-unlock-phones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1627f605fe59a4c6561833e124b47c7f444ba9e9"
+          },
+          "review": {
+            "headline_rewrite": "Verizon starts requiring 365 days of paid service before it will unlock phones",
+            "bullets": [
+              "Verizon has started enforcing a 365-day lock period on phones purchased through its TracFone division, one week after the Federal Communications Commission waived a requirement that Verizon unlock handsets 60 days after they are activated on its network.",
+              "Verizon was previously required to unlock phones automatically after 60 days due to restrictions imposed on its spectrum licenses and merger conditions that helped Verizon obtain approval of its purchase of TracFone.",
+              "But an update applied today to the TracFone unlocking policy said new phones will be locked for at least a year and that each customer will have to request an unlock instead of getting it automatically.",
+              "The “new” TracFone policy is basically a return to the yearlong locking it imposed before Verizon bought the company in 2021.",
+              "TracFone first agreed to provide unlocking in a 2015 settlement with the Obama-era FCC, which alleged that TracFone failed to comply with a commitment to unlock phones for customers enrolled in the Lifeline subsidy program.",
+              "TracFone later shortened the locking period from a year to 60 days as a condition of the Verizon merger."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
