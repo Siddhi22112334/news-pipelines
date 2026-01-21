@@ -85820,6 +85820,126 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:25": [
+        {
+          "item": {
+            "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+            "link": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8a12f9ba434f4b4479c87368aa18949d4654b378"
+          },
+          "review": {
+            "headline_rewrite": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+            "bullets": [
+              "AI detection startup GPTZero scanned all 4,841 papers accepted by the prestigious Conference on Neural Information Processing Systems (NeurIPS), which took place last month in San Diego.",
+              "Having a paper accepted by NeurIPS is a résumé-worthy achievement in the world of AI.",
+              "Given that these are the leading minds of AI research, one might assume they would use LLMs for the catastrophically boring task of writing citations.",
+              "As NeurIPS told Fortune, which was first to report on GPTZero’s research, “Even if 1.1% of the papers have one or more incorrect references due to the use of LLMs, the content of the papers themselves [is] not necessarily invalidated.”\nBut having said all that, a faked citation is not a nothing, either.",
+              "When AI makes them up, it waters down their value.",
+              "No one can fault the peer reviewers for not catching a few AI-fabricated citations given the sheer volume involved."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apps for boycotting American products surge to the top of the Danish App Store",
+            "link": "https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "77b8b53e78c15225783c6ce805fc6c26a7a87c72"
+          },
+          "review": {
+            "headline_rewrite": "Apps for boycotting American products surge to the top of the Danish App Store",
+            "bullets": [
+              "European consumers are fighting back against the U.S.",
+              "As a result, two mobile apps that offer a way to determine if products are made in America, then suggest local alternatives, have surged to the top of the Danish App Store in recent days.",
+              "The boost in downloads comes as Danish consumers have been organizing a grassroots boycott of American-made products, which also included canceling their U.S.",
+              "This app is specifically designed to allow users to boycott American products in their everyday lives.",
+              "To use the app, users scan product barcodes, then view the product’s origin information on their iPhone.",
+              "Currently, the app’s top five markets are Denmark, Norway, Sweden, and Iceland, demonstrating a Nordic alliance in boycotting American products."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple is turning Siri into an AI bot that&#8217;s more like ChatGPT",
+            "link": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt",
+            "site_name": "The Verge",
+            "novelty_hash": "c4334d92c98afbc88c1992575859843069a3cf56"
+          },
+          "review": {
+            "headline_rewrite": "Apple is turning Siri into an AI bot that&#8217;s more like ChatGPT",
+            "bullets": [
+              "Apple is planning a big Siri overhaul that will transform the voice assistant into an AI chatbot built directly into its iPhone and Mac, according to Bloomberg reporter Mark Gurman.",
+              "The update is reportedly coming later this year and will replace the existing Siri interface, allowing users to interact with the assistant by both typing and talking, similar to the chatbots available from Google, OpenAI, Anthropic, and others.",
+              "Apple is turning Siri into an AI bot that’s more like ChatGPT\nBloomberg reports the chatbot version of Siri is slated for release later this year on iPhone, iPad, and Mac.",
+              "As noted by Bloomberg, this change is separate from the AI-powered personalization features coming to Siri in the next few months.",
+              "Like that updated version of Siri, the chatbot will reportedly use a custom Google Gemini AI model as part of the multiyear partnership both companies announced earlier this year, though this version will have capabilities that “significantly surpass” its AI personalization features, Bloomberg reports.",
+              "Apple reportedly plans to reveal Siri’s AI update, codenamed Campos, during its Worldwide Developers Conference in June before launching it in September."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+            "link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+            "site_name": "The Verge",
+            "novelty_hash": "55be35642ebd83d100dde00c159031d3ee5f141a"
+          },
+          "review": {
+            "headline_rewrite": "Apple is reportedly working on an AirTag-sized AI wearable",
+            "bullets": [
+              "Apple is working on an AI-powered wearable pin with cameras and microphones designed to pick up a user’s surroundings, according to a report from The Information.",
+              "The rumored device is reportedly the size of an AirTag, with “thin, flat, circular” housing made from aluminium and glass.",
+              "Apple is reportedly working on an AirTag-sized AI wearable\nThe circular device will pick up a wearer’s surroundings using its built-in cameras and microphones, according to The Information.",
+              "The Information reports that Apple’s rumored AI pin will have a standard lens and a wide-angle lens, along with three microphones, a speaker, a physical button on one of its sides, and support for wireless charging.",
+              "Additionally, Bloomberg reports that Apple will transform its voice assistant into an AI chatbot built into the iPhone, iPad, and Mac in September.",
+              "Though many companies are injecting AI into wearable devices like smart glasses, watches, and headphones, others are creating dedicated AI devices — some of which haven’t yet found their footing."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Kioxia's memory is \"sold out\" for 2026, prolonging a \"high-end and expensive phase\"",
+            "link": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "fa637feeb48d5c7d11ca1bb12f9751ed0f106c05"
+          },
+          "review": {
+            "headline_rewrite": "Kioxia's memory is \"sold out\" for 2026, prolonging a \"high-end and expensive phase\"",
+            "bullets": [
+              "The companies that make RAM and flash memory chips are enjoying record profits because of the AI-induced memory crunch—and they’re also indicating that they don’t expect conditions to improve much if at all in 2026.",
+              "“There is a sense of crisis that companies will be eliminated the moment they stop investing in AI, so they have no choice but to continue investing,” said Nakato, as reported by the Korean-language publication Digital Daily.",
+              "Absent a big change in the demand for generative AI data centers, that cycle of investments will keep prices high for the foreseeable future.",
+              "Nakato notes that Kioxia was attempting to increase its manufacturing capacity to meet the elevated demand, saying that it was taking steps to improve yields at its factory in Yokkaichi and that Kioxia expected another factory in Kitakami to begin “full-scale mass production” this year.",
+              "As we’ve seen during several chip shortages this decade, it takes time for chip shortages to abate because it takes years to build new factories and get them producing useful numbers of usable chips."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The problem with revisiting Tomb Raider: Reacclimating to tank controls",
+            "link": "https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5929cadf5c12f30aeffd3d10d029d470d1356612"
+          },
+          "review": {
+            "headline_rewrite": "The problem with revisiting Tomb Raider: Reacclimating to tank controls",
+            "bullets": [
+              "This time I’d like to write about one that I think doesn’t hold up quite as well for me: For the first time in almost 30 years, I revisited the original Tomb Raider via 2024’s Tomb Raider I-III Remastered collection.",
+              "You might be thinking this is going to be a dunk on the work done on the remaster, but that’s not the case, because the core issue with playing 1996’s Tomb Raider in 2026 is actually unsolvable, no matter how much care is put into a remaster.",
+              "The age of tank controls\nTomb Raider was part of the first wave of multiplatform games with fully 3D gameplay, releasing the same year as similarly groundbreaking 3D titles Super Mario 64 and Quake.",
+              "Tomb Raider opted for a modality that was common for a few years before it was replaced by clearly better solutions: what we now call “tank controls,” where forward or back moves the character forward or back, but hitting left or right turns the character on its axis in place without moving.",
+              "I loved Tomb Raider‘s level design and atmosphere, and the designers did about as good a job as they could designing around the limitations of the controls for most of the combat sequences."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
