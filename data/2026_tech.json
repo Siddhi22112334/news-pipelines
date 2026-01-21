@@ -84158,6 +84158,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "17:18": [
+        {
+          "item": {
+            "title": "India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom",
+            "link": "https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "de16a921e6cee4fb258f05704331525cb6cd6e9e"
+          },
+          "review": {
+            "headline_rewrite": "India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom",
+            "bullets": [
+              "People were also more engaged, thanks to AI and microdrama apps, as time spent in apps rose from 1.13 trillion hours in 2024 to 1.23 trillion last year, according to the report.",
+              "When it comes to category growth, social media, social messenger, and security apps dipped.",
+              "Meanwhile, AI assistants, microdrama apps, video editing apps, social discovery, and food and delivery apps rose (largely because of the rise of ultra-fast grocery delivery services).",
+              "Short drama app downloads grew by over 350 million in the country, and AI assistants grew by 346 million downloads, which is also reflective of the global trend.",
+              "Users in India downloaded generative AI apps 198 million times in 2024.",
+              "First, companies like OpenAI and Google launched new image models that saw the demand for AI assistants grow exponentially in India."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
+            "link": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0c603e10b13c9f2edc254d502850c38aa6c27e56"
+          },
+          "review": {
+            "headline_rewrite": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
+            "bullets": [
+              "While this milestone had been seen in particular markets, like the U.S., or during certain quarters, 2025 marked the first time it occurred globally.",
+              "Generative AI, a defining trend over the past year, led the revenue growth, as in-app purchase revenue in this category more than tripled to top $5 billion in 2025.",
+              "Downloads of AI apps also grew, doubling year-over-year to reach 3.8 billion.",
+              "For one, the popularity of AI assistants among consumers was a large driver, with all of the top 10 apps by downloads being AI assistants.",
+              "This group was led by OpenAI’s ChatGPT, Google Gemini, and DeepSeek.",
+              "In 2025, consumers spent 48 billion hours in generative AI apps, or 3.6x the total time spent in 2024 and 10x the level seen in 2023."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Pro-AI Super PACs Are Already All In on the Midterms",
+            "link": "https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/",
+            "site_name": "WIRED",
+            "novelty_hash": "c22aaf91900d5475a0e2f016ca25a277520a270e"
+          },
+          "review": {
+            "headline_rewrite": "Pro-AI Super PACs Are Already All In on the Midterms",
+            "bullets": [
+              "Silicon Valley is already pouring tens of millions of dollars into the midterm elections taking place across the US in 2026, as the tech industry’s war over AI regulation moves decisively into American politics.",
+              "Technology executives, investors, and companies tied to the AI boom are funding a new network of AI-focused super PACS, which is poised to make AI a major issue in this year’s state and federal elections races.",
+              "The election spending marks a sharp escalation of the AI regulation debate that has divided Silicon Valley for years.",
+              "In the absence of federal action, state lawmakers in New York, California, and Colorado have passed laws in the past year requiring large AI developers to disclose safety practices and assess risks such as algorithmic discrimination.",
+              "As states offer up their own ideas about how to regulate AI, their efforts have been met with great pushback from the White House.",
+              "David Sacks, the White House AI czar, has repeatedly argued that American AI progress is existential in its race against China."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI says its data centers will pay for own energy and limit water usage",
+            "link": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+            "site_name": "The Verge",
+            "novelty_hash": "68380de114837464c33d7facff28d0153dbb5c7a"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI says its data centers will pay for own energy and limit water usage",
+            "bullets": [
+              "OpenAI says it will minimize water use and pay for energy infrastructure upgrades needed to power its data centers.",
+              "“We’re being good neighbors,” the company said, directly addressing the growing opposition to AI projects amid rising utility bills.",
+              "OpenAI says its data centers will pay for own energy and limit water usage\n‘We’re being good neighbors,’ the ChatGPT maker said.",
+              "“We commit to paying our own way on energy, so that our operations don’t increase your electricity prices,” OpenAI said.",
+              "OpenAI was not specific but said plans could involve securing its own energy supplies or paying for local grid upgrades.",
+              "OpenAI also highlighted the vast amounts of water — often potable — used to cool data centers, a concern that drives opposition to projects."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT is using age prediction to restrict what minors see",
+            "link": "https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout",
+            "site_name": "The Verge",
+            "novelty_hash": "ea7beb944d9d97caaaacc6bf7484fc36e3387bdb"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT is using age prediction to restrict what minors see",
+            "bullets": [
+              "OpenAI has added age prediction features to ChatGPT, meant to identify and bolster protections for underage users.",
+              "ChatGPT is using age prediction to restrict what minors see\nNew safeguards for underage users aim to reduce exposure to sensitive content.",
+              "Age prediction is rolling out globally, except in the EU, where OpenAI says it will “roll out in the coming weeks to account for regional requirements.”\nThese age prediction features and additional safeguards come after ChatGPT was the focus of a teen suicide lawsuit and a Senate panel discussing chatbots’ potential harm to minors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial",
+            "link": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+            "site_name": "WIRED",
+            "novelty_hash": "982c69a444317c0cd1d0fbe912649f24d8b93b33"
+          },
+          "review": {
+            "headline_rewrite": "Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial",
+            "bullets": [
+              "As Meta heads to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation, the company is making an aggressive push to have certain information excluded from the court proceedings.",
+              "The company has petitioned the judge to exclude certain research studies and articles around social media and youth mental health; any mention of a recent high-profile case involving teen suicide and social media content; and any references to Meta’s financial resources, the personal activities of employees, and Mark Zuckerberg’s time as a student at Harvard University.",
+              "This is to ensure the jury is presented with facts and not irrelevant or prejudicial information and that the defendant is granted a fair trial.",
+              "Meta has emphasized in pretrial motions that the only questions the jury should be asked are whether Meta violated New Mexico’s Unfair Practices Act because of how it has allegedly handled child safety and youth mental health, and that other information—such as Meta’s alleged election interference and misinformation, or privacy violations—shouldn’t be factored in.",
+              "But some of the requests seem unusually aggressive, two legal scholars tell WIRED, including requests that the court not mention the company’s AI chatbots, and the extensive reputation protection Meta is seeking.",
+              "The state is alleging that Meta failed to protect minors from online solicitation, human trafficking, and sexual abuse on its platforms."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
