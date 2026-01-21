@@ -84399,6 +84399,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:16": [
+        {
+          "item": {
+            "title": "“Largest Infrastructure Buildout In Human History”: Jensen Huang on AI’s “Five-Layer Cake” at Davos",
+            "link": "https://blogs.nvidia.com/?p=89255&preview=true&preview_id=89255",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "91638455f7b36cbeef1627da5bcf5c5dfa57c404"
+          },
+          "review": {
+            "headline_rewrite": "“Largest Infrastructure Buildout In Human History”: Jensen Huang on AI’s “Five-Layer Cake” at Davos",
+            "bullets": [
+              "From skilled trades to startups, AI’s rapid expansion is the beginning of the next massive computing platform shift, and for the world’s workforce a move from tasks to purpose.",
+              "At a packed mainstage session at the annual meeting of the World Economic Forum in Davos, Switzerland, Huang described artificial intelligence as the foundation of what Huang called “the largest infrastructure buildout in human history,” driving job creation across the global economy.",
+              "Huang framed AI not as a single technology but as a “a five-layer cake,” spanning energy, chips and computing infrastructure, cloud data centers, AI models and, ultimately, the application layer.",
+              "Because every layer of AI’s five-layer stack must be built and operated, Huang said the platform shift is creating jobs across the economy — from energy and construction to advanced manufacturing, cloud operations and application development.",
+              "The application layer might focus on integrating AI into financial services, healthcare, or manufacturing.",
+              "“This layer on top, ultimately, is where economic benefit will happen,” Huang said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Lemonade launches an insurance product for Tesla Full Self-Driving customers",
+            "link": "https://techcrunch.com/2026/01/21/lemonade-launches-an-insurance-product-for-tesla-full-self-driving-customers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "928ed05b96457f63bd2a903ae5e66e647731950b"
+          },
+          "review": {
+            "headline_rewrite": "Lemonade launches an insurance product for Tesla Full Self-Driving customers",
+            "bullets": [
+              "Digital insurance company Lemonade is launching a product for users of Tesla’s advanced driver assistance system, known as Full Self-Driving (Supervised), which the insurer promises will cut per-mile rates by “approximately 50%.”\nIt’s one of the first products geared toward pricing insurance based on how software systems handle driving, and a sign that companies may look to create new lines of business as partial autonomy and true self-driving start to proliferate.",
+              "Lemonade said on Wednesday that it is leveraging “vehicle telemetry data that was previously unavailable” thanks to a “technical collaboration with Tesla,” though the insurance company declined to offer more specifics.",
+              "Lemonade said it would train its own usage-based risk prediction models to determine when a driver is using Full Self-Driving or operating the vehicle themselves, and price accordingly.",
+              "Lemonade is calling the new product “Autonomous Car insurance.” Tesla’s software does not currently make cars completely autonomous, and drivers need to be ready to take over at any moment.",
+              "But the product is clearly a bet that Tesla CEO Elon Musk will ultimately fulfill his long-delayed promise that his company will make that happen.",
+              "“Traditional insurers treat a Tesla like any other car, and AI like any other driver."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Eternal CEO Deepinder Goyal hands over reins to Blinkit chief as quick commerce takes off",
+            "link": "https://techcrunch.com/2026/01/21/eternal-ceo-deepinder-goyal-hands-over-reins-to-blinkit-chief-as-quick-commerce-takes-off/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d68a1f0f53879e76b365f12e934b8552f0871ed6"
+          },
+          "review": {
+            "headline_rewrite": "Eternal CEO Deepinder Goyal hands over reins to Blinkit chief as quick commerce takes off",
+            "bullets": [
+              "Goyal on Wednesday said he would remain on Eternal’s board as vice chairman as he shifts focus to “higher-risk exploration and experimentation,” which he says may be harder to pursue within the constraints of a listed company.",
+              "“This is a change in title, not in commitment toward outcomes,” Goyal said in a letter to Eternal’s shareholders.",
+              "“Eternal remains my life’s work.”\nGoyal co-founded Zomato with Pankaj Chaddah in 2008 as a restaurant discovery and reviews platform called FoodieBay while both were working at Bain & Company.",
+              "Blinkit remained the company’s fastest-growing business, with net order value jumping 121% to ₹133.0 billion (roughly $1.45 billion) in the last quarter.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge.",
+              "Outside Eternal, Goyal has been working on other projects for the last few months, including a longevity-focused initiative called Continue Research, and an experimental brain-health wearable dubbed “Temple”."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+            "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "cba3d1456455451f479cdec47a58dbea2d214ace"
+          },
+          "review": {
+            "headline_rewrite": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+            "bullets": [
+              "On Saturday, tech entrepreneur Siqi Chen released an open source plugin for Anthropic’s Claude Code AI assistant that instructs the AI model to stop writing like an AI model.",
+              "“It’s really handy that Wikipedia went and collated a detailed list of ‘signs of AI writing,’” Chen wrote on X.",
+              "“So much so that you can just tell your LLM to… not do that.”\nThe source material is a guide from WikiProject AI Cleanup, a group of Wikipedia editors who have been hunting AI-generated articles since late 2023.",
+              "Chen’s tool is a “skill file” for Claude Code, Anthropic’s terminal-based coding assistant, which involves a Markdown-formatted file that adds a list of written instructions (you can see them here) appended to the prompt fed into the large language model (LLM) that powers the assistant.",
+              "Unlike a normal system prompt, for example, the skill information is formatted in a standardized way that Claude models are fine-tuned to interpret with more precision than a plain system prompt.",
+              "(Custom skills require a paid Claude subscription with code execution turned on.)"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Burritos from Heaven: Are drones the future of delivery?",
+            "link": "https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas",
+            "site_name": "The Verge",
+            "novelty_hash": "0688a6853eac3a712f3e536bd91dc3aac876adb7"
+          },
+          "review": {
+            "headline_rewrite": "Burritos from Heaven: Are drones the future of delivery?",
+            "bullets": [
+              "The little, white thing deposited a brown paper payload, then rode its tether back up to its waiting mothership, which turned and left.",
+              "Zipline’s airborne delivery service is making fans in Texas, with more locales coming soon.",
+              "In Africa, Zipline operates what it calls Platform 1, or P1, aircraft, fixed-wing, uncrewed machines that look like bigger versions of the toys your grandpa built out of balsa in the basement.",
+              "Workers load four-pound payloads into the belly of these planes, then launch them into the sky via giant slingshot.",
+              "Once in the air, the P1s plot their own courses, up to 120 miles round-trip, reading weather data along the route and finding their own way around storms.",
+              "Called P2, they rely on five motors and can transition midair from hovering to traditional, horizontal flight."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Detective games get extra cryptic with TR-49’s code-breaking mystery",
+            "link": "https://www.theverge.com/games/864630/tr49-review-steam-iphone",
+            "site_name": "The Verge",
+            "novelty_hash": "7bb5c7b98c709bbc0c8f71f7c7da540155132fa0"
+          },
+          "review": {
+            "headline_rewrite": "Detective games get extra cryptic with TR-49’s code-breaking mystery",
+            "bullets": [
+              "I certainly did.",
+              "It helps that it’s a fairly tactile experience, at least on mobile where you rotate dials and pull knobs, so there’s satisfaction in simply using the machine, even if you’re guessing.",
+              "TR-49 launches January 21st on Steam and iOS."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
