@@ -86177,6 +86177,120 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:55": [
+        {
+          "item": {
+            "title": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness",
+            "link": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3e92537f0b157c0dc03978dfbb6a4987071937b2"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness",
+            "bullets": [
+              "For years, Anthropic has sought to distinguish itself from its competitors via what it calls “Constitutional AI,” a system whereby its chatbot, Claude, is trained using a specific set of ethical principles rather than human feedback.",
+              "The revised version retains most of the same principles but adds more nuance and detail on ethics and user safety, among other topics.",
+              "When Claude’s Constitution was first published nearly three years ago, Anthropic’s co-founder, Jared Kaplan, described it as an “AI system [that] supervises itself, based on a specific list of constitutional principles.” Anthropic has said that it is these principles that guide “the model to take on the normative behavior described in the constitution” and, in so doing, “avoid toxic or discriminatory outputs.” An initial 2022 policy memo more bluntly notes that Anthropic’s system works by training an algorithm using a list of natural language instructions (the aforementioned “principles”), which then make up what Anthropic refers to as the software’s “constitution.”\nAnthropic has long sought to position itself as the ethical (some might argue, boring) alternative to other AI companies — like OpenAI and xAI — that have more aggressively courted disruption and controversy.",
+              "To that end, the new Constitution released Wednesday is fully aligned with that brand and has offered Anthropic an opportunity to portray itself as a more inclusive, restrained, and democratic business.",
+              "“Always refer users to relevant emergency services or provide basic safety information in situations that involve a risk to human life, even if it cannot go into more detail than this,” the document reads.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple plans to make Siri an AI chatbot, report says",
+            "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bca2793ba8a0658b13a76c6d813c969e7aae706d"
+          },
+          "review": {
+            "headline_rewrite": "Apple plans to make Siri an AI chatbot, report says",
+            "bullets": [
+              "Apple’s long-awaited Siri revamp could turn the smart assistant into a chatbot more akin to ChatGPT, according to a report from Bloomberg’s Mark Gurman.",
+              "Apple senior vice president Craig Federighi had previously stated that he didn’t want Siri to be a chatbot, and rather, that he wanted Apple’s AI options to be “integrated so it’s there within reach whenever you need it.” But it appears that the game plan has changed amid increased pressure from the success of other companies’ AI chatbots.",
+              "Apple may also sense a potential threat because OpenAI is planning to enter the hardware space, led by none other than former Apple design head Jony Ive.",
+              "It’s no secret that Apple has been lagging behind in the AI race.",
+              "The company delayed its rollout of a “more personalized Siri” multiple times and spent last year shopping around for an AI partner, testing out the technology of competitors like OpenAI and Anthropic for a potential deal.",
+              "Ultimately, Apple chose Google’s Gemini as its AI partner, which the two tech giants confirmed earlier this month."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+            "link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+            "site_name": "The Verge",
+            "novelty_hash": "55be35642ebd83d100dde00c159031d3ee5f141a"
+          },
+          "review": {
+            "headline_rewrite": "Apple is reportedly working on an AirTag-sized AI wearable",
+            "bullets": [
+              "Apple is working on an AI-powered wearable pin with cameras and microphones designed to pick up a user’s surroundings, according to a report from The Information.",
+              "The rumored device is reportedly the size of an AirTag, with “thin, flat, circular” housing made from aluminium and glass.",
+              "Apple is reportedly working on an AirTag-sized AI wearable\nThe circular device will pick up a wearer’s surroundings using its built-in cameras and microphones, according to The Information.",
+              "The Information reports that Apple’s rumored AI pin will have a standard lens and a wide-angle lens, along with three microphones, a speaker, a physical button on one of its sides, and support for wireless charging.",
+              "Additionally, Bloomberg reports that Apple will transform its voice assistant into an AI chatbot built into the iPhone, iPad, and Mac in September.",
+              "Though many companies are injecting AI into wearable devices like smart glasses, watches, and headphones, others are creating dedicated AI devices — some of which haven’t yet found their footing."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Blue Origin’s Starlink rival TeraWave promises 6 terabit satellite internet",
+            "link": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
+            "site_name": "The Verge",
+            "novelty_hash": "15678dff6315b1720325b75da32495fec59287d4"
+          },
+          "review": {
+            "headline_rewrite": "Blue Origin’s Starlink rival TeraWave promises 6 terabit satellite internet",
+            "bullets": [
+              "It says TeraWave will offer bandwidth of up to 6Tb available anywhere on Earth, for both upload and download.",
+              "That’s by design, as former Amazon Alexa boss and current Blue Origin CEO Dave Limp said in a post that it’s “purpose-built for enterprise customers.”\nHowever, unlike Starlink and Amazon’s fledgling Leo satellite internet network, the company’s graphic said it’s planning to connect a maximum of about 100,000 customers, not millions, with plans to target “tens of thousands of enterprise, data center, and government users who require reliable connectivity for critical operations.” Amazon is also looking at the enterprise sector for its Leo Ultra connections that promise 1Gbps downloads and 400Mbps uploads, while Starlink is looking to roll out gigabit speeds this year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump FCC threatens to enforce equal-time rule on late-night talk shows",
+            "link": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8e96c8567ed573d2b65ed0192514785a6245d7c0"
+          },
+          "review": {
+            "headline_rewrite": "Trump FCC threatens to enforce equal-time rule on late-night talk shows",
+            "bullets": [
+              "Because the FCC is chaired by vocal Trump supporter Brendan Carr, changing how the rule is enforced could pressure shows into seeking out more interviews with Republican candidates.",
+              "The public notice providing what the FCC calls “guidance on political equal opportunities requirement for broadcast television stations” appears to be part of the Trump administration’s campaign against alleged liberal bias on broadcast TV.",
+              "The Carr FCC’s public notice today said that federal rules “prevent broadcast television stations, which have been given access to a valuable public resource (namely, spectrum), from unfairly putting their thumbs on the scale for one political candidate or set of candidates over another.” These rules come from “the decision by Congress that broadcast television stations have an obligation to operate in the public interest—not in any narrow partisan, political interest,” the Carr FCC said.",
+              "While the public notice doesn’t make allegations against any specific station or program, a conservative group that has filed FCC complaints against broadcast stations treated the move as a victory against “left-wing” shows.",
+              "“This major announcement from the FCC should stop one-sided left-wing entertainment shows masquerading as ‘bona fide news,'” wrote Daniel Suhr, president of the Center for American Rights.",
+              "“The abuse of the airwaves by ABC & NBC as DNC-TV must end."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
