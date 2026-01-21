@@ -84043,6 +84043,121 @@
             "impact": "Positive"
           }
         }
+      ],
+      "16:55": [
+        {
+          "item": {
+            "title": "OpenAI says its data centers will pay for own energy and limit water usage",
+            "link": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+            "site_name": "The Verge",
+            "novelty_hash": "68380de114837464c33d7facff28d0153dbb5c7a"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI says its data centers will pay for own energy and limit water usage",
+            "bullets": [
+              "OpenAI says it will minimize water use and pay for energy infrastructure upgrades needed to power its data centers.",
+              "“We’re being good neighbors,” the company said, directly addressing the growing opposition to AI projects amid rising utility bills.",
+              "OpenAI says its data centers will pay for own energy and limit water usage\n‘We’re being good neighbors,’ the ChatGPT maker said.",
+              "“We commit to paying our own way on energy, so that our operations don’t increase your electricity prices,” OpenAI said.",
+              "OpenAI was not specific but said plans could involve securing its own energy supplies or paying for local grid upgrades.",
+              "OpenAI also highlighted the vast amounts of water — often potable — used to cool data centers, a concern that drives opposition to projects."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT is using age prediction to restrict what minors see",
+            "link": "https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout",
+            "site_name": "The Verge",
+            "novelty_hash": "ea7beb944d9d97caaaacc6bf7484fc36e3387bdb"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT is using age prediction to restrict what minors see",
+            "bullets": [
+              "OpenAI has added age prediction features to ChatGPT, meant to identify and bolster protections for underage users.",
+              "ChatGPT is using age prediction to restrict what minors see\nNew safeguards for underage users aim to reduce exposure to sensitive content.",
+              "Age prediction is rolling out globally, except in the EU, where OpenAI says it will “roll out in the coming weeks to account for regional requirements.”\nThese age prediction features and additional safeguards come after ChatGPT was the focus of a teen suicide lawsuit and a Senate panel discussing chatbots’ potential harm to minors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial",
+            "link": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+            "site_name": "WIRED",
+            "novelty_hash": "982c69a444317c0cd1d0fbe912649f24d8b93b33"
+          },
+          "review": {
+            "headline_rewrite": "Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial",
+            "bullets": [
+              "As Meta heads to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation, the company is making an aggressive push to have certain information excluded from the court proceedings.",
+              "The company has petitioned the judge to exclude certain research studies and articles around social media and youth mental health; any mention of a recent high-profile case involving teen suicide and social media content; and any references to Meta’s financial resources, the personal activities of employees, and Mark Zuckerberg’s time as a student at Harvard University.",
+              "This is to ensure the jury is presented with facts and not irrelevant or prejudicial information and that the defendant is granted a fair trial.",
+              "Meta has emphasized in pretrial motions that the only questions the jury should be asked are whether Meta violated New Mexico’s Unfair Practices Act because of how it has allegedly handled child safety and youth mental health, and that other information—such as Meta’s alleged election interference and misinformation, or privacy violations—shouldn’t be factored in.",
+              "But some of the requests seem unusually aggressive, two legal scholars tell WIRED, including requests that the court not mention the company’s AI chatbots, and the extensive reputation protection Meta is seeking.",
+              "The state is alleging that Meta failed to protect minors from online solicitation, human trafficking, and sexual abuse on its platforms."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To",
+            "link": "https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/",
+            "site_name": "WIRED",
+            "novelty_hash": "08e5b3a8b43769cc5787fe4667351ce2df2c597f"
+          },
+          "review": {
+            "headline_rewrite": "The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To",
+            "bullets": [
+              "That’s the message of a new analysis from the Union of Concerned Scientists released Wednesday, which models a variety of scenarios for how to fuel the coming AI boom.",
+              "Last year, emissions from the US power sector rose slightly, marking the first increase since 2023; commercial buildings like data centers, a separate analysis released last week from the Rhodium Group found, were the main drivers of that demand.",
+              "Predicting the amount of energy the US is going to need for AI in the future is an incredibly tricky project.",
+              "Technological advances over the next few years could also make data centers and AI much more energy efficient.",
+              "But the Trump administration has moved so aggressively against both renewable energy and climate policies in the past year that the analysis likely underestimates how high emissions from data center demand could actually be.",
+              "While the UCS modeling accounts for some policy changes, including backpedaling on regulations on coal-fired power plants, doing away with renewable tax credits, and delaying some offshore wind projects, it didn’t take others into account."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best robot vacuum for 2026",
+            "link": "https://www.engadget.com/home/smart-home/best-robot-vacuums-130010426.html",
+            "site_name": "Engadget",
+            "novelty_hash": "43154871d836bc05870847383c76b2edc1fbd64c"
+          },
+          "review": {
+            "headline_rewrite": "The best robot vacuum for 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "In this story\nLooking to keep your home clean without having to vacuum and mop every day, pick up dirt, the dinner your child threw on the floor or your furry friend’s endless pet hair?",
+              "Best robot vacuums 2026\nWi-Fi connectivity: Yes | Floor type: All floor types | Features: Obstacle avoidance, home mapping, LiDAR navigation | Assistant support: Alexa/Google Assistant | Mopping capabilities: No | Self-empty: Yes | Good for pet hair: Yes\nShark’s AI robot vacuum — of which there are many models with small differences between them — ticks all of the boxes that a mid-range machine should.",
+              "The device’s object detection feature claims it can avoid things as small as four inches, but I found that it was much better at sensing and moving around the three-foot-long cat tunnel on my floor than the many tiny mouse toys.",
+              "- Strong suction\n- Included bagless self-emptying base\n- Easy to use mobile app\n- Loud while cleaning\nWi-Fi connectivity: Yes | Floor type: All floor types | Features: Auto mopping, obstacle avoidance, home mapping, self-emptying and self-refilling base | Assistant support: Alexa/Google Assistant | Mopping capabilities: Yes | Self-empty: Yes | Good for pet hair: Yes\nWhen I tested the PowerDetect, I found that it had a very easy setup process (just like all of the other Shark robot vacuums I’ve tried) and it took very little time to putter around the main floor of my house to get an initial home map reading.",
+              "While I spent most of my time manually dictating cleaning jobs for the PowerDetect, you can set regular cleaning schedules using the modes you prefer, or tell the machine to only clean certain rooms at specific times."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
