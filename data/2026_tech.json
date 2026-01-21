@@ -86060,6 +86060,123 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:24": [
+        {
+          "item": {
+            "title": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness",
+            "link": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3e92537f0b157c0dc03978dfbb6a4987071937b2"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness",
+            "bullets": [
+              "For years, Anthropic has sought to distinguish itself from its competitors via what it calls “Constitutional AI,” a system whereby its chatbot, Claude, is trained using a specific set of ethical principles rather than human feedback.",
+              "The revised version retains most of the same principles but adds more nuance and detail on ethics and user safety, among other topics.",
+              "When Claude’s Constitution was first published nearly three years ago, Anthropic’s co-founder, Jared Kaplan, described it as an “AI system [that] supervises itself, based on a specific list of constitutional principles.” Anthropic has said that it is these principles that guide “the model to take on the normative behavior described in the constitution” and, in so doing, “avoid toxic or discriminatory outputs.” An initial 2022 policy memo more bluntly notes that Anthropic’s system works by training an algorithm using a list of natural language instructions (the aforementioned “principles”), which then make up what Anthropic refers to as the software’s “constitution.”\nAnthropic has long sought to position itself as the ethical (some might argue, boring) alternative to other AI companies — like OpenAI and xAI — that have more aggressively courted disruption and controversy.",
+              "To that end, the new Constitution released Wednesday is fully aligned with that brand and has offered Anthropic an opportunity to portray itself as a more inclusive, restrained, and democratic business.",
+              "“Always refer users to relevant emergency services or provide basic safety information in situations that involve a risk to human life, even if it cannot go into more detail than this,” the document reads.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple plans to make Siri an AI chatbot, report says",
+            "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bca2793ba8a0658b13a76c6d813c969e7aae706d"
+          },
+          "review": {
+            "headline_rewrite": "Apple plans to make Siri an AI chatbot, report says",
+            "bullets": [
+              "Apple’s long-awaited Siri revamp could turn the smart assistant into a chatbot more akin to ChatGPT, according to a report from Bloomberg’s Mark Gurman.",
+              "Apple senior vice president Craig Federighi had previously stated that he didn’t want Siri to be a chatbot, and rather, that he wanted Apple’s AI options to be “integrated so it’s there within reach whenever you need it.” But it appears that the game plan has changed amid increased pressure from the success of other companies’ AI chatbots.",
+              "Apple may also sense a potential threat because OpenAI is planning to enter the hardware space, led by none other than former Apple design head Jony Ive.",
+              "It’s no secret that Apple has been lagging behind in the AI race.",
+              "The company delayed its rollout of a “more personalized Siri” multiple times and spent last year shopping around for an AI partner, testing out the technology of competitors like OpenAI and Anthropic for a potential deal.",
+              "Ultimately, Apple chose Google’s Gemini as its AI partner, which the two tech giants confirmed earlier this month."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+            "link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+            "site_name": "The Verge",
+            "novelty_hash": "55be35642ebd83d100dde00c159031d3ee5f141a"
+          },
+          "review": {
+            "headline_rewrite": "Apple is reportedly working on an AirTag-sized AI wearable",
+            "bullets": [
+              "Apple is working on an AI-powered wearable pin with cameras and microphones designed to pick up a user’s surroundings, according to a report from The Information.",
+              "The rumored device is reportedly the size of an AirTag, with “thin, flat, circular” housing made from aluminium and glass.",
+              "Apple is reportedly working on an AirTag-sized AI wearable\nThe circular device will pick up a wearer’s surroundings using its built-in cameras and microphones, according to The Information.",
+              "The Information reports that Apple’s rumored AI pin will have a standard lens and a wide-angle lens, along with three microphones, a speaker, a physical button on one of its sides, and support for wireless charging.",
+              "Additionally, Bloomberg reports that Apple will transform its voice assistant into an AI chatbot built into the iPhone, iPad, and Mac in September.",
+              "Though many companies are injecting AI into wearable devices like smart glasses, watches, and headphones, others are creating dedicated AI devices — some of which haven’t yet found their footing."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump FCC threatens to enforce equal-time rule on late-night talk shows",
+            "link": "https://arstechnica.com/tech-policy/2026/01/trump-fcc-tries-to-get-more-republicans-on-late-night-and-daytime-talk-shows/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8e96c8567ed573d2b65ed0192514785a6245d7c0"
+          },
+          "review": {
+            "headline_rewrite": "Trump FCC threatens to enforce equal-time rule on late-night talk shows",
+            "bullets": [
+              "Because the FCC is chaired by vocal Trump supporter Brendan Carr, changing how the rule is enforced could pressure shows into seeking out more interviews with Republican candidates.",
+              "The public notice providing what the FCC calls “guidance on political equal opportunities requirement for broadcast television stations” appears to be part of the Trump administration’s campaign against alleged liberal bias on broadcast TV.",
+              "The Carr FCC’s public notice today said that federal rules “prevent broadcast television stations, which have been given access to a valuable public resource (namely, spectrum), from unfairly putting their thumbs on the scale for one political candidate or set of candidates over another.” These rules come from “the decision by Congress that broadcast television stations have an obligation to operate in the public interest—not in any narrow partisan, political interest,” the Carr FCC said.",
+              "While the public notice doesn’t make allegations against any specific station or program, a conservative group that has filed FCC complaints against broadcast stations treated the move as a victory against “left-wing” shows.",
+              "“This major announcement from the FCC should stop one-sided left-wing entertainment shows masquerading as ‘bona fide news,'” wrote Daniel Suhr, president of the Center for American Rights.",
+              "“The abuse of the airwaves by ABC & NBC as DNC-TV must end."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Why adding modern controls to 1996's Tomb Raider simply doesn't work",
+            "link": "https://arstechnica.com/gaming/2026/01/the-problem-with-revisiting-tomb-raider-reacclimating-to-tank-controls/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3d91e32c2424c64aa8bb21b069ee9991c3a8e590"
+          },
+          "review": {
+            "headline_rewrite": "Why adding modern controls to 1996's Tomb Raider simply doesn't work",
+            "bullets": [
+              "This time I’d like to write about one that I think doesn’t hold up quite as well for me: For the first time in almost 30 years, I revisited the original Tomb Raider via 2024’s Tomb Raider I-III Remastered collection.",
+              "You might be thinking this is going to be a dunk on the work done on the remaster, but that’s not the case, because the core issue with playing 1996’s Tomb Raider in 2026 is actually unsolvable, no matter how much care is put into a remaster.",
+              "The age of tank controls\nTomb Raider was part of the first wave of multiplatform games with fully 3D gameplay, releasing the same year as similarly groundbreaking 3D titles Super Mario 64 and Quake.",
+              "Tomb Raider opted for a modality that was common for a few years before it was replaced by clearly better solutions: what we now call “tank controls,” where forward or back moves the character forward or back, but hitting left or right turns the character on its axis in place without moving.",
+              "I loved Tomb Raider‘s level design and atmosphere, and the designers did about as good a job as they could designing around the limitations of the controls for most of the combat sequences."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Marshall's new Heddon hub adds multi-room audio to speakers with Auracast",
+            "link": "https://www.engadget.com/audio/marshalls-new-heddon-hub-adds-multi-room-audio-to-speakers-with-auracast-210500811.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4d54e0a1ef6b810728d3ce11e4cb1a9c7a5352ec"
+          },
+          "review": {
+            "headline_rewrite": "Marshall's new Heddon hub adds multi-room audio to speakers with Auracast",
+            "bullets": [
+              "The hub connects to services like Spotify Connect or Tidal over Wi-Fi, or other devices through Google Cast and AirPlay, and then shares that audio over Auracast to the Marshall Acton III, Stanmore III and Wobrun III speakers.",
+              "The Marshall Heddon is available to purchase now for $300."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
