@@ -84277,6 +84277,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:16": [
+        {
+          "item": {
+            "title": "India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom",
+            "link": "https://techcrunch.com/2026/01/21/indias-app-downloads-rebounded-to-25-5-billion-in-2025-fueled-by-ai-assistants-and-microdrama-boom/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c470867ed2b26c8b51b467daf109c8ac6bcd95f3"
+          },
+          "review": {
+            "headline_rewrite": "India’s app downloads rebounded to 25.5 billion in 2025, fueled by AI assistants and microdrama boom",
+            "bullets": [
+              "People were also more engaged, thanks to AI and microdrama apps, as time spent in apps rose from 1.13 trillion hours in 2024 to 1.23 trillion last year, according to the report.",
+              "When it comes to category growth, social media, social messenger, and security apps dipped.",
+              "Meanwhile, AI assistants, microdrama apps, video editing apps, social discovery, and food and delivery apps rose (largely because of the rise of ultra-fast grocery delivery services).",
+              "Short drama app downloads grew by over 350 million in the country, and AI assistants grew by 346 million downloads, which is also reflective of the global trend.",
+              "Users in India downloaded generative AI apps 198 million times in 2024.",
+              "First, companies like OpenAI and Google launched new image models that saw the demand for AI assistants grow exponentially in India."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
+            "link": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "38d1c02b733bf76bbe5210332dea0b2a30441dc2"
+          },
+          "review": {
+            "headline_rewrite": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
+            "bullets": [
+              "While this milestone had been seen in particular markets, like the U.S., or during certain quarters, 2025 marked the first time it occurred globally.",
+              "Generative AI, a defining trend over the past year, led the revenue growth, as in-app purchase revenue in this category more than tripled to top $5 billion in 2025.",
+              "Downloads of AI apps also grew, doubling year-over-year to reach 3.8 billion.",
+              "For one, the popularity of AI assistants among consumers was a large driver, with all of the top 10 apps by downloads being AI assistants.",
+              "This group was led by OpenAI’s ChatGPT, Google Gemini, and DeepSeek.",
+              "In 2025, consumers spent 48 billion hours in generative AI apps, or 3.6x the total time spent in 2024 and 10x the level seen in 2023."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Pro-AI Super PACs Are Already All In on the Midterms",
+            "link": "https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/",
+            "site_name": "WIRED",
+            "novelty_hash": "c22aaf91900d5475a0e2f016ca25a277520a270e"
+          },
+          "review": {
+            "headline_rewrite": "Pro-AI Super PACs Are Already All In on the Midterms",
+            "bullets": [
+              "Silicon Valley is already pouring tens of millions of dollars into the midterm elections taking place across the US in 2026, as the tech industry’s war over AI regulation moves decisively into American politics.",
+              "Technology executives, investors, and companies tied to the AI boom are funding a new network of AI-focused super PACS, which is poised to make AI a major issue in this year’s state and federal elections races.",
+              "The election spending marks a sharp escalation of the AI regulation debate that has divided Silicon Valley for years.",
+              "In the absence of federal action, state lawmakers in New York, California, and Colorado have passed laws in the past year requiring large AI developers to disclose safety practices and assess risks such as algorithmic discrimination.",
+              "As states offer up their own ideas about how to regulate AI, their efforts have been met with great pushback from the White House.",
+              "David Sacks, the White House AI czar, has repeatedly argued that American AI progress is existential in its race against China."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI says its data centers will pay for their own energy and limit water usage",
+            "link": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+            "site_name": "The Verge",
+            "novelty_hash": "f6218896ffa5ce9deb775fbc7d09384143905d7d"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI says its data centers will pay for their own energy and limit water usage",
+            "bullets": [
+              "OpenAI says it will minimize water use and pay for energy infrastructure upgrades needed to power its data centers.",
+              "“We’re being good neighbors,” the company said, directly addressing the growing opposition to AI projects amid rising utility bills.",
+              "OpenAI says its data centers will pay for their own energy and limit water usage\n‘We’re being good neighbors,’ the ChatGPT maker said.",
+              "“We commit to paying our own way on energy, so that our operations don’t increase your electricity prices,” OpenAI said.",
+              "OpenAI was not specific but said plans could involve securing its own energy supplies or paying for local grid upgrades.",
+              "OpenAI also highlighted the vast amounts of water — often potable — used to cool data centers, a concern that drives opposition to projects."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+            "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e8e76900c3885ed6acf8da3d9364e15c5b730676"
+          },
+          "review": {
+            "headline_rewrite": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+            "bullets": [
+              "On Saturday, tech entrepreneur Siqi Chen released an open source plugin for Anthropic’s Claude Code AI assistant that instructs the AI model to stop writing like an AI model.",
+              "“It’s really handy that Wikipedia went and collated a detailed list of ‘signs of AI writing,’” Chen wrote on X.",
+              "“So much so that you can just tell your LLM to … not do that.”\nThe source material is a guide from WikiProject AI Cleanup, a group of Wikipedia editors who have been hunting AI-generated articles since late 2023.",
+              "Chen’s tool is a “skill file” for Claude Code, Anthropic’s terminal-based coding assistant, which involves a Markdown-formatted file that adds a list of written instructions (you can see them here) appended to the prompt fed into the large language model (LLM) that powers the assistant.",
+              "Unlike a normal system prompt, for example, the skill information is formatted in a standardized way that Claude models are fine-tuned to interpret with more precision than a plain system prompt.",
+              "(Custom skills require a paid Claude subscription with code execution turned on.)"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Burritos from Heaven: Are drones the future of delivery?",
+            "link": "https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas",
+            "site_name": "The Verge",
+            "novelty_hash": "0688a6853eac3a712f3e536bd91dc3aac876adb7"
+          },
+          "review": {
+            "headline_rewrite": "Burritos from Heaven: Are drones the future of delivery?",
+            "bullets": [
+              "The little, white thing deposited a brown paper payload, then rode its tether back up to its waiting mothership, which turned and left.",
+              "Zipline’s airborne delivery service is making fans in Texas, with more locales coming soon.",
+              "In Africa, Zipline operates what it calls Platform 1, or P1, aircraft, fixed-wing, uncrewed machines that look like bigger versions of the toys your grandpa built out of balsa in the basement.",
+              "Workers load four-pound payloads into the belly of these planes, then launch them into the sky via giant slingshot.",
+              "Once in the air, the P1s plot their own courses, up to 120 miles round-trip, reading weather data along the route and finding their own way around storms.",
+              "Called P2, they rely on five motors and can transition midair from hovering to traditional, horizontal flight."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
