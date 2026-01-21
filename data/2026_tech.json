@@ -84865,6 +84865,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:13": [
+        {
+          "item": {
+            "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
+            "link": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fafdd8eabae6d5566c164999a04904ec8459f9d0"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
+            "bullets": [
+              "OpenAI created a lot of hype around hardware last year after it acquired former Apple design head Jony Ive’s startup io.",
+              "While the company is tight-lipped about the upcoming product, its OpenAI Chief Global Affairs Officer Chris Lehane said in an Axios-hosted panel at Davos the AI startup is on track to announce its first hardware device in the second half of this year.",
+              "While the company is not spilling any details, more recent reporting from Asian publications and leakers suggests OpenAI’s first device could be a pair of earbuds.",
+              "The earbuds could work on a custom 2-nanometer processor and handle AI tasks locally instead of sending requests to the cloud.",
+              "A separate report from a large Taiwanese newspaper noted that OpenAI was exploring a partnership with China-based Luxshare for manufacturing, but might eventually lean in favor of Taiwan’s Foxconn.",
+              "The report also said in the first year of sales, OpenAI aims to ship 40 to 50 million units."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a ‘moat’",
+            "link": "https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8ef8a5be6cf6eeb3e536b8b665676e7cb84cdb2f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s former sales leader joins VC firm Acrew: OpenAI taught her where startups can build a ‘moat’",
+            "bullets": [
+              "OpenAI’s first sales leader, Aliisa Rosenthal, has found a new career: venture capital.",
+              "She’s joining Acrew Capital as a general partner, working alongside founding partner Lauren Kolodny and the firm’s other partners, Rosenthal and Kolodny tell TechCrunch.",
+              "Rosenthal left OpenAI about eight months ago after a three-year sprint at the AI lab that saw the launch of DALL·E, ChatGPT, ChatGPT Enterprise, Sora, and other products.",
+              "“I was out there meeting with lots of AI startups.”\nBut after growing OpenAI’s enterprise sales team from two people to hundreds, she saw the appeal when Kolodny pitched her on venture capital.",
+              "In her time at OpenAI, “I learned a lot about behavior, both on the side of the buyers, how people are thinking about these purchases, and the gap between what most organizations think is possible and what they can actually deploy today,” she said.",
+              "For instance, she has firsthand insight into what kind of moat an AI startup can build that won’t leave it vulnerable when model makers like OpenAI launch competing products."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Has Gemini surpassed ChatGPT? We put the AI models to the test.",
+            "link": "https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "09586ccdc588472901d8de1c0ae459a3f853e60f"
+          },
+          "review": {
+            "headline_rewrite": "Has Gemini surpassed ChatGPT? We put the AI models to the test.",
+            "bullets": [
+              "The last time we did comparative tests of AI models from OpenAI and Google at Ars was in late 2023, when Google’s offering was still called Bard.",
+              "And now that Apple has made the consequential decision to partner with Google Gemini to power the next generation of its Siri voice assistant, we thought it was high time to do some new tests to see where the models from these AI giants stand today.",
+              "For this test, we’re comparing the default models that both OpenAI and Google present to users who don’t pay for a regular subscription—ChatGPT 5.2 for OpenAI and Gemini 3.2 Fast for Google.",
+              "While other models might be more powerful, we felt this test best recreates the AI experience as it would work for the vast majority of Siri users, who don’t pay to subscribe to either company’s services.",
+              "Rather than re-using the relatively simple prompts we ran back in 2023, though, we’ll be running these models on an updated set of more complex prompts that we first used when pitting GPT-5 against GPT-4o last summer.",
+              "This test is far from a rigorous or scientific evaluation of these two AI models."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "DJI’s Mic Mini is a big upgrade over your phone’s mic, and it&#8217;s on sale for $60",
+            "link": "https://www.theverge.com/tech/864942/dji-mac-mini-starlink-mini-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "b272056bc11e9dd178555c17cf47620e7b3e57a3"
+          },
+          "review": {
+            "headline_rewrite": "DJI’s Mic Mini is a big upgrade over your phone’s mic, and it&#8217;s on sale for $60",
+            "bullets": [
+              "Its receiver plugs directly into a phone, camera, or other devices via USB-C or a standard 3.5mm audio cable, with a Lightning adapter available for older Apple devices and Bluetooth support.",
+              "DJI also includes a dial on the receiver with five adjustable volume levels, and you can pair two transmitters at once so you can capture audio from up to about 400 meters away when you need more range.",
+              "Some more Verge-approved deals\n- If you’re looking for a basic number pad to pair with your mechanical keyboard, the Epomaker EK21 Number Pad is down to $31.19 ($8 off) at Amazon, matching its best price to date.",
+              "While upload speeds aren’t the fastest, it’s still good enough for everyday work and entertainment.",
+              "It also offers a decent triple-camera system for its price, and Samsung promises seven years of Android version updates and security patches."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "This midrange Android phone also runs Windows and Linux",
+            "link": "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11",
+            "site_name": "The Verge",
+            "novelty_hash": "4d266cf2e77bbf13cfad045b6f9a9b11231c1e0f"
+          },
+          "review": {
+            "headline_rewrite": "This midrange Android phone also runs Windows and Linux",
+            "bullets": [
+              "Currently, it sells the NexDock, a 14-inch laptop shell designed as a dock for phones that run a desktop environment over USB-C, which mainly means Samsung phones at the moment.",
+              "It runs as an app on the phone, so you can just straight up use it on the tiny phone screen if you want, which is wild and probably not advisable.",
+              "But mainly, the NexPhone is designed as a little machine to run Windows on a bigger screen when you want it, rather than a Windows Phone revival.",
+              "Kosmaz demonstrated it connected to a monitor using DisplayLink, but says that once they finishing writing the driver the phone will run it over plain ‘ol USB-C.",
+              "The NexPhone uses a Qualcomm QCM6490 chipset designed for IoT applications, which Kosmaz tells me they chose it because of its native support for Android, Linux, and Windows.",
+              "There’s a 5,000mAh battery, a 64-megapixel rear camera, and even wireless charging."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "MAGA’s ‘Manifest Destiny’ Coalition Has Arrived",
+            "link": "https://www.wired.com/story/maga-manifest-destiny-coalition/",
+            "site_name": "WIRED",
+            "novelty_hash": "ade2146a3daca79ccbef9fb74e1bea32ac46e734"
+          },
+          "review": {
+            "headline_rewrite": "MAGA’s ‘Manifest Destiny’ Coalition Has Arrived",
+            "bullets": [
+              "But with a new year comes new priorities, and the warring factions are reuniting around a new cause: a new era of American “manifest destiny.”\nMajor players, from influencers to politicians, have been arguing over the Trump administration’s plans on issues like H-1B visas, Jeffrey Epstein document dumps, AI regulation, Israel’s war with Hamas, and even white nationalist Nick Fuentes.",
+              "But in recent weeks, these feuds have faded into background noise as the US raided Venezuela, arresting president Nicolás Maduro, and, more recently, as President Donald Trump publicly toys with invading Greenland and destroying NATO as we know it.",
+              "The concept of “manifest destiny” took root in the early 19th century and encompassed the belief that the US was divinely preordained to expand its rule across the western half of the country.",
+              "Now, posters on platforms like X are applying the term to the Trump administration’s efforts to take over Greenland, sharing images of the American flag overlaid on adjacent countries, like Greenland and Mexico.",
+              "“It’s up to us to keep pushing for the orderly governance of the world via American imperialism,” said right-wing commentator Mike Cernovich on pundit Tucker Carlson’s podcast this week.",
+              "Take Trump’s surge of Immigration and Customs Enforcement officers into Minneapolis: A viral video from right-wing creator Nick Shirley claiming to have allegedly uncovered $100 million in childcare fraud appeared to be used as justification by the White House to send thousands of ICE officers into Minnesota."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
