@@ -85337,6 +85337,127 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:23": [
+        {
+          "item": {
+            "title": "Zipline charts drone delivery expansion with $600M in new funding",
+            "link": "https://techcrunch.com/2026/01/21/zipline-charts-drone-delivery-expansion-with-600m-in-new-funding/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fb416ec6dd9eaca38c35b1719b55ff5ef95fc51f"
+          },
+          "review": {
+            "headline_rewrite": "Zipline charts drone delivery expansion with $600M in new funding",
+            "bullets": [
+              "autonomous drone delivery and logistics startup Zipline said Wednesday it will set up operations in Houston and Phoenix early this year, as part of an expansion that will be propelled by $600 million in fresh investment.",
+              "states in 2026, the company said.",
+              "Several existing and new investors, including Fidelity Management & Research Company, Baillie Gifford, Valor Equity Partners and Tiger Global participated in the funding round.",
+              "Founded in 2014, Zipline developed its own drone delivery ecosystem, including the logistics software, launch and landing systems, and the aircraft.",
+              "Today, Zipline’s drones deliver food, retail, agriculture, and health products in five African countries, several cities in the United States, and Japan.",
+              "Last year, Zipline launched a home delivery service in the U.S."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Blue Origin’s satellite internet network TeraWave will move data at 6Tbps",
+            "link": "https://techcrunch.com/2026/01/21/blue-origins-satellite-internet-network-terawave-will-move-data-at-6tbps/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c24130437bff3dc587b78eaf1d4198c8c0b07b87"
+          },
+          "review": {
+            "headline_rewrite": "Blue Origin’s satellite internet network TeraWave will move data at 6Tbps",
+            "bullets": [
+              "For reference, SpaceX’s Starlink currently maxes out at 400 Mbps — though it plans to launch upgraded satellites that will offer 1 Gbps data transfer in the future.",
+              "Starlink currently sells its connectivity to regular consumers, commercial customers (like airlines), and governments.",
+              "That said, the two networks from Amazon and Blue Origin are distinct.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge.",
+              "“We identified an unmet need with customers who were seeking enterprise-grade internet access with higher speeds, symmetrical upload/download speeds, more redundancy, and rapid scalability for their networks.",
+              "TeraWave solves for these problems,” Blue Origin said in a statement to TechCrunch."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Another Jeff Bezos company has announced plans to develop a megaconstellation",
+            "link": "https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "db41acc6fbb22cfa0a1db080321e1a2b0fb78216"
+          },
+          "review": {
+            "headline_rewrite": "Another Jeff Bezos company has announced plans to develop a megaconstellation",
+            "bullets": [
+              "The space company founded by Jeff Bezos, Blue Origin, said it was developing a new megaconstellation named TeraWave to deliver data speeds of up to 6Tbps anywhere on Earth.",
+              "The constellation will consist of 5,408 optically interconnected satellites, with a majority in low-Earth orbit and the remainder in medium-Earth orbit.",
+              "“This provides the reliability and resilience needed for real-time operations and massive data movement,” Blue Origin’s chief executive, Dave Limp, said on social media.",
+              "Plus, the ability to scale on demand and rapidly deploy globally while maintaining performance.”\nGoing for the enterprise market\nThe announcement was surprising for several reasons, but it may also represent a shrewd business decision.",
+              "However, the emergence of increased data needs from AI data centers and other operations must have convinced Bezos that Blue Origin should enter the competition for lucrative enterprise customers—an area in which Amazon Leo is also expected to compete."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The US and China Are Collaborating More Closely on AI Than You Think",
+            "link": "https://www.wired.com/story/us-china-collaboration-neurips-papers/",
+            "site_name": "WIRED",
+            "novelty_hash": "1cdd6d0c63f0e232de7415cfb3e9a0f3d9e0e614"
+          },
+          "review": {
+            "headline_rewrite": "The US and China Are Collaborating More Closely on AI Than You Think",
+            "bullets": [
+              "And yet, the world’s AI superpowers still collaborate to a surprising degree when it comes to cutting-edge research.",
+              "A WIRED analysis of more than 5,000 AI research papers presented last month at the industry’s premier conference, Neural Information Processing Systems (NeurIPS), reveals a significant amount of collaboration between US and Chinese labs.",
+              "US-China collaboration appears fairly constant, too, with 134 out of 4,497 total papers involving authors from institutions in both countries in 2024.",
+              "Jeffrey Ding, an assistant professor at George Washington University who tracks China’s AI landscape, says he is not surprised to see this level of teamwork.",
+              "“Whether policymakers on both sides like it or not, the US and Chinese AI ecosystems are inextricably enmeshed—and both benefit from the arrangement,” Ding says.",
+              "“NeurIPS itself is an example of international collaboration and a testament to its importance in our field,” Katherine Gorman, a spokesperson for NeurIPS, said in a statement."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
+            "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
+            "site_name": "WIRED",
+            "novelty_hash": "3e9a450cb2679c10c37c7ddede27a2ecc28a3a16"
+          },
+          "review": {
+            "headline_rewrite": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
+            "bullets": [
+              "The report, published by the Electronic Privacy Information Center (EPIC), attributes the problem to outdated privacy laws and rapidly expanding digital systems that allow health-related information to be tracked, analyzed, breached, and accessed by both private companies and government agencies.",
+              "Reporters documented the pixel transmitting details when users attempted to schedule appointments, including doctors’ names, medical specialties and search terms such as “pregnancy termination,” along with IP addresses that can often be linked to individuals.",
+              "EPIC argues that large technology companies have become central actors in the health privacy crisis by embedding surveillance tools across health, advertising, and data-broker ecosystems while pressing policymakers to loosen constraints on data collection.",
+              "Geoghegan and her colleagues point to incidents of Immigration and Customs Enforcement (ICE) agents occupying emergency rooms, waiting rooms, and hospital lobbies, noting that clinicians have reported agents blocking treatment and listening in on conversations between patients and health workers.",
+              "For nearly a decade, Department of Homeland Security guidelines advised immigration agents to avoid enforcement actions in sensitive locations, such as schools, places of worship, and medical or mental health care facilities, unless exigent circumstances existed or prior approval was obtained.",
+              "Legal and health care observers have since reported visible ICE activity in medical facilities, such as agents in reception areas and interference with care, and noted that uncertainty about enforcement roles—even in public spaces—is contributing to fear among patients and clinicians."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon is adding AI-powered assistant to One Medical",
+            "link": "https://www.engadget.com/ai/amazon-is-adding-ai-powered-assistant-to-one-medical-180803368.html",
+            "site_name": "Engadget",
+            "novelty_hash": "be168e2f4fbc82225dc2c9aa57b7b98449975fe8"
+          },
+          "review": {
+            "headline_rewrite": "Amazon is adding AI-powered assistant to One Medical",
+            "bullets": [
+              "Amazon is introducing an AI-powered assistant to One Medical, the tech-forward primary care provider it acquired in 2023.",
+              "Dubbed 'Health AI,' Amazon says the tool \"provides 24/7 personalized health guidance based on your medical records.\"\nThe company says Health AI can explain lab results, help manage medications, and book appointments for patients.",
+              "While the company specifically says the tool \"complements, but does not replace,\" a patient's healthcare provider, it also vaguely says the AI can \"answer general and complex health questions\" while \"considering your unique health history.\"\n\"Health AI recognizes when symptoms, situations, or specific queries require or benefit from human clinical judgment,\" reads the company's announcement, while giving few details on just how much medical advice the AI tool is empowered to give.",
+              "Use of AI tools brings up data privacy concerns, and Amazon says it follows HIPAA-compliant privacy and security practices.",
+              "The company says that a user's conversations with Health AI are \"not automatically added to your medical record.\" This of course implies the option to do just that.",
+              "In recent years the tech giant has begun same-day prescription deliveries in certain markets, and built vending machines for prescription drugs."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
