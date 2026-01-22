@@ -88052,6 +88052,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "19:17": [
+        {
+          "item": {
+            "title": "Quadric rides the shift from cloud AI to on-device inference — and it’s paying off",
+            "link": "https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "973bf36cd64f71ee97822ec25bf8bd09b16d7f0f"
+          },
+          "review": {
+            "headline_rewrite": "Quadric rides the shift from cloud AI to on-device inference — and it’s paying off",
+            "bullets": [
+              "Companies and governments are looking for tools to run AI locally in a a bid slash cloud infrastructure costs and build sovereign capability.",
+              "Quadric, a chip-IP startup founded by veterans of early bitcoin mining firm 21E6, is trying to power that shift, scaling beyond automotive into laptops and industrial devices, with its on-device inference technology.",
+              "The company, which is based in San Francisco and has an office in Pune, India, is targeting up to $35 million this year as it builds a royalty-driven on-device AI business.",
+              "That growth has buoyed the company, which now has post-money valuation of between $270 million and $300 million, up from around $100 million in its 2022 Series B, Kheterpal said.",
+              "Quadric announced last week a $30 million Series C round led by ACCELERATE Fund, managed by BEENEXT Capital Management, bringing its total funding to $72 million.",
+              "The raise comes as investors and chipmakers look for ways to push more AI workloads from centralized cloud infrastructure onto devices and local servers, Kheterpal told TechCrunch."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Snapchat gives parents new insights into teens’ screen time and friends",
+            "link": "https://techcrunch.com/2026/01/22/snapchat-gives-parents-new-insights-into-teens-screen-time-and-friends/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "53764b8ca71aa1826f0ac768ae9b55c793782a31"
+          },
+          "review": {
+            "headline_rewrite": "Snapchat gives parents new insights into teens’ screen time and friends",
+            "bullets": [
+              "Parents and guardians can now use Snapchat’s “Family Center” tool to see how much time their teen is spending on the platform, along with additional details about the new friends they add.",
+              "“If a parent or guardian sees a new friend they aren’t familiar with, they have the information they need to start a productive conversation.”\nSnap launched Family Center in 2022 — a suite of parental monitoring tools — in response to regulatory pressure over social media companies’ failure to protect minors on their apps.",
+              "Since then, Snap has built out the tool with additional features, including the ability to see who teens have recently interacted with, set time restrictions, and block access to the app’s My AI chatbot.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge.",
+              "The remaining case against Meta, TikTok, and YouTube is set to proceed with jury selection beginning next.",
+              "According to documents disclosed in the ongoing cases, Snap employees raised concerns about risks to teens’ mental health as far back as nine years ago."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Acquires Top Talent From AI Voice Startup Hume AI in Licensing Deal",
+            "link": "https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/",
+            "site_name": "WIRED",
+            "novelty_hash": "9404bd0050923108c278868cfd8eb5a91f41e349"
+          },
+          "review": {
+            "headline_rewrite": "Google Acquires Top Talent From AI Voice Startup Hume AI in Licensing Deal",
+            "bullets": [
+              "Google DeepMind is hiring the CEO and several top engineers from Hume AI, a startup working on emotionally intelligent voice interfaces, as part of a new licensing agreement, WIRED has learned.",
+              "Financial details of the deal are confidential, but Hume AI says the company will continue to supply its technology to other frontier AI labs.",
+              "The deal is the latest sign that AI companies expect voice mode to become an increasingly important interface for interacting with customers—and that understanding a user’s emotions and mood based on their voice interactions is key.",
+              "Hume AI expects to bring in $100 million in revenue in 2026 as it works with AI labs on tuning AI models to be more capable and useful voice helpers, says John Beadle, cofounder and managing partner of AEGIS Ventures, which invested in Hume AI.",
+              "So far, the company has raised $74 million in funding.",
+              "Cowen and the other Hume AI recruits will help Google DeepMind integrate voice and emotional intelligence into its latest models, according to sources who spoke on the condition of anonymity as they aren’t authorized to speak publicly about the deal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Big games are getting bigger — and so are the stakes",
+            "link": "https://www.theverge.com/report/865219/ubisoft-reorganization-ea-playstation-big-games",
+            "site_name": "The Verge",
+            "novelty_hash": "085bee64bfa6daa14937df605d297702657b2b48"
+          },
+          "review": {
+            "headline_rewrite": "Big games are getting bigger — and so are the stakes",
+            "bullets": [
+              "The previously announced Vantage Studios, for example, will develop Ubisoft’s biggest franchises to “turn them into annual billionaire brands,” including Assassin’s Creed, Far Cry, and Rainbow Six.",
+              "“What we’re seeing is a classic risk-aversion strategy”\nThis structure puts more pressure on these games to be successful, as shown by the catastrophic failure of PlayStation’s Concord.",
+              "As a result, Sony took the game offline just two weeks after it launched, and a few weeks later, it permanently shut down the game and developer Firewalk Studios.",
+              "It’s a rational response to uncertainty, but it comes with real costs,” he adds, like recycling proven franchises instead of developing new experiences and potentially raising prices to justify big-budget sequels.",
+              "“It’s more like buying time than building a sustainable future.”\nUbisoft’s shift is similar to what we’ve seen from other big gaming companies.",
+              "After Battlefield 2042’s rocky launch, Battlefield 6 was a pivotal moment for the series and EA, and it was also a huge undertaking, developed by multiple internal studios."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots",
+            "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+            "site_name": "WIRED",
+            "novelty_hash": "5597c2052709ff1dee931802efde2ea4bcb88d06"
+          },
+          "review": {
+            "headline_rewrite": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots",
+            "bullets": [
+              "On Saturday, tech entrepreneur Siqi Chen released an open source plug-in for Anthropic’s Claude Code AI assistant that instructs the AI model to stop writing like an AI model.",
+              "“It’s really handy that Wikipedia went and collated a detailed list of ‘signs of AI writing,’” Chen wrote on X.",
+              "“So much so that you can just tell your LLM to … not do that.”\nThe source material is a guide from WikiProject AI Cleanup, a group of Wikipedia editors who have been hunting AI-generated articles since late 2023.",
+              "Unlike a normal system prompt, for example, the skill information is formatted in a standardized way that Claude models are fine-tuned to interpret with more precision than a plain system prompt.",
+              "(Custom skills require a paid Claude subscription with code execution turned on.)\nBut as with all AI prompts, language models don’t always perfectly follow skill files, so does the Humanizer actually work?",
+              "In our limited testing, Chen’s skill file made the AI agent’s output sound less precise and more casual, but it could have some drawbacks: It won’t improve factuality and might harm coding ability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to find an affordable GPU during the great RAMageddon of 2026",
+            "link": "https://www.engadget.com/gaming/pc/how-to-find-an-affordable-gpu-during-the-great-ramageddon-of-2026-130000654.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0867f67457c6613a2a2ac8b4c20dfadc54daf981"
+          },
+          "review": {
+            "headline_rewrite": "How to find an affordable GPU during the great RAMageddon of 2026",
+            "bullets": [
+              "When I first reported on this at the start of December, things were looking bleak but you could still find GPUs from both AMD and NVIDIA at close to their recommended prices.",
+              "“Demand for GeForce RTX GPUs is strong, and memory supply is constrained.",
+              "We continue to ship all GeForce SKUs and are working closely with our suppliers to maximize memory availability,” a company spokesperson told us.",
+              "After “explicitly” telling Hardware Unboxed it had placed the 5060 Ti 16GB and 5070 Ti into \"end-of-life status,\" the company said \"certain media may have received incomplete information from an ASUS PR representative regarding these products,\" adding it had \"no plans to stop selling these models.\"\nWhether or not the 5060 Ti 16GB and 5070 Ti remain in production, one thing is certain: the AI boom has created a great deal of uncertainty in the GPU market.",
+              "The bigger problem is that the 5070 Ti isn't the only GPU selling for far more than MSRP.",
+              "Tom's Hardware has been tracking GPU prices for months, and there's not a single model you can buy at either AMD or NVIDIA's recommended price."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
