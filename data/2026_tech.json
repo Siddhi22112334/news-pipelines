@@ -87934,6 +87934,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "18:15": [
+        {
+          "item": {
+            "title": "Former Google trio is building an interactive AI-powered learning app for kids",
+            "link": "https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6d4139e450bf76731471844c856d7b1522dd7139"
+          },
+          "review": {
+            "headline_rewrite": "Former Google trio is building an interactive AI-powered learning app for kids",
+            "bullets": [
+              "Big tech companies and upcoming startups want to use generative AI to build software and hardware for kids.",
+              "Three former Google employees want to get over that hurdle with their generative AI-powered interactive app, Sparkli.",
+              "“Kids, by definition, are very curious, and my son would ask me questions about how cars work or how it rains.",
+              "My approach was to use ChatGPT or Gemini to explain these concepts to a six-year-old, but that is still a wall of text.",
+              "Prior to launching Sparkli, Poojary and Kang co-founded a travel aggregator called Touring Bird and a video-focused social commerce app, Shoploop, at Google’s Area 120, the company’s internal startup incubator.",
+              "“When a kid asked what Mars looks like fifty years ago, we might have shown them a picture,” said Poojary."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO",
+            "link": "https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "340b4cdd73c374a35a75bb10cabe7e364ae97338"
+          },
+          "review": {
+            "headline_rewrite": "Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO",
+            "bullets": [
+              "On Wednesday, PhonePe updated its IPO prospectus (PDF), detailing how many shares are up for sale.",
+              "Tiger Global and Microsoft are offering up their full stakes in the company, while Walmart is choosing to retain its majority stake, and selling up to 45.9 million shares (about 9% of the company).",
+              "PhonePe was valued at about $12 billion in a January 2023 funding round, though it is targeting a market capitalization of around $15 billion in the IPO, which could raise up to $1.5 billion, sources familiar with the matter told TechCrunch.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge.",
+              "PhonePe and Flipkart completed their separation in December 2022, and Walmart remained the fintech’s dominant shareholder."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Acquires Top Talent From AI Voice Startup Hume AI in Licensing Deal",
+            "link": "https://www.wired.com/story/google-hires-hume-ai-ceo-licensing-deal-gemini/",
+            "site_name": "WIRED",
+            "novelty_hash": "9404bd0050923108c278868cfd8eb5a91f41e349"
+          },
+          "review": {
+            "headline_rewrite": "Google Acquires Top Talent From AI Voice Startup Hume AI in Licensing Deal",
+            "bullets": [
+              "Google DeepMind is hiring the CEO and several top engineers from Hume AI, a startup working on emotionally intelligent voice interfaces, as part of a new licensing agreement, WIRED has learned.",
+              "Financial details of the deal are confidential, but Hume AI says the company will continue to supply its technology to other frontier AI labs.",
+              "The deal is the latest sign that AI companies expect voice mode to become an increasingly important interface for interacting with customers—and that understanding a user’s emotions and mood based on their voice interactions is key.",
+              "Hume AI expects to bring in $100 million in revenue in 2026 as it works with AI labs on tuning AI models to be more capable and useful voice helpers, says John Beadle, cofounder and managing partner of AEGIS Ventures, which invested in Hume AI.",
+              "So far, the company has raised $74 million in funding.",
+              "Cowen and the other Hume AI recruits will help Google DeepMind integrate voice and emotional intelligence into its latest models, according to sources who spoke on the condition of anonymity as they aren’t authorized to speak publicly about the deal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots",
+            "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+            "site_name": "WIRED",
+            "novelty_hash": "5597c2052709ff1dee931802efde2ea4bcb88d06"
+          },
+          "review": {
+            "headline_rewrite": "A Wikipedia Group Made a Guide to Detect AI Writing. Now a Plug-In Uses It to ‘Humanize’ Chatbots",
+            "bullets": [
+              "On Saturday, tech entrepreneur Siqi Chen released an open source plug-in for Anthropic’s Claude Code AI assistant that instructs the AI model to stop writing like an AI model.",
+              "“It’s really handy that Wikipedia went and collated a detailed list of ‘signs of AI writing,’” Chen wrote on X.",
+              "“So much so that you can just tell your LLM to … not do that.”\nThe source material is a guide from WikiProject AI Cleanup, a group of Wikipedia editors who have been hunting AI-generated articles since late 2023.",
+              "Unlike a normal system prompt, for example, the skill information is formatted in a standardized way that Claude models are fine-tuned to interpret with more precision than a plain system prompt.",
+              "(Custom skills require a paid Claude subscription with code execution turned on.)\nBut as with all AI prompts, language models don’t always perfectly follow skill files, so does the Humanizer actually work?",
+              "In our limited testing, Chen’s skill file made the AI agent’s output sound less precise and more casual, but it could have some drawbacks: It won’t improve factuality and might harm coding ability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Snapchat gives parents more info on who their kids are talking to",
+            "link": "https://www.engadget.com/social-media/snapchat-gives-parents-more-info-on-who-their-kids-are-talking-to-120000077.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4300a81e04d15d1759727ded1da5f1936ce688ea"
+          },
+          "review": {
+            "headline_rewrite": "Snapchat gives parents more info on who their kids are talking to",
+            "bullets": [
+              "Snapchat is updating its parental control features to give parents more detailed information about who their kids are connecting with in the app and which features they use the most.",
+              "The app's Family Center already gives parents visibility into their child's friend list, but it will now surface contextual details when a new friend is added.",
+              "It could also indicate that they are classmates if both users have joined the same in-app “community.” If the two have no commonalities, then that could be a sign for a parent to \"start a productive conversation,\" Snap says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple is reportedly working on an AI pin with cameras, microphone and speaker: Launch timeline and other details",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/apple-is-reportedly-working-on-an-ai-pin-with-cameras-microphone-and-speaker-launch-timeline-and-other-details/articleshow/127132015.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "8ceb14dcae1a424afe51c8e31e9a3f7bca1e435d"
+          },
+          "review": {
+            "headline_rewrite": "Apple is reportedly working on an AI pin with cameras, microphone and speaker: Launch timeline and other details",
+            "bullets": [
+              "Apple is developing a wearable AI pin about the size of an AirTag, according to The Information.",
+              "Racing against OpenAI's mystery device\nApple could roll this out as soon as 2027, with plans for around 20 million units at launch.",
+              "The company might be speeding up development to compete with OpenAI, which is expected to announce its own AI hardware later this year.",
+              "The voice assistant is getting transformed into a ChatGPT-style AI chatbot, powered partly by Google's Gemini model through a partnership Apple announced recently.",
+              "Learning from Humane's costly mistakes\nAI wearables haven't exactly had a smooth start.",
+              "Humane's AI Pinâbuilt by ex-Apple employeesâcrashed and burned spectacularly."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
