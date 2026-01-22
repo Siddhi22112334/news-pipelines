@@ -90084,6 +90084,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:15": [
+        {
+          "item": {
+            "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+            "link": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a4d711b35892b5c8487f9e502c9fa0f174a8884d"
+          },
+          "review": {
+            "headline_rewrite": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+            "bullets": [
+              "LiveKit, a developer of infrastructure software for real-time AI voice and video applications, has announced the raise of $100 million in funding at a $1 billion valuation.",
+              "The round, which comes 10 months after LiveKit’s previous fundraise, was led by Index Ventures with participation from existing investors, including Altimeter Capital Management, Hanabi Capital, and Redpoint Ventures.",
+              "LiveKit powers OpenAI’s ChatGPT voice mode.",
+              "The startup’s other customers include xAI, Salesforce, Tesla, as well as 911 emergency service operators and mental health providers.",
+              "Although LiveKit began as a free developer tool, the business took off after the founders realized big companies wanted a managed cloud version and began providing those services to enterprises amid the voice AI boom."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Inference startup Inferact lands $150M to commercialize vLLM",
+            "link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d7d5dbd99e1a2a410b90a014ee5709cf177007fd"
+          },
+          "review": {
+            "headline_rewrite": "Inference startup Inferact lands $150M to commercialize vLLM",
+            "bullets": [
+              "The creators of the open source project vLLM have announced that they transitioned the popular tool into a VC-backed startup, Inferact, raising $150 million in seed funding at an $800 million valuation.",
+              "The round was co-led by Andreessen Horowitz and Lightspeed Venture Partners, confirming TechCrunch’s earlier reporting that vLLM has raised capital from a16z.",
+              "Inferact’s debut mirrors the recent commercialization of the SGLang project as RadixArk, which sources told us secured capital at a $400 million valuation led by Accel, as we reported on Wednesday.",
+              "As the focus in AI shifts from training models to deploying them in applications, a process known as inference, technologies like vLLM and SGLang that make these AI tools run faster and more affordably are attracting investor attention.",
+              "Both vLLM and SGLang were incubated in 2023 at the UC Berkeley lab of Databricks co-founder Ion Stoica.",
+              "Inferact CEO Simon Mo, one of the project’s original creators, told Bloomberg that existing users of vLLM include Amazon’s cloud service and the shopping app."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Epic and Google have a secret $800 million Unreal Engine and services deal",
+            "link": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement",
+            "site_name": "The Verge",
+            "novelty_hash": "02c2a9ed6bdfbe659f962bf5247ed1091b2f50fa"
+          },
+          "review": {
+            "headline_rewrite": "Epic and Google have a secret $800 million Unreal Engine and services deal",
+            "bullets": [
+              "A judge is questioning whether Epic Games and Google are settling their long-running antitrust fight partly because of a previously unannounced partnership involving the Unreal Engine, Fortnite, and Android.",
+              "In a hearing in San Francisco today, the court revealed that Epic and Google have struck a new deal that apparently includes “joint product development, joint marketing commitment, joint partnerships.” California District Judge James Donato expressed concerns that the agreement — which he indicated would involve Epic “helping Google market Android” and Google newly “using Epic’s core technology” — could have led Epic to soften its demands for changes to the overall Android ecosystem.",
+              "Epic and Google have a secret $800 million Unreal Engine and services deal\n“Sorry, I’m blowing this confidentiality.”\nDonato allowed Epic and Google to keep most of the details of the plan under wraps.",
+              "“Epic’s technology is used by many companies in the space Google is operating in to train their products, so the ability for Google to use the Unreal Engine more fullsome… sorry, I’m blowing this confidentiality,” Sweeney said.",
+              "Donato then offered a hard dollar figure on one part of the deal: “An $800 million spend over six years, that’s a pretty healthy partnership,” he said.",
+              "We soon learned that refers to Epic spending $800 million to purchase some sort of services from Google: “Every year we’ve decided against Google, in this year we’re deciding to use Google at market rates,” he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+            "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "75a959a750ced4db06317684934ff02c127cf0ea"
+          },
+          "review": {
+            "headline_rewrite": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+            "bullets": [
+              "The project developer for one of the Internet’s most popular networking tools is scrapping its vulnerability reward program after being overrun by a spike in the submission of low-quality reports, much of it AI-generated slop.",
+              "“We are just a small single open source project with a small number of active maintainers,” Daniel Stenberg, the founder and lead developer of the open source app cURL, said Thursday.",
+              "We need to make moves to ensure our survival and intact mental health.”\nManufacturing bogus bugs\nHis comments came as cURL users complained that the move was treating the symptoms caused by AI slop without addressing the cause.",
+              "The users said they were concerned the move would eliminate a key means for ensuring and maintaining the security of the tool.",
+              "It has since become an indispensable tool among admins, researchers, and security professionals, among others, for a wide range of tasks, including file transfers, troubleshooting buggy web software, and automating tasks.",
+              "As such a widely used tool for interacting with vast amounts of data online, security is paramount."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nintendo is following up Alarmo with a weird Talking Flower in March",
+            "link": "https://www.theverge.com/tech/865618/nintendo-talking-flower-preorder-super-mario-wonder",
+            "site_name": "The Verge",
+            "novelty_hash": "2784b0c1f73a8eb6f8575b7f7cbb5e936581e301"
+          },
+          "review": {
+            "headline_rewrite": "Nintendo is following up Alarmo with a weird Talking Flower in March",
+            "bullets": [
+              "After sharing a brief look at its new Talking Flower during a Nintendo Direct showcase last September that generated more questions than answers, Nintendo has finally revealed more details about what the interactive toy actually does and how much it costs.",
+              "Nintendo is following up Alarmo with a weird Talking Flower in March\nThe interactive toy will be available for preorder today and launches on March 12th.",
+              "There’s music, too, and at launch on March 12th, it will support 11 different languages, including English, Italian, and Japanese.",
+              "The toy is available for preorder starting today through Nintendo’s online store and other retailers (GameStop) for $34.99.",
+              "The company also released an overview trailer for the upcoming Switch 2 update for Mario Wonder, and it includes a new power-up called the “bellabel flower.” That update is out on March 26th."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Hacker who stole 120,000 bitcoins wants a second chance—and a security job",
+            "link": "https://arstechnica.com/security/2026/01/hacker-who-stole-120000-bitcoins-wants-a-second-chance-and-a-security-job/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b3b629d14224aed4b5090acc551cfea1ea7cf0f9"
+          },
+          "review": {
+            "headline_rewrite": "Hacker who stole 120,000 bitcoins wants a second chance—and a security job",
+            "bullets": [
+              "“Ten years ago, I decided that I would hack the largest cryptocurrency exchange in the world,” Lichtenstein wrote on LinkedIn, detailing a time when his startup was barely making money and he decided to steal some instead.",
+              "The pair were arrested at their Manhattan home in 2022."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
