@@ -89733,6 +89733,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:53": [
+        {
+          "item": {
+            "title": "Are AI agents ready for the workplace? A new benchmark raises doubts.",
+            "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8d86a55bfa6889e963a38b68fcc8cf74a1a6eb4a"
+          },
+          "review": {
+            "headline_rewrite": "Are AI agents ready for the workplace? A new benchmark raises doubts.",
+            "bullets": [
+              "It’s been nearly two years since Microsoft CEO Satya Nadella predicted AI would replace knowledge work — the white-collar jobs held by lawyers, investment bankers, librarians, accountants, IT and others.",
+              "It’s one of the biggest mysteries in AI — and thanks to new research from the training-data giant Mercor, we’re finally getting some answers.",
+              "The new research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law.",
+              "The result is a new benchmark called Apex-Agents — and so far, every AI lab is getting a failing grade.",
+              "According to researcher Brendan Foody, who worked on the paper, the models’ biggest stumbling point was tracking down information across multiple domains — something that’s integral to most of the knowledge work performed by humans.",
+              "In real life, you’re operating across Slack and Google Drive and all these other tools.” For many agentic AI models, that kind of multi-domain reasoning is still hit or miss."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sen. Markey questions OpenAI about ‘deceptive advertising’ in ChatGPT",
+            "link": "https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising",
+            "site_name": "The Verge",
+            "novelty_hash": "9bdf973759968823a1d33ab18e4a72cc2e977201"
+          },
+          "review": {
+            "headline_rewrite": "Sen. Markey questions OpenAI about ‘deceptive advertising’ in ChatGPT",
+            "bullets": [
+              "Ed Markey (D-MA) is pressing OpenAI about its move to bring ads to ChatGPT, and is asking several other companies whether they have similar plans.",
+              "In letters to the CEOs of OpenAI, Anthropic, Google, Meta, Microsoft, Snap, and xAI, Markey writes that embedding ads into AI chatbots “raises significant concerns for consumer protection, privacy, and the safety of young users.”\nSen.",
+              "Markey questions OpenAI about ‘deceptive advertising’ in ChatGPT\nAdvertising embedded in chatbots ‘raises significant concerns for consumer protection, privacy, and the safety of young users,’ Markey says.",
+              "OpenAI will start testing ads for free ChatGPT users in the coming weeks, and they’ll appear in the form of “sponsored” products and services at the bottom of conversations with the chatbot.",
+              "Even with these safeguards in place, Markey says the addition of ads in ChatGPT and other AI platforms “represents a significant, and potentially dangerous transformation” in the ad industry, as a user’s “emotional connection” to the chatbot could allow companies to “prey on the very relationships their systems have fostered.” Markey also points to OpenAI’s statement that “conversational interfaces create possibilities for people to go beyond static messages and links,” potentially making it harder for someone to recognize what is and isn’t an ad in the future.",
+              "Markey brings up potential privacy risks as well, saying that AI companies must not use an individual’s “personal thoughts, health questions, family issues, and other sensitive information” for targeted advertising."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft 365 hit by outage, preventing access to emails and files",
+            "link": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "63a7b4212d10d5162efee1ff9f3b06e301b41ec1"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft 365 hit by outage, preventing access to emails and files",
+            "bullets": [
+              "An ongoing Microsoft outage is preventing enterprise customers from accessing email inboxes, files, meetings, and other Microsoft cloud services.",
+              "The technology giant said in a post on X around 2:30 p.m.",
+              "ET that the outage was caused by a “portion of service infrastructure in North America that is not processing traffic as expected.” Microsoft didn’t provide specific details of the cause of the outage, but said it was “working to restore the infrastructure to a healthy state to achieve recovery.”\nMicrosoft said on its status page that the outage affects its Exchange Online email service, searching files within SharePoint Online or OneDrive, and creating chats, meetings, or adding members in its video meeting platform, Teams.",
+              "The outage also prevents admins from accessing their Microsoft Purview and Defender XDR security dashboards and their admin centers.",
+              "We’ll reach out to Microsoft for comment — as soon as our email, which is hosted by Microsoft, returns to normal."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Epic and Google have a secret $800 million Unreal Engine and services deal",
+            "link": "https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement",
+            "site_name": "The Verge",
+            "novelty_hash": "02c2a9ed6bdfbe659f962bf5247ed1091b2f50fa"
+          },
+          "review": {
+            "headline_rewrite": "Epic and Google have a secret $800 million Unreal Engine and services deal",
+            "bullets": [
+              "A judge is questioning whether Epic Games and Google are settling their long-running antitrust fight partly because of a previously unannounced partnership involving the Unreal Engine, Fortnite, and Android.",
+              "In a hearing in San Francisco today, the court revealed that Epic and Google have struck a new deal that apparently includes “joint product development, joint marketing commitment, joint partnerships.” California District Judge James Donato expressed concerns that the agreement — which he indicated would involve Epic “helping Google market Android” and Google newly “using Epic’s core technology” — could have led Epic to soften its demands for changes to the overall Android ecosystem.",
+              "Epic and Google have a secret $800 million Unreal Engine and services deal\n“Sorry, I’m blowing this confidentiality.”\nDonato allowed Epic and Google to keep most of the details of the plan under wraps.",
+              "“Epic’s technology is used by many companies in the space Google is operating in to train their products, so the ability for Google to use the Unreal Engine more fullsome… sorry, I’m blowing this confidentiality,” Sweeney said.",
+              "Donato then offered a hard dollar figure on one part of the deal: “An $800 million spend over six years, that’s a pretty healthy partnership,” he said.",
+              "We soon learned that refers to Epic spending $800 million to purchase some sort of services from Google: “Every year we’ve decided against Google, in this year we’re deciding to use Google at market rates,” he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
+            "link": "https://arstechnica.com/tech-policy/2026/01/asking-grok-to-delete-fake-nudes-may-force-victims-to-sue-in-musks-chosen-court/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "002e3c620de59e9b2dc12b6793a75a2be270205b"
+          },
+          "review": {
+            "headline_rewrite": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
+            "bullets": [
+              "Journalists and advocates have been trying to grasp how many victims in total were harmed by Grok’s nudifying scandal after xAI delayed restricting outputs and app stores refused to cut off access for days.",
+              "For xAI and X, the scandal brought scrutiny, but it also helped spike X engagement at a time when Meta’s rival app, Threads, has begun inching ahead of X in daily usage by mobile device users, TechCrunch reported.",
+              "Without mentioning Grok, X’s head of product, Nikita Bier, celebrated the “highest engagement days on X” in an X post on January 6, just days before X finally started restricting some of Grok’s outputs for free users.",
+              "Whether or not xAI intended the Grok scandal to surge X and Grok use, that appears to be the outcome."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk Sure Made Lots of Predictions at Davos",
+            "link": "https://www.wired.com/story/elon-musk-sure-made-lots-of-predictions-at-davos/",
+            "site_name": "WIRED",
+            "novelty_hash": "ce31605b1ac7ddd46879a14c1fa2bfa00f64663d"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk Sure Made Lots of Predictions at Davos",
+            "bullets": [
+              "Through the years, Musk has made several outlandish forecasts—about self-driving cars, about space exploration, about brain chips, about robotics—that have not panned out.",
+              "During a surprise appearance and his debut at the World Economic Forum in Davos, Switzerland, on Thursday, he concluded with something like a mission statement: “Generally, for quality of life, it’s better to err on the side of being an optimist and wrong than a pessimist and right.”\nStill, when one’s companies have their hands in so many industries—autos and robotics (Tesla), space travel and telecommunications (SpaceX), social media (X), artificial intelligence (xAI), infrastructure (the Boring Company), and neurotechnology (Neuralink)—even off-the-cuff predictions can move global markets.",
+              "“We have 9,000 satellites up there, and not once have we had to maneuver around an alien spaceship,” Musk said.",
+              "Most recently, he said Tesla—now rebranded as a robotics and autonomy company—would make thousands of Optimus robots in 2025.",
+              "That did not stop Musk from repeating in Davos some of his most far-reaching claims about the way the product would change human life forever.",
+              "“If we have ubiquitous AI that is essentially free, or close to it, and ubiquitous robotics, you will have an explosion, an expansion of the global economy that is truly beyond all precedent,” Musk said."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
