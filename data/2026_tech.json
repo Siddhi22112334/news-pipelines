@@ -88536,6 +88536,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:05": [
+        {
+          "item": {
+            "title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+            "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+            "site_name": "Google",
+            "novelty_hash": "8457a67e840df0af95d1ebfd0505a95d59a223bc"
+          },
+          "review": {
+            "headline_rewrite": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+            "bullets": [
+              "Personal Intelligence in AI Mode in Search: Help that's uniquely yours\nWith Google Search, you should be able to ask any question and find precisely what you need.",
+              "To make this vision possible, today we’re expanding Personal Intelligence to AI Mode in Google Search.",
+              "Starting today, Google AI Pro and AI Ultra subscribers can opt-in to securely connect Gmail and Google Photos to AI Mode.",
+              "With this new experience, you can tap into your own personal context and insights to unlock even more helpful Search responses that are tailored to you.",
+              "Get a more tailored Search, just for you\nWith Personal Intelligence, recommendations don’t just match your interests — they fit seamlessly into your life.",
+              "You don’t have to constantly explain your preferences or existing plans, it selects recommendations just for you, right from the start."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google reportedly snags up team behind AI voice startup Hume AI",
+            "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "05511f956a9e2cfe107e4af67daae669a2c2dc06"
+          },
+          "review": {
+            "headline_rewrite": "Google reportedly snags up team behind AI voice startup Hume AI",
+            "bullets": [
+              "The top talent behind yet another promising AI startup has been gobbled up by an incumbent.",
+              "As part of a new licensing agreement, Google DeepMind is bringing on the CEO and several of the top engineers at voice AI startup Hume AI, reports Wired.",
+              "What’s left of Hume AI will continue to supply its technology to other AI firms.",
+              "No financial details of the deal were shared.",
+              "TechCrunch has reached out to Google and Hume AI to confirm the news.",
+              "The Hume acquihire is the latest example of a leading AI firm scooping top talent off the market and skirting regulatory scrutiny by acquiring a startup’s team rather than the company outright."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+            "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "87f6bdf8fb9c08bc5543f3efe6c88b0ba3eaa147"
+          },
+          "review": {
+            "headline_rewrite": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+            "bullets": [
+              "AI Mode, Google’s conversational Search feature for complex questions, is getting more personalized.",
+              "The tech giant announced on Thursday that it’s bringing “Personal Intelligence” to AI Mode, enabling it to tap into your Gmail and Google Photos to provide more individualized responses.",
+              "The company first debuted Personal Intelligence last week in the Gemini app to allow the AI assistant to tailor its responses by connecting across your Google ecosystem, starting with Gmail, Photos, Search, and YouTube history.",
+              "The opt-in feature is now starting to roll out to AI Mode to Google AI Pro and AI Ultra subscribers in English in the U.S.",
+              "By bringing Personal Intelligence to Gemini and AI Mode, Google is leveraging the wealth of user data already within its ecosystem.",
+              "Since users already rely on services like Gmail and Photos, Google can deliver more personalized experiences that rivals can’t easily match."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This plugin uses Wikipedia&#8217;s AI-spotting guide to make AI writing sound more human",
+            "link": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill",
+            "site_name": "The Verge",
+            "novelty_hash": "f34d6f5505b2c1924deeb42374c9e54a62f537b9"
+          },
+          "review": {
+            "headline_rewrite": "This plugin uses Wikipedia&#8217;s AI-spotting guide to make AI writing sound more human",
+            "bullets": [
+              "A new tool aims to help AI chatbots generate more human-sounding text — with the help of Wikipedia’s guide for detecting AI, as reported by Ars Technica.",
+              "Developer Siqi Chen says he created the tool, called Humanizer, by feeding Anthropic’s Claude the list of tells that Wikipedia’s volunteer editors put together as part of an initiative to combat “poorly written AI-generated content.”\nThis plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human\nA ‘Humanizer’ skill for Claude removes phrases and patterns based on a guide that Wikipedians use to spot AI-generated text.",
+              "Wikipedia’s guide contains a list of signs that text may be AI-generated, including vague attributions, promotional language like describing something as “breathtaking,” and collaborative phrases, such as “I hope this helps!” Humanizer, which is a custom skill for Claude Code, is supposed to help the AI assistant avoid detection by removing these “signs of AI-generated writing from text, making it sound more natural and human,” according to its GitHub page.",
+              "The GitHub page provides some examples on how Humanizer might help Claude detect some of these tells, including by changing a sentence that described a location as “nestled within the breathtaking region” to “a town in the Gonder region,” as well as adjusting a vague attribution, like “Experts believe it plays a crucial role” to “according to a 2019 survey by…” Chen says the tool will “automatically push updates” when Wikipedia’s AI-detecting guide is updated.",
+              "It’s only a matter of time before the AI companies themselves start adjusting their chatbots against some of these tells, too, as OpenAI has already addressed ChatGPT’s overuse of em dashes, which has become an indicator of AI content."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Search AI Mode can use Gmail and Photos to get to know you",
+            "link": "https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update",
+            "site_name": "The Verge",
+            "novelty_hash": "608cbe64206be8b88912aa01308f112a94d467d6"
+          },
+          "review": {
+            "headline_rewrite": "Google Search AI Mode can use Gmail and Photos to get to know you",
+            "bullets": [
+              "Google is helping AI Mode to provide more personalized responses in Search by allowing the chatbot to analyze your Gmail and Google Photos accounts.",
+              "After launching for Gemini AI last week, “Personal Intelligence” is now coming to tailor AI Mode search results to your interests and daily life by gathering information from your emails and photos, instead of requiring you to manually create and adjust your preferences.",
+              "Google Search AI Mode can use Gmail and Photos to get to know you\nThe opt-in Personal Intelligence update aims to automatically tailor AI Mode responses to your interests.",
+              "For example, Google says Personal Intelligence allows AI Mode to suggest travel itineraries by referencing hotel bookings in your Gmail and holiday snaps in Photos.",
+              "When using AI Mode to shop online, it can prioritize products from brands you wear or have purchased before.",
+              "Eligible Google AI Pro and AI Ultra subscribers can opt in to the Gmail and Google Photos connections for AI Mode starting today."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "All sorts of interesting flags and artifacts will fly to the Moon on Artemis II",
+            "link": "https://arstechnica.com/space/2026/01/nasa-to-fly-apollo-aviation-artifacts-on-artemis-ii/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1b87f4bce2e7d7d78b0649279d1a23b5baf57d43"
+          },
+          "review": {
+            "headline_rewrite": "All sorts of interesting flags and artifacts will fly to the Moon on Artemis II",
+            "bullets": [
+              "“This mission will bring together pieces of our earliest achievements in aviation, defining moments from human spaceflight and symbols of where we’re headed next,” Jared Isaacman, NASA’s administrator, said in a statement.",
+              "“Historical artifacts flying aboard Artemis II reflect the long arc of American exploration and the generations of innovators who made this moment possible.”\nThe Artemis II mission, which may launch as soon as early February, is set to take three NASA astronauts—commander Reid Wiseman, pilot Victor Glover, and mission specialist Christina Koch—and a representative of the Canadian Space Agency, mission specialist Jeremy Hansen, on a 10-day flight that takes them farther out into space than any humans have ever traveled before and then return them safely to Earth.",
+              "Banners aboard\n“During America’s 250th anniversary, Orion will carry astronauts around the Moon, while also carrying our history forward into the next chapter beyond Earth,” said Isaacman."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
