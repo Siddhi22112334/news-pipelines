@@ -88416,6 +88416,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:04": [
+        {
+          "item": {
+            "title": "How to Get Started With Visual Generative AI on NVIDIA RTX PCs",
+            "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-comfyui-tutorial/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "45914bc83e3f45050c13682b964f31f4f906c8cf"
+          },
+          "review": {
+            "headline_rewrite": "How to Get Started With Visual Generative AI on NVIDIA RTX PCs",
+            "bullets": [
+              "AI-powered content generation is now embedded in everyday tools like Adobe and Canva, with a slew of agencies and studios incorporating the technology into their workflows.",
+              "Creators are increasingly running these workflows locally on PCs to keep assets under direct control, remove cloud service costs and eliminate the friction of iteration — making it easier to refine outputs at the pace real creative projects demand.",
+              "Since their inception, NVIDIA RTX PCs have been the system of choice for running creative AI due to their high performance — reducing iteration time — and the fact that users can run models on them for free, removing token anxiety.",
+              "How to Get Started\nGetting started with visual generative AI can feel complex and limiting.",
+              "Online AI generators are easy to use but offer limited control.",
+              "Here’s how to get started with visual generative AI locally on RTX PCs using ComfyUI and popular models:\n- Visit comfy.org to download and install ComfyUI for Windows."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "From Pilot to Profit: Survey Reveals the Financial Services Industry Is Doubling Down on AI Investment and Open Source",
+            "link": "https://blogs.nvidia.com/?p=89240",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "67faad8bc5d81120188753d9a3fb934681f84c60"
+          },
+          "review": {
+            "headline_rewrite": "From Pilot to Profit: Survey Reveals the Financial Services Industry Is Doubling Down on AI Investment and Open Source",
+            "bullets": [
+              "AI has taken center stage in financial services, automating the research and execution behind algorithmic trading and helping banks more accurately detect fraud and money laundering — all while improving risk management practices and expediting document processing.",
+              "The sixth annual “NVIDIA State of AI in Financial Services” report, based on a survey of more than 800 industry professionals, found that AI usage in the industry has never been higher.",
+              "Organizations are deploying and scaling AI use cases, such as fraud detection, risk management and customer service, to improve critical business functions that create meaningful return on investment.",
+              "New types of AI — including AI agents — are streamlining processes ranging from back-office operations to investment research as financial institutions embrace the tools needed to build specialized AI, including open source foundation models and software.",
+              "Highlights from this year’s report include:\n- 89% said AI is helping increase annual revenue and decrease annual costs.",
+              "- 73% of executives said AI is crucial to their future success, and nearly 100% said their AI budgets will increase or stay the same in the next year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google reportedly snags up team behind AI voice startup Hume AI",
+            "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "05511f956a9e2cfe107e4af67daae669a2c2dc06"
+          },
+          "review": {
+            "headline_rewrite": "Google reportedly snags up team behind AI voice startup Hume AI",
+            "bullets": [
+              "The top talent behind yet another promising AI startup has been gobbled up by an incumbent.",
+              "As part of a new licensing agreement, Google DeepMind is bringing on the CEO and several of the top engineers at voice AI startup Hume AI, reports Wired.",
+              "What’s left of Hume AI will continue to supply its technology to other AI firms.",
+              "No financial details of the deal were shared.",
+              "TechCrunch has reached out to Google and Hume AI to confirm the news.",
+              "The Hume acquihire is the latest example of a leading AI firm scooping top talent off the market and skirting regulatory scrutiny by acquiring a startup’s team rather than the company outright."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude",
+            "link": "https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f7650d579b6253272f7322edabc7baaab3f767f5"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude",
+            "bullets": [
+              "But as AI coding tools have gotten better, the test has had to change a lot to stay ahead of AI-assisted cheating.",
+              "Without in-person proctoring, there’s no way to ensure someone isn’t using AI to cheat on the test — and if they do, they’ll quickly rise to the top.",
+              "“Under the constraints of the take-home test, we no longer had a way to distinguish between the output of our top candidates and our most capable model,” Hume writes.",
+              "The issue of AI cheating is already wreaking havoc at schools and universities around the world, so ironic that AI labs are having to deal with it too.",
+              "In the end, Hume designed a new test that had less to do with optimizing hardware, making it sufficiently novel to stump contemporary AI tools."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This plugin uses Wikipedia&#8217;s AI-spotting guide to make AI writing sound more human",
+            "link": "https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill",
+            "site_name": "The Verge",
+            "novelty_hash": "f34d6f5505b2c1924deeb42374c9e54a62f537b9"
+          },
+          "review": {
+            "headline_rewrite": "This plugin uses Wikipedia&#8217;s AI-spotting guide to make AI writing sound more human",
+            "bullets": [
+              "A new tool aims to help AI chatbots generate more human-sounding text — with the help of Wikipedia’s guide for detecting AI, as reported by Ars Technica.",
+              "Developer Siqi Chen says he created the tool, called Humanizer, by feeding Anthropic’s Claude the list of tells that Wikipedia’s volunteer editors put together as part of an initiative to combat “poorly written AI-generated content.”\nThis plugin uses Wikipedia’s AI-spotting guide to make AI writing sound more human\nA ‘Humanizer’ skill for Claude removes phrases and patterns based on a guide that Wikipedians use to spot AI-generated text.",
+              "Wikipedia’s guide contains a list of signs that text may be AI-generated, including vague attributions, promotional language like describing something as “breathtaking,” and collaborative phrases, such as “I hope this helps!” Humanizer, which is a custom skill for Claude Code, is supposed to help the AI assistant avoid detection by removing these “signs of AI-generated writing from text, making it sound more natural and human,” according to its GitHub page.",
+              "The GitHub page provides some examples on how Humanizer might help Claude detect some of these tells, including by changing a sentence that described a location as “nestled within the breathtaking region” to “a town in the Gonder region,” as well as adjusting a vague attribution, like “Experts believe it plays a crucial role” to “according to a 2019 survey by…” Chen says the tool will “automatically push updates” when Wikipedia’s AI-detecting guide is updated.",
+              "It’s only a matter of time before the AI companies themselves start adjusting their chatbots against some of these tells, too, as OpenAI has already addressed ChatGPT’s overuse of em dashes, which has become an indicator of AI content."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta wants to block data about social media use, mental health in child safety trial",
+            "link": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "063f4e1b285fc58d51130c2b666ff2049fcf8883"
+          },
+          "review": {
+            "headline_rewrite": "Meta wants to block data about social media use, mental health in child safety trial",
+            "bullets": [
+              "As Meta heads to trial in the state of New Mexico for allegedly failing to protect minors from sexual exploitation, the company is making an aggressive push to have certain information excluded from the court proceedings.",
+              "The company has petitioned the judge to exclude certain research studies and articles around social media and youth mental health; any mention of a recent high-profile case involving teen suicide and social media content; and any references to Meta’s financial resources, the personal activities of employees, and Mark Zuckerberg’s time as a student at Harvard University.",
+              "This is to ensure the jury is presented with facts and not irrelevant or prejudicial information and that the defendant is granted a fair trial.",
+              "Meta has emphasized in pretrial motions that the only questions the jury should be asked are whether Meta violated New Mexico’s Unfair Practices Act because of how it has allegedly handled child safety and youth mental health, and that other information—such as Meta’s alleged election interference and misinformation, or privacy violations—shouldn’t be factored in.",
+              "But some of the requests seem unusually aggressive, two legal scholars tell WIRED, including requests that the court not mention the company’s AI chatbots, and the extensive reputation protection Meta is seeking.",
+              "The state is alleging that Meta failed to protect minors from online solicitation, human trafficking, and sexual abuse on its platforms."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
