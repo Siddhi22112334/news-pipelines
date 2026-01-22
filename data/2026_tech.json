@@ -89143,6 +89143,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:05": [
+        {
+          "item": {
+            "title": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+            "link": "https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "e37a57330edfeaa7085e88888f1c4da294676d9e"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+            "bullets": [
+              "AI-powered driver assistance technologies are becoming standard equipment, fundamentally changing how vehicle safety is assessed and validated.",
+              "“When Euro NCAP assesses vehicle safety, it evaluates both passive and active systems — achieving a perfect score requires a state-of-the-art advanced driver assistance system,” said Ola Källenius, CEO of the Mercedes-Benz Group.",
+              "For AI-powered driver assistance, the most relevant are the “Vulnerable Road User” and “Safety Assist” categories, which assess technologies designed to help prevent crashes — including automatic emergency braking, lane-keeping support and speed assistance.",
+              "As AI becomes central to driving, the benchmark for the “safest” car will increasingly be defined not only by how well a vehicle handles a crash, but how effectively it helps prevent one.",
+              "The architecture pairs an AI-driven end-to-end driving system with a parallel classical safety stack to provide redundancy across AV sensing, planning and execution.",
+              "Halos delivers a structured safety foundation for developing automated driving and other AI capabilities while staying anchored to robust guardrails, redundancy and fault tolerance."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+            "link": "https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "89e592f18a50671b342b6d9cb3252591f52084ea"
+          },
+          "review": {
+            "headline_rewrite": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+            "bullets": [
+              "AI chatbots are getting better at answering questions, summarizing documents, and solving mathematical equations, but they still largely behave like helpful assistants for one user at a time.",
+              "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, thinks closing that gap is the next major frontier for foundation models.",
+              "The company this week raised a $480 million seed round to build a “central nervous system” for the human-plus-AI economy.",
+              "The startup’s “AI for empowering humans” framing has dominated early coverage, but the company’s actual ambition is more novel: building a new foundation model architecture designed for social intelligence, not just information retrieval or code generation.",
+              "“It feels like we’re ending the first paradigm of scaling, where question-answering models were trained to be very smart at particular verticals, and now we’re entering what we believe to be the second wave of adoption where the average consumer or user is trying to figure out what to do with all these things,” Andi Peng, one of Humans&’s co-founders and a former Anthropic employee, told TechCrunch.",
+              "Humans&’s pitch centers on helping usher people into the new era of AI, moving beyond the narrative that AI will take their jobs."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google now offers free SAT practice exams, powered by Gemini",
+            "link": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c28074886e0b49a641ffc372651f66c47968ef27"
+          },
+          "review": {
+            "headline_rewrite": "Google now offers free SAT practice exams, powered by Gemini",
+            "bullets": [
+              "Prepping for the SAT is nobody’s idea of fun, but Google aims to make it less stressful with AI.",
+              "The company announced that it’s now focusing its AI education efforts on standardized testing with free SAT practice exams powered by Gemini.",
+              "Students can prompt Gemini by typing “I want to take a practice SAT test,” and the AI will provide them with a free practice exam.",
+              "It also offers detailed explanations for any incorrect answers.",
+              "The company said it partnered with education companies like the Princeton Review to ensure the content is vetted and that students are working with questions that closely mirror what they will encounter on the actual SAT.",
+              "However, it also sparks a broader conversation about the role of AI in education and just how much we want AI to shape how students learn."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now",
+            "link": "https://www.theverge.com/gadgets/865230/amazon-fire-tv-stick-4k-plus-iphone-air-magsafe-battery-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "f1f62a75478c2d2edc4577d1bff548132cbf122e"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now",
+            "bullets": [
+              "Amazon’s Fire TV Stick 4K Plus is on sale for just $18 right now\nYou can also save on an ultra-thin battery pack for the iPhone Air and Samsung’s Galaxy Ring.",
+              "Xbox Game Pass subscribers can also use it to stream select titles from the cloud, and, as expected, you can use it to watch the newest movies and TV shows from Prime Video, HBO Max, Netflix, and dozens of FAST (Free Ad-Supported TV) channels in HD or 4K.",
+              "More deals and discounts of note\n- If you own the newfangled iPhone Air, Apple’s aptly titled iPhone Air MagSafe Battery is down to $79 ($20 off) — its lowest price to date — at Amazon and Walmart.",
+              "Admittedly, that’s still pretty pricey for a 3,149mAh battery pack that only delivers up to 12W of power; however, it’s also one of the thinnest options available, and can provide an additional 65 percent charge.",
+              "- Samsung’s Galaxy Ring is available from Amazon, Best Buy, and Samsung in select sizes starting at $299.99 ($100 off), its second-best price to date.",
+              "1 smart ring pick (read: the Oura Ring 4), Samsung’s first-gen alternative offers fantastic hardware, long battery life, and a host of ecosystem tricks aimed at Samsung users."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How Claude Code Is Reshaping Software—and Anthropic",
+            "link": "https://www.wired.com/story/claude-code-success-anthropic-business-model/",
+            "site_name": "WIRED",
+            "novelty_hash": "040f0e9b413cdc4f326e0296c36fc96e3dfadc84"
+          },
+          "review": {
+            "headline_rewrite": "How Claude Code Is Reshaping Software—and Anthropic",
+            "bullets": [
+              "Engineers in Silicon Valley have been raving about Anthropic’s AI coding tool, Claude Code, for months.",
+              "“We built the simplest possible thing,” said Cherny.",
+              "“The craziest thing was learning three months ago that half of the sales team at Anthropic uses Claude Code every week.”\nAI-powered coding has evolved quickly.",
+              "By early 2025, startups like Cursor and Windsurf began rolling out early “agentic” coding products, which let developers describe a feature in plain language and leave the rest up to an AI agent.",
+              "Claude Code launched around this time too.",
+              "Cherny says Anthropic built Claude Code for where AI capabilities were headed, rather than where they were at launch."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Is this the end of Epic and Google’s feud?",
+            "link": "https://www.theverge.com/tech/865178/epic-v-google-settlement-before-judge",
+            "site_name": "The Verge",
+            "novelty_hash": "6b05437da2e811dc7fd9b4730c797e65b5c3520f"
+          },
+          "review": {
+            "headline_rewrite": "Is this the end of Epic and Google’s feud?",
+            "bullets": [
+              "So now, he’s hauled the “lead negotiators” of the settlement into court to explain further.",
+              "That’s Epic CEO Tim Sweeney himself, Google’s Android boss Sameer Samat, Epic’s expert witness in economics (and Stanford professor) Doug Bernheim, and Google regulatory affairs director Lara Kollios.",
+              "Disclosure: Vox Media, The Verge’s parent company, has filed a lawsuit against Google, seeking damages from its illegal ad tech monopoly."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
