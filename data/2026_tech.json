@@ -88900,5 +88900,131 @@
         }
       ]
     }
+  },
+  "2026-01-23": {
+    "runs": {
+      "00:02": [
+        {
+          "item": {
+            "title": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+            "link": "https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "e37a57330edfeaa7085e88888f1c4da294676d9e"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+            "bullets": [
+              "AI-powered driver assistance technologies are becoming standard equipment, fundamentally changing how vehicle safety is assessed and validated.",
+              "“When Euro NCAP assesses vehicle safety, it evaluates both passive and active systems — achieving a perfect score requires a state-of-the-art advanced driver assistance system,” said Ola Källenius, CEO of the Mercedes-Benz Group.",
+              "For AI-powered driver assistance, the most relevant are the “Vulnerable Road User” and “Safety Assist” categories, which assess technologies designed to help prevent crashes — including automatic emergency braking, lane-keeping support and speed assistance.",
+              "As AI becomes central to driving, the benchmark for the “safest” car will increasingly be defined not only by how well a vehicle handles a crash, but how effectively it helps prevent one.",
+              "The architecture pairs an AI-driven end-to-end driving system with a parallel classical safety stack to provide redundancy across AV sensing, planning and execution.",
+              "Halos delivers a structured safety foundation for developing automated driving and other AI capabilities while staying anchored to robust guardrails, redundancy and fault tolerance."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "See the newest product features in January’s Demand Gen Drop.",
+            "link": "https://blog.google/products/ads-commerce/demand-gen-drop-january-2026/",
+            "site_name": "Google",
+            "novelty_hash": "77818844ca4eee51ff362eebb7bcc3fa69c0a35e"
+          },
+          "review": {
+            "headline_rewrite": "See the newest product features in January’s Demand Gen Drop.",
+            "bullets": [
+              "Demand Gen is bringing more launches to general availability to help you reach new customers, including product features we previewed at Google Marketing Live 2025.",
+              "- Demand Gen powers Shoppable CTV, enabling viewers to seamlessly browse and purchase products while watching YouTube ads on the big screen.",
+              "Demand Gen campaigns that include TV screens drive an average of 7% additional conversions at the same ROI.",
+              "1\n- Attributed Branded Searches is now available for Demand Gen, showing the volume of your campaign’s branded searches on Google/YouTube, to help quantify your impact.",
+              "Simply connect your Hotel Center feed to build dynamic video ads featuring hotel pricing, ratings and availability.",
+              "Demand Gen has been integral in helping advertisers like LG Electronics drive performance, achieving a 24% higher conversion rate than its paid social campaigns while reaching high-valued customers at a 91% lower CPA."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Claude Code is suddenly everywhere inside Microsoft",
+            "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+            "site_name": "The Verge",
+            "novelty_hash": "2d8fd8c5e6dd4f1348d5607dbcc5e6575cbca782"
+          },
+          "review": {
+            "headline_rewrite": "Claude Code is suddenly everywhere inside Microsoft",
+            "bullets": [
+              "While no individual AI coding tool manages to be the best at every task that software developers do each day, Claude Code is increasingly coming out on top for its ease of use, both for developers and nontechnical users.",
+              "Microsoft first started adopting Anthropic’s Claude Sonnet 4 model inside its developer division in June last year, before favoring it for paid users of GitHub Copilot several months later.",
+              "Now, Microsoft is going a step beyond using Anthropic’s AI models and widely adopting Claude Code across its biggest engineering teams.",
+              "Microsoft’s CoreAI team, the new AI engineering group led by former Meta engineering chief Jay Parikh, has been testing Claude Code in recent months, and last week Microsoft’s Experiences + Devices division were being asked to install Claude Code.",
+              "Microsoft sells GitHub Copilot as its AI coding tool of choice to its customers, but if these broad internal pilot programs are successful, then it’s possible the company could even eventually sell Claude Code directly to its cloud customers.",
+              "The software maker is also counting selling Anthropic AI models toward Azure sales quotas, which is unusual given Microsoft typically only offers its salespeople incentives for homegrown products or models from OpenAI."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
+            "link": "https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0e1f62581502ff868ef685a463c114a2a8a2e694"
+          },
+          "review": {
+            "headline_rewrite": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
+            "bullets": [
+              "Last year, fusion power startup General Fusion was struggling to raise funds, laying off at least 25% of its staff before receiving a $22 million lifeline investment while it figured out how to keep the company afloat.",
+              "Today, General Fusion revealed its survival plan: It will go public through a reverse merger with a special purpose acquisition company, Spring Valley III, combined with additional investment from institutional investors.",
+              "It’s a significant change in fortunes for a company whose CEO wrote a public letter just last year pleading for funding.",
+              "If the deal closes as planned, General Fusion could receive up to $335 million from the transaction, more than double what it was reportedly seeking to raise last year before it landed the $22 million lifeline.",
+              "The transaction will value the combined company at about $1 billion, General Fusion said.",
+              "Before the merger was announced."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google now offers free SAT practice exams, powered by Gemini",
+            "link": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c28074886e0b49a641ffc372651f66c47968ef27"
+          },
+          "review": {
+            "headline_rewrite": "Google now offers free SAT practice exams, powered by Gemini",
+            "bullets": [
+              "Prepping for the SAT is nobody’s idea of fun, but Google aims to make it less stressful with AI.",
+              "The company announced that it’s now focusing its AI education efforts on standardized testing with free SAT practice exams powered by Gemini.",
+              "Students can prompt Gemini by typing “I want to take a practice SAT test,” and the AI will provide them with a free practice exam.",
+              "It also offers detailed explanations for any incorrect answers.",
+              "The company said it partnered with education companies like The Princeton Review to ensure the content is vetted and that students are working with questions that closely mirror what they will encounter on the actual SAT.",
+              "However, it also sparks a broader conversation about the role of AI in education and just how much we want AI to shape how students learn."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Xbox Developer Direct 2026: the biggest games and announcements",
+            "link": "https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements",
+            "site_name": "The Verge",
+            "novelty_hash": "4317364389af5ee2621d981826395d00bba1a878"
+          },
+          "review": {
+            "headline_rewrite": "Xbox Developer Direct 2026: the biggest games and announcements",
+            "bullets": [
+              "Last year’s edition of the Xbox Developer Direct had some big names, like Doom: The Dark Ages and a little game called Clair Obscur: Expedition 33.",
+              "And we already know the three main titles that will be showcased in the 2026 version.",
+              "They include Forza Horizon 6 (which looks like it’ll be launching in May), the oft-delayed fantasy RPG Fable, and Beast of Reincarnation, the action RPG from Pokémon developer Game Freak.",
+              "Forza Horizon 6 will launch on Xbox Series X / S and PC on May 19th, Xbox and developer Playground Games announced during Thursday’s Developer Direct showcase.",
+              "The game has the largest map in a Forza Horizon game, Playground Games said during the event.",
+              "Forza Horizon 6 will have more than 550 cars at launch, more than has ever been available at launch for a Forza Horizon title."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
