@@ -93408,6 +93408,122 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:20": [
+        {
+          "item": {
+            "title": "How did Davos turn into a tech conference?",
+            "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e46f09be38cf89a389ffad3c1a809948b8e1e4e8"
+          },
+          "review": {
+            "headline_rewrite": "How did Davos turn into a tech conference?",
+            "bullets": [
+              "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.",
+              "AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs weren’t holding back.",
+              "There was public criticism of trade policy, warnings about AI bubbles popping, and a lot of talk about what comes next for the industry.",
+              "Watch as TechCrunch’s Equity podcast discusses which conversations took over Davos this week, the latest startup raises that caught our eye, and more."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+            "link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "37edb738b840218917071e70e79754481a239c4d"
+          },
+          "review": {
+            "headline_rewrite": "Researchers say Russian government hackers were behind attempted Poland power outage",
+            "bullets": [
+              "A failed December effort to bring down parts of Poland’s energy grid was the work of Russian government hackers known for causing past energy disruptions, according to a security research firm that investigated the incident.",
+              "On Friday, cybersecurity firm ESET said it obtained a copy of the destructive malware, which it calls DynoWiper.",
+              "ESET attributed the malware with “medium confidence” to the hacking group known as Sandworm, a unit within Russia’s military intelligence agency GRU, based on a “strong overlap” with its previous research into Sandworm’s past malware, including the group’s use of destructive malware to target Ukraine’s energy sector.",
+              "As noted by Zetter, the cyberattacks targeting Poland come almost exactly a decade after Sandworm’s first-known cyberattack on Ukraine’s energy infrastructure in 2015, which caused power outages for more than 230,000 homes around Kyiv, the country’s capital.",
+              "A similar cyberattack hit Ukraine’s energy systems a year later.",
+              "Following the attempted hack, Poland’s prime minister, Donald Tusk, said that the country’s cybersecurity defenses worked, and “at no point was critical infrastructure threatened.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What TikTok’s new owners mean for your feed",
+            "link": "https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained",
+            "site_name": "The Verge",
+            "novelty_hash": "d2e3543d16e0e4330dc83cab388cd328f3373c9f"
+          },
+          "review": {
+            "headline_rewrite": "What TikTok’s new owners mean for your feed",
+            "bullets": [
+              "The Silver Lake investment firm, Abu Dhabi’s MGX, and the cloud giant Oracle will each have 15 percent stakes in the new TikTok US Data Security (USDS) Joint Venture LLC.",
+              "The new terms have some people worried, but some of the sections raising concerns aren’t actually new.",
+              "Adam Presser, TikTok’s former global head of operations and trust and safety, will serve as the CEO of the US-based company, while Will Farrell, who previously worked as the head of security and privacy for TikTok’s US arm, will become the joint venture’s chief security officer.",
+              "Shou Zi Chew will remain the CEO of TikTok’s global operations under ByteDance, and will get a seat on the US-based joint venture’s board of directors, joined by six other Americans:\n- Egon Durban, Silver Lake’s co-CEO\n- Kenneth Glueck, Oracle’s executive vice president in the office of the CEO\n- David Scott, the chief strategy and safety officer at MGX\n- Mark Dooley, the managing director at investment firm Susquehanna\n- Raul Fernandez, president and CEO of enterprise IT company DXC Technology\n- Timothy Dattels, senior advisor to private equity firm TPG Global\nHow does TikTok US interface with TikTok Global now?",
+              "You don’t need to download a new app in order to gain access to the US version of the app; it should update automatically.",
+              "The joint venture says the app will maintain “interoperability” with the TikTok used by the rest of the world, while providing users with a “global TikTok experience.” The same goes for US-based creators, as the site adds that TikTok US will ensure users can discover them “on a global scale.”\nTikTok’s US arm will, however, use a new version of the platform’s algorithm that the joint venture will “retrain, test, and update” using US user data — a move meant to assuage fears that the Chinese government could push propaganda through it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is stopping teens from chatting with its AI characters",
+            "link": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+            "site_name": "The Verge",
+            "novelty_hash": "9e0cd44659f8cf8eac1c46badc0b43883d5e7483"
+          },
+          "review": {
+            "headline_rewrite": "Meta is stopping teens from chatting with its AI characters",
+            "bullets": [
+              "Meta is “temporarily pausing” the ability for teens to chat with its AI characters as it develops a “new version” of the characters that will offer a “better experience.” The company made the announcement in an update to a blog post from October where the company had detailed more parental controls for teen AI use.",
+              "The change blocking teens from accessing the characters will go into effect “starting in the coming weeks.”\nMeta is stopping teens from chatting with its AI characters\nThe company is developing a ‘new version’ of the characters that will offer a ‘better experience.’\n”Since we announced our plans to build parental controls for AI characters in October, we started developing a new iteration of AI characters generally (i.e.",
+              "“Rather than building the parental controls twice (for the current AI characters and the new iteration of AI characters) we’re pausing teen access to the current version while we focus on the new iteration.",
+              "When that new iteration is available for teens, it will come with parental controls.”\nAccording to TechCrunch, “Meta said that it heard from parents that they wanted more insights and control over their teens’ interactions with AI characters, which is why it decided to make these changes.”\nIn October, Meta announced that parents would be able to block their teens’ access to one-on-one conversations with its AI characters, block their teens from talking with specific AI characters, and share insights with parents on the topics their teens discuss with Meta’s AI characters and its AI assistant."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Our Favorite Earbuds for Most People Are Over 25 Percent Off",
+            "link": "https://www.wired.com/story/nothing-ear-a-deal-126/",
+            "site_name": "WIRED",
+            "novelty_hash": "e620466168a1341ad3b0ab5de5bd593284e300b7"
+          },
+          "review": {
+            "headline_rewrite": "Our Favorite Earbuds for Most People Are Over 25 Percent Off",
+            "bullets": [
+              "They have an excellent, open audio profile, top-tier touch controls, and impressive noise canceling for such a small pair of earbuds.",
+              "Our reviewer Parker Hall found them particularly great for listening to jazz, where the twinkling highs and great definition in the low end bring out the best details in your tunes.",
+              "While they work well with both major mobile platforms, the quick pairing for Android devices is a nice benefit.",
+              "The white pair have a distinctly Airpod-like appearance, with a translucent stem to stand out, and the black color are also marked down, if you'd rather stay more incognito."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear",
+            "link": "https://www.wired.com/story/how-to-prep-for-a-winter-storm/",
+            "site_name": "WIRED",
+            "novelty_hash": "a158f81b593554a9b80a3bdb73c9d480088c216b"
+          },
+          "review": {
+            "headline_rewrite": "How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear",
+            "bullets": [
+              "But a storm is coming, An extreme winter weather system is expected to move eastward from New Mexico to Georgia and Maine beginning Friday, and affect anywhere from a third to half the country’s population by the end of the weekend.",
+              "I consulted National Weather Service preparedness lead Charlie Woodrum and our team of product testers for advice on how to prepare for extreme winter weather.",
+              "“You have to think in that mindset of, ‘We could have power out,’” Woodrum said.",
+              "“We could lose it for a couple days, or up to even a week, and we also could lose water if pipes freeze or water mains break.",
+              "I like the flexibility of filtered water bottles like the Clearly Filtered stainless steel bottle, which can filter any liquid as you suck through it.",
+              "Woodrum cautioned against trusting that snow is a source of clean water, even if you've gathered it directly from the sky."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
