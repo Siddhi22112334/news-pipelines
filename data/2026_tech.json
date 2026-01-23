@@ -90582,6 +90582,80 @@
             "impact": "Negative"
           }
         }
+      ],
+      "11:23": [
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "599eb1f52f502b02b5de84414cc537915368812a"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nDonald Trump sues JPMorgan Chase for $5 billion chevron_rightTrump sues JPMorgan, Jamie Dimon over cutting off banking access\nThe Washington Post\nBy Andrew Ackerman & Rachel Lerman\nAmazon job cuts chevron_rightExclusive: Amazon plans thousands more corporate job cuts next week, sources say\nReuters\nBy Greg Bensinger\nIntel reports Q4 earnings but forecasts lower Q1 revenue chevron_rightIntel Stock Drops On Weak First-Quarter Guidance After Q4 Beat\nInvestor's Business Daily\nBy Patrick Seitz\nAmericans stock up on essentials ahead of major winter storm chevron_rightGeorgia and Other Southern States Prepare for Storm’s Snow and Bitter Cold\nThe New York Times\nBy Rick Rojas, Emily Cochrane & Alessandro Marazzi Sassoon\nBloomberg.com\nBy Hadriana Lowenkron & Katy O'Donnell\nCapital One to buy fintech firm Brex for $5.15 billion chevron_rightExclusive | Capital One Strikes $5.15 Billion Deal for Fintech Brex\nThe Wall Street Journal\nBy Peter Rudegeair & Gina Heeb\nMarketWatch\nBy Gordon Gottsegen\nYahoo Finance\nBy Rian Howlett\nDanish pension fund AkademikerPension exits US treasuries chevron_right\nMajor US airlines issue winter storm travel advisories chevron_rightWinter Storm Fern update: Delta cancels flights in five states, expands waivers for customers to adjust travel\nDelta News Hub\nThousands of Microsoft 365 users report outages chevron_right\nBitGo IPO price chevron_rightBitGo Is 2026’s First Big IPO.",
+              "La Monica\nSupreme Court on Fed Governor Lisa Cook chevron_rightSupreme Court appears likely to allow Lisa Cook to remain on Fed board\nBy Justin Jouvenal & Andrew Ackerman\nBy Benjamin Wallace\nThe Block\nBy Kyle Baird\nNorth Carolina ticket wins $209.3 million Powerball jackpot chevron_right\nLululemon halts online sales of Get Low leggings after complaints chevron_right\nX's Grok AI generates 23,000 images appearing to depict children chevron_right\nCaroline Ellison's release from prison chevron_right\nElon Musk makes debut appearance at Davos chevron_rightElon Musk warns the U.S.",
+              "could soon be producing more chips than we can turn on.",
+              "And China doesn’t have the same issue\nBy Sasha Rogelberg\nNovember inflation chevron_rightPrices ticked up in November as Americans keep spending, a key inflation measure shows\nFed's main gauge shows inflation at 2.8% in November, edging further away from target\nAP News\nBy Christopher Rugaber\nCNBC\nBy Jeff Cox\n2026 Subaru Outback Wilderness review chevron_right\nChina's AI firms chevron_rightChina Lagging in AI Is a ‘Fairy Tale,’ Mistral CEO Says\nBy Yazhou Sun & Joumanna Bercetche\nVariety\nBy Todd Spangler\nTesla stock jumps as company begins driverless robotaxi service chevron_rightTesla stock pops as Elon Musk posts video claiming no safety monitor in Austin robotaxi\nBy Pras Subramanian\nData centers' energy costs chevron_rightBig tech is increasingly promising to pay for spiking power costs."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-tips/8-whatsapp-hidden-security-tools-that-help-prevent-scams-and-strengthen-personal-privacy/articleshow/126523970.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "68163cacf6848ceb6042a95bdbf248e14aa72952"
+          },
+          "review": {
+            "headline_rewrite": "8 WhatsApp hidden security tools that help prevent scams and strengthen personal privacy",
+            "bullets": [
+              "Recent studies have demonstrated the vulnerabilities faced by users, ranging from browser-based account hijacking to massive phone number scraping through contact discovery services.",
+              "The good news is that there are some settings available in WhatsApp that you could use to greatly enhance your own personal safety and avoid unnecessary exposure.",
+              "WhatsApp features that significantly improve your security and privacy\nWhatsApp continues to strengthen its platform with encrypted backups, privacy-focused AI tools, and collaboration with security researchers.",
+              "- Use a privacy checkup to control what others can see\n- Enable disappearing messages to limit long-term exposure\nEnd-to-end encryption ensures the security of the message during the transfer process, whereas the message stored on the device remains insecure even if the device is compromised.",
+              "- Protect your account with two-step verification and a security PIN\nYour phone number is at the heart of your WhatsApp account, making it a vulnerable spot.",
+              "To turn it on, you need to go to Settings > Account > Two-step verification, and you will be prompted to create a PIN and can choose to add an email which will help you restore your account if you lose access."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "262a98ca8b9df315fa3f5fd049dc4db429b11d60"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nBEMIDJI MINNESOTA NEWS\nBizTimes Daily Update\nGJ Sentinel Headlines 1/22/26\nCobb Courier Evening Update January 22, 2026\nThe Afternoon Recap (Jan.",
+              "22, 2026)\nIn Brief\nOne Year After the Fires, Flexible Funding Helps Local Businesses Reopen\nWILLMAR MINNESOTA NEWS\nThursday News Roundup -- Afternoon Edition\nLane County News\nLatest news from Baltimore, Montgomery County and across Maryland\nAdvocate Top Stories\nMITCHELL SD NEWS\nTOP COLORADO NEWS\nSauk Valley\nThursday's news in Arlington, Virginia\nTRUMP SUES JPMORGAN, SILVER GOES WILD\nDaily Dose of Neighborhood News 1.22.26\nAtlanta Does\nAfternoon Update\nTop Stories\nTODAY IN SANTA CRUZ COUNTY\nDetroit Does\nWhat Utah is buzzing about\nNew York City News Today\nBridgeDetroit\nSan Diego Thursday Evening Report\nMorning Headlines, Jan.",
+              "22, 2026\nYour Central Valley News Source\nImmigration News\nSTOCK MARKET TODAY\nFort Worth & Tarrant County headlines\nFARGO-MOORHEAD NEWS\nLatest Headlines\nDIPLOMACY\nLatest and Local – Casper, WY\nThe Morning Rundown | January 22, 2026\nNYC BLACK NEWS\nCHARLOTTE HEADLINES\nTrending Today\nROCHESTER MINNESOTA NEWS\nNorthwest Herald\nIn Case You Missed It\nTucson's watchdog news\nThursday Evening Update 1-22-2026\nLatest Boston news\nBaltimore news to know\nNEWS FOR YOU\nNews from Gainesville, FL\nMywebtimes\nLatest and Local – Gillette, WY\nBRAINERD MINNESOTA NEWS\nBerkeley news to know\nALEXANDRIA MINNESOTA NEWS\nDetroit: That's what's up\nGRAND FORKS ND NEWS\nLuxury Real Estate News\nDaily Rundown\nSAN FRANCISCO'S TOP STORIES\nDaily Briefing\nAfternoon rundown\nBridge Michigan\nThe Business Journal of the Boulder Valley and Northern Colorado\nTop News\nDallas-Fort Worth News - Jan.",
+              "22, 2026\nThursday Roundup - Evening Edition\nJAMESTOWN ND NEWS\nDaily Chronicle\nWhat to know in New Orleans\nCAPITOLHILLSEATTLE.COM\nToday's Top Headlines\nLatest news for Mountlake Terrace\nSTORIES FROM MINNESOTA\nAround Humboldt\nDaily News\nNews, art & life in Fayetteville, Arkansas\nToledo's Leader in News, Sports & Entertainment\nDICKINSON ND NEWS\nDULUTH MINNESOTA NEWS\nThe Afternoon Rundown | Jan."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
