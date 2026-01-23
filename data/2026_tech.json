@@ -92339,6 +92339,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:00": [
+        {
+          "item": {
+            "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+            "link": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0efd1c1ccf5f78abf057108651091beca266896f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+            "bullets": [
+              "OpenAI CEO Sam Altman is planning to visit India in mid-February, his first visit to the country in nearly a year, TechCrunch has learned.",
+              "The visit comes as New Delhi prepares to host a major AI summit expected to draw top executives from Meta, Google, and Anthropic.",
+              "India is hosting its first major AI event — the India AI Impact Summit 2026 — in New Delhi between February 16 and 20, bringing together global technology leaders including Nvidia CEO Jensen Huang, Google CEO Sundar Pichai, and Anthropic CEO Dario Amodei alongside key Indian business figures like Reliance Industries chairman Mukesh Ambani, per the summit’s website.",
+              "But TechCrunch has learned that OpenAI is separately planning to host closed-door meetings on the sidelines of the summit in New Delhi, where Altman is expected to be present.",
+              "The company is also hosting an OpenAI event in New Delhi on February 19, with venture capitalists and industry executives invited, one person familiar with the matter said.",
+              "Altman’s visit has not been publicly announced and plans could still change, the sources said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+            "link": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data",
+            "site_name": "The Verge",
+            "novelty_hash": "e0d1405cd2fb721db4c0679e562eb87ef8136349"
+          },
+          "review": {
+            "headline_rewrite": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+            "bullets": [
+              "Every week, more than 230 million people ask ChatGPT for health and wellness advice, according to OpenAI.",
+              "In exchange, it hopes you will trust its chatbot with details about your diagnoses, medications, test results, and other private medical information.",
+              "All you have is OpenAI’s word.",
+              "Health and wellness is swiftly emerging as a key battleground for AI labs and a major test for how willing users are to welcome these systems into their lives.",
+              "OpenAI released ChatGPT Health, a dedicated tab within ChatGPT designed for users to ask health-related questions in what it says is a more secure and personalized environment.",
+              "Anthropic introduced Claude for Healthcare, a “HIPAA-ready” product it says can be used by hospitals, health providers, and consumers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports",
+            "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "09a5b602a0f145763be2ed66c028d642b61ace3c"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports",
+            "bullets": [
+              "But, by default, BitLocker recovery keys are uploaded to Microsoft’s cloud, allowing the tech giant — and by extension law enforcement — to access them and use them to decrypt drives encrypted with BitLocker, as with the case reported by Forbes.",
+              "Local news outlet Pacific Daily News covered the case last year, reporting that a warrant had been served to Microsoft in relation to the suspects’ hard drives.",
+              "Apart from the privacy risks of handing recovery keys to a company, Johns Hopkins professor and cryptography expert Matthew Green raised the potential scenario where malicious hackers compromise Microsoft’s cloud infrastructure — something that has happened several times in recent years — and get access to these recovery keys."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI labs wage a reputational knife fight at Davos",
+            "link": "https://www.theverge.com/column/866573/ai-labs-wage-a-reputational-knife-fight-at-davos",
+            "site_name": "The Verge",
+            "novelty_hash": "9feb5e23821dd14cf666ffe73df85a8336d494dd"
+          },
+          "review": {
+            "headline_rewrite": "AI labs wage a reputational knife fight at Davos",
+            "bullets": [
+              "AI labs wage a reputational knife fight at Davos\nThe AI race is a turf war.",
+              "The leaders of the three preeminent frontier AI labs spent this week at the World Economic Forum in Davos, Switzerland, taking shots at each other like candidates in a presidential primary.",
+              "During an interview on Tuesday, I asked Google DeepMind CEO Demis Hassabis about OpenAI’s decision to test ads in ChatGPT.",
+              "“It’s interesting they’ve gone for that so early,” he said.",
+              "“We don’t need to monetize a billion free users because we’re in some death race with some other large player,” he said.",
+              "He also teased an upcoming essay focused on the “bad things” AI could bring — a dark counterpart to his optimistic “Machines of Loving Grace” essay from last year."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback",
+            "link": "https://arstechnica.com/space/2026/01/rocket-report-rocket-lab-reports-neutron-setback-australia-backs-launch-startup/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "7f2cf66c04f213ac3bf5d4478becb33c56e639a2"
+          },
+          "review": {
+            "headline_rewrite": "Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback",
+            "bullets": [
+              "NASA rolled the massive rocket for the Artemis II mission to its launch pad in Florida, while Chinese launchers suffered back-to-back failures within a span of approximately 12 hours.",
+              "Rocket Lab’s march toward a debut of its new Neutron launch vehicle in the coming months may have stalled after a failure during a key qualification test.",
+              "Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.",
+              "Australia invests in sovereign launch.",
+              "Six months after its first orbital rocket cleared the launch tower for just 14 seconds before crashing back to Earth, Gilmour Space Technologies has secured 217 million Australian dollars ($148 million) in funding that CEO Adam Gilmour says finally gives Australia a fighting chance in the global space race, the Sydney Morning Herald reports.",
+              "The funding round, led by the federal government’s National Reconstruction Fund Corporation and superannuation giant Hostplus with $75 million each, makes the Queensland company Australia’s newest unicorn—a fast-growth start-up valued at more than $1 billion—and one of the country’s most heavily backed private technology ventures."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Math on AI Agents Doesn’t Add Up",
+            "link": "https://www.wired.com/story/ai-agents-math-doesnt-add-up/",
+            "site_name": "WIRED",
+            "novelty_hash": "a3488a77d89f1e68644e158402e74f23237339e3"
+          },
+          "review": {
+            "headline_rewrite": "The Math on AI Agents Doesn’t Add Up",
+            "bullets": [
+              "The big AI companies promised us that 2025 would be “the year of the AI agents.” It turned out to be the year of talking about AI agents, and kicking the can for that transformational moment to 2026 or maybe later.",
+              "But what if the answer to the question “When will our lives be fully automated by generative AI robots that perform our tasks for us and basically run the world?” is, like that New Yorker cartoon, “How about never?”\nThat was basically the message of a paper published without much fanfare some months ago, smack in the middle of the overhyped year of “agentic AI.” Entitled “Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models,” it purports to mathematically show that “LLMs are incapable of carrying out computational and agentic tasks beyond a certain complexity.” Though the science is beyond me, the authors—a former SAP CTO who studied AI under one of the field’s founding intellects, John McCarthy, and his teenage prodigy son—punctured the vision of agentic paradise with the certainty of mathematics.",
+              "Even reasoning models that go beyond the pure word-prediction process of LLMs, they say, won’t fix the problem.",
+              "After a career that, in addition to SAP, included a stint as Infosys CEO and an Oracle board member, he currently heads an AI services startup called Vianai.",
+              "“So we should forget about AI agents running nuclear power plants?” I ask.",
+              "The AI industry begs to differ."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
