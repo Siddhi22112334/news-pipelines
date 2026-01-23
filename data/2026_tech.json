@@ -93524,6 +93524,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:52": [
+        {
+          "item": {
+            "title": "How did Davos turn into a tech conference?",
+            "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e46f09be38cf89a389ffad3c1a809948b8e1e4e8"
+          },
+          "review": {
+            "headline_rewrite": "How did Davos turn into a tech conference?",
+            "bullets": [
+              "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.",
+              "AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs weren’t holding back.",
+              "There was public criticism of trade policy, warnings about AI bubbles popping, and a lot of talk about what comes next for the industry.",
+              "Watch as TechCrunch’s Equity podcast discusses which conversations took over Davos this week, the latest startup raises that caught our eye, and more."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Core Ultra Series 3 launch may be hampered by chip shortages, says Intel",
+            "link": "https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ea16a61fc5bf13f629721b4db7fff903971e21e9"
+          },
+          "review": {
+            "headline_rewrite": "Core Ultra Series 3 launch may be hampered by chip shortages, says Intel",
+            "bullets": [
+              "Diving deeper into the numbers makes it clear exactly where money is being made and lost: Intel’s data center and AI products were up 9 percent for the quarter and 5 percent for the year, while its client computing group (which sells Core processors, Arc GPUs, and other consumer products) was down 7 percent for the quarter and 3 percent for the year.",
+              "In short, Intel is having trouble making (and buying) enough chips to meet demand, and it makes more sense to allocate the chips it can make to the divisions that are actually making money—which means that we could see shortages of or higher prices for consumer processors, just as Intel is gearing up to launch the promising Core Ultra Series 3 processors (codenamed Panther Lake).",
+              "Intel CFO David Zinsner indicated that Intel is “prioritizing [its] internal wafer supply to data center” and having more of its consumer chips made externally.",
+              "Substantial portions of the Core Ultra Series 3 processors are manufactured at Intel, after the company primarily used TSMC’s chip factories for the Core Ultra Series 2 designs.",
+              "“We can’t completely vacate the client market,” said Zinsner, but Intel is “shifting as much as we can over to data center to meet the high demand.”\nCompounding this is that yields for the new 18A process—that is, the number of chips in a wafer with no defects that can work as designed—are still improving.",
+              "Intel CEO Lip-Bu Tan said that “while yields are in line with our internal plans, they are still below what I want them to be.”"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+            "link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "37edb738b840218917071e70e79754481a239c4d"
+          },
+          "review": {
+            "headline_rewrite": "Researchers say Russian government hackers were behind attempted Poland power outage",
+            "bullets": [
+              "A failed December effort to bring down parts of Poland’s energy grid was the work of Russian government hackers known for causing past energy disruptions, according to a security research firm that investigated the incident.",
+              "On Friday, cybersecurity firm ESET said it obtained a copy of the destructive malware, which it calls DynoWiper.",
+              "ESET attributed the malware with “medium confidence” to the hacking group known as Sandworm, a unit within Russia’s military intelligence agency GRU, based on a “strong overlap” with its previous research into Sandworm’s past malware, including the group’s use of destructive malware to target Ukraine’s energy sector.",
+              "As noted by Zetter, the cyberattacks targeting Poland come almost exactly a decade after Sandworm’s first-known cyberattack on Ukraine’s energy infrastructure in 2015, which caused power outages for more than 230,000 homes around Kyiv, the country’s capital.",
+              "A similar cyberattack hit Ukraine’s energy systems a year later.",
+              "Following the attempted hack, Poland’s prime minister, Donald Tusk, said that the country’s cybersecurity defenses worked, and “at no point was critical infrastructure threatened.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
+            "link": "https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "f7571594b12a7bd5b00125f9b5436698921e7cfa"
+          },
+          "review": {
+            "headline_rewrite": "DHS keeps trying and failing to unmask anonymous ICE critics online",
+            "bullets": [
+              "The Department of Homeland Security (DHS) has backed down from a fight to unmask the owners of Instagram and Facebook accounts monitoring Immigration and Customs Enforcement (ICE) activity in Pennsylvania.",
+              "One of the anonymous account holders, John Doe, sued to block ICE from identifying him and other critics online through summonses to Meta that he claimed infringed on core First Amendment-protected activity.",
+              "DHS’s arguments echoed DHS Secretary Kristi Noem, who has claimed that identifying ICE agents is a crime, even though Wired noted that ICE employees often post easily discoverable LinkedIn profiles.",
+              "A court filing confirmed that DHS dropped its requests for subscriber information last week, after initially demanding Doe’s “postal code, country, all email address(es) on file, date of account creation, registered telephone numbers, IP address at account signup, and logs showing IP address and date stamps for account accesses.”\nThe filing does not explain why DHS decided to withdraw its requests.",
+              "DHS withdrew those requests, too, after account holders defended their First Amendment rights and filed motions to quash their summonses, Doe’s court filing said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is stopping teens from chatting with its AI characters",
+            "link": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+            "site_name": "The Verge",
+            "novelty_hash": "ede17ec5fa59904b06597fba4e8ddca401d0f3ea"
+          },
+          "review": {
+            "headline_rewrite": "Meta is stopping teens from chatting with its AI characters",
+            "bullets": [
+              "Meta is “temporarily pausing” the ability for teens to chat with its AI characters as it develops a “new version” of the characters that will offer a “better experience.” The company made the announcement in an update to a blog post from October where the company had detailed more parental controls for teen AI use.",
+              "The change blocking teens from accessing the characters will go into effect “starting in the coming weeks.”\nMeta is stopping teens from chatting with its AI characters\nThe company is developing a ‘new version’ of the characters that will offer a ‘better experience.’\n”Since we announced our plans to build parental controls for AI characters in October, we started developing a new iteration of AI characters generally (i.e.",
+              "“Rather than building the parental controls twice (for the current AI characters and the new iteration of AI characters) we’re pausing teen access to the current version while we focus on the new iteration.",
+              "When that new iteration is available for teens, it will come with parental controls.”\nAccording to TechCrunch, “Meta said that it heard from parents that they wanted more insights and control over their teens’ interactions with AI characters, which is why it decided to make these changes.”\nIn October, Meta announced that parents would be able to block their teens’ access to one-on-one conversations with its AI characters, block their teens from talking with specific AI characters, and share insights with parents on the topics their teens discuss with Meta’s AI characters and its AI assistant.",
+              "However, in Friday’s announcement, Meta says it is still working on how to share insights with parents about the conversations their teens are having with Meta’s AI assistant.",
+              "Correction, January 23rd: Clarified that Meta is still working on how to share insights with parents about the conversations their teens are having with Meta’s AI assistant."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear",
+            "link": "https://www.wired.com/story/how-to-prep-for-a-winter-storm/",
+            "site_name": "WIRED",
+            "novelty_hash": "a158f81b593554a9b80a3bdb73c9d480088c216b"
+          },
+          "review": {
+            "headline_rewrite": "How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear",
+            "bullets": [
+              "But a storm is coming, An extreme winter weather system is expected to move eastward from New Mexico to Georgia and Maine beginning Friday, and affect anywhere from a third to half the country’s population by the end of the weekend.",
+              "I consulted National Weather Service preparedness lead Charlie Woodrum and our team of product testers for advice on how to prepare for extreme winter weather.",
+              "“You have to think in that mindset of, ‘We could have power out,’” Woodrum said.",
+              "“We could lose it for a couple days, or up to even a week, and we also could lose water if pipes freeze or water mains break.",
+              "I like the flexibility of filtered water bottles like the Clearly Filtered stainless steel bottle, which can filter any liquid as you suck through it.",
+              "Woodrum cautioned against trusting that snow is a source of clean water, even if you've gathered it directly from the sky."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
