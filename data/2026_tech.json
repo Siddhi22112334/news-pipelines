@@ -90200,6 +90200,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "06:59": [
+        {
+          "item": {
+            "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+            "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7488fc776818d373f4d9cc73a069d98fd35b8aca"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is coming for those sweet enterprise dollars in 2026",
+            "bullets": [
+              "OpenAI has reorganized some of its leadership and picked a familiar face to lead its push into selling AI to business customers as the company looks to catch up to its rivals in 2026.",
+              "The company appointed Barret Zoph to lead its efforts to sell its AI to enterprises, according to reporting from The Information, citing an internal OpenAI memo.",
+              "TechCrunch reached out to OpenAI for confirmation and more information.",
+              "Zoph returned to OpenAI last week after leaving Thinking Machine Labs, former OpenAI co-founder Mira Murati’s AI startup where Zoph had served as a co-founder and chief technology officer since October 2024.",
+              "The exact circumstances of his departure aren’t clear, with rumors swirling about whether Zoph and a few other former OpenAI employees were fired or left on their own accord, possibly with plans to return to OpenAI all along.",
+              "Zoph was previously the vice president of post-training inference at OpenAI from September 2022 to October 2024."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Vimeo starts layoffs after acquisition by Bending Spoons",
+            "link": "https://techcrunch.com/2026/01/22/vimeo-starts-layoffs-after-acquisition-by-bending-spoons/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2f88f6ebd733cb5c138e307581b294a3e5cc108b"
+          },
+          "review": {
+            "headline_rewrite": "Vimeo starts layoffs after acquisition by Bending Spoons",
+            "bullets": [
+              "The move comes shortly after the company’s acquisition by the Italian tech conglomerate Bending Spoons, which purchased it in an all-cash deal last year for $1.38 billion.",
+              "In recent years, the company has leaned heavily into AI.",
+              "In 2023, it announced plans to launch AI-powered script-writing and video-editing tools.",
+              "This past October, the company added a suite of additional AI-powered creator tools designed to connect filmmakers’ “content directly to AI workflows.”\nIn recent years, Bending Spoons has acquired a number of other well-known tech platforms, including Meetup, Evernote, and WeTransfer."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The TikTok deal is done, finally",
+            "link": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
+            "site_name": "The Verge",
+            "novelty_hash": "cf409bbc04a40e75e691ee147bea8392e8df485c"
+          },
+          "review": {
+            "headline_rewrite": "The TikTok deal is done, finally",
+            "bullets": [
+              "With approval from both the US and China closing on the schedule laid out in December, ByteDance’s ownership of the new joint venture is now only 19.9 percent to satisfy the terms of the divest-or-ban law signed in 2024 by President Biden.",
+              "A press release announcing the deal’s closure didn’t say how much those stakes cost or give details about potentially launching a new app in the US.",
+              "It did say that the joint venture’s oversight of “comprehensive data protections, algorithm security, content moderation, and software assurances for U.S.",
+              "entities will manage global product interoperability and certain commercial activities, including e-commerce, advertising, and marketing.",
+              "user data, apps and the algorithm through comprehensive data privacy and cybersecurity measures.",
+              "cloud environment."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Ring can verify videos now, but that might not help you with most AI fakes",
+            "link": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
+            "site_name": "The Verge",
+            "novelty_hash": "7b54313d1118410f8eccdaf1d012bea75e913f73"
+          },
+          "review": {
+            "headline_rewrite": "Ring can verify videos now, but that might not help you with most AI fakes",
+            "bullets": [
+              "Ring has launched a new Ring Verify tool that the company says can “verify that Ring videos you receive haven’t been edited or changed.” But since Ring won’t verify videos that have been altered in any way, it probably won’t be able to verify those videos you see on TikTok that look like they’re from security camera footage but are actually made with AI.",
+              "Ring can verify videos now, but that might not help you with most AI fakes\nThe company’s new tool will only tell you if a video hasn’t been altered in any way, and if a video fails the test, Ring can’t tell you how it was edited.",
+              "All videos downloaded from Ring’s cloud now include a “digital security seal,” Ring says.",
+              "When Ring Verify says a video is “verified,” that means “the video hasn’t been changed in any way since it was downloaded from Ring.” (Ring Verify is built on C2PA standards, according to spokesperson Kaleigh Bueckert-Orme.)\nAny change to the video, including something small like tweaking the brightness, will make a video fail the test.",
+              "Ring cannot verify videos that “were downloaded before this feature launched in December 2025, or videos that have been edited, cropped, filtered, or altered in any way after download (even trimming a second, adjusting brightness, or cropping)” or “videos uploaded to video sharing sites which compress the video.” Videos recorded with end-to-end encryption turned on can’t be verified, either."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Sorry MAGA, Turns Out People Still Like ‘Woke’ Art",
+            "link": "https://www.wired.com/story/sorry-maga-turns-out-people-still-like-woke-art/",
+            "site_name": "WIRED",
+            "novelty_hash": "708879c7a751bd7294fa51f8c3991eb6b6281b13"
+          },
+          "review": {
+            "headline_rewrite": "Sorry MAGA, Turns Out People Still Like ‘Woke’ Art",
+            "bullets": [
+              "KPop Demon Hunters, a story by a female Korean-Canadian director who’d been waiting over a decade for her chance to direct a feature, placed a huge emphasis on authenticity and brought the already-massive subculture around K-pop even more into the mainstream.",
+              "Heated Rivalry, a small Canadian television production picked up by HBO, had an extremely subversive take on hockey by chronicling the horny-yet-poignant love story between two closeted pro players.",
+              "Skydance, founded by David Ellison, son of billionaire Trump supporter Larry Ellison, acquired Paramount, which briefly removed Jimmy Kimmel from the air due to his joke about Charlie Kirk supporters and gave CBS News a seemingly conservative makeover.",
+              "this administration that the only stories that matter are stories of straight white men, and that is just simply not the case,” says Jenni Werner, executive artistic director of the New Harmony Project, which develops theater, film, and TV projects and says it is committed to anti-oppressive and anti-racist values.",
+              "You want to be able to sit down and watch something, whether it's in your home or in a theater, that takes you into a new place and maybe gives you a new understanding of something.” She adds that she has faith that artists will keep making “boundary-pushing work,” even if it keeps getting harder.",
+              "“If a show features some kind of underrepresented story, such as a women-centered story, the median total interactions for these shows were talked about on social media more than five times than shows without,” said Michael Tran, sociologist and coauthor of the diversity report, in a press release about the research."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Sennheiser introduces new TV headphones bundle with Auracast",
+            "link": "https://www.engadget.com/audio/headphones/sennheiser-introduces-new-tv-headphones-bundle-with-auracast-233735294.html",
+            "site_name": "Engadget",
+            "novelty_hash": "8f85e01dd96bc04a94c1340db3178155c6c5d0f7"
+          },
+          "review": {
+            "headline_rewrite": "Sennheiser introduces new TV headphones bundle with Auracast",
+            "bullets": [
+              "For those unfamiliar, Auracast is broadcast Bluetooth audio; we have an explainer about it after CES 2024 put this audio tech onto the big stage.",
+              "The digital receiver introduces an Auracast signal in a physical space for any other compatible devices, which might include hearing aids or loudspeakers as well as other headphone sets.",
+              "The RS 275 TV Headphone bundle will retail for $300, while a standalone BTA1 receiver will cost $130."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
