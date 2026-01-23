@@ -92699,6 +92699,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:20": [
+        {
+          "item": {
+            "title": "Google Photos’ latest feature lets you meme yourself",
+            "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "098ce86502f960535aa1118732a7b9ebde75b1e5"
+          },
+          "review": {
+            "headline_rewrite": "Google Photos’ latest feature lets you meme yourself",
+            "bullets": [
+              "On Thursday, Google introduced a new generative AI-powered feature called “Me Meme,” which will allow you to combine a photo template and an image of yourself to generate an image of the meme.",
+              "The new addition, which will be first available to U.S.-based users, was originally spotted in development last October by the blog Android Authority.",
+              "The addition is meant to just be a fun way to explore your photos and experiment with Google’s Gemini AI technology, and specifically Nano Banana.",
+              "Google’s popular AI image model powers other AI features in the Google Photos app, like the ability to re-create images in new styles, such as cartoons or paintings.",
+              "Though a fairly unserious addition, all things considered, these types of features help remind users to return to the Photos app whenever they want to play around with AI tools, rather than going to a competitor’s product.",
+              "Plus, users tend to gravitate toward features that show themselves in AI edits, as OpenAI found with its successful launch of the Sora app, which lets you make AI videos that can include yourself and your friends."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+            "link": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data",
+            "site_name": "The Verge",
+            "novelty_hash": "e0d1405cd2fb721db4c0679e562eb87ef8136349"
+          },
+          "review": {
+            "headline_rewrite": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+            "bullets": [
+              "Every week, more than 230 million people ask ChatGPT for health and wellness advice, according to OpenAI.",
+              "In exchange, it hopes you will trust its chatbot with details about your diagnoses, medications, test results, and other private medical information.",
+              "All you have is OpenAI’s word.",
+              "Health and wellness is swiftly emerging as a key battleground for AI labs and a major test for how willing users are to welcome these systems into their lives.",
+              "OpenAI released ChatGPT Health, a dedicated tab within ChatGPT designed for users to ask health-related questions in what it says is a more secure and personalized environment.",
+              "Anthropic introduced Claude for Healthcare, a “HIPAA-ready” product it says can be used by hospitals, health providers, and consumers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta pauses teen access to AI characters as it develops a specially tailored version",
+            "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "09451917779cb47b779e57d8bbb28fe4bdaa935f"
+          },
+          "review": {
+            "headline_rewrite": "Meta pauses teen access to AI characters as it develops a specially tailored version",
+            "bullets": [
+              "Meta today said that it is pausing teens’ access to its AI characters globally across all its apps.",
+              "The company mentioned that it is not abandoning its efforts, but wants to develop a special version of an AI character for teens, the company exclusively told TechCrunch.",
+              "The move comes days before a case against Meta is set to go on trial in New Mexico, in which the company is accused of a lack of effort in protecting kids from sexual exploitation on its apps.",
+              "Wired reported Thursday that Meta has sought to limit discovery related to social media’s impact on teen mental health, along with stories\nIn October, Meta rolled out new parental control features, focusing on tailoring the teen experience of interacting with AI on its apps.",
+              "These new features, which were inspired by the PG-13 movie rating, restricted teen access to certain topics like extreme violence, nudity, and graphic drug use.",
+              "Days later, the company also previewed controls for AI characters, allowing parents and guardians to monitor topics and block access to certain characters."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Hang on, there’s a Trump Phone Ultra coming too?",
+            "link": "https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview",
+            "site_name": "The Verge",
+            "novelty_hash": "c0dde810a119e49c8446b2e02b51504dac4e977f"
+          },
+          "review": {
+            "headline_rewrite": "Hang on, there’s a Trump Phone Ultra coming too?",
+            "bullets": [
+              "As usual, we’re still waiting for a response.",
+              "We’re still waiting for the first Trump Phone, but one of Trump Mobile’s execs claims a higher spec version is on the way.",
+              "The unexpected comments were made by Don Hendrickson, one of the three executives Trump Mobile brought out on stage at the service’s launch, described then as its head of mobile operations.",
+              "“Our next major step is the launch of the T1 Ultra.”\n“We’re focused on evolving with our customers by offering even more powerful tools that fit their lives,” Hendrickson said.",
+              "“Our next major step is the launch of the T1 Ultra — a premium device that builds on the success of the original T1 with enhanced performance, upgraded features, and the same bold, American-proud design.”\n“The T1 Ultra will offer a top-tier user experience while staying true to our mission of combining value, functionality, and patriotic branding.",
+              "As we expand, expect to see more integrated services, exclusive perks, and new product tiers — always centered around the same promise: delivering more than just wireless and doing it the Trump℠ Mobile way,” he added."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Math on AI Agents Doesn’t Add Up",
+            "link": "https://www.wired.com/story/ai-agents-math-doesnt-add-up/",
+            "site_name": "WIRED",
+            "novelty_hash": "a3488a77d89f1e68644e158402e74f23237339e3"
+          },
+          "review": {
+            "headline_rewrite": "The Math on AI Agents Doesn’t Add Up",
+            "bullets": [
+              "The big AI companies promised us that 2025 would be “the year of the AI agents.” It turned out to be the year of talking about AI agents, and kicking the can for that transformational moment to 2026 or maybe later.",
+              "But what if the answer to the question “When will our lives be fully automated by generative AI robots that perform our tasks for us and basically run the world?” is, like that New Yorker cartoon, “How about never?”\nThat was basically the message of a paper published without much fanfare some months ago, smack in the middle of the overhyped year of “agentic AI.” Entitled “Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models,” it purports to mathematically show that “LLMs are incapable of carrying out computational and agentic tasks beyond a certain complexity.” Though the science is beyond me, the authors—a former SAP CTO who studied AI under one of the field’s founding intellects, John McCarthy, and his teenage prodigy son—punctured the vision of agentic paradise with the certainty of mathematics.",
+              "Even reasoning models that go beyond the pure word-prediction process of LLMs, they say, won’t fix the problem.",
+              "After a career that, in addition to SAP, included a stint as Infosys CEO and an Oracle board member, he currently heads an AI services startup called Vianai.",
+              "“So we should forget about AI agents running nuclear power plants?” I ask.",
+              "The AI industry begs to differ."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars",
+            "link": "https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/",
+            "site_name": "WIRED",
+            "novelty_hash": "9a6b7be3d0f0cd976a006e3becabbb38b0eb5c90"
+          },
+          "review": {
+            "headline_rewrite": "CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars",
+            "bullets": [
+              "United States Customs and Border Protection is paying General Dynamics to create a prototype of “quantum sensors” alongside a “database with artificial intelligence” designed “to detect illicit objects and substances (such as fentanyl) in vehicles, containers, and other devices,” according to a contract justification published in a federal register last week.",
+              "“This database and sensor project will integrate advanced quantum and classical sensing technologies with Artificial Intelligence and ultimately deploy proven concepts and end products anywhere in the CBP environment,” the justification document reads.",
+              "“Under this requirement, CBP will take additional steps to enhance its ability to detect, and thus, significantly reduce the harms of illicit contraband entering the United States of America, thus bolstering national security.”\nThe document redacts the name of the company developing the prototype; however, contract details included in the federal register entry reveal that the justification is for a $2.4 million General Dynamics contract that has been public since December 2025.",
+              "CBP’s request for a prototype of “quantum sensors” with an AI database—which comes amid a widespread push within the Department of Homeland Security (DHS) “to support the adoption and scaling of AI technologies,” according to a strategy memorandum published last year—involves a real and growing area of scientific and technological research.",
+              "Last week’s justification does not get into detail about which methods its “quantum sensors” would use or what information the AI database would store and analyze.",
+              "The document claims that CBP conducted market research from April through October of 2025."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
