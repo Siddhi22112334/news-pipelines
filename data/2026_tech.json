@@ -93291,6 +93291,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:55": [
+        {
+          "item": {
+            "title": "How did Davos turn into a tech conference?",
+            "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e46f09be38cf89a389ffad3c1a809948b8e1e4e8"
+          },
+          "review": {
+            "headline_rewrite": "How did Davos turn into a tech conference?",
+            "bullets": [
+              "The World Economic Forum’s annual meeting in Davos felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.",
+              "AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs weren’t holding back.",
+              "There was public criticism of trade policy, warnings about AI bubbles popping, and a lot of talk about what comes next for the industry.",
+              "Watch as TechCrunch’s Equity podcast discusses which conversations took over Davos this week, the latest startup raises that caught our eye, and more."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Researchers say Russian government hackers were behind attempted Poland power outage",
+            "link": "https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6f8d8f4796b3e815e622c5d32ecd1ace86aa7a73"
+          },
+          "review": {
+            "headline_rewrite": "Researchers say Russian government hackers were behind attempted Poland power outage",
+            "bullets": [
+              "A failed December effort to bring down parts of Poland’s energy grid was the work of Russian government hackers known for causing past energy disruptions, according to a security research firm that investigated the incident.",
+              "On Friday, cybersecurity firm ESET said it obtained a copy of the destructive malware, which it calls DynoWiper.",
+              "ESET attributed the malware with “medium confidence” to the hacking group known as Sandworm, a unit within Russia’s military intelligence agency GRU, based on a “strong overlap” with its previous research into Sandworm’s past malware, including the group’s use of destructive malware to target Ukraine’s energy sector.",
+              "As noted by Zetter, the cyberattacks targeting Poland come almost exactly a decade after Sandworm’s first-known cyberattack on Ukraine’s energy infrastructure in 2015, which caused power outages for more than 230,000 homes around the country’s capital, Kyiv.",
+              "A similar cyberattack hit Ukraine’s energy systems a year later.",
+              "Following the attempted hack, Poland’s prime minister, Donald Tusk, said that the country’s cybersecurity defenses worked, and “at no point was critical infrastructure threatened.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What TikTok’s new owners mean for your feed",
+            "link": "https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained",
+            "site_name": "The Verge",
+            "novelty_hash": "d2e3543d16e0e4330dc83cab388cd328f3373c9f"
+          },
+          "review": {
+            "headline_rewrite": "What TikTok’s new owners mean for your feed",
+            "bullets": [
+              "The Silver Lake investment firm, Abu Dhabi’s MGX, and the cloud giant Oracle will each have 15 percent stakes in the new TikTok US Data Security (USDS) Joint Venture LLC.",
+              "The new terms have some people worried, but some of the sections raising concerns aren’t actually new.",
+              "Adam Presser, TikTok’s former global head of operations and trust and safety, will serve as the CEO of the US-based company, while Will Farrell, who previously worked as the head of security and privacy for TikTok’s US arm, will become the joint venture’s chief security officer.",
+              "Shou Zi Chew will remain the CEO of TikTok’s global operations under ByteDance, and will get a seat on the US-based joint venture’s board of directors, joined by six other Americans:\n- Egon Durban, Silver Lake’s co-CEO\n- Kenneth Glueck, Oracle’s executive vice president in the office of the CEO\n- David Scott, the chief strategy and safety officer at MGX\n- Mark Dooley, the managing director at investment firm Susquehanna\n- Raul Fernandez, president and CEO of enterprise IT company DXC Technology\n- Timothy Dattels, senior advisor to private equity firm TPG Global\nHow does TikTok US interface with TikTok Global now?",
+              "You don’t need to download a new app in order to gain access to the US version of the app; it should update automatically.",
+              "The joint venture says the app will maintain “interoperability” with the TikTok used by the rest of the world, while providing users with a “global TikTok experience.” The same goes for US-based creators, as the site adds that TikTok US will ensure users can discover them “on a global scale.”\nTikTok’s US arm will, however, use a new version of the platform’s algorithm that the joint venture will “retrain, test, and update” using US user data — a move meant to assuage fears that the Chinese government could push propaganda through it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is stopping teens from chatting with its AI characters",
+            "link": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
+            "site_name": "The Verge",
+            "novelty_hash": "9e0cd44659f8cf8eac1c46badc0b43883d5e7483"
+          },
+          "review": {
+            "headline_rewrite": "Meta is stopping teens from chatting with its AI characters",
+            "bullets": [
+              "Meta is “temporarily pausing” the ability for teens to chat with its AI characters as it develops a “new version” of the characters that will offer a “better experience.” The company made the announcement in an update to a blog post from October where the company had detailed more parental controls for teen AI use.",
+              "The change blocking teens from accessing the characters will go into effect “starting in the coming weeks.”\nMeta is stopping teens from chatting with its AI characters\nThe company is developing a ‘new version’ of the characters that will offer a ‘better experience.’\n”Since we announced our plans to build parental controls for AI characters in October, we started developing a new iteration of AI characters generally (i.e.",
+              "“Rather than building the parental controls twice (for the current AI characters and the new iteration of AI characters) we’re pausing teen access to the current version while we focus on the new iteration.",
+              "When that new iteration is available for teens, it will come with parental controls.”\nAccording to TechCrunch, “Meta said that it heard from parents that they wanted more insights and control over their teens’ interactions with AI characters, which is why it decided to make these changes.”\nIn October, Meta announced that parents would be able to block their teens’ access to one-on-one conversations with its AI characters, block their teens from talking with specific AI characters, and share insights with parents on the topics their teens discuss with Meta’s AI characters and its AI assistant."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",
+            "link": "https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "17b3a4eac94b52f1895b30548f81b097a24405cb"
+          },
+          "review": {
+            "headline_rewrite": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",
+            "bullets": [
+              "Secretary of Homeland Security Kristi Noem posted what seems to be the original photo of Armstrong being led away by an officer yesterday morning.",
+              "“The White House shared an AI-edited photo of Nekima, depicting her in tears and scared when, in actuality, she was poised, determined, and unafraid,” NAACP President and CEO Derrick Johnson said yesterday.",
+              "Reader-added context on X said, “This photo has been digitally altered to make Nekima Levy Armstrong appear to be in distress.",
+              "“There was no one crying”\nJordan Kushner, an attorney for Levy Armstrong, said, “It is just so outrageous that the White House would make up stories about someone to try and discredit them.",
+              "So this is just outrageous defamation.”\nSpeaking to The Associated Press, Kushner also said that the “video Levy Armstrong’s husband shot ‘dismantles what they claim’ and that the video would be released soon.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
+            "link": "https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "f9f5d314c4cf5c76e332d89eec49b7043515aa93"
+          },
+          "review": {
+            "headline_rewrite": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
+            "bullets": [
+              "Owners cannot disable tracking or cover up the secondary screen (or they have to pay for the TV, which Telly claims is worth $1,000), and they must fill out a lengthy, detailed survey to get one.",
+              "When it debuted its TV, Telly said it expected to ship 500,000 devices that summer.",
+              "In June 2023, the startup said 250,000 people signed up to get a Telly.",
+              "In a 2024 press release, Telly said that it planned to ship “millions more in 2024.”\nBut a report from Lowpass this week, citing a “Q3 update sent to investors in November 2025,” said the startup had 35,000 TVs in people’s homes at that time.",
+              "In Q2 2025, there were 28,000 Telly TVs in use, the note said, according to Lowpass.",
+              "Per the investor note that Lowpass reviewed, Telly claimed that FedEx delivered 10 percent of its shipments of Telly TVs broken."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
