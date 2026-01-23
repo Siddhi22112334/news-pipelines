@@ -92458,6 +92458,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:30": [
+        {
+          "item": {
+            "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+            "link": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0efd1c1ccf5f78abf057108651091beca266896f"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
+            "bullets": [
+              "OpenAI CEO Sam Altman is planning to visit India in mid-February, his first visit to the country in nearly a year, TechCrunch has learned.",
+              "The visit comes as New Delhi prepares to host a major AI summit expected to draw top executives from Meta, Google, and Anthropic.",
+              "India is hosting its first major AI event — the India AI Impact Summit 2026 — in New Delhi between February 16 and 20, bringing together global technology leaders including Nvidia CEO Jensen Huang, Google CEO Sundar Pichai, and Anthropic CEO Dario Amodei alongside key Indian business figures like Reliance Industries chairman Mukesh Ambani, per the summit’s website.",
+              "But TechCrunch has learned that OpenAI is separately planning to host closed-door meetings on the sidelines of the summit in New Delhi, where Altman is expected to be present.",
+              "The company is also hosting an OpenAI event in New Delhi on February 19, with venture capitalists and industry executives invited, one person familiar with the matter said.",
+              "Altman’s visit has not been publicly announced and plans could still change, the sources said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+            "link": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data",
+            "site_name": "The Verge",
+            "novelty_hash": "e0d1405cd2fb721db4c0679e562eb87ef8136349"
+          },
+          "review": {
+            "headline_rewrite": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
+            "bullets": [
+              "Every week, more than 230 million people ask ChatGPT for health and wellness advice, according to OpenAI.",
+              "In exchange, it hopes you will trust its chatbot with details about your diagnoses, medications, test results, and other private medical information.",
+              "All you have is OpenAI’s word.",
+              "Health and wellness is swiftly emerging as a key battleground for AI labs and a major test for how willing users are to welcome these systems into their lives.",
+              "OpenAI released ChatGPT Health, a dedicated tab within ChatGPT designed for users to ask health-related questions in what it says is a more secure and personalized environment.",
+              "Anthropic introduced Claude for Healthcare, a “HIPAA-ready” product it says can be used by hospitals, health providers, and consumers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports",
+            "link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "09a5b602a0f145763be2ed66c028d642b61ace3c"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects’ laptops: reports",
+            "bullets": [
+              "But, by default, BitLocker recovery keys are uploaded to Microsoft’s cloud, allowing the tech giant — and by extension law enforcement — to access them and use them to decrypt drives encrypted with BitLocker, as with the case reported by Forbes.",
+              "Local news outlet Pacific Daily News covered the case last year, reporting that a warrant had been served to Microsoft in relation to the suspects’ hard drives.",
+              "Apart from the privacy risks of handing recovery keys to a company, Johns Hopkins professor and cryptography expert Matthew Green raised the potential scenario where malicious hackers compromise Microsoft’s cloud infrastructure — something that has happened several times in recent years — and get access to these recovery keys."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Marshall’s new hub connects to multiple Bluetooth speakers without pairing",
+            "link": "https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers",
+            "site_name": "The Verge",
+            "novelty_hash": "403bdc47246be058cc03871ac29735a9ff61643f"
+          },
+          "review": {
+            "headline_rewrite": "Marshall’s new hub connects to multiple Bluetooth speakers without pairing",
+            "bullets": [
+              "Similar to Sennheiser’s BTA1 TV Transmitter announced earlier this week, the Heddon doesn’t require wireless audio devices to go through a pairing process to stream audio, as long as they also support Bluetooth Auracast.",
+              "Marshall’s new hub connects to multiple Bluetooth speakers without pairing\nThe Heddon simplifies wireless multi-device connectivity using Bluetooth Auracast.",
+              "Other platforms like Apple Music can be used, but they need to be streamed through other devices like your phone that connect to the hub using AirPlay or Google Cast.",
+              "Assuming it’s using a standard Bluetooth connection and not a proprietary implementation, any wireless speaker, headphones, earbuds, or even hearing aids that support Auracast should be able to access its broadcasts.",
+              "While the hub has two stereo pairs of RCA ports on the back, only one is for connecting to a speaker.",
+              "The Marshall Heddon is available now for $299.99, which is more than twice as expensive as Sennheiser’s $129.95 BTA1 transmitter."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Math on AI Agents Doesn’t Add Up",
+            "link": "https://www.wired.com/story/ai-agents-math-doesnt-add-up/",
+            "site_name": "WIRED",
+            "novelty_hash": "a3488a77d89f1e68644e158402e74f23237339e3"
+          },
+          "review": {
+            "headline_rewrite": "The Math on AI Agents Doesn’t Add Up",
+            "bullets": [
+              "The big AI companies promised us that 2025 would be “the year of the AI agents.” It turned out to be the year of talking about AI agents, and kicking the can for that transformational moment to 2026 or maybe later.",
+              "But what if the answer to the question “When will our lives be fully automated by generative AI robots that perform our tasks for us and basically run the world?” is, like that New Yorker cartoon, “How about never?”\nThat was basically the message of a paper published without much fanfare some months ago, smack in the middle of the overhyped year of “agentic AI.” Entitled “Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models,” it purports to mathematically show that “LLMs are incapable of carrying out computational and agentic tasks beyond a certain complexity.” Though the science is beyond me, the authors—a former SAP CTO who studied AI under one of the field’s founding intellects, John McCarthy, and his teenage prodigy son—punctured the vision of agentic paradise with the certainty of mathematics.",
+              "Even reasoning models that go beyond the pure word-prediction process of LLMs, they say, won’t fix the problem.",
+              "After a career that, in addition to SAP, included a stint as Infosys CEO and an Oracle board member, he currently heads an AI services startup called Vianai.",
+              "“So we should forget about AI agents running nuclear power plants?” I ask.",
+              "The AI industry begs to differ."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Age Verification Is Reaching a Global Tipping Point. Is TikTok’s Strategy a Good Compromise?",
+            "link": "https://www.wired.com/story/age-verification-is-reaching-a-global-tipping-point-is-tiktoks-strategy-a-good-compromise/",
+            "site_name": "WIRED",
+            "novelty_hash": "650aa1623d38a97eafe9a30444d48e4990fb8c56"
+          },
+          "review": {
+            "headline_rewrite": "Age Verification Is Reaching a Global Tipping Point. Is TikTok’s Strategy a Good Compromise?",
+            "bullets": [
+              "“We are in the middle of an experiment where American and Chinese tech giants have unlimited access to the attention of our children and young people for hours every single day almost entirely without oversight,” Christel Schaldemose, a Danish lawmaker and vice president of the European Parliament, said in November during parliamentary session that, according to Reuters, “called for an EU-wide ban on access for children under 16 to online platforms, video-sharing sites, and AI companions without parental consent and an outright ban for those younger than 13.”\nAdvocacy groups in Canada are similarly calling for the creation of a dedicated regulatory body to address online harms affecting young people following the flood of sexualized deepfakes on X by its AI chatbot Grok.",
+              "Because platform governance is often tied to political motives, and policy solutions sometimes expose children to more harm than help, Goldman refers to age verification mandates as “segregate-and-suppress laws.”\nThough TikTok’s UK pilot led to the removal of thousands of accounts belonging to children under 13, the company also acknowledged that no globally accepted method exists to verify age without undermining user privacy.",
+              "Alice Marwick, director of research at the tech policy nonprofit Data & Society, says TikTok’s age-detection tech does seem marginally better than automatic bans, but it still requires the platform to surveil users ever more closely.",
+              "“Any systems that try to infer age from either behavior or content are based on probabilistic guesses, not certainty, which inevitably proceed with errors and bias that are more likely to impact groups that TikTok’s moderators do not have cultural familiarity with.”\nThe hypocrisy of the process is not lost on Goldman.",
+              "Last October, in testimony before the New Zealand Parliament’s education and workforce committee, he noted that if the goal of age verification is to keep children safer, “it is cruelly ironic to force children to regularly disclose highly sensitive private information and increase their exposure to potentially life-changing data-security violations.”\nThe European Union often functions as a test bed that nudges platforms toward global defaults, and other countries are already taking note.",
+              "“We’re not suggesting that regulation is a silver bullet that's going to solve all those problems, but it would certainly be a helpful place to start with all of these issues we’re dealing with."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
