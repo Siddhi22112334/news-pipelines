@@ -97896,6 +97896,123 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:52": [
+        {
+          "item": {
+            "title": "Tech CEOs boast and bicker about AI at Davos",
+            "link": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5271c8a7e347cef7ad805976de037952505445f9"
+          },
+          "review": {
+            "headline_rewrite": "Tech CEOs boast and bicker about AI at Davos",
+            "bullets": [
+              "The big topic, unsurprisingly, was AI, with CEOs laying a vision for the technology’s transformative potential while also acknowledging ongoing concerns that they’re inflating a massive bubble.",
+              "Kirsten noted that the conference seemed transformed from past years, with tech companies like Meta and Salesforce taking over the main promenade, while important topics like climate change failed to draw crowds.",
+              "And Sean said that even if AI execs weren’t quite “panhandling for usage and more customers,” it could sometimes feel that way.",
+              "Meanwhile, on the main promenade in Davos, Switzerland, some of the biggest storefronts have been converted and taken over by companies like Meta and Salesforce, Tata, also a lot of Middle East countries.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge.",
+              "Anthony: We were trying to pull out the tech content of Davos, [and] there are absolutely things that worth highlighting here, but it’s also striking how, especially as AI has become such a big business story, it’s hard to fully separate that from all the other threads going on in terms of bigger questions about international trade, about world politics."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
+            "link": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4e7103632e737824510f1c186ba12a849c89d6cd"
+          },
+          "review": {
+            "headline_rewrite": "Poland's energy grid was targeted by never-before-seen wiper malware",
+            "bullets": [
+              "Researchers on Friday said that Poland’s electric grid was targeted by wiper malware, likely unleashed by Russia state hackers, in an attempt to disrupt electricity delivery operations.",
+              "The news organization said it was aimed at disrupting communications between renewable installations and the power distribution operators but failed for reasons not explained.",
+              "Wipers R Us\nOn Friday, security firm ESET said the malware responsible was a wiper, a type of malware that permanently erases code and data stored on servers with the goal of destroying operations completely.",
+              "After studying the tactics, techniques, and procedures (TTPs) used in the attack, company researchers said the wiper was likely the work of a Russian government hacker group tracked under the name Sandworm.",
+              "“Based on our analysis of the malware and associated TTPs, we attribute the attack to the Russia-aligned Sandworm APT with medium confidence due to a strong overlap with numerous previous Sandworm wiper activity we analyzed,” said ESET researchers.",
+              "“We’re not aware of any successful disruption occurring as a result of this attack.”\nSandworm has a long history of destructive attacks waged on behalf of the Kremlin and aimed at adversaries."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Did Edison accidentally make graphene in 1879?",
+            "link": "https://arstechnica.com/science/2026/01/did-edison-accidentally-make-graphene-in-1879/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "40b7a64fc5383049ac3745cc48ac155e87acd005"
+          },
+          "review": {
+            "headline_rewrite": "Did Edison accidentally make graphene in 1879?",
+            "bullets": [
+              "But 19th century inventor Thomas Edison may have unknowingly created graphene as a byproduct of his original experiments on incandescent bulbs over a century earlier, according to a new paper published in the journal ACS Nano.",
+              "“To reproduce what Thomas Edison did, with the tools and knowledge we have now, is very exciting,” said co-author James Tour, a chemist at Rice University.",
+              "What questions can we answer when we revisit their work through a modern lens?”\nLucas Eddy, Tour’s grad student at Rice, was trying to figure out ways to mass produce graphene using the smallest, easiest equipment he could manage, with materials that were both affordable and readily available."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Report reveals that OpenAI's GPT-5.2 model cites Grokipedia",
+            "link": "https://www.engadget.com/ai/report-reveals-that-openais-gpt-52-model-cites-grokipedia-192532977.html",
+            "site_name": "Engadget",
+            "novelty_hash": "2475d010804332d9b94b46e2dcbd97bc9e445658"
+          },
+          "review": {
+            "headline_rewrite": "Report reveals that OpenAI's GPT-5.2 model cites Grokipedia",
+            "bullets": [
+              "OpenAI may have called GPT-5.2 its \"most advanced frontier model for professional work,\" but tests conducted by the Guardian cast doubt on its credibility.",
+              "According to the report, OpenAI's GPT-5.2 model cited Grokipedia, the online encyclopedia powered by xAI, when it came to specific, but controversial topics related to Iran or the Holocaust.",
+              "As seen in the Guardian's report, ChatGPT used Grokipedia as a source for claims about the Iranian government being tied to telecommunications company MTN-Irancell and questions related to Richard Evans, a British historian who served as an expert witness during a libel trial for Holocaust denier David Irving.",
+              "However, the Guardian noted ChatGPT didn't use Grokipedia when it came to a prompt asking about media bias against Donald Trump and other controversial topics.",
+              "OpenAI released the GPT-5.2 model in December to better perform at professional use, like creating spreadsheets or handling complex tasks.",
+              "A study done by US researchers also showed that the AI-generated encyclopedia cited \"questionable\" and \"problematic\" sources."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "735da5c224bcb2c72ecd91ccaaa7a7a07011d68d"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nIntel reports Q4 earnings but forecasts lower Q1 revenue chevron_rightIntel stock plunges as hopes for a 'clean' turnaround story meet reality\nYahoo Finance\nBy Laura Bratton\nChinese AI DeepSeek chevron_right\nUS TikTok deal chevron_right\nSupreme Court on Fed Governor Lisa Cook chevron_rightIs the supreme court ready to stand up to Trump over Federal Reserve attack?",
+              "Supreme Court may leave big questions unresolved on Trump bid to fire Fed's Lisa Cook\nThe Guardian\nBy Lauren Aratani\nReuters\nBy Jan Wolfe\nDonald Trump sues JPMorgan Chase for $5 billion chevron_right\nBy Tim McLaughlin & Georgina Mccartney\nThe Wall Street Journal\nBy Ryan Dezember & Jennifer Hiller\nSocial Security benefits chevron_rightThis retirement expert says the US is ‘past the point where we can fix Social Security.’ What she recommends insteadSocial Security has 'no bankruptcy or collapse in the cards,' economist says — but benefits may change\nCNBC\nBy Lorie Konish\nUtility crews on standby as winter storm approaches chevron_rightWhy long-lasting power outages could be a big problem after the storm\nThe Washington Post\nBy Ruby Mellen & Brady Dennis\nCar crashes into McNamara terminal at Detroit Metro Airport chevron_right\nDoordash NYC tipping law chevron_rightNew NYC tipping rules for DoorDash, Uber Eats, Grubhub start Monday, judge says\nDoordash, Uber Fail to Stop NYC Law Requiring 10% Tip Prompt\ngothamist.com\nBy Giulia Heyward\nBy Natalie Lung & Chris Dolmetsch\nUtilities across the Midwest urge customers to conserve electricity chevron_right\nFrance probes two infant deaths allegedly linked to recalled Nestlé milk chevron_right\nAmazon plans thousands more corporate job cuts next week chevron_rightAmazon staff cope with looming layoffs by roasting Jeff Bezos' '2-pizza rule'\nBusiness Insider\nBy Pranav Dixit\nVariety\nBy Todd Spangler\nGold prices at all-time high chevron_rightGold Price Outlook: XAU/USD Breakout Fuels Largest Weekly Range on Record- Bulls Eye 5K\nFOREX.com\nBy Michael Boutros\nDelta Air Lines adjusts flight schedules due to Winter Storm Fern chevron_right\nSEC drops case against Gemini cryptocurrency firm chevron_right\ncoloradosun.com\nBy Michael Booth\nDulles Airport design proposals chevron_right“Make Dulles Great Again” Airport Renderings Are In — Including A Trump Terminal And DJT People Movers\nView from the Wing\nBy Gary Leff\nNTSB investigates Waymo over illegal school bus behavior in Texas chevron_rightWaymo probed by National Transportation Safety Board over illegal school bus behavior\nWaymo Probed by US Safety Agency Over Austin School Bus Mishaps\nTechCrunch\nBy Sean O'Kane\nBy Natalie Lung & Kara Carlson\nApple, Microsoft, Meta Platforms, and Tesla earnings due next week chevron_rightEarnings live: PNC rounds out bank earnings this week as attention shifts to Netflix, Intel\nYahoo Finance Singapore\nLawsuit against Signature Room owner chevron_right\nEurope on US assets chevron_right\nChina's yuan rate chevron_right\nGeneral Motors to move Buick Envision production to US chevron_right\nBitGo IPO price chevron_right\nArtificial Intelligence stocks chevron_right\nJapan bond turmoil chevron_rightTremors in Japan Prompt Treasury to Weigh Currency Intervention\nThe New York Times\nBy Joe Rennison, Colby Smith & Alan Rappeport\nElon Musk appears at World Economic Forum in Davos chevron_right\nCapital One's Brex deal chevron_rightWhy Capital One’s $5 Billion Acquisition Of Fintech Brex Could Be Another Masterstroke For Billionaire Richard Fairbank\nForbes\nBy Jeff Kauflin\nElon Musk discusses Tesla robotaxi vision at World Economic Forum chevron_rightTesla Removed Some Safety Monitors From Robotaxis.",
+              "Investor's Business Daily\nBy Kit Norton\nTesla removes Autosteer from new Model 3 and Model Y trims chevron_rightElon Musk kills Tesla Autopilot to push Full Self-Driving subscriptions\nBy Pras Subramanian\nNvidia CEO Jensen Huang visits China amid regulatory uncertainty chevron_rightNvidia, IBD Stock Of The Day, Looks To Finally Score China Sales\nNvidia CEO Jensen Huang in Shanghai amid China regulatory headwinds\nBy Patrick Seitz\nBy Brenda Goh, Che Pan & William Mallard\nUS stocks news chevron_rightStock Market on Jan.",
+              "23, 2026: Dow ends lower Friday as bank stocks struggle; S&P 500 ekes out gain, tech-heavy Nasdaq rises; U.S.",
+              "stocks post weekly losses following tensions over Greenland\nS&P 500 ends Friday little changed, but posts second straight losing week amid wild trading\nMarketWatch\nBy Christine Idzelis, Joseph Adinolfi & Vivien Lou Chen\nBy Sean Conlon & Pia Singh\nNetflix stock news chevron_right\nSouthwest in WSJ airline rankings chevron_rightExclusive | The Best and Worst Airlines of 2025\nOpinion\nBy Dawn Gilbertson & Allison Pohle\nRay Dalio discusses rising geopolitical risk and the turn toward gold chevron_right\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google says it's working to fix Gmail issue that's led to flooded inboxes and increased spam warnings",
+            "link": "https://www.engadget.com/apps/google-says-its-working-to-fix-gmail-issue-thats-led-to-flooded-inboxes-and-increased-spam-warnings-183358654.html",
+            "site_name": "Engadget",
+            "novelty_hash": "c82ab14ce4578d0bde38a208d01193a94ab6db19"
+          },
+          "review": {
+            "headline_rewrite": "Google says it's working to fix Gmail issue that's led to flooded inboxes and increased spam warnings",
+            "bullets": [
+              "If your Gmail inbox is all out of whack today, you're not alone.",
+              "Gmail users have been encountering issues with the automatic filters that keep their main inbox free from the clutter of promotional emails and non-urgent updates, and some have reported seeing notices that emails have not been scanned for spam.",
+              "On social media and DownDetector, some Gmail users have also reported delays in receiving messages, leading to issues with two-factor authentication logins.",
+              "Google noted that the problem has resulted in the \"misclassification of emails in their inbox and additional spam warnings,\" including a banner that says, “Be careful with this message.",
+              "Gmail hasn't scanned this message for spam, unverified senders, or harmful software.” In a statement to Engadget, a Google spokesperson echoed the message from its status dashboard, saying, \"We are actively working to resolve the issue."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
