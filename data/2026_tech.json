@@ -99108,6 +99108,65 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "12:29": [
+        {
+          "item": {
+            "title": "Technology News Jan 25, 2026 Cowork AI Agent Launch: Anthropic expands tools to non-programmers; targets enterprise adoption",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/claude-code-chief-on-anthropics-new-ai-tool-nonprogrammers-will-soon-/articleshow/127443137.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "9d78dfef09c4c8175e64b9d487ce4f2dd670fbdd"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 25, 2026 Cowork AI Agent Launch: Anthropic expands tools to non-programmers; targets enterprise adoption",
+            "bullets": [
+              "Anthropic has recently launched a file management artificial intelligence (AI) agent named Cowork, designed for non-programmers.",
+              "The AI startup developed this new tool after users revealed they were using its developer-focused Claude Code tool for general tasks beyond coding.",
+              "According to Boris Cherny, head of Claude Code at Anthropic, the company built the new product in roughly a week and a half, primarily using Claude Code itself.",
+              "The move represents Anthropic's expansion beyond its traditional software developer user base into tools for everyday users who want AI assistance with file and task management.",
+              "In an interview with Fortune, Cherny said,\nâIt was just kind of obvious that Cowork is the next step.",
+              "We just want to make it much easier for non-programmers.âHow Cowork is different from Anthropicâs other AI tools\nCowork differs from earlier general-use AI tools from Anthropic through its ability to take autonomous action rather than simply provide advice."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 24, 2026 Logan Kilpatrick, lead product for Google AI Studio and Gemini API, says: Thanks to AI, engineers are now… AI is blurring the lines between engineering and art, with tools like ChatGPT and Gemini enabling non-technical individuals to build software. While some leaders see this as a positive refactoring of professions, others caution against over-reliance, citing potential productivity decreases and the need for human oversight in AI-generated code.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/logan-kilpatrick-lead-product-for-google-ai-studio-and-gemini-api-says-thanks-to-ai-engineers-are-now/articleshow/127398121.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "077b5b2dfe17abef75f5f5c3fc7c19617c30e9f5"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 24, 2026 Logan Kilpatrick, lead product for Google AI Studio and Gemini API, says: Thanks to AI, engineers are now… AI is blurring the lines between engineering and art, with tools like ChatGPT and Gemini enabling non-technical individuals to build software. While some leaders see this as a positive refactoring of professions, others caution against over-reliance, citing potential productivity decreases and the need for human oversight in AI-generated code.",
+            "bullets": [
+              "Engineers are becoming artists and artists are turning into engineers, all thanks to AIâat least according to Logan Kilpatrick, who leads product for Google AI Studio and the Gemini API.",
+              "âEngineers are artists now thanks to AI,â he wrote, âand artists are becoming engineers, all in a positive sense.â\nThe comment reflects a growing sentiment in Silicon Valley that AI coding tools are erasing traditional boundaries between disciplines.",
+              "Google CEO Sundar Pichai recently said AI now writes over 30% of new code at Google, while Anthropic CEO Dario Amodei claimed Claude generates 90% of his companyâs code.",
+              "Nvidia CEO Jensen Huang has gone even further, saying he wants his engineers to stop writing code entirely and focus instead on âdiscovering undiscovered problems.â At Nvidiaâs recent all-hands meeting, Huang reportedly pushed back against managers who told teams to reduce AI usage, asking bluntly: âAre you insane?â\nAI tools expanding access beyond traditional coders\nKilpatrickâs observation aligns with Pichaiâs recent comments that âvibe codingââusing AI to build software with minimal technical knowledgeâis making development âexciting againâ and more accessible to non-technical workers.",
+              "From HR professionals to accountants, people across industries are now using tools like ChatGPT, Gemini, Claude, and Cursor to prototype apps and automate workflows without formal coding training.",
+              "Reality check: productivity gains remain uncertain\nBut the optimism isnât universal."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "a392fe837df6c6f82dc3b6814eb7774885f0e9c9"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nNews, art & life in Fayetteville, Arkansas\nFelony Drug Charges Follow Traffic Stop in Mamakating and more\nDaily Rundown\nDaily Briefing\nWhat to know in Baton Rouge\nMorris Herald News\nSCV News from The Signal for Jan.",
+              "24, 2026\nBaltimore news to know\nImmigration News\nROCHESTER MINNESOTA NEWS\nAfternoon rundown\nGJ Sentinel Headlines 1/24/26\nAfternoon Update\nWILLMAR MINNESOTA NEWS\nDICKINSON ND NEWS\nToday's Rundown\nToledo's Leader in News, Sports & Entertainment\nSaturday Night News\nALEXANDRIA MINNESOTA NEWS\nLane County News\nKendall County Now\nThe Business Journal of the Boulder Valley and Northern Colorado\nWEEKEND READS\nSaturday's news in Arlington, Virginia\nLATEST CALIFORNIA NEWS\nSaturday Evening Update 1-24-2026\nDallas-Fort Worth news - January 24, 2026\nChicago Does\nSaturday's news in Alexandria\nLatest news from Baltimore, Montgomery County and across Maryland\nCobb Courier Evening Update January 24, 2026\nBridgeDetroit\nAMERICAS\nEvening Headlines, Jan.",
+              "24, 2026\nTrending in Olathe\nTop Stories January 24\n@NorthcentralPa\nSauk Valley\nNews from Gainesville, FL\nBEMIDJI MINNESOTA NEWS\nNews Tribune\nTop News\nNews for you\nHappening in Loudoun County\nYour Central Valley News Source\nSaturday News Roundup -- Afternoon Edition\nFort Worth & Tarrant County headlines\nTop Stories\nLatest news for Mountlake Terrace\nMywebtimes"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
