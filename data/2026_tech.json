@@ -102178,6 +102178,84 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:14": [
+        {
+          "item": {
+            "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
+            "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2d1f65e8d9195f5e636e21aaffc87c0aa8fbbe34"
+          },
+          "review": {
+            "headline_rewrite": "This founder cracked firefighting — now he’s creating an AI gold mine",
+            "bullets": [
+              "Sunny Sethi, founder of HEN Technologies, doesn’t sound like someone who’s disrupted an industry that has remained largely unchanged since the 1960s.",
+              "After nabbing his PhD at the University of Akron, researching surfaces and adhesion, he founded ADAP Nanotech, an outfit that developed a carbon nanotube-based portfolio and won Air Force Research Lab grants.",
+              "Next, at SunPower, he developed new materials and processes for shingled photovoltaic modules.",
+              "A background spanning nanotechnology, solar, semiconductors, and automotive had made his thinking “bias free and flexible,” as he puts it.",
+              "With National Science Foundation funding, he conducted computational fluid dynamics research, analyzing how water suppresses fire and how wind affects it.",
+              "But the nozzle is just the beginning – what Sethi calls “the muscle on the ground.” HEN has since expanded into monitors, valves, overhead sprinklers, and pressure devices, and is launching a flow-control device (“Stream IQ”) and discharge control systems this year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+            "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "115b6b2b919f7e29fb837d1f4b236e7eb0601c09"
+          },
+          "review": {
+            "headline_rewrite": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+            "bullets": [
+              "AI chatbots are getting better at answering questions, summarizing documents, and solving mathematical equations, but they still largely behave like helpful assistants for one user at a time.",
+              "Humans&, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, thinks closing that gap is the next major frontier for foundation models.",
+              "The company this week raised a $480 million seed round to build a “central nervous system” for the human-plus-AI economy.",
+              "The startup’s “AI for empowering humans” framing has dominated early coverage, but the company’s actual ambition is more novel: building a new foundation model architecture designed for social intelligence, not just information retrieval or code generation.",
+              "“It feels like we’re ending the first paradigm of scaling, where question-answering models were trained to be very smart at particular verticals, and now we’re entering what we believe to be the second wave of adoption where the average consumer or user is trying to figure out what to do with all these things,” Andi Peng, one of humans&’s co-founders and a former Anthropic employee, told TechCrunch.",
+              "Humans&’s pitch centers on helping usher people into the new era of AI, moving beyond the narrative that AI will take their jobs."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 25, 2026 Some Apple iPhone users begin receiving payouts from $95 million Siri privacy settlement iPhone users in the US are now receiving payouts from Apple's $95 million Siri privacy settlement. The class action lawsuit alleged Siri recorded conversations without user intent. Eligible users who filed claims are seeing deposits, with payments of approximately $8.02 per device.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/some-apple-iphone-users-begin-receiving-payouts-from-95-million-siri-privacy-settlement/articleshow/127476665.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a26e3fecf8677ade984d705b7da1d155e0087495"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 25, 2026 Some Apple iPhone users begin receiving payouts from $95 million Siri privacy settlement iPhone users in the US are now receiving payouts from Apple's $95 million Siri privacy settlement. The class action lawsuit alleged Siri recorded conversations without user intent. Eligible users who filed claims are seeing deposits, with payments of approximately $8.02 per device.",
+            "bullets": [
+              "The settlement relates to claims that Appleâs Siri voice assistant recorded conversations without user intent.",
+              "Apple accepted users' claims in mid-2025.",
+              "Others who chose alternative payment options are still waiting to receive their settlement amounts.",
+              "Siri privacy settlement: How it settlement works and who is eligible\nThe lawsuit dates back to concerns raised in 2019 about unintended Siri activations.",
+              "They also needed to claim that Siri activated without their intent during that period.",
+              "Each claimant was allowed to submit claims for up to five devices."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
