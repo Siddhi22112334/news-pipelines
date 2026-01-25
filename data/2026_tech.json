@@ -101753,6 +101753,63 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:50": [
+        {
+          "item": {
+            "title": "Microsoft releases second emergency Windows 11 update to fix Outlook crashes",
+            "link": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html",
+            "site_name": "Engadget",
+            "novelty_hash": "090390df0c7030f2a2b476d7a0c35179ebd722ed"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft releases second emergency Windows 11 update to fix Outlook crashes",
+            "bullets": [
+              "This second emergency patch addresses issues seen with Outlook and files stored in the cloud following Microsoft's January 2026 Windows security update.",
+              "According to Microsoft, this update fixes a bug where some apps that \"open or save files stored in cloud-backed locations\" became unresponsive or displayed error messages.",
+              "Some users also experienced Outlook crashing or not opening when PST files are stored in cloud-based options like OneDrive.",
+              "This is the second time this year that Microsoft had to issue a last-minute fix for bugs related to its January security update.",
+              "For more context, Microsoft only issues out-of-band updates when there's a serious issue that can't wait until its regular update cycle."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 25, 2026 Some Apple iPhone users begin receiving payouts from $95 million Siri privacy settlement iPhone users in the US are now receiving payouts from Apple's $95 million Siri privacy settlement. The class action lawsuit alleged Siri recorded conversations without user intent. Eligible users who filed claims are seeing deposits, with payments of approximately $8.02 per device.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/some-apple-iphone-users-begin-receiving-payouts-from-95-million-siri-privacy-settlement/articleshow/127476665.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a26e3fecf8677ade984d705b7da1d155e0087495"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 25, 2026 Some Apple iPhone users begin receiving payouts from $95 million Siri privacy settlement iPhone users in the US are now receiving payouts from Apple's $95 million Siri privacy settlement. The class action lawsuit alleged Siri recorded conversations without user intent. Eligible users who filed claims are seeing deposits, with payments of approximately $8.02 per device.",
+            "bullets": [
+              "The settlement relates to claims that Appleâs Siri voice assistant recorded conversations without user intent.",
+              "Apple accepted users' claims in mid-2025.",
+              "Others who chose alternative payment options are still waiting to receive their settlement amounts.",
+              "Siri privacy settlement: How it settlement works and who is eligible\nThe lawsuit dates back to concerns raised in 2019 about unintended Siri activations.",
+              "They also needed to claim that Siri activated without their intent during that period.",
+              "Each claimant was allowed to submit claims for up to five devices."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
