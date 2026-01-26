@@ -102705,6 +102705,84 @@
             "impact": "Positive"
           }
         }
+      ],
+      "14:33": [
+        {
+          "item": {
+            "title": "Synthesia hits $4B valuation, lets employees cash out",
+            "link": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "16935e272180b9a96215f7d4c4df9f1a81540446"
+          },
+          "review": {
+            "headline_rewrite": "Synthesia hits $4B valuation, lets employees cash out",
+            "bullets": [
+              "British startup Synthesia, whose AI platform helps companies create interactive training videos, has raised a $200 million Series E round of funding that brings its valuation to $4 billion — up from $2.1 billion just a year ago.",
+              "Unlike some other AI startups that are still a long way from turning a profit, Synthesia has found a lucrative business in transforming corporate training thanks to AI-generated avatars.",
+              "This milestone explains why Synthesia’s venture backers are literally doubling down.",
+              "The Series E that nearly doubled its valuation was led by existing investor GV (Google Ventures), with participation from several other previous backers — including Series B lead Kleiner Perkins, Series C lead Accel, Series D lead New Enterprise Associates (NEA), NVIDIA’s venture capital arm NVentures, Air Street Capital, and PSP Growth.",
+              "For Synthesia, this long-term growth involves going beyond expressive videos and embracing the AI agents trend.",
+              "According to a press release, the company is developing AI agents that will let its clients’ employees “interact with company knowledge in a more intuitive, human-like way by asking questions, exploring scenarios through role-play, and receiving tailored explanations.”\nDisrupt 2026 Tickets: One-time offer\nTickets are live!"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
+            "link": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/",
+            "site_name": "WIRED",
+            "novelty_hash": "66c2852455270031626967b02c3e09099831c7d2"
+          },
+          "review": {
+            "headline_rewrite": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
+            "bullets": [
+              "This isn't just another Intel chip launch.",
+              "For years, most updates to Intel's laptop chips have been nothing more than modest performance increases over the previous year.",
+              "That's not the case with the long-awaited arrival of Panther Lake.",
+              "It's a chip design announced almost five years ago as a part of the company's ambitious rescue plan to get back on track.",
+              "Intel CEO at the time (and mastermind of the grand plan), Pat Gelsinger, called the technology the “cornerstone of the company's turnaround strategy.” Now, I have a laptop in front of me with these Panther Lake chips inside, officially known as the Intel Core Ultra Series 3.",
+              "I'm not sure if the Series 3 will redeem Intel's recent foibles, but these chips certainly feel like a big win for a company that really needs one right now."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 26, 2026 iPhone users, you may be about to get your first real look at Google-Apple partnership for your phones starting ... Apple is set to transform Siri into a conversational AI chatbot, leveraging Google's Gemini models. This significant overhaul, expected in February 2026, will enable more natural interactions and deeper app integration. The move reflects Apple's strategic decision to utilize external AI expertise amidst its own development challenges.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/iphone-users-you-may-be-about-to-get-your-first-real-look-at-google-apple-partnership-for-your-phones-starting-/articleshow/127532973.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "d283782c2b07505cc0bc0606de99d4ccb7d65462"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 26, 2026 iPhone users, you may be about to get your first real look at Google-Apple partnership for your phones starting ... Apple is set to transform Siri into a conversational AI chatbot, leveraging Google's Gemini models. This significant overhaul, expected in February 2026, will enable more natural interactions and deeper app integration. The move reflects Apple's strategic decision to utilize external AI expertise amidst its own development challenges.",
+            "bullets": [
+              "Apple is preparing to overhaul Siri from a voice assistant into a conversational AI chatbot, marking the most dramatic change since it launched in 2011.",
+              "Whatâs changing in Siri\nAs per the report, Siri will now integrate Geminiâs advanced generative AI capabilities, enabling more natural conversations, smarter contextual responses and deeper integration with apps.",
+              "This partnership could give iPhone users access to Googleâs cutting-edge AI technology directly within Appleâs ecosystem, a move that signals Appleâs willingness to lean on external AI expertise rather than building everything in-house.",
+              "It'll integrate with Apple's core appsâPhotos, Mail, Messages, Musicâand access their content to respond to requests.",
+              "Apple's AI struggles made outside help inevitable\nThe deal reflects Apple's rocky journey in AI.",
+              "The company delayed its major Siri upgrade from spring 2025 to 2026, sidelined AI chief John Giannandrea from development, and lost key talent including foundation models head Ruoming Pang to Meta."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
