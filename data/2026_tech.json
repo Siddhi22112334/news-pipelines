@@ -103531,6 +103531,120 @@
             "impact": "Positive"
           }
         }
+      ],
+      "19:59": [
+        {
+          "item": {
+            "title": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+            "link": "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "80da2357e1c65fb37da5f64a1946edadc68f4f13"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+            "bullets": [
+              "AI weather and climate prediction is more accessible than ever for scientists, startups, developers, enterprises and government agencies worldwide.",
+              "At the American Meteorological Society’s Annual Meeting, NVIDIA today unveiled a new NVIDIA Earth-2 family of open models, libraries and frameworks for weather and climate AI, offering the world’s first fully open, accelerated weather AI software stack.",
+              "These open technologies — including pretrained models, frameworks, customization recipes and inference libraries — accelerate all forecasting stages, from processing initial observation data to generating 15-day global forecasts or local storm forecasts.",
+              "AI-powered weather forecasting saves significant computational time and costs, allowing more nations, weather enterprises and businesses to run application-specific forecasting systems.",
+              "Making production-ready weather AI fully accessible for organizations to run, fine-tune and deploy on their own infrastructure, NVIDIA Earth-2 is the first open, accelerated set of models and tools that enables developers to bring disparate weather and climate AI capabilities together.",
+              "This includes AI weather tool provider Brightband; weather forecasters the Israel Meteorological Service, Taiwan’s Central Weather Administration, The Weather Company and the U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
+            "link": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b0e572063ae5462e9c05d5f0c52a44ee59b987f3"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
+            "bullets": [
+              "Or, given how accurate the company claims the new models are, maybe it knew something we didn’t?",
+              "The new AI models promise to make weather forecasting faster and more accurate.",
+              "Nvidia claims that one model in particular, Earth-2 Medium Range, beats Google DeepMind’s AI weather model, GenCast, on more than 70 variables.",
+              "“We’re moving away from hand-tailored niche AI architectures and leaning into the future of simple, scalable, transformer architectures.”\nTraditionally, most weather forecasts rely on simulations of physics as observed in the real world.",
+              "AI models are a relatively recent addition.",
+              "The Earth-2 Medium Range model is based on a new Nvidia architecture called Atlas, about which the company said it would release more details on Monday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel Panther Lake laptop CPU review: call it a comeback",
+            "link": "https://www.theverge.com/tech/867214/intel-core-ultra-x9-panther-lake-388h-laptop-cpu-review",
+            "site_name": "The Verge",
+            "novelty_hash": "1fd897814451503f2d91199c7eecc27a24a01cf2"
+          },
+          "review": {
+            "headline_rewrite": "Intel Panther Lake laptop CPU review: call it a comeback",
+            "bullets": [
+              "Intel’s been talking the talk for months about its new generation of laptop chips, the first made on its long-anticipated 18A process.",
+              "18A is meant to steer Intel back toward bluer waters by making its chips better, and, if possible, attracting chip designers like Qualcomm and Nvidia to use Intel’s foundries, not just its rival TSMC’s.",
+              "Last year’s Arrow Lake chips received a mixed reception, particularly desktop versions.",
+              "The mobile-only Lunar Lake chips, on the other hand, were great, showing that the x86 architecture still has plenty of fight in it against a slowly rising tide of Arm-based Windows laptops.",
+              "Panther Lake puts homegrown Intel inside once again.",
+              "Intel Panther Lake laptop CPU review: call it a comeback\nThe first chip of Intel’s 18A process is speedy, even on battery power."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "As Marvel pivots back to the Avengers, Wonder Man goes its own way",
+            "link": "https://www.theverge.com/entertainment/866197/wonder-man-review-mcu-disney-plus",
+            "site_name": "The Verge",
+            "novelty_hash": "33b4029255afd973b6ffa6b9470b97feb0cb60e7"
+          },
+          "review": {
+            "headline_rewrite": "As Marvel pivots back to the Avengers, Wonder Man goes its own way",
+            "bullets": [
+              "At a time when Marvel seems more focused on reintroducing familiar faces in epic crossover events, Wonder Man stands out as an almost entirely self-contained character study that zooms in on the life of a comics hero that many casual fans probably aren’t all that familiar with.",
+              "From the moment that Wonder Man first name-drops real-world entertainment like The Matrix and Twilight, you can start to feel the meta sense of humor co-creators Destin Daniel Cretton and Andrew Guest use to shape the series.",
+              "Simon and Slattery’s shared love for the arts quickly turns the pair into unlikely friends who genuinely believe that they are both perfect for the lead roles in the Wonder Man movie — a cheesy sci-fi space opera that looks like a cross between Flash Gordon and Star Wars.",
+              "Both men are shocked / elated when they receive callbacks for the movie, but Simon is uniquely concerned about what might happen if anyone involved with the production learns that he has been hiding real, innate superhuman abilities since he first hit puberty.",
+              "After two turns as Slattery in previous Marvel projects, Kingsley finally has the chance to make the character feel like a real person whose ridiculous airs belie a genuine complexity.",
+              "The two actors’ chemistry carries the series in moments when its The Studio-esque comedic subplots go a little off the rails."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "TurboTax Deluxe has been discounted to $45 ahead of tax season",
+            "link": "https://www.engadget.com/deals/turbotax-deluxe-has-been-discounted-to-45-ahead-of-tax-season-204848732.html",
+            "site_name": "Engadget",
+            "novelty_hash": "882102b3a4c950b1c0cd1ff7067e11d147315eb1"
+          },
+          "review": {
+            "headline_rewrite": "TurboTax Deluxe has been discounted to $45 ahead of tax season",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "While it pains us to suggest you give money to a company that has spent decades lobbying to ensure America's tax system remains a nightmare, we can at least help you save a bit of cash if you've determined TurboTax is a necessary expense for you this year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
