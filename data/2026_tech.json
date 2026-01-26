@@ -102256,6 +102256,44 @@
             "impact": "Negative"
           }
         }
+      ],
+      "07:16": [
+        {
+          "item": {
+            "title": "Technology News Jan 23, 2026 Sam Altman is not happy with what everyone thinks of OpenAI and ChatGPT, says: Don't think of us as only ChatGPT, but ... OpenAI's API business has achieved over $1 billion in annual recurring revenue in the past month, signaling strong developer and enterprise adoption. This growth occurs as investors express concerns about the AI company's long-term financial sustainability and face increasing competition from rivals like Google's Gemini, which has seen significant user growth.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-is-not-happy-with-what-everyone-thinks-of-openai-and-chatgpt-says-dont-think-of-us-as-only-chatgpt-but-/articleshow/127238104.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "d2445a88ca1edf2cec3543171dda3d69d7349945"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 23, 2026 Sam Altman is not happy with what everyone thinks of OpenAI and ChatGPT, says: Don't think of us as only ChatGPT, but ... OpenAI's API business has achieved over $1 billion in annual recurring revenue in the past month, signaling strong developer and enterprise adoption. This growth occurs as investors express concerns about the AI company's long-term financial sustainability and face increasing competition from rivals like Google's Gemini, which has seen significant user growth.",
+            "bullets": [
+              "OpenAI CEO Sam Altman has said that the AI companyâs application programming interface (API) business added more than $1 billion in annual recurring revenue (ARR) in the last month, highlighting strong demand from developers and enterprises using\nOpenAIâs models.",
+              "Sharing a post on X (formerly Twitter), Altman said that while OpenAI is widely known for its AI bot ChatGPT, its API team has been driving significant growth behind the scenes.",
+              "âWe have added more than $1B of ARR in the last month just from our API business,â\nSam Altman wrote in the post, adding âPeople think of us mostly as ChatGPT, but the API team is doing amazing work!â.",
+              "The comments come amidst growing concerns among investors are closely watching OpenAIâs long-term sustainability, especially as the comedy is reportedly considering an initial public offering (IPO) and face rising costs linked to building and running large-scale AI systems.",
+              "Earlier this week, Google DeepMind CEO Demis Hassabis called OpenAIâs ChatGPT ad test a premature revenue push.",
+              "Last week, the AI company announced that it will begin testing ads in ChatGPT in the coming weeks."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
