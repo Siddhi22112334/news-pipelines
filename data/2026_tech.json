@@ -104131,6 +104131,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:36": [
+        {
+          "item": {
+            "title": "Maia 200: The AI accelerator built for inference",
+            "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "088ba46b2c5d2846c667962a3600d52165b8ce04"
+          },
+          "review": {
+            "headline_rewrite": "Maia 200: The AI accelerator built for inference",
+            "bullets": [
+              "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation.",
+              "Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus data movement engines that keep massive models fed, fast and highly utilized.",
+              "This makes Maia 200 the most performant, first-party silicon from any hyperscaler, with three times the FP4 performance of the third generation Amazon Trainium, and FP8 performance above Google’s seventh generation TPU.",
+              "Maia 200 is also the most efficient inference system Microsoft has ever deployed, with 30% better performance per dollar than the latest generation hardware in our fleet today.",
+              "Maia 200 is part of our heterogenous AI infrastructure and will serve multiple models, including the latest GPT-5.2 models from OpenAI, bringing performance per dollar advantage to Microsoft Foundry and Microsoft 365 Copilot.",
+              "The Microsoft Superintelligence team will use Maia 200 for synthetic data generation and reinforcement learning to improve next-generation in-house models."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "aacad3199b098aa3a766c6097af1f8769dffc457"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon EC2 G7e instances, Amazon Corretto updates, and more (January 26, 2026)",
+            "bullets": [
+              "This week brings exciting news for customers running GPU-intensive workloads, with the launch of our newest graphics and AI inference instances powered by NVIDIA’s latest Blackwell architecture.",
+              "Along with several service enhancements and regional expansions, this week’s updates continue to expand the capabilities available to AWS customers.",
+              "Last week’s launches\nI thought these projects, blog posts, and news items were also interesting:\n- Amazon EC2 G7e instances are now generally available — The new G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs deliver up to 2.3 times better inference performance compared to G6e instances.",
+              "With two times the GPU memory and support for up to 8 GPUs providing 768 GB of total GPU memory, these instances enable running medium-sized models of up to 70B parameters with FP8 precision on a single GPU.",
+              "G7e instances are ideal for generative AI inference, spatial computing, and scientific computing workloads.",
+              "Available now in US East (N."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re announcing the twelve recipients of our AI for Science fund",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/announcing-ai-for-science-awardees/",
+            "site_name": "Google",
+            "novelty_hash": "f31429e0f6d402642caeca7f0f4781a80162a91d"
+          },
+          "review": {
+            "headline_rewrite": "We’re announcing the twelve recipients of our AI for Science fund",
+            "bullets": [
+              "We’re announcing the twelve recipients of our AI for Science fund\nScience is the cornerstone of human progress.",
+              "To help overcome this, Google.org created a $20 million AI for Science fund to support academic, nonprofit and startup organizations using AI to tackle the world’s most complex scientific challenges.",
+              "We're equipping researchers with the right resources to use AI to unlock the impossible and achieve in years what used to take decades.",
+              "Today, we’re announcing the twelve recipients of the AI for Science fund.",
+              "These teams aren't just using AI to synthesize and process data; they are using it to break through the most significant obstacles across scientific domains like health, agriculture and biodiversity to turn discoveries into real-world solutions.",
+              "Five of our funding recipients are using AI to translate this complexity into a predictive, more precise science, moving us from reacting to disease to preventing it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
+            "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "33464a7ceaf4af0ecdcada377577cf44932f3e9e"
+          },
+          "review": {
+            "headline_rewrite": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
+            "bullets": [
+              "More than 450 tech workers from companies like Google, Meta, OpenAI, Amazon, and Salesforce have signed a letter urging their CEOs to call the White House and demand that United States Immigration and Custom Enforcement (ICE) leave U.S.",
+              "The operation has been marked by confrontations between federal agents and community members protesting the raids, with law enforcement indiscriminately deploying crowd control tactics, including pepper spray, tear gas, rubber bullets, and sound cannons.",
+              "The campaign among tech workers began after ICE agents shot and killed U.S.",
+              "A number of tech leaders have already spoken out against federal actions in Minneapolis.",
+              "LinkedIn co-founder Reid Hoffman said the way ICE operates is “terrible for the people,” and Khosla Ventures founder Vinod Khosla called the current enforcement “macho ICE vigilantes running amuck empowered by a conscious-less administration.” Google DeepMind’s chief scientist Jeff Dean called for “every person regardless of political affiliation” to denounce the escalation of violence.",
+              "OpenAI’s head of global business, James Dyett, criticized the industry’s silence, posting on X that “there is far more outrage from tech leaders over a wealth tax than masked ICE agents terrorizing communities.”\nDisrupt 2026 Tickets: One-time offer\nTickets are live!"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft announces powerful new chip for AI inference",
+            "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "14e5638c31aeb98cb895d3311e96e2144de24254"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft announces powerful new chip for AI inference",
+            "bullets": [
+              "Microsoft has announced the launch of its latest chip, the Maia 200, which the company describes as a silicon workhorse designed for scaling AI inference.",
+              "The 200, which follows the company’s Maia 100 released in 2023, has been technically outfitted to run powerful AI models at faster speeds and with more efficiency, the company has said.",
+              "Maia comes equipped with over 100 billion transistors, delivering over 10 petaflops in 4-bit precision and approximately 5 petaflops of 8-bit performance — a substantial increase over its predecessor.",
+              "Inference refers to the computing process of running a model, in contrast with the compute required to train it.",
+              "As AI companies mature, inference costs have become an increasingly important part of their overall operating cost, leading to renewed interest in ways to optimize the process.",
+              "Microsoft is hoping that the Maia 200 can be part of that optimization, making AI businesses run with less disruption and lower power use."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft’s latest AI chip goes head-to-head with Amazon and Google",
+            "link": "https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement",
+            "site_name": "The Verge",
+            "novelty_hash": "757286ee66804443ec57489d16f6f99b5893acc6"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s latest AI chip goes head-to-head with Amazon and Google",
+            "bullets": [
+              "Microsoft is announcing a successor to its first in-house AI chip today, the Maia 200.",
+              "Built on TSMC’s 3nm process, Microsoft says its Maia 200 AI accelerator “delivers 3 times the FP4 performance of the third generation Amazon Trainium, and FP8 performance above Google’s seventh generation TPU.”\nMicrosoft’s latest AI chip goes head-to-head with Amazon and Google\nThe Maia 200 chip is starting to roll out to Microsoft’s data centers today.",
+              "Each Maia 200 chip has more than 100 billion transistors, which are all designed to handle large-scale AI workloads.",
+              "“Maia 200 can effortlessly run today’s largest models, with plenty of headroom for even bigger models in the future,” says Scott Guthrie, executive vice president of Microsoft’s Cloud and AI division.",
+              "Microsoft will use Maia 200 to host OpenAI’s GPT-5.2 model and others for Microsoft Foundry and Microsoft 365 Copilot.",
+              "“Maia 200 is also the most efficient inference system Microsoft has ever deployed, with 30 percent better performance per dollar than the latest generation hardware in our fleet today,” says Guthrie."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
