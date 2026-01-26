@@ -104501,6 +104501,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "00:55": [
+        {
+          "item": {
+            "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+            "site_name": "Google",
+            "novelty_hash": "0c24d0ca9f8db68eafb4de61623e0521a77af962"
+          },
+          "review": {
+            "headline_rewrite": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+            "bullets": [
+              "How animators and AI researchers made ‘Dear Upstairs Neighbors’\nToday, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.",
+              "“Dear Upstairs Neighbors” is the story of a young woman, Ada, who is desperate for a good night’s sleep but kept awake by her exceedingly noisy neighbors.",
+              "As she struggles to imagine what could be causing the cacophony upstairs, reality drifts into fantasy, and an epic battle for peace and sanity ensues.",
+              "For our main character, Ada, production designer Yingzong Xin created a design that’s quirky and unique, with pushed proportions and an angular shape language.",
+              "The painterly style changes from moment to moment, expressing Ada’s changing emotions through color and texture.",
+              "From the start, the team aspired to empower animation artists to benefit from the creative potential of generative AI without sacrificing artistic control to its inherent unpredictability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
+            "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "09ab8d5a4362a6ec1c927133242cbbca8192c845"
+          },
+          "review": {
+            "headline_rewrite": "AI startup CVector raises $5M for its industrial ‘nervous system’",
+            "bullets": [
+              "Industrial AI startup CVector built a brain and nervous system for big industry.",
+              "Now, founders Richard Zhang and Tyler Ruggles are tasked with a bigger challenge: showing customers and investors how this AI-powered software layer translates to real savings on an industrial scale.",
+              "The New York-based startup has had some success following its pre-seed funding round last July.",
+              "It’s given the duo more concrete examples of what problems they can solve — and money they can save — for their big industry clients\n“One of the core things we’re witnessing,” he said, is customers “really lack the tool to translate a small action, like turning on and off a valve, [into] did that just save me money?”\nAs a homeowner with bills to pay, it’s a bit unnerving to think about one nondescript valve making such a big difference in the bottom line of a company and its customers.",
+              "But it’s examples like this that helped CVector reach a new milestone, as it has now closed a $5 million seed round, Zhang and Ruggles told TechCrunch.",
+              "With the funding round closed, CVector is talking a bit more about some of its first customers — and just how different they are."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+            "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b3a10384668ed6e055d7c9ecde1d85c74c062f70"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+            "bullets": [
+              "In keeping with Anthropic’s enterprise focus, the launch apps are mostly workplace tools, including Slack, Canva, Figma, Box, and Clay, with a Salesforce implementation expected soon.",
+              "In each case, the app will enable a logged-in instance of the service that’s accessible to Claude, enabling users to send Slack messages, generate charts, or access cloud files, depending on which apps have been enabled.",
+              "“Analyzing data, designing content, and managing projects all work better with a dedicated visual interface,” Anthropic said in a blog post announcing the feature.",
+              "“Combined with Claude’s intelligence, you can work and iterate faster than either could offer alone.”\nThe new feature is available to Pro, Max, Team, and Enterprise subscribers, but not free users.",
+              "Eligible users can activate the tools at claude.ai/directory.",
+              "The system is similar to OpenAI’s Apps system, which launched in October and also enables interactive third-party tools."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+            "link": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
+            "site_name": "The Verge",
+            "novelty_hash": "0b45985744134d06ae40f2b0208e0dee9c3bac13"
+          },
+          "review": {
+            "headline_rewrite": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+            "bullets": [
+              "Anthropic’s Claude got a bit livelier today thanks to a new extension to MCP, the open-source protocol that allows AI agents to easily access tools and data across the internet.",
+              "As of today, Anthropic said tools like Asana, Figma, Slack, and Canva will “open as interactive apps right inside of chat.” While users could previously connect tools like Slack and Asana to the AI assistant, doing so meant getting text back.",
+              "The company says the new in-app integration means users can actually engage with the tool and “see, explore, and refine results visually, not just read about them.”\nA number of popular tools are already available to use directly in Claude.",
+              "There are also integrations for Figma, Clay, and Box, Anthropic said, with Salesforce tools like Data 360, Agentforce, and Customer 360 apps “coming soon.”\nThe interactivity — something of apps-within-an-app — sounds similar to the “mini” apps embedded inside messaging platforms like Telegram and Discord.",
+              "The integration signals a shift in how AI platforms like ChatGPT and Claude are likely to operate in the future, becoming more like operating systems than individual tools, an “everything app” in the vein of Tencent’s WeChat in China.",
+              "ChatGPT has already made a step in that direction with the launch of its own app ecosystem last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
+            "link": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/",
+            "site_name": "WIRED",
+            "novelty_hash": "14e7ed60eb093d8c6145bbe343e7f7b72ccfea3a"
+          },
+          "review": {
+            "headline_rewrite": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
+            "bullets": [
+              "This isn't just another Intel chip launch.",
+              "For years, most updates to Intel's laptop chips have been nothing more than modest performance increases over the previous year.",
+              "That's not the case with the long-awaited arrival of Panther Lake.",
+              "It's a chip design announced almost five years ago as part of the company's ambitious rescue plan to get back on track.",
+              "Intel’s CEO at the time (and mastermind of the grand plan), Pat Gelsinger, called the technology the “cornerstone of the company's turnaround strategy.” Now, I have a laptop in front of me with this Panther Lake chip inside, officially known as the Intel Core Ultra Series 3.",
+              "I'm not sure if the Series 3 will redeem Intel's recent foibles, but these chips certainly feel like a big win for a company that really needs one."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to encrypt your PC's disk without giving the keys to Microsoft",
+            "link": "https://arstechnica.com/gadgets/2026/01/how-to-encrypt-your-pcs-disk-without-giving-the-keys-to-microsoft/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2cfaded441671c0a411ae46e26e579e825d9112b"
+          },
+          "review": {
+            "headline_rewrite": "How to encrypt your PC's disk without giving the keys to Microsoft",
+            "bullets": [
+              "Though initially only available to owners of the Pro editions of Windows who turned it on manually, during the Windows 8 era Microsoft began using BitLocker to encrypt local disks automatically for all Windows 11 Home and Pro PCs that signed in with a Microsoft account.",
+              "A Microsoft rep said that the company handled “around 20” similar BitLocker recovery key requests from government authorities per year, and that these requests often fail because users haven’t stored their recovery keys on Microsoft’s servers.",
+              "Microsoft and other tech companies have generally refused requests to install universal encryption backdoors for law enforcement purposes, and some companies (like Apple) claim to store device encryption keys using another layer of encryption that renders the keys inaccessible to the company.",
+              "But storing your device’s recovery keys in someone else’s cloud can still represent a privacy and security risk, especially at a time when the US government has become more interested in targeting journalists and the Trump administration’s political opponents."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
