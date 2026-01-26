@@ -104377,5 +104377,131 @@
         }
       ]
     }
+  },
+  "2026-01-27": {
+    "runs": {
+      "00:05": [
+        {
+          "item": {
+            "title": "We’re announcing the 12 recipients of our AI for Science fund",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/announcing-ai-for-science-awardees/",
+            "site_name": "Google",
+            "novelty_hash": "5b6bdf295a5da61c63b019129ea89eae6f47d020"
+          },
+          "review": {
+            "headline_rewrite": "We’re announcing the 12 recipients of our AI for Science fund",
+            "bullets": [
+              "We’re announcing the 12 recipients of our AI for Science fund\nScience is the cornerstone of human progress.",
+              "To help overcome this, Google.org created a $20 million AI for Science fund to support academic, nonprofit and startup organizations using AI to tackle the world’s most complex scientific challenges.",
+              "We're equipping researchers with the right resources to use AI to unlock the impossible and achieve in years what used to take decades.",
+              "Today, we’re announcing the twelve recipients of the AI for Science fund.",
+              "These teams aren't just using AI to synthesize and process data; they are using it to break through the most significant obstacles across scientific domains like health, agriculture and biodiversity to turn discoveries into real-world solutions.",
+              "Five of our funding recipients are using AI to translate this complexity into a predictive, more precise science, moving us from reacting to disease to preventing it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+            "site_name": "Google",
+            "novelty_hash": "0c24d0ca9f8db68eafb4de61623e0521a77af962"
+          },
+          "review": {
+            "headline_rewrite": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+            "bullets": [
+              "How animators and AI researchers made ‘Dear Upstairs Neighbors’\nToday, our animated short film, “Dear Upstairs Neighbors,” previews at the Sundance Film Festival.",
+              "“Dear Upstairs Neighbors” is the story of a young woman, Ada, who is desperate for a good night’s sleep but kept awake by her exceedingly noisy neighbors.",
+              "As she struggles to imagine what could be causing the cacophony upstairs, reality drifts into fantasy, and an epic battle for peace and sanity ensues.",
+              "For our main character, Ada, production designer Yingzong Xin created a design that’s quirky and unique, with pushed proportions and an angular shape language.",
+              "The painterly style changes from moment to moment, expressing Ada’s changing emotions through color and texture.",
+              "From the start, the team aspired to empower animation artists to benefit from the creative potential of generative AI without sacrificing artistic control to its inherent unpredictability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized",
+            "link": "https://techcrunch.com/2026/01/26/tiktok-alternative-skylight-soars-to-380k-users-after-tiktok-u-s-deal-finalized/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1d8b7c4194861c04b80a7ff60b02210170bea026"
+          },
+          "review": {
+            "headline_rewrite": "TikTok alternative Skylight soars to 380K+ users after TikTok U.S. deal finalized",
+            "bullets": [
+              "Launched last year and backed by Mark Cuban and other investors, Skylight’s mobile app is built on the AT Protocol, the technology that also powers the decentralized X rival, Bluesky, which now has north of 42 million users.",
+              "Harmeyer said Saturday that 1.4 million videos were played on the app the day before, up 3x over the past 24 hours.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge.",
+              "and China, which led to concerns that TikTok could be a threat to national security, both by collecting data on U.S.",
+              "Those concerns grew to a head when TikTok pushed out an updated privacy policy, which includes permission to track users’ GPS coordinates, among other things.",
+              "Users also pointed to language in the privacy policy that said the app would track immigration status."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+            "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b3a10384668ed6e055d7c9ecde1d85c74c062f70"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+            "bullets": [
+              "In keeping with Anthropic’s enterprise focus, the launch apps are mostly workplace tools, including Slack, Canva, Figma, Box, and Clay, with a Salesforce implementation expected soon.",
+              "In each case, the app will enable a logged-in instance of the service that’s accessible to Claude, enabling users to send Slack messages, generate charts, or access cloud files, depending on which apps have been enabled.",
+              "“Analyzing data, designing content, and managing projects all work better with a dedicated visual interface,” Anthropic said in a blog post announcing the feature.",
+              "“Combined with Claude’s intelligence, you can work and iterate faster than either could offer alone.”\nThe new feature is available to Pro, Max, Team, and Enterprise subscribers, but not free users.",
+              "Eligible users can activate the tools at claude.ai/directory.",
+              "The system is similar to OpenAI’s Apps system, which launched in October and also enables interactive third-party tools."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+            "link": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
+            "site_name": "The Verge",
+            "novelty_hash": "0b45985744134d06ae40f2b0208e0dee9c3bac13"
+          },
+          "review": {
+            "headline_rewrite": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+            "bullets": [
+              "Anthropic’s Claude got a bit livelier today thanks to a new extension to MCP, the open-source protocol that allows AI agents to easily access tools and data across the internet.",
+              "As of today, Anthropic said tools like Asana, Figma, Slack, and Canva will “open as interactive apps right inside of chat.” While users could previously connect tools like Slack and Asana to the AI assistant, doing so meant getting text back.",
+              "The company says the new in-app integration means users can actually engage with the tool and “see, explore, and refine results visually, not just read about them.”\nA number of popular tools are already available to use directly in Claude.",
+              "There are also integrations for Figma, Clay, and Box, Anthropic said, with Salesforce tools like Data 360, Agentforce, and Customer 360 apps “coming soon.”\nThe interactivity — something of apps-within-an-app — sounds similar to the “mini” apps embedded inside messaging platforms like Telegram and Discord.",
+              "The integration signals a shift in how AI platforms like ChatGPT and Claude are likely to operate in the future, becoming more like operating systems than individual tools, an “everything app” in the vein of Tencent’s WeChat in China.",
+              "ChatGPT has already made a step in that direction with the launch of its own app ecosystem last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
+            "link": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/",
+            "site_name": "WIRED",
+            "novelty_hash": "c8d0088b14adadda3ed923bc63d25bb05990510c"
+          },
+          "review": {
+            "headline_rewrite": "Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple's M5",
+            "bullets": [
+              "This isn't just another Intel chip launch.",
+              "For years, most updates to Intel's laptop chips have been nothing more than modest performance increases over the previous year.",
+              "That's not the case with the long-awaited arrival of Panther Lake.",
+              "It's a chip design announced almost five years ago as part of the company's ambitious rescue plan to get back on track.",
+              "Intel’s CEO at the time (and mastermind of the grand plan), Pat Gelsinger, called the technology the “cornerstone of the company's turnaround strategy.” Now, I have a laptop in front of me with this Panther Lake chip inside, officially known as the Intel Core Ultra Series 3.",
+              "I'm not sure if the Series 3 will redeem Intel's recent foibles, but these chips certainly feel like a big win for a company that really needs one."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
