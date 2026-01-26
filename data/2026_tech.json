@@ -103889,6 +103889,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:25": [
+        {
+          "item": {
+            "title": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+            "link": "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "80da2357e1c65fb37da5f64a1946edadc68f4f13"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+            "bullets": [
+              "AI weather and climate prediction is more accessible than ever for scientists, startups, developers, enterprises and government agencies worldwide.",
+              "At the American Meteorological Society’s Annual Meeting, NVIDIA today unveiled a new NVIDIA Earth-2 family of open models, libraries and frameworks for weather and climate AI, offering the world’s first fully open, accelerated weather AI software stack.",
+              "These open technologies — including pretrained models, frameworks, customization recipes and inference libraries — accelerate all forecasting stages, from processing initial observation data to generating 15-day global forecasts or local storm forecasts.",
+              "AI-powered weather forecasting saves significant computational time and costs, allowing more nations, weather enterprises and businesses to run application-specific forecasting systems.",
+              "Making production-ready weather AI fully accessible for organizations to run, fine-tune and deploy on their own infrastructure, NVIDIA Earth-2 is the first open, accelerated set of models and tools that enables developers to bring disparate weather and climate AI capabilities together.",
+              "This includes AI weather tool provider Brightband; weather forecasters the Israel Meteorological Service, Taiwan’s Central Weather Administration, The Weather Company and the U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
+            "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "66fa93964585afdca685b1ba3b1a9b1a6c900658"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
+            "bullets": [
+              "Nvidia said on Monday it has invested $2 billion in CoreWeave to hasten the data center company’s efforts to add more than 5 gigawatts of AI computing capacity by 2030.",
+              "The chipmaker, already an investor in CoreWeave, said it had bought the company’s Class A shares at $87.20 per share.",
+              "As part of the deal, CoreWeave and Nvidia plan to together build “AI factories” (data centers) that would use the chipmaker’s products.",
+              "CoreWeave will also integrate Nvidia’s products across its platform, including the new Rubin chip architecture (set to replace the current Blackwell architecture), Bluefield storage systems, as well as the chipmaker’s new CPU line, Vera.",
+              "The deal is a strong show of support for CoreWeave, which has come under scrutiny over the past few months for raising billions in debt to continue building out its data center operations.",
+              "The company’s CEO Michael Intrator has defended its business model (funding operations by raising debt with its GPUs as collateral), and has addressed concerns of circular deals in the AI industry by saying companies have to “work together” to address a “violent change in supply and demand.”\nThe company has managed to successfully ride the AI wave since its transition from a crypto mining company to a provider of data center services for AI training and inference."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
+            "link": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b0e572063ae5462e9c05d5f0c52a44ee59b987f3"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
+            "bullets": [
+              "Or, given how accurate the company claims the new models are, maybe it knew something we didn’t?",
+              "The new AI models promise to make weather forecasting faster and more accurate.",
+              "Nvidia claims that one model in particular, Earth-2 Medium Range, beats Google DeepMind’s AI weather model, GenCast, on more than 70 variables.",
+              "“We’re moving away from hand-tailored niche AI architectures and leaning into the future of simple, scalable, transformer architectures.”\nTraditionally, most weather forecasts rely on simulations of physics as observed in the real world.",
+              "AI models are a relatively recent addition.",
+              "The Earth-2 Medium Range model is based on a new Nvidia architecture called Atlas, about which the company said it would release more details on Monday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Intel Panther Lake laptop CPU review: call it a comeback",
+            "link": "https://www.theverge.com/tech/867214/intel-core-ultra-x9-panther-lake-388h-laptop-cpu-review",
+            "site_name": "The Verge",
+            "novelty_hash": "1fd897814451503f2d91199c7eecc27a24a01cf2"
+          },
+          "review": {
+            "headline_rewrite": "Intel Panther Lake laptop CPU review: call it a comeback",
+            "bullets": [
+              "Intel’s been talking the talk for months about its new generation of laptop chips, the first made on its long-anticipated 18A process.",
+              "18A is meant to steer Intel back toward bluer waters by making its chips better, and, if possible, attracting chip designers like Qualcomm and Nvidia to use Intel’s foundries, not just its rival TSMC’s.",
+              "Last year’s Arrow Lake chips received a mixed reception, particularly desktop versions.",
+              "The mobile-only Lunar Lake chips, on the other hand, were great, showing that the x86 architecture still has plenty of fight in it against a slowly rising tide of Arm-based Windows laptops.",
+              "Panther Lake puts homegrown Intel inside once again.",
+              "Intel Panther Lake laptop CPU review: call it a comeback\nThe first chip of Intel’s 18A process is speedy, even on battery power."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple&#8217;s new AirTag has more range and a better speaker",
+            "link": "https://www.theverge.com/news/867757/apple-airtag-new-uwb-bluetooth-range-speaker",
+            "site_name": "The Verge",
+            "novelty_hash": "92a477f57ae6537aba877030c7bcdf9a3bb05fd1"
+          },
+          "review": {
+            "headline_rewrite": "Apple&#8217;s new AirTag has more range and a better speaker",
+            "bullets": [
+              "Apple has revealed a new AirTag that comes with the company’s upgraded ultra wideband chip, allowing for more precise location tracking.",
+              "It has the same $29 for one or $99 for a four-pack price as the AirTag it’s replacing, while the new chip powers Apple’s Precision Finding feature, which uses haptic, visual, and audio feedback to guide you to items from up to “50 percent farther away.”\nApple’s new AirTag has more range and a better speaker\nFive years after releasing its first AirTag, Apple’s giving it an upgrade.",
+              "Along with more accurate location tracking, the new AirTag has an updated speaker that Apple says is 50 percent louder, as well as a Bluetooth chip that “expands the range at which items can be located.",
+              "The new AirTag is compatible with all existing accessories.",
+              "Apple notes that the AirTag “doesn’t physically store location data or history on device,” while end-to-end encryption secures communication with its Find My network.",
+              "It adds that the AirTag also includes measures to protect against unwanted tracking, “including cross-platform alerts and unique Bluetooth identifiers that change frequently.” Apple partnered with Google in 2023 on an industry standard designed to help limit AirTag tracking."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "EU launches formal investigation of xAI over Grok's sexualized deepfakes",
+            "link": "https://www.ft.com/content/f5ed0160-7098-4e63-88e5-8b3f70499b02",
+            "site_name": "Ars Technica",
+            "novelty_hash": "f843d56e910960dbb7c70684d39f24532d5c0d3f"
+          },
+          "review": {
+            "headline_rewrite": "EU launches formal investigation of xAI over Grok's sexualized deepfakes",
+            "bullets": [
+              "The EU has launched a formal investigation into Elon Musk’s xAI following a public outcry over how its Grok chatbot spread sexualized images of women and children.",
+              "The billionaire entrepreneur has come under scrutiny from regulators around the world this month after people began using Grok to generate deepfakes of people without consent.",
+              "The images were posted on the X social network as well as the separate Grok app, both of which are run by xAI.",
+              "The probe, announced on Monday under the EU’s Digital Services Act, will assess if xAI tried to mitigate the risks of deploying Grok’s tools on X and the proliferation of content that “may amount to child sexual abuse material.”\n“Non-consensual sexual deepfakes of women and children are a violent, unacceptable form of degradation,” the EU’s tech chief, Henna Virkkunen, said.",
+              "“With this investigation, we will determine whether X has met its legal obligations under the DSA, or whether it treated rights of European citizens—including those of women and children—as collateral damage of its service.”\nIf the company is found to be in breach of the rules, the bloc can impose fines worth up to 6 percent of the worldwide annual turnover.",
+              "An EU official said there will be no interim measures during the investigation."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
