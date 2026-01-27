@@ -109271,6 +109271,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:53": [
+        {
+          "item": {
+            "title": "Bluesky teases 2026 roadmap: A better Discover feed, real-time features, and more",
+            "link": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8e79641f2dda6c6dc45aa4c634a3380bbfbf638c"
+          },
+          "review": {
+            "headline_rewrite": "Bluesky teases 2026 roadmap: A better Discover feed, real-time features, and more",
+            "bullets": [
+              "Launched to the public in early 2024 after an invite-only period, the decentralized X and Threads alternative has since scaled to over 42 million users, according to data sourced directly from the Bluesky API for developers.",
+              "Though it’s differentiated from mainstream social media with its custom feeds and configurable algorithms, Bluesky hasn’t caught up to rivals with regard to basic features, like private accounts, drafts, support for longer videos, and more.",
+              "Bluesky’s head of product, Alex Benzer, acknowledged some of these concerns in a new post on the company’s website, where he said that the “basics need to be solid” before Bluesky can expect users to stick around.",
+              "Those remarks come after a usage slowdown on Bluesky, which saw a 40% year-over-year drop in daily active users as of October 2025, according to data from market intelligence provider Similarweb, as reported by Forbes.",
+              "In addition to supporting drafts, Benzer said the app’s composer should handle media better, noting that three-minute-long videos aren’t enough, and videos should upload faster.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anduril has invented a wild new drone flying contest where jobs are the prize",
+            "link": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "68a8ad1982b29ccef1686afa49869d1a98573053"
+          },
+          "review": {
+            "headline_rewrite": "Anduril has invented a wild new drone flying contest where jobs are the prize",
+            "bullets": [
+              "Palmer Luckey’s eyes light up, and he talks a mile a minute, when discussing his company’s new recruiting event: the AI Grand Prix.",
+              "“It was something that I decided we should do,” Anduril founder Luckey said in an interview with TechCrunch.",
+              "Luckey generally liked the idea but then said, “‘Guys, that would be a really dumb thing for Anduril to sponsor.",
+              "Interestingly, though, Luckey pointed out that the teams in the AI Grand Prix will not be flying Anduril’s drones, but those built by another defense tech startup: Neros Technologies.",
+              "According to Luckey, Anduril’s drones are too physically big to run in the contained course in Ohio where the finals will take place.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The best budget robot vacuums",
+            "link": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+            "site_name": "The Verge",
+            "novelty_hash": "8a8a9ae772beedb283810eb8caa536cf240a93d0"
+          },
+          "review": {
+            "headline_rewrite": "The best budget robot vacuums",
+            "bullets": [
+              "Today’s robot vacuums are becoming a bit like cars: with all the features, upgrades, and fancy trimmings available these days, it’s easy to forget that they can just be simple machines that get us from point A to point B.",
+              "Yes, some bots blow hot air on their bums (mop pads), deftly navigate dog poop, and have arms to pick up your socks, but there are plenty of basic budget robot vacuums that just do a decent job of cleaning your floor autonomously — as long as you tidy up first.",
+              "Fancier models have obstacle recognition, and some even use AI-powered cameras to tell popcorn from poop and avoid the latter.",
+              "What I’m looking for\nTo judge its vacuuming power, I run every robot vacuum through a series of tests on hardwood and carpet, including flour, kitty litter, oatmeal, and pet and human hair.",
+              "I also examine each robot’s build quality and parts availability, and I totally judge them based on how much my cat Boone likes to play with them.",
+              "With so many new models coming out almost daily, it’s better to look for a sale on an older model from a well-known company than buy a no-name budget bot."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "There's a rash of scam spam coming from a real Microsoft address",
+            "link": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4975c08bed01ce0336a310167fe3b11614bf28c3"
+          },
+          "review": {
+            "headline_rewrite": "There's a rash of scam spam coming from a real Microsoft address",
+            "bullets": [
+              "There are reports that a legitimate Microsoft email address—which Microsoft explicitly says customers should add to their allow list—is delivering scam spam.",
+              "The emails originate from no-reply-powerbi@microsoft.com, an address tied to Power BI.",
+              "Microsoft documentation says that the address is used to send subscription emails to mail-enabled security groups.",
+              "From Microsoft, with malice\nAccording to an Ars reader, the address on Tuesday sent her an email claiming (falsely) that a $399 charge had been made to her.",
+              "The email, captured in the two screenshots below, looked like this:\nOnline searches returned a dozen or so accounts of other people reporting receiving the same email.",
+              "Sarah Sabotka, a threat researcher at security firm Proofpoint, said the scammers are abusing a Power Bi function that allows external email addresses to be added as subscribers for the Power Bi reports."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The winter storm tested power grids straining to accommodate AI data centers",
+            "link": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm",
+            "site_name": "The Verge",
+            "novelty_hash": "fbcb6172309d54012c0d2edc831f0b0f2396ca7a"
+          },
+          "review": {
+            "headline_rewrite": "The winter storm tested power grids straining to accommodate AI data centers",
+            "bullets": [
+              "Bitterly cold temperatures lingering after Winter Storm Fern are still testing power grids, already under stress from a rush of new AI data centers.",
+              "The winter storm tested power grids straining to accommodate AI data centers\nElectricity costs spiked around ‘data center alley’ as frigid temperatures threatened the power grid.",
+              "Utilities and grid operators were already hard-pressed to meet the increasing power needs of AI, which can make it even harder to prepare ahead of a weather disaster.",
+              "“It’s certainly causing more pricing volatility,” says Nikhil Kumar, program director at energy consulting firm GridLab.",
+              "“It’s certainly causing more pricing volatility”\nKeep in mind that many different issues drive up energy costs.",
+              "Electricity demand is rising more steeply than it has in more than a decade because of AI data centers, as well as domestic manufacturing and the electrification of homes and buildings."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mark Zuckerberg was initially opposed to parental controls for AI chatbots, according to legal filing",
+            "link": "https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html",
+            "site_name": "Engadget",
+            "novelty_hash": "78e82c3a6a6ce5ebfc9dbce79a3440b3c7bbec96"
+          },
+          "review": {
+            "headline_rewrite": "Mark Zuckerberg was initially opposed to parental controls for AI chatbots, according to legal filing",
+            "bullets": [
+              "Meta has faced some serious questions about how it allows its underage users to interact with AI-powered chatbots.",
+              "Most recently, internal communications obtained by the New Mexico Attorney General's Office revealed that although Meta CEO Mark Zuckerberg was opposed to the chatbots having \"explicit\" conversations with minors, he also rejected the idea of placing parental controls on the feature.",
+              "Reuters reported that in an exchange between two unnamed Meta employees, one wrote that we \"pushed hard for parental controls to turn GenAI off – but GenAI leadership pushed back stating Mark decision.” New Mexico is suing Meta on charges that the company “failed to stem the tide of damaging sexual material and sexual propositions delivered to children;” the case is scheduled to go to trial in February.",
+              "Despite only being available for a brief time, Meta's chatbots have already accumulated quite a history of behavior that veers into offensive if not outright illegal.",
+              "The report claimed that Zuckerberg had wanted looser guards implemented around Meta's chatbots, but a spokesperson denied that the company had overlooked protections for children and teens.",
+              "Internal review documents revealed in August 2025 detailed several hypothetical situations of what chatbot behaviors would be permitted, and the lines between sensual and sexual seemed pretty hazy."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
