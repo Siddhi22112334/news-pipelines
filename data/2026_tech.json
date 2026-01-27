@@ -107526,6 +107526,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:01": [
+        {
+          "item": {
+            "title": "Become the main character in a new city with AI features from Google Arts & Culture",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/city-guide-and-comic-postcards/",
+            "site_name": "Google",
+            "novelty_hash": "38830c93495ac6dc26423021089103168bbb3273"
+          },
+          "review": {
+            "headline_rewrite": "Become the main character in a new city with AI features from Google Arts & Culture",
+            "bullets": [
+              "Become the main character in a new city with AI features from Google Arts & Culture\nToday, we’re launching two experimental features in the Google Arts & Culture app that look beyond the logistics of travel to spark inspiration for where to go and what to see.",
+              "We’re exploring how AI can move beyond generic recommendations to surface a mix of landmarks and live cultural events that actually match your tastes.",
+              "We're launching this pilot for 11 cities: London, Tokyo, New York, Paris, Rome, Barcelona, Istanbul, Osaka, Berlin, Madrid and San Francisco.",
+              "This generative AI experience places you inside a dynamic narrative set specifically in the city you’re exploring."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "China’s Moonshot releases a new open-source model Kimi K2.5 and a coding agent",
+            "link": "https://techcrunch.com/2026/01/27/chinas-moonshot-releases-a-new-open-source-model-kimi-k2-5-and-a-coding-agent/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b3b134452c26fb6687f1a7f33c80207a8323a282"
+          },
+          "review": {
+            "headline_rewrite": "China’s Moonshot releases a new open-source model Kimi K2.5 and a coding agent",
+            "bullets": [
+              "China’s Moonshot AI, which is backed by the likes of Alibaba and HongShan (formerly Sequioa China), today released a new open-source model, Kimi K2.5, which understands text, image, and video.",
+              "The company said that the model was trained on 15 trillion mixed visual and text tokens, and that’s why it is natively multimodal.",
+              "In released benchmarks, the model matches the performance of the proprietary peers and even beats them in certain tasks.",
+              "Moonshot AI said that on the coding front, while the model can understand text well, users can also feed it images or videos and ask it to make a similar interface shown in those media files.",
+              "To let people use these coding capabilities, the company has launched an open-source coding tool called Kimi Code, which would rival Anthropic’s Claude Code or Google’s Gemini CLI.",
+              "The startup said that developers can use images and videos as input with Kimi Code."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Luminar receives a larger $33 million bid for its lidar business",
+            "link": "https://techcrunch.com/2026/01/27/luminar-receives-a-larger-33-million-bid-for-its-lidar-business/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4a72b2cbac27fe90da286f16fbd608d723f108c9"
+          },
+          "review": {
+            "headline_rewrite": "Luminar receives a larger $33 million bid for its lidar business",
+            "bullets": [
+              "laid out a few weeks ago as the so-called “stalking horse” bidder.",
+              "had upped its bid to $28 million but apparently was unwilling or unable to go higher.)\nIn a statement, MicroVision said Tuesday that it is acquiring “IP and inventory related to the Iris and Halo lidar sensors, key engineering and operations talent, and certain commercial contracts and orders.”\n“It’s no secret that the lidar market has been ripe for disruption and in need of further consolidation,” MicroVision CEO Glen DeVos said.",
+              "“Building on our proven executive leadership in automotive, our history of developing and delivering products in defense, and now an even more expansive portfolio of technologically diverse lidar sensors and advanced perception solutions, we believe MicroVision is ready to upend the industry, enabling widespread commercial adoption and significantly increased safety.”\nThe sale of Luminar’s lidar business will now be subject to approval by the judge in the bankruptcy case.",
+              "Russell, through his new venture Russell AI Labs, tried to buy the company outright in October 2025 before it filed for bankruptcy, and he expressed an interest on making a bid during the bankruptcy process.",
+              "That said, Russell and Luminar spent the first month of the bankruptcy case fighting over a subpoena.",
+              "The company has said it is still evaluating whether to take legal action against Russell, tied to his resignation last May, which followed a board-run ethics inquiry."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Photos now lets you describe how to transform images into video",
+            "link": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support",
+            "site_name": "The Verge",
+            "novelty_hash": "1cb76903e0642ba62bfdef3e7518c0173afbfd0b"
+          },
+          "review": {
+            "headline_rewrite": "Google Photos now lets you describe how to transform images into video",
+            "bullets": [
+              "Google is giving Photos users more control over the app’s generative AI photo-to-video feature.",
+              "Text prompts join the existing “Subtle Movement” and “I’m feeling lucky” options that are already available for Google Photos’ image-to-video tool — neither of which allowed users to enter their own descriptions to guide the results.",
+              "This age restriction only applies to Google’s image-to-video tool in Photos, however — text prompts have been available for the same capabilities in Gemini for some time, and are available to any users who are 13 or older.",
+              "The ability to add descriptive prompts brings Photos’ image-to-video tool more in line with rival AI editors like xAI’s Grok, which was notably abused to undress photos of real people and children.",
+              "Generative AI features in Google Photos aren’t available in all regions yet, and the exact functionality can vary by location.",
+              "In another update, Google introduced a new Google Photos picker for Gmail that makes it easier to share images and videos from your albums, collections, and shared albums over email."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Pinterest cuts workforce by around 15 percent to focus on AI",
+            "link": "https://www.theverge.com/news/868531/pinterest-layoffs-cuts-15-percent-ai-transformation",
+            "site_name": "The Verge",
+            "novelty_hash": "54f50c9c014faadcd11c6740d837aac9cf0bad75"
+          },
+          "review": {
+            "headline_rewrite": "Pinterest cuts workforce by around 15 percent to focus on AI",
+            "bullets": [
+              "Pinterest cuts workforce by around 15 percent to focus on AI\nUp to 700 employees are set to be laid off by September 30th.",
+              "Pinterest said it had 4,666 full-time employees as of the end of 2024, which would mean around 700 staffers are impacted by today’s announcement.",
+              "The document said these changes are to support three “transformation initiatives,” with two of them connected to AI:\n- Reallocating resources to AI-focused roles and teams that drive AI adoption and execution\n- Prioritizing AI‑powered products and capabilities\n- Accelerating the transformation of its sales and go-to-market approach\nOff the back of these changes, Pinterest is set to incur pre-tax restructuring charges of approximately $35 million to $45 million."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This Humanoid Is Ready to Bring You a Toothbrush",
+            "link": "https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/",
+            "site_name": "WIRED",
+            "novelty_hash": "24a6bf3c655460db8225121725319202dbada5bf"
+          },
+          "review": {
+            "headline_rewrite": "This Humanoid Is Ready to Bring You a Toothbrush",
+            "bullets": [
+              "“We said, ‘What if we could build something lightweight, engaging, and safe to be around, and capable enough to do some exciting things?’” says Robert Cochran, cofounder and CEO of Fauna, the startup behind Sprout.",
+              "Sprout is available to purchase starting today from $50,000.",
+              "Sprout’s launch is part of a growing industry in the United States.",
+              "More than a dozen US companies are working on humanoids, including Boston Dynamics, which recently signed a deal to use Google’s AI in its robots; Tesla, which is developing a system called Optimus; and startups like Agility Robotics, Figure AI, and 1X.",
+              "Unitree, a Chinese robot maker, has also found success selling inexpensive humanoids for entertainment and research purposes.",
+              "The robot can also be teleoperated out of the box, which can be helpful for robot training purposes."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
