@@ -109393,6 +109393,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:17": [
+        {
+          "item": {
+            "title": "Anduril has invented a wild new drone flying contest where jobs are the prize",
+            "link": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "41b97afd30003384ab60e3449906fdf431a784c9"
+          },
+          "review": {
+            "headline_rewrite": "Anduril has invented a wild new drone flying contest where jobs are the prize",
+            "bullets": [
+              "Palmer Luckey’s eyes light up, and he talks a mile a minute, when discussing his company’s new recruiting event: the AI Grand Prix.",
+              "“It was something that I decided we should do,” Anduril founder Luckey said in an interview with TechCrunch.",
+              "Luckey generally liked the idea but then said, “‘Guys, that would be a really dumb thing for Anduril to sponsor.",
+              "Interestingly, though, Luckey pointed out that the teams in the AI Grand Prix will not be flying Anduril’s drones, but those built by another defense tech startup: Neros Technologies.",
+              "According to Luckey, Anduril’s drones are too physically big to run in the contained course in Ohio where the finals will take place.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech’s new obsession",
+            "link": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent",
+            "site_name": "The Verge",
+            "novelty_hash": "a3c12e4aada46c19719dfb19f8cf4596023bd548"
+          },
+          "review": {
+            "headline_rewrite": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech’s new obsession",
+            "bullets": [
+              "An open-source AI agent that “actually does things” is taking off, with people across the web sharing how they’re using the agent to do a whole bunch of things, like manage reminders, log health and fitness data, and even communicate with clients.",
+              "Moltbot, the AI agent that ‘actually does things,’ is tech’s new obsession\nBut giving an AI agent access to your account credentials and your entire computer system poses some risks, even if it runs on your desktop.",
+              "Federico Viticci at MacStories highlighted how he installed Moltbot on his M4 Mac Mini and transformed it into a tool that delivers daily audio recaps based on his activity in his calendar, Notion, and Todoist apps.",
+              "Another person prompted Moltbot to give itself an animated face, and said it added a sleep animation without prompting.",
+              "Moltbot routes your request through the AI provider of your choice, such as OpenAI, Anthropic, or Google.",
+              "Like many of the AI agents we’ve seen so far, Moltbot can fill out forms inside your browser, send emails for you, and manage your calendar — but it does so a lot more efficiently, at least according to some of the people using the tool."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "There's a rash of scam spam coming from a real Microsoft address",
+            "link": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4975c08bed01ce0336a310167fe3b11614bf28c3"
+          },
+          "review": {
+            "headline_rewrite": "There's a rash of scam spam coming from a real Microsoft address",
+            "bullets": [
+              "There are reports that a legitimate Microsoft email address—which Microsoft explicitly says customers should add to their allow list—is delivering scam spam.",
+              "The emails originate from no-reply-powerbi@microsoft.com, an address tied to Power BI.",
+              "Microsoft documentation says that the address is used to send subscription emails to mail-enabled security groups.",
+              "From Microsoft, with malice\nAccording to an Ars reader, the address on Tuesday sent her an email claiming (falsely) that a $399 charge had been made to her.",
+              "The email, captured in the two screenshots below, looked like this:\nOnline searches returned a dozen or so accounts of other people reporting receiving the same email.",
+              "Sarah Sabotka, a threat researcher at security firm Proofpoint, said the scammers are abusing a Power Bi function that allows external email addresses to be added as subscribers for the Power Bi reports."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The winter storm tested power grids straining to accommodate AI data centers",
+            "link": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm",
+            "site_name": "The Verge",
+            "novelty_hash": "fbcb6172309d54012c0d2edc831f0b0f2396ca7a"
+          },
+          "review": {
+            "headline_rewrite": "The winter storm tested power grids straining to accommodate AI data centers",
+            "bullets": [
+              "Bitterly cold temperatures lingering after Winter Storm Fern are still testing power grids, already under stress from a rush of new AI data centers.",
+              "The winter storm tested power grids straining to accommodate AI data centers\nElectricity costs spiked around ‘data center alley’ as frigid temperatures threatened the power grid.",
+              "Utilities and grid operators were already hard-pressed to meet the increasing power needs of AI, which can make it even harder to prepare ahead of a weather disaster.",
+              "“It’s certainly causing more pricing volatility,” says Nikhil Kumar, program director at energy consulting firm GridLab.",
+              "“It’s certainly causing more pricing volatility”\nKeep in mind that many different issues drive up energy costs.",
+              "Electricity demand is rising more steeply than it has in more than a decade because of AI data centers, as well as domestic manufacturing and the electrification of homes and buildings."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mark Zuckerberg was initially opposed to parental controls for AI chatbots, according to legal filing",
+            "link": "https://www.engadget.com/social-media/mark-zuckerberg-was-initially-opposed-to-parental-controls-for-ai-chatbots-according-to-legal-filing-230110214.html",
+            "site_name": "Engadget",
+            "novelty_hash": "78e82c3a6a6ce5ebfc9dbce79a3440b3c7bbec96"
+          },
+          "review": {
+            "headline_rewrite": "Mark Zuckerberg was initially opposed to parental controls for AI chatbots, according to legal filing",
+            "bullets": [
+              "Meta has faced some serious questions about how it allows its underage users to interact with AI-powered chatbots.",
+              "Most recently, internal communications obtained by the New Mexico Attorney General's Office revealed that although Meta CEO Mark Zuckerberg was opposed to the chatbots having \"explicit\" conversations with minors, he also rejected the idea of placing parental controls on the feature.",
+              "Reuters reported that in an exchange between two unnamed Meta employees, one wrote that we \"pushed hard for parental controls to turn GenAI off – but GenAI leadership pushed back stating Mark decision.” New Mexico is suing Meta on charges that the company “failed to stem the tide of damaging sexual material and sexual propositions delivered to children;” the case is scheduled to go to trial in February.",
+              "Despite only being available for a brief time, Meta's chatbots have already accumulated quite a history of behavior that veers into offensive if not outright illegal.",
+              "The report claimed that Zuckerberg had wanted looser guards implemented around Meta's chatbots, but a spokesperson denied that the company had overlooked protections for children and teens.",
+              "Internal review documents revealed in August 2025 detailed several hypothetical situations of what chatbot behaviors would be permitted, and the lines between sensual and sexual seemed pretty hazy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta blocks links to ICE List, a Wiki that names agents",
+            "link": "https://www.engadget.com/social-media/meta-blocks-links-to-ice-list-a-wiki-that-names-agents-231410653.html",
+            "site_name": "Engadget",
+            "novelty_hash": "64e870a4a4ba3530beef70b734fb6018c6f1b286"
+          },
+          "review": {
+            "headline_rewrite": "Meta blocks links to ICE List, a Wiki that names agents",
+            "bullets": [
+              "It seems that the latter detail is what caused Meta to take action in a move that was first reported by Wired.",
+              "ICE List is a crowdsourced Wiki that describes itself as \"an independently maintained public documentation project focused on immigration-enforcement activity\" in the US.",
+              "\"Its purpose is to record, organize, and preserve verifiable information about enforcement actions, agents, facilities, vehicles, and related incidents that would otherwise remain fragmented, difficult to access, or undocumented,\" its website states.",
+              "According to Wired, the website's creators said much of that information had come from a \"leak,\" though it appears to be based largely on public LinkedIn profiles.",
+              "As Wired notes:\nThe site went viral earlier this month when it claimed to have uploaded a leaked list of 4,500 DHS employees to its site, but a WIRED analysis found that the list relied heavily on information the employees shared publicly about themselves on sites such as LinkedIn.",
+              "When reached for comment, a Meta spokesperson pointed to the company's privacy policy barring the disclosure of personally identifiable information (PII)."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
