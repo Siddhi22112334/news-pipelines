@@ -108698,6 +108698,117 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:19": [
+        {
+          "item": {
+            "title": "Introducing Agentic Vision in Gemini 3 Flash",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash/",
+            "site_name": "Google",
+            "novelty_hash": "c74c28d7304820ae45926451712bfc220b59cdbd"
+          },
+          "review": {
+            "headline_rewrite": "Introducing Agentic Vision in Gemini 3 Flash",
+            "bullets": [
+              "Introducing Agentic Vision in Gemini 3 Flash\nFrontier AI models like Gemini typically process the world in a single, static glance.",
+              "If they miss a fine-grained detail — like a serial number on a microchip or a distant street sign — they are forced to guess.",
+              "Agentic Vision: a new frontier AI capability\nAgentic Vision introduces an agentic Think, Act, Observe loop into image understanding tasks:\n- Think: the model analyzes the user query and the initial image, formulating a multi-step plan.",
+              "Agentic Vision in action\nBy enabling code execution in the API, you can unlock many new behaviors, many of which are highlighted in our demo app in Google AI Studio.",
+              "From big products like the Gemini app to smaller startups, developers have already started integrating the capability to unlock many use cases, including:\n1.",
+              "Zooming and inspecting\nGemini 3 Flash is trained to implicitly zoom when detecting fine-grained details."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
+            "link": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5b845c09f4b628c147deaf2be5e89cca417ed99e"
+          },
+          "review": {
+            "headline_rewrite": "Amazon agrees to pay consumers $309M in returns policy settlement",
+            "bullets": [
+              "Amazon has reached a settlement valued at more than $1 billion to resolve claims that it failed to properly refund customers for their returns.",
+              "The settlement includes more than $600 million already distributed or soon to be paid in refunds, plus an additional funds that will be paid out to affected consumers, according to court documents.",
+              "The company has already issued about $570 million in refunds, with about $34 million of refunds remaining.",
+              "“Following an internal review in 2025, we identified a small subset of returns where we issued a refund without the payment completing, or where we could not verify that the correct item had been sent back to us, so no refund had been issued,” Amazon said in a statement emailed to TechCrunch.",
+              "Amazon is currently accepting claims from impacted customers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TikTok joins Snap to settle social media addiction lawsuit",
+            "link": "https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ffaf29b7753340281ab72d92ce74e7cb73fd7d9a"
+          },
+          "review": {
+            "headline_rewrite": "TikTok joins Snap to settle social media addiction lawsuit",
+            "bullets": [
+              "TikTok settled a high-profile lawsuit on Monday evening, which alleges that social media companies intentionally make their products addictive, causing harm to users.",
+              "Centering around a 19-year-old plaintiff known by the initials K.G.M., this case is the first of many similar legal challenges against social platforms.",
+              "Rather, they came to an agreement with the plaintiff outside of court, though the terms of these settlements are not known."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Razer’s testing a new tool for customizing its keyboards in your browser",
+            "link": "https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings",
+            "site_name": "The Verge",
+            "novelty_hash": "3ef93c6ca2bcb3f364021349d0e43889e6b91e8f"
+          },
+          "review": {
+            "headline_rewrite": "Razer’s testing a new tool for customizing its keyboards in your browser",
+            "bullets": [
+              "Razer has announced the beta release of a new online customization tool compatible with several versions of its Huntsman V3 Pro keyboards at launch.",
+              "Razer Synapse Web is now available for testing but is only compatible with Chromium-based browsers including Google Chrome, Opera, Brave, and Microsoft Edge.",
+              "It currently supports the Razer Huntsman V3 Pro 8KHz, Huntsman V3 Pro TKL 8KHz, and Huntsman V3 Pro Mini keyboards, but the company says support for more hardware will “follow as the platform expands.”\nThe browser-based tool is described as a “lightweight tuning hub” and won’t feature all options available through Razer’s desktop software."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon shutters all of its physical Go and Fresh stores",
+            "link": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
+            "site_name": "The Verge",
+            "novelty_hash": "6be02052ba6b2a6ed9b92fdbda64a02dc4349753"
+          },
+          "review": {
+            "headline_rewrite": "Amazon shutters all of its physical Go and Fresh stores",
+            "bullets": [
+              "That expansion includes over 100 new Whole Foods Market locations opening over the next few years, along with five new locations for the smaller, convenience store-style Whole Foods Market Daily Shop.",
+              "Amazon also stated that it will still be “testing new physical store experiences,” like its Amazon Grocery location in Chicago and a Whole Foods concept store in Pennsylvania where shoppers can also purchase products from Amazon."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon Alexa+ Is Now Available to Everyone. Here’s How to Turn It Off (2026)",
+            "link": "https://www.wired.com/story/alexa-plus-early-access-rollout-2026/",
+            "site_name": "WIRED",
+            "novelty_hash": "b4e01be5b0ac9190fa81c6d9a01fd0c4bdd3f815"
+          },
+          "review": {
+            "headline_rewrite": "Amazon Alexa+ Is Now Available to Everyone. Here’s How to Turn It Off (2026)",
+            "bullets": [
+              "If Alexa’s in your home, you might’ve been one of many users this month who were suddenly moved from the original Alexa to the new AI-powered Alexa+ voice assistant.",
+              "Alexa+ is still in Early Access, as it has been since it launched in spring last year, meaning that the assistant isn't fully complete, nor is it requiring you to pay the $20 monthly fee if you don't have Prime.",
+              "However, the waiting list is done, and it's become fully available.",
+              "Part of the news announced at CES was that Alexa+ will also be widely available on Alexa.com if you want Alexa's help while you're using your browser.",
+              "This is more of a move to compete with ChatGPT than it is something to help your day-to-day use of Alexa, but I guess it's nice if you're looking for a single AI service to use across smart home devices, apps, and the browser.",
+              "Amazon says users were notified via email, in the Alexa app, and on Echo and Echo Show devices about upgrading from the basic Alexa to the new Alexa+."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
