@@ -108238,5 +108238,128 @@
         }
       ]
     }
+  },
+  "2026-01-28": {
+    "runs": {
+      "00:08": [
+        {
+          "item": {
+            "title": "New developer tools for Google AI Pro and Ultra subscribers",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-mode-ai-overviews-updates/",
+            "site_name": "Google",
+            "novelty_hash": "2e1e8ad680fbfc4d9b56b736f235ba95d88f0098"
+          },
+          "review": {
+            "headline_rewrite": "New developer tools for Google AI Pro and Ultra subscribers",
+            "bullets": [
+              "New developer tools for Google AI Pro and Ultra subscribers\nThere’s a specific kind of magic in getting a generative AI model to do exactly what you want.",
+              "That’s why we’ve just integrated Google Developer Program (GDP) premium benefits directly into Google AI Pro and Google AI Ultra subscriptions at no extra cost.",
+              "This includes $10 per month in Google Cloud credits for Google AI Pro subscribers and $100 per month for Google AI Ultra subscribers.",
+              "But moving to production usually meant navigating a separate setup for Google Cloud billing.",
+              "By integrating GDP premium in Google AI Pro and Google AI Ultra, you get the resources you need to ship what you build, through Google Cloud credits.",
+              "We’re connecting the dots to create a seamless workflow from idea to \"Hello, World.\"\n- Prototype and build: You can start by refining your prompts in Google AI Studio, dive into our new agentic IDE, Google Antigravity, or tap our open-source AI agent in the terminal with Gemini CLI."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+            "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-plus-availability/",
+            "site_name": "Google",
+            "novelty_hash": "ab4bcbd53fc7f18e1868919d4cd69c85f1307d63"
+          },
+          "review": {
+            "headline_rewrite": "Google AI Plus is now available everywhere our AI plans are available, including the U.S.",
+            "bullets": [
+              "Today, we’re launching Google AI Plus in 35 new countries and territories, including the U.S., making it available everywhere Google AI plans are available and helping people do more with Google AI for less.",
+              "Google AI Plus opens up access to powerful AI models and tools to level up your productivity and creativity, all at an accessible price.",
+              "This includes Gemini 3 Pro and Nano Banana Pro in the Gemini app, AI filmmaking tools in Flow, research and writing assistance in NotebookLM and more.",
+              "Existing Google One Premium 2TB subscribers in these countries will also automatically get access to all the benefits of Google AI Plus in the next few days.",
+              "In the U.S., Google AI Plus is available for $7.99/month 1 ."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+            "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "99a53846af5cd9decb8ea97d95c7694f6cc14492"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+            "bullets": [
+              "Amodei focused on the importance of preserving democracy at home, both on NBC and in a post on X that specifically called out “the horror we’re seeing in Minnesota.” On NBC, he said he’s a believer in arming democracies to defend against autocratic countries, and that “we need to defend our own democratic values at home.” He added that Anthropic has no contracts with Immigration and Customs Enforcement (ICE).",
+              "Meanwhile, in an internal Slack message to OpenAI employees that got leaked to the New York Times, Sam Altman said, “What’s happening with ICE is going too far.”\n“Part of loving the country is the American duty to push back against overreach,” Altman wrote.",
+              "In an open letter, tech workers also urged their CEOs to cancel all company contracts with ICE and speak out publicly against ICE’s violence.",
+              "“We’re glad to hear the CEOs of OpenAI and Anthropic condemning the ICE murders,” the ICEout.tech organizers, whose identities remain unknown, told TechCrunch.",
+              "“Now we need to hear from CEOs of Apple, Google, Microsoft and Meta, all of whom have remained silent despite calls all across the industry.”\nDisrupt 2026 Tickets: One-time offer\nTickets are live!",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "WhatsApp is rolling out a new stricter security setting to protect users from cyber attacts",
+            "link": "https://techcrunch.com/2026/01/27/whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0f47918755f2b811a0fcd266ceddebb90b247dcc"
+          },
+          "review": {
+            "headline_rewrite": "WhatsApp is rolling out a new stricter security setting to protect users from cyber attacts",
+            "bullets": [
+              "Days after Meta was sued over alleged false privacy claims surrounding its chat app WhatsApp, the company has rolled out a new setting to protect users against cyber attacks.",
+              "When someone turns this option on, by default, two-step verification is turned on along with security notifications that alert someone when the code of someone they are chatting with changes.",
+              "WhatsApp also restricts your last seen and online, profile photo, about details, and links on your profile are locked to only your contacts.",
+              "The company said this “lockdown-styled” feature will be rolling out in the coming weeks and is useful for journalists and public figures.",
+              "“Strict account settings are an optional, lockdown-style security feature that, when enabled, reduces your vulnerability to cyber attack by limiting functionality.",
+              "Meta said that users can only change this setting from their primary device and not from a companion platform like WhatsApp for Web or Windows."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE",
+            "link": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/",
+            "site_name": "WIRED",
+            "novelty_hash": "0281685b81fed9a19b1713f5fbc84b4bc8909ea6"
+          },
+          "review": {
+            "headline_rewrite": "Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE",
+            "bullets": [
+              "Employees at Google DeepMind have asked the company’s leadership for plans and policies to keep them “physically safe” from Immigration and Customs Enforcement (ICE) while on the company’s premises, according to screenshots of internal messages obtained by WIRED.",
+              "On Monday morning, two days after federal agents shot and killed Minneapolis nurse Alex Pretti, a Google DeepMind employee sent the following message in an internal message board for the company’s roughly 3,000-person AI unit:\n“US focused question: What is GDM doing to keep us physically safe from ICE?",
+              "The events of the past week have shown that immigration status, citizenship, or even the law is not a deterrent against detention, violence, or even death from federal operatives.”\nIt continues: “What kinds of plans and policies are in place to ensure our safety at the office?",
+              "As we have seen, government agency tactics can change and escalate quite rapidly.",
+              "In fact, Google’s top brass—including CEO Sundar Pichai and DeepMind CEO Demis Hassabis—have remained silent on Pretti’s killing even inside the company, sources say.",
+              "The messages show some of the latest divisions forming between AI firms and their employees over the Trump administration’s deployment of federal immigration agents across America."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "An app developer is suing Apple for Sherlocking it with Continuity Camera",
+            "link": "https://www.theverge.com/news/868740/apple-reincubate-lawsuit-camo-continuity-camera",
+            "site_name": "The Verge",
+            "novelty_hash": "a49c9ff503761e426051119cce8ce3fefe97d33b"
+          },
+          "review": {
+            "headline_rewrite": "An app developer is suing Apple for Sherlocking it with Continuity Camera",
+            "bullets": [
+              "Camo first launched in 2020, but two years after, Apple launched a similar feature called Continuity Camera, which works just with Apple devices.",
+              "But when Apple recognized that Camo was a threat—it took steps not only to copy it, thereby infringing Reincubate’s patents, but also to undermine Camo’s functionality such that Reincubate could not compete with Apple’s rip-off, called Continuity Camera, which was only operable between Apple devices and Mac computers.”\nReincube CEO Aidan Fitzpatrick says in a blog post that Apple was an early supporter of Camo in beta, claiming that the company had “thousands of staff” running it internally and had made “all sorts of promises” about how they could help with the app.",
+              "Fitzpatrick says he was “puzzled” by the launch of Continuity Camera.",
+              "A global pandemic had been underway, and I figured that if Apple was focused on user needs, recognised the problems with their cameras and the move to remote and hybrid work, they might seek to rapidly replicate innovation, perhaps even with a point release, while also putting in play some multi-year initiative to lead with the cameras in MacBooks.”\nAccording to Fitzpatrick, this suit raises questions about larger concerns than Camo, namely, “whether there’s room for developers to stimulate the building blocks of the digital experience, or whether we must limit ourselves to building platforms that stand alone in the cloud, or ideas that are too insignificant to duplicate and freeze out.”\nApple didn’t immediately reply to a request for comment."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
