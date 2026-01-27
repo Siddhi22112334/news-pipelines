@@ -105700,6 +105700,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "07:15": [
+        {
+          "item": {
+            "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+            "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0a74d8bc9ddbe97e7a4a1df18cc35daa2ea544b8"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+            "bullets": [
+              "As demand grows for privacy-first enterprise AI that can run without sending sensitive data to the cloud, SpotDraft has raised $8 million from Qualcomm Ventures in a strategic Series B extension to scale its on-device contract review tech for regulated legal workflows.",
+              "Across regulated sectors, enterprises have moved quickly to test generative AI, but privacy, security, and data governance concerns continue to slow adoption for sensitive workflows — especially in legal, where contracts can include privileged information, intellectual property, pricing, and deal terms.",
+              "Industry research has consistently flagged data security and privacy as key barriers to wider GenAI deployment in professional services, pushing vendors like SpotDraft to pursue architectures that keep core contract intelligence on the user’s device rather than routing it through the cloud.",
+              "At Qualcomm’s Snapdragon Summit 2025, SpotDraft demonstrated its VerifAI workflow running end-to-end on Snapdragon X Elite-powered laptops, executing contract review and edits offline while keeping the document on the local machine.",
+              "SpotDraft said internet connectivity is still required for login, licensing, and collaboration features, but contract review, risk scoring, and redlining can run fully offline without sending documents to the cloud.",
+              "SpotDraft sees legal as an early proving ground for on-device enterprise AI, arguing that sensitive contracts often cannot be routed through external cloud models due to privacy, security, and compliance constraints."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google pays $68M to settle claims its voice assistant spied on users",
+            "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7996b3d3758a8dae29c7eaad25c3786d2dcabbf3"
+          },
+          "review": {
+            "headline_rewrite": "Google pays $68M to settle claims its voice assistant spied on users",
+            "bullets": [
+              "Google did not admit wrongdoing in the settlement of the class-action case, which accused the firm of “unlawful and intentional interception and recording of individuals’ confidential communications without their consent and subsequent unauthorized disclosure of those communications to third parties.” The suit further claimed that “information gleaned from these recordings was wrongly transmitted to third parties for targeted advertising and for other purposes.”\nThe case centered on “false accepts,” wherein Google Assistant is alleged to have activated and recorded the user’s communications even if they had not intentionally prompted it to do so with a wake word.",
+              "Those suspicions have led, increasingly, to claims of legal wrongdoing.",
+              "In 2021, Apple agreed to pay $95 million to settle claims its voice assistant, Siri, had recorded their conversations without a prompt from users.",
+              "Last year, the company agreed to pay $1.4 billion to the state of Texas to settle two lawsuits that claimed it had violated the state’s data privacy laws."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 26, 2026 Microsoft rolls out Maia 200 AI chips; launch note also has 'message' for Google and Amazon",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-rolls-out-maia-200-ai-chips-launch-note-also-has-message-for-google-and-amazon/articleshow/127565062.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "59af155d4fe2577bbb72545a6bc5b9b4a1bb5df0"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 26, 2026 Microsoft rolls out Maia 200 AI chips; launch note also has 'message' for Google and Amazon",
+            "bullets": [
+              "Microsoft is rolling out its second-generation artificial intelligence chip, Maia 200 AI chip.",
+              "The all-new AI chip aims to be a potential alternative to leading processors from Nvidia and to offerings from cloud rivals Amazon and Google.",
+              "The Maia 200 chip comes two years after Microsoft said it had developed its first AI chip, the Maia 100, which was never made available for cloud clients to rent.",
+              "The chips use Taiwan Semiconductor Manufacturing Coâs (TSMC) 3 nanometer process.",
+              "Nvidia sells InfiniBand switches following its 2020 Mellanox acquisition.",
+              "Scott Guthrie, Microsoftâs executive vice president for cloud and AI, said in a blog post that, for the new chip, there will be âwider customer availability in the future.â In a post on X, formerly Twitter, Microsoft CEO\nSatya Nadella said, \"Our newest AI accelerator Maia 200 is now online in Azure."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A TikTok US power outage caused a 'cascading systems failure' leading to multiple bugs",
+            "link": "https://www.engadget.com/social-media/a-tiktok-us-power-outage-caused-a-cascading-systems-failure-leading-to-multiple-bugs-173426490.html",
+            "site_name": "Engadget",
+            "novelty_hash": "74f73926dd715a7bd2f42b91e4a12d3b759c5678"
+          },
+          "review": {
+            "headline_rewrite": "A TikTok US power outage caused a 'cascading systems failure' leading to multiple bugs",
+            "bullets": [
+              "In a subsequent update several hours later, the company said that the power outage had caused a “cascading systems failure” that is still affecting the app and leading to “multiple bugs,” including those affecting view counts and load times.",
+              "Other users have reported seeing the same few videos repeated over and over again.",
+              "That timing hasn't gone unnoticed by users, many of whom are already suspicious of the company pushing a terms of service and privacy policy in the hours after the deal was finalized.",
+              "The problems affecting the app's recommendation algorithm have also raised questions about TikTok USDS Joint Venture's plans to \"retrain\" TikTok's central feature."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 27, 2026 AI Agent Adoption Outpaces Safety: Deloitte warns oversight lags rapid deployment; risks grow for firms Businesses are rapidly adopting AI agents for tasks, with projections showing a surge from 23% to 74% in two years. However, robust safety measures lag significantly, with only 21% of companies reporting adequate oversight. This gap poses risks as agents gain independence, potentially leading to errors and security vulnerabilities without proper governance.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/deloitte-ai-institute-chief-on-ai-oversight-governing-ai-agents-is-tougher-because/articleshow/127574981.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "550a344cd0259cb3e92ae4e1e2a8d60a67a9dc7e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 27, 2026 AI Agent Adoption Outpaces Safety: Deloitte warns oversight lags rapid deployment; risks grow for firms Businesses are rapidly adopting AI agents for tasks, with projections showing a surge from 23% to 74% in two years. However, robust safety measures lag significantly, with only 21% of companies reporting adequate oversight. This gap poses risks as agents gain independence, potentially leading to errors and security vulnerabilities without proper governance.",
+            "bullets": [
+              "Businesses are ramping up their use of AI agents faster than they're putting in place adequate guardrails.",
+              "According to a recently published State of AI in the Enterprise report by Deloitte, based on a survey of over 3,200 business leaders across 24 countries, 23% of companies are currently using AI agents \"at least moderately\", but this figure is projected to jump to 74% in the next two years.",
+              "However, the rise of agents (AI tools trained to perform multistep tasks with little human supervision) in the workplace isn't accompanied by adequate guardrails.",
+              "In a statement to ZDNet, Beena Ammanath, Global Head of Deloitte's AI Institute, said,\nâBecause AI agents are designed to take actions directly, governing [them] requires new approaches beyond traditional oversight.",
+              "As agents proliferate without governance, you lose the ability to audit decisions, understand why agents behaved a certain way, or defend your actions to regulators or customers.â\"Given the technology's rapid adoption trajectory, this could be a significant limitation.",
+              "As agentic AI scales from pilots to production deployments, establishing robust governance should be essential to capturing value while managing risk,\" Deloitte also warned in its report."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "8ab558b94317bbaea4b3661ab4d7f451ced82074"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nMinnesota business leaders call for deescalation of tensions chevron_rightTarget's incoming CEO calls Minneapolis violence 'incredibly painful,' does not mention Trump or shootings by federal agents\nCNBC\nBy Melissa Repko\nCancellation of Booz Allen Hamilton contracts chevron_right\nGold surpasses $5,000 per ounce for the first time chevron_right\nUS dollar drop chevron_rightDollar under fire again as investors reassess Trump policies, geopolitical risk\nDollar sinks to 4-month low and gold soars past $5,000 as yen leaps\nReuters\nBy Dhara Ranasinghe, Samuel Indyk & Amanda Cooper\nFinancial Times\nBy Ian Smith, David Keohane & Leo Lewis\nSocial media companies face landmark trial over addiction claims chevron_rightMeta, TikTok and YouTube heading to trial to defend against youth addiction, mental health harm claims\nCNN\nBy Clare Duffy\nNike layoffs in Tennessee and Mississippi chevron_rightNike to cut 775 employees as it accelerates 'automation' at U.S.",
+              "distribution centers\nBy Jessica Golden, Sara Eisen & Gabrielle Fonrouge\nBy Akila Quinio\nTrump administration takes equity stake in USA Rare Earth chevron_rightUSA Rare Earth shares rally as Commerce Department takes equity stake\nBy Spencer Littleford Kimball\nSouthwest Airlines' seat policy change chevron_rightSouthwest Airlines officially ends longstanding open-seating model, begins plus-size pricing change\nFox Business\nBy Bonny Chu\nMarketWatch\nBy Christine Idzelis\nNetflix's Warner Bros Discovery deal chevron_right\nThe Daily Beast\nBy Martha Mchardy\nEuropean Union launches inquiry into Elon Musk's X over Grok AI images chevron_right\nYann LeCun on AI engineers chevron_rightYann LeCun, an A.I.",
+              "dollar and investors are fleeing into gold\nBy Samuel Indyk & Saqib Ahmed\nFortune\nBy Jim Edwards\nUS Medicare rate proposal chevron_rightExclusive | Trump Administration Proposes Keeping Steady the Rates Medicare Pays Insurers\nHealth insurers tumble after Trump administration proposes keeping Medicare Advantage rates flat next year\nThe Wall Street Journal\nBy Anna Wilde Mathews & Christopher Weaver\nBy Annika Kim Constantino & Pia Singh\nWall Street updates chevron_rightDow Jones Futures: AMD, Astera, Oklo, Rocket Lab, Tesla Sell Off; Fed Meeting Next\nInvestor's Business Daily\nBy Scott Lehtonen\nUS power grid amid winter storm chevron_right\nTikTok strikes deal for new US entity chevron_right\nFed preview chevron_right\nPower outage at US data center caused TikTok disruption chevron_rightTikTok Data Center Outage Triggers Trust Crisis for New US Owners\nTikTok blames power outage for widespread glitches that many users say are censorship\nWIRED\nBy Vittoria Elliott & Zeyi Yang\nNBC News\nBy Kevin Collier & Bruna Horvath\nAI investment in the US economy chevron_rightAI spending wasn't the biggest engine of U.S.",
+              "economic growth in 2025, despite popular assumptions\nBy Pia Singh\nUS Natural Gas market chevron_right\nFormer CytoDyn CEO Nader Pourhassan convicted of securities fraud chevron_rightOffice of Public Affairs | Biotech CEO Sentenced in Securities Fraud SchemeEx-CytoDyn CEO sentenced to prison, must pay $5.3M restitution as former CRO leader wins new trial\nDepartment of Justice (.gov)\nFierce Biotech\nBy Gabrielle Masson\nIonQ to acquire SkyWater Technology for $1.8 billion chevron_rightIonQ to Acquire SkyWater Technology, Creating the Only Vertically Integrated Full-Stack Quantum Platform Company\nIonQ Quantum Computing\nSarepta Therapeutics\nBioSpace\nBy Tristan Cesar Manalac & Dan Samorodnitsky\nTechCrunch\nBy Rebecca Bellan\nEnergy Department issues emergency orders for grid operators chevron_right\nRicursive Intelligence valued at $4 billion after Series A funding chevron_right\nAuto executives' expectations for 2026 chevron_right\nOpenAI's ChatGPT Health launch chevron_right\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
