@@ -108925,6 +108925,123 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:15": [
+        {
+          "item": {
+            "title": "Anthropic reportedly upped its latest raise to $20B",
+            "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0a1f95bd812dff02796023e1f2f997c532dcd81a"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic reportedly upped its latest raise to $20B",
+            "bullets": [
+              "Anthropic has doubled the amount of VC funding it aims to raise, the FT reports, increasing the target from $10 billion to $20 billion.",
+              "Anthropic, which makes the popular AI Claude and the equally popular Claude Code, decided to double its funding target due to booming investor interest.",
+              "Backers in this round are expected to include Sequoia Capital (which also invests in its rival OpenAI), Singapore’s sovereign wealth fund, and investment management firm Coatue, per the FT.",
+              "The company announced a $13 billion raise in September, making it one of the industry’s most valuable private companies, valued at $183 billion."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
+            "link": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5b845c09f4b628c147deaf2be5e89cca417ed99e"
+          },
+          "review": {
+            "headline_rewrite": "Amazon agrees to pay consumers $309M in returns policy settlement",
+            "bullets": [
+              "Amazon has reached a settlement valued at more than $1 billion to resolve claims that it failed to properly refund customers for their returns.",
+              "The settlement includes more than $600 million already distributed or soon to be paid in refunds, plus an additional funds that will be paid out to affected consumers, according to court documents.",
+              "The company has already issued about $570 million in refunds, with about $34 million of refunds remaining.",
+              "“Following an internal review in 2025, we identified a small subset of returns where we issued a refund without the payment completing, or where we could not verify that the correct item had been sent back to us, so no refund had been issued,” Amazon said in a statement emailed to TechCrunch.",
+              "Amazon is currently accepting claims from impacted customers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 50 Best Shows on HBO Max, WIRED’s Picks (February 2026)",
+            "link": "https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/",
+            "site_name": "WIRED",
+            "novelty_hash": "9f4b6594ddbfe00353a4c4a6566dc86c4080722c"
+          },
+          "review": {
+            "headline_rewrite": "The 50 Best Shows on HBO Max, WIRED’s Picks (February 2026)",
+            "bullets": [
+              "OK, so it’s not really a “comedy” in the strictest genre sense of the word, but A Knight of the Seven Kingdoms is certainly a different kind of beast than its predecessors.",
+              "The Pitt\nIndustry\nMad Men\nNearly 20 years after its original premiere, Mad Men is making headlines all over again with its arrival on HBO Max.",
+              "This actually turned out to be a bit of a bad thing, as viewers began noticing a number of visible production errors that had slipped past the editing phase, including an on-screen vomit machine.",
+              "It follows the lives of two star hockey players who, since the start of their careers, have also been painted as arch rivals.",
+              "Maia (Sennott) is an aspiring talent manager who, on her 27th birthday, manages to gather the courage to ask her boss Alyssa (Leighton Meester) for a promotion.",
+              "While the answer is no, Maia tells her friends and boyfriend (Josh Hutcherson) otherwise, then hatches a plan to take her career to the next level."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Pornhub will become unavailable for many UK users as of February 2",
+            "link": "https://www.engadget.com/entertainment/pornhub-will-become-unavailable-for-many-uk-users-as-of-february-2-194622124.html",
+            "site_name": "Engadget",
+            "novelty_hash": "7fb120b09449d47f20a9e4014a27cb594f747aa1"
+          },
+          "review": {
+            "headline_rewrite": "Pornhub will become unavailable for many UK users as of February 2",
+            "bullets": [
+              "Pornhub will stop offering full access to new users in the UK on February 2, its parent company Aylo said Tuesday, citing the nation's Online Safety Act and its age-verification requirements.",
+              "The company said users who already verified their ages before the cutoff will still be able to access the adult site through existing accounts.",
+              "Aylo claims the system is backfiring and shifting both adults and minors to noncompliant porn sites that don’t verify age or moderate content according to Politico.",
+              "Alexzandra Kekesi, VP of Brand and Community at Aylo, said \"anyone who has not gone through that process prior to February 2 will no longer be able to access [the sites] and they're going to be met with a wall,\" according to 404 Media.",
+              "The adult site was similarly made unavailable in various US states after the passage of age-verification laws that Pornhub claimed put users' privacy at risk.",
+              "\"These people did not stop looking for porn,\" Aylo said at the time."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools",
+            "link": "https://www.engadget.com/apps/adobe-photoshop-upgrades-its-firefly-powered-generative-ai-editing-tools-213737915.html",
+            "site_name": "Engadget",
+            "novelty_hash": "5cfe7fda5fba2449e1204839065a2b8a0eefccc1"
+          },
+          "review": {
+            "headline_rewrite": "Adobe Photoshop upgrades its Firefly-powered generative-AI editing tools",
+            "bullets": [
+              "As you'd expect from any service operator in this day and age, there's some AI involved.",
+              "Adobe has improved the tools for Generative Fill, Generative Expand and Remove that are powered by its Firefly generative AI platform.",
+              "Using these tools for image editing should now produce results in 2K resolution with fewer artifacts and increased detail all while delivering better matches for the provided prompts.",
+              "Photoshop has also added new adjustment layers: Clarity, Dehaze and Grain."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 27, 2026 Google Specification Proceedings: EU seeks fair AI, data access; Google warns on privacy risks",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/eu-to-google-give-rival-ai-services-equal-access-to-android-or/articleshow/127641144.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a2ce92d73386a2e706eda43c6580562cf67adf57"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 27, 2026 Google Specification Proceedings: EU seeks fair AI, data access; Google warns on privacy risks",
+            "bullets": [
+              "The European Commission has opened two specification proceedings to help\nGoogle comply with its obligations under the Digital Markets Act (DMA), focusing on AI interoperability and search data access for rival platforms.",
+              "The proceedings will guide Google on granting third-party AI service providers equal access to features on its Android operating system that its own services like Gemini currently enjoy.",
+              "Brussels also wants clarity on how competing search engines can access anonymised ranking, query, click and view data from Google Search on fair terms.",
+              "\"We want to maximise the potential and the benefits of this profound technological shift by making sure the playing field is open and fair, not tilted in favour of the largest few,\" said Teresa Ribera, EU's Executive Vice-President for Competition.",
+              "Clare Kelly, the company's Senior Competition Counsel, said Android is already open by design and that search data is being licensed to competitors under the DMA.",
+              "\"However, we are concerned that further rules which are often driven by competitor grievances rather than the interest of consumers, will compromise user privacy, security, and innovation,\" Kelly added."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
