@@ -111733,6 +111733,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:03": [
+        {
+          "item": {
+            "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+            "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eb5c385ae095894209e8318eb0258a44450d2173"
+          },
+          "review": {
+            "headline_rewrite": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+            "bullets": [
+              "Many in the industry think the winners of the AI model market have already been decided: Big Tech will own it (Google, Meta, Microsoft, a bit of Amazon) along with their model makers of choice, largely OpenAI and Anthropic.",
+              "But tiny 30-person startup Arcee AI disagrees.",
+              "The company just released a truly and permanently open (Apache license) general-purpose, foundation model called Trinity, and Arcee claims that at 400B parameters, it is among the largest open-source foundation models ever trained and released by a U.S.",
+              "Arcee says Trinity compares to Meta’s Llama 4 Maverick 400B, and Z.ai GLM-4.5, a high-performing open-source model from China’s Tsinghua University, according to benchmark tests conducted using base models (very little post training).",
+              "But before adding more AI modes to its roster, Arcee says, it wanted a base LLM that would impress its main target customers: developers and academics.",
+              "“Ultimately, the winners of this game, and the only way to really win over the usage, is to have the best open-weight model,” Atkins said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+            "link": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0ee8a056c684f18416c04525858a64c419c24928"
+          },
+          "review": {
+            "headline_rewrite": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+            "bullets": [
+              "Generative AI apps that can create photos, videos, songs, and more are growing in popularity.",
+              "But with the release of Apple’s new Creator Studio Pro suite, available to the public on Wednesday, the tech giant has approached the addition of AI as a tool that aids in the creator process, but doesn’t attempt to replace it.",
+              "Instead, Apple lays out a vision that suggests the productivity suite of the future is the one that focuses on the needs of creators — whether that’s filmmakers, musicians, artists, or anyone else enmeshed in a creative industry of some kind — and empowers them to be more efficient using AI.",
+              "It’s tricky to bring AI into the world of creativity, given the backlash and even legal action from creators who are angry about AI models training on their works, then reproducing similar art or creative content in the AI systems’ output.",
+              "Apple, however, sees AI as a tool that handles more of the basics and tedious tasks — like generating a slideshow for you to edit from your notes, extracting chord information from a song, searching across hours of video footage for the clip you need, changing the camera angle on your images, and more.",
+              "The tools in Creator Studio Pro are not new, but they’ve never been packaged as a subscription product, which is now available at $12.99 per month or $129 per year."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
+            "link": "https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8191dc5a4db7d039bad97be3654a21362db69434"
+          },
+          "review": {
+            "headline_rewrite": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
+            "bullets": [
+              "The kernel of the idea has remained the same throughout AMD’s efforts: take an existing desktop processor design and graft 64MB of additional L3 cache onto it.",
+              "This approach disproportionately helps apps that benefit from more cache, particularly games, and the size of the boost that 3D V-Cache gives to game performance has always been enough to offset any downsides these chips have come with.",
+              "In the four years since the 5800X3D was released, AMD also has steadily chipped away at those disadvantages, adding more CPU cores, improving power consumption and temperatures, and re-adding the typical Ryzen range of overclocking controls.",
+              "AMD’s new Ryzen 7 9850X3D, which launches for $499 starting tomorrow, is the very definition of a mild upgrade.",
+              "That’s the chip.",
+              "But it is mildly interesting that the 9800X3D’s 5.6GHz boost clock is now 100 MHz higher than that of the Ryzen 7 9700X, the chip’s nearest non-V-Cache equivalent."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best VPN service for 2026",
+            "link": "https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0aa4a6671eb1600aa0490ab3709c070c8c64fbc3"
+          },
+          "review": {
+            "headline_rewrite": "The best VPN service for 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "For each VPN on this list, I've shared which platforms it works on, how much it cuts into your download speed, where it offers servers, what other features are included and how much the best available deal costs.",
+              "Every feature is where you expect it to be, never demanding any digging or leaving you perplexed about what a certain setting is for.",
+              "There's no drop-off in quality between platforms, either: Proton has clearly paid equally close attention to its clients for Windows, Mac, iOS and Android.",
+              "It's also a VPN uniquely devoted to security and privacy.",
+              "Not only did it pass my leak tests without a scratch, but it's also a leader in physical VPN security — its Secure Core servers connect you through locations fortified in the real-world."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Election Denier Tina Peters Was ‘Pardoned’ by Trump. She’s Still in Prison",
+            "link": "https://www.wired.com/story/donald-trump-wants-to-force-colorado-to-free-an-imprisoned-election-denier-its-not-working/",
+            "site_name": "WIRED",
+            "novelty_hash": "575da2eb3f3cf78a91a9a52c32af10ea3ed39ed4"
+          },
+          "review": {
+            "headline_rewrite": "Election Denier Tina Peters Was ‘Pardoned’ by Trump. She’s Still in Prison",
+            "bullets": [
+              "Whether it's disappearing undocumented immigrants, shooting US citizens and deploying the National Guard against them, capturing the leader of a sovereign nation, or threatening to take control of Greenland, Trump’s reach appears limitless.",
+              "Peters has served roughly 14 months of a nine-year prison sentence, and figures in the election denial community like former Trump adviser Steve Bannon and disgraced former national security adviser Michael Flynn have been campaigning for her release ever since.",
+              "Nevertheless, Trump is now conducting an increasingly intense pressure campaign against Colorado and its Democratic governor, Jared Polis, whom Trump has called a “sleazebag” and a “scumbag” for refusing to release Peters.",
+              "Polis has since said he is considering granting clemency to Peters, a decision that has left elected officials in the state, both Democrats and Republicans, baffled and worried.",
+              "Those who spoke to WIRED warned that reducing jail time for Peters—who continues to maintain her innocence and has shown no signs of remorse—would endanger the lives of election workers ahead of the midterms in November.",
+              "The information was widely hailed by election deniers as further proof that US elections were rigged, even though widescale election rigging in 2020 was never actually proven, and Trump’s own officials called it the most secure election in history."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to cancel Windscribe and get your money back",
+            "link": "https://www.engadget.com/cybersecurity/vpn/how-to-cancel-windscribe-and-get-your-money-back-173000785.html",
+            "site_name": "Engadget",
+            "novelty_hash": "505f7693490068900334b5cf056c3bbebfba0e07"
+          },
+          "review": {
+            "headline_rewrite": "How to cancel Windscribe and get your money back",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "The most important thing to know before we start is that Windscribe's money-back guarantee only lasts seven days — if you paid for a subscription, you have to cancel before then to get a refund.",
+              "How to delete your Windscribe account\nIf you're certain you want to stop using Windscribe and never start up again, you can scrub your presence from its servers by deleting your account.",
+              "Once you've pulled the trigger, you won't be able to use the same email address to sign up for another account.",
+              "Be warned that you might have to stand firm through several attempts to fix your complaints before you can actually initiate the refund process.",
+              "That said, by the time you've waded through a swamp of dick jokes to complete the process, I wouldn't blame you for feeling validated in your decision to get rid of it."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
