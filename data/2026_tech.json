@@ -112102,6 +112102,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "00:59": [
+        {
+          "item": {
+            "title": "Accelerating Science: A Blueprint for a Renewed National Quantum Initiative",
+            "link": "https://blogs.nvidia.com/blog/national-quantum-initiative/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "33beb8fd4a9d9fb5c57669a6057e3ce8447c8e28"
+          },
+          "review": {
+            "headline_rewrite": "Accelerating Science: A Blueprint for a Renewed National Quantum Initiative",
+            "bullets": [
+              "Quantum technologies are rapidly emerging as foundational capabilities for economic competitiveness, national security and scientific leadership in the 21st century.",
+              "Sustained U.S.",
+              "This coordinated initiative accelerated the maturation of quantum technologies by enabling sustained investment, shared infrastructure and a world-class research and development ecosystem.",
+              "Darío Gil aptly described the current moment as the precipice of a scientific revolution driven by the convergence of AI, high-performance computing and quantum systems.",
+              "He outlined the Trump Administration’s “Genesis Mission,” an initiative to mobilize national laboratories, industry and academia to build an integrated discovery platform capable of doubling the nation’s R&D productivity within a decade.",
+              "Gil emphasized that AI and quantum computing are no longer just distinct tools, but the foundational elements of a new class of supercomputers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The new era of browsing: Putting Gemini to work in Chrome",
+            "link": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/",
+            "site_name": "Google",
+            "novelty_hash": "f467a05beab061784a1313165edb43b5fa10f9cb"
+          },
+          "review": {
+            "headline_rewrite": "The new era of browsing: Putting Gemini to work in Chrome",
+            "bullets": [
+              "Built on Gemini 3, our most intelligent model, we’re integrating powerful new AI features in Chrome that help you multitask across the web with a new side panel experience.",
+              "We’re also bringing deeper integrations across our most popular Google Apps so you can be more productive, helping on complex multi-step workflows with auto browse and, in the coming months, you’ll get more contextually relevant help with Personal Intelligence.",
+              "Introducing a new way to browse with side panel: multitasking, reimagined\nWe're launching a new side panel experience so Gemini in Chrome users can always have a browsing assistant at your side, no matter what tab you're in.",
+              "Our testers have been using it for all sorts of things: comparing options across too-many-tabs, summarizing product reviews across different sites, and helping find time for events in even the most chaotic of calendars.",
+              "Available to all Gemini in Chrome users, just type a prompt in the side panel to explain what you’re trying to do.",
+              "Get things done across Connected Apps\nGemini in Chrome supports Connected Apps, like integrations to Gmail, Calendar, YouTube, Maps, Google Shopping and Google Flights."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
+            "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "685e21b56c1e08b9d88520be451e5e652044e417"
+          },
+          "review": {
+            "headline_rewrite": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
+            "bullets": [
+              "Many in the industry think the winners of the AI model market have already been decided: Big Tech will own it (Google, Meta, Microsoft, a bit of Amazon) along with their model makers of choice, largely OpenAI and Anthropic.",
+              "But tiny 30-person startup Arcee AI disagrees.",
+              "The company just released a truly and permanently open (Apache license) general-purpose, foundation model called Trinity, and Arcee claims that at 400B parameters, it is among the largest open source foundation models ever trained and released by a U.S.",
+              "Arcee says Trinity compares to Meta’s Llama 4 Maverick 400B, and Z.ai’s GLM-4.5, a high-performing open source model from China’s Tsinghua University, according to benchmark tests conducted using base models (very little post-training).",
+              "But before adding more AI modes to its roster, Arcee says, it wanted a base LLM that would impress its main target customers: developers and academics.",
+              "“Ultimately, the winners of this game, and the only way to really win over the usage, is to have the best open-weight model,” Atkins said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+            "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4ae904847d1f8d962c7306f6fcb7ae6421b2260c"
+          },
+          "review": {
+            "headline_rewrite": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+            "bullets": [
+              "Last year, a swarm of AI browsers from companies like OpenAI, Perplexity, Opera, and The Browser Company launched with the aim to replace Chrome with features like sidebar assistants and automated tasks.",
+              "Now Google is flexing its own AI muscle by adding similar features to Chrome, the world’s largest browser by market share.",
+              "With this update, the company will put its AI helper into a persistent sidebar, so you can ask questions about the current website or other open tabs.",
+              "One interesting feature Google demoed to press ahead of today’s launch involved multiple tabs.",
+              "This is helpful when you are comparing prices or different products you’re considering purchasing.",
+              "Before today, the Gemini in Chrome feature was available only to Windows and macOS users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google begins rolling out Chrome's \"Auto Browse\" AI agent today",
+            "link": "https://arstechnica.com/google/2026/01/google-begins-rolling-out-chromes-auto-browse-ai-agent-today/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "64bc25a847caad27381258fa2658338565cb4742"
+          },
+          "review": {
+            "headline_rewrite": "Google begins rolling out Chrome's \"Auto Browse\" AI agent today",
+            "bullets": [
+              "Google began stuffing Gemini into its dominant Chrome browser several months ago, and today the AI is expanding its capabilities considerably.",
+              "Similar to tools like OpenAI Atlas, Auto Browse can handle tedious tasks in Chrome so you don’t have to.",
+              "The newly unveiled Gemini features in Chrome are accessible from the omnipresent AI button that has been lurking at the top of the window for the last few months.",
+              "You can still pop Gemini out into a floating window, but the split-view gives Gemini more room to breathe while manipulating a page with AI.",
+              "The chatbot can now access Gmail, Calendar, YouTube, Maps, Google Shopping, and Google Flights right from the Chrome window."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s noise-canceling AirPods 4 are down to one of their best prices to date",
+            "link": "https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "e16b7c0b73c6d89753012323043da1b8b5685154"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s noise-canceling AirPods 4 are down to one of their best prices to date",
+            "bullets": [
+              "The AirPods Pro 3 may be on sale for $199 ($50 off), but that’s still a lot of money.",
+              "If you want noise cancellation for less, fortunately you can buy the AirPods 4 with Active Noise Cancellation for $119 ($60 off) at Amazon and Walmart.",
+              "Apple’s noise-canceling AirPods 4 are down to one of their best prices to date\nThey’re a great budget alternative to the AirPods Pro 3, offering solid noise cancellation, sound, and wireless charging.",
+              "For the price, the AirPods 4 do a surprisingly good job of tuning out the outside world.",
+              "While they don’t drown out noise as completely as the AirPods Pro, they significantly reduce ambient and low-frequency sounds on planes and in offices, especially when listening to music.",
+              "Beyond noise cancellation, the AirPods 4 offer the best sound we’ve heard from an entry-level AirPods model so far, with richer bass than previous generations."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
