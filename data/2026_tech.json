@@ -112586,6 +112586,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:04": [
+        {
+          "item": {
+            "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names",
+            "link": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fae4e4fa2502702651d3265a201545d6df03572e"
+          },
+          "review": {
+            "headline_rewrite": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names",
+            "bullets": [
+              "Outtake, which makes an agentic cybersecurity platform to help enterprises detect, investigate and take down identity fraud, has raised a $40 million Series B round of funding.",
+              "While that might not sound like a lot given the huge sums some AI companies are raising, the names involved in this financing reads like a tech industry who’s who.",
+              "Angels who invested include Microsoft CEO Satya Nadella; Palo Alto Networks CEO Nikesh Arora; Pershing Square Holdings CEO Bill Ackman; Palantir CTO Shyam Sankar; Anduril co-founder Trae Stephens; Former OpenAI VP Bob McGrew; Vercel CEO Guillermo Rauch, and Former AT&T CEO John Donovan.",
+              "Outtake, founded in 2023 by a former Palantir engineer, Alex Dhillon, has found a way to automate what has largely been the manual problem of spotting and taking down digital identity posers: impersonation accounts, malicious domains posing as the company’s, rogue apps, fraudulent ads, and more.",
+              "This problem has grown even more difficult because AI has enabled attackers to be more convincing and faster in their efforts.",
+              "“We kept hearing whispers in our network about an AI company that was finally solving digital misrepresentation at scale."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "ServiceNow inks another AI partnership, this time with Anthropic",
+            "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "db7b09c2d9723e88d70555481af47c8d8f0927ad"
+          },
+          "review": {
+            "headline_rewrite": "ServiceNow inks another AI partnership, this time with Anthropic",
+            "bullets": [
+              "ServiceNow announced a deal with major AI player Anthropic just a week after it announced a partnership with OpenAI.",
+              "Enterprise workflow software company ServiceNow has entered into a multi-year deal with AI research lab Anthropic on Wednesday.",
+              "This partnership involves further embedding of Anthropic’s AI models into ServiceNow’s platform for its customers and bringing Anthropic’s AI to its employees.",
+              "This deal entails making Anthropic’s Claude model family the preferred AI models across ServiceNow’s AI-driven workflow products.",
+              "Claude is now also the default model powering the company’s AI agent builder, ServiceNow Build Agent, which allows developers to create agentic workflows and build apps.",
+              "Claude Code, Anthropic’s vibe coding product, is also available to the company’s engineers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
+            "link": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
+            "site_name": "The Verge",
+            "novelty_hash": "a8f8d6cda3dac3af857b10c87727c2d9a9cc87b4"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
+            "bullets": [
+              "Microsoft reports strong cloud earnings in Q2 as gaming declines\nMicrosoft’s More Personal Computing division was the only business unit to post a revenue decline this quarter.",
+              "Microsoft didn’t announce any new Surface devices during the recent quarter, after launching both the 12-inch Surface Pro and 13-inch Surface Laptop in May last year.",
+              "Microsoft has continued to publish more games on PS5, as part of its strategy to make previously Xbox-exclusive games available on Nintendo and Sony platforms.",
+              "Microsoft revealed last year that Halo: Campaign Evolved is coming to PS5 and Xbox in 2026, and Fable and Forza Horizon 6 are also coming to Sony’s console this year.",
+              "Microsoft’s cloud revenue was once again strong this quarter, and even crossed $50 billion overall — up 26 percent year-over-year.",
+              "Azure and other cloud services revenue grew 39 percent.“ Microsoft Cloud revenue crossed $50 billion this quarter, reflecting the strong demand for our portfolio of services,” says Microsoft CFO Amy Hood."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Angry Norfolk residents lose lawsuit to stop Flock license plate scanners",
+            "link": "https://arstechnica.com/tech-policy/2026/01/angry-norfolk-residents-lose-lawsuit-to-stop-flock-license-plate-scanners/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "aef3ed6783ca84750d989696da6c28aa540be40d"
+          },
+          "review": {
+            "headline_rewrite": "Angry Norfolk residents lose lawsuit to stop Flock license plate scanners",
+            "bullets": [
+              "City of Norfolk, was originally filed in October 2024 by two Virginians who claimed that their rights were violated when the Flock network of cameras captured their cars hundreds of times, calling the entire setup a “dragnet surveillance program.”\nHowever, in a 51-page ruling, US District Court Judge Mark S.",
+              "Davis disagreed, finding that the “…plaintiffs are unable to demonstrate that Defendants’ ALPR system is capable of tracking the whole of a person’s movements.”\nJudge Davis acknowledged that while there may come a time when the use of ALPRs becomes too intrusive, “what is readily apparent to this Court is that, at least in Norfolk, Virginia, the answer is: not today.”\nThe Virginia plaintiffs were represented by attorneys from the Institute of Justice, a libertarian nonprofit public interest law firm that vowed to appeal the ruling.",
+              "Flock cameras capture not just a simple license plate number—as the tech once did a decade ago—but now can easily capture make, model, and other visual details from each car; these can be searched using AI-powered natural language queries that can include phrases like “bike rack” or “tow truck.”\nRecently, some jurisdictions, from Santa Cruz, California, to Charlottesville, Virginia, have ended their contracts with Flock over concerns that the technology is too invasive and may provide information to federal immigration authorities over the objections of local policymakers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Starlink demands grant money from states even when residents don't buy service",
+            "link": "https://arstechnica.com/tech-policy/2026/01/starlink-demands-grant-money-from-states-even-when-residents-dont-buy-service/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "06d58ec3136477bc1010d26d0618fbeb7a5457f5"
+          },
+          "review": {
+            "headline_rewrite": "Starlink demands grant money from states even when residents don't buy service",
+            "bullets": [
+              "SpaceX said it will provide “all necessary equipment” to receive broadband “at no cost to subscribers requesting service,” which will apparently eliminate the up-front hardware fee for Starlink equipment.",
+              "SpaceX pledged to make broadband available for $80 or less a month, plus taxes and fees, to people with low incomes in the subsidized areas.",
+              "SpaceX’s demands would also guarantee that it gets paid by the government even if it doesn’t reserve “large portions” of Starlink network capacity for homes in the areas that are supposed to receive government-subsidized Internet service.",
+              "The letter was obtained and published by Broadband.io and the Benton Institute for Broadband & Society.",
+              "Arguing that SpaceX should receive grant money regardless of whether residents purchase Starlink service, the letter to states said that grant payments should not depend on “the independent purchasing decisions of users.” SpaceX also said it will not hold “large portions of capacity fallow” to ensure that people in subsidized areas receive good service, but will instead continue its preexisting practice of “dynamically allocat[ing] capacity where needed.”\nSpaceX capitalizes on Trump overhaul\nSpaceX’s proposed contract rider would apply to grants distributed under the US government’s Broadband Equity, Access, and Deployment (BEAD) program.",
+              "BEAD was created by Congress in a 2021 law that authorized spending over $42 billion to make broadband networks available in areas without modern service."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App",
+            "link": "https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/",
+            "site_name": "WIRED",
+            "novelty_hash": "915e6a08329bfc19e90c57c474995ded9544f16c"
+          },
+          "review": {
+            "headline_rewrite": "Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App",
+            "bullets": [
+              "On Wednesday, the Department of Homeland Security published new details about Mobile Fortify, the face recognition app that federal immigration agents use to identify people in the field, undocumented immigrants and US citizens alike.",
+              "The details, including the company behind the app, were published as part of DHS’s 2025 AI Use Case Inventory, which federal agencies are required to release periodically.",
+              "On its website, NEC advertises a face recognition solution called Reveal, which it says can do one-to-many searches or one-to-one matches against databases of any size.",
+              "A $23.9 million contract held between NEC and the DHS from 2020 to 2023 states that DHS was using NEC biometric matching products for “unlimited facial quantities, on unlimited hardware platforms, and at unlimited locations.” NEC did not immediately respond to a request for comment.",
+              "The app sends that data to CBP “for submission to government biometric matching systems.” Those systems then use AI to match people’s faces and fingerprints with existing records, and return possible matches along with biographic information.",
+              "ICE says that it also extracts text from identity documents for “additional checks.” ICE says it doesn’t own or interact directly with the AI models, and that those belong to CBP."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
