@@ -111271,6 +111271,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:00": [
+        {
+          "item": {
+            "title": "The first episode of the Ads Decoded podcast dives into how marketers can leverage analytics and AI for better results.",
+            "link": "https://blog.google/products/ads-commerce/ads-decoded-podcast-google-analytics/",
+            "site_name": "Google",
+            "novelty_hash": "db35a34c3f3cc17ae0eec4d8aebba43b402c2f3f"
+          },
+          "review": {
+            "headline_rewrite": "The first episode of the Ads Decoded podcast dives into how marketers can leverage analytics and AI for better results.",
+            "bullets": [
+              "Welcome to the first full season of Ads Decoded, a podcast hosted by Ads Product Liaison Ginny Marvin to bring questions from advertisers straight to the people designing and building our Ads products.",
+              "To kick things off, Ginny sits down with Eleanor Stribling, Group Product Manager at Google Analytics, to discuss how Google Analytics can help marketers navigate today’s AI era.",
+              "The conversation dives into how to better leverage the product’s features to move beyond passive reporting and fully utilize its capabilities as an activation engine for business growth.",
+              "They also cover data strength – what it means, why it's a critical prerequisite for AI performance, and how it offers brands a unique strategic advantage."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Redwood attracts Google for its $425M Series E as AI power needs rise",
+            "link": "https://techcrunch.com/2026/01/28/redwood-attracts-google-for-its-425m-series-e-as-ai-power-needs-rise/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "637158808df25541fa5914954434adfdaab582f4"
+          },
+          "review": {
+            "headline_rewrite": "Redwood attracts Google for its $425M Series E as AI power needs rise",
+            "bullets": [
+              "Google is the latest investor to back Redwood Materials as the battery recycling and cathode production startup scales a new energy storage venture to power AI data centers and other industrial sites.",
+              "Redwood Materials, founded by former Tesla CTO JB Straubel, last October raised $350 million in a Series E round led by venture firm Eclipse.",
+              "The round included a new strategic investment by Nvidia’s venture capital arm, NVentures.",
+              "More investors, including newcomer Google, have piled in since, pushing the Series E to $425 million, the company said.",
+              "This latest investment pushes Redwood’s total capital raised to $4.9 billion.",
+              "Redwood Materials was founded in 2017 to create a circular supply chain for batteries."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
+            "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ffae2987caed251e04e58f9e32523cad346f16ed"
+          },
+          "review": {
+            "headline_rewrite": "Users flock to open source Moltbot for always-on AI, despite major risks",
+            "bullets": [
+              "An open source AI assistant called Moltbot (formerly “Clawdbot”) recently crossed 69,000 stars on GitHub after a month, making it one of the fastest-growing AI projects of 2026.",
+              "Created by Austrian developer Peter Steinberger, the tool lets users run a personal AI assistant and control it through messaging apps they already use.",
+              "While some say it feels like the AI assistant of the future, running the tool as currently designed comes with serious security risks.",
+              "Among the dozens of unofficial AI bot apps that never rise above the fray, Moltbot is perhaps most notable for its proactive communication with the user.",
+              "The project has drawn comparisons to Jarvis, the AI assistant from the Iron Man films, for its ability to actively attempt to manage tasks across a user’s digital life.",
+              "However, we’ll tell you up front that there are plenty of drawbacks to the still-hobbyist software: While the organizing assistant code runs on a local machine, the tool effectively requires a subscription to Anthropic or OpenAI for model access (or using an API key)."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon says it is laying off 16,000 employees",
+            "link": "https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dd4126c070b3e6669b4aa8842bfadbc486b7ea5d"
+          },
+          "review": {
+            "headline_rewrite": "Amazon says it is laying off 16,000 employees",
+            "bullets": [
+              "Amazon said today that it is cutting 16,000 jobs across the company.",
+              "This reduction comes after the e-commerce company laid off 14,000 people in October.",
+              "In a letter to employees, Senior VP of people experience and technology, Beth Galetti, said that these layoffs were made for “reducing layers, increasing ownership, and removing bureaucracy.” She noted that the reason for the second round of massive layoffs within three months was that several teams in the company hadn’t finished their restructuring.",
+              "Galetti didn’t outright deny that there might be more job slashes in the company, but said that the company is not trying to create a pattern of large layoffs every few months.",
+              "But just as we always have, every team will continue to evaluate the ownership, speed, and capacity to invent for customers, and make adjustments as appropriate,” she said in a blog post.",
+              "In October, Amazon said that it had 1.57 million employees, and had registered single-digit growth in the past five quarters prior to that, according to the company’s Q3 2025 filings."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Snap is turning its smart glasses team into its own company",
+            "link": "https://www.theverge.com/news/869210/snap-specs-smart-ar-glasses-new-subsidiary",
+            "site_name": "The Verge",
+            "novelty_hash": "77ac33445f9b87ed66769808394f14d59d669888"
+          },
+          "review": {
+            "headline_rewrite": "Snap is turning its smart glasses team into its own company",
+            "bullets": [
+              "Snap is launching a separate business for its upcoming Specs augmented reality glasses in a bid to lure new investors to the project.",
+              "The new company, aptly named “Specs,” will operate under Snap as a distinct subsidiary ahead of the long-awaited public launch of Specs glasses later this year.",
+              "Snap is turning its smart glasses team into its own company\nSpecs will now be launched under… Specs.",
+              "as a wholly-owned subsidiary provides greater operational focus and alignment, enables new partnerships and capital flexibility including the potential for minority investment, allows us to grow a distinct brand, and supports clearer valuation of the business,” reads Snap’s announcement.",
+              "The announcement reaffirms existing plans to release the first consumer pair of Specs smart glasses in 2026, but doesn’t outline a specific launch date or price.",
+              "Snap CEO Evan Spiegel has previously said that Specs will be priced less than the $3,499 Vision Pro."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ted Lasso season 4 hits Apple TV in the summer",
+            "link": "https://www.theverge.com/streaming/869239/ted-lasso-season-4-apple-tv-date",
+            "site_name": "The Verge",
+            "novelty_hash": "27ec772bfdbaeb75065f700c30b4077b0085f150"
+          },
+          "review": {
+            "headline_rewrite": "Ted Lasso season 4 hits Apple TV in the summer",
+            "bullets": [
+              "The cast also includes new faces like Tanya Reynolds, Jude Mack, Faye Marsay, Rex Hayes, Aisling Sharkey, Abbie Hern, and Grant Feely.",
+              "The return of a broadly popular sitcom Ted Lasso fits into that strategy nicely, though we’ll have to wait to see if the show’s second arc hits as well as its debut."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
