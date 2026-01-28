@@ -112823,6 +112823,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:27": [
+        {
+          "item": {
+            "title": "ServiceNow inks another AI partnership, this time with Anthropic",
+            "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a1ea219763178dad93a5a297dd390679d37c16c8"
+          },
+          "review": {
+            "headline_rewrite": "ServiceNow inks another AI partnership, this time with Anthropic",
+            "bullets": [
+              "ServiceNow announced a deal with major AI player Anthropic just a week after it announced a partnership with OpenAI.",
+              "Enterprise workflow software company ServiceNow has entered into a multi-year deal with AI research lab Anthropic on Wednesday.",
+              "This partnership involves further embedding of Anthropic’s AI models into ServiceNow’s platform for its customers and bringing Anthropic’s AI to its employees.",
+              "This deal entails making Anthropic’s Claude model family the preferred AI models across ServiceNow’s AI-driven workflow products.",
+              "Claude is now also the default model powering the company’s AI agent builder, ServiceNow Build Agent, which allows developers to create agentic workflows and build apps.",
+              "Claude Code, Anthropic’s vibe-coding product, is also available to the company’s engineers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft gained $7.6 billion from OpenAI last quarter",
+            "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1b27b7a86988ef42002ce6fd58801da3c4800aca"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft gained $7.6 billion from OpenAI last quarter",
+            "bullets": [
+              "Microsoft and OpenAI may have a notoriously rocky relationship but as OpenAI experiences never-before-seen revenue growth, Microsoft, one of its major investors, is benefiting greatly.",
+              "When the software giant reported its latest quarterly earnings on Wednesday, it dropped this rather large nugget in: Its net income increased by $7.6 billion from its investment in OpenAI.",
+              "OpenAI reportedly has a 20% revenue share agreement with Microsoft (though neither company has ever publicly confirmed that).",
+              "The software giant has invested more than $13 billion in the AI lab, which is currently looking to raise additional funding at a valuation between $750 billion and $830 billion, Bloomberg reported.",
+              "In September, Microsoft and OpenAI renegotiated some of the terms of their deal when OpenAI restructured into public benefit corporation.",
+              "As part of that deal, OpenAI agreed to buy another $250 billion of Azure services."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
+            "link": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
+            "site_name": "The Verge",
+            "novelty_hash": "271d76c8b1cfff65678ecc94972d15ad739a8d3b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
+            "bullets": [
+              "Microsoft reports strong cloud earnings in Q2 as gaming declines\nMicrosoft’s More Personal Computing division was the only business unit to post a revenue decline this quarter.",
+              "Microsoft didn’t announce any new Surface devices during the recent quarter, after launching both the 12-inch Surface Pro and 13-inch Surface Laptop in May last year.",
+              "That points towards softer sales numbers for Call of Duty: Black Ops 7, which not only had to go up against Battlefield 6, but also the success of Black Ops 6 in 2024.",
+              "Microsoft has continued to publish more games on PS5, as part of its strategy to make previously Xbox-exclusive games available on Nintendo and Sony platforms.",
+              "Microsoft revealed last year that Halo: Campaign Evolved is coming to PS5 and Xbox in 2026, and Fable and Forza Horizon 6 are also coming to Sony’s console this year.",
+              "Microsoft’s cloud revenue was once again strong this quarter, and even crossed $50 billion overall — up 26 percent year-over-year."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Seven things to know about how Apple's Creator Studio subscriptions work",
+            "link": "https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3130767e8f3da1c5d54fd055099b09aa27dd9d75"
+          },
+          "review": {
+            "headline_rewrite": "Seven things to know about how Apple's Creator Studio subscriptions work",
+            "bullets": [
+              "Apple’s new Creator Studio subscription bundle officially launches today, offering access to a wide range of updated professional apps for an all-or-nothing price of $13 a month or $130 a year.",
+              "The bundle includes either access to or enhanced features for a total of 10 Apple apps, though the base versions of several of these are available for free to all Mac and iPad owners:\n- Final Cut Pro\n- Logic Pro\n- Pixelmator Pro\n- Keynote, Pages, and Numbers\n- Freeform\n- Motion, Compressor, and MainStage (Mac only)\nWhen companies introduce a subscription-based model for long-standing apps with an established user base, they often shift exclusively to a subscription model, offering continuous updates in return for a more consistent revenue stream.",
+              "But these aren’t always popular with subscription-fatigued users, who have seen virtually all major paid software shift to a subscription model in the last 10 or 15 years, and who in recent years have had to deal with prices that are continuously being ratcheted upward.",
+              "Apple’s subscription shift looks a little less like Adobe’s approach to Photoshop and a little more like Microsoft’s approach to Office: many of these apps, particularly the Mac versions, will remain available for free or as standalone one-time purchases from the App Store.",
+              "What apps are still available individually?",
+              "Apple still offers Mac App Store versions of the following apps as one-time purchases:\n- Final Cut Pro ($300)\n- Logic Pro ($200)\n- Pixelmator Pro ($50)\n- Compressor ($50)\n- Motion ($50)\n- MainStage ($30)"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
+            "link": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
+            "site_name": "WIRED",
+            "novelty_hash": "70ad5fa73af35ba12174282c7c7e94c6651fa008"
+          },
+          "review": {
+            "headline_rewrite": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
+            "bullets": [
+              "United States Immigration and Customs Enforcement is leveraging Palantir’s generative artificial intelligence tools to sort and summarize immigration enforcement tips from its public submission form, according to an inventory released Wednesday of all use cases the Department of Homeland Security had for AI in 2025.",
+              "The AI Enhanced ICE Tip Processing service is intended to help ICE investigators “to more quickly identify and action tips” for urgent cases, as well as translate submissions not made in English, according to the inventory.",
+              "DHS says that the software is “being actively authorized” in support of ICE operations, adding that the tool helps reduce the “time-consuming manual effort required to review and categorize incoming tips.” The date when the AI-enhanced tip processing “became operational” is listed in the inventory as May 2, 2025.",
+              "The DHS inventory does not provide many details about the large language models Palantir uses to generate the BLUFs; however, it does note that ICE uses “commercially available large language models” that were “trained on the public domain data by their providers.”\n\"There was no additional training using agency data on top of what is available in the models’ base set of capabilities,” the inventory also notes.",
+              "“During operation, the AI models interact with tip submissions.\"\nThe “2025 DHS AI Use Case Inventory,” published Wednesday on DHS’s website, has been published for every year since 2022.",
+              "The 2024 version of the inventory does not mention using AI to process tip line submissions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Patreon creators have to switch to subscription billing by November, thanks to Apple",
+            "link": "https://www.engadget.com/big-tech/patreon-creators-have-to-switch-to-subscription-billing-by-november-thanks-to-apple-203759852.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9d57bb9c7aa5dd44754d6a7adce19caabb52a59c"
+          },
+          "review": {
+            "headline_rewrite": "Patreon creators have to switch to subscription billing by November, thanks to Apple",
+            "bullets": [
+              "On Wednesday, Patreon said Apple has renewed its requirement that all Patreon creators must move to subscription billing.",
+              "Instead, creators using legacy billing will now have to endure the whiplash of another policy reversal — the third such change from Apple in the past 18 months.\"\nUp to this point, Patreon’s billing model has operated in a gray area, allowing its creators to charge fans outside the App Store without paying Apple’s fees.",
+              "When the issue first surfaced, TechCrunch described it as stemming from how paid content was accessed (only some creators offered content that could be consumed in-app).",
+              "\"Late last year, they blocked a Patreon app update and made it clear that in order to remain in the App Store, we have to comply with their billing requirement.",
+              "Because millions of fans use iOS as their primary way to access Patreon and connect with creators, having our app blocked — or not available in the App Store at all — isn't an option.\"\nPatreon’s \"whiplash\" description isn't hyperbole.",
+              "Now, it appears to have reversed that again."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
