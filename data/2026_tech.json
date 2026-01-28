@@ -112343,6 +112343,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:01": [
+        {
+          "item": {
+            "title": "WhatsApp will now charge AI chatbots to operate in Italy",
+            "link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4c53d786ed1e0afa80521085357d07146f6644e8"
+          },
+          "review": {
+            "headline_rewrite": "WhatsApp will now charge AI chatbots to operate in Italy",
+            "bullets": [
+              "For now, Meta will charge developers in Italy, where the country’s competition watchdog asked the company to suspend its policy last December.",
+              "The company said that the new pricing for non-template responses will begin on February 16.",
+              "Meta plans to charge $0.0691/ €0.0572 / £0.0498 per message to developers for AI responses.",
+              "This could result in steep bills for developers if users are exchanging thousands of queries with AI chatbots every day.",
+              "Earlier this month, Meta sent notices to developers creating an exemption for Italian phone numbers and allowing AI chatbots to serve those customers.",
+              "Currently, WhatsApp already charges companies for using its API for various template responses to customers, which include use cases like marketing, utility, or authentication."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
+            "link": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b035d3bf1b41535c1af694d0cbac3aaca88c64e2"
+          },
+          "review": {
+            "headline_rewrite": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
+            "bullets": [
+              "AI data-labeling startup Handshake has acquired data label-auditing startup Cleanlab, the companies tell TechCrunch.",
+              "Handshake began in 2013 as a platform for hiring college grads and launched a human data-labeling business about a year ago to serve foundational AI model companies.",
+              "Cleanlab has raised a total of $30 million from investors, including Menlo Ventures, TQ Ventures, Bain Capital Ventures, and Databricks Ventures.",
+              "The goal is to improve the quality of the data Handshake produces for AI labs.",
+              "How high quality is that data?” Sahil Bhaiwala, chief strategy and innovation officer at Handshake told TechCrunch.",
+              "“The Cleanlab team has been focusing on this problem for years.”\nNorthcutt, the Cleanlab CEO who’s credited with pioneering its automated data-labeling auditing, said the company received acquisition interest from other AI data-labeling companies."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "I used Claude to vibe-code my wildly overcomplicated smart home",
+            "link": "https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home",
+            "site_name": "The Verge",
+            "novelty_hash": "8807a1a809d255534b7691606e19b5c5b091dfc5"
+          },
+          "review": {
+            "headline_rewrite": "I used Claude to vibe-code my wildly overcomplicated smart home",
+            "bullets": [
+              "From a “master command center” built on a Lutron system to AI controlling a smart oven, people were unleashing AI in their smart homes, using Claude Code to build tools that would normally take weeks to create by hand.",
+              "Network drop-offs and broken integrations abound, making it an ongoing headache to set up and maintain automations and sensor-based routines.",
+              "My smart home feels more Mary Shelley than Jetsons\nI’ve struggled for years to get the lights in my Minka-Aire ceiling fans (paired via a Bond Bridge) to work reliably with the Philips Hue lights in my kids’ bedrooms, and I’ve got oddities like a Wi-Fi-connected Sleep Number bed that knows everything about me but talks to nothing.",
+              "While the smart home standard Matter is starting to address some of these interoperability issues, it’s largely failed to help with existing devices.",
+              "Inspired by the fun that devs seem to be having with Claude Code’s capabilities, I decided to see if the AI could tame my monstrous smart home.",
+              "Along with regular Claude and Claude Code, Anthropic recently launched Cowork."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
+            "link": "https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3da82edb8ca3abc15f647cd97dbcacab35a7c245"
+          },
+          "review": {
+            "headline_rewrite": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
+            "bullets": [
+              "Alarming critics, the acting director of the Cybersecurity and Infrastructure Security Agency (CISA), Madhu Gottumukkala, accidentally uploaded sensitive information to a public version of ChatGPT last summer, Politico reported.",
+              "According to “four Department of Homeland Security officials with knowledge of the incident,” Gottumukkala’s uploads of sensitive CISA contracting documents triggered multiple internal cybersecurity warnings designed to “stop the theft or unintentional disclosure of government material from federal networks.”\nGottumukkala’s uploads happened soon after he joined the agency and sought special permission to use OpenAI’s popular chatbot, which most DHS staffers are blocked from accessing, DHS confirmed to Ars.",
+              "Instead, DHS staffers use approved AI-powered tools, like the agency’s DHSChat, which “are configured to prevent queries or documents input into them from leaving federal networks,” Politico reported.",
+              "It remains unclear why Gottumukkala needed to use ChatGPT.",
+              "One official told Politico that, to staffers, it seemed like Gottumukkala “forced CISA’s hand into making them give him ChatGPT, and then he abused it.”\nThe information Gottumukkala reportedly leaked was not confidential but marked “for official use only.” That designation, a DHS document explained, is “used within DHS to identify unclassified information of a sensitive nature” that, if shared without authorization, “could adversely impact a person’s privacy or welfare” or impede how federal and other programs “essential to the national interest” operate.",
+              "OpenAI did not respond to Ars’ request to comment, but Cyber News reported that experts have warned “that using public AI tools poses real risks because uploaded data can be retained, breached, or used to inform responses to other users.”\nSources told Politico that DHS investigated the incident for potentially harming government security—which could result in administrative or disciplinary actions, DHS officials told Politico."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Moltbot Is Taking Over Silicon Valley",
+            "link": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
+            "site_name": "WIRED",
+            "novelty_hash": "77c96dc7f67493fbb3ab851b698049fae08c3a13"
+          },
+          "review": {
+            "headline_rewrite": "Moltbot Is Taking Over Silicon Valley",
+            "bullets": [
+              "Dan Peguine, a tech entrepreneur and marketing consultant based in Lisbon, lets a precocious, lobster-themed AI assistant called Moltbot run much of his life.",
+              "It was magical.”\nMoltbot makes regular AI assistants, like Siri and Alexa, seem quaint.",
+              "The AI assistant is designed to run constantly on a user’s computer and communicate with different AI models, applications, and online services to get stuff done.",
+              "Peguine has his Moltbot, called “Pokey,” give him morning briefings, organize his workday to maximize productivity, arrange meetings, manage calendar conflicts, and deal with invoices.",
+              "The AI assistant has blown up on social media in recent days as developers, business types, and tech enthusiasts discovered its impressive powers of organization, automation, and all-round helpfulness.",
+              "“It’s the first time I have felt like I am living in the future since the launch of ChatGPT,” declared Dave Morin, another Moltbot fan, on X."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The entry-level Samsung Galaxy Buds FE are on sale for $30 off right now",
+            "link": "https://www.theverge.com/gadgets/868870/samsung-galaxy-buds-fe-kindle-paperwhite-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "1ac4335703b2fa5c9af928da78fed05c55067772"
+          },
+          "review": {
+            "headline_rewrite": "The entry-level Samsung Galaxy Buds FE are on sale for $30 off right now",
+            "bullets": [
+              "The entry-level Galaxy Buds 3 remain a solid pair of wireless earbuds, even if they are getting somewhat long in the tooth (they launched in the back half of 2023).",
+              "The portable Bluetooth speaker also leverages JBL’s AI Sound Boost tech, which optimizes the acoustic output level in real time using an AI-based algorithm.",
+              "- The 256GB OnePlus 15R, which recently received a shout-out in our guide to the best Android phones, is available with a $100 gift card at Amazon for $699.99.",
+              "It’s a bit lacking compared to other budget phones — there’s no wireless charging to speak of, and the camera system is nothing to write home about — but it still offers excellent performance thanks to a last-gen Snapdragon 8 Gen 5 chipset.",
+              "The 12th-gen Paperwhite remains the best option for most people, as it features a spacious 7-inch 300pi display, rich contrast levels, and an adjustable frontlight."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
