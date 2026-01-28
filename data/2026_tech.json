@@ -110909,6 +110909,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "17:17": [
+        {
+          "item": {
+            "title": "Our approach to website controls for Search AI features",
+            "link": "https://blog.google/products-and-platforms/products/search/search-ai-features-controls/",
+            "site_name": "Google",
+            "novelty_hash": "31a0d67ea0e03f5aaac663ccdc0b89884f6834f1"
+          },
+          "review": {
+            "headline_rewrite": "Our approach to website controls for Search AI features",
+            "bullets": [
+              "Our approach to website controls for Search AI features\nShifts in user behavior are rapidly changing how people search for information, and features like AI Overviews are helping people discover new content and ask more questions.",
+              "Today, the UK’s Competition and Markets Authority (CMA) opened a consultation on potential new requirements for Google Search, including on the controls we provide to websites to manage their content in Search AI features.",
+              "We added controls for things like Featured Snippets and image previews (which also apply to AI Overviews).",
+              "And more recently, we introduced Google-Extended, a new control that lets websites manage how their content is used to train our Gemini models.",
+              "Building on this framework, and working with the web ecosystem, we're now exploring updates to our controls to let sites specifically opt out of Search generative AI features.",
+              "As AI increasingly becomes a core part of how people find information, any new controls also need to be simple and scalable for website owners."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Waabi raises $1B and expands into robotaxis with Uber",
+            "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d06200710816c3bf8f3471b539bfa1947434ea1e"
+          },
+          "review": {
+            "headline_rewrite": "Waabi raises $1B and expands into robotaxis with Uber",
+            "bullets": [
+              "Autonomous vehicle startup Waabi has raised $1 billion and struck a partnership with Uber to deploy self-driving cars on the ride-hailing platform — the company’s first expansion beyond autonomous trucking.",
+              "The funding consists of an oversubscribed $750 million Series C round co-led by Khosla Ventures and G2 Venture Partners and roughly $250 million in milestone-based capital from Uber to support the deployment of 25,000 or more Waabi Driver-powered robotaxis exclusively on its platform.",
+              "The partnership represents a bet that the startup’s AI technology can succeed where others have struggled – scaling across multiple self-driving verticals with a single technology stack.",
+              "While competitors like Waymo previously attempted both robotaxis and trucking before shutting down its freight program, Waabi founder and CEO Raquel Urtasun says her company’s capital-efficient approach and generalizable AI architecture give it a unique advantage to tackle both markets simultaneously.",
+              "The tie-up and funding round come as Uber launches a new division called Uber AV Labs that will use its vehicles to collect data for AV partners.",
+              "TechCrunch Disrupt brings top leaders from Google Cloud, Netflix, Microsoft, Box, a16z, Hugging Face, and more to 250+ sessions designed to fuel growth and sharpen your edge."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google pitches Gemini to students studying for India’s most competitive college entrance exam",
+            "link": "https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ba4766c7b18f5f2d41b8d4fecef0beb7b8cc4851"
+          },
+          "review": {
+            "headline_rewrite": "Google pitches Gemini to students studying for India’s most competitive college entrance exam",
+            "bullets": [
+              "Google is expanding its push into AI-powered learning by adding full-length practice tests in Gemini for the Joint Entrance Exam (JEE), India’s nationwide engineering exam used to shortlist candidates for the country’s top technical institutes and taken by millions of students each year.",
+              "Google said students can take full-length mock exams for the JEE within Gemini, which will offer questions based on vetted content from Indian education firms PhysicsWallah and Careers360.",
+              "The launch comes after the company recently rolled out similar test-prep tools for the SAT.",
+              "Once students complete a mock test in Gemini, Google said the chatbot will provide immediate feedback, highlighting areas of strength and where further study is needed.",
+              "It can also explain correct answers and help students generate a customized study plan based on their performance, the company said.",
+              "The launch of practice tests in Gemini signals a broader push to position the chatbot as a tool for structured exam preparation rather than a shortcut to answers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Tim Cook had ‘a good conversation’ with Trump about deescalation",
+            "link": "https://www.theverge.com/news/869155/apple-tim-cook-president-trump-deescalate-minneapolis",
+            "site_name": "The Verge",
+            "novelty_hash": "91bd4de98ed65932f19258a9c0934dfb480e399d"
+          },
+          "review": {
+            "headline_rewrite": "Tim Cook had ‘a good conversation’ with Trump about deescalation",
+            "bullets": [
+              "In an internal memo reported by Bloomberg, Cook said that “this is a time for deescalation,” and that he had “a good conversation with the President this week where I shared my views.”\nTim Cook had ‘a good conversation’ with Trump about deescalation\nThoughts, prayers, and saving face.",
+              "Tim\nCook is one of several executives to have now spoken out about the heavy immigration enforcement actions in Minnesota, alongside OpenAI CEO Sam Altman and Anthropic’s Dario Amodei.",
+              "“If you want me to do things only for ROI reasons, you should get out of this stock,” he said back in 2014."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple Patches Old Versions of iOS to Keep iMessage and FaceTime Running",
+            "link": "https://arstechnica.com/gadgets/2026/01/apple-patches-ancient-ios-versions-to-keep-imessage-facetime-other-services-working/",
+            "site_name": "WIRED",
+            "novelty_hash": "3e4116c5caa2726d035934f97757548a9fc413b9"
+          },
+          "review": {
+            "headline_rewrite": "Apple Patches Old Versions of iOS to Keep iMessage and FaceTime Running",
+            "bullets": [
+              "When Apple stops supporting older iPhones and iPads with the latest version of iOS or iPadOS, it usually isn’t the end of the line—Apple keeps releasing new security-only patches for those devices for another year or two, keeping them usable while their hardware is still reasonably capable.",
+              "Those updates include iOS 12.5.8, available for devices as old as 2013’s iPhone 5S and 2014’s iPhone 6; iOS 15.8.6, available for devices like the iPhone 6S, iPhone 7, and iPad Air 2; and iOS 16.7.13, available for devices like the iPhone 8 and iPhone X.",
+              "These updates don’t patch security flaws or add new features.",
+              "According to Apple’s release notes for the iOS 12 and iOS 15 updates, all they do is update a security certificate to ensure that iMessage, FaceTime, and Apple account sign-in will continue working past January 2027, when the operating systems’ original certificate would have expired.",
+              "Oddly, the iOS 16 update doesn’t mention the security certificate, and there’s no equivalent update for devices stuck on iOS 17.",
+              "Many of these devices have just 1 or 2 GB of RAM, and their built-in Safari browsers will be missing features and security patches needed to browse the modern web safely."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A North Atlantic Right Whale Baby Boom Is On—but the Species Remains at Risk",
+            "link": "https://www.wired.com/story/a-north-atlantic-right-whale-baby-boom-is-on-but-the-species-remains-at-risk/",
+            "site_name": "WIRED",
+            "novelty_hash": "e95f87e992c5db25efb0e6492cb8bbe54c73db52"
+          },
+          "review": {
+            "headline_rewrite": "A North Atlantic Right Whale Baby Boom Is On—but the Species Remains at Risk",
+            "bullets": [
+              "Julie Albert, director of the Right Whale Sighting Network at Blue World Research Institute, a nonprofit, first laid eyes on the North Atlantic right whale known as Callosity Back in 2007 when it was still just a calf, swimming off the coast of Florida.",
+              "“I’ve been waiting 19 years to see this mother,” says Albert.",
+              "The whale observers—joined occasionally by hotel guests—watched the mother and calf pair swimming for hours, until darkness finally fell.",
+              "But it doesn’t change the overall picture for these animals, which remain in great jeopardy.",
+              "A series of collisions with vessels, or entanglements with fishing gear, could easily kill enough North Atlantic right whales to flip the species’ fortunes the other way again, as happened in 2017, when 18 right whales died during a period of just six months.",
+              "The people who monitor and protect right whales, and who know these animals’ stories in great detail, will tell you that a flurry of calves, while wonderful in itself, by no means guarantees the species’ long-term survival."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
