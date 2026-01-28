@@ -49664,7 +49664,45 @@
           }
         }
       ],
-      "00:59": []
+      "00:59": [],
+      "01:24": [
+        {
+          "item": {
+            "title": "US yields climb as Fed holds rates steady; flags sticky inflation, firmer labor market",
+            "link": "https://www.livemint.com/market/us-yields-climb-as-fed-holds-rates-steady-flags-sticky-inflation-firmer-labor-market-11769629874107.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US yields climb as Fed holds rates steady; flags sticky inflation, firmer labor market",
+            "bullets": [
+              "Treasury yields advanced on Wednesday, briefly extending earlier gains, after the Federal Reserve left interest rates steady, as widely expected, and noted that inflation",
+              "This suggested that Fed policymakers have become less worried about a deterioration in the labor market.",
+              "Both Governor Christopher Waller, a contender to replace Fed Chair Jerome Powell when his term as central bank chief ends in May, and Governor",
+              "Following the Fed decision, the benchmark 10-year yield gained 4.2 basis points to 4.265%."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "US Fed meeting: FOMC holds rates steady. How can it impact the Indian stock market?",
+            "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-fomc-holds-rates-steady-how-can-it-impact-the-indian-stock-market-11769629030936.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US Fed meeting: FOMC holds rates steady. How can it impact the Indian stock market?",
+            "bullets": [
+              "As widely expected, the US Federal Open Market Committee (FOMC) on January 28 maintained a status quo on policy rates, after cutting rates in",
+              "Inflation remains somewhat elevated.” A status quo on rate cuts is unlikely to have a significant impact on the Indian stock market, as it",
+              "\"The market had already discounted this status quo on policy rates.",
+              "The policy decision is unlikely to affect the Indian stock market."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
     }
   }
 }
