@@ -111855,6 +111855,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:32": [
+        {
+          "item": {
+            "title": "The new era of browsing: Putting Gemini to work in Chrome",
+            "link": "https://blog.google/products-and-platforms/products/chrome/gemini-3-auto-browse/",
+            "site_name": "Google",
+            "novelty_hash": "f467a05beab061784a1313165edb43b5fa10f9cb"
+          },
+          "review": {
+            "headline_rewrite": "The new era of browsing: Putting Gemini to work in Chrome",
+            "bullets": [
+              "Built on Gemini 3, our most intelligent model, we’re integrating powerful new AI features in Chrome that help you multitask across the web with a new side panel experience.",
+              "We’re also bringing deeper integrations across our most popular Google Apps so you can be more productive, helping on complex multi-step workflows with auto browse and, in the coming months, you’ll get more contextually relevant help with Personal Intelligence.",
+              "Introducing a new way to browse with side panel: multitasking, reimagined\nWe're launching a new side panel experience so Gemini in Chrome users can always have a browsing assistant at your side, no matter what tab you're in.",
+              "Our testers have been using it for all sorts of things: comparing options across too-many-tabs, summarizing product reviews across different sites, and helping find time for events in even the most chaotic of calendars.",
+              "Available to all Gemini in Chrome users, just type a prompt in the side panel to explain what you’re trying to do.",
+              "Get things done across Connected Apps\nGemini in Chrome supports Connected Apps, like integrations to Gmail, Calendar, YouTube, Maps, Google Shopping and Google Flights."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+            "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eb5c385ae095894209e8318eb0258a44450d2173"
+          },
+          "review": {
+            "headline_rewrite": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+            "bullets": [
+              "Many in the industry think the winners of the AI model market have already been decided: Big Tech will own it (Google, Meta, Microsoft, a bit of Amazon) along with their model makers of choice, largely OpenAI and Anthropic.",
+              "But tiny 30-person startup Arcee AI disagrees.",
+              "The company just released a truly and permanently open (Apache license) general-purpose, foundation model called Trinity, and Arcee claims that at 400B parameters, it is among the largest open-source foundation models ever trained and released by a U.S.",
+              "Arcee says Trinity compares to Meta’s Llama 4 Maverick 400B, and Z.ai GLM-4.5, a high-performing open-source model from China’s Tsinghua University, according to benchmark tests conducted using base models (very little post training).",
+              "But before adding more AI modes to its roster, Arcee says, it wanted a base LLM that would impress its main target customers: developers and academics.",
+              "“Ultimately, the winners of this game, and the only way to really win over the usage, is to have the best open-weight model,” Atkins said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+            "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6ff276445c353d8b9424d35ed9bc9289c48b6762"
+          },
+          "review": {
+            "headline_rewrite": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+            "bullets": [
+              "2025 was the year when a swarm of AI browsers from companies like OpenAI, Perplexity, Opera, and The Browser Company launched with an aim to replace Chrome with features like sidebar assistants and automated tasks.",
+              "Now, Google is flexing its own AI muscles by adding similar features to Chrome, the world’s largest browser by market share.",
+              "With this update, the company will put its AI helper into a persistent sidebar, so you can ask questions about the current website or other open tabs.",
+              "One interesting feature Google demoed to press ahead of today’s launch involved multiple tabs.",
+              "This is helpful when you are comparing prices or different products you’re considering purchasing.",
+              "Before today, the Gemini in Chrome feature was available only to Windows and MacOS users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The noise-canceling AirPods 4 are down to $120, one of their best prices yet",
+            "link": "https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "bacd667f524cc5c0961dc692e5a95f798e136511"
+          },
+          "review": {
+            "headline_rewrite": "The noise-canceling AirPods 4 are down to $120, one of their best prices yet",
+            "bullets": [
+              "The AirPods Pro 3 may be on sale for $199 ($50 off), but that’s still a lot of money.",
+              "If you want noise cancellation for less, fortunately you can buy the AirPods 4 with Active Noise Cancellation for $119 ($60 off) at Amazon and Walmart.",
+              "The noise-canceling AirPods 4 are down to $120, one of their best prices yet\nThey’re a great budget alternative to the AirPods Pro 3, offering solid noise cancellation, sound, and wireless charging.",
+              "For the price, the AirPods 4 do a surprisingly good job of tuning out the outside world.",
+              "While they don’t drown out noise as completely as the AirPods Pro, they significantly reduce ambient and low-frequency sounds on planes and in offices, especially when listening to music.",
+              "Beyond noise cancellation, the AirPods 4 offer the best sound we’ve heard from an entry-level AirPods model so far, with richer bass than previous generations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Process Zero II will let you do a little processing, if you want",
+            "link": "https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update",
+            "site_name": "The Verge",
+            "novelty_hash": "481cce00e4e47859bd00e0a44239433c015177d4"
+          },
+          "review": {
+            "headline_rewrite": "Process Zero II will let you do a little processing, if you want",
+            "bullets": [
+              "It’s been years in the making, and it’ll be available as a “Public Preview,” letting users get their hands on new features while design is finalized.",
+              "Contrast can exist alongside highlight detail, shadows can be shadows, and everybody gets a pony.",
+              "In a related move, you’ll be able to shoot ProRaw in Process Zero so you can toy with a version of your image that’s been through part of Apple’s processing pipeline and retains more flexibility for tweaks after capture.",
+              "Halide’s blog post is careful to point out that it doesn’t use AI, and is less heavy-handed than Apple’s default processing.",
+              "The Mark III update is available now; subscribers can toggle it on within the current app.",
+              "The final update will be available free of charge to all Halide II subscribers."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
+            "link": "https://arstechnica.com/gadgets/2026/01/review-amds-ryzen-7-9850x3d-is-a-little-faster-and-a-lot-more-power-hungry/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8191dc5a4db7d039bad97be3654a21362db69434"
+          },
+          "review": {
+            "headline_rewrite": "Review: AMD's Ryzen 7 9850X3D is a little faster and a lot more power-hungry",
+            "bullets": [
+              "The kernel of the idea has remained the same throughout AMD’s efforts: take an existing desktop processor design and graft 64MB of additional L3 cache onto it.",
+              "This approach disproportionately helps apps that benefit from more cache, particularly games, and the size of the boost that 3D V-Cache gives to game performance has always been enough to offset any downsides these chips have come with.",
+              "In the four years since the 5800X3D was released, AMD also has steadily chipped away at those disadvantages, adding more CPU cores, improving power consumption and temperatures, and re-adding the typical Ryzen range of overclocking controls.",
+              "AMD’s new Ryzen 7 9850X3D, which launches for $499 starting tomorrow, is the very definition of a mild upgrade.",
+              "That’s the chip.",
+              "But it is mildly interesting that the 9800X3D’s 5.6GHz boost clock is now 100 MHz higher than that of the Ryzen 7 9700X, the chip’s nearest non-V-Cache equivalent."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
