@@ -113063,6 +113063,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "05:21": [
+        {
+          "item": {
+            "title": "Microsoft gained $7.6B from OpenAI last quarter",
+            "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6f2cf65a607f698e70f1f90060401a32dc6f4240"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft gained $7.6B from OpenAI last quarter",
+            "bullets": [
+              "Microsoft and OpenAI may have a notoriously rocky relationship but as OpenAI experiences never-before-seen revenue growth, Microsoft, one of its major investors, is benefiting greatly.",
+              "When the software giant reported its latest quarterly earnings on Wednesday, it dropped this rather large nugget in: Its net income increased by $7.6 billion from its investment in OpenAI.",
+              "OpenAI reportedly has a 20% revenue share agreement with Microsoft (though neither company has ever publicly confirmed that).",
+              "The software giant has invested more than $13 billion in the AI lab, which is currently looking to raise additional funding at a valuation between $750 billion and $830 billion, Bloomberg reported.",
+              "In September, Microsoft and OpenAI renegotiated some of the terms of their deal when OpenAI restructured into a public benefit corporation.",
+              "As part of that deal, OpenAI agreed to buy another $250 billion of Azure services."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+            "link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7b446e4fd84276aaada1c0ade4ba07fe230a172d"
+          },
+          "review": {
+            "headline_rewrite": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+            "bullets": [
+              "Mark Zuckerberg says Meta users will start to see new AI models and products from the company in a matter of months.",
+              "“In 2025, we rebuilt the foundations of our AI program,” Zuckerberg said on an investor call Wednesday, referring to the company’s recently restructured AI lab.",
+              "“Over the coming months, we’re going to start shipping our new models and products… and I expect us to steadily push the frontier over the course of the new year.”\nBut while Zuckerberg didn’t give specific timelines or products, he highlighted AI-driven commerce as a particular area of focus for Meta.",
+              "“New agentic shopping tools will allow people to find just the right set of products from the businesses in our catalog.”\nThat proposal echoes broader interest in AI-powered shopping assistants across the industry.",
+              "Both Google and OpenAI have built platforms for agent-enabled transactions, with companies like Stripe and Uber signed on as partners.",
+              "But while other AI labs have already built significant technical infrastructure, Meta believes its access to personal data will prove uniquely valuable."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Seven things to know about how Apple's Creator Studio subscriptions work",
+            "link": "https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3130767e8f3da1c5d54fd055099b09aa27dd9d75"
+          },
+          "review": {
+            "headline_rewrite": "Seven things to know about how Apple's Creator Studio subscriptions work",
+            "bullets": [
+              "Apple’s new Creator Studio subscription bundle officially launches today, offering access to a wide range of updated professional apps for an all-or-nothing price of $13 a month or $130 a year.",
+              "The bundle includes either access to or enhanced features for a total of 10 Apple apps, though the base versions of several of these are available for free to all Mac and iPad owners:\n- Final Cut Pro\n- Logic Pro\n- Pixelmator Pro\n- Keynote, Pages, and Numbers\n- Freeform\n- Motion, Compressor, and MainStage (Mac only)\nWhen companies introduce a subscription-based model for long-standing apps with an established user base, they often shift exclusively to a subscription model, offering continuous updates in return for a more consistent revenue stream.",
+              "But these aren’t always popular with subscription-fatigued users, who have seen virtually all major paid software shift to a subscription model in the last 10 or 15 years, and who in recent years have had to deal with prices that are continuously being ratcheted upward.",
+              "Apple’s subscription shift looks a little less like Adobe’s approach to Photoshop and a little more like Microsoft’s approach to Office: many of these apps, particularly the Mac versions, will remain available for free or as standalone one-time purchases from the App Store.",
+              "What apps are still available individually?",
+              "Apple still offers Mac App Store versions of the following apps as one-time purchases:\n- Final Cut Pro ($300)\n- Logic Pro ($200)\n- Pixelmator Pro ($50)\n- Compressor ($50)\n- Motion ($50)\n- MainStage ($30)"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Mark Zuckerberg is all in on AI as the new social media",
+            "link": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
+            "site_name": "The Verge",
+            "novelty_hash": "b06e66c79f7873cc2a1b5575a3a8a7f9d3c3ba67"
+          },
+          "review": {
+            "headline_rewrite": "Mark Zuckerberg is all in on AI as the new social media",
+            "bullets": [
+              "Meta CEO Mark Zuckerberg’s metaverse dreams seem to have been replaced by a new vision: an AI-generated social feed.",
+              "In an earnings call on Wednesday, Zuckerberg reiterated his belief that AI will become the next big media format, making feeds “more immersive and interactive:”\nMark Zuckerberg is all in on AI as the new social media\nWho has time for the metaverse when you can try AI-generated inspo content instead?",
+              "Soon, we’ll see an explosion of new media formats that are more immersive and interactive, and only possible because of advances in AI.",
+              "Zuckerberg added that apps currently “feel like algorithms that recommend content.” But that’s going to change, according to Zuckerberg, as Meta’s apps will eventually greet users with AI that “understands” them, can serve up content they like, and “generate great personalized content.”\nLast year, Zuckerberg similarly brought up an AI-infused social media, saying that Meta would “add yet another huge corpus of content” to its recommendation system as AI makes content “easier to create and remix.” Meta has already realized part of this plan, as it launched a new “Vibes” feed in the Meta AI app that lets you scroll through a feed of short, AI-generated videos.",
+              "“There’s definitely a version of the future where any video that you see, you can tap on and jump into it and… experience it in a more meaningful way,” Zuckerberg said.",
+              "As the call progressed, Zuckerberg didn’t bring up goals for the metaverse, instead saying that the company’s investments in virtual reality (VR) and Horizon Worlds will “pair well with these AI advances,” helping to bring these experiences to people “through mobile.” Meta’s Reality Labs, which includes a metaverse division, reported a $6.02 billion operating loss during the last three months of 2025."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Patreon creators have to switch to subscription billing by November, thanks to Apple",
+            "link": "https://www.engadget.com/big-tech/patreon-creators-have-to-switch-to-subscription-billing-by-november-thanks-to-apple-203759852.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9d57bb9c7aa5dd44754d6a7adce19caabb52a59c"
+          },
+          "review": {
+            "headline_rewrite": "Patreon creators have to switch to subscription billing by November, thanks to Apple",
+            "bullets": [
+              "On Wednesday, Patreon said Apple has renewed its requirement that all Patreon creators must move to subscription billing.",
+              "Instead, creators using legacy billing will now have to endure the whiplash of another policy reversal — the third such change from Apple in the past 18 months.\"\nUp to this point, Patreon’s billing model has operated in a gray area, allowing its creators to charge fans outside the App Store without paying Apple’s fees.",
+              "When the issue first surfaced, TechCrunch described it as stemming from how paid content was accessed (only some creators offered content that could be consumed in-app).",
+              "\"Late last year, they blocked a Patreon app update and made it clear that in order to remain in the App Store, we have to comply with their billing requirement.",
+              "Because millions of fans use iOS as their primary way to access Patreon and connect with creators, having our app blocked — or not available in the App Store at all — isn't an option.\"\nPatreon’s \"whiplash\" description isn't hyperbole.",
+              "Now, it appears to have reversed that again."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Mark Zuckerberg says Reality Labs will (eventually) stop losing so much money",
+            "link": "https://www.engadget.com/social-media/mark-zuckerberg-says-reality-labs-will-eventually-stop-losing-so-much-money-222900157.html",
+            "site_name": "Engadget",
+            "novelty_hash": "36aba86869f6c06f84f80e55863d9b5ec1fa75a7"
+          },
+          "review": {
+            "headline_rewrite": "Mark Zuckerberg says Reality Labs will (eventually) stop losing so much money",
+            "bullets": [
+              "The CEO said he expects to \"gradually reduce\" how much money the company is losing as it doubles down on AI glasses and shifts away from virtual reality.",
+              "\"For Reality Labs, we are directing most of our investment towards glasses and wearables going forward, while focusing on making Horizon a massive success on mobile and making VR a profitable ecosystem over the coming years,\" he said.",
+              "Instead, Meta is doubling down on its smart glasses and and wearables business, which tie in more neatly to Zuckerberg's vision for creating AI \"superintelligence.\"\nDuring the call, Zuckerberg noted that sales of Meta's smart glasses \"more than tripled\" in 2025, and hinted at bigger plans for AR glasses.",
+              "\"They [AI glasses] are going to be able to see what you see, hear what you hear, talk to you and help you as you go about your day and even show you information or generate custom UI right there in your vision,\" he said.",
+              "Zuckerberg has spent the last few years laying the groundwork for pivoting Meta's metaverse work into AI.",
+              "And I think that the investments that we've done in both a lot of the virtual reality software and Horizon … are actually going to pair well with these AI advances to be able to bring some of those experiences to hundreds of millions and billions of people through mobile.\"\nOne thing Zuckerberg didn’t mention, though: the word “metaverse.”"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
