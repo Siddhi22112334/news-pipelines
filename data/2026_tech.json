@@ -114177,6 +114177,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:25": [
+        {
+          "item": {
+            "title": "Upwind raises $250M at $1.5B valuation to continue building ‘runtime’ cloud security",
+            "link": "https://techcrunch.com/2026/01/29/upwind-raises-250m-at-1-5b-valuation-to-continue-building-runtime-cloud-security/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a9394384cf0f69642b9b7ad0d94d00e1b84fd6ec"
+          },
+          "review": {
+            "headline_rewrite": "Upwind raises $250M at $1.5B valuation to continue building ‘runtime’ cloud security",
+            "bullets": [
+              "From the outside, Upwind Security looks like it’s had a smooth journey so far.",
+              "Just four years in, the cloud security startup is now worth $1.5 billion, and boasts the likes of Siemens, Peloton, Roku, Wix, Nextdoor and Nubank among its clientele.",
+              "But if you ask the company’s co-founder and CEO Amiram Shachar, the journey to get here was anything but certain.",
+              "“Developing a new approach was difficult; people are used to installing certain agents on machines, but they don’t like doing it.”\nUpwind likes to call that approach “runtime” security: Prioritizing alerts and remediation efforts around threats and vulnerabilities in active services in real time.",
+              "As Shachar puts it, it’s an “inside-out” take on cloud security, where internal signals like network requests and API traffic function as context to help security teams separate urgent risks from those that can wait.",
+              "Developing that approach wasn’t easy, however, as Shachar and his co-founders didn’t have a traditional background in security: they first built and sold a cloud compute brokerage called Spot.io, to NetApp for around $450 million in 2020."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple hires iPhone camera app Halide’s co-founder for its design team",
+            "link": "https://techcrunch.com/2026/01/29/apple-hires-iphone-camera-app-halides-co-founder-for-its-design-team/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3c4789b79949130bcde55150b343cb8598ce05d9"
+          },
+          "review": {
+            "headline_rewrite": "Apple hires iPhone camera app Halide’s co-founder for its design team",
+            "bullets": [
+              "Sebastiaan de With, the co-founder of Lux which makes iPhone photo and video apps like Halide and Kino, said on Wednesday that he has joined Apple’s design team.",
+              "This is de With’s second stint with Apple, where he previously worked on iCloud and Find My.",
+              "“So excited to work with the very best team in the world on my favorite products,” de With said in a post on X.",
+              "Meanwhile, Sandofsky said in a Reddit post that Halide will still be developed by Lux.",
+              "The company today released a public preview of the new version of the app, Halide Mark III, and said it is focusing on “Looks,” a feature that will recreate the aesthetics of film cameras."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "There won’t be a Nothing Phone 4 this year",
+            "link": "https://www.theverge.com/tech/869975/nothing-phone-4-not-releasing-2026-flagship",
+            "site_name": "The Verge",
+            "novelty_hash": "ac371444bf1426c0da5c13bc70d79731e964c6ef"
+          },
+          "review": {
+            "headline_rewrite": "There won’t be a Nothing Phone 4 this year",
+            "bullets": [
+              "Nothing CEO Carl Pei confirmed the Phone 4 won’t launch in 2026 in a new video on the brand’s YouTube channel.",
+              "“There’s no new flagship this year,” Pei said when asked about phone plans for 2026, instead emphasizing that last year’s Phone 3 remains the Nothing flagship.",
+              "“We’re not just going to churn out a new flagship every year for the sake of it, we want every upgrade to feel significant,” Pei said.",
+              "“Just because the rest of the industry does things a certain way it doesn’t mean we will do the same.”\nNothing is releasing phones though, with the midrange Phone 4A series on the way.",
+              "“4A will be a complete evolution over its predecessor across the board, from display, to camera, to overall performance,” Pei said, adding it will be closer to a flagship experience than the 3A series.",
+              "He was light on the details, beyond the promise of premium materials and “bold new experimentation in terms of color.”"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Best Open Earbuds (2026): Bose, Soundcore, and More",
+            "link": "https://www.wired.com/gallery/best-open-ear-buds/",
+            "site_name": "WIRED",
+            "novelty_hash": "e803d8b0ce9fca21f62f26cc90e0bc17743864cf"
+          },
+          "review": {
+            "headline_rewrite": "Best Open Earbuds (2026): Bose, Soundcore, and More",
+            "bullets": [
+              "There are a ton of options out there, so we set ourselves to task, testing every new pair we can get our hands on.",
+              "Semi-open earbuds like Apple's standard AirPods give you a semblance of what open earbuds offer, but it’s not the same experience.",
+              "Some people who have trouble with regular ear tips swear by the standard AirPods design as a more comfortable fit, but if you want to keep in touch with the world around you, fully open earbuds are better.",
+              "Open earbuds support many of the same features found in traditional earbuds like multipoint connectivity for pairing with two devices at a time over Bluetooth, sensors for auto-pause, water resistance, and even spatial audio.",
+              "Because of the limitations of their physical designs, open earbud controls are often more limited or less effective than those on traditional earbuds, but the best pairs work around these constraints for convenient control.",
+              "While it’s true that some semi-open earbuds like the AirPods 4 offer noise canceling, it's generally very limited with only lower frequencies seeing any noise reduction."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "6 Best Coffee Makers (2026): Drip Is Drippin’",
+            "link": "https://www.wired.com/gallery/best-coffee-makers/",
+            "site_name": "WIRED",
+            "novelty_hash": "65a4e4fc26a833b48283c5f75b658d46a908c7ee"
+          },
+          "review": {
+            "headline_rewrite": "6 Best Coffee Makers (2026): Drip Is Drippin’",
+            "bullets": [
+              "The technology behind the best drip coffee makers has evolved rapidly in the past decade, transforming drip coffee machines from break-room necessity to home office luxury.",
+              "My top pick, the Fellow Aiden (8/10, WIRED Recommends), is a powerful machine that can account for your local elevation and has special recipes for individual coffee beans, but it's so easy to use you could give it as a gift to your dad.",
+              "That said, there are still a couple budget devices that make actual good coffee.",
+              "Amid testing, I also held side-by-side taste tests against other machines I liked, with the same ratios and coffee, to see how each stood up to the other.",
+              "Since the early 2000s, baristas with twirly mustaches have gotten quite good at coaxing out these flavors wtih cafe pour-over—using good grinders, tight temperature control and painstakingly evenly immersed coffee grounds.",
+              "They “bloom” coffee to further aid even extraction."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DJI launches the lightweight RS 5 camera gimbal for video creators",
+            "link": "https://www.engadget.com/cameras/dji-launches-the-lightweight-rs-5-camera-gimbal-for-video-creators-120056173.html",
+            "site_name": "Engadget",
+            "novelty_hash": "517eb34b8c9dfeda057087ef84efce25413652a4"
+          },
+          "review": {
+            "headline_rewrite": "DJI launches the lightweight RS 5 camera gimbal for video creators",
+            "bullets": [
+              "It can also help maintain a locked focus on a human subject up to 10 meters away.",
+              "It's been designed to carry a wide range of mainstream mirrorless cameras and lens combinations and can switch to vertical shooting without additional accessories.",
+              "We don't have a US release date or even any information as to if it will be available here."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
