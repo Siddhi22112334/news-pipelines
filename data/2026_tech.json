@@ -114887,5 +114887,131 @@
         }
       ]
     }
+  },
+  "2026-01-30": {
+    "runs": {
+      "00:13": [
+        {
+          "item": {
+            "title": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+            "link": "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "dfe889984d85d970ae1a1b79ff1c95cecb826ecc"
+          },
+          "review": {
+            "headline_rewrite": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+            "bullets": [
+              "By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.",
+              "At CES earlier this month, NVIDIA introduced a new suite of open physical AI models and frameworks to accelerate the development of humanoids, autonomous vehicles and other physical AI embodiments.",
+              "These tools span the entire robotics development lifecycle — from high-fidelity world simulation and synthetic data generation to cloud-native orchestration and edge deployment — giving developers a modular toolkit to build autonomous systems that can reason, learn and act in the real world.",
+              "OpenUSD provides the common framework that standardizes how 3D data is shared across these physical AI tools, enabling developers to build accurate digital twins and reuse them seamlessly from simulation to deployment.",
+              "From Labs to the Show Floor\nAt CES 2026, developers brought the NVIDIA physical AI stack out of the lab and onto the show floor, debuting machines ranging from heavy equipment and factory assistants to social and service robots.",
+              "The stack taps into NVIDIA Cosmos world models; NVIDIA Isaac technologies, including the new Isaac Lab-Arena open source framework for policy evaluation; the NVIDIA Alpamayo open portfolio of AI models, simulation frameworks and physical AI datasets for autonomous vehicles; and the NVIDIA OSMO framework to orchestrate training across compute environments."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Project Genie: Experimenting with infinite, interactive worlds",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+            "site_name": "Google",
+            "novelty_hash": "3761c0cc6188e82aacf9bdcd14e85baf4d8f332b"
+          },
+          "review": {
+            "headline_rewrite": "Project Genie: Experimenting with infinite, interactive worlds",
+            "bullets": [
+              "Project Genie: Experimenting with infinite, interactive worlds\nStarting today, we're rolling out access to Project Genie for Google AI Ultra subscribers in the U.S (18+).",
+              "Building on our model research with trusted testers from across industries and domains, we are taking the next step with an experimental research prototype: Project Genie.",
+              "World exploration\nYour world is a navigable environment that’s waiting to be explored.",
+              "As with all our work towards general AI systems, our mission is to build AI responsibly to benefit humanity.",
+              "You can find more details on model limitations and future updates on how we’re improving the experience, here.",
+              "Building on the work we have been doing with trusted testers, we are excited to share this prototype with users of our most advanced AI to better understand how people will use world models in many areas of both AI research and generative media."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft is working to rebuild trust in Windows",
+            "link": "https://www.theverge.com/tech/870045/microsoft-windows-11-issues-rebuilding-trust-notepad",
+            "site_name": "The Verge",
+            "novelty_hash": "86df24905cfe3045eacbc1bf2b11848894cf332c"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft is working to rebuild trust in Windows",
+            "bullets": [
+              "In its 40-year history, the operating system has weathered its fair share of missteps, but Windows 11 is testing the patience of its users in new ways.",
+              "Early system requirement decisions have also damaged trust among Microsoft’s most loyal users, an erosion that’s accelerated by the company’s aggressive push into AI that doesn’t always deliver on its promises.",
+              "Sources familiar with the company’s plans tell me Windows engineers are now focusing on fixing the core issues of Windows 11 over the coming months, in a process known as “swarming.” Microsoft is redirecting engineers to urgently fix Windows 11’s performance and reliability issues, aiming to halt the operating system’s death by a thousand cuts.",
+              "Microsoft is also going to spend the rest of the year focusing on all of the Windows 11 pain points.",
+              "“This year you will see us focus on addressing pain points we hear consistently from customers: improving system performance, reliability, and the overall experience of Windows.”\nWe’re only a month into the new year and the Windows 11 bugs are only getting worse.",
+              "Microsoft has also confirmed that some PCs used by businesses are failing to boot after installing its January update, because they were left in an “improper state” after failing to install December’s monthly update."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "I built marshmallow castles in Google’s new AI world generator",
+            "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e831c703f4e4365e061766bf4afcf8f9bd15a838"
+          },
+          "review": {
+            "headline_rewrite": "I built marshmallow castles in Google’s new AI world generator",
+            "bullets": [
+              "Google DeepMind is opening up access to Project Genie, its AI tool for creating interactive game worlds from text prompts or images.",
+              "Starting Thursday, Google AI Ultra subscribers in the U.S.",
+              "Coming five months after Genie 3’s research preview, the move is part of a broader push to gather user feedback and training data as DeepMind races to develop more capable world models.",
+              "World models are AI systems that generate an internal representation of an environment, and can be used to predict future outcomes and plan actions.",
+              "Many AI leaders, including those at DeepMind, believe world models are a crucial step to achieving artificial general intelligence (AGI).",
+              "But in the nearer term, labs like DeepMind envision a go-to-market plan that starts with video games and other forms of entertainment and branches out into training embodied agents (aka robots) in simulation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s Sora app is struggling after its stellar launch",
+            "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "952efa3d285057734cb7e6f7a609b0edd7b8c586"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s Sora app is struggling after its stellar launch",
+            "bullets": [
+              "After rapidly hitting the top of the App Store in October, OpenAI’s video-generation app Sora is now struggling.",
+              "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off.",
+              "Powered by OpenAI’s video generation model Sora 2, the iOS version topped 100,000 installs on day one, despite being an invite-only experience.",
+              "Consumer spending has dropped as well, down 32% month-over-month as of January, Appfigures said.",
+              "OpenAI did not immediately respond to a request for comment.",
+              "Like an AI-flavored TikTok, Sora allows users to create AI videos using prompts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s AI helped me make bad Nintendo knockoffs",
+            "link": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on",
+            "site_name": "The Verge",
+            "novelty_hash": "1a32fcb8e401861a4145c25c5447b9ceab9a3462"
+          },
+          "review": {
+            "headline_rewrite": "Google’s AI helped me make bad Nintendo knockoffs",
+            "bullets": [
+              "This week, a new generative AI tool from Google let me create bad knockoffs of 3D Nintendo worlds.",
+              "Google’s AI helped me make bad Nintendo knockoffs\nIt’s what I had the most fun using Google’s Project Genie for, at least right now.",
+              "Google DeepMind has been putting a lot of effort into building its AI “world” models that can generate virtual interactive spaces with text or images as prompts.",
+              "The company announced its impressive-looking Genie 3 model last year, but it was only available as “a limited research preview” at the time.",
+              "Project Genie, which will be rolling out to Google AI Ultra subscribers in the US starting today, will be the first opportunity for more people to actually try out what Genie 3 is capable of.",
+              "“It’s really for us to actually learn about new use cases that we hadn’t thought about,” Diego Rivas, a product manager at Google DeepMind, tells The Verge."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
