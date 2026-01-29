@@ -115858,6 +115858,126 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:27": [
+        {
+          "item": {
+            "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+            "link": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9929b3563bc0257ef6e14d000da3c0cb19f44790"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+            "bullets": [
+              "Microsoft this week deployed its first crop of its homegrown AI chips in one of its data centers, with plans to roll out more in the coming months, it says.",
+              "The chip, named the Maia 200, is designed to be what Microsoft calls an “AI inference powerhouse,” meaning it’s optimized for the compute-intensive work of running AI models in production.",
+              "The company released some impressive processing-speed specs for Maia, saying it outperforms Amazon’s latest Trainium chips and Google’s latest Tensor Processing Units (TPU).",
+              "All of the cloud giants are turning to their own AI chip designs in part because of the difficulty, and expense, of obtaining the latest and greatest from Nvidia — a supply crunch that shows no signs of abating.",
+              "But even with its own state-of-the-art, high-performance chip in hand, Microsoft CEO Satya Nadella said the company will still be buying chips made by others.",
+              "We are innovating,” he explained."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+            "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f9bbeea82cdc7f32c5859f5d412008c404f74ef5"
+          },
+          "review": {
+            "headline_rewrite": "Amazon is reportedly in talks to invest $50B in OpenAI",
+            "bullets": [
+              "OpenAI, a company already valued at $500 billion, has made it known that it’s on the hunt for another $100 billion in investment.",
+              "Such a funding round could lead the company’s valuation to shoot up to a titanic $830 billion.",
+              "Not much is known about the potential deal, although the Journal notes that Amazon’s CEO, Andy Jassy, is currently leading the negotiations with OpenAI CEO Sam Altman.",
+              "TechCrunch reached out to Amazon and OpenAI for comment.",
+              "In its pursuit of additional funding, OpenAI has also reportedly been having discussions with sovereign wealth funds in the Middle East, and The New York Times has written that the startup has held additional talks with Nvidia, Microsoft, and SoftBank.",
+              "The funding deal is expected to close by the end of Q1."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/",
+            "site_name": "WIRED",
+            "novelty_hash": "084c8f89935ab4edc3b35daf24195651269fe58c"
+          },
+          "review": {
+            "headline_rewrite": "‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype",
+            "bullets": [
+              "In today’s episode, hosts Brian Barrett and Zoë Schiffer are joined by Tim Marchman, WIRED’s director of science, politics, and security, to discuss the news of the week—including how far-right influencers spread misinformation in Minneapolis, and why TikTok’s US version is off to a rocky start.",
+              "Plus, we dive into why some people are currently obsessed with the AI assistant Moltbot.",
+              "Articles mentioned in this episode:\n- ICE Is Using Palantir’s AI Tools to Sort Through Tips\n- Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE\n- TikTok Is Now Collecting Even More Data About Its Users.",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Zoë Schiffer: The movie that Amazon Studios poured millions and millions and millions of dollars into the trailer.",
+              "Brian Barrett: Tim, in fairness, I think there's a safe bet you could still score a ticket."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple just had a record-breaking iPhone quarter",
+            "link": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "6ef5b42e58c415f90e4394361283306936968b67"
+          },
+          "review": {
+            "headline_rewrite": "Apple just had a record-breaking iPhone quarter",
+            "bullets": [
+              "Apple just had a record-breaking iPhone quarter\niPhone revenue surged past $85.3 billion despite setbacks in AI.",
+              "“This is the strongest iPhone lineup we’ve ever had, and by far the most popular.”\niPhone sales surged despite delays surrounding an AI-upgraded Siri, with the base iPhone 17 model offering many features previously exclusive to “Pro” level devices, including an always-on display and a screen with a higher refresh rate.",
+              "Rumors that iPhone Air sales fell short of expectations didn’t seem to have a big impact, either.",
+              "The “high levels” of demand for the iPhone 17 have led to a “constrained” supply, according to Cook.",
+              "He adds that the company is “seeing less flexibility in the supply chain” when it comes to the availability of the advanced process nodes that it uses to build the device’s chip.",
+              "Meanwhile, Apple’s services revenue, which includes subscriptions like Apple Music, iCloud, and Apple TV, surged 14 percent year over year, while Mac and wearable revenue were down."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The weirdest headphones at CES will launch on Kickstarter next month",
+            "link": "https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february",
+            "site_name": "The Verge",
+            "novelty_hash": "39fb33ae5ae4e8b5b714f7019ff7e1a99016c4a4"
+          },
+          "review": {
+            "headline_rewrite": "The weirdest headphones at CES will launch on Kickstarter next month",
+            "bullets": [
+              "A new company called Tomorrow Doesn’t Matter, or TDM, announced a peculiar pair of headphones at the show earlier this month with a feature no one has tried before.",
+              "They were expected to launch through a Kickstarter slated for this month, but TDM now says the crowdfunding campaign will officially open on February 10th, 2026.",
+              "The weirdest headphones at CES will launch on Kickstarter next month\nThe Neo headphones that roll up to become a Bluetooth speaker will be available for preorder starting on February 10th.",
+              "Pricing for the Neo is set to be $249 when they eventually launch in July 2026, but those placing preorders by backing the Kickstarter can get the headphones discounted to $179."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon discovered a 'high volume' of CSAM in its AI training data but isn't saying where it came from",
+            "link": "https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html",
+            "site_name": "Engadget",
+            "novelty_hash": "2153039952e02c751a19a1fe434b042bddac96f5"
+          },
+          "review": {
+            "headline_rewrite": "Amazon discovered a 'high volume' of CSAM in its AI training data but isn't saying where it came from",
+            "bullets": [
+              "The National Center for Missing and Exploited Children said it received more than 1 million reports of AI-related child sexual abuse material (CSAM) in 2025.",
+              "The \"vast majority\" of that content was reported by Amazon, which found the material in its training data, according to an investigation by Bloomberg.",
+              "In addition, Amazon said only that it obtained the inappropriate content from external sources used to train its AI services and claimed it could not provide any further details about where the CSAM came from.",
+              "“Having such a high volume come in throughout the year begs a lot of questions about where the data is coming from, and what safeguards have been put in place.” She added that aside from Amazon, the AI-related reports the organization received from other companies last year included actionable data that it could pass along to law enforcement for next steps.",
+              "Since Amazon isn’t disclosing sources, McNulty said its reports have proved “inactionable.”\n\"We take a deliberately cautious approach to scanning foundation model training data, including data from the public web, to identify and remove known [child sexual abuse material] and protect our customers,\" an Amazon representative said in a statement to Bloomberg.",
+              "The spokesperson also said that Amazon aimed to over-report its figures to NCMEC in order to avoid missing any cases."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
