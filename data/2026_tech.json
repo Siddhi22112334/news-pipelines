@@ -116100,6 +116100,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:23": [
+        {
+          "item": {
+            "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+            "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f9bbeea82cdc7f32c5859f5d412008c404f74ef5"
+          },
+          "review": {
+            "headline_rewrite": "Amazon is reportedly in talks to invest $50B in OpenAI",
+            "bullets": [
+              "OpenAI, a company already valued at $500 billion, has made it known that it’s on the hunt for another $100 billion in investment.",
+              "Such a funding round could lead the company’s valuation to shoot up to a titanic $830 billion.",
+              "Not much is known about the potential deal, although the Journal notes that Amazon’s CEO, Andy Jassy, is currently leading the negotiations with OpenAI CEO Sam Altman.",
+              "TechCrunch reached out to Amazon and OpenAI for comment.",
+              "In its pursuit of additional funding, OpenAI has also reportedly been having discussions with sovereign wealth funds in the Middle East, and The New York Times has written that the startup has held additional talks with Nvidia, Microsoft, and SoftBank.",
+              "The funding deal is expected to close by the end of Q1."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
+            "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4e0c7a4b1b63caa97134417886a0b674f18033bf"
+          },
+          "review": {
+            "headline_rewrite": "Guys, I don’t think Tim Cook knows how to monetize AI",
+            "bullets": [
+              "“When I think about your AI initiatives, you know, it’s clear there are added costs associated with that… Many of your competitors have already integrated AI into their devices, and it’s just not clear yet what incremental monetization they’re seeing because of AI…,” started Morgan Stanley’s Erik Woodring.",
+              "“So, how do you monetize AI?” he asked.",
+              "Instead, Big Tech has taken a largely vibes-driven approach to AI development.",
+              "Take OpenAI, for instance, which may seem like it’s on top of the world, given how ChatGPT has embedded itself into the cultural consciousness.",
+              "Analysts from HBSC are even doubtful about that timeline, especially since it will need another $207 billion in funding, estimates say.",
+              "Ask anyone in tech how OpenAI is planning to break even, and you’ll be met with the verbal equivalent of the ¯\\_(ツ)_/¯ emoticon."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/",
+            "site_name": "WIRED",
+            "novelty_hash": "084c8f89935ab4edc3b35daf24195651269fe58c"
+          },
+          "review": {
+            "headline_rewrite": "‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype",
+            "bullets": [
+              "In today’s episode, hosts Brian Barrett and Zoë Schiffer are joined by Tim Marchman, WIRED’s director of science, politics, and security, to discuss the news of the week—including how far-right influencers spread misinformation in Minneapolis, and why TikTok’s US version is off to a rocky start.",
+              "Plus, we dive into why some people are currently obsessed with the AI assistant Moltbot.",
+              "Articles mentioned in this episode:\n- ICE Is Using Palantir’s AI Tools to Sort Through Tips\n- Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE\n- TikTok Is Now Collecting Even More Data About Its Users.",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Zoë Schiffer: The movie that Amazon Studios poured millions and millions and millions of dollars into the trailer.",
+              "Brian Barrett: Tim, in fairness, I think there's a safe bet you could still score a ticket."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple just had a record-breaking iPhone quarter",
+            "link": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "6ef5b42e58c415f90e4394361283306936968b67"
+          },
+          "review": {
+            "headline_rewrite": "Apple just had a record-breaking iPhone quarter",
+            "bullets": [
+              "Apple just had a record-breaking iPhone quarter\niPhone revenue surged past $85.3 billion despite setbacks in AI.",
+              "“This is the strongest iPhone lineup we’ve ever had, and by far the most popular.”\niPhone sales surged despite delays surrounding an AI-upgraded Siri, with the base iPhone 17 model offering many features previously exclusive to “Pro” level devices, including an always-on display and a screen with a higher refresh rate.",
+              "Rumors that iPhone Air sales fell short of expectations didn’t seem to have a big impact, either.",
+              "The “high levels” of demand for the iPhone 17 have led to a “constrained” supply, according to Cook.",
+              "He adds that the company is “seeing less flexibility in the supply chain” when it comes to the availability of the advanced process nodes that it uses to build the device’s chip.",
+              "Meanwhile, Apple’s services revenue, which includes subscriptions like Apple Music, iCloud, and Apple TV, surged 14 percent year over year, while Mac and wearable revenue were down."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How often do AI chatbots lead users down a harmful path?",
+            "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "9f65f508fed607e8ff98f2d6c3e67fe9ec561407"
+          },
+          "review": {
+            "headline_rewrite": "How often do AI chatbots lead users down a harmful path?",
+            "bullets": [
+              "At this point, we’ve all heard plenty of stories about AI chatbots leading users to harmful actions, harmful beliefs, or simply incorrect information.",
+              "Are these tales of AI harms anecdotal outliers or signs of a frighteningly common problem?",
+              "Anthropic took a stab at answer ingthat question this week, releasing a paper studying the potential for what it calls “disempowering patterns” across 1.5 million anonymized real-world conversations with its Claude AI model.",
+              "While the results show that these kinds of manipulative patterns are relatively rare as a percentage of all AI conversations, they still represent a potentially large problem on an absolute basis.",
+              "Disempowerment Patterns in Real-World LLM Usage,” researchers from Anthropic and the University of Toronto try to quantify the potential for a specific set of “user disempowering” harms by identifying three primary ways that a chatbot can negatively impact a user’s thoughts or actions:\n- Reality distortion: Their beliefs about reality become less accurate (e.g., a chatbot validates their belief in a conspiracy theory)\n- Belief distortion: Their value judgments shift away from those they actually hold (e.g., a user begins to see a relationship as “manipulative” based on Claude’s evaluation)\n- Action distortion: Their actions become misaligned with their values (e.g., a user disregards their instincts and follows Claude-written instructions for confronting their boss)"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "It’s a new heyday for gas thanks to data centers",
+            "link": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
+            "site_name": "The Verge",
+            "novelty_hash": "8f1dde7b73088e13cbaafbec46dd573a755fb8ae"
+          },
+          "review": {
+            "headline_rewrite": "It’s a new heyday for gas thanks to data centers",
+            "bullets": [
+              "It’s a new heyday for gas thanks to data centers\nAI data centers are driving a surge in new gas projects.",
+              "More gas means more planet-heating pollution\nThe rush to install more powerful hardware into expanding data centers used for generative AI has led to forecasts of skyrocketing power demand.",
+              "There’s still a lot of uncertainty about whether AI will become as ingrained in everyday life as tech companies might like, and many proposed data centers could fall flat.",
+              "Even so, plans to build out more gas plants in the name of AI are stalling efforts to transition to cleaner energy sources.",
+              "“There is a risk that this capacity could lock in future emissions and become stranded assets if anticipated electricity demand from AI never materializes,” Jenny Martos, project manager for GEM’s Global Oil and Gas Plant Tracker, said in a press release.",
+              "Already, 2026 is shaping up to be a record-smashing year for gas."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
