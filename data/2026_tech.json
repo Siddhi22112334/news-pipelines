@@ -115011,6 +115011,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:01": [
+        {
+          "item": {
+            "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+            "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cc7526460f8fb9f5414cfc9c7af3362fd69cac48"
+          },
+          "review": {
+            "headline_rewrite": "Apple buys Israeli startup Q.ai as the AI race heats up",
+            "bullets": [
+              "Apple, Meta, and Google are locked in a fierce battle to lead the next wave of AI, and they’ve recently increased their focus on hardware.",
+              "With its latest acquisition of the AI startup Q.ai, Apple aims to gain an edge, particularly in the audio sector.",
+              "As first reported by Reuters, Apple has acquired Q.ai, an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+              "Apple has been adding new AI features to its AirPods, including the live translation capability introduced last year.",
+              "The Financial Times reported that the deal is valued at nearly $2 billion, making it Apple’s second-largest acquisition to date, after buying Beats Electronics for $3 billion in 2014.",
+              "Notably, this is the second time CEO Aviad Maizels has sold a company to Apple."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk’s SpaceX and xAI in talks to merge, report says",
+            "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0644adfbef040d1f81f207904cf5ba06fac8c77b"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk’s SpaceX and xAI in talks to merge, report says",
+            "bullets": [
+              "SpaceX and xAI, both companies led by Elon Musk, could merge ahead of a planned SpaceX IPO this year, according to a report from Reuters.",
+              "This would bring products like the Grok chatbot, X platform, Starlink satellites, and SpaceX rockets together under one corporation.",
+              "However, recent filings show that two new corporate entities were established in Nevada on January 21, which are called K2 Merger Sub Inc.",
+              "and K2 Merger Sub 2 LLC.",
+              "Combining the two companies could allow xAI to put its data centers in space, something Musk has said he wants.",
+              "Last year, SpaceX agreed to invest $2 billion in xAI, according to The Wall Street Journal, and earlier this week, Tesla (also led by Musk) revealed it also invested $2 billion in the AI startup."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’",
+            "link": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
+            "site_name": "The Verge",
+            "novelty_hash": "31c190b0d9ecb3a7bcb391cc3c029cd3a19e797e"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’",
+            "bullets": [
+              "Apple’s biggest acquisition ever is still its $3 billion Beats buy in 2014, but now the second biggest deal is bringing in Q.ai, a four-year-old AI audio startup.",
+              "It also mentioned Q.ai patents for optical sensor technology that could be built into headphones or glasses to recognize “facial skin micro movements,” allowing for non-verbal discussions with an AI assistant, for example.",
+              "Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’\nFT reports Apple is paying $2 billion for Q.ai, an audio startup that uses facial expressions to understand you without a word.",
+              "The founders of Q.ai will join Apple, including CEO Aviad Maizels, who founded PrimeSense.",
+              "This time around, tech that understands whispered speech could connect to the generative AI-upgraded Siri or other Apple Intelligence features, and work with future AirPods, Vision Pro, iPhone, or Mac devices.",
+              "In a statement provided to Reuters, Apple hardware exec Johnny Srouji called Q.ai “a remarkable company that is pioneering new and creative ways to use imaging and machine learning.” Google Ventures has backed the startup, and managing partner Tom Hulme wrote in a blog post about how this could help us find out “what happens when the computer finally ‘disappears’ into our daily lives.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
+            "link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1185fbf3fb23f57af30ad0bcf9f5abbd5187b55d"
+          },
+          "review": {
+            "headline_rewrite": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
+            "bullets": [
+              "On Tuesday, OpenAI released a free AI-powered workspace for scientists.",
+              "The launch coincides with growing alarm among publishers about what many are calling “AI slop” in academic publishing.",
+              "To be clear, Prism is a writing and formatting tool, not a system for conducting research itself, though OpenAI’s broader pitch blurs that line.",
+              "Prism integrates OpenAI’s GPT-5.2 model into a LaTeX-based text editor (a standard used for typesetting documents), allowing researchers to draft papers, generate citations, create diagrams from whiteboard sketches, and collaborate with co-authors in real time.",
+              "“I think 2026 will be for AI and science what 2025 was for AI in software engineering,” Kevin Weil, vice president of OpenAI for Science, told reporters at a press briefing attended by MIT Technology Review.",
+              "He said that ChatGPT receives about 8.4 million messages per week on “hard science” topics, which he described as evidence that AI is transitioning from curiosity to core workflow for scientists."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
+            "link": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
+            "site_name": "WIRED",
+            "novelty_hash": "643cc6c6a34f68439689e3edbc9d4a0f181a9362"
+          },
+          "review": {
+            "headline_rewrite": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
+            "bullets": [
+              "Since leaving Meta in November, the researcher and AI luminary has taken aim at the orthodox view that large language models (LLMs) will get us to artificial general intelligence (AGI), the threshold where computers match or exceed human smarts.",
+              "Everyone, he declared in a recent interview, has been “LLM-pilled.”\nOn January 21, San Francisco–based startup Logical Intelligence appointed LeCun to its board.",
+              "Building on a theory conceived by LeCun two decades prior, the startup claims to have developed a different form of AI, better equipped to learn, reason, and self-correct.",
+              "Whereas LLMs effectively predict the most likely next word in a sequence, EBMs absorb a set of parameters—say, the rules to sudoku—and complete a task within those confines.",
+              "The startup’s debut model, Kona 1.0, can solve sudoku puzzles many times faster than the world’s leading LLMs, despite the fact that it runs on just a single Nvidia H100 GPU, according to founder and CEO Eve Bodnia, in an interview with WIRED.",
+              "(In this test, the LLMs are blocked from using coding capabilities that would allow them to “brute force” the puzzle.)\nLogical Intelligence claims to be the first company to have built a working EBM, until now just a flight of academic fancy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Obsbot’s new gimbal webcam doesn’t justify its $350 price",
+            "link": "https://www.theverge.com/tech/867950/obsbot-tiny-3-lite-hands-on-impressions",
+            "site_name": "The Verge",
+            "novelty_hash": "df408726a68a0b2d72b2a39180982d41446f5798"
+          },
+          "review": {
+            "headline_rewrite": "Obsbot’s new gimbal webcam doesn’t justify its $350 price",
+            "bullets": [
+              "Webcam company Obsbot recently launched two new gimbal-equipped webcams, the $349 Tiny 3 and the $199 Tiny 3 Lite.",
+              "It claims that the priciest model is the smallest pan, tilt, zoom (PTZ) 4K webcam ever made, weighing 63 grams.",
+              "Compared to Insta360’s newish $249 Link 2 Pro, the Tiny 3 has a slightly bigger sensor and more AI-powered features, including voice control and voice tracking.",
+              "It also has MEMS mics, which are supposedly better than condenser mics at filtering unwanted noise, and Obsbot claims they’re as good as a dedicated microphone.",
+              "And while the Tiny 3 can produce a sharper image than the Link, it’s not a night-and-day difference based on my testing with final retail hardware.",
+              "You can boss both the Tiny 3 and the Lite around with preset questions (“Hi, Tiny” to turn on, “Sleep, Tiny” to turn off, “Track Me” to turn on AI-powered face tracking, “Position 1” to snap to a saved camera position, etc.), but only the pricier model has Desk Mode that lets it look downward because the Lite’s base is too thick (the original Link has a Desk Mode, too)."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
