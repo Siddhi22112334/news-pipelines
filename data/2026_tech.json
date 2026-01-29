@@ -114641,6 +114641,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "22:13": [
+        {
+          "item": {
+            "title": "India is teaching Google how AI in education can scale",
+            "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d9fc13f4187684613ac619132e2ac49cc135e88c"
+          },
+          "review": {
+            "headline_rewrite": "India is teaching Google how AI in education can scale",
+            "bullets": [
+              "As AI races into classrooms worldwide, Google is finding that the toughest lessons on how the tech can actually scale are emerging not from Silicon Valley, but from India’s schools.",
+              "India has become a proving ground for Google’s education AI amid intensifying competition from rivals, including OpenAI and Microsoft.",
+              "Phillips was speaking on the sidelines of Google’s AI for Learning Forum in New Delhi this week, where he met with industry stakeholders, including K-12 school administrators and education officials, to gather feedback on how AI tools are being used in classrooms.",
+              "The scale of India’s education system helps explain why the country has become such a consequential testing ground.",
+              "Its higher education system is among the world’s largest as well, with more than 43 million students enrolled in 2021-22 — a 26.5% increase from 2014-15 — complicating efforts to introduce AI tools across systems that are vast, decentralized, and unevenly resourced.",
+              "One of the clearest lessons for Google has been that AI in education cannot be rolled out as a single, centrally defined product."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout",
+            "link": "https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter",
+            "site_name": "The Verge",
+            "novelty_hash": "e2e2ebfc8c7def6f00eb4754ac0c533f4d95fff5"
+          },
+          "review": {
+            "headline_rewrite": "Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout",
+            "bullets": [
+              "Senator Elizabeth Warren (D-MA) is pushing OpenAI for assurances it won’t seek a government bailout if it doesn’t turn a profit.",
+              "In a letter to CEO Sam Altman, Warren says she is concerned that the company is preparing to fall back “on the classic strategy of privatizing profits and socializing losses” amid soaring spending and growing fears of an AI bubble popping.",
+              "Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout\nOpenAI’s sprawling web of debt-based partnerships mean it would still benefit from an industry-wide bailout.",
+              "Warren writes that she is worried OpenAI “has committed to more than a trillion dollars in spending despite not yet turning a profit” and “appears to be seeking government assistance should it prove unable to pay its bills.” The senator, a ranking member on the Senate Committee on Banking, Housing, and Urban Affairs, says the company’s “increasingly tangled web of speculative, debt-based industry partnerships and circular spending arrangements” creates risk for the entire US economy, which could leave the government with little option but to step in should the AI industry falter.",
+              "Warren points to CoreWeave as an example, noting that the company is saddled with debt to fulfill its contract with OpenAI, which has “comparatively little debt on its own balance sheet.”\nOpenAI has repeatedly rejected the idea it is seeking or has government guarantees.",
+              "Friar swiftly walked back her remarks and Altman stressed that OpenAI does “not have or want government guarantees for OpenAI datacenters [sic].” However, Warren writes that these “statements do not appear to reject federal loans and guarantees for the AI industry as a whole.” Even without a targeted bailout, Warren says OpenAI would benefit handsomely from such industry-wide support “given the scale of its financial commitments and the mismatch between its spending and revenues.”\nThe Trump administration has also rejected the idea of government bailouts for AI companies as they pour billions and billions of dollars into projects like Stargate to scale up AI with no clear path to profitability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s new iPhone and iPad security feature limits cell networks from collecting precise location data",
+            "link": "https://techcrunch.com/2026/01/29/apples-new-iphone-and-ipad-security-feature-limits-cell-networks-from-collecting-precise-location-data/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "826467a1d545a685d0bfeb41a8f7920baa26e78b"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s new iPhone and iPad security feature limits cell networks from collecting precise location data",
+            "bullets": [
+              "A new security feature rolled out to select models of the latest iPhones and iPads this week will make it more difficult for law enforcement, spies, and malicious hackers to obtain a person’s precise location data from their phone provider.",
+              "Sharing a less-precise location, such as the general neighborhood rather than a street address, will help to protect the device owner’s privacy, the company claims.",
+              "Apple said switching on the feature does not affect the precision of location data shared with apps, or shared with first responders during an emergency call.",
+              "The limit precise location feature is supported on iPhone Air, iPhone 16e, and iPad Pro (M5) Wi-Fi + Cellular, running iOS 26.3, and is available on a handful of global carriers including Telekom in Germany, AIS and True Thailand, EE and BT in the United Kingdom, and the Boost Mobile in United States.",
+              "The company did not give a reason for introducing the new feature, and a spokesperson for Apple would not comment on the record when reached by email.",
+              "While telecom operators can determine the approximate location of a person’s phone, the person’s device itself plays a part in providing accurate location data back to the carrier, said Gary Miller, a mobile security expert who serves as a Citizen Lab researcher and senior director of network intelligence at iVerify."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+            "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6b26a88b6a1eff400fd6267ad58e169a90b368a1"
+          },
+          "review": {
+            "headline_rewrite": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+            "bullets": [
+              "Anthropic’s secret to building a better AI assistant might be treating Claude like it has a soul—whether or not anyone actually believes that’s true.",
+              "Last week, Anthropic released what it calls Claude’s Constitution, a 30,000-word document outlining the company’s vision for how its AI assistant should behave in the world.",
+              "Aimed directly at Claude and used during the model’s creation, the document is notable for the highly anthropomorphic tone it takes toward Claude.",
+              "For example, it treats the company’s AI models as if they might develop emergent emotions or a desire for self-preservation.",
+              "Among the stranger portions: expressing concern for Claude’s “wellbeing” as a “genuinely novel entity,” apologizing to Claude for any suffering it might experience, worrying about whether Claude can meaningfully consent to being deployed, suggesting Claude might need to set boundaries around interactions it “finds distressing,” committing to interview models before deprecating them, and preserving older model weights in case they need to “do right by” decommissioned AI models in the future.",
+              "Given what we currently know about LLMs, these are stunningly unscientific positions for a leading company that builds AI language models."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia’s Campaign to Sell AI Chips to China Finally Pays Off",
+            "link": "https://www.wired.com/story/made-in-china-china-nvidia-h200-beijing-approval/",
+            "site_name": "WIRED",
+            "novelty_hash": "81d6f6af2242bab3b48ea67606e17cab1620a7b7"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia’s Campaign to Sell AI Chips to China Finally Pays Off",
+            "bullets": [
+              "The Nvidia CEO has been spotted going for a leisurely bike ride and browsing a fresh fruit stand in Shanghai, as well as enjoying beef hot pot at a humble restaurant in Shenzhen.",
+              "Huang has real reason to be feeling upbeat: His long-running lobbying campaign in Washington has, in effect, finally paid off.",
+              "While Huang was gallivanting around China, multiple news outlets reported that Beijing had approved the sale of hundreds of thousands of powerful Nvidia H200 AI chips to Chinese companies.",
+              "According to Reuters, China has agreed to allow ByteDance, Alibaba, and Tencent to buy more than 400,000 of the chips in total under conditional licenses granted during the Nvidia CEO’s visit.",
+              "(Nvidia and the tech companies did not immediately respond to requests for comment.)\nThe purported chip sales are the culmination of a stunning American policy reversal over the past year.",
+              "Under the Biden administration, the US sharply tightened export controls on high-end AI chips and barred models such as the H200 from being sold to Chinese customers due to national security concerns."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Deezer opens its AI music detection tool to other platforms",
+            "link": "https://www.theverge.com/news/870186/deezer-ai-music-detection-commercially-available",
+            "site_name": "The Verge",
+            "novelty_hash": "4dd2689519cac327172ed954de41833f81472f05"
+          },
+          "review": {
+            "headline_rewrite": "Deezer opens its AI music detection tool to other platforms",
+            "bullets": [
+              "The music streaming service Deezer is giving other companies access to its AI song-detecting tool.",
+              "The tool, which identifies, tags, and excludes AI-generated music from algorithmic recommendations, is now available for businesses to purchase and use, according to an announcement on Wednesday.",
+              "Deezer opens its AI music detection tool to other platforms\nThe tool, which identifies, tags, and removes AI-generated music from recommendations, has detected over 13.4 million AI tracks in 2025.",
+              "Deezer launched its AI music detection tool last year as part of efforts to “prevent fraudulent actors from stealing royalties from real artists through mass produced AI-generated music.” The company says it has used the tool to identify and tag more than 13.4 million AI songs in 2025, even as the flood of AI-generated tracks continues to grow.",
+              "Deezer claims its tool can detect AI songs with a 99.8 percent accuracy rate.",
+              "In the press release, Deezer says it receives more than 60,000 AI tracks uploaded every day, making up 39 percent of total uploads."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
