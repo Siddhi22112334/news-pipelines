@@ -115499,6 +115499,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:57": [
+        {
+          "item": {
+            "title": "TAG Bulletin: Q4 2025",
+            "link": "https://blog.google/threat-analysis-group/tag-bulletin-q4-2025/",
+            "site_name": "Google",
+            "novelty_hash": "0dc3267d05d071adbd780e5264a67e8c9f7779ae"
+          },
+          "review": {
+            "headline_rewrite": "TAG Bulletin: Q4 2025",
+            "bullets": [
+              "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q4 2025.",
+              "The campaign was sharing content in Romanian that was critical of Moldova.",
+              "The campaign was sharing content in Russian and Romanian that was critical of Moldova.",
+              "The campaign was sharing content in English, French, German, Spanish, Arabic, and Russian that was supportive of Russia and critical of Armenia, Israel, Moldova, Ukraine, and the West.",
+              "The campaign was sharing content in Russian and Armenian that was critical of Armenia.",
+              "The campaign was sharing content in Russian and Romanian that was critical of Moldova."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+            "link": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8369d8617abee3bdf7be3d6bac1c7878761ae87f"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+            "bullets": [
+              "Microsoft this week deployed its first crop of its homegrown AI chips in one of its data centers, with plans to roll out more in the coming months, it says.",
+              "The chip, named the Maia 200, is designed to be what Microsoft calls an “AI inference powerhouse” as Microsoft describes, meaning it’s optimized for the compute-intensive work of running AI models in production.",
+              "The company released some impressive processing-speed specs for Maia, saying it outperforms Amazon’s latest Trainium chips and Google’s latest Tensor Processing Units (TPU).",
+              "All of the cloud giants are turning to their own AI chip designs in part because of the difficulty, and expense, of obtaining the latest and greatest from Nvidia — a supply crunch that shows no signs of abating.",
+              "But even with its own state-of-the-art, high-performance chip in hand, Microsoft CEO Satya Nadella said the company will still be buying chips made by others.",
+              "We are innovating,” he explained."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+            "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2c8f98eec576e7b79a807848887e7ef111649358"
+          },
+          "review": {
+            "headline_rewrite": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+            "bullets": [
+              "Microsoft delivered a solid earnings report on Wednesday with $81.3 billion in revenue for the quarter (up 17%), net income profits of $38.3 billion (up 21%), and a record-breaking Microsoft cloud revenue of over $50 billion.",
+              "But the stock was getting pounded on Thursday as investors worried about how much the tech giant was spending to build out its cloud and questioned whether that investment would pay off.",
+              "Microsoft has spent almost as much on capital expenditures in the first half of its current fiscal year as it did in all of the previous year.",
+              "And the numbers truly are enormous: Microsoft spent $88.2 billion on capital expenditures last year and has spent $72.4 billion so far this year.",
+              "Much of that spend is to serve AI to enterprises and major AI labs, especially OpenAI, as well as Anthropic.",
+              "Investors are scared that Microsoft’s main enterprise cloud product, Azure, and its Microsoft 365 apps didn’t grow as fast as they wanted."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best foldable phone you can buy",
+            "link": "https://www.theverge.com/tech/635839/best-foldable-phone",
+            "site_name": "The Verge",
+            "novelty_hash": "a249bdc8631669603654806f8b3b1f6dac95c405"
+          },
+          "review": {
+            "headline_rewrite": "The best foldable phone you can buy",
+            "bullets": [
+              "A foldable phone isn’t for the faint of heart.",
+              "Featured Products\nWhat I’m looking for\nThere’s no shortcut to properly testing a phone; I put my personal SIM card (physical or otherwise) in each phone I review and live with it for a minimum of one full week.",
+              "I set up each phone from scratch, load it up with my apps, and go about living my life — stress testing the battery, using GPS navigation on my bike while streaming radio, taking rapid-fire portrait mode photos of my kid — everything I can throw at it.",
+              "For me, switching has become so routine that it’s mostly painless.",
+              "The phones listed here have powerful processors and enough RAM to keep up for years, so it’s fair to expect more than a handful of OS updates throughout the life of your phone.",
+              "Four years of new OS versions and five years of security updates is a healthy benchmark for this class, and many of the phones here meet or exceed that standard."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk’s SpaceX and xAI might merge into one company",
+            "link": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
+            "site_name": "The Verge",
+            "novelty_hash": "0f743f9e32541883e1e0f0323850fe40e35f13d7"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk’s SpaceX and xAI might merge into one company",
+            "bullets": [
+              "SpaceX and xAI, which are both led by Elon Musk, are “in discussions to merge” ahead of SpaceX’s IPO that’s planned for later this year, Reuters reports.",
+              "The merger would help with SpaceX’s plans to launch data centers into space, according to the publication.",
+              "Elon Musk’s SpaceX and xAI might merge into one company\nSpaceX is planning an IPO later this year, and the merger could happen before that.",
+              "The specific timing and value of the potential merger are unclear.",
+              "xAI and SpaceX didn’t immediately reply to a request for comment from The Verge.",
+              "If SpaceX merges with xAI, it would put the rocket company in the same house as Grok, which is under significant scrutiny and even an investigation in the EU over sexualized deepfakes."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Comcast keeps losing customers despite price guarantee and unlimited data",
+            "link": "https://arstechnica.com/tech-policy/2026/01/comcast-keeps-losing-customers-despite-price-guarantee-and-unlimited-data/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1eba0ca03d1653c3bb03f3883bb5f5bf1b281733"
+          },
+          "review": {
+            "headline_rewrite": "Comcast keeps losing customers despite price guarantee and unlimited data",
+            "bullets": [
+              "“Subscriber losses were 181,000, as the early traction we are seeing from our new initiatives was more than offset by continued competitive intensity,” Comcast CFO Jason Armstrong said during an earnings call today, according to a Motley Fool transcript.",
+              "Average revenue per user grows slowly\nArmstrong said that average revenue per user grew 1.1 percent, “consistent with the deceleration that we had previewed reflecting our new go-to-market pricing, including lower everyday pricing and strong adoption of free wireless lines.” Armstrong expects average revenue per user to continue growing slowly “for the next couple of quarters, driven by the absence of a rate increase, the impact from free wireless lines, and the ongoing migration of our base to simplified pricing.”\nComcast Connectivity & Platforms chief Steve Croney said the firm is facing “a more competitive environment from fiber” and continued competition from fixed wireless.",
+              "“The market is going to remain intensely competitive,” he said."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
