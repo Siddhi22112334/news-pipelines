@@ -114524,6 +114524,123 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "21:06": [
+        {
+          "item": {
+            "title": "GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
+            "link": "https://blogs.nvidia.com/?p=89504",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "f370cd7a8715c2c8597aec4b17032d65b081e606"
+          },
+          "review": {
+            "headline_rewrite": "GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
+            "bullets": [
+              "Get ready to game — the native GeForce NOW app for Linux PCs is now available in beta, letting Linux desktops tap directly into GeForce RTX performance from the cloud.",
+              "And operators can squad up in Team Jade’s Delta Force when it deploys in the cloud on February 3, bringing high-stakes tactical action to nearly any device with no downloads required.",
+              "It transforms compatible Linux systems into high-performance GeForce RTX-powered rigs, streaming supported PC titles directly from the cloud at up to 5K resolution and 120 frames per second, or 1080p at 360 fps.",
+              "With GeForce NOW, rendering happens in the cloud, so demanding titles run on a wider range of devices.",
+              "Experience how RTX technologies — including ray tracing, NVIDIA DLSS 4 and more — bring games to life with RTX 5080 performance from the cloud.",
+              "For more details, check out all knowledge base articles on the GeForce NOW Linux beta app here."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini in navigation is now available for walking and cycling in Google Maps.",
+            "link": "https://blog.google/products-and-platforms/products/maps/gemini-navigation-biking-walking/",
+            "site_name": "Google",
+            "novelty_hash": "b52fc54250f3ba3bed83f8f20b9b1474fb61e58d"
+          },
+          "review": {
+            "headline_rewrite": "Gemini in navigation is now available for walking and cycling in Google Maps.",
+            "bullets": [
+              "Now, it’s launching for walking and cycling.",
+              "Gemini in navigation for walking and cycling is rolling out now worldwide on iOS and Android wherever Gemini is available."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "India is teaching Google how AI in education can scale",
+            "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "607af05708a261cd669267dbd93a698ec1ff271e"
+          },
+          "review": {
+            "headline_rewrite": "India is teaching Google how AI in education can scale",
+            "bullets": [
+              "As AI races into classrooms worldwide, Google is finding that the toughest lessons on how the tech can actually scale are emerging not from Silicon Valley, but from India’s schools.",
+              "India has become a proving ground for Google’s education AI amid intensifying competition from rivals, including OpenAI and Microsoft.",
+              "Phillips was speaking on the sidelines of Google’s AI for Learning Forum in New Delhi this week, where he met with industry stakeholders, including K-12 school administrators and education officials, to gather feedback on how AI tools are being used in classrooms.",
+              "The scale of India’s education system helps explain why the country has become such a consequential testing ground.",
+              "Its higher education system is among the world’s largest as well, with more than 43 million students enrolled in 2021–22 — a 26.5% increase from 2014–15 — complicating efforts to introduce AI tools across systems that are vast, decentralized, and unevenly resourced.",
+              "One of the clearest lessons for Google has been that AI in education cannot be rolled out as a single, centrally defined product."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout",
+            "link": "https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter",
+            "site_name": "The Verge",
+            "novelty_hash": "0639dda2de322fe0de4455ff286f5540379734fd"
+          },
+          "review": {
+            "headline_rewrite": "Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout",
+            "bullets": [
+              "Senator Elizabeth Warren (D-MA) is pushing OpenAI for assurances it won’t seek a government bailout if it doesn’t turn a profit.",
+              "In a letter to CEO Sam Altman, Warren says she is concerned that the company is preparing to fall back “on the classic strategy of privatizing profits and socializing losses” amid soaring spending and growing fears of an AI bubble popping.",
+              "Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout\nOpenAI’s sprawling web of debt-based partnerships mean it would still benefit from an industry-wide bailout.",
+              "Warren writes that she is worried OpenAI “has committed to more than a trillion dollars in spending despite not yet turning a profit” and “appears to be seeking government assistance should it prove unable to pay its bills.” The senator, a ranking member on the Senate Committee on Banking, Housing, and Urban Affairs, says the company’s “increasingly tangled web of speculative, debt-based industry partnerships and circular spending arrangements” creates risk for the entire US economy, which could leave the government with little option but to step in should the AI industry falter.",
+              "Warren points to CoreWeave as an example, noting that the company is saddled with debt to fulfill its contract with OpenAI, which has “comparatively little debt on its own balance sheet.”\nOpenAI has repeatedly rejected the idea it is seeking or has government guarantees.",
+              "Friar swiftly walked back her remarks and Altman stressed that OpenAI does “not have or want government guarantees for OpenAI datacenters [sic].” However, Warren writes that these “statements do not appear to reject federal loans and guarantees for the AI industry as a whole.” Even without a targeted bailout, Warren says OpenAI would benefit handsomely from such industry-wide support “given the scale of its financial commitments and the mismatch between its spending and revenues.”\nThe Trump administration has also rejected the idea of government bailouts for AI companies as they pour billions and billions of dollars into projects like Stargate to scale up AI with no clear path to profitability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s new iPhone and iPad security feature limits cell networks from collecting precise location data",
+            "link": "https://techcrunch.com/2026/01/29/apples-new-iphone-and-ipad-security-feature-limits-cell-networks-from-collecting-precise-location-data/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "826467a1d545a685d0bfeb41a8f7920baa26e78b"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s new iPhone and iPad security feature limits cell networks from collecting precise location data",
+            "bullets": [
+              "A new security feature rolled out to select models of the latest iPhones and iPads this week will make it more difficult for law enforcement, spies, and malicious hackers to obtain a person’s precise location data from their phone provider.",
+              "Sharing a less-precise location, such as the general neighborhood rather than a street address, will help to protect the device owner’s privacy, the company claims.",
+              "Apple said switching on the feature does not affect the precision of location data shared with apps, or shared with first responders during an emergency call.",
+              "The limit precise location feature is supported on iPhone Air, iPhone 16e, and iPad Pro (M5) Wi-Fi + Cellular, running iOS 26.3, and is available on a handful of global carriers including Telekom in Germany, AIS and True Thailand, EE and BT in the United Kingdom, and the Boost Mobile in United States.",
+              "The company did not give a reason for introducing the new feature, and a spokesperson for Apple would not comment on the record when reached by email.",
+              "While telecom operators can determine the approximate location of a person’s phone, the person’s device itself plays a part in providing accurate location data back to the carrier, said Gary Miller, a mobile security expert who serves as a Citizen Lab researcher and senior director of network intelligence at iVerify."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "States want to tax fossil fuel companies to create climate change superfunds",
+            "link": "https://insideclimatenews.org/news/28012026/amid-national-call-to-make-polluters-pay-illinois-lawmakers-are-prepping-a-climate-change-superfund-bill/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1d4af16e320d87d4a0bb95959c456308dafc4874"
+          },
+          "review": {
+            "headline_rewrite": "States want to tax fossil fuel companies to create climate change superfunds",
+            "bullets": [
+              "Robyn Gabel, who will introduce the bill in the House, said she is motivated by the growing threat of flooding and heat waves in the state.",
+              "“The costs with climate change are going to be extravagant, and it’s going to end up on the backs of the taxpayers, and the oil companies continue to walk away with huge profits,” said Gabel, an Evanston Democrat.",
+              "“Polluting companies should be responsible for the damage they cause.”\nAdvocates will rally on Thursday morning in Chicago to support what’s known as the “Make Polluters Pay” effort as part of a national week of action, with climate activists and disaster survivors holding events across the country, including in Connecticut, Colorado, California, New Jersey, and Maine.",
+              "Meanwhile, the US has just officially exited the Paris Climate Agreement, the latest in the federal government’s continued backsliding on climate progress, and ongoing cuts to the Federal Emergency Management Agency put increasing strain on states and cities.",
+              "“It’s time for us to step up,” said Gina Ramirez, director of Midwest environmental health at the Natural Resources Defense Council and a member of the coalition fighting for the Illinois bill."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
