@@ -117500,6 +117500,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:04": [
+        {
+          "item": {
+            "title": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent",
+            "link": "https://www.wired.com/story/after-minneapolis-tech-ceos-are-struggling-to-stay-silent/",
+            "site_name": "WIRED",
+            "novelty_hash": "3bf549104f95406c6da4c27a4906b491fde762b4"
+          },
+          "review": {
+            "headline_rewrite": "After Minneapolis, Tech CEOs Are Struggling to Stay Silent",
+            "bullets": [
+              "At a conference I attended that Thursday, Facebook CEO Mark Zuckerberg said it was “a pretty crazy idea” to think that his company had anything to do with the outcome.",
+              "I have thought back to that day many times, certainly last year when Cook gifted President Trump a glitzy Apple sculpture with a 24k gold base, and most recently this past weekend when he attended a White House screening of the $40 million vanity documentary about Melania Trump.",
+              "The event, which also included Amazon CEO Andy Jassy (whose company funded the project) and AMD CEO Lisa Su, took place only hours after the Trump administration’s masked army in Minneapolis put 10 bullets into 37-year-old Department of Veterans Affairs ICU nurse Alex Pretti.",
+              "But there was Cook, feting a competitor’s media product, looking sharp in a tuxedo, and posing with the movie’s director, who hadn’t worked since he was accused of sexual misconduct or harassment by half a dozen women.",
+              "In the past year, however, their default strategy, executed with varying degrees of enthusiasm, has been to lavishly flatter the president and cut deals where Trump can claim wins.",
+              "Zuckerberg once cofounded a group that advocated for immigration reform and penned an op-ed bemoaning the uncertain future of a young entrepreneur he was coaching who happened to be undocumented."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Russian hackers breached Polish power grid thanks to bad security, report says",
+            "link": "https://techcrunch.com/2026/01/30/russian-hackers-breached-polish-power-grid-thanks-to-bad-security-report-says/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d46e3d51f26eee3c896e944908115d198cfe612d"
+          },
+          "review": {
+            "headline_rewrite": "Russian hackers breached Polish power grid thanks to bad security, report says",
+            "bullets": [
+              "The Polish government said Russian government hackers broke into parts of the country’s energy grid infrastructure, taking advantage of its poor security.",
+              "On Friday, Poland’s Computer Emergency Response Team (CERT), which is part of the Ministry of Digital Affairs, released a technical report about an incident at the end of last year, where suspected Russian government hackers hacked wind and solar farms and a heat-and-power plant.",
+              "The hackers failed to disrupt power at any of their targeted facilities.",
+              "And even if they had succeeded, the report said that the hack “would not have affected the stability of the Polish power system during the period in question.”\nCybersecurity firms ESET and Dragos previously released reports about the attacks, which occurred on December 29 of last year, accusing the notorious Russian government hacking group Sandworm of being behind the intrusions.",
+              "Sandworm has a documented history of targeting energy infrastructure in Ukraine and turning off the lights in the country in 2015, 2016, and 2022."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Bluesky issues its first transparency report, noting rise in user reports and legal demands",
+            "link": "https://techcrunch.com/2026/01/30/bluesky-issues-its-first-transparency-report-noting-rise-in-user-reports-and-legal-demands/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "20630a3faec93ec6341d063e12e16e7e4322ac71"
+          },
+          "review": {
+            "headline_rewrite": "Bluesky issues its first transparency report, noting rise in user reports and legal demands",
+            "bullets": [
+              "Of those, 235 million posts contained media, accounting for 62% of all media posts shared on Bluesky to date.",
+              "However, Bluesky said that the majority of “harassment” reports included those that fell into the gray area of anti-social behavior, which may include rude remarks, but didn’t fit into the other categories, like hate speech.",
+              "One area where Bluesky reported success involved a decline in daily reports of anti-social behavior on the site, which dropped 79% after the implementation of a system that identified toxic replies and reduced their visibility by putting them behind an extra click, similar to what X does.",
+              "Increases in takedowns, legal requests\nThe company said last fall it was getting more aggressive about its moderation and enforcement, and that appears to be true."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Belkin’s Wemo smart devices will go offline on Saturday",
+            "link": "https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down",
+            "site_name": "The Verge",
+            "novelty_hash": "358b221713e670166a57bbafa30a4a9fd7a5c15a"
+          },
+          "review": {
+            "headline_rewrite": "Belkin’s Wemo smart devices will go offline on Saturday",
+            "bullets": [
+              "As of Saturday, nearly all of Belkin’s Wemo smart home devices will lose access to cloud services, including features like remote access and integrations with Google Home and Alexa.",
+              "Belkin’s Wemo smart devices will go offline on Saturday\nOnly Thread-based Wemo devices and those configured in Apple HomeKit will remain functional after January 31st.",
+              "If your Wemo device is still under warranty, you may be able to get a partial refund for it after cloud services shut down."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Cold weather in Florida is pushing back the Artemis II launch",
+            "link": "https://www.theverge.com/science/870767/nasa-artemis-ii-mission-launch-delay-sls-space-launch-system-orion-moon",
+            "site_name": "The Verge",
+            "novelty_hash": "cb0982d410fbb908371ada210381daf41f83c6a9"
+          },
+          "review": {
+            "headline_rewrite": "Cold weather in Florida is pushing back the Artemis II launch",
+            "bullets": [
+              "As a result of cold weather and windy conditions moving through Florida, NASA is now targeting Monday, February 2nd for a wet dress rehearsal of the Artemis II Space Launch System (SLS) rocket.",
+              "Depending on how Monday’s rehearsal goes, NASA will potentially set a launch date for Artemis II.",
+              "But as a result of the weather-related delays, NASA says February 6th and 7th “are no longer viable opportunities” for a launch.",
+              "Cold weather in Florida is pushing back the Artemis II launch\nA test launch for Artemis II has been pushed to February 2nd, delaying a mission launch until February 8th at the earliest.",
+              "NASA originally planned to conduct the wet dress rehearsal for the rocket this weekend, which is currently stacked with the Orion spacecraft on Launch Pad 39B at Kennedy Space Center.",
+              "The 49 hour rehearsal includes fueling the rocket (hence the term wet) and a simulated countdown that ends 33 seconds before launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon discovered a 'high volume' of CSAM in its AI training data but isn't saying where it came from",
+            "link": "https://www.engadget.com/ai/amazon-discovered-a-high-volume-of-csam-in-its-ai-training-data-but-isnt-saying-where-it-came-from-224749228.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4c2929619f0f38981d383f6dba6fb55c0dd0d6ce"
+          },
+          "review": {
+            "headline_rewrite": "Amazon discovered a 'high volume' of CSAM in its AI training data but isn't saying where it came from",
+            "bullets": [
+              "The National Center for Missing and Exploited Children said it received more than 1 million reports of AI-related child sexual abuse material (CSAM) in 2025.",
+              "The \"vast majority\" of that content was reported by Amazon, which found the material in its training data, according to an investigation by Bloomberg.",
+              "In addition, Amazon said only that it obtained the inappropriate content from external sources used to train its AI services and claimed it could not provide any further details about where the CSAM came from.",
+              "Amazon provided Engadget with the following statement to explain why it doesn’t have data that can provide any further action on the\n\"This is really an outlier,\" Fallon McNulty, executive director of NCMEC’s CyberTipline, told Bloomberg.",
+              "“Having such a high volume come in throughout the year begs a lot of questions about where the data is coming from, and what safeguards have been put in place.” She added that aside from Amazon, the AI-related reports the organization received from other companies last year included actionable data that it could pass along to law enforcement for next steps.",
+              "Since Amazon isn’t disclosing sources, McNulty said its reports have proved “inactionable.”\nAmazon provided Engadget with these additional details, which were first reported in Bloomberg:\n“Amazon is committed to preventing CSAM across all of its businesses, and we are not aware of any instances of our models generating CSAM."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
