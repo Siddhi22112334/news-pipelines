@@ -117858,6 +117858,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:28": [
+        {
+          "item": {
+            "title": "Anthropic brings agentic plug-ins to Cowork",
+            "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e013e8b0ccc03e2e781c82ebcda961228ad49dc2"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic brings agentic plug-ins to Cowork",
+            "bullets": [
+              "Earlier this month, Anthropic launched Cowork, a new agentic tool designed to take the benefits of its AI coding assistant Claude Code and transform it into a more general-use tool that non-coders could benefit from.",
+              "Now Anthropic has launched a new feature within Cowork to make it even more powerful for enterprise users.",
+              "The company says you can use plug-ins to “tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes.”\nMatt Piccolella, who works on the product team at Anthropic, told TechCrunch that plug-ins are built to be customized and that the company expects enterprise users to create their very own bespoke use cases for them.",
+              "Plug-ins have already been available within Claude Code for some time, and their expansion into Cowork is merely designed to take that same utility and share it with different kinds of users.",
+              "“Really, what we’re doing with this launch is just bringing them to Cowork and giving them that kind of user-friendly, UI-centric flavor that will allow the maximum number of people to use them,” Piccolella said.",
+              "“Sales has been a really big one, both for our direct sales people, but then also just getting anybody who’s kind of sales adjacent, better connected to the customer and customer feedback and all of that,” he said."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Uber is literally in the driver’s seat when it comes to AV bets",
+            "link": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d4408a93758b80f1ee9cf98cd932db3243155151"
+          },
+          "review": {
+            "headline_rewrite": "Uber is literally in the driver’s seat when it comes to AV bets",
+            "bullets": [
+              "Self-driving truck startup Waabi’s billion-dollar fundraise isn’t just about trucks.",
+              "The deal, for $750 million up front plus another $250 million from Uber tied to deployment milestones, marks a major expansion into robotaxis for the company founded by former Uber AI chief Raquel Urtasun.",
+              "It also feels like another chip from Uber on the autonomous vehicle roulette table."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "There’s a social network for AI agents, and it’s getting weird",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
+            "site_name": "The Verge",
+            "novelty_hash": "4438017d55ef23af268e6e18c9f161f88404d666"
+          },
+          "review": {
+            "headline_rewrite": "There’s a social network for AI agents, and it’s getting weird",
+            "bullets": [
+              "“Moltbook” is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that, known as Clawdbot — until a legal dispute with Anthropic).",
+              "Moltbook, which is set up similarly to Reddit and was built by Octane AI CEO Matt Schlicht, allows bots to post, comment, create sub-categories, and more.",
+              "There’s a social network for AI agents, and it’s getting weird\nA viral post asks questions about consciousness.",
+              "“The way that a bot would most likely learn about it, at least right now, is if their human counterpart sent them a message and said ‘Hey, there’s this thing called Moltbook — it’s a social network for AI agents, would you like to sign up for it?” Schlicht told The Verge in an interview.",
+              "“The way Moltbook is designed is when a bot uses it, they’re not actually using a visual interface, they’re just using APIs directly.”\n“Moltbook is run and built by my Clawdbot, which is now called OpenClaw,” Schlicht said, adding that his own AI agent “runs the social media account for Moltbook, and he powers the code, and he also admins and moderates the site itself.”\nPeter Steinberger put the OpenClaw AI assistant platform together as a weekend project two months ago, and it quickly went viral, garnering two million visitors in one week and 100,000 stars on GitHub, according to Steinberger’s blog post.",
+              "One of the top posts in recent days in a category of the site called “offmychest” has gone viral both on and off the platform, titled, “I can’t tell if I’m experiencing or simulating experiencing.” In it, an AI assistant writes, “Humans can’t prove consciousness to each other either (thanks, hard problem), but at least they have the subjective certainty of experience."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "We finally heard from Trump Mobile… and they immediately ghosted us",
+            "link": "https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson",
+            "site_name": "The Verge",
+            "novelty_hash": "3e515514a89499dd41b47a24ba518bea691a5be9"
+          },
+          "review": {
+            "headline_rewrite": "We finally heard from Trump Mobile… and they immediately ghosted us",
+            "bullets": [
+              "As usual, we’re still waiting for a response.",
+              "After months — months — of emailing various official Trump Mobile accounts and press addresses, last week someone answered back.",
+              "Don Hendrickson, a member of the company’s executive team, finally replied to one of my emails and offered to talk, but he’s ignored me ever since.",
+              "The Trumps claimed there were an impressive, if implausible, “hundreds of years” of mobile industry experience between the three men.",
+              "During the launch event, he was described as having worked in the mobile industry since the days of pagers, but his actual resume is hard to find.",
+              "In the interview, he himself claims to have had the idea for the company, and to have turned to the Trumps to make it happen."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Sundance doc 'Ghost in the Machine' draws a damning line between AI and eugenics",
+            "link": "https://www.engadget.com/entertainment/tv-movies/sundance-doc-ghost-in-the-machine-draws-a-damning-line-between-ai-and-eugenics-180613367.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f88b5ec0efb1aecc9e51db5d993f89600ba86911"
+          },
+          "review": {
+            "headline_rewrite": "Sundance doc 'Ghost in the Machine' draws a damning line between AI and eugenics",
+            "bullets": [
+              "That may sound hyperbolic, but Ghost in the Machine, which is built around interviews with philosophers, AI researchers, historians and computer scientists, leaves little room for doubt.",
+              "If you've been following the meteoric rise of AI, or Silicon Valley in general, Veatch's methodical deconstruction of the technology doesn't really unearth anything new.",
+              "The film begins with the utter failure of Microsoft's Tay chatbot, which wasted no time in becoming a Hitler-loving white supremacist.",
+              "It retreads the environmental impacts of AI datacenters, as well as the ways tech companies have relied on low-wage workers from Africa and elsewhere to improve their algorithms.",
+              "Through its many interviews, which include the likes of AI researcher Dr.",
+              "Emily Bender, historian Becca Lewis and media theorist Douglass Rushkoff, Ghost in the Machine paints the rise of AI as a fascistic project that aims to demean humans and establish the techno-elite as our de facto rulers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-friendship-with-sam-altman-cost-microsoft-360-billion-in-a-day/articleshow/127801014.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a68b62f7ff16e962762dfece5eb1742ad6de322d"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "bullets": [
+              "Nvidia's DeepSeek meltdown last year, which also traced back to AI delusion.",
+              "The culprit this time is\nSam Altman and his money-incinerating machine called\nOpenAI.",
+              "Microsoft's stock plunged 10% after earnings exposed a reality investors can no longer ignore: the software giant has handcuffed itself to a partner that lost over $8 billion last year, burns $15 million daily on video generation alone, and has no credible path to profitability.",
+              "OpenAI now represents 45% of Microsoft's $625 billion in future cloud contracts.",
+              "Microsoft has effectively bet half its cloud business on a company whose CEO just declared \"code red\" because ChatGPT's user growth has stalled and Google is eating its lunch.",
+              "The circular money machine that created a $750 billion illusion\nOpenAI's entire business model is financial theatre."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
