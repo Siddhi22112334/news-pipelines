@@ -116374,6 +116374,44 @@
             "impact": "Negative"
           }
         }
+      ],
+      "11:41": [
+        {
+          "item": {
+            "title": "Technology News Jan 30, 2026 One of the biggest Apple analysts says: Big mistake Apple made was hiring this high flyer from Google that they thought ... Apple's AI progress has been significantly hampered, with a prominent analyst identifying John Giannandrea's 2018 hiring as a major misstep. Once a leader in voice assistants, Siri reportedly declined under his watch, leading to internal turmoil and a talent drain. Now, Apple is reportedly paying Google $1 billion annually for AI technology, a stark admission of its struggles.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/one-of-the-biggest-apple-analysts-says-big-mistake-apple-made-was-hiring-this-high-flyer-from-google-that-they-thought-/articleshow/127790350.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "6cc9538a013f83ff9dbe357224b7e062c1b72b04"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 30, 2026 One of the biggest Apple analysts says: Big mistake Apple made was hiring this high flyer from Google that they thought ... Apple's AI progress has been significantly hampered, with a prominent analyst identifying John Giannandrea's 2018 hiring as a major misstep. Once a leader in voice assistants, Siri reportedly declined under his watch, leading to internal turmoil and a talent drain. Now, Apple is reportedly paying Google $1 billion annually for AI technology, a stark admission of its struggles.",
+            "bullets": [
+              "Apple analyst and Bloomberg reporter Mark Gurman has pointed the finger squarely at one hire he believes set the company back years in the AI race.",
+              "He ran AI in search, and Apple thought they would hire this guy and really hit the ground running and be at the forefront of AI,\" Gurman explained.",
+              "They've completely screwed up AI in every way, and it comes down to hiring the wrong people and entrusting the wrong people.\"\nSiri went from breakthrough to 'utter junk' under Giannandrea's watch\nThe criticism stings because Apple was actually first to the game.",
+              "When Siri launched in 2011, nothing else came close.",
+              "Instead, reports from Bloomberg and The Information have painted a picture of delayed launches, internal chaos, and a talent exodus that saw key AI researchers flee to Meta and OpenAI.",
+              "He stripped Giannandrea of Siri responsibilities and handed the project to software chief Craig Federighi."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
