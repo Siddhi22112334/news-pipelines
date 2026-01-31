@@ -119003,6 +119003,64 @@
             "impact": "Positive"
           }
         }
+      ],
+      "09:36": [
+        {
+          "item": {
+            "title": "Senate passes budget with two more weeks of Homeland Security funding",
+            "link": "https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding",
+            "site_name": "The Verge",
+            "novelty_hash": "ffa31ecd5d9d061d0bfd035a1e87e0643371d6b0"
+          },
+          "review": {
+            "headline_rewrite": "Senate passes budget with two more weeks of Homeland Security funding",
+            "bullets": [
+              "The Senate voted on Friday evening to pass the federal budget, funding everything except for one entity: the Department of Homeland Security, which was given a two-week funding extension in order to negotiate new guardrails around Immigrations and Customs Enforcement (ICE).",
+              "If no agreement is reached, DHS funding will lapse and the department will face a shutdown.",
+              "Senate passes budget with two more weeks of Homeland Security funding\nCongress now has two weeks to negotiate new funding limits for ICE before DHS is shut down again.",
+              "DHS will remain unfunded over the weekend, however, until the House of Representatives reconvenes on Monday to approve the new stopgap bill.",
+              "It’s a stunning reversal of course for the DHS funding bill, which was expected to pass the Senate with a handful of moderate Dem votes, despite vocal opposition for its continued funding of ICE.",
+              "But after federal agents killed Alex Pretti during a protest in Minneapolis, the Senate Democrats unanimously announced that they would not vote to continue funding the DHS without significant reforms to ICE, forcing the Trump administration into negotiations over keeping the government open."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-friendship-with-sam-altman-cost-microsoft-360-billion-in-a-day/articleshow/127801014.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a68b62f7ff16e962762dfece5eb1742ad6de322d"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "bullets": [
+              "Nvidia's DeepSeek meltdown last year, which also traced back to AI delusion.",
+              "The culprit this time is\nSam Altman and his money-incinerating machine called\nOpenAI.",
+              "Microsoft's stock plunged 10% after earnings exposed a reality investors can no longer ignore: the software giant has handcuffed itself to a partner that lost over $8 billion last year, burns $15 million daily on video generation alone, and has no credible path to profitability.",
+              "OpenAI now represents 45% of Microsoft's $625 billion in future cloud contracts.",
+              "Microsoft has effectively bet half its cloud business on a company whose CEO just declared \"code red\" because ChatGPT's user growth has stalled and Google is eating its lunch.",
+              "The circular money machine that created a $750 billion illusion\nOpenAI's entire business model is financial theatre."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
