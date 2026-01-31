@@ -120409,6 +120409,80 @@
             "impact": "Positive"
           }
         }
+      ],
+      "21:19": [
+        {
+          "item": {
+            "title": "Cassette Boy forces you to see its world in a whole new way",
+            "link": "https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch",
+            "site_name": "The Verge",
+            "novelty_hash": "f14cc9503b7079f139443e348e6ad5f7d20f68aa"
+          },
+          "review": {
+            "headline_rewrite": "Cassette Boy forces you to see its world in a whole new way",
+            "bullets": [
+              "The game’s main mechanic revolves around an idea “inspired by” quantum mechanics: if you can’t see something in the game, it ceases to “exist” and remains in an essentially frozen state from the moment it went off-screen.",
+              "So, with that hidden enemy, if you turn the camera so that it’s not behind the wall, it “reappears” and becomes a physical being again.",
+              "When it all comes together, Cassette Boy is really satisfying: when I was in the zone, I couldn’t wait to pick apart every new room to work through puzzles and search for hidden treasures tucked away out of sight.",
+              "There are also clever battles against giant, blocky bosses, all to earn moon fragments (the main MacGuffin you’re tasked to find).",
+              "You often have to talk to the exact right person at the exact right time to move the main quest forward, and you don’t have much of an indication of who that might be except for a speech bubble over their heads.",
+              "After you collect a moon fragment, the game will send you back to the main town but won’t tell you where to go, so I often got frustrated having to seek out all of the townspeople over and over again."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Blue Origin is pausing its space tourist flights to work on lunar landers for NASA",
+            "link": "https://www.engadget.com/science/space/blue-origin-is-pausing-its-space-tourist-flights-to-work-on-lunar-landers-for-nasa-143000058.html",
+            "site_name": "Engadget",
+            "novelty_hash": "2b33650a9e2f98b3a10050c857d2c245b0f85141"
+          },
+          "review": {
+            "headline_rewrite": "Blue Origin is pausing its space tourist flights to work on lunar landers for NASA",
+            "bullets": [
+              "That means we won’t be seeing any New Shepard launches for quite some time.",
+              "But last year, NASA asked Blue Origin to design an alternative lander for Artemis III after SpaceX experienced delays due to Starship’s failed tests."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 31, 2026 Ex-Google engineer convicted of stealing AI secrets for startup in China; FBI says: Betrayed both America and Google by ... Former Google engineer Linwei Ding was convicted of economic espionage and theft of trade secrets for stealing thousands of pages of confidential AI technology information. Ding intended to benefit the People's Republic of China by using Google's proprietary data to develop AI supercomputers and machine learning chips, putting U.S. technological leadership at risk.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/ex-google-engineer-convicted-of-stealing-ai-secrets-for-startup-in-china-fbi-says-betrayed-both-america-and-google-by-/articleshow/127818658.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "3aba1e61602bae63aee63031347148540fa3d77e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 31, 2026 Ex-Google engineer convicted of stealing AI secrets for startup in China; FBI says: Betrayed both America and Google by ... Former Google engineer Linwei Ding was convicted of economic espionage and theft of trade secrets for stealing thousands of pages of confidential AI technology information. Ding intended to benefit the People's Republic of China by using Google's proprietary data to develop AI supercomputers and machine learning chips, putting U.S. technological leadership at risk.",
+            "bullets": [
+              "A federal jury in San Francisco this week convicted former\nGoogle software engineer Linwei Ding, also known as Leon Ding, 38, on seven counts of economic espionage and seven counts of theft of trade secrets for stealing thousands of pages of confidential information containing Googleâs trade secrets related to artificial intelligence technology for the benefit of the Peopleâs Republic of China (PRC).",
+              "âThis conviction exposes a calculated breach of trust involving some of the most advanced AI technology in the world at a critical moment in AI development,â said Assistant Attorney General for National Security John A.",
+              "âDing abused his privileged access to steal AI trade secrets while pursuing PRC government-aligned ventures.",
+              "and his employer by stealing trade secrets about Googleâs AI technology on behalf of Chinaâs government,â said Assistant Director Roman Rozhavsky of the FBI's Counterintelligence and Espionage Division.",
+              "âNot only does this case mark the first-ever conviction on AI-related economic espionage charges, but it also demonstrates the FBIâs unwavering dedication to protecting American businesses from the increasingly severe threat China poses to our economic and national security.",
+              "We remain committed to working closely with our partners across the private sector to protect our nationâs innovation, safeguard our trade secrets, and hold our foreign adversaries accountable.â\nâSilicon Valley is at the forefront of artificial intelligence innovation, pioneering transformative work that drives economic growth and strengthens our national security."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
