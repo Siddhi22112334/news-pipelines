@@ -119099,6 +119099,48 @@
             "impact": "Positive"
           }
         }
+      ],
+      "11:32": [
+        {
+          "item": {
+            "title": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-friendship-with-sam-altman-cost-microsoft-360-billion-in-a-day/articleshow/127801014.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a68b62f7ff16e962762dfece5eb1742ad6de322d"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "bullets": [
+              "Nvidia's DeepSeek meltdown last year, which also traced back to AI delusion.",
+              "The culprit this time is\nSam Altman and his money-incinerating machine called\nOpenAI.",
+              "Microsoft's stock plunged 10% after earnings exposed a reality investors can no longer ignore: the software giant has handcuffed itself to a partner that lost over $8 billion last year, burns $15 million daily on video generation alone, and has no credible path to profitability.",
+              "OpenAI now represents 45% of Microsoft's $625 billion in future cloud contracts.",
+              "Microsoft has effectively bet half its cloud business on a company whose CEO just declared \"code red\" because ChatGPT's user growth has stalled and Google is eating its lunch.",
+              "The circular money machine that created a $750 billion illusion\nOpenAI's entire business model is financial theatre."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 31, 2026 Perplexity-Microsoft Azure Partnership: Startup inks $750M, 3-year deal; AWS remains preferred provider AI startup Perplexity has inked a significant $750 million deal with Microsoft Azure, expanding its cloud partnerships beyond Amazon. This three-year agreement allows Perplexity to leverage leading AI models via Microsoft's Foundry service. Despite this new alliance, Perplexity affirms its continued strong relationship with AWS, its primary cloud provider.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-lawsuit-one-of-the-biggest-amazon-customers-perplexity-signs-750-million-deal-with-microsoft-says-aws-remains/articleshow/127812618.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7bed5f5c1eeaa164057ac32c4a930b395858c21b"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 31, 2026 Perplexity-Microsoft Azure Partnership: Startup inks $750M, 3-year deal; AWS remains preferred provider AI startup Perplexity has inked a significant $750 million deal with Microsoft Azure, expanding its cloud partnerships beyond Amazon. This three-year agreement allows Perplexity to leverage leading AI models via Microsoft's Foundry service. Despite this new alliance, Perplexity affirms its continued strong relationship with AWS, its primary cloud provider.",
+            "bullets": [
+              "With this deal, the AI startup is expanding its business beyond its long-time cloud partner, Amazon.",
+              "The three-year commitment will allow Perplexity to deploy AI models through Microsoft's Foundry service, including those from OpenAI, Anthropic, and xAI, a report claimed, citing people familiar with the deal, who requested anonymity to discuss a private matter.",
+              "However, a Perplexity spokesperson has confirmed that as part of the Microsoft deal, the company hasn't shifted spending from Amazon Web Services (AWS), which has long been the startup's primary cloud provider.",
+              "In a statement to Bloomberg, a Perplexity spokesperson said,\nâWe are excited to partner with Microsoft for access to frontier models from X, OpenAI and Anthropic.",
+              "AWS remains Perplexity's preferred cloud infrastructure provider, and we're excited to announce expansions of that partnership in the coming weeks.âThis deal comes after Perplexity and Amazon got engaged in a legal fight last year.",
+              "In November 2025, Amazon sued Perplexity to prevent the startup from allowing consumers to use its AI tools to shop on Amazon's online marketplace."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
