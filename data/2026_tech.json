@@ -120335,6 +120335,80 @@
             "impact": "Positive"
           }
         }
+      ],
+      "20:55": [
+        {
+          "item": {
+            "title": "Cassette Boy forces you to see its world in a whole new way",
+            "link": "https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch",
+            "site_name": "The Verge",
+            "novelty_hash": "f14cc9503b7079f139443e348e6ad5f7d20f68aa"
+          },
+          "review": {
+            "headline_rewrite": "Cassette Boy forces you to see its world in a whole new way",
+            "bullets": [
+              "The game’s main mechanic revolves around an idea “inspired by” quantum mechanics: if you can’t see something in the game, it ceases to “exist” and remains in an essentially frozen state from the moment it went off-screen.",
+              "So, with that hidden enemy, if you turn the camera so that it’s not behind the wall, it “reappears” and becomes a physical being again.",
+              "When it all comes together, Cassette Boy is really satisfying: when I was in the zone, I couldn’t wait to pick apart every new room to work through puzzles and search for hidden treasures tucked away out of sight.",
+              "There are also clever battles against giant, blocky bosses, all to earn moon fragments (the main MacGuffin you’re tasked to find).",
+              "You often have to talk to the exact right person at the exact right time to move the main quest forward, and you don’t have much of an indication of who that might be except for a speech bubble over their heads.",
+              "After you collect a moon fragment, the game will send you back to the main town but won’t tell you where to go, so I often got frustrated having to seek out all of the townspeople over and over again."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Blue Origin is pausing its space tourist flights to work on lunar landers for NASA",
+            "link": "https://www.engadget.com/science/space/blue-origin-is-pausing-its-space-tourist-flights-to-work-on-lunar-landers-for-nasa-143000058.html",
+            "site_name": "Engadget",
+            "novelty_hash": "2b33650a9e2f98b3a10050c857d2c245b0f85141"
+          },
+          "review": {
+            "headline_rewrite": "Blue Origin is pausing its space tourist flights to work on lunar landers for NASA",
+            "bullets": [
+              "That means we won’t be seeing any New Shepard launches for quite some time.",
+              "But last year, NASA asked Blue Origin to design an alternative lander for Artemis III after SpaceX experienced delays due to Starship’s failed tests."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 31, 2026 SpaceX and xAI, or Tesla and SpaceX: How the 'merger scenarios' look for three of Elon Musk's biggest companies Elon Musk is exploring a major consolidation of his ventures, potentially merging SpaceX with either his AI startup xAI or electric car giant Tesla. This move, ahead of SpaceX's planned $1.5 trillion IPO, could create a powerful entity focused on space-based AI infrastructure or an energy-meets-exploration powerhouse. Planning appears advanced with new Nevada entities registered.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/spacex-and-xai-or-tesla-and-spacex-how-the-merger-scenarios-look-for-three-of-elon-musks-biggest-companies/articleshow/127817234.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "55718bb56689d54e272c13445f574facb561177c"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 31, 2026 SpaceX and xAI, or Tesla and SpaceX: How the 'merger scenarios' look for three of Elon Musk's biggest companies Elon Musk is exploring a major consolidation of his ventures, potentially merging SpaceX with either his AI startup xAI or electric car giant Tesla. This move, ahead of SpaceX's planned $1.5 trillion IPO, could create a powerful entity focused on space-based AI infrastructure or an energy-meets-exploration powerhouse. Planning appears advanced with new Nevada entities registered.",
+            "bullets": [
+              "Elon Musk is considering merging\nSpaceX with either his AI startup xAI or electric vehicle maker Tesla, a consolidation that would reshape his already intertwined business empire just months before SpaceX's highly anticipated public debut.",
+              "While no final decisions have been made, two \"merger sub\" entities were registered in Nevada on January 21, with SpaceX CFO Bret Johnsen listed as an officerâsuggesting the planning is more than theoretical.",
+              "But which merger path Musk chooses could fundamentally alter what investors are actually buying into.",
+              "The xAI deal: Building AI infrastructure in orbit\nMerging SpaceX with xAI would advance Musk's stated goal of launching data centers into space.",
+              "At the World Economic Forum in Davos last week, he declared that \"the lowest-cost place to put AI will be space\" within two or three years, powered by solar energy and free from Earth's energy grid constraints.",
+              "xAI, valued at $230 billion in November, owns the Grok chatbot and X social media platform."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
