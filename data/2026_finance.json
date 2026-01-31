@@ -53875,5 +53875,45 @@
         }
       ]
     }
+  },
+  "2026-02-01": {
+    "runs": {
+      "00:01": [
+        {
+          "item": {
+            "title": "India-US trade deal talks progressing well, agreement to be closed quickly: Piyush Goyal",
+            "link": "https://www.thehindubusinessline.com/news/india-us-trade-deal-talks-progressing-well-agreement-to-be-closed-quickly-piyush-goyal/article70575532.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India-US trade deal talks progressing well, agreement to be closed quickly: Piyush Goyal",
+            "bullets": [
+              "The visit of US officials marks their second trip since the imposition of a 25 per cent tariff and an additional 25 per cent",
+              "When asked if Russian oil purchases by India are one of the irritants in the bilateral our relations, Goyal said: “I don’t think that’s"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Silver tumbles nearly 19% to ₹3.12 lakh/kg; gold falls ₹3,500 amid dollar rebound",
+            "link": "https://www.thehindubusinessline.com/markets/gold/silver-tumbles-nearly-19-to-312-lakhkg-gold-falls-3500-amid-dollar-rebound/article70575533.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Silver tumbles nearly 19% to ₹3.12 lakh/kg; gold falls ₹3,500 amid dollar rebound",
+            "bullets": [
+              "Silver prices collapsed 19 per cent to Rs 3.12 lakh per kg in the national capital on Saturday, while gold plunged 2 per cent",
+              "According to the All India Sarafa Association, silver nosedived Rs 72,500, or 18.85 per cent, to Rs 3,12,000 per kilogram (inclusive of all taxes),",
+              "Monthly Gains Intact Silver prices, however, closed January with sharp gains, soaring Rs 73,000, or 30.5 per cent, from Rs 2,39,000 per kilogram recorded",
+              "Expert View Sandip Raichura, CEO of Retail Broking and Distribution & Director, PL Capital, said, “Warsh’s nomination triggered profit booking in Asia, which then"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
