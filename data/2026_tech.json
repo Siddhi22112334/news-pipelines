@@ -121192,6 +121192,98 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:55": [
+        {
+          "item": {
+            "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
+            "link": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
+            "site_name": "The Verge",
+            "novelty_hash": "f180bc467f5724204463c6d71943ffcbac47f353"
+          },
+          "review": {
+            "headline_rewrite": "SpaceX wants to put 1 million solar-powered data centers into orbit",
+            "bullets": [
+              "SpaceX wants to put 1 million solar-powered data centers into orbit\nThe company claims it’s a cheaper and more environmentally-friendly alternative to land-based centers.",
+              "But SpaceX argues that the orbital data centers would be a cheaper and more environmentally friendly alternative to land-based centers that form the backbone of the growing AI industry.",
+              "The backlash against data centers has been growing, and communities are increasingly winning their battles to block their construction.",
+              "So it’s no surprise that the biggest names in AI are turning their attention to one of the few places where there isn’t a community to upset."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Onnit's Instant Melatonin Spray Keeps Bedtime Uncomplicated",
+            "link": "https://www.wired.com/story/onnit-instant-melatonin-spray-rave/",
+            "site_name": "WIRED",
+            "novelty_hash": "693717c19995e4813bcc161cab715408efc9fdfd"
+          },
+          "review": {
+            "headline_rewrite": "Onnit's Instant Melatonin Spray Keeps Bedtime Uncomplicated",
+            "bullets": [
+              "They seem to help every once in a while, but your brain is already making melatonin.",
+              "Keep in mind that melatonin is meant to be a sleep aid, not a cure-all.",
+              "That being said, one serving of this spray has 3 milligrams of melatonin, which takes about six pumps to dispense.",
+              "While 3 milligrams may not seem like a lot to really kickstart your circadian rhythm, it's actually the ideal dosage to get your brain's wind-down process kicked off.",
+              "Your healthcare provider can help confirm that you're not on any medications where adding a sleep aid or supplement wouldn't feel as effective."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OnlyFans is reportedly in talks to sell a 60 percent stake to a San Francisco investment firm",
+            "link": "https://www.engadget.com/social-media/onlyfans-is-reportedly-in-talks-to-sell-a-60-percent-stake-to-a-san-francisco-investment-firm-191842666.html",
+            "site_name": "Engadget",
+            "novelty_hash": "b2255c6ed11a18f1b6fc77ee08c68c6e60e6dd7e"
+          },
+          "review": {
+            "headline_rewrite": "OnlyFans is reportedly in talks to sell a 60 percent stake to a San Francisco investment firm",
+            "bullets": [
+              "OnlyFans is looking to cash out once again, but this time in a deal that would value it at several billion dollars less than a potential sale that previously fell through.",
+              "As reported by TechCrunch, the online platform known for subscription-based pornographic content is in talks to sell a majority stake to Architect Capital, an investment firm based in San Francisco.",
+              "TechCrunch also reported that Architect Capital and OnlyFans are currently in exclusive talks, where the website's owner can't negotiate with other potential buyers for a certain amount of time."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 31, 2026 Ex-Google engineer convicted of stealing AI secrets for startup in China; FBI says: Betrayed both America and Google by ...",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/ex-google-engineer-convicted-of-stealing-ai-secrets-for-startup-in-china-fbi-says-betrayed-both-america-and-google-by-/articleshow/127818658.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "3aba1e61602bae63aee63031347148540fa3d77e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 31, 2026 Ex-Google engineer convicted of stealing AI secrets for startup in China; FBI says: Betrayed both America and Google by ...",
+            "bullets": [
+              "A federal jury in San Francisco this week convicted former\nGoogle software engineer Linwei Ding, also known as Leon Ding, 38, on seven counts of economic espionage and seven counts of theft of trade secrets for stealing thousands of pages of confidential information containing Googleâs trade secrets related to artificial intelligence technology for the benefit of the Peopleâs Republic of China (PRC).",
+              "âThis conviction exposes a calculated breach of trust involving some of the most advanced AI technology in the world at a critical moment in AI development,â said Assistant Attorney General for National Security John A.",
+              "âDing abused his privileged access to steal AI trade secrets while pursuing PRC government-aligned ventures.",
+              "and his employer by stealing trade secrets about Googleâs AI technology on behalf of Chinaâs government,â said Assistant Director Roman Rozhavsky of the FBI's Counterintelligence and Espionage Division.",
+              "âNot only does this case mark the first-ever conviction on AI-related economic espionage charges, but it also demonstrates the FBIâs unwavering dedication to protecting American businesses from the increasingly severe threat China poses to our economic and national security.",
+              "We remain committed to working closely with our partners across the private sector to protect our nationâs innovation, safeguard our trade secrets, and hold our foreign adversaries accountable.â\nâSilicon Valley is at the forefront of artificial intelligence innovation, pioneering transformative work that drives economic growth and strengthens our national security."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
