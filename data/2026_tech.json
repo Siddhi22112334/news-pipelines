@@ -119441,6 +119441,64 @@
             "impact": "Negative"
           }
         }
+      ],
+      "14:28": [
+        {
+          "item": {
+            "title": "The latest Instax printer is a pricey but worthy upgrade",
+            "link": "https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos",
+            "site_name": "The Verge",
+            "novelty_hash": "1534fefed6fdb1f1cce18341ceb8a425dbb64d33"
+          },
+          "review": {
+            "headline_rewrite": "The latest Instax printer is a pricey but worthy upgrade",
+            "bullets": [
+              "The latest Instax printer is a pricey but worthy upgrade\nBetter contrast, color, detail, and sharpness.",
+              "I did, however, find that the improved processing inside the Mini Link+ enhanced contrast, colors, and sharpness, to reveal more details in a wide variety of photos, and I think that’s more important to most people.",
+              "To print, you need to download the “Instax Mini Link” app available for both iOS and Android.",
+              "To do that, I have to first import the image into the Instax Mini Link app, hit print, choose either the Simple or Design mode, then wait 20 seconds for the printout.",
+              "The Simple and Design prints from the Mini Link+ handled the lighting better, with improved contrast, more detail in the eye, and more accurate colors and skin texture.",
+              "The Mini Link+ again offers improved contrast, with visible textures on the rock faces, tree branches, and improved colors throughout."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/how-friendship-with-sam-altman-cost-microsoft-360-billion-in-a-day/articleshow/127801014.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a68b62f7ff16e962762dfece5eb1742ad6de322d"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Jan 30, 2026 How ‘friendship’ with Sam Altman cost Microsoft $360 billion in a day Microsoft's $360 billion single-day crash exposed the catastrophic cost of its OpenAI alliance. After investing $13 billion in Sam Altman's money-losing venture, Microsoft has tied 45% of its cloud contracts to a partner burning cash with no path to profitability. Circular financing schemes and exploding AI spending finally triggered Wall Street's reckoning.",
+            "bullets": [
+              "Nvidia's DeepSeek meltdown last year, which also traced back to AI delusion.",
+              "The culprit this time is\nSam Altman and his money-incinerating machine called\nOpenAI.",
+              "Microsoft's stock plunged 10% after earnings exposed a reality investors can no longer ignore: the software giant has handcuffed itself to a partner that lost over $8 billion last year, burns $15 million daily on video generation alone, and has no credible path to profitability.",
+              "OpenAI now represents 45% of Microsoft's $625 billion in future cloud contracts.",
+              "Microsoft has effectively bet half its cloud business on a company whose CEO just declared \"code red\" because ChatGPT's user growth has stalled and Google is eating its lunch.",
+              "The circular money machine that created a $750 billion illusion\nOpenAI's entire business model is financial theatre."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
