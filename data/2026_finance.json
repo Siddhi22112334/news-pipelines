@@ -55412,5 +55412,62 @@
         }
       ]
     }
+  },
+  "2026-02-02": {
+    "runs": {
+      "00:05": [
+        {
+          "item": {
+            "title": "OPEC extends crude oil production pause amid geopolitical tension",
+            "link": "https://www.livemint.com/market/opec-extends-crude-oil-production-pause-amid-geopolitical-tension-11769965197126.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "OPEC extends crude oil production pause amid geopolitical tension",
+            "bullets": [
+              "The Organization of the Petroleum Exporting Countries (OPEC) declared on Sunday its decision to maintain consistent crude oil output levels through March — the",
+              "The OPEC and its affiliates frequently react with deliberation to rising geopolitical hazards, generally awaiting tangible supply shifts before adjusting policy.",
+              "Throughout the previous year, eight OPEC members aggressively boosted production to recapture global market share; however, they consented in November to halt those expansions",
+              "Oil prices have remained unexpectedly resilient this year, supported by instability in Iran and logistical interruptions in Kazakhstan."
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Driving mobility through infrastructure and green growth",
+            "link": "https://www.thehindubusinessline.com/opinion/columns/from-the-viewsroom/driving-mobility-through-infrastructure-and-green-growth/article70578921.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Driving mobility through infrastructure and green growth",
+            "bullets": [
+              "Continued policy support for clean energy, green manufacturing and the EV value chain is expected to accelerate the adoption of electric mobility.",
+              "For commercial vehicles and public transport, this transition presents an opportunity to improve operating economics while delivering better urban mobility outcomes.",
+              "Increased infrastructure spending supports growth across our key segments—M&HCV, LCV and EVs—while policy support for green technologies strengthens our investments in electric buses, alternative"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Solar powered renewable transition",
+            "link": "https://www.thehindubusinessline.com/data-stories/visually/solar-powered-renewable-transition/article70580224.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Solar powered renewable transition",
+            "bullets": [
+              "The Budget for FY27 has allocated ₹32.91 lakh crore towards MNRE, registering 24 per cent growth over RE FY26.",
+              "The focus has been on solar energy -1,546.84 -495.20 + 61.00 -6,653.00 -26,273.00"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
