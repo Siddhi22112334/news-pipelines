@@ -125257,6 +125257,62 @@
             "impact": "Positive"
           }
         }
+      ],
+      "05:20": [
+        {
+          "item": {
+            "title": "AI layoffs or ‘AI-washing’?",
+            "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c128a92b4d460ef985d7f80b95b046272420a3b6"
+          },
+          "review": {
+            "headline_rewrite": "AI layoffs or ‘AI-washing’?",
+            "bullets": [
+              "And how many of them were just using AI as an excuse to cover other problems?",
+              "That’s the question posed by a New York Times article on the trend of “AI-washing,” where companies will cite AI as the reason for layoffs that might actually be caused by other factors, like over-hiring during the pandemic.",
+              "AI was the stated reason for more than 50,000 layoffs in 2025, with Amazon and Pinterest among the tech companies who blamed the technology for recent cuts.",
+              "Molly Kinder, a senior research fellow at the Brookings Institute, noted that saying layoffs were caused by AI is a “very investor-friendly message,” especially when the alternative might mean admitting, “The business is ailing.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 1, 2026 Alpha School Model: Hinton says AI tutors boost learning; warns tech remains costly",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-on-one-of-the-best-uses-of-ai-hes-seen-a-normal/articleshow/127842435.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "2c0af30df7af02bd4f97482a5887ec7e05aa0559"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 1, 2026 Alpha School Model: Hinton says AI tutors boost learning; warns tech remains costly",
+            "bullets": [
+              "Geoffrey Hinton, the computer scientist often referred to as the \"Godfather of AI,\" has highlighted a positive use case of artificial intelligence (AI).",
+              "In a recent interview, he said education is one of the more promising use cases for the technology he helped develop, while also expressing mixed feelings about its broader impact.",
+              "Hinton pointed to Alpha Schoolâs AI-based learning model as an example of how the technology is being applied in education.",
+              "During a recent interview with BBC Newsnight, Hinton was asked to share an example of a successful AI use case that makes him proud of his role in developing generative AI.",
+              "In the interview, Hinton said,\nâA normal teacher is in broadcast mode in a classroom, where they're telling the children the answers to questions the children didn't just wonder about.",
+              "Whereas with an AI tutor, the AI tutor can always be telling you the answers to questions you did just wonder about, and you learn much faster that way.âThe Alpha School is a network of private institutions that offer AI-based learning for students in kindergarten through 12th grade."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
