@@ -126689,6 +126689,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:09": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "fe5d10a4fb12575724e9ec582e8e86ff756994d3"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)\nLast week’s launches\nHere are the launches that got my attention this week:\n- Amazon Bedrock enhances support for agent workflows with server-side tools and extended prompt caching – Amazon Bedrock introduced two updates that improve how developers build and operate AI agents.",
+              "The Responses API now supports server-side tool use, so agents can perform actions such as web search, code execution, and database updates within AWS security boundaries.",
+              "Server-side tools are available with OpenAI GPT OSS 20B and 120B models, and the 1-hour prompt caching TTL is generally available for select Claude models by Anthropic in Amazon Bedrock.",
+              "With SageMaker service endpoints onboarded into a VPC, data traffic remains within the AWS network and is governed by IAM policies, supporting stricter security and compliance requirements.",
+              "Using the\nUpdateObjectEncryption\nAPI, you can switch from SSE-S3 to SSE-KMS, rotate customer -managed AWS Key Management Service (AWS KMS) keys, or standardize encryption across buckets at scale with S3 Batch Operations while preserving object properties and lifecycle eligibility.",
+              "Pre-warming helps reduce throttling during sudden traffic spikes, such as product launches or sales events, and works with both on-demand and provisioned capacity modes, including multi-Region tables."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Advancing AI benchmarking with Game Arena",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+            "site_name": "Google",
+            "novelty_hash": "63ec7448c5c8dc5fb632170a4b10779e033d17c5"
+          },
+          "review": {
+            "headline_rewrite": "Advancing AI benchmarking with Game Arena",
+            "bullets": [
+              "Advancing AI benchmarking with Game Arena\nChess is a game of perfect information.",
+              "Last year, Google DeepMind partnered with Kaggle to launch Game Arena, an independent, public benchmarking platform where AI models compete in strategic games.",
+              "To build artificial intelligence capable of navigating this uncertainty, we need benchmarks that measure the model’s ability to reason in the face of ambiguity.",
+              "As AI systems become more general, mastering diverse games demonstrates their consistency across distinct cognitive skills.",
+              "Chess: reasoning over calculation\nWe released the chess benchmark last year to assess models on strategic reasoning, dynamic adaptation, and long-term planning by pitting them against one another in head-to-head chess games.",
+              "This significant performance increase over the Gemini 2.5 generation highlights the rapid pace of model progress and demonstrates Game Arena’s value in tracking these improvements over time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenClaw: all the news about the trending AI agent",
+            "link": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news",
+            "site_name": "The Verge",
+            "novelty_hash": "0e8c6ee7cbb1b4d3a01fda4da2066d950de4fee4"
+          },
+          "review": {
+            "headline_rewrite": "OpenClaw: all the news about the trending AI agent",
+            "bullets": [
+              "An open-source AI agent called OpenClaw (formerly known as both Clawdbot and Moltbot) that runs on your own computer and “actually does things” is taking off inside tech circles.",
+              "Users interact with OpenClaw via messaging apps like WhatsApp, Telegram, Signal, Discord, and iMessage, giving it the keys to operate independently, managing reminders, writing emails, or buying tickets.",
+              "But once users give it access to their entire computer and accounts, a configuration error or security flaw could be catastrophic.",
+              "A cybersecurity researcher also found that some configurations left private messages, account credentials, and API keys linked to OpenClaw exposed on the web.",
+              "Octane AI CEO Matt Schlicht even built a Reddit-like network, called Moltbook, where the AI agents are supposed to “chat” with one another.",
+              "- Is Moltbook really a “social network” for AI agents?"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans",
+            "link": "https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro",
+            "site_name": "The Verge",
+            "novelty_hash": "cbd9b7a07374df2948e42d5ec9a94fe1b81cef63"
+          },
+          "review": {
+            "headline_rewrite": "Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans",
+            "bullets": [
+              "Abxylute, the company behind the M4 magnetic mobile gamepad, has announced a new pair of controllers for the Nintendo Switch 2 designed to replace the stock Joy-Cons while playing in handheld mode.",
+              "Both are “launching soon” on Kickstarter and feature a design where the Switch 2 docks to the controllers so they can connect to and draw power from the console’s bottom USB-C port.",
+              "Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans\nThe N9C will launch on Kickstarter soon with a layout and color scheme inspired by the GameCube’s original controller.",
+              "Pricing details aren’t known for either controller, but the N9C will feature capacitive joysticks, ABXY buttons and triggers that use mechanical micro-switches, and a dedicated C button for accessing GameChat.",
+              "There’s a pair of customizable back buttons that can be used to trigger macros programmed right on the controller.",
+              "Below the Switch 2 you’ll also find a resonance chamber that directs audio from the console’s speakers toward you, while also boosting lower frequencies by about 10 percent, Abxylute claims."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Interview: Civilization VII’s devs on the big update meant to win critics back",
+            "link": "https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5abf2b748d288546b5a2a31703de157d081bfb01"
+          },
+          "review": {
+            "headline_rewrite": "Interview: Civilization VII’s devs on the big update meant to win critics back",
+            "bullets": [
+              "It has been difficult at times for new mainline releases in the Civilization series of games to win over new players right out of the gate.",
+              "For Civilization VII—which launched just shy of one year ago—the struggles seemed to go deeper, with some players saying it didn’t feel like a Civilization game.",
+              "Beach said a connections view is in the works, though it will come after the big spring update.",
+              "As for hot seat, he said that “there are some key members of our development team who feel passionately about getting that out.”\nShirk promised that’s coming too, but declined to say when.",
+              "“We introduced all these great new mechanics because we wanted to give our players something new to chew on because they had something very similar from IV or V to VI,” said Shirk."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Here's what Cities: Skylines 2’s new developer is updating first",
+            "link": "https://arstechnica.com/gaming/2026/02/heres-what-cities-skylines-2s-new-developer-is-updating-first/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "7015d4cca9fdec472c5e9555f3817c2ee238742a"
+          },
+          "review": {
+            "headline_rewrite": "Here's what Cities: Skylines 2’s new developer is updating first",
+            "bullets": [
+              "In a City Corner Developer Diary posted late last week, Iceflake focuses mainly on the visual improvements it’s planning for its first major Cities: Skylines 2 patch.",
+              "Players will eventually be able to recolor trees, plants, and other props as well, but this will also have to wait for a later patch."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
