@@ -126571,6 +126571,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:16": [
+        {
+          "item": {
+            "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
+            "link": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8bc86aed21ea4c130e66f4a1001b255793ef770f"
+          },
+          "review": {
+            "headline_rewrite": "Coalition demands federal Grok ban over nonconsensual sexual content",
+            "bullets": [
+              "government to immediately suspend the deployment of Grok, the chatbot developed by Elon Musk’s xAI, in federal agencies including the Department of Defense.",
+              "According to some reports, Grok generated thousands of nonconsensual explicit images every hour, which were then disseminated at scale on X, Musk’s social media platform that’s owned by xAI.",
+              "“It is deeply concerning that the federal government would continue to deploy an AI product with system-level failures resulting in generation of nonconsensual sexual imagery and child sexual abuse material,” the letter, signed by advocacy groups like Public Citizen, Center for AI and Digital Policy, and Consumer Federation of America, reads.",
+              "“Given the administration’s executive orders, guidance, and the recently passed Take It Down Act supported by the White House, it is alarming that [Office of Management and Budget] has not yet directed federal agencies to decommission Grok.”\nxAI reached an agreement last September with the General Services Administration (GSA), the government’s purchasing arm, to sell Grok to federal agencies under the executive branch.",
+              "Two months before, xAI – alongside Anthropic, Google, and OpenAI – secured a contract worth up to $200 million with the Department of Defense.",
+              "Amid the scandals on X in mid-January, Defense Secretary Pete Hegseth said Grok will join Google’s Gemini in operating inside the Pentagon network, handling both classified and unclassified documents, which experts say is a national security risk."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Carbon Robotics built an AI model that detects and identifies plants",
+            "link": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e0274692d60fc9058f93f0c888e5232b0872b308"
+          },
+          "review": {
+            "headline_rewrite": "Carbon Robotics built an AI model that detects and identifies plants",
+            "bullets": [
+              "What is and isn’t a weed that needs to be eliminated in the field is determined by the eyes of the farmer — and now, increasingly, by a new AI model from Carbon Robotics.",
+              "Seattle-based Carbon Robotics, which builds the LaserWeeder — a robot fleet that uses lasers to kill weeds — announced a new AI model, the Large Plant Model (LPM), on Monday.",
+              "This model recognizes plant species instantly and allows farmers to target new weeds without needing to retrain the robots.",
+              "The LPM is trained on more than 150 million photos and data points collected by the company’s machines across the more than 100 farms in 15 countries where the robots currently operate.",
+              "The model now powers Carbon AI, the AI system that serves as the brains inside the company’s autonomous weed-killing robots.",
+              "Paul Mikesell, the founder and CEO of Carbon Robotics, told TechCrunch that prior to LPM, every time a new type of weed would show up on a farm — or even the same type of weed in different soil or with a slightly different appearance — the company would have to create new data labels to retrain its machines to recognize the plant."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Epstein files",
+            "link": "https://www.theverge.com/policy/872092/jeffrey-epstein-files-doj-trump-musk-brin-gates",
+            "site_name": "The Verge",
+            "novelty_hash": "6037a5ceda515997ed30ece750541eefca8bcc26"
+          },
+          "review": {
+            "headline_rewrite": "The Epstein files",
+            "bullets": [
+              "The latest includes somewhat confusing emails that Epstein may have been drafting on behalf of someone named Boris, who worked at the Bill & Melinda Gates Foundation.",
+              "The messages claim that Bill contracted an STD and wanted to “surreptitiously” give Melinda antibiotics.",
+              "It also claims that Bill had “trysts” with married women and “Russian girls.”\nIn a statement to Business Insider, a spokesperson for Bill Gates said:\nRead Article >- Google co-founder Sergey Brin visited Epstein’s private island and traded emails with Ghislaine Maxwell.",
+              "The files also contain testimony that places Brin and his then fiancée, Anne Wojcicki, at the private island in 2007.",
+              "As spotted by XboxEra, the latest batch of Epstein’s emails shows that in December 2013, he was “permanently suspended due to harassment, threats, and/or abuse of other players.”\nBut it appears the real reason may be simpler: A second email from Microsoft to Epstein the very same day shows he was banned because he was a registered sex offender, and because Microsoft was among the companies that agreed to purge registered sex offenders from their systems.",
+              "But in newly released documents, Musk is revealed to have emailed Epstein several times about visiting his island."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenClaw: all the news about the trending AI agent",
+            "link": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news",
+            "site_name": "The Verge",
+            "novelty_hash": "da8840db7576d368f5eafb88f77fb8e47b6db943"
+          },
+          "review": {
+            "headline_rewrite": "OpenClaw: all the news about the trending AI agent",
+            "bullets": [
+              "An open-source AI agent called OpenClaw (formerly known as both Clawdbot and Moltbot) that runs on your own computer and “actually does things” is taking off inside tech circles.",
+              "Users interact with OpenClaw via messaging apps like WhatsApp, Telegram, Signal, Discord, and iMessage, giving it the keys to operate independently, managing reminders, writing emails, or buying tickets.",
+              "But once users give it access to their entire computer and accounts, a configuration error or security flaw could be catastrophic.",
+              "A cybersecurity researcher also found that some configurations left private messages, account credentials, and API keys linked to OpenClaw exposed on the web.",
+              "Octane AI CEO Matt Schlicht even built a Reddit-like network, called Moltbook, where the AI agents are supposed to “chat” with one another.",
+              "“Moltbook” is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that, known as Clawdbot — until a legal dispute with Anthropic)."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Samsung Galaxy Unpacked 2026: The Galaxy S26 lineup and everything else we expect",
+            "link": "https://www.engadget.com/mobile/smartphones/samsung-galaxy-unpacked-2026-the-galaxy-s26-lineup-and-everything-else-we-expect-130000999.html",
+            "site_name": "Engadget",
+            "novelty_hash": "b74bb5db42bfb226021da5b2080aa71c98dbb694"
+          },
+          "review": {
+            "headline_rewrite": "Samsung Galaxy Unpacked 2026: The Galaxy S26 lineup and everything else we expect",
+            "bullets": [
+              "Samsung’s 2025 was filled with new foldables, an ultra-thin new form factor and the launch of Google's XR platform.",
+              "While we wait for an official invite, here's everything we expect Samsung will introduce at the first Galaxy Unpacked event of 2026.",
+              "A recent image shared by leakster Evan Blass indicated Unpacked should be taking place on “February 25 2026.” Blass has a long history of credible leaks, which means this date is all but confirmed, and the main questions remaining would be — what time and in what timezone?",
+              "We’re still waiting on Samsung for the official details, which should include answers to those questions.",
+              "Galaxy S26, S26+ and S26 Ultra\nSamsung's restrained approach to updating its phones will likely continue with the Galaxy S26.",
+              "Unlike Apple's move from the iPhone 16 Pro to the iPhone 17 Pro, the biggest difference here will likely be internal components like the screens, chips and camera sensors Samsung uses."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Apple Watch Series 11 is back on sale for $299",
+            "link": "https://www.engadget.com/deals/the-apple-watch-series-11-is-back-on-sale-for-299-151616498.html",
+            "site_name": "Engadget",
+            "novelty_hash": "702bc73ff851b944f8ef07fd98f29169ab2970c8"
+          },
+          "review": {
+            "headline_rewrite": "The Apple Watch Series 11 is back on sale for $299",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "The Apple Watch Series 11 deal is available on the 42mm case with a small/medium band."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
