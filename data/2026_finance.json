@@ -56734,5 +56734,65 @@
         }
       ]
     }
+  },
+  "2026-02-03": {
+    "runs": {
+      "00:12": [
+        {
+          "item": {
+            "title": "Trump announces trade deal with India: Can it drive Sensex, Nifty 50 to record highs?",
+            "link": "https://www.livemint.com/market/stock-market-news/trump-announces-trade-deal-with-india-can-it-drive-the-indian-stock-market-sensex-nifty-50-to-record-highs-11770055058009.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Trump announces trade deal with India: Can it drive Sensex, Nifty 50 to record highs?",
+            "bullets": [
+              "While devil is in the details, it removes a hanging sword over rupee, equity and rates market.",
+              "“The reduction in tariffs from around 50% to nearly 18% has come in materially better than consensus expectations.",
+              "\"The development is immensely positive for every Indian asset class.",
+              "Kapoor highlighted that her estimates indicate policy implied effective tariff rate on India post deal is at 14.1% if with Russia-related tariffs removal."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "An aspirational Defence Budget",
+            "link": "https://www.thehindubusinessline.com/economy/budget/an-aspirational-defence-budget/article70584495.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "An aspirational Defence Budget",
+            "bullets": [
+              "Defence spending is also poised to increase significantly worldwide; in NATO countries, the rise target is 5 per cent of GDP by the year",
+              "The defence expenditure in India, as a percentage of GDP has seen a secular decline over the last three decades, reaching a nadir of",
+              "Due to the inadequacies in modernization and capability development, as well as international developments, The Parliamentary Standing Committee on Defence had recommended that defence",
+              "An increase of 15.12 per cent in overall allocation is significant as this is the first time after several years when the defence budget"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "US and India agree on trade deal, tariffs reduced to 18%",
+            "link": "https://www.thehindubusinessline.com/news/trump-announces-usindia-trade-deal-with-tariffs-reduced-to-18/article70584691.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US and India agree on trade deal, tariffs reduced to 18%",
+            "bullets": [
+              "Russian oil pledge The US President further said that Modi had agreed to stop buying Russian oil and to buy much more from the",
+              "Modi’s X response The Indian Prime Minister responded to Trump’s announcement on the social media platform `X’, thanking him for agreeing to reduce tariffs",
+              "Nor did he confirm that India had agreed to stop Russian oil purchase and bring down tariffs and non-tariff barriers on American goods to",
+              "Washington agreed to drop the punitive tariff of 25 per cent tied to purchase of Russian oil on India’s commitment that it would stop"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }

@@ -126808,5 +126808,131 @@
         }
       ]
     }
+  },
+  "2026-02-03": {
+    "runs": {
+      "00:12": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-agent-workflows-amazon-sagemaker-private-connectivity-and-more-february-2-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "fe5d10a4fb12575724e9ec582e8e86ff756994d3"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)\nLast week’s launches\nHere are the launches that got my attention this week:\n- Amazon Bedrock enhances support for agent workflows with server-side tools and extended prompt caching – Amazon Bedrock introduced two updates that improve how developers build and operate AI agents.",
+              "The Responses API now supports server-side tool use, so agents can perform actions such as web search, code execution, and database updates within AWS security boundaries.",
+              "Server-side tools are available with OpenAI GPT OSS 20B and 120B models, and the 1-hour prompt caching TTL is generally available for select Claude models by Anthropic in Amazon Bedrock.",
+              "With SageMaker service endpoints onboarded into a VPC, data traffic remains within the AWS network and is governed by IAM policies, supporting stricter security and compliance requirements.",
+              "Using the\nUpdateObjectEncryption\nAPI, you can switch from SSE-S3 to SSE-KMS, rotate customer -managed AWS Key Management Service (AWS KMS) keys, or standardize encryption across buckets at scale with S3 Batch Operations while preserving object properties and lifecycle eligibility.",
+              "Pre-warming helps reduce throttling during sudden traffic spikes, such as product launches or sales events, and works with both on-demand and provisioned capacity modes, including multi-Region tables."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How we’re helping preserve the genetic information of endangered species with AI",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+            "site_name": "Google",
+            "novelty_hash": "e1002968827c14c79a4c0d0b284c3f5702c6ce9f"
+          },
+          "review": {
+            "headline_rewrite": "How we’re helping preserve the genetic information of endangered species with AI",
+            "bullets": [
+              "How we’re helping preserve the genetic information of endangered species with AI\nScientists predict that one million species may be at risk of extinction.",
+              "If we don’t accurately capture their genetic information now, we risk losing many of them forever and destabilizing the ecosystems that provide us with food security, climate regulation and the biological foundations for modern medicine.",
+              "Still, sequencing the genomes of millions of species on our planet is an extraordinarily difficult and expensive task — if not impossible —and it’s one the Vertebrate Genomes Project, led by Erich Jarvis at The Rockefeller University, is tackling with Google’s AI.",
+              "To help them and the Earth BioGenome Project achieve their goal of sequencing all known species on Earth, we’ve supplied funding, support and cutting-edge AI tools to help preserve the genetic code of 13 new endangered species across several animal classes, including mammals, birds, amphibians and reptiles — and recently announced more support.",
+              "Here’s a look at nine of the species, whose genomes are free and available for use by conservation researchers.",
+              "Source: Bernard Dupont, Samburu National Reserve, Kenya via Wikimedia Commons\nThe vulnerable Nubian ibex once inhabited a significant range in the mountains of Northeast Africa and the Middle East, but today their populations are dwindling."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Advancing AI benchmarking with Game Arena",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+            "site_name": "Google",
+            "novelty_hash": "ddcf92f3c650fd374b2ef596be568d0ee3e58b90"
+          },
+          "review": {
+            "headline_rewrite": "Advancing AI benchmarking with Game Arena",
+            "bullets": [
+              "Advancing AI benchmarking with Game Arena\nChess is a game of perfect information.",
+              "Last year, Google DeepMind partnered with Kaggle to launch Game Arena, an independent, public benchmarking platform where AI models compete in strategic games.",
+              "To build artificial intelligence capable of navigating this uncertainty, we need benchmarks that measure the model’s ability to reason in the face of ambiguity.",
+              "As AI systems become more general, mastering diverse games demonstrates their consistency across distinct cognitive skills.",
+              "Chess: reasoning over calculation\nWe released the chess benchmark last year to assess models on strategic reasoning, dynamic adaptation, and long-term planning by pitting them against one another in head-to-head chess games.",
+              "This significant performance increase over the Gemini 2.5 generation highlights the rapid pace of model progress and demonstrates Game Arena’s value in tracking these improvements over time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Firefox will soon let you block all of its generative AI features",
+            "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "79f3dc7a32e38755b51bb80575a9421947d248c7"
+          },
+          "review": {
+            "headline_rewrite": "Firefox will soon let you block all of its generative AI features",
+            "bullets": [
+              "Firefox will begin catering to those who don’t want AI in their browser.",
+              "On Monday, Mozilla announced that Firefox will soon let users block all current and future generative AI features.",
+              "Users will also have the option to block certain AI features in Firefox, while keeping others.",
+              "Starting with Firefox 148, which is rolling out on February 24, users will find a new AI controls section within the desktop browser settings.",
+              "People who don’t want access to any AI features from Firefox can turn on the “Block AI enhancements” toggle.",
+              "When this setting is turned on, they won’t see pop-ups or reminders to use existing or upcoming AI features."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches new MacOS app for agentic coding",
+            "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2e64674d9fdf042faa9933bff0ed7659d2c496bd"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches new MacOS app for agentic coding",
+            "bullets": [
+              "AI is already having a seismic impact on how software is written, with much of the grunt work of programming now performed by swarms of agents and subagents.",
+              "But as developers experiment with new interfaces and form factors for human-AI collaboration, it’s become hard for even the most advanced AI labs to keep up.",
+              "The current trend is for agentic software development — systems where AI agents can work independently on coding tasks — epitomized by the Claude Code and Cowork apps.",
+              "In the meantime, OpenAI has been gradually building out its Codex tool, which launched as a command line tool last April and expanded to a web interface one month later.",
+              "Now, OpenAI is taking a major step towards catching up.",
+              "On Monday, the company launched a new MacOS app for Codex, integrating many of the agentic practices that have become popular in the past year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit",
+            "link": "https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement",
+            "site_name": "The Verge",
+            "novelty_hash": "71aae46e97f4a112e7b61ca518f250a7e38fe51c"
+          },
+          "review": {
+            "headline_rewrite": "Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit",
+            "bullets": [
+              "Emails between former Windows boss Steven Sinofsky and Jeffrey Epstein, published by the Justice Department on Friday, appear to show that Sinofsky constantly sought Epstein’s advice as he negotiated his surprise exit from Microsoft in November 2012, forwarding emails to him in nearly real time as talks progressed.",
+              "Sinofsky also appears to have paid Epstein for his help at the end of the process, and turned to him for assistance finding a new job with Apple or Samsung, according to the emails.",
+              "One chain appears to show that Sinofsky forwarded a confidential email between Microsoft executives to Epstein in July 2013 that details the issues around the launch of Surface, warning that the Surface RT tablet was “about to catastrophically fail in a very public way.” Sinofsky had originally sent the email to former Microsoft CEO Steve Ballmer on November 3rd, 2012, detailing how Surface RT sales were in a “very tough spot” and that the company might be on “the verge of an unrecoverable situation.” Sinofsky left Microsoft just days after the correspondence with Ballmer.",
+              "Instead, Microsoft faced “significant problems” selling its tablet online, according to the email from Sinofsky, and had made far more units than it was able to sell.",
+              "The email to Epstein also appears to show that Sinofsky pitched a plan to broaden Microsoft’s retail footprint outside the US, based on data that suggested people wanted to play with a Surface in a store before committing to a purchase.",
+              "This plan surprised both Ballmer and Kevin Turner, Microsoft’s former chief operating officer."
+            ],
+            "impact": "Positive"
+          }
+        }
+      ]
+    }
   }
 }
