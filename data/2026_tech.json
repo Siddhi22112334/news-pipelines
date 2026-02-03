@@ -128522,6 +128522,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:00": [
+        {
+          "item": {
+            "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+            "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3cd4925ea916f0892f60a4fe54ff8bd13d477727"
+          },
+          "review": {
+            "headline_rewrite": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+            "bullets": [
+              "A growing number of people are asking OpenAI’s ChatGPT and other LLMs about their health, often discovering that the chatbots provide remarkably useful medical insights.",
+              "healthcare system ever since he was a child acting as a medical translator for his parents, and he saw the advent of LLMs as an opportunity to do something about it.",
+              "In May 2024, he launched Lotus Health AI, a free primary care provider that’s available 24/7 in 50 languages.",
+              "On Tuesday, Lotus announced it raised $35 million in a Series A round co-led by CRV and Kleiner Perkins, bringing its total funding to $41 million.",
+              "People are already consulting AI about their health, but Lotus goes a step further: it moves beyond those chats to facilitate actual medical care, including diagnosis, prescriptions, and specialist referrals.",
+              "In essence, Lotus is building an AI doctor that functions like a real medical practice, equipped with a license to operate in all 50 states, malpractice insurance, HIPAA-compliant systems, and full access to patient records."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Fitbit founders launch AI platform to help families monitor their health",
+            "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7ff321992937dbe6c6839a2ec029cb1cf6386a32"
+          },
+          "review": {
+            "headline_rewrite": "Fitbit founders launch AI platform to help families monitor their health",
+            "bullets": [
+              "Fitbit founders James Park and Eric Friedman have announced the launch of a new AI startup called Luffu that aims to help families proactively monitor their health.",
+              "Two years after their exit from Google, Park and Friedman are betting on AI to help lighten the mental burden of caregiving.",
+              "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
+              "“At Fitbit, we focused on personal health—but after Fitbit, health for me became bigger than just thinking about myself,” Park said in a press release.",
+              "Luffu is the product we wished existed—to stay on top of our family’s health, know what changed and when to step in—without hovering.”\nThe pair note that today’s consumer health market is filled with tools for individuals, but that real life health is shared across partners, kids, parents, pets, and caregivers.",
+              "With Luffu, people will be able to track the whole family’s details, including health stats, diet, medications, symptoms, lab tests, doctor visits, and more."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s tiny but mighty iPad Mini is $100 off in every storage configuration",
+            "link": "https://www.theverge.com/gadgets/872788/apple-ipad-mini-amazfit-active-2-fitness-tracker-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "32b7fec2896701a849490a412611b89740cbd555"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s tiny but mighty iPad Mini is $100 off in every storage configuration",
+            "bullets": [
+              "Thankfully, if you’ve been waiting for a discount, the base model with Wi-Fi and 128GB of storage is on sale at Amazon and Best Buy for $399 ($100 off), which is $50 shy of its best price to date and the cheapest it’s been since the holidays.",
+              "It also runs on Apple’s A17 Pro chip, which, while older, is still snappy enough to use the newer multitasking system in iPadOS 26 to keep multiple apps open while researching or taking notes.",
+              "It’s still the cheapest iPad that supports the Apple Pencil Pro, which gives you access to advanced tools not available with the USB-C Apple Pencil, from pressure sensitivity to double-tap tool switching.",
+              "You also get continuous heart rate and blood oxygen monitoring, in addition to detailed sleep tracking and support for 160 different workout types.",
+              "Unlike most trackers that rely on Google’s Find Hub network, the AirTag-sized Moto Tags support ultra wideband tracking, allowing compatible Android phones to guide you directly to lost items via on-screen directional cues.",
+              "- The Sony LinkBuds Fit are available from Amazon, Best Buy, and Sony for around $198 ($32 off), which is the best price we’ve seen in months."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Claude Code was down, forcing developers to take a long coffee break",
+            "link": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic",
+            "site_name": "The Verge",
+            "novelty_hash": "509bbf6eea8bae4545b7f738341fe3f6ad73902a"
+          },
+          "review": {
+            "headline_rewrite": "Claude Code was down, forcing developers to take a long coffee break",
+            "bullets": [
+              "Anthropic’s Claude AI models experienced a major outage today, impacting products like Claude Code.",
+              "Developers were seeing a 500 error when trying to use Claude Code, and Anthropic said that it was seeing elevated error rates on its APIs “across all Claude models.”\nClaude Code was down, forcing developers to take a long coffee break\nAnthropic is working on implementing a fix to bring Claude Code back online.",
+              "Anthropic quickly identified the root cause and implemented a fix within around 20 minutes, but developers that rely on the tool were left staring at their screens waiting for the service to come back online.",
+              "Claude Opus 4.5 also experienced some errors yesterday, and earlier this week Anthropic had to fix purchasing issues for its AI credits system.",
+              "It’s unusual to see Claude Code experience a major outage like this, especially as the service is used widely by developers, including Microsoft’s AI teams.",
+              "Update, February 3rd: Anthropic has now resolved its Claude API outage."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "MSI Prestige 14 Flip AI+ review: An ultraportable for Arc Raiders, thanks to Intel's Panther Lake",
+            "link": "https://www.engadget.com/computing/laptops/msi-prestige-14-flip-ai-review-an-ultraportable-for-arc-raiders-thanks-to-intels-panther-lake-160000606.html",
+            "site_name": "Engadget",
+            "novelty_hash": "fcffefb41fdbb46e8dad6c8ec04350f0a194f70a"
+          },
+          "review": {
+            "headline_rewrite": "MSI Prestige 14 Flip AI+ review: An ultraportable for Arc Raiders, thanks to Intel's Panther Lake",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "MSI Prestige 14 Flip AI+ is a surprisingly powerful ultraportable held back by a clunky trackpad.",
+              "It's a shame, really, because it's very well-designed and thanks to Intel’s Panther Lake CPU, it can even run games like Arc Raiders without breaking a sweat.",
+              "It also has more ports than most thin and light machines, its OLED screen is great for productivity work and at three pounds it's easy to carry around all day.",
+              "MSI’s Prestige 14 Flip AI+ is a remarkably powerful ultraportable, thanks to Intel’s Panther Lake chips.",
+              "- Excellent CPU performance\n- Solid gaming support\n- Bold OLED screen\n- Tons of ports\n- Relatively affordable\n- Awful mechanical trackpad\n- Dull-feeling keyboard\n- Display is limited to 60Hz\nHardware\nWith its grey case, subdued design and somewhat chunky bezels, the MSI Prestige 14 Flip AI+ doesn't exactly make a striking impression."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "China bans all retractable car door handles, starting next year",
+            "link": "https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e8f11c8133c1c1e0a059259f25d7be3c0e00f9b5"
+          },
+          "review": {
+            "headline_rewrite": "China bans all retractable car door handles, starting next year",
+            "bullets": [
+              "And aerodynamicists like them because they make a vehicle more slippery through the air.",
+              "When Tesla designed its Model S, it needed a car that was both desirable and as efficient as possible, so flush door handles were a no-brainer."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
