@@ -128886,6 +128886,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:32": [
+        {
+          "item": {
+            "title": "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use",
+            "link": "https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "8e36f8dbd078a158690d2568dd08dcab37a6c74b"
+          },
+          "review": {
+            "headline_rewrite": "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use",
+            "bullets": [
+              "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use\nToday, we’re announcing the general availability of AWS IAM Identity Center multi-Region support to enable AWS account access and managed application use in additional AWS Regions.",
+              "You can continue to manage IAM Identity Center configurations from the primary Region, maintaining centralized control.",
+              "Multi-Region keys provide consistent key material across Regions while maintaining independent key infrastructure in each Region.",
+              "You can choose additional Regions to replicate the IAM Identity Center in a list of the available Regions.",
+              "This bookmark app functions like a browser bookmark and contains only the URL to the AWS access portal in the additional Region.",
+              "Things to know\nHere are key considerations to know about this feature:\n- Consideration – To take advantage of this feature at launch, you must be using an organization instance of IAM Identity Center connected to an external IdP."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+            "link": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6ea302861e06b20ad4d0a38eeb029228059ecd32"
+          },
+          "review": {
+            "headline_rewrite": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+            "bullets": [
+              "The Department of Homeland Security has been quietly demanding tech companies turn over user information about critics of the Trump administration, according to reports.",
+              "In several cases over recent months, Homeland Security has relied on the use of administrative subpoenas to seek identifiable information about individuals who run anonymous Instagram accounts, which share posts about ICE immigration raids in their local neighborhoods.",
+              "While administrative subpoenas cannot be used to obtain the contents of a person’s emails, online searches, or location data, they can demand information specifically about the user, such as what time a user logs in, from where, using which devices, and revealing the email addresses and other identifiable information about who opened an online account.",
+              "Administrative subpoenas are not new; the use of these self-signed demands by Trump officials to seek identifiable information about people who are critical of the president’s policies has raised alarm.",
+              "Bloomberg reported last week that Homeland Security sought the identity of an anonymous Instagram account called @montocowatch, which says its goal is to share resources to help protect immigrant rights and due process across Montgomery County in Pennsylvania.",
+              "Homeland Security lawyers sent an administrative subpoena to Meta demanding it turn over personal information of the person who runs the account, citing a non-Homeland Security employee who claimed to receive a tip that ICE agents were being stalked."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
+            "link": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
+            "site_name": "The Verge",
+            "novelty_hash": "be21fb4ef7be05c8149d0f24b92386fa99826996"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
+            "bullets": [
+              "Apple is building OpenAI and Anthropic’s AI-powered coding agents directly into Xcode.",
+              "New integrations in Xcode 26.3 will give developers the ability to call upon Anthropic’s Claude Agent and OpenAI’s Codex to write and edit code, update project settings, search documentation, and more.",
+              "Apple’s Xcode adds OpenAI and Anthropic’s coding agents\nDevelopers can use Anthropic’s Claude Agent and OpenAI’s Codex to take action in Xcode on their behalf.",
+              "Both Claude and ChatGPT were previously available inside Xcode, but this latest update will allow AI agents to take action inside the app, rather than just provide coding assistance.",
+              "Apple is also making Xcode available through the Model Context Protocol, an open-source standard that will enable developers to plug other AI tools into the app.",
+              "The news of Apple’s Xcode update comes just one day after OpenAI launched its AI-powered Codex app on Mac, which lets developers write code alongside a team of AI agents."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "YC startups can now recieve investment in stablecoin",
+            "link": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e19a68377316f5477a46cf0e0be6c5004b6e26be"
+          },
+          "review": {
+            "headline_rewrite": "YC startups can now recieve investment in stablecoin",
+            "bullets": [
+              "Now that deal is hitting the blockchain (Base, Solana, and Ethereum, to be exact), starting with the upcoming spring batch.",
+              "Dala said that stablecoin transfers are often more effective, specifically for founders working in emerging markets.",
+              "Last fall, YC partnered with Base and Coinbase Ventures to encourage founders to build more blockchain-related companies.",
+              "Interest in blockchain tech is on the rise again in Silicon Valley as the US has taken steps toward more formal, crypto-friendly regulation of the industry."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft says it’s building an app store for AI content licensing",
+            "link": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
+            "site_name": "The Verge",
+            "novelty_hash": "25ae0184714e5c03df55a774c4d8f3d0ae4209d7"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft says it’s building an app store for AI content licensing",
+            "bullets": [
+              "Microsoft says it is working on the Publisher Content Marketplace (PCM), an AI licensing hub that shows usage terms set by publishers.",
+              "That way, AI companies can easily shop the terms and set up deals to use online content for “grounding” their AI models, while the content owners get usage-based reporting to help set prices.",
+              "Microsoft says it’s building an app store for AI content licensing\nThe Publisher Content Marketplace could make it easier for AI companies to pay for ‘premium’ content.",
+              "The AI boom has been largely fueled by content ingested without payment, and many of the previously mentioned publishers have filed lawsuits and/or arranged content licensing deals as traffic from traditional sources drops.",
+              "Some, like The New York Times and The Intercept, have filed copyright lawsuits against both Microsoft and OpenAI.",
+              "There’s also a publisher-backed open standard called Really Simple Licensing (RSL) that lays out a framework aimed at keeping the digital media business sustainable in the age of AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google court filings suggest ChromeOS has an expiration date",
+            "link": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3659addf95e346d070630e56e90d92ea8f9a0bd8"
+          },
+          "review": {
+            "headline_rewrite": "Google court filings suggest ChromeOS has an expiration date",
+            "bullets": [
+              "The documents were filed as part of Google’s long-running search antitrust case, which began in 2020 and reached a verdict in 2024.",
+              "As Google moves toward releasing Aluminium, it sought to keep the upcoming machines above the fray and retain the Chrome browser (which it did).",
+              "To get there, Google had to provide a little more detail on its plans.",
+              "Google’s Android chief, Sameer Samat, previously testified that Google was aiming to launch its first Aluminium machines in 2026.",
+              "A full retail release may not happen until 2028."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
