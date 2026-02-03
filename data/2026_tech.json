@@ -129124,6 +129124,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:05": [
+        {
+          "item": {
+            "title": "Intel will start making GPUs, a market dominated by Nvidia",
+            "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "95647a601d17390bd44615b1fba96120235b30a7"
+          },
+          "review": {
+            "headline_rewrite": "Intel will start making GPUs, a market dominated by Nvidia",
+            "bullets": [
+              "As Intel continues to try to turn itself around, its CEO promised that the company will start producing a new type of chip, one that has been made very popular by rival Nvidia.",
+              "At the Cisco AI Summit on Tuesday, Intel CEO Lip-Bu Tan announced that the company will start producing graphics processing units (GPUs).",
+              "These are more specialized processors, compared to the CPUs Intel traditionally produces, and are used for gaming and tasks like training artificial intelligence models.",
+              "This initiative seems to be in relatively early stages as Tan said the company plans to develop its strategy around customer demands and needs.",
+              "While Nvidia didn’t invent the GPU, that specific kind of chip has played a large role in its success.",
+              "Its GPUs for AI systems are so advanced and popular, the chipmaker currently holds a commanding market lead."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says",
+            "link": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
+            "site_name": "The Verge",
+            "novelty_hash": "a960dc7fbf97804a27565c18efa9c6c0e45cd758"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says",
+            "bullets": [
+              "On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion.",
+              "The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space.",
+              "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says\nSpaceX is profitable, while xAI is burning about $1 billion a month.",
+              "Is this another case of Musk bailing out himself?",
+              "AI relies on “large terrestrial data centers” that run on “immense amounts of power and cooling,” he said, which comes at great expense to the environment and community opposition.",
+              "“In the long term, space-based AI is obviously the only way to scale,” Musk said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "YC startups can now receive investment in stablecoin",
+            "link": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "586c293eefdcc5497cea31164df9917d85a08eca"
+          },
+          "review": {
+            "headline_rewrite": "YC startups can now receive investment in stablecoin",
+            "bullets": [
+              "Now that deal is hitting the blockchain (Base, Solana, and Ethereum, to be exact), starting with the upcoming spring batch.",
+              "Dalal said that stablecoin transfers are often more effective, specifically for founders working in emerging markets.",
+              "Last fall, YC partnered with Base and Coinbase Ventures to encourage founders to build more blockchain-related companies.",
+              "Interest in blockchain tech is on the rise again in Silicon Valley as the U.S."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft says it’s building an app store for AI content licensing",
+            "link": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
+            "site_name": "The Verge",
+            "novelty_hash": "80ef5a95cb1aaecec6e8df8508b41a36a2c8051c"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft says it’s building an app store for AI content licensing",
+            "bullets": [
+              "Microsoft says it is working on the Publisher Content Marketplace (PCM), an AI licensing hub that shows usage terms set by publishers.",
+              "That way, AI companies can easily shop the terms and set up deals to use online content for “grounding” their AI models, while the content owners get usage-based reporting to help set prices.",
+              "Microsoft says it’s building an app store for AI content licensing\nThe Publisher Content Marketplace could make it easier for AI companies to pay for ‘premium’ content.",
+              "The AI boom has been largely fueled by content ingested without payment, and many of the previously mentioned publishers have filed lawsuits and/or arranged content licensing deals as traffic from traditional sources drops.",
+              "Some, like The New York Times and The Intercept, have filed copyright lawsuits against both Microsoft and OpenAI.",
+              "There’s also a publisher-backed open standard called Really Simple Licensing (RSL) that lays out a framework aimed at keeping the digital media business sustainable in the age of AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
+            "link": "https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5bbbb49ea995b05627a4094a4d99d2549146d15b"
+          },
+          "review": {
+            "headline_rewrite": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
+            "bullets": [
+              "French law enforcement authorities today raided X’s Paris office and summoned Elon Musk for questioning as part of an investigation into illegal content.",
+              "The Paris public prosecutor’s office said the yearlong probe was recently expanded because the Grok chatbot was disseminating Holocaust-denial claims and sexually explicit deepfakes.",
+              "Europol, which is assisting French authorities, said today the “investigation concerns a range of suspected criminal offenses linked to the functioning and use of the platform, including the dissemination of illegal content and other forms of online criminal activity.” Europol’s cybercrime center provided “an analyst on the ground in Paris to assist national authorities.” The French Gendarmerie’s cybercrime unit is also aiding the investigation.",
+              "French authorities want to question Musk and former X CEO Linda Yaccarino, who quit last year amid a controversy over Grok’s praise of Hitler.",
+              "The office of Paris public prosecutor Laure Beccuau said today that the potential crimes being investigated include complicity in possession and distribution of pornographic images of minors; infringement of personal image rights via sexual deepfakes; denial of crimes against humanity; fraudulent extraction of data from an automated data processing system; falsification of the operation of an automated data processing system; and operation of an illegal online platform by an organized group."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple just made Xcode better for vibe coding",
+            "link": "https://www.engadget.com/ai/apple-just-made-xcode-better-for-vibe-coding-195653049.html",
+            "site_name": "Engadget",
+            "novelty_hash": "60666ca18d0089a3a0af309178c6825e6b6c9cf0"
+          },
+          "review": {
+            "headline_rewrite": "Apple just made Xcode better for vibe coding",
+            "bullets": [
+              "The new release expands on the AI features the company introduced with Xcode 26 at WWDC 2025 to give systems like Claude and ChatGPT more robust access to its in-house IDE.",
+              "With the update, Apple says Claude and OpenAI's Codex \"can search documentation, explore file structures, update project settings, and verify their work visually by capturing Xcode Previews and iterating through builds and fixes.\" This is in contrast to earlier releases of Xcode 26 where those same agents were limited in what they could see of a developer's Xcode environment, restricting their utility.",
+              "Since its introduction, MCP has become an industry standard — with OpenAI, for instance, adopting the protocol last year to facilitate its own set of connections.",
+              "Apple says it worked directly with Anthropic and OpenAI to optimize token usage through Xcode, but the company’s adoption of MCP means developers will be able to add any coding agent that supports the protocol to their terminal in the future.",
+              "Xcode 26.3 is available to download for all members of the Apple Developer Program starting today, with the Mac Store availability “coming soon.”\nIf you buy something through a link in this article, we may earn commission."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
