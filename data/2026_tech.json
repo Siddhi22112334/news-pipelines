@@ -128763,5 +128763,130 @@
         }
       ]
     }
+  },
+  "2026-02-04": {
+    "runs": {
+      "00:59": [
+        {
+          "item": {
+            "title": "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use",
+            "link": "https://aws.amazon.com/blogs/aws/aws-iam-identity-center-now-supports-multi-region-replication-for-aws-account-access-and-application-use/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "8e36f8dbd078a158690d2568dd08dcab37a6c74b"
+          },
+          "review": {
+            "headline_rewrite": "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use",
+            "bullets": [
+              "AWS IAM Identity Center now supports multi-Region replication for AWS account access and application use\nToday, we’re announcing the general availability of AWS IAM Identity Center multi-Region support to enable AWS account access and managed application use in additional AWS Regions.",
+              "You can continue to manage IAM Identity Center configurations from the primary Region, maintaining centralized control.",
+              "Multi-Region keys provide consistent key material across Regions while maintaining independent key infrastructure in each Region.",
+              "You can choose additional Regions to replicate the IAM Identity Center in a list of the available Regions.",
+              "This bookmark app functions like a browser bookmark and contains only the URL to the AWS access portal in the additional Region.",
+              "Things to know\nHere are key considerations to know about this feature:\n- Consideration – To take advantage of this feature at launch, you must be using an organization instance of IAM Identity Center connected to an external IdP."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+            "link": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a47abb15aca50439e354f2c3816c568e1fd0df18"
+          },
+          "review": {
+            "headline_rewrite": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+            "bullets": [
+              "On Tuesday, the company announced the release of Xcode 26.3, which will allow developers to use agentic tools, including Anthropic’s Claude Agent and OpenAI’s Codex, directly in Apple’s official app development suite.",
+              "The Xcode 26.3 Release Candidate is available to all Apple Developers today from the developer website and will hit the App Store a bit later.",
+              "The integration of agentic coding tools allows AI models to tap into more of Xcode’s features to perform their tasks and perform more complex automation.",
+              "The models will also have access to Apple’s current developer documentation to ensure they use the latest APIs and follow the best practices as they build.",
+              "At launch, the agents can help developers explore their project, understand its structure and metadata, then build the project and run tests to see if there are any errors and fix them, if so.",
+              "To prepare for this launch, Apple said it worked closely with both Anthropic and OpenAI to design the new experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+            "link": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6ea302861e06b20ad4d0a38eeb029228059ecd32"
+          },
+          "review": {
+            "headline_rewrite": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+            "bullets": [
+              "The Department of Homeland Security has been quietly demanding tech companies turn over user information about critics of the Trump administration, according to reports.",
+              "In several cases over recent months, Homeland Security has relied on the use of administrative subpoenas to seek identifiable information about individuals who run anonymous Instagram accounts, which share posts about ICE immigration raids in their local neighborhoods.",
+              "While administrative subpoenas cannot be used to obtain the contents of a person’s emails, online searches, or location data, they can demand information specifically about the user, such as what time a user logs in, from where, using which devices, and revealing the email addresses and other identifiable information about who opened an online account.",
+              "Administrative subpoenas are not new; the use of these self-signed demands by Trump officials to seek identifiable information about people who are critical of the president’s policies has raised alarm.",
+              "Bloomberg reported last week that Homeland Security sought the identity of an anonymous Instagram account called @montocowatch, which says its goal is to share resources to help protect immigrant rights and due process across Montgomery County in Pennsylvania.",
+              "Homeland Security lawyers sent an administrative subpoena to Meta demanding it turn over personal information of the person who runs the account, citing a non-Homeland Security employee who claimed to receive a tip that ICE agents were being stalked."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best deals on MacBooks right now",
+            "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+            "site_name": "The Verge",
+            "novelty_hash": "f05d55ec88b2eedc5e22fc2731d97749bae684e7"
+          },
+          "review": {
+            "headline_rewrite": "The best deals on MacBooks right now",
+            "bullets": [
+              "Alternatively, purchasing refurbished options directly from Apple is another way to save money without waiting for the changing deal winds to blow your way.",
+              "It’s also the only option to find certain configurations of older models as Apple continues to move forward with newer releases.",
+              "But if you want to buy new and you’re looking to save whatever you can, here are the best MacBook Air, MacBook Pro, and Mac Mini deals available.",
+              "Featured Products\nThe best MacBook Air deals\nM4 MacBook Air\nIn March 2025, Apple released an updated MacBook Air, which comes in both a 13- and 15-inch configuration with an M4 processor.",
+              "Interestingly, the latest Air starts at a lower price than the prior model, yet it offers slightly faster performance and twice as much base RAM at 16GB.",
+              "It can also connect to two external monitors with the lid open, comes in a fresh sky blue color, and features the 12-megapixel Center Stage webcam from the latest MacBook Pro."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
+            "link": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
+            "site_name": "The Verge",
+            "novelty_hash": "be21fb4ef7be05c8149d0f24b92386fa99826996"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
+            "bullets": [
+              "Apple is building OpenAI and Anthropic’s AI-powered coding agents directly into Xcode.",
+              "New integrations in Xcode 26.3 will give developers the ability to call upon Anthropic’s Claude Agent and OpenAI’s Codex to write and edit code, update project settings, search documentation, and more.",
+              "Apple’s Xcode adds OpenAI and Anthropic’s coding agents\nDevelopers can use Anthropic’s Claude Agent and OpenAI’s Codex to take action in Xcode on their behalf.",
+              "Both Claude and ChatGPT were previously available inside Xcode, but this latest update will allow AI agents to take action inside the app, rather than just provide coding assistance.",
+              "Apple is also making Xcode available through the Model Context Protocol, an open-source standard that will enable developers to plug other AI tools into the app.",
+              "The news of Apple’s Xcode update comes just one day after OpenAI launched its AI-powered Codex app on Mac, which lets developers write code alongside a team of AI agents."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google court filings suggest ChromeOS has an expiration date",
+            "link": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "3659addf95e346d070630e56e90d92ea8f9a0bd8"
+          },
+          "review": {
+            "headline_rewrite": "Google court filings suggest ChromeOS has an expiration date",
+            "bullets": [
+              "The documents were filed as part of Google’s long-running search antitrust case, which began in 2020 and reached a verdict in 2024.",
+              "As Google moves toward releasing Aluminium, it sought to keep the upcoming machines above the fray and retain the Chrome browser (which it did).",
+              "To get there, Google had to provide a little more detail on its plans.",
+              "Google’s Android chief, Sameer Samat, previously testified that Google was aiming to launch its first Aluminium machines in 2026.",
+              "A full retail release may not happen until 2028."
+            ],
+            "impact": "Positive"
+          }
+        }
+      ]
+    }
   }
 }
