@@ -132082,6 +132082,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:58": [
+        {
+          "item": {
+            "title": "Q4 earnings call: Remarks from our CEO",
+            "link": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
+            "site_name": "Google",
+            "novelty_hash": "fd96acaabb7f450a787a671ee7c3a1afe32d80e4"
+          },
+          "review": {
+            "headline_rewrite": "Q4 earnings call: Remarks from our CEO",
+            "bullets": [
+              "On today’s 2025 Q4 earnings call, Google and Alphabet CEO Sundar Pichai highlighted how the launch of Gemini 3 was a major milestone and is driving real momentum and business results across the company.",
+              "The launch of Gemini 3 was a major milestone and we have great momentum.",
+              "- Cloud significantly accelerated with revenues growing 48%, now on an annual run rate of over $70 billion.",
+              "Backlog grew by 55% quarter over quarter to $240 billion, representing a wide breadth of customers, driven by demand for AI products.",
+              "- We have over 325 million paid subscriptions across consumer services, with strong adoption for Google One and YouTube Premium.",
+              "In addition, we have sold more than eight million paid seats of Gemini Enterprise, which we launched just four months ago."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available",
+            "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "c3bd214872562e72be38e8c61675bb6b57eb109a"
+          },
+          "review": {
+            "headline_rewrite": "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available",
+            "bullets": [
+              "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available\nLast year, we launched the Amazon Elastic Compute Cloud (Amazon EC2) C8i instances, M8i instances, and R8i instances powered by custom Intel Xeon 6 processors available only on AWS with sustained all-core 3.9 GHz turbo frequency.",
+              "They deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud.",
+              "- R8id instances are designed for memory-intensive workloads such as large-scale SQL and NoSQL databases, in-memory databases, large-scale data analytics, and AI inference.",
+              "The instances are available in 11 sizes per family, as well as two bare metal configurations each:\n*Memory values are for C8id/M8id/R8id respectively.",
+              "These instances also use sixth-generation AWS Nitro cards offloading CPU virtualization, storage, and networking functions to dedicated hardware and software, enhancing performance and security for your workloads.",
+              "As I noted in my previous blog post, here are a couple of things to remind you about the local NVMe storage on these instances:\n- You don’t have to specify a block device mapping in your AMI or during the instance launch; the local storage will show up as one or more devices (\n/dev/nvme[0-26]n1\non Linux) after the guest operating system has booted."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini app has surpassed 750M monthly active users",
+            "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "09ed7b6c5bf59c1c288d08421b8df19ef51e464c"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini app has surpassed 750M monthly active users",
+            "bullets": [
+              "Google’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings.",
+              "This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.",
+              "In comparison, Meta AI has reported nearly 500 million monthly users.",
+              "However, while Gemini is gaining traction, it still trails behind its biggest rival, ChatGPT, which is estimated to have around 810 million MAUs in late 2025.",
+              "The recently revealed number comes on the heels of the launch of Gemini 3, which showcases the company’s most advanced model yet, providing responses that the company claims exhibit an unprecedented level of depth and nuance.",
+              "CEO Sundar Pichai highlighted that the introduction of Gemini 3 in AI mode was a “positive driver” for the company’s growth and emphasized that continued investment and iteration will maintain this momentum."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google&#8217;s annual revenue tops $400 billion for the first time",
+            "link": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
+            "site_name": "The Verge",
+            "novelty_hash": "31b38d34e1c360f45e0a45e247412426d24e4327"
+          },
+          "review": {
+            "headline_rewrite": "Google&#8217;s annual revenue tops $400 billion for the first time",
+            "bullets": [
+              "The company announced the milestone as part of its Q4 2025 earnings report released on Wednesday, which highlights the 15 percent year-over-year increase as its cloud business and YouTube continue to grow.",
+              "As noted in the earnings report, Google’s Cloud business reached a $70 billion run rate in 2025, while YouTube’s annual revenue soared beyond $60 billion across ads and subscriptions.",
+              "Alphabet CEO Sundar Pichai told investors that YouTube remains the “number one streamer,” citing data from Nielsen.",
+              "The company also now has more than 325 million paid subscribers, led by Google One and YouTube Premium.",
+              "In addition to surging revenue and subscribers, Google reported that its Gemini AI app surpassed 750 million users following the launch of its Gemini 3 model in November, marking a 100 million increase.",
+              "Gemini 3 continues to dominate the AI industry, with a custom version of the AI model set to power a more personalized version of Apple’s Siri."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+            "link": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bd68ef8811a707c0f4762ae3741d02fa4c476906"
+          },
+          "review": {
+            "headline_rewrite": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+            "bullets": [
+              "Resolve AI, a startup automating the work of system reliability engineering (SRE), aka troubleshooting system failures, has announced a $125 million Series A at a $1 billion valuation.",
+              "The announcement confirms TechCrunch’s December report that the startup was raising at a billion-dollar valuation led by Lightspeed.",
+              "As we previously reported, this kind of structure allows certain investors, often the lead, to purchase a significant portion of equity at a lower price.",
+              "Another startup applying AI to identify and resolve system outages is the Sequoia-backed Traversal.",
+              "The emerging category is known as AI SRE."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Senators grill Waymo and Tesla over robotaxi safety, liability, and China",
+            "link": "https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation",
+            "site_name": "The Verge",
+            "novelty_hash": "7a5c97664d272269594bc3f004471c51e0ccfe1b"
+          },
+          "review": {
+            "headline_rewrite": "Senators grill Waymo and Tesla over robotaxi safety, liability, and China",
+            "bullets": [
+              "Waymo faced questions about its decision to use a Chinese-made vehicle for its next-generation robotaxi, as well as several incidents in which its vehicles failed to stop behind a school bus during student pickups.",
+              "“For America to lead in AV technology, we must modernize regulations that inhibit the industry’s ability to innovate,” Lars Moravy, vice president of vehicle engineering at Tesla, said during his opening statement.",
+              "“Federal regulations for vehicles have not kept up with the pace of the rapid evolution of technology.",
+              "Many standards were implemented decades ago and do not adequately address modern advancements, such as electric drive trains, automated driving systems, and over-the-air software updates.",
+              "We need American leadership for AV rules and regulations.”\nBut whether Congress can finally pass legislation to regulate autonomous vehicles remains uncertain.",
+              "Ted Cruz (R-TX), who chairs the Senate Commerce, Science and Transportation Committee and oversaw today’s hearing, said he thinks it can be done as part of the Surface Transportation Reauthorization Act, which covers federal funding for highways, transit, and safety programs."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
