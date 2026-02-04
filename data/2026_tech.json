@@ -131125,6 +131125,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:41": [
+        {
+          "item": {
+            "title": "Updates in two of our core priorities",
+            "link": "https://blogs.microsoft.com/blog/2026/02/04/updates-in-two-of-our-core-priorities/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "097e5887a5d273d079c32fff5bf8ea23a53283e2"
+          },
+          "review": {
+            "headline_rewrite": "Updates in two of our core priorities",
+            "bullets": [
+              "Satya Nadella, Chairman and CEO, posted the below message to employees on Viva Engage this morning.",
+              "I am excited to share a couple updates in two of our core priorities: security and quality.",
+              "Hayete Gallot is rejoining Microsoft as Executive Vice President, Security, reporting to me.",
+              "Hayete joins us from Google where she was President, Customer Experience for Google Cloud.",
+              "And she was instrumental in the design and implementation of our Security Solution Area.",
+              "She brings an ethos that combines product building with value realization for customers, which is critical right now."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The latest AI news we announced in January",
+            "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+            "site_name": "Google",
+            "novelty_hash": "552cc66cc1153376ed7e0958215397433ac8713b"
+          },
+          "review": {
+            "headline_rewrite": "The latest AI news we announced in January",
+            "bullets": [
+              "The latest AI news we announced in January\nFor more than 20 years, we’ve invested in machine learning and AI research, tools and infrastructure to build products that make everyday life better for more people.",
+              "Teams across Google are working on ways to unlock AI’s benefits in fields as wide-ranging as healthcare, crisis response and education.",
+              "To keep you posted on our progress, we're doing a regular roundup of Google's most recent AI news.",
+              "Here’s a look back at some of our AI announcements from January.",
+              "In January, we moved AI toward a new era of Personal Intelligence: making products like Search, Chrome and the Gemini app more proactive than ever.",
+              "Whether it’s Chrome’s “auto browse” handling your complex chores or Gmail surfacing what matters most, these new personalization features are focused on anticipating your needs, understanding your context and helping you get things done."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GitHub adds Claude and Codex AI coding agents",
+            "link": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "d35159bb6c0a561c4aa81bf88f655562853ae750"
+          },
+          "review": {
+            "headline_rewrite": "GitHub adds Claude and Codex AI coding agents",
+            "bullets": [
+              "GitHub is making Claude by Anthropic and OpenAI’s Codex AI coding agents directly available inside GitHub today.",
+              "GitHub adds Claude and Codex AI coding agents\nMicrosoft-owned GitHub continues to embrace OpenAI and Anthropic AI advances.",
+              "The move is part of Agent HQ, GitHub’s vision to make AI agents native to how developers use GitHub every day.",
+              "Developers will also be able to judge how Copilot, Claude, and Codex perform, and weigh up how each AI coding agent has generated a solution.",
+              "“Context switching equals friction in software development,” says Mario Rodriguez, chief product officer at GitHub.",
+              "“With Codex, Claude, and Copilot in Agent HQ, you can move from idea to implementation using different agents for different steps without switching tools or losing context.”\nGitHub has been quick to embrace rival AI models and agents to improve its own Copilot offering."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+            "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ac31dc2d3495568af10f26dab861db85e5ee5bd3"
+          },
+          "review": {
+            "headline_rewrite": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+            "bullets": [
+              "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.",
+              "Introduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.",
+              "On Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.",
+              "Match CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.”\nIn addition to Chemistry’s Q&A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.",
+              "Most importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match.",
+              "The company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google Cloud’s customer chief returns to Microsoft as head of security",
+            "link": "https://www.theverge.com/news/873930/google-cloud-hayete-gallot-microsoft-security",
+            "site_name": "The Verge",
+            "novelty_hash": "de7fd5067c1585faba2c69bcb29a4965f4b8d6fd"
+          },
+          "review": {
+            "headline_rewrite": "Google Cloud’s customer chief returns to Microsoft as head of security",
+            "bullets": [
+              "Microsoft has a new head of security.",
+              "Hayete Gallot, who left Microsoft in October 2024 to become the president of Google Cloud’s customer experience, is returning to the software giant as the executive vice president of security, reporting directly to CEO Satya Nadella.",
+              "Google Cloud’s customer chief returns to Microsoft as head of security\nHayete Gallot previously spent nearly 16 years at Microsoft in senior leadership roles across engineering and sales.",
+              "The move means Charlie Bell, formerly Microsoft’s security chief, is taking on a new role at the company.",
+              "“Charlie and I have been planning this transition for some time, given his desire to move from being an org leader to being an IC engineer.”\nBell has spent nearly five years leading Microsoft’s security, compliance, and identity teams.",
+              "The company has struggled with security in recent years, after a series of high-profile incidents rocked Microsoft."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+            "link": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ecbf59b094a13974a4e4646fb9ab128e89597fed"
+          },
+          "review": {
+            "headline_rewrite": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+            "bullets": [
+              "The six-year-old company, which builds battery packs for homeowners in California, Georgia, and Washington, said Wednesday it has completed two large funding rounds.",
+              "The startup shared it raised a previously unannounced $130 million Series C and a $102 million Series D.",
+              "The Series C was led by Activate Capital, while the Series D was led by B Capital and Prelude Ventures.",
+              "In total, Lunar has raised more than $500 million from investors.",
+              "Stationary storage has become a bright spot for battery manufacturers that have been subject to policy whiplash after the Trump administration and GOP-controlled Congress gutted large parts of the Inflation Reduction Act, which had incentivized companies to build batteries in the U.S.",
+              "As the grid strains under the weight of an increasingly electrified economy — along with the boom in data center demand — grid-connected batteries have become one of the most versatile ways to boost its resiliency."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
