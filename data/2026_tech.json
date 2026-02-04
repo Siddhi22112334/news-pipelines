@@ -131721,6 +131721,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:28": [
+        {
+          "item": {
+            "title": "Amazon to begin testing AI tools for film and TV production next month",
+            "link": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cadfdae6f73c49a85566f9005e583d55ee0375cc"
+          },
+          "review": {
+            "headline_rewrite": "Amazon to begin testing AI tools for film and TV production next month",
+            "bullets": [
+              "Last summer, Amazon MGM Studios launched a dedicated AI Studio to develop proprietary AI tools to streamline TV and film production, with a focus on areas like improving character consistency across shots and supporting pre- and post-production.",
+              "Amazon will begin a closed beta program in March, inviting industry partners to try out its AI tools.",
+              "Amazon said it anticipates sharing initial outcomes from the program by May.",
+              "The company chose not to provide further details on the developments when approached by TechCrunch for a comment.",
+              "The AI Studio is collaborating with notable producers like Robert Stromberg, known for “Maleficent,” Kunal Nayyar from “The Big Bang Theory,” and former animator Colin Brady from Pixar to learn the best way to implement these tools.",
+              "Amazon is also tapping Amazon Web Services for support and intends to work with several LLM providers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+            "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c8fae75e961acb72e60d0c384b2afd937166cc27"
+          },
+          "review": {
+            "headline_rewrite": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+            "bullets": [
+              "Andreessen Horowitz just raised a whopping new $15 billion in funding.",
+              "And a $1.7 billion chunk of that is going to its infrastructure team, the one responsible for some of its biggest, most prominent AI investments including Black Forrest Labs, Cursor, OpenAI, ElevenLabs, Ideogram, Fal and dozens of others.",
+              "Watch as Venture and Startups editor Julie Bort talks with Li on Equity about where a16z sees this AI super cycle going next, including the talent crunch hitting AI-native startups, why search infrastructure matters more than people think, and what kinds of companies are actually getting funded right now."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Should AI chatbots have ads? Anthropic says no.",
+            "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ece2c22a31a5d640782d788c9508c854f7277089"
+          },
+          "review": {
+            "headline_rewrite": "Should AI chatbots have ads? Anthropic says no.",
+            "bullets": [
+              "The company argued that including ads in AI conversations would be “incompatible” with what it wants Claude to be: “a genuinely helpful assistant for work and for deep thinking.”\nThe stance contrasts with OpenAI’s January announcement that it would begin testing banner ads for free users and ChatGPT Go subscribers in the US.",
+              "OpenAI said those ads would appear at the bottom of responses and would not influence the chatbot’s actual answers.",
+              "Paid subscribers on Plus, Pro, Business, and Enterprise tiers will not see ads on ChatGPT.",
+              "“So we’ve made a choice: Claude will remain ad-free.",
+              "Our users won’t see ‘sponsored’ links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for.”\nCompetition between OpenAI and Anthropic has been fierce of late, due to the rise of AI coding agents.",
+              "Claude Code, Anthropic’s coding tool, and OpenAI’s Codex have similar capabilities, but Claude Code has been widely popular among developers and is closing in on OpenAI’s turf."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads",
+            "link": "https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic",
+            "site_name": "The Verge",
+            "novelty_hash": "77b550be19d91b554e91b4b84cec0257be2c090c"
+          },
+          "review": {
+            "headline_rewrite": "Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads",
+            "bullets": [
+              "Sam Altman responded to Anthropic’s new Super Bowl ad in an X post on Wednesday, saying the OpenAI competitor’s campaign is “clearly dishonest,” and called it “on brand” for Anthropic to “doublespeak.” “We would obviously never run ads in the way Anthropic depicts them,” he wrote.",
+              "Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads\nThe OpenAI boss said Anthropic’s portrayal of how ads impact ChatGPT is ‘clearly dishonest.’\nAnthropic, founded in 2021 by ex-OpenAI research executives who reportedly left over differences in opinions on AI safety and mission, doesn’t mention OpenAI or ChatGPT by name in its Super Bowl Sunday ad campaign.",
+              "But in contrast to OpenAI’s January news that it would soon start testing ads, Anthropic says, “Our users won’t see ‘sponsored’ links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for.”\nOpenAI says its ad test will only appear for logged-in users on free or ChatGPT Go accounts, while maintaining that “Ads do not influence the answers ChatGPT gives you.",
+              "Ads are always separate and clearly labeled.” According to Altman, OpenAI’s Super Bowl ad is “about builders, and how anyone can now build anything.”\nFirst, the good part of the Anthropic ads: they are funny, and I laughed.",
+              "More importantly, we believe everyone deserves to use AI and are committed to free access, because we believe access creates agency.",
+              "(If you want to pay for ChatGPT Plus or Pro, we don’t show you ads.)\nAnthropic serves an expensive product to rich people."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "US House takes first step toward creating \"commercial\" deep space program",
+            "link": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1827d1e495700f023a58861f7e6e8f7362eb9919"
+          },
+          "review": {
+            "headline_rewrite": "US House takes first step toward creating \"commercial\" deep space program",
+            "bullets": [
+              "They are distinct from appropriations bills, which provide actual funding for specific programs, but nonetheless play an important role in establishing space policy.",
+              "01, offered by the chair of the Committee on Science, Space, and Technology, Rep.",
+              "NASA can consider Artemis alternatives\nThe amendment concerns acquisition powers bestowed upon NASA by Congress, stating in part: “The Administrator may, subject to appropriations, procure from United States commercial providers operational services to carry cargo and crew safely, reliably, and affordably to and from deep space destinations, including the Moon and Mars.”\nThat language is fairly general in nature, but the intent seems clear.",
+              "NASA’s initial missions to the Moon, through Artemis V, have a clearly defined architecture: They must use the Space Launch System rocket, Orion spacecraft, and a lander built by either SpaceX or Blue Origin to complete lunar landings.",
+              "That is to say, if SpaceX wanted to bid an end-to-end Starship lunar mission, it could; or if Blue Origin wanted to launch Orion on New Glenn, that is also an option.",
+              "The language is generalized enough, not specifying “launch” but rather “transportation,” that in-space companies such as Impulse Space could also get creative."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nintendo’s new Virtual Boy is more fun to look at than to play",
+            "link": "https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions",
+            "site_name": "The Verge",
+            "novelty_hash": "fcc109f7f2f1ca0844f23177df8460f24f985c18"
+          },
+          "review": {
+            "headline_rewrite": "Nintendo’s new Virtual Boy is more fun to look at than to play",
+            "bullets": [
+              "Though the Virtual Boy was both a commercial and critical failure, the console’s infamy is part of what has made it such a fascinating piece of Nintendo’s history.",
+              "Everything about the new Virtual Boy’s release speaks to Nintendo being confident enough to revisit one of its biggest failures and turn it into a flex that is quite literally designed to prop up the Switch family of consoles.",
+              "The major selling point to this thing is that it’s faithfully re-creating aspects of the original console that worked while smoothing over some of the roughness that led to it flopping in the ’90s.",
+              "There’s also something to be said for the fact that playing these games in any form has become much more difficult over the years.",
+              "The plastic model definitely looks cool and will probably scratch a certain itch for those who wish they’d been able to own a Virtual Boy back in the ’90s."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
