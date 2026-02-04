@@ -131370,6 +131370,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "01:29": [
+        {
+          "item": {
+            "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+            "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "632af49906159b07ad230e29903822d4389542a8"
+          },
+          "review": {
+            "headline_rewrite": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+            "bullets": [
+              "Tinder is turning to a new AI-powered feature, Chemistry, to help it reduce so-called “swipe fatigue,” a growing problem among online dating users who are feeling burned out and are in search of better outcomes.",
+              "Introduced last quarter, the Match-owned dating app said that Chemistry leverages AI to get to know users through questions and, with permission, accesses their Camera Roll on their phone to learn more about their interests and personality.",
+              "On Match’s Q4 2026 earnings call, one analyst from Morgan Stanley asked for an update on the product’s success so far.",
+              "Match CEO Spencer Rascoff noted that Chemistry was still only being tested in Australia for the time being, but said that the feature offered users an “AI way to interact with Tinder.” He explained that users could choose to answer questions to then “get just a single drop or two, rather than swiping through many, many profiles.”\nIn addition to Chemistry’s Q&A and Camera Roll features, the company plans to use the AI feature in other ways going forward, the CEO also hinted.",
+              "Most importantly, Rascoff said the feature is designed to combat swipe fatigue — a complaint from users who say they have to swipe through too many profiles to find a potential match.",
+              "The company’s turn toward AI comes as Tinder and other dating apps have been experiencing paying subscriber declines, user burnout, and declines in new sign-ups."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best iPad deals you can get right now",
+            "link": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+            "site_name": "The Verge",
+            "novelty_hash": "59d35f5f09afc7671f982a54c2601ab5ae292aa2"
+          },
+          "review": {
+            "headline_rewrite": "The best iPad deals you can get right now",
+            "bullets": [
+              "While the best iPad deals usually land during major sale events like Black Friday, many great iPad deals are available outside of those times.",
+              "The day-to-day discounts come and go like changing winds, so there’s often some amount to be saved, particularly on Apple’s most affordable iPad, the iPad Mini, and the latest iPad Air.",
+              "Hell, you can even often find discounts on the latest M5 iPad Pro, which is already on sale at multiple retailers.",
+              "The best iPad deals you can get right now\nRight now, there are discounts available on the base iPad, the iPad Mini, iPad Air, and even the iPad Pro.",
+              "All that being said, it’s difficult to know where exactly you can find the most notable iPad deals unless you’re scouring the major retailers on a daily basis.",
+              "Below, we’ve listed the best deals you can get on each iPad model that is available, from the 11th-gen base iPad to the more powerful models with the M3, M4, and M5 chips."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
+            "link": "https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "7a7b257cf0552e56a790c700ebf6c577e8186fa5"
+          },
+          "review": {
+            "headline_rewrite": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
+            "bullets": [
+              "ICE “officers and senior Trump administration officials have repeatedly suggested that the Department of Homeland Security (DHS) is building a ‘domestic terrorists’ database comprising information on US citizens protesting ICE’s actions in recent weeks,” Markey wrote in a letter yesterday to Acting ICE Director Todd Lyons.",
+              "I urge you to immediately confirm or deny the existence of such a database, and if it exists, immediately shut it down and delete it.”\nCreating a database of peaceful protesters “would constitute a shocking violation of the First Amendment and abuse of power,” and amount to “the kinds of tactics the United States rightly condemns in authoritarian governments such as China and Russia,” Markey said.",
+              "Markey’s letter said DHS officials “have repeatedly stated that the agency is engaged in efforts to monitor, catalog, and intimidate individuals engaged in peaceful protests,” and gave several examples.",
+              "We’re going to let their employers, and their neighborhoods, and their schools know who these people are.”\nMarkey’s letter called Homan’s comment “especially alarming given the numerous incidents in which DHS appears to have concluded that protesting ICE itself constitutes grounds for arrest.” Markey pointed to another recent incident in Portland, Maine, in which a masked ICE agent told an observer who was taking video that “we have a nice little database and now you’re considered a domestic terrorist.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Notepad++ Users, You May Have Been Hacked by China",
+            "link": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/",
+            "site_name": "WIRED",
+            "novelty_hash": "5ec00f83e2768b083314ead09e229e4ed6f3f586"
+          },
+          "review": {
+            "headline_rewrite": "Notepad++ Users, You May Have Been Hacked by China",
+            "bullets": [
+              "Infrastructure delivering updates for Notepad++—a widely used text editor for Windows—was compromised for six months by suspected China-state hackers who used their control to deliver backdoored versions of the app to select targets, developers said Monday.",
+              "The post said that the attack began last June with an “infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org.” The attackers, whom multiple investigators tied to the Chinese government, then selectively redirected certain targeted users to malicious update servers where they received backdoored updates.",
+              "Notepad++ didn’t regain control of its infrastructure until December.",
+              "Security firm Rapid 7 described it as a “custom, feature-rich backdoor.”\n“Its wide array of capabilities indicates it is a sophisticated and permanent tool, not a simple throwaway utility,” company researchers said.",
+              "Hands-On Keyboard Hacking\nNotepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2.",
+              "Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+            "link": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+            "site_name": "WIRED",
+            "novelty_hash": "81cda16ccc05f02c8e6a81291b8a97ac89e4858f"
+          },
+          "review": {
+            "headline_rewrite": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+            "bullets": [
+              "Five years ago, mathematicians Dawei Chen and Quentin Gendron were trying to untangle a difficult area of algebraic geometry involving differentials, elements of calculus used to measure distance along curved surfaces.",
+              "Chen recently spent hours prompting ChatGPT in the hopes of getting the AI to come up with a solution to the still unsolved problem, but it wasn’t working.",
+              "Chen told Ono about the problem, and the following morning, Ono presented him with a proof, courtesy of his startup’s math-solving AI, AxiomProver.",
+              "Axiom’s AI tool found a connection between the problem and a numerical phenomenon first studied in the 19th century.",
+              "The AI has not yet solved any of the most famous (or lucrative) problems in the field of mathematics, but it has found answers to questions that have stumped experts in different areas for years.",
+              "The proofs are evidence of AI’s steadily advancing math abilities."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 4, 2026 Google may have an 'India plan' to tackle H-1B visa restrictions Alphabet is significantly expanding its presence in Bangalore, India, with a massive new office complex potentially housing 20,000 employees. This strategic move aims to circumvent rising H-1B visa costs for Indian engineers in the US. The tech giant is actively recruiting AI and engineering talent, mirroring a broader trend of Big Tech increasing its India workforce.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/google-may-have-an-india-plan-to-tackle-h-1b-visa-restrictions/articleshow/127909205.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "4690a74787324d4a7de3285c54ce7f2ab9dcd896"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 4, 2026 Google may have an 'India plan' to tackle H-1B visa restrictions Alphabet is significantly expanding its presence in Bangalore, India, with a massive new office complex potentially housing 20,000 employees. This strategic move aims to circumvent rising H-1B visa costs for Indian engineers in the US. The tech giant is actively recruiting AI and engineering talent, mirroring a broader trend of Big Tech increasing its India workforce.",
+            "bullets": [
+              "The first tower opens to employees in the coming months, with the remaining two expected to be ready by next year.",
+              "Bangalore becomes Google's AI talent hub\nIf Alphabet exercises all its options, the expansion could more than double its India headcount from the current 14,000 employees.",
+              "The company has already been advertising hundreds of engineering roles in Bangaloreâfrom AI practice directors and chip designers to machine learning specialists, many requiring PhDs.",
+              "YouTube is also hiring engineers there to build generative AI tools.",
+              "OpenAI and Anthropic have also recently set up operations in the country, with Anthropic appointing former Microsoft executive Irina Ghose to lead its India business in January."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
