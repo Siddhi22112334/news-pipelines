@@ -131003,6 +131003,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:47": [
+        {
+          "item": {
+            "title": "Updates in two of our core priorities",
+            "link": "https://blogs.microsoft.com/blog/2026/02/04/updates-in-two-of-our-core-priorities/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "097e5887a5d273d079c32fff5bf8ea23a53283e2"
+          },
+          "review": {
+            "headline_rewrite": "Updates in two of our core priorities",
+            "bullets": [
+              "Satya Nadella, Chairman and CEO, posted the below message to employees on Viva Engage this morning.",
+              "I am excited to share a couple updates in two of our core priorities: security and quality.",
+              "Hayete Gallot is rejoining Microsoft as Executive Vice President, Security, reporting to me.",
+              "Hayete joins us from Google where she was President, Customer Experience for Google Cloud.",
+              "And she was instrumental in the design and implementation of our Security Solution Area.",
+              "She brings an ethos that combines product building with value realization for customers, which is critical right now."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
+            "link": "https://blogs.nvidia.com/?p=89580",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "d19a6d5d0509e225ae1879cd8defa9705b628769"
+          },
+          "review": {
+            "headline_rewrite": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
+            "bullets": [
+              "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms.",
+              "Each post highlights practical ways to use an open stack to deliver value in production — from transparent research copilots to scalable AI agents.",
+              "Often, teams piece together insights by manually reviewing files, copying data into spreadsheets, building dashboards and using basic search or template-based optical character recognition (OCR) tools that often miss important details in complex media.",
+              "Intelligent document processing is an AI-powered workflow that automatically reads, understands and extracts insights from documents.",
+              "It interprets rich formats inside those documents — including tables, charts, images and text — using AI agents and techniques like retrieval-augmented generation (RAG) to turn the multimodal content into insights that other multi-agent systems and people can easily use.",
+              "With NVIDIA Nemotron open models and GPU-accelerated libraries, organizations can build AI-powered document intelligence systems for research, financial services, legal workflows and more."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The latest AI news we announced in January",
+            "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+            "site_name": "Google",
+            "novelty_hash": "552cc66cc1153376ed7e0958215397433ac8713b"
+          },
+          "review": {
+            "headline_rewrite": "The latest AI news we announced in January",
+            "bullets": [
+              "The latest AI news we announced in January\nFor more than 20 years, we’ve invested in machine learning and AI research, tools and infrastructure to build products that make everyday life better for more people.",
+              "Teams across Google are working on ways to unlock AI’s benefits in fields as wide-ranging as healthcare, crisis response and education.",
+              "To keep you posted on our progress, we're doing a regular roundup of Google's most recent AI news.",
+              "Here’s a look back at some of our AI announcements from January.",
+              "In January, we moved AI toward a new era of Personal Intelligence: making products like Search, Chrome and the Gemini app more proactive than ever.",
+              "Whether it’s Chrome’s “auto browse” handling your complex chores or Gmail surfacing what matters most, these new personalization features are focused on anticipating your needs, understanding your context and helping you get things done."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+            "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1e94241efb67a8f5bd30cc7a558a34c4f557c10e"
+          },
+          "review": {
+            "headline_rewrite": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+            "bullets": [
+              "Voice AI company ElevenLabs said today it raised $500 million in a new funding round led by Sequoia Capital, which was an investor in the startup’s last secondary round through a tender.",
+              "Earlier in the year, the Financial Times reported that the startup was looking to raise at that valuation.",
+              "The company said that existing investor a16z quadrupled its investment amount, and Iconiq, which led the last round, tripled it.",
+              "Some prior investors, like BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital, also joined the round.",
+              "New investors for the funding included Lightspeed Venture Partners, Evantic\nCapital, and Bond.",
+              "ElevenLabs said that it will disclose some investors later in February, which might be strategic partners."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "GitHub adds Claude and Codex AI coding agents",
+            "link": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "98b16b8cd632b901e5b51d01500603e715f5a062"
+          },
+          "review": {
+            "headline_rewrite": "GitHub adds Claude and Codex AI coding agents",
+            "bullets": [
+              "GitHub is making Claude by Anthropic and OpenAI’s Codex AI coding agents directly available inside GitHub today.",
+              "GitHub adds Claude and Codex AI coding agents\nMicrosoft-owned GitHub continues to embrace OpenAI and Anthropic AI advances.",
+              "The move is part of Agent HQ, GitHub’s vision to make AI agents native to how developers use GitHub every day.",
+              "Developers will also be able to judge how Copilot, Claude, and Codex perform, and weigh up how each AI coding agent has generated a solution.",
+              "“Context switching equals friction in software development,” says Mario Rodriguez, chief product office at GitHub.",
+              "“With Codex, Claude, and Copilot in Agent HQ, you can move from idea to implementation using different agents for different steps without switching tools or losing context.”\nGitHub has been quick to embrace rival AI models and agents to improve its own Copilot offering."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Roblox’s 4D creation feature is now available in open beta",
+            "link": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "30b308959b465fb7bbd4dd24cb57b07211fe2443"
+          },
+          "review": {
+            "headline_rewrite": "Roblox’s 4D creation feature is now available in open beta",
+            "bullets": [
+              "Last year, Roblox launched an open-source AI model that could generate 3D objects on the platform, helping users quickly design digital items such as furniture, vehicles, and accessories.",
+              "The company claims the tool, called Cube 3D, has so far helped users generate over 1.8 million 3D objects since it was rolled out last March.",
+              "On Tuesday, the company launched the open beta for its anticipated 4D creation feature that lets creators make not just static 3D models, but fully functional and interactive objects.",
+              "At launch, there are two types of object templates (called schemas) that creators can try out.",
+              "The first is the “Car-5” schema, which is used to create a car made of five separate parts: the main body and four wheels.",
+              "The AI therefore can generate cars with spinning wheels, making them more realistic and interactive."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
