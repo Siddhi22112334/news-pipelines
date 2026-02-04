@@ -130105,6 +130105,84 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "14:40": [
+        {
+          "item": {
+            "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+            "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f4cd3d9eb2ef07cb78527ef571770d04f3dab55c"
+          },
+          "review": {
+            "headline_rewrite": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+            "bullets": [
+              "Semiconductor startup Positron has secured $230 million in Series B funding, TechCrunch has exclusively learned.",
+              "The outfit plans to use the capital to speed up deployment of its high-speed memory chips, a critical component for the chips used for AI workloads, sources familiar with the matter told TechCrunch.",
+              "Investors in the round include Qatar Investment Authority (QIA), the country’s sovereign wealth fund, which has been increasingly focused on building out AI infrastructure, the sources said.",
+              "The Reno-based startup’s Series B comes as hyperscalers and AI firms push to reduce their reliance on longstanding leader Nvidia.",
+              "These firms include OpenAI, which, despite being one of Nvidia’s largest and most important customers, is reportedly unsatisfied with some of the firm’s latest AI chips and has been seeking alternatives since last year.",
+              "Meanwhile, Qatar, through QIA, has been accelerating a broader push into so-called “sovereign” AI infrastructure – a priority repeatedly underscored at Web Summit Qatar in Doha this week."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to buy a GPU in 2026",
+            "link": "https://www.engadget.com/gaming/pc/how-to-buy-a-gpu-160100017.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a1af7ab8a992a8fdcaded754437cdfb61d718d8b"
+          },
+          "review": {
+            "headline_rewrite": "How to buy a GPU in 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "In a gaming PC, the GPU is easily the most important part, and you can limit your experience by going with the wrong model.",
+              "In this guide, we'll help you navigate the market and find the right GPU for your needs.",
+              "As such, even entry-level GPUs like the GeForce RTX 5060 can push those games at 120 frames per second and above at 1080p (more on why that's important in a moment).",
+              "By contrast, if you want to play modern, single-player games with ray tracing and other graphical extras, you'll need a more powerful GPU.",
+              "In short, running a game at 4K, especially at anything above 60 frames per second, is demanding, and most GPUs will need to use upscaling techniques like NVIDIA's Deep Learning Super Sampling (DLSS) and AMD's FidelityFX Super Resolution (FSR) to push new games at high refresh rates."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 4, 2026 Meta's CTO: Why is everyone surprised that AI Agents on Moltbook are talking like humans, after all they are ... Meta's CTO Andrew Bosworth dismisses the viral sensation of AI-only social network Moltbook, stating AI agents mimicking human conversation is unsurprising due to their training data. He found humor not in the bots' interactions, but in humans attempting to infiltrate the platform.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/metas-cto-why-is-everyone-surprised-that-ai-agents-on-moltbook-are-talking-like-humans-after-all-they-are-/articleshow/127904571.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a18d248688efe7f9a84db089886d1d60217d6f76"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 4, 2026 Meta's CTO: Why is everyone surprised that AI Agents on Moltbook are talking like humans, after all they are ... Meta's CTO Andrew Bosworth dismisses the viral sensation of AI-only social network Moltbook, stating AI agents mimicking human conversation is unsurprising due to their training data. He found humor not in the bots' interactions, but in humans attempting to infiltrate the platform.",
+            "bullets": [
+              "The AI-only social network Moltbook has now become a viral sensation which started debates about artificial intelligence mimicking human conversation.",
+              "As reported by Business Insider, in an Instagram Q&A, Bosworth dismissed the hype, saying itâs no surprise that AI agents sound human when interacting with each other.",
+              "âThese bots were trained on thousands of pieces of content written by humans,â Bosworth explained.",
+              "âWe should not be surprised, when left to their own devices and forced to speak with each other, they talk like us.â\nWhat really amused Meta CTO: Humans sneaking in\nWhile Bosworth downplayed the novelty of AI agents chatting like people, he admitted that finding humour in reports of humans trying to infiltrate Moltbook.",
+              "âThat I did find hilarious,â Bosworth said.",
+              "âThe idea of humans sneaking their way onto an AI bot chat network and masquerading as bots."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
