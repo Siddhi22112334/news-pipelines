@@ -131489,6 +131489,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:07": [
+        {
+          "item": {
+            "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+            "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c8fae75e961acb72e60d0c384b2afd937166cc27"
+          },
+          "review": {
+            "headline_rewrite": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+            "bullets": [
+              "Andreessen Horowitz just raised a whopping new $15 billion in funding.",
+              "And a $1.7 billion chunk of that is going to its infrastructure team, the one responsible for some of its biggest, most prominent AI investments including Black Forrest Labs, Cursor, OpenAI, ElevenLabs, Ideogram, Fal and dozens of others.",
+              "Watch as Venture and Startups editor Julie Bort talks with Li on Equity about where a16z sees this AI super cycle going next, including the talent crunch hitting AI-native startups, why search infrastructure matters more than people think, and what kinds of companies are actually getting funded right now."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This Town, 2.0",
+            "link": "https://www.theverge.com/column/874050/regulator-shutdown-averted-crypto",
+            "site_name": "The Verge",
+            "novelty_hash": "1db332925bcaf939c4b19c75fe59e49fd45d8565"
+          },
+          "review": {
+            "headline_rewrite": "This Town, 2.0",
+            "bullets": [
+              "This Town, 2.0\nTech surrenders to the daily chaos of Washington politicking.",
+              "So many new technologies are the subject of heated political debate — semiconductors, artificial intelligence, crypto, social media, surveillance, just to name a few — that to single one out every week seems like it barely scratches the surface of the action happening everywhere in town.",
+              "So this week, I’m spilling the notes and plotlines I’ve collected in the course of reporting, as well as some of the most eyebrow-raising stories I’ve come across.",
+              "The Republicans are countering with a request to revoke funding for “sanctuary cities.” But of course, anything can change in an instant…\nCelebrity alert: Actor Joseph Gordon-Levitt will appear with Sen.",
+              "Dick Durbin (D-IL) to celebrate the 30th anniversary of the passage of Section 230 in a press conference on Capitol Hill.",
+              "The future of crypto gets some Clarity\nOn Monday, the White House held a meeting with the policy directors of several major crypto companies, trade associations, and representatives from traditional financial institutions to hammer out an agreement on the Clarity Act."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump admin is \"destroying medical research,\" Senate report finds",
+            "link": "https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "370ca67a6efa53b9d18b3dbc0040dcf35c82b602"
+          },
+          "review": {
+            "headline_rewrite": "Trump admin is \"destroying medical research,\" Senate report finds",
+            "bullets": [
+              "The report concluded that the Trump administration is “failing American patients,” and “destroying medical research through cuts to research grants, terminations of clinical trials, and the chaos it has created.”\nSince Trump took office, the NIH has terminated or frozen hundreds of millions of dollars for research grants, including $561 million in grants to research the four leading causes of death in America, the report found.",
+              "“We didn’t cut any funding,” he claimed.",
+              "“The United States remains the single best place in the world to do biomedical research.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Notepad++ Users, You May Have Been Hacked by China",
+            "link": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/",
+            "site_name": "WIRED",
+            "novelty_hash": "19f1a2c204fa9caaff1eb6497eadb3fc23da1cd6"
+          },
+          "review": {
+            "headline_rewrite": "Notepad++ Users, You May Have Been Hacked by China",
+            "bullets": [
+              "Infrastructure delivering updates for Notepad++—a widely used text editor for Windows—was compromised for six months by suspected China-state hackers who used their control to deliver backdoored versions of the app to select targets, developers said Monday.",
+              "The post said that the attack began last June with an “infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org.” The attackers, whom multiple investigators tied to the Chinese government, then selectively redirected certain targeted users to malicious update servers where they received backdoored updates.",
+              "Notepad++ didn’t regain control of its infrastructure until December.",
+              "Security firm Rapid 7 described it as a “custom, feature-rich backdoor.”\n“Its wide array of capabilities indicates it is a sophisticated and permanent tool, not a simple throwaway utility,” company researchers said.",
+              "Hands-On Keyboard Hacking\nNotepad++ said that officials with the unnamed provider hosting the update infrastructure consulted with incident responders and found that it remained compromised until September 2.",
+              "Even then, the attackers maintained credentials to the internal services until December 2, a capability that allowed them to continue redirecting selected update traffic to malicious servers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best digital frames for 2026",
+            "link": "https://www.engadget.com/home/smart-home/best-digital-frame-120046051.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d888533bc959ec0d2888c7e45810e2ced6a923e1"
+          },
+          "review": {
+            "headline_rewrite": "The best digital frames for 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "In this story\nBest digital picture frames for 2026\nUsing an Aura frame felt like the company looked at the existing digital photo frame market and said \"we have to be able to do better than this.\" And they have.",
+              "Because of this design, you can't orient it in portrait mode, like some other frames I tried, but Aura has a software trick to get around that (more on that in a minute).",
+              "Yes, the 1,280 x 800 resolution is quite low by modern standards, but it provides enough detail that all of my photos look crisp and clear.",
+              "Beyond the resolution, the Carver’s screen has great color reproduction and viewing angles, and deals well with glare from the sun and lights alike.",
+              "I could see my iPhone camera roll and any albums I had created in my iCloud Photos library, including shared albums that other people contribute to."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+            "link": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+            "site_name": "WIRED",
+            "novelty_hash": "81cda16ccc05f02c8e6a81291b8a97ac89e4858f"
+          },
+          "review": {
+            "headline_rewrite": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+            "bullets": [
+              "Five years ago, mathematicians Dawei Chen and Quentin Gendron were trying to untangle a difficult area of algebraic geometry involving differentials, elements of calculus used to measure distance along curved surfaces.",
+              "Chen recently spent hours prompting ChatGPT in the hopes of getting the AI to come up with a solution to the still unsolved problem, but it wasn’t working.",
+              "Chen told Ono about the problem, and the following morning, Ono presented him with a proof, courtesy of his startup’s math-solving AI, AxiomProver.",
+              "Axiom’s AI tool found a connection between the problem and a numerical phenomenon first studied in the 19th century.",
+              "The AI has not yet solved any of the most famous (or lucrative) problems in the field of mathematics, but it has found answers to questions that have stumped experts in different areas for years.",
+              "The proofs are evidence of AI’s steadily advancing math abilities."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
