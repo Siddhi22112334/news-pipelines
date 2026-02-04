@@ -131960,6 +131960,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:25": [
+        {
+          "item": {
+            "title": "Q4 earnings call: Remarks from our CEO",
+            "link": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/",
+            "site_name": "Google",
+            "novelty_hash": "fd96acaabb7f450a787a671ee7c3a1afe32d80e4"
+          },
+          "review": {
+            "headline_rewrite": "Q4 earnings call: Remarks from our CEO",
+            "bullets": [
+              "On today’s 2025 Q4 earnings call, Google and Alphabet CEO Sundar Pichai highlighted how the launch of Gemini 3 was a major milestone and is driving real momentum and business results across the company.",
+              "The launch of Gemini 3 was a major milestone and we have great momentum.",
+              "- Cloud significantly accelerated with revenues growing 48%, now on an annual run rate of over $70 billion.",
+              "Backlog grew by 55% quarter over quarter to $240 billion, representing a wide breadth of customers, driven by demand for AI products.",
+              "- We have over 325 million paid subscriptions across consumer services, with strong adoption for Google One and YouTube Premium.",
+              "In addition, we have sold more than eight million paid seats of Gemini Enterprise, which we launched just four months ago."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available",
+            "link": "https://aws.amazon.com/blogs/aws/amazon-ec2-c8id-m8id-and-r8id-instances-with-up-to-22-8-tb-local-nvme-storage-are-generally-available/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "c3bd214872562e72be38e8c61675bb6b57eb109a"
+          },
+          "review": {
+            "headline_rewrite": "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available",
+            "bullets": [
+              "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available\nLast year, we launched the Amazon Elastic Compute Cloud (Amazon EC2) C8i instances, M8i instances, and R8i instances powered by custom Intel Xeon 6 processors available only on AWS with sustained all-core 3.9 GHz turbo frequency.",
+              "They deliver the highest performance and fastest memory bandwidth among comparable Intel processors in the cloud.",
+              "- R8id instances are designed for memory-intensive workloads such as large-scale SQL and NoSQL databases, in-memory databases, large-scale data analytics, and AI inference.",
+              "The instances are available in 11 sizes per family, as well as two bare metal configurations each:\n*Memory values are for C8id/M8id/R8id respectively.",
+              "These instances also use sixth-generation AWS Nitro cards offloading CPU virtualization, storage, and networking functions to dedicated hardware and software, enhancing performance and security for your workloads.",
+              "As I noted in my previous blog post, here are a couple of things to remind you about the local NVMe storage on these instances:\n- You don’t have to specify a block device mapping in your AMI or during the instance launch; the local storage will show up as one or more devices (\n/dev/nvme[0-26]n1\non Linux) after the guest operating system has booted."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini app has surpassed 750M monthly active users",
+            "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "14298e8aa8ce71358c00832467a0dc2b20cc41a2"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini app has surpassed 750M monthly active users",
+            "bullets": [
+              "Google’s AI chatbot Gemini has surpassed 750 million monthly active users (MAUs), according to the company’s fourth-quarter 2025 earnings.",
+              "This figure illustrates the rapid consumer adoption of Gemini, which has quickly become a prominent player in the AI space.",
+              "In comparison, Meta AI has reported nearly 500 million monthly users.",
+              "However, while Gemini is gaining traction, it still trails behind its biggest rival, ChatGPT, which around 810 million MAUs in late 2025.",
+              "The recently revealed number comes on the heels of the launch of Gemini 3, which showcases the company’s most advanced model yet, providing responses that the company claims exhibit an unprecedented level of depth and nuance.",
+              "CEO Sundar Pichai highlighted that the introduction of Gemini 3 in AI mode was a “positive driver” for the company’s growth and emphasized that continued investment and iteration will maintain this momentum."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon to begin testing AI tools for film and TV production next month",
+            "link": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cadfdae6f73c49a85566f9005e583d55ee0375cc"
+          },
+          "review": {
+            "headline_rewrite": "Amazon to begin testing AI tools for film and TV production next month",
+            "bullets": [
+              "Last summer, Amazon MGM Studios launched a dedicated AI Studio to develop proprietary AI tools to streamline TV and film production, with a focus on areas like improving character consistency across shots and supporting pre- and post-production.",
+              "Amazon will begin a closed beta program in March, inviting industry partners to try out its AI tools.",
+              "Amazon said it anticipates sharing initial outcomes from the program by May.",
+              "The company chose not to provide further details on the developments when approached by TechCrunch for a comment.",
+              "The AI Studio is collaborating with notable producers like Robert Stromberg, known for “Maleficent,” Kunal Nayyar from “The Big Bang Theory,” and former animator Colin Brady from Pixar to learn the best way to implement these tools.",
+              "Amazon is also tapping Amazon Web Services for support and intends to work with several LLM providers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Should AI chatbots have ads? Anthropic says no.",
+            "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ece2c22a31a5d640782d788c9508c854f7277089"
+          },
+          "review": {
+            "headline_rewrite": "Should AI chatbots have ads? Anthropic says no.",
+            "bullets": [
+              "The company argued that including ads in AI conversations would be “incompatible” with what it wants Claude to be: “a genuinely helpful assistant for work and for deep thinking.”\nThe stance contrasts with OpenAI’s January announcement that it would begin testing banner ads for free users and ChatGPT Go subscribers in the US.",
+              "OpenAI said those ads would appear at the bottom of responses and would not influence the chatbot’s actual answers.",
+              "Paid subscribers on Plus, Pro, Business, and Enterprise tiers will not see ads on ChatGPT.",
+              "“So we’ve made a choice: Claude will remain ad-free.",
+              "Our users won’t see ‘sponsored’ links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for.”\nCompetition between OpenAI and Anthropic has been fierce of late, due to the rise of AI coding agents.",
+              "Claude Code, Anthropic’s coding tool, and OpenAI’s Codex have similar capabilities, but Claude Code has been widely popular among developers and is closing in on OpenAI’s turf."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google&#8217;s annual revenue tops $400 billion for the first time",
+            "link": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
+            "site_name": "The Verge",
+            "novelty_hash": "31b38d34e1c360f45e0a45e247412426d24e4327"
+          },
+          "review": {
+            "headline_rewrite": "Google&#8217;s annual revenue tops $400 billion for the first time",
+            "bullets": [
+              "The company announced the milestone as part of its Q4 2025 earnings report released on Wednesday, which highlights the 15 percent year-over-year increase as its cloud business and YouTube continue to grow.",
+              "As noted in the earnings report, Google’s Cloud business reached a $70 billion run rate in 2025, while YouTube’s annual revenue soared beyond $60 billion across ads and subscriptions.",
+              "Alphabet CEO Sundar Pichai told investors that YouTube remains the “number one streamer,” citing data from Nielsen.",
+              "The company also now has more than 325 million paid subscribers, led by Google One and YouTube Premium.",
+              "In addition to surging revenue and subscribers, Google reported that its Gemini AI app surpassed 750 million users following the launch of its Gemini 3 model in November, marking a 100 million increase.",
+              "Gemini 3 continues to dominate the AI industry, with a custom version of the AI model set to power a more personalized version of Apple’s Siri."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
