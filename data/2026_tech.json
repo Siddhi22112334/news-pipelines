@@ -130530,6 +130530,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:26": [
+        {
+          "item": {
+            "title": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
+            "link": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
+            "site_name": "The Verge",
+            "novelty_hash": "2bc49de38d6fd1aa76868e3593a0463ff003519e"
+          },
+          "review": {
+            "headline_rewrite": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
+            "bullets": [
+              "Elizabeth Warren (D-MA) is pressing Google for more information about its plans to build a checkout feature into its Gemini AI chatbot.",
+              "In a letter to Google CEO Sundar Pichai, Warren expresses concerns that the integration could allow Google and retailers “to exploit sensitive user data” or “manipulate consumers into spending more and paying higher prices.”\nSen.",
+              "Warren wants to know what Google Gemini’s built-in checkout means for user privacy\nWarren is asking Google for more details about the kinds of data it will send to retail partners — and how much.",
+              "Last month, Google announced that it will soon allow users to buy products directly within Gemini through the Universal Commerce Protocol (UCP), a standard it developed in partnership with Shopify, Target, Walmart, Wayfair, and Etsy.",
+              "The UCP is supposed to make it easier for AI agents to communicate with retailers, but Warren wants to know just how much user information — and what kinds — Google plans on providing to retailers through this pipeline.",
+              "“Google already possesses unprecedented troves of user search and AI chat data, and such intimate data could be merged with both user data from other Google services and third-party retailer data to drive consumer behavior in an exploitative manner,” Warren writes, while also questioning whether Google will prioritize shopping results from retail partners over competitors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Forget Hinge or Bumble. This App Promises a Personal AI Matchmaker",
+            "link": "https://www.wired.com/review/three-day-rule-matchmaking-app/",
+            "site_name": "WIRED",
+            "novelty_hash": "dffde322313a220228233a5f0958e6cf465fca6c"
+          },
+          "review": {
+            "headline_rewrite": "Forget Hinge or Bumble. This App Promises a Personal AI Matchmaker",
+            "bullets": [
+              "Here we go again.",
+              "Three Day Rule operated as a white-glove matchmaking service for 15 years prior to launching its app in 2025.",
+              "The idea behind TDR, which uses AI trained by 60 matchmakers, is to make old-school matchmaking more practical, accessible, and aligned with modern sensibilities by incorporating it into a convenient AI-powered app.",
+              "The app is free, or $25 per month if you want all of the goodies, like AI coaching and guaranteed matches.",
+              "So, armed with my AI dating coach “Tai,” I set out to see if an AI matchmaker would find me the person of my dreams from an alleged 250,000 singles ready to mingle.",
+              "My matches and I talked through the AI prompts rather than getting to know each other, and soon enough, I wondered if the human beings behind the screens were merely facilitating a connection between our AI bots."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026",
+            "link": "https://www.wired.com/story/ryan-cochran-siegles-starter-pack/",
+            "site_name": "WIRED",
+            "novelty_hash": "f0b7a1dff1dadf87905abae10a913a7714c90629"
+          },
+          "review": {
+            "headline_rewrite": "Alpine Skier Ryan Cochran-Siegle’s Starter Pack: Winter Olympics 2026",
+            "bullets": [
+              "Cochran-Siegle keeps Maple UnTapped packets on hand for fast refueling between runs, tearing one open and getting straight to the point: naturally occurring sugars, quick absorption, and no mystery ingredients.",
+              "In Milan, he’s looking forward to documenting Bormio, a historic mountain town, and a familiar FIS Alpine Ski World Cup stop that will transform into an Olympic stage.",
+              "It’s the kind of product you forget about until you don’t have it, and then everything hurts.",
+              "A Pair of Polarized Sunnies\nHis Sleep Bundle\nAmong other variables, Cochran-Siegle's sleep setup is one he won't leave to chance.",
+              "When your environment changes every few days, manufacturing familiarity becomes part of the training plan."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How to set up an AirTag",
+            "link": "https://www.engadget.com/computing/accessories/how-to-set-up-an-airtag-120000789.html",
+            "site_name": "Engadget",
+            "novelty_hash": "97106a36854e7d969b23257b7edf98139f640368"
+          },
+          "review": {
+            "headline_rewrite": "How to set up an AirTag",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Apple’s AirTag makes it easy to keep tabs on everyday items like keys, bags and luggage using the Find My network.",
+              "Once paired, your AirTag quietly works in the background to help you locate misplaced belongings.",
+              "This guide walks through how to set up an AirTag, how to name it so you can easily identify what it’s attached to and what to do if setup doesn’t go as planned.",
+              "What you need before setting up an AirTag\nBefore you begin, make sure you have the following:\nAn iPhone or iPad signed in to your Apple Account\nBluetooth enabled on that device\nLocation Services enabled\niOS or iPadOS 14.5 or later (AirTag 2nd generation requires iOS or iPadOS 26.2.1 or later)\nA stable Wi-Fi or cellular connection\nYou’ll also want to ensure iCloud Keychain is enabled and that your Apple Account setup is fully completed in Settings.",
+              "How to set up an AirTag using your iPhone or iPad\nThe easiest way to set up an AirTag is directly through the on-screen setup prompt."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 4, 2026 OpenAI is reportedly seeing exit of senior-level employees after CEO Sam Altman makes it compulsory to use… OpenAI is experiencing a significant exodus of senior researchers as CEO Sam Altman prioritizes ChatGPT development over long-term AI exploration. Key figures, including a VP of research, have departed due to resource allocation disputes, with experimental projects reportedly sidelined. This strategic shift, driven by intense competition, leaves some teams feeling marginalized and questioning their original research goals.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-is-reportedly-seeing-exit-of-senior-level-employees-after-ceo-sam-altman-makes-it-compulsory-to-use/articleshow/127909390.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "9b0d2ab2c6ca529eb883710f141a472526d2749a"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 4, 2026 OpenAI is reportedly seeing exit of senior-level employees after CEO Sam Altman makes it compulsory to use… OpenAI is experiencing a significant exodus of senior researchers as CEO Sam Altman prioritizes ChatGPT development over long-term AI exploration. Key figures, including a VP of research, have departed due to resource allocation disputes, with experimental projects reportedly sidelined. This strategic shift, driven by intense competition, leaves some teams feeling marginalized and questioning their original research goals.",
+            "bullets": [
+              "OpenAI is bleeding senior talent as CEO Sam Altman forces the company to funnel resources into ChatGPT at the expense of long-term research, the Financial Times reported.",
+              "The $500 billion AI startup has been redirecting computing power and staff away from experimental projects towards its flagship chatbot, triggering a wave of high-profile departures.",
+              "Jerry Tworek, vice-president of research who spent seven years at OpenAI, left in January after his appeals for more resources were repeatedly shot down.",
+              "Tworek had been leading efforts on AI \"reasoning\" and wanted to pursue continuous learningâthe ability of models to absorb new information over time without forgetting what they already know.",
+              "According to people close to him, his requests culminated in a stand-off with chief scientist Jakub Pachocki, who believed OpenAI's existing architecture around large language models was more promising.",
+              "That memoâwhich shelved work on advertising, AI shopping agents, and a personal assistant called Pulseâlanded days after\nGoogle's Gemini 3 outperformed OpenAI on key benchmarks and sent Alphabet's stock soaring.a\nAt OpenAI, researchers must apply to top executives for computing \"credits\" to get projects off the ground."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
