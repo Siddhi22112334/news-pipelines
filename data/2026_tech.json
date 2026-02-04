@@ -130884,6 +130884,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:40": [
+        {
+          "item": {
+            "title": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
+            "link": "https://blogs.nvidia.com/?p=89580",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "d19a6d5d0509e225ae1879cd8defa9705b628769"
+          },
+          "review": {
+            "headline_rewrite": "Nemotron Labs: How AI Agents Are Turning Documents Into Real-Time Business Intelligence",
+            "bullets": [
+              "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms.",
+              "Each post highlights practical ways to use an open stack to deliver value in production — from transparent research copilots to scalable AI agents.",
+              "Often, teams piece together insights by manually reviewing files, copying data into spreadsheets, building dashboards and using basic search or template-based optical character recognition (OCR) tools that often miss important details in complex media.",
+              "Intelligent document processing is an AI-powered workflow that automatically reads, understands and extracts insights from documents.",
+              "It interprets rich formats inside those documents — including tables, charts, images and text — using AI agents and techniques like retrieval-augmented generation (RAG) to turn the multimodal content into insights that other multi-agent systems and people can easily use.",
+              "With NVIDIA Nemotron open models and GPU-accelerated libraries, organizations can build AI-powered document intelligence systems for research, financial services, legal workflows and more."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ElevenLabs raises $500M from Sequioia at a $11 billion valuation",
+            "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9ef072fcbef0ce9c27e0bc470988cd8b48ad9cc7"
+          },
+          "review": {
+            "headline_rewrite": "ElevenLabs raises $500M from Sequioia at a $11 billion valuation",
+            "bullets": [
+              "Voice AI company ElevenLabs said today it raised $500 million in a new funding round led by\nSequoia Capital, which was an investor in the startup’s last secondary round through a tender.",
+              "Earlier in the year, the Financial Times reported that the startup was looking to raise at that valuation.",
+              "The company said that existing investor a16z quadrupled its investment amount, and ICONIQ, which led the last round, tripled it.",
+              "Some prior investors, like BroadLight, NFDG, Valor Capital, AMP Coalition, and Smash Capital, also joined the round.",
+              "New investors for the funding included Lightspeed Venture Partners, Evantic\nCapital, BOND.",
+              "ElevenLabs said that it will disclose some investors later in February, which might be strategic partners."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
+            "link": "https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "10eea9fc2b76c501d6b28716ababef2a5881df0e"
+          },
+          "review": {
+            "headline_rewrite": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
+            "bullets": [
+              "Adobe is putting on hold its plan to discontinue Adobe Animate following intense backlash from its customers after it announced plans to shut down the 2D animation software amid an increased focus on its investments in AI.",
+              "Animate will continue to be available for both current and new customers, and we will ensure you continue to have access to your content,” the company wrote in a post on Wednesday.",
+              "Adobe’s Monday announcement about discontinuing Animate was met with incredulity, disappointment, and anger, and users aired concerns about the lack of alternatives that mirror Animate’s functionality.",
+              "The company changed its tune on Wednesday, saying there would no longer be a “deadline or date by which Animate will no longer be available.”\n“Adobe Animate is in maintenance mode for all customers.",
+              "Maintenance mode means we will continue to support the application and provide ongoing security and bug fixes, but we are no longer adding new features.",
+              "Animate will continue to be available for both new and existing users - we will not be discontinuing or removing access to Adobe Animate,” it said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+            "link": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
+            "site_name": "WIRED",
+            "novelty_hash": "0f2ef65d6fbef959df1737d32e06a9c5370896c6"
+          },
+          "review": {
+            "headline_rewrite": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+            "bullets": [
+              "Mistral AI has released a new family of AI models that it claims will clear the path to seamless conversation between people speaking different languages.",
+              "On Wednesday, the Paris-based AI lab released two new speech-to-text models: Voxtral Mini Transcribe V2 and Voxtral Realtime.",
+              "Voxtral Realtime is freely available under an open source license.",
+              "At four billion parameters, the models are small enough to run locally on a phone or laptop—a first in the speech-to-text field, Mistral claims—meaning that private conversations needn’t be dispatched to the cloud.",
+              "This model is basically laying the groundwork for that,” claims Pierre Stock, VP of Science Operations at Mistral, in an interview with WIRED.",
+              "“I think this problem will be solved in 2026.”\nFounded in 2023 by Meta and Google DeepMind alumni, Mistral is one of few European companies developing foundational AI models capable of running remotely close to the American market leaders—OpenAI, Anthropic, and Google—from a capability standpoint."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 14-inch, ARM-based Asus Vivobook is half off today",
+            "link": "https://www.theverge.com/gadgets/873792/asus-vivobook-snapdragon-x-laptop-amd-ryzen-switch-2-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "257304670d154ef4de00c6e1214ee88d218bf8df"
+          },
+          "review": {
+            "headline_rewrite": "The 14-inch, ARM-based Asus Vivobook is half off today",
+            "bullets": [
+              "In short, it’s far less painful now than it used to be to jump from, say, a laptop with an Intel or AMD processor.",
+              "And, despite this being a thin and affordable laptop, its port selection is fairly impressive, boasting two USB-A 3.2 Gen 1 ports, HDMI 2.1 output, a headphone jack, and two USB-C 3.2 Gen 1 ports (both support charging and DisplayPort out).",
+              "Some other great Verge-approved deals\n- Much has been said about the exorbitant costs of RAM these days, but Micro Center actually has a pretty nice deal on an AMD-based CPU/RAM/motherboard bundle containing its new high-end Ryzen 7 9850X3D processor, a nice Asus X870-P Prime motherboard, and 32GB (2 x 16GB) of 6000MHz DDR5 RAM.",
+              "Normally $499.99 (and becoming more difficult to find since this particular model has been discontinued), it’s $424.91 when you arrange an in-store pickup at certain locations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Russian spy satellites have intercepted EU communications satellites",
+            "link": "https://www.ft.com/content/cd08c49c-658e-49c9-9a15-234f2bfc2074",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0adf975628436f920133d488c1f29beb08b43ed4"
+          },
+          "review": {
+            "headline_rewrite": "Russian spy satellites have intercepted EU communications satellites",
+            "bullets": [
+              "European security officials believe two Russian space vehicles have intercepted the communications of at least a dozen key satellites over the continent.",
+              "Russian space vehicles have shadowed European satellites more intensively over the past three years, at a time of high tension between the Kremlin and the West following Moscow’s full-scale invasion of Ukraine.",
+              "Since its launch in 2023, Luch-2 has approached 17 European satellites.",
+              "A senior European intelligence official said the Luch vehicles were almost certainly intended to position themselves within the narrow cone of data beams transmitted from Earth-based stations to the satellites.",
+              "The official expressed concern that sensitive information—notably command data for European satellites—is unencrypted, because many were launched years ago without advanced onboard computers or encryption capabilities."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
