@@ -129837,6 +129837,44 @@
             "impact": "Positive"
           }
         }
+      ],
+      "09:42": [
+        {
+          "item": {
+            "title": "Technology News Feb 3, 2026 What Microsoft CTO Kevin Scott told CEO Satya Nadella in email on the OpenAI Board firing CEO Sam Altman in 2023 Internal power struggles over GPU resources and a chief scientist's resentment over a colleague's promotion led to Sam Altman's ouster from OpenAI, according to Microsoft CTO Kevin Scott. Inexperienced board members, swayed by a one-sided story, failed to grasp the consequences of firing the CEO, sparking employee backlash and a swift return for Altman.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/what-microsoft-cto-kevin-scott-told-ceo-satya-nadella-in-email-on-the-openai-board-firing-ceo-sam-altman-in-2023/articleshow/127874881.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "7b32f79011578558c3207de98d62a602fa6266c3"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 3, 2026 What Microsoft CTO Kevin Scott told CEO Satya Nadella in email on the OpenAI Board firing CEO Sam Altman in 2023 Internal power struggles over GPU resources and a chief scientist's resentment over a colleague's promotion led to Sam Altman's ouster from OpenAI, according to Microsoft CTO Kevin Scott. Inexperienced board members, swayed by a one-sided story, failed to grasp the consequences of firing the CEO, sparking employee backlash and a swift return for Altman.",
+            "bullets": [
+              "Microsoft's Chief Technology Officer Kevin Scott had a blunt diagnosis for why\nOpenAI's board fired\nSam Altman in November 2023: internal power struggles over GPUs and a chief scientist struggling with a colleague's promotion.",
+              "In an email sent to CEO Satya Nadella on November 19, 2023, Scott laid out the messy reality behind the shock dismissal.",
+              "Board member Ilya Sutskever had grown increasingly frustrated with Altman over two specific issues that had been festering inside OpenAI.",
+              "ChatGPT's explosive success meant GPUs were being diverted to the API and consumer products.",
+              "They could \"always use more GPUs because what they're doing is literally insatiable,\" Scott wrote.",
+              "The researchers blamed Applied AI for hogging resources."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
