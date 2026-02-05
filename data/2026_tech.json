@@ -134128,6 +134128,123 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:05": [
+        {
+          "item": {
+            "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+            "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "63ad686252f70ba813614f3443520f3c56d3542b"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+            "bullets": [
+              "On Monday, OpenAI launched Codex, an agentic coding tool marketed to software developers.",
+              "Today, OpenAI also launched a new model designed to turbo-charge Codex: GPT-5.3 Codex.",
+              "The company says that the model transforms Codex from an agent that can merely “write and review code” to one that can do “nearly anything developers and professionals do on a computer, expanding who can build software and how work gets done.” Having tested its new model against a number of performance benchmarks, OpenAI claims that it can create “highly functional complex games and apps from scratch over the course of days.”\nOpenAI says that GPT-5.3 Codex is also 25 percent faster than its previous model (GPT-5.2) and that it was the company’s first model that “was instrumental in creating itself,” meaning that the company’s staff used early versions of the program to debug itself and evaluate how it was performing.",
+              "Indeed, OpenAI and Anthropic had originally planned to release their two agentic coding tools at the exact same time: 10 a.m.",
+              "However, not long before the original release time, Anthropic moved its release date up by 15 minutes, slightly besting OpenAI in the race to publicize the models."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk is getting serious about orbital data centers",
+            "link": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "db14f8cc60c7457c0a677288f30b9431c3a57f50"
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk is getting serious about orbital data centers",
+            "bullets": [
+              "The most obvious step, of course, is the formal merger between SpaceX and xAI that went forward on Monday, officially drawing together Musk’s space and AI ventures in a way that makes a lot more sense if there’s some kind of joint infrastructure project planned.",
+              "But even beyond the merger, we’re starting to see the idea of orbital AI data clusters — essentially, networks of computers operating in space — cohere into an actual plan.",
+              "It’s a pro forma step normally, but FCC chairman Brendan Carr took the unusual step of sharing the filing on X.",
+              "Throughout his tenure as chairman, Carr has shown himself eager to help Trump’s friends and punish his enemies — so as long as Musk stays on Trump’s good side, the proposal is likely to sail through without issue.",
+              "On a new episode of Stripe co-founder Patrick Collison’s podcast “Cheeky Pint,” which also featured guest Dwarkesh Patel, Musk laid out the basic case for moving most of our AI computing power into space.",
+              "Essentially, solar panels produce more power in space, so you can cut down on one of the main operating expenses for data centers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
+            "link": "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research",
+            "site_name": "The Verge",
+            "novelty_hash": "2982fd0056a6ad0eeb4bd792e8901edd484f5479"
+          },
+          "review": {
+            "headline_rewrite": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
+            "bullets": [
+              "Zuckerberg considered changing how Meta studies social issues after research got it in trouble\nThe Meta CEO said Apple seems to get away with less criticism by lying low.",
+              "“Recent events have made me consider whether we should change our approach to research and analytics around social issues,” Zuckerberg wrote in a September 15th, 2021, email to top executives including then-COO Sheryl Sandberg and head of global affairs Nick Clegg.",
+              "The day before, the Journal published a story based on documents obtained from a whistleblower later revealed to be Frances Haugen, which showed the company’s own research had found that “Thirty-two percent of teen girls said that when they felt bad about their bodies, Instagram made them feel worse.” The subject line of Zuckerberg’s email read: “Social issue research and analytics — privileged and confidential.”\nThe 2021 email was unsealed Thursday after being collected in discovery by New Mexico Attorney General Raúl Torrez as part of a case alleging Meta deceptively positioned its products as safe for teens when it was aware of harmful design choices that the state claims addicted kids and allowed for child predators to thrive.",
+              "In the complaint, the AG’s office alleged that disclosing harms Meta identified on its platforms “would have corrected the misleading and deceptive nature of its public statements proclaiming its platforms ‘safe.’” Meta spokesperson Andy Stone told The Verge in a statement that the company “is proud of our continued commitment to doing transparent, industry-leading research.",
+              "As we have for years, we continue to use these insights to make meaningful improvements, like introducing teen accounts with built-in protections and providing parents with tools to manage their teens’ experiences.”\nThe email is just one example of the kind of internal conversations expected to come to light throughout that trial, and in a series of cases with similar claims in California.",
+              "In the email, Zuckerberg wrote that it seemed Meta’s peers managed to skirt public criticism on social issues by doing far less proactive research on the harms on their platforms."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+            "link": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "13405d7e9e1262a8ede6108198ae9d442c200132"
+          },
+          "review": {
+            "headline_rewrite": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+            "bullets": [
+              "That’s the style of Internet that Kyle Drake, Neocities’ founder, strives to maintain.",
+              "Monitoring stats, Drake was stunned to see that Bing traffic had suddenly dropped from about half a million daily visitors to zero."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
+            "link": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
+            "site_name": "WIRED",
+            "novelty_hash": "1e64fdf52551d10d1fcdc478467acd65832bd0dd"
+          },
+          "review": {
+            "headline_rewrite": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
+            "bullets": [
+              "The Department of Homeland Security launched Mobile Fortify in the spring of 2025 to “determine or verify” the identities of individuals stopped or detained by DHS officers during federal operations, records show.",
+              "DHS explicitly linked the rollout to an executive order, signed by President Donald Trump on his first day in office, which called for a “total and efficient” crackdown on undocumented immigrants through the use of expedited removals, expanded detention, and funding pressure on states, among other tactics.",
+              "\"Every manufacturer of this technology, every police department with a policy makes very clear that face recognition technology is not capable of providing a positive identification, that it makes mistakes, and that it's only for generating leads,\" says Nathan Wessler, deputy director of the American Civil Liberties Union’s Speech, Privacy, and Technology Project.",
+              "DHS—which has declined to detail the methods and tools that agents are using, despite repeated calls from oversight officials and nonprofit privacy watchdogs—has used Mobile Fortify to scan the faces not only of “targeted individuals,” but also people later confirmed to be US citizens and others who were observing or protesting enforcement activity.",
+              "Fortify's technology mobilizes facial capture hundreds of miles from the US border, allowing DHS to generate nonconsensual face prints of people who, “it is conceivable,” DHS’s Privacy Office says, are “US citizens or lawful permanent residents.” As with the circumstances surrounding its deployment to agents with Customs and Border Protection and Immigration and Customs Enforcement, Fortify’s functionality is visible mainly today through court filings and sworn agent testimony.",
+              "In a federal lawsuit this month, attorneys for the State of Illinois and the City of Chicago said the app had been used \"in the field over 100,000 times\" since launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything we know about Valve's new Steam Machine",
+            "link": "https://www.engadget.com/gaming/pc/everything-we-know-about-valves-new-steam-machine-200458817.html",
+            "site_name": "Engadget",
+            "novelty_hash": "36bc4fcc51b235c0aa5c7e16ad78a79f15129527"
+          },
+          "review": {
+            "headline_rewrite": "Everything we know about Valve's new Steam Machine",
+            "bullets": [
+              "Valve introduced its second attempt at ruling the living room in a surprise hardware announcement in November 2025, and paired the new Steam Machine with a new Steam Controller and a wireless VR headset it calls the Steam Frame.",
+              "Since the announcement, as is often the case with Valve, some details remain elusive, however.",
+              "While we wait for the release of the company's new hardware lineup in 2026, and more information straight from the horse's mouth, here's everything we know about the hardware, software and price of the Steam Machine.",
+              "Inside, Valve says the Steam Machine features a \"semi-custom\" AMD Zen 4 CPU with six cores and up to 4.8GHz clock speeds, and a \"semi-custom\" RDNA3 AMD GPU, along with 16GB DDR RAM, 8GB GDDR6 VRAM and either 512GB or 2TB of storage.",
+              "While these specs make the Steam Machine more powerful than the aging Steam Deck (which shipped in 2022 with its own custom AMD chip) Valve has been careful not to oversell the capabilities of the box.",
+              "In a blog post, the company said that \"the majority of Steam titles play great at 4K 60FPS\" using AMD's FidelityFX Super Resolution (FSR) frame generation and upscaling technology, but some titles require more upscaling than others, and it \"may be preferable to play at a lower framerate with [variable refresh rate] to maintain a 1080p internal resolution.\"\nIn a hands-on preview of the Steam Machine, Digital Foundry expressed concern with what Valve's claims and the device's stated specs could mean for future performance."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
