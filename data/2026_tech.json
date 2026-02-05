@@ -133406,6 +133406,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "20:42": [
+        {
+          "item": {
+            "title": "Watch our new Gemini ad ahead of football’s biggest weekend",
+            "link": "https://blog.google/company-news/inside-google/company-announcements/gemini-ad-new-home/",
+            "site_name": "Google",
+            "novelty_hash": "0a47e8d38047cd894d5b6e05b95f3c776b3c8b08"
+          },
+          "review": {
+            "headline_rewrite": "Watch our new Gemini ad ahead of football’s biggest weekend",
+            "bullets": [
+              "We’re also launching digital spots showing exactly how to explore your ideas and complete any task with Gemini — like finding the fuse box under the hood of a car or trying out a new haircut.",
+              "You can connect Gemini to your favorite apps like Photos, Maps and Gmail to find information and pull personal memories into your creative projects.",
+              "Whether you’re following the Big Game in Santa Clara or the global action in Italy, Gemini is your more personal, proactive AI assistant here to help you explore, learn and create."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GeForce NOW Celebrates Six Years of Streaming With 24 Games in February",
+            "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "1eaeaec4f796db6e25c038cf129e1ce5d852d15e"
+          },
+          "review": {
+            "headline_rewrite": "GeForce NOW Celebrates Six Years of Streaming With 24 Games in February",
+            "bullets": [
+              "Since launch, members have streamed over 1 billion hours, and the party’s just getting started.",
+              "Start with the 10 new games in the cloud this week, including the launch of Team Jade’s Delta Force and the newest title launching in the PUBG universe, PUBG: BLINDSPOT.",
+              "Reporting for Duty\nDelta Force, now boots on the ground and fully deployed on GeForce NOW, brings the tactical first‑person shooter from Team Jade (TiMi Studio Group) to the cloud.",
+              "Players join elite units tasked with tackling high‑risk missions across sprawling maps, from tight urban incursions to rugged open‑terrain operations.",
+              "Expect strategic objectives, combined‑arms combat with land, air and sea vehicles, and tense firefights where teamwork and planning are just as important as quick reflexes.",
+              "Members can squad up from almost anywhere, enjoy high‑resolution streaming and smooth performance, and stay ready for every op without waiting on downloads or big updates before jumping into the next mission."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ElevenLabs CEO: Voice is the next interface for AI",
+            "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "cde4d239ecd537936200ea4e1cf0c49e55f41c29"
+          },
+          "review": {
+            "headline_rewrite": "ElevenLabs CEO: Voice is the next interface for AI",
+            "bullets": [
+              "ElevenLabs co-founder and CEO Mati Staniszewski says voice is becoming the next major interface for AI – the way people will increasingly interact with machines as models move beyond text and screens.",
+              "In the years ahead, he said, “hopefully all our phones will go back in our pockets, and we can immerse ourselves in the real world around us, with voice as the mechanism that controls technology.”\nThat vision fueled ElevenLabs’s $500 million raise this week at an $11 billion valuation, and it is increasingly shared across the AI industry.",
+              "OpenAI and Google have both made voice a central focus of their next-generation models, while Apple appears to be quietly building voice-adjacent, always-on technologies through acquisitions like Q.ai.",
+              "As AI spreads into wearables, cars, and other new hardware, control is becoming less about tapping screens and more about speaking, making voice a key battleground for the next phase of AI development.",
+              "Iconiq Capital general partner Seth Pierrepont echoed that view onstage at Web Summit, arguing that while screens will continue to matter for gaming and entertainment, traditional input methods like keyboards are starting to feel “outdated.”\nAnd as AI systems become more agentic, Pierrepont said, the interaction itself will also change, with models gaining guardrails, integrations, and context needed to respond with less explicit prompting from users.",
+              "Rather than spelling out every instruction, he said future voice systems will increasingly rely on persistent memory and context built up over time, making interactions feel more natural and requiring less effort from users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
+            "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fa35c21f2845f60deb4be4ce4648557f03cf3547"
+          },
+          "review": {
+            "headline_rewrite": "Fundamental raises $255 million Series A with a new take on big data analysis",
+            "bullets": [
+              "An AI lab called Fundamental emerged from stealth on Thursday, offering a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
+              "By combining the old systems of predictive AI with more contemporary tools, the company believes it can reshape how large enterprises analyze their data.",
+              "“While LLMs have been great at working with unstructured data, like text, audio, video, and code, they don’t work well with structured data like tables,” CEO Jeremy Fraenkel told TechCrunch.",
+              "The company is emerging from stealth with $255 million in funding at a $1.2 billion valuation.",
+              "The bulk of it comes from the recent $225 million Series A round led by Oak HC/FT, Valor Equity Partners, Battery Ventures, and Salesforce Ventures; Hetz Ventures also participated in the Series A, with angel funding from Perplexity CEO Aravind Srinivas, Brex co-founder Henrique Dubugras, and Datadog CEO Olivier Pomel.",
+              "Called a Large Tabular Model (LTM) rather than a Large Language Model (LLM), Fundamental’s Nexus breaks from contemporary AI practices in a number of significant ways."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI Frontier is a single platform to control your AI agents",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management",
+            "site_name": "The Verge",
+            "novelty_hash": "1c5b30959c8b156dfc6768133ce7ebe5f69cba4d"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI Frontier is a single platform to control your AI agents",
+            "bullets": [
+              "Managing AI agents is… also hard.",
+              "That’s why OpenAI is launching a new platform called OpenAI Frontier, which it says will help businesses “build, deploy, and manage” AI agents, even those not made by OpenAI itself.",
+              "OpenAI Frontier is a single platform to control your AI agents\nThink HR, but for AI.",
+              "OpenAI’s description of Frontier sounds something like HR for AI.",
+              "“Frontier gives agents the same skills people need to succeed at work: shared context, onboarding, hands-on learning with feedback, and clear permissions and boundaries,” OpenAI wrote in a blog post.",
+              "The similarity makes sense: OpenAI said the product was inspired “by looking at how enterprises already scale people.”\nFrontier is available today, though only to an unspecified “limited set of customers, with broader availability coming over the next few months.” OpenAI said Intuit, State Farm, Thermo Fisher, and Uber are among the first companies to adopt OpenAI Frontier, with “dozens of existing customers” having piloted it as well."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Senators ask Meta why it waited so long to make teen accounts private by default",
+            "link": "https://www.theverge.com/news/874158/senators-meta-teen-accounts-private-default",
+            "site_name": "The Verge",
+            "novelty_hash": "629f47d3c29e1df0998f76775f66286017223524"
+          },
+          "review": {
+            "headline_rewrite": "Senators ask Meta why it waited so long to make teen accounts private by default",
+            "bullets": [
+              "A group of senators has written a letter to Meta CEO Mark Zuckerberg asking why his company delayed launching key protections for users under 18.",
+              "The letter, signed by Brian Schatz (D-HI), Katie Britt (R-AL), Amy Klobuchar (D-MN), James Lankford (R-OK), and Christopher Coons (D-DE), cites court documents unsealed late last year that revealed claims that Meta may have downplayed its platforms’ harm in favor of increasing user engagement.",
+              "Senators ask Meta why it waited so long to make teen accounts private by default\nThe lawmakers raise concerns about allegations that Meta knew its platforms harmed users.",
+              "But an unredacted court document filed as part of a nationwide social media child safety lawsuit alleges that Meta considered making all teen accounts private in 2019, but reportedly decided against the plan after finding it would “likely smash engagement.”\nIn the letter, the senators press Zuckerberg for more information about why Meta “delayed” launching its private-by-default feature for teens, as well as which teams were involved in the decision.",
+              "The letter also questions Meta about some of the other accusations laid out in the court document, including whether Meta ever “halted” research or studies into its user well-being and its platforms if they produced undesirable outcomes, as suggested in the filing.",
+              "“We are deeply concerned by allegations that Meta was not only aware of these risks, but may have delayed product design changes or prevented public disclosure of these findings,” the letter states."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
