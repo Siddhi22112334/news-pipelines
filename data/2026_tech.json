@@ -133886,5 +133886,131 @@
         }
       ]
     }
+  },
+  "2026-02-06": {
+    "runs": {
+      "00:45": [
+        {
+          "item": {
+            "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+            "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c61f249e9098b79a86166237f074de26a901bb62"
+          },
+          "review": {
+            "headline_rewrite": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+            "bullets": [
+              "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
+              "Think TikTok or Instagram Reels, but every single video you come across is AI-generated.",
+              "Until now, the feed has lived in the Meta AI app.",
+              "By making Vibes available outside of the Meta AI app, the company is positioning it as a more direct competitor to Sora, OpenAI’s AI-generated video and social app that launched shortly after Vibes.",
+              "“Following the strong early traction of Vibes within Meta AI, we are testing a standalone app to build on that momentum,” Meta said in an emailed statement.",
+              "“We’ve seen that users are increasingly leaning into the format to create, discover, and share AI-generated video with friends."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+            "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "755ec561f5fa4974de81f43bf77792df8ae5c068"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches a way for enterprises to build and manage AI agents",
+            "bullets": [
+              "OpenAI has launched a new product to help enterprises navigate the world of AI agents, focusing on agent management as critical infrastructure for enterprise AI adoption.",
+              "On Thursday, AI giant OpenAI announced the launch of OpenAI Frontier, an end-to-end platform designed for enterprises to build and manage AI agents.",
+              "It’s an open platform, which means users can manage agents built outside of OpenAI too.",
+              "Frontier users can program AI agents to connect to external data and applications, which allows them to execute tasks far outside of the OpenAI platform.",
+              "OpenAI said Frontier was designed to work the same way companies manage human employees.",
+              "OpenAI touted enterprises, including HP, Oracle, State Farm, and Uber as customers, but Frontier is currently only available to a limited number of users with plans to roll out more generally in the coming months."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Super Bowl LX ads: all AI everything",
+            "link": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+            "site_name": "The Verge",
+            "novelty_hash": "c26fcd1cc55e5f352b57760e16092fd63bce9472"
+          },
+          "review": {
+            "headline_rewrite": "Super Bowl LX ads: all AI everything",
+            "bullets": [
+              "While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago.",
+              "Last year’s Super Bowl featured a Google Gemini ad that fumbled a Gouda cheese stat, and this year’s game is already slated to include an ad for Anthropic’s AI platform that takes jabs at its competitors, namely OpenAI.",
+              "AI-generated ads could make an appearance, too.",
+              "Sam Altman responded to Anthropic’s new Super Bowl ad in an X post on Wednesday, saying the OpenAI competitor’s campaign is “clearly dishonest,” and called it “on brand” for Anthropic to “doublespeak.” “We would obviously never run ads in the way Anthropic depicts them,” he wrote.",
+              "Anthropic, founded in 2021 by ex-OpenAI research executives who reportedly left over differences in opinions on AI safety and mission, doesn’t mention OpenAI or ChatGPT by name in its Super Bowl Sunday ad campaign.",
+              "But in contrast to OpenAI’s January news that it would soon start testing ads, Anthropic says, “Our users won’t see ‘sponsored’ links adjacent to their conversations with Claude; nor will Claude’s responses be influenced by advertisers or include third-party product placements our users did not ask for.”\nRead Article >- Anthropic’s first Super Bowl ad dunks on ChatGPT."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
+            "link": "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research",
+            "site_name": "The Verge",
+            "novelty_hash": "28919ad847c7e52c906404d6b5b8f443527ccd53"
+          },
+          "review": {
+            "headline_rewrite": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
+            "bullets": [
+              "Zuckerberg considered changing how Meta studies social issues after research got it in trouble\nThe Meta CEO said Apple seems to get away with less criticism by laying low.",
+              "“Recent events have made me consider whether we should change our approach to research and analytics around social issues,” Zuckerberg wrote in a September 15, 2021 email to top executives including then-COO Sheryl Sandberg and head of global affairs Nick Clegg.",
+              "The day before, the Journal published a story based on documents obtained from a whistleblower later revealed to be Francis Haugen, which showed the company’s own research had found that “Thirty-two percent of teen girls said that when they felt bad about their bodies, Instagram made them feel worse.” The subject line of Zuckerberg’s email read: “Social issue research and analytics — privileged and confidential.”\nThe 2021 email was unsealed Thursday after being collected in discovery by New Mexico Attorney General Raúl Torrez as part of a case alleging Meta deceptively positioned its products as safe for teens, when it was aware of harmful design choices that the state claims addicted kids and allowed for child predators to thrive.",
+              "In the complaint, the AG’s office alleged that disclosing harms Meta identified on its platforms “would have corrected the misleading and deceptive nature of its public statements proclaiming its platforms ‘safe.’” Meta spokesperson Andy Stone told The Verge in a statement that the company “is proud of our continued commitment to doing transparent, industry-leading research.",
+              "As we have for years, we continue to use these insights to make meaningful improvements, like introducing teen accounts with built-in protections and providing parents with tools to manage their teens’ experiences.”\nThe email is just one example of the kind of internal conversations expected to come to light throughout that trial, and in a series of cases with similar claims in California.",
+              "In the email, Zuckerberg wrote that it seemed Meta’s peers managed to skirt public criticism on social issues by doing far less proactive research on the harms on their platforms."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+            "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0292c9fe76e9c8ac14380568690bae22b09407d2"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+            "bullets": [
+              "On Wednesday, OpenAI CEO Sam Altman and Chief Marketing Officer Kate Rouch complained on X after rival AI lab Anthropic released four commercials, two of which will run during the Super Bowl on Sunday, mocking the idea of including ads in AI chatbot conversations.",
+              "Anthropic’s campaign seemingly touched a nerve at OpenAI just weeks after the ChatGPT maker began testing ads in a lower-cost tier of its chatbot.",
+              "Altman called Anthropic’s ads “clearly dishonest,” accused the company of being “authoritarian,” and said it “serves an expensive product to rich people,” while Rouch wrote, “Real betrayal isn’t ads.",
+              "It’s control.”\nAnthropic’s four commercials, part of a campaign called “A Time and a Place,” each open with a single word splashed across the screen: “Betrayal,” “Violation,” “Deception,” and “Treachery.” They depict scenarios where a person asks a human stand-in for an AI chatbot for personal advice, only to get blindsided by a product pitch.",
+              "In one spot, a man asks a therapist-style chatbot (a woman sitting in a chair) how to communicate better with his mom.",
+              "Each ad ends with the tagline: “Ads are coming to AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google hints at big AirDrop expansion for Android \"very soon\"",
+            "link": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "34ccd7ee43318cb424412b7936f496b5e9df3eaf"
+          },
+          "review": {
+            "headline_rewrite": "Google hints at big AirDrop expansion for Android \"very soon\"",
+            "bullets": [
+              "After adding basic AirDrop support to Pixel 10 devices last year, the company says we can look forward to seeing it on many more phones this year.",
+              "At present, the only Android phones that can initiate an AirDrop session with Apple devices are Google’s latest Pixel 10 devices.",
+              "When Google announced this upgrade, it vaguely suggested that more developments would come, and it now looks like we’ll see more AirDrop support soon.",
+              "According to Android Authority, Google is planning a big AirDrop expansion in 2026.",
+              "During an event at the company’s Taipei office, Eric Kay, Google’s VP of engineering for Android, laid out the path ahead.",
+              "“Last year, we launched AirDrop interoperability."
+            ],
+            "impact": "Positive"
+          }
+        }
+      ]
+    }
   }
 }
