@@ -133644,6 +133644,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:48": [
+        {
+          "item": {
+            "title": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/accessibility/natively-adaptive-interfaces-ai-accessibility/",
+            "site_name": "Google",
+            "novelty_hash": "e9e6c89fa11a15c3f6b230bd13adb10aa28c0e41"
+          },
+          "review": {
+            "headline_rewrite": "Natively Adaptive Interfaces: A new framework for AI accessibility",
+            "bullets": [
+              "Natively Adaptive Interfaces: A new framework for AI accessibility\nWe believe technology is at its best when it works for everyone.",
+              "That’s the idea behind Natively Adaptive Interfaces (NAI), an approach that uses AI to make accessibility a product’s default, not an afterthought.",
+              "How Natively Adaptive Interfaces work\nInstead of building accessibility features as a separate, “bolted-on” option, NAI bakes adaptability directly into a product’s design from the beginning.",
+              "For instance, an AI agent built with the NAI framework can help you accomplish tasks with your guidance and oversight, intelligently reconfiguring itself to deliver a more accessible, personalized experience.",
+              "In our research of prototypes that helped to validate this framework, a main AI agent could be used to understand your overall goal and then work with smaller, specialized agents to handle specific tasks — like making a document more accessible by adjusting the UI and scaling text for a more personalized experience.",
+              "Building with and for people with disabilities\nThe NAI framework is guided by the core principle: “Nothing about us, without us.” Developers collaborate with the disability community throughout their design and development process, ensuring the solutions they create are both useful and usable."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How Google Cloud is helping Team USA elevate their tricks with AI",
+            "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/us-ski-snowboard-tool-winter-olympics-2026/",
+            "site_name": "Google",
+            "novelty_hash": "c9ce3cfc78a9de69dc4bb80130f7aba52085e000"
+          },
+          "review": {
+            "headline_rewrite": "How Google Cloud is helping Team USA elevate their tricks with AI",
+            "bullets": [
+              "How Google Cloud is helping Team USA elevate their tricks with AI\nIn freestyle skiing and snowboarding, greatness is a game of margins.",
+              "To help Team USA athletes like snowboarder Maddie Mastro and freeskier Alex Hall find that edge, and decode the physics of their most daring tricks ahead of the Olympic Winter Games, Google Cloud has built an industry-first AI-powered video analysis platform.",
+              "The tool, which runs on Google Cloud, processes this data in minutes, often before the athlete even finishes their next chairlift ride.",
+              "Analyzing a freeskier’s technique with Google AI’s tools.",
+              "How Google AI can help athletes score big\nBy solving for some of the most extreme conditions on the mountain — and the planet — we’re demonstrating that Google AI can excel on biomechanical tasks in more conventional settings, too, whether that’s helping amateur golfers, physical therapy patients or industrial robotics labs.",
+              "“In the past, I’d have to call a friend and say, ‘Hey, do you have that shot of that trick from five years ago?’ and then I’d just flip back and forth between videos,” explains Shaun White, the former U.S."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Here’s what Xbox is working on for 2026",
+            "link": "https://www.theverge.com/tech/874303/microsoft-xbox-roadmap-2026-notepad",
+            "site_name": "The Verge",
+            "novelty_hash": "86a767210249144e926cd5e795076ab998cf82ec"
+          },
+          "review": {
+            "headline_rewrite": "Here’s what Xbox is working on for 2026",
+            "bullets": [
+              "Forza Horizon 6 is first up on May 19th, and sources at Microsoft tell me that Halo: Campaign Evolved is tentatively targeting release over the summer.",
+              "I understand Microsoft has a good idea of when both should launch, but it’s also keen to avoid being too close to Grand Theft Auto VI’s November 19th date.",
+              "Outside of the big four, I understand Double Fine is also preparing to launch its new Kiln game in April.",
+              "Microsoft is also planning to use the NPU inside the Xbox Ally X to launch a new highlight reel feature that uses AI models to automatically capture gameplay and make it easy to share the footage on social media.",
+              "It’s based on the changes Microsoft has been testing in the new desktop mode for Xbox Cloud Gaming.",
+              "It features a floating Xbox guide interface and smooth animations, and I expect to see this UI unified across Xbox consoles, PC, and cloud."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+            "link": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+            "site_name": "The Verge",
+            "novelty_hash": "47cd26e5643e3f0842c1517e4ab961dacdc36363"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+            "bullets": [
+              "The Super refresh to Nvidia’s RTX 50-series GPUs was expected at CES 2026 in January, but it didn’t make an appearance.",
+              "The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chips instead due to the limited supply of RAM currently available.",
+              "On top of that, “Nvidia is also slashing production of its current line of gaming chips,” the RTX 50-series, which are already in high demand and consistently sold out at retailers.",
+              "Nvidia’s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027\nWith a limited supply of RAM available, Nvidia is reportedly prioritizing AI over gaming.",
+              "The priority shift away from gaming GPUs follows record-breaking revenue for Nvidia, driven by its AI chips.",
+              "The RTX 50-series Super delay not only means there’s currently no new gaming GPU launch from Nvidia scheduled for this year, but it could push back next-generation cards, too."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Pacific Fusion finds a cheaper way to make its fusion reactor work",
+            "link": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6091b5a4dc448f138467b4fe1314430ffb563a25"
+          },
+          "review": {
+            "headline_rewrite": "Pacific Fusion finds a cheaper way to make its fusion reactor work",
+            "bullets": [
+              "Fusion power’s biggest question remains unanswered: how do you ensure the cost to start the fusion reaction isn’t higher than the price at which you can sell the power?",
+              "The company compresses small fuel pellets in rapid succession, and that compression causes atoms inside the fuel to fuse and release energy.",
+              "“It’s just a little bit of energy just to give it a little bit of a boost before you compress it,” LeChien said, on the order of 5% to 10% of the total energy.",
+              "But the added lasers and magnets add upfront complexity, cost, and maintenance requirements to the machine, making it that much harder to sell power at competitive prices.",
+              "“We can make very subtle changes to how this cylinder is manufactured that allow the magnetic field to leak or to seep into the fuel before it’s compressed,” LeChien said.",
+              "The casing needs to be manufactured with some precision, but nothing crazy, LeChien said — something on the order of what’s required for a .22 caliber bullet casing."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump’s critical mineral reserve is an admission that the future is electric",
+            "link": "https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f543aa8363dc8940635a53fe78e689119e076720"
+          },
+          "review": {
+            "headline_rewrite": "Trump’s critical mineral reserve is an admission that the future is electric",
+            "bullets": [
+              "Trump likened the new stockpile to the Strategic Petroleum Reserve maintained by the Department of Energy, which was set up in the wake of the oil embargo in the early 1970s.",
+              "“Just as we have long had a strategic petroleum reserve and a stockpile of critical minerals for national defense, we’re now creating this reserve for American industry, so we don’t have any problems,” Trump said.",
+              "TechCrunch Founder Summit: Tickets Live\nThe oil reserve isn’t going away, but it’s not as important as it once was, diminished by productive U.S.",
+              "Export-Import Bank is providing a $10 billion loan, with private capital rounding out the rest.",
+              "Much of the growth in critical minerals comes from clean energy technologies and EVs; without them, the market won’t be as constrained as experts have predicted.",
+              "The Trump administration hasn’t been quiet about its distain for clean energy technologies, preferring to bet on the status quo with fossil fuels."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
