@@ -134723,6 +134723,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:54": [
+        {
+          "item": {
+            "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+            "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1133d3095c2b4b5e8d6b8dd54fc51f02b1b8d5db"
+          },
+          "review": {
+            "headline_rewrite": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+            "bullets": [
+              "Sometimes, it can seem like the AI industry is racing to see who can spend the most money on data centers.",
+              "Whoever builds the most data centers will have the most compute, the thinking goes, and thus be able to build the best AI products, which will guarantee victory in the years to come.",
+              "The company announced in its earnings on Thursday that it projects $200 billion in capital expenditures throughout 2026, across “AI, chips, robotics, and low earth orbit satellites.” That’s up from the $131.8 billion in capex in 2025.",
+              "It’s tempting to attribute the whole capex budget to AI.",
+              "But unlike most of its competitors, Amazon has a significant physical plant, some of which is being converted for use by expensive robots, so the non-AI expenses aren’t so easy to wave away.",
+              "In its earnings on Wednesday, the company projected between $175 billion and $185 billion in capital expenditures for 2026, up from $91.4 billion the previous year."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Washington Post is retreating from Silicon Valley when it matters most",
+            "link": "https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0627883c319ae65a0a1cb46f349e96df25c4fe41"
+          },
+          "review": {
+            "headline_rewrite": "The Washington Post is retreating from Silicon Valley when it matters most",
+            "bullets": [
+              "Software, specifically machine learning and AI, coupled with advanced manufacturing, have delivered technology to street corners, schools, offices, factories, and even farm fields.",
+              "And it is certainly the means by which that Amazon package was ordered, sorted, and delivered to your doorstep.",
+              "Amazon co-founder, chairman, and Washington Post owner Jeff Bezos is third, behind just Meta co-founder and CEO Mark Zuckerberg and serial entrepreneur Elon Musk, according to Forbes, which tracks wealth and the people who have it.",
+              "Oracle co-founder Larry Ellison, Google co-founders Larry Page and Sergey Brin, and former Microsoft CEO Steve Ballmer round out the list.",
+              "The newspaper also laid off staff covering the media industry (which had previously reported on Bezos’ ownership over their own paper).",
+              "The Post cut its entire sports bureau and nearly annihilated its foreign reporting teams, including its Middle East desk, and reporters and their editors covering Ukraine, Russia, Iran, Turkey, and others."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Loyalty Is Dead in Silicon Valley",
+            "link": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
+            "site_name": "WIRED",
+            "novelty_hash": "695450236d7f9947cbfcd804ff4e8fd3daead233"
+          },
+          "review": {
+            "headline_rewrite": "Loyalty Is Dead in Silicon Valley",
+            "bullets": [
+              "Since the middle of last year, there have been at least three major AI “acqui-hires” in Silicon Valley.",
+              "Meta invested more than $14 billion in Scale AI and brought on its CEO, Alexandr Wang; Google spent a cool $2.4 billion to license Windsurf’s technology and fold its cofounders and research teams into DeepMind; and Nvidia wagered $20 billion on Groq’s inference technology and hired its CEO and other staffers.",
+              "The frontier AI labs, meanwhile, have been playing a high stakes and seemingly never-ending game of talent musical chairs.",
+              "The latest reshuffle began three weeks ago, when OpenAI announced it was rehiring several researchers who had departed less than two years earlier to join Mira Murati’s startup, Thinking Machines.",
+              "At the same time, Anthropic, which was itself founded by former OpenAI staffers, has been poaching talent from the ChatGPT maker.",
+              "OpenAI, in turn, just hired a former Anthropic safety researcher to be its “head of preparedness.”\nThe hiring churn happening in Silicon Valley represents the “great unbundling” of the tech startup, as Dave Munichiello, an investor at GV, put it."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI companies want you to stop chatting with bots and start managing them",
+            "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "39c94f6a4bb923a5e78cd9e148c3de057984e9d2"
+          },
+          "review": {
+            "headline_rewrite": "AI companies want you to stop chatting with bots and start managing them",
+            "bullets": [
+              "On Thursday, Anthropic and OpenAI shipped products built around the same idea: instead of chatting with a single AI assistant, users should be managing teams of AI agents that divide up work and run in parallel.",
+              "The simultaneous releases are part of a gradual shift across the industry, from AI as a conversation partner to AI as a delegated workforce, and they arrive during a week when that very concept reportedly helped wipe $285 billion off software stocks.",
+              "Whether that supervisory model works in practice remains an open question.",
+              "Current AI agents still require heavy human intervention to catch errors, and no independent evaluation has confirmed that these multi-agent tools reliably outperform a single developer working alone.",
+              "Anthropic’s contribution is Claude Opus 4.6, a new version of its most capable AI model, paired with a feature called “agent teams” in Claude Code.",
+              "Agent teams let developers spin up multiple AI agents that split a task into independent pieces, coordinate autonomously, and run concurrently."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube",
+            "link": "https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing",
+            "site_name": "The Verge",
+            "novelty_hash": "12b18491fb177b43a8bfbde980e6cd37902a1fb9"
+          },
+          "review": {
+            "headline_rewrite": "Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube",
+            "bullets": [
+              "What started as a standard antitrust hearing relating to the Warner Bros.",
+              "merger quickly devolved into a performative Republican attack about the spread of “woke” ideology on the streaming service.",
+              "Josh Hawley (R-MO) launched into a completely different line of questioning: “Why is it that so much of Netflix content for children promotes a transgender ideology?” Hawley asked, making an unsubstantiated claim that “almost half” of the platform’s children’s content contains so-called “transgender ideology.” The statement harkened to a pressure campaign launched by Elon Musk months ago in which he called on X users to unsubscribe from Netflix for having a “transgender woke agenda,” citing its few shows with trans characters — shows that were canceled years ago.",
+              "“Our business intent is to entertain the world,” Sarandos replied.",
+              "It seemed like they were grasping at straws to support their narrative that Netflix’s acquisition of Warner Bros.",
+              "“My concern is that you don’t share my values or those of many other American parents, and you want the United States government to allow you to become one of the largest — if not the largest — streaming monopolist in the world,” Hawley said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Roblox is working to pull in adult players",
+            "link": "https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players",
+            "site_name": "The Verge",
+            "novelty_hash": "7758a12be706e700df07ee6ae8c8c6d7f152e751"
+          },
+          "review": {
+            "headline_rewrite": "Roblox is working to pull in adult players",
+            "bullets": [
+              "After rolling out age verification last year, Roblox is aiming to grow the number of players over 18 on its platform.",
+              "As noted in its 2025 year-end earnings report, 45 percent of Roblox’s daily active users have completed an age check as of January 31st.",
+              "Roblox is working to pull in adult players\nThe shift will prioritize “high-fidelity” shooters, RPGs, sports, and racing games to attract more players over 18\nRoblox is planning to try to pull in more adult players by expanding certain “high-fidelity” genres on its platform, as the earnings report notes: “We are prioritizing some of the largest and highest-monetizing genres in the gaming market—e.g.",
+              "Most Popular\n- Everyone is stealing TV\n- Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing\n- Ikea’s cheap new smart home gear is struggling to get connected\n- I drove three Chinese cars — here’s why they would clean up in the US\n- Apple TV details its 2026 streaming lineup with big list of announcements"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
