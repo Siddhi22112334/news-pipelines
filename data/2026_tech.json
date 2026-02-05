@@ -134245,6 +134245,119 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:59": [
+        {
+          "item": {
+            "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+            "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "63ad686252f70ba813614f3443520f3c56d3542b"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+            "bullets": [
+              "On Monday, OpenAI launched Codex, an agentic coding tool marketed to software developers.",
+              "Today, OpenAI also launched a new model designed to turbo-charge Codex: GPT-5.3 Codex.",
+              "The company says that the model transforms Codex from an agent that can merely “write and review code” to one that can do “nearly anything developers and professionals do on a computer, expanding who can build software and how work gets done.” Having tested its new model against a number of performance benchmarks, OpenAI claims that it can create “highly functional complex games and apps from scratch over the course of days.”\nOpenAI says that GPT-5.3 Codex is also 25 percent faster than its previous model (GPT-5.2) and that it was the company’s first model that “was instrumental in creating itself,” meaning that the company’s staff used early versions of the program to debug itself and evaluate how it was performing.",
+              "Indeed, OpenAI and Anthropic had originally planned to release their two agentic coding tools at the exact same time: 10 a.m.",
+              "However, not long before the original release time, Anthropic moved its release date up by 15 minutes, slightly besting OpenAI in the race to publicize the models."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A16z VC wants founders to stop stressing over insane ARR numbers",
+            "link": "https://techcrunch.com/2026/02/05/a16z-vc-wants-founders-to-stop-stressing-over-insane-arr-numbers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7db7e0f2e90fb4ed6f5ae5df146905058cc4d603"
+          },
+          "review": {
+            "headline_rewrite": "A16z VC wants founders to stop stressing over insane ARR numbers",
+            "bullets": [
+              "The AI investing boom (or perhaps bubble) is something Silicon Valley has seen many times before: a gold rush of VC money thrown at the Big New Thing.",
+              "Word on the street is that many a VC won’t even look at a startup that’s not on the ARR superhighway, aiming for $100 million in ARR before their Series A funding round.",
+              "But Andreessen Horowitz general partner Jennifer Li, who helps oversee many of the firm’s most important AI companies, warns that some of the ARR mania is based on myths.",
+              "“Not all ARR is created equal, and not all growth is equal either,” Li said on an episode of TechCrunch’s Equity podcast.",
+              "She said to be especially skeptical of a founder announcing spectacular ARR numbers or growth in a tweet.",
+              "But what many of these founders are tweeting about is really “revenue run rate” — taking whatever money was paid in a period of time and annualizing it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Iron Lung’s path to theaters was unique, even if the movie isn’t",
+            "link": "https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier",
+            "site_name": "The Verge",
+            "novelty_hash": "9523f4e0c7801981fa64be86812e19724544146e"
+          },
+          "review": {
+            "headline_rewrite": "Iron Lung’s path to theaters was unique, even if the movie isn’t",
+            "bullets": [
+              "In 2022 Szymanski joked about Markiplier starring in an Iron Lung movie, a trailer dropped a year later, and now the final product is in theaters as Markiplier’s first feature film.",
+              "It uses so many of the same conceits: a guide character who is mostly just a voice over a speaker; diegetic storytelling elements like instruction manuals and big displays that reveal how deep the sub is and how much oxygen is left; audio logs that reveal important plot details; and a gear upgrade midway through.",
+              "That said, as a first feature film effort, Iron Lung shows a lot of promise, even if it never fully comes together in the end.",
+              "That put it just behind Sam Raimi’s Send Help, a 20th Century Studios production, and well ahead of Amazon’s very expensive documentary about Melania Trump.",
+              "But those movies also had the studio might (and money) of the A24 name behind them, whereas Iron Lung is a much more grassroots affair.",
+              "“There were just so many people that asked [the theater chains to screen it],” he told The Hollywood Reporter."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The price of Bitcoin drops below $65,000",
+            "link": "https://www.theverge.com/tech/874603/bitcoin-price-drop-cryptocurrency",
+            "site_name": "The Verge",
+            "novelty_hash": "27caf254bb3f19efd79eb240595b02967cf29d09"
+          },
+          "review": {
+            "headline_rewrite": "The price of Bitcoin drops below $65,000",
+            "bullets": [
+              "- Bitcoin has effectively erased “all gains since its $69,000 all-time high in November 2021,” according to The Block.",
+              "- FT Alphaville apologized for earlier posts that “may have communicated the idea that bitcoin is a negative-sum game” and “an arbitrary hype gauge that’s disconnected from any utility the token may have,” saying “We stand by every single one of those posts.”\nMost Popular\n- Everyone is stealing TV\n- Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing\n- Ikea’s cheap new smart home gear is struggling to get connected\n- I drove three Chinese cars — here’s why they would clean up in the US\n- Apple TV details its 2026 streaming lineup with big list of announcements"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+            "link": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "13405d7e9e1262a8ede6108198ae9d442c200132"
+          },
+          "review": {
+            "headline_rewrite": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+            "bullets": [
+              "That’s the style of Internet that Kyle Drake, Neocities’ founder, strives to maintain.",
+              "Monitoring stats, Drake was stunned to see that Bing traffic had suddenly dropped from about half a million daily visitors to zero."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
+            "link": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
+            "site_name": "WIRED",
+            "novelty_hash": "1e64fdf52551d10d1fcdc478467acd65832bd0dd"
+          },
+          "review": {
+            "headline_rewrite": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
+            "bullets": [
+              "The Department of Homeland Security launched Mobile Fortify in the spring of 2025 to “determine or verify” the identities of individuals stopped or detained by DHS officers during federal operations, records show.",
+              "DHS explicitly linked the rollout to an executive order, signed by President Donald Trump on his first day in office, which called for a “total and efficient” crackdown on undocumented immigrants through the use of expedited removals, expanded detention, and funding pressure on states, among other tactics.",
+              "\"Every manufacturer of this technology, every police department with a policy makes very clear that face recognition technology is not capable of providing a positive identification, that it makes mistakes, and that it's only for generating leads,\" says Nathan Wessler, deputy director of the American Civil Liberties Union’s Speech, Privacy, and Technology Project.",
+              "DHS—which has declined to detail the methods and tools that agents are using, despite repeated calls from oversight officials and nonprofit privacy watchdogs—has used Mobile Fortify to scan the faces not only of “targeted individuals,” but also people later confirmed to be US citizens and others who were observing or protesting enforcement activity.",
+              "Fortify's technology mobilizes facial capture hundreds of miles from the US border, allowing DHS to generate nonconsensual face prints of people who, “it is conceivable,” DHS’s Privacy Office says, are “US citizens or lawful permanent residents.” As with the circumstances surrounding its deployment to agents with Customs and Border Protection and Immigration and Customs Enforcement, Fortify’s functionality is visible mainly today through court filings and sworn agent testimony.",
+              "In a federal lawsuit this month, attorneys for the State of Illinois and the City of Chicago said the app had been used \"in the field over 100,000 times\" since launch."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
