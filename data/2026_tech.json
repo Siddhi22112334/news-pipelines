@@ -137276,6 +137276,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:56": [
+        {
+          "item": {
+            "title": "The quantum era is coming. Are we ready to secure it?",
+            "link": "https://blog.google/innovation-and-ai/technology/safety-security/the-quantum-era-is-coming-are-we-ready-to-secure-it/",
+            "site_name": "Google",
+            "novelty_hash": "18548dba810b984d8e4cda860aee427e1f81cce7"
+          },
+          "review": {
+            "headline_rewrite": "The quantum era is coming. Are we ready to secure it?",
+            "bullets": [
+              "To put that plainly: The encryption currently used to keep your information confidential and secure could easily be broken by a large-scale quantum computer in coming years.",
+              "And while we’re not there yet, malicious actors are not waiting until a Cryptographically Relevant Quantum Computer (CRQC) is ready.",
+              "They are likely already carrying out “store now, decrypt later” attacks and collecting encrypted data, just waiting for the day when a quantum computer can unlock it.",
+              "Today, we are sharing an update to our work to keep users safer in the quantum era, and making a few suggestions for how policymakers can help everyone be more secure.",
+              "First, some context: The security community hasn’t been sitting idly by as bad actors harvest data for future quantum-powered decryption attacks.",
+              "We have been preparing for a post-quantum world since 2016, conducting pioneering experiments with post-quantum cryptography, rolling out post-quantum capabilities in our products, and sharing our expertise through threat models and technical papers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+            "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dac3cba58f91972b8cc21416a626d8acaab0b884"
+          },
+          "review": {
+            "headline_rewrite": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+            "bullets": [
+              "Let’s explore the biggest moments from this year’s Big Game ads, which featured everything from robots and AI glasses to a touch of drama involving tech founders.",
+              "Svedka\nVodka brand Svedka went with what it touts as the first “primarily” AI-generated national Super Bowl spot.",
+              "According to Svedka’s parent company, Sazerac, it took roughly four months to reconstruct the Fembot and train the AI to mimic facial expressions and body movements, The Wall Street Journal reported.",
+              "However, the vodka brand noted that certain aspects were still handled by humans, such as developing the storyline.",
+              "The company partnered with AI company Silverside to create the Super Bowl spot, according to ADWEEK.",
+              "Silverside AI is the same team behind recent AI-generated Coca-Cola commercials that sparked controversy."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "We found 20 Verge-approved gifts on sale ahead of Valentine’s Day",
+            "link": "https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "7e924eb71ff775573ff883dd54ce62893902f3bf"
+          },
+          "review": {
+            "headline_rewrite": "We found 20 Verge-approved gifts on sale ahead of Valentine’s Day",
+            "bullets": [
+              "The latest Powerbeats Pro are a no-brainer for athletes.",
+              "It also adds Alexa Plus, a faster chip, and new sensors, so it handles more complex tasks than its predecessor, though bear in mind it doesn’t always do so reliably.",
+              "They’re now available for $9.99 ($5 off) at Amazon and Target, about $3 more than their best price to date.",
+              "The 120-piece kit lets you build two red roses with adjustable stems and green leaves, so you can arrange them in a vase or pair them with other Lego botanical sets.",
+              "It looks spiffy and has a wide array of health tracking features, plus built-in GPS and AI chatbots to provide extra context to your data.",
+              "The smartwatch stands out for its great health and fitness tracking features, which include dual-frequency GPS and retroactive AI-powered activity recognition."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple might let you use ChatGPT from CarPlay",
+            "link": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
+            "site_name": "The Verge",
+            "novelty_hash": "797ce368c91d91dd42ce5baef287a3f3b0e6a424"
+          },
+          "review": {
+            "headline_rewrite": "Apple might let you use ChatGPT from CarPlay",
+            "bullets": [
+              "As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others.",
+              "Apple might let you use ChatGPT from CarPlay\nA rumored update would open the door for voice-controlled third-party AI apps."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "It just got easier for Claude to check in on your WordPress site",
+            "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5f541e6bcbbf8418200f158e314672d29456cf0b"
+          },
+          "review": {
+            "headline_rewrite": "It just got easier for Claude to check in on your WordPress site",
+            "bullets": [
+              "On Thursday, WordPress launched a new Claude connector, enabling site owners to share back-end data with Anthropic’s chatbot system.",
+              "However, last year WP claimed that it would eventually deliver “write” access to the MCP integration, presumably allowing users to conduct editorial tasks directly from a connected chatbot of their choosing.",
+              "WordPress has also provided a list of template prompts for the chatbot—stuff like “Show me pending comments on my blog” or “Which of my sites gets the most traffic?” or “Show me which posts are generating the most discussion.” Others functions include comment management (“Show me pending comments on my blog”) and plugin management (“What plugins are installed on my main site?”)."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Randomly quoting Ray Bradbury did not save lawyer from losing case over AI errors",
+            "link": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "63dd42de3f55b114a8db616d367502e44bcfb337"
+          },
+          "review": {
+            "headline_rewrite": "Randomly quoting Ray Bradbury did not save lawyer from losing case over AI errors",
+            "bullets": [
+              "Frustrated by fake citations and flowery prose packed with “out-of-left-field” references to ancient libraries and Ray Bradbury’s Fahrenheit 451, a New York federal judge took the rare step of terminating a case this week due to a lawyer’s repeated misuse of AI when drafting filings.",
+              "In an order on Thursday, district judge Katherine Polk Failla ruled that the extraordinary sanctions were warranted after an attorney, Steven Feldman, kept responding to requests to correct his filings with documents containing fake citations.",
+              "One of those filings was “noteworthy,” Failla said, “for its conspicuously florid prose.” Where some of Feldman’s filings contained grammatical errors and run-on sentences, this filing seemed glaringly different stylistically.",
+              "It featured, the judge noted, “an extended quote from Ray Bradbury’s Fahrenheit 451 and metaphors comparing legal advocacy to gardening and the leaving of indelible ‘mark[s] upon the clay.’” The Bradbury quote is below:\n“Everyone must leave something behind when he dies, my grandfather said.",
+              "A child or a book or a painting or a house or a wall built or a pair of shoes made.",
+              "It doesn’t matter what you do, he said, so long as you change something from the way it was before you touched it into something that’s like you after you take your hands away."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
