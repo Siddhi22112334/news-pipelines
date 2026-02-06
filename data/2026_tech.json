@@ -136938,6 +136938,117 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:25": [
+        {
+          "item": {
+            "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+            "link": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2fe2f84d8b58d7b6e1389439b9fb590b36dd6b99"
+          },
+          "review": {
+            "headline_rewrite": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+            "bullets": [
+              "The spread between what EWR companies would like to charge and what buyers would like to pay remains wide, according to a survey by CDR.fyi.",
+              "Terradot’s investor list includes Gigascale Capital, Google, Kleiner Perkins, and Microsoft, while Eion’s investors include AgFunder, Mercator Partners, and Overture."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple might let you use ChatGPT from CarPlay",
+            "link": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
+            "site_name": "The Verge",
+            "novelty_hash": "797ce368c91d91dd42ce5baef287a3f3b0e6a424"
+          },
+          "review": {
+            "headline_rewrite": "Apple might let you use ChatGPT from CarPlay",
+            "bullets": [
+              "As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others.",
+              "Apple might let you use ChatGPT from CarPlay\nA rumored update would open the door for voice-controlled third-party AI apps."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Maybe AI agents can be lawyers after all",
+            "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9112c93d61fa8e8eeff3676b7cab24c79b31c549"
+          },
+          "review": {
+            "headline_rewrite": "Maybe AI agents can be lawyers after all",
+            "bullets": [
+              "Last month, I wrote about Mercor’s new benchmark measuring AI agents’ capabilities on professional tasks like law and corporate analysis.",
+              "At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.",
+              "But AI capabilities can change a lot in a couple of weeks.",
+              "Mercor CEO Brendan Foody, who was particularly impressed, said, “jumping from 18.4% to 29.8% in a few months is insane.”\nThirty percent is still a long way from 100%, so it’s not like lawyers need to be worried about getting replaced by machines next week."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This is the Trump Phone",
+            "link": "https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson",
+            "site_name": "The Verge",
+            "novelty_hash": "d601534820d62eade1b8d851e381c11c85798f5f"
+          },
+          "review": {
+            "headline_rewrite": "This is the Trump Phone",
+            "bullets": [
+              "Not in the flesh, but during an hourlong video call with two Trump Mobile executives who showed me a phone, and told me more about why it was delayed, when it might actually reach buyers, and why its spec sheet has changed again and again.",
+              "The T1 Phone that Thomas shows me over Google Meet isn’t a final production model, but apparently it’s close.",
+              "The T1 logo — seen since the first renders of the phone — will apparently be dropped before launch, though the American flag at the bottom will remain, as will the signature gold finish.",
+              "The iPhone-esque camera triangle has been replaced by three lenses laid out vertically in a black, oval island with “Trump Mobile” written alongside.",
+              "It will be powered by a Qualcomm Snapdragon 7 series chipset, usually used in upper-midrange devices, and include a 5,000mAh battery, 512GB of storage, and support for up to 1TB microSD cards.",
+              "I don’t know the full camera spec just yet, but I was told that both the selfie camera and the main rear camera are using 50-megapixel sensors, and a glimpse of the camera UI suggests the inclusion of an ultrawide lens and perhaps a telephoto, neither of which had been listed before."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Waymo leverages Genie 3 to create a world model for self-driving cars",
+            "link": "https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "04c38921a5f33fce5f690cee31cf0678ccdb120f"
+          },
+          "review": {
+            "headline_rewrite": "Waymo leverages Genie 3 to create a world model for self-driving cars",
+            "bullets": [
+              "Waymo touts more than 200 million miles of driving that informs how the vehicles navigate roads, but the company’s AI has also driven billions of miles virtually, and there’s a lot more to come with the new Waymo World Model.",
+              "Based on Google DeepMind’s Genie 3, Waymo says the model can create “hyper-realistic” simulated environments that train the AI on situations that are rarely (or never) encountered in real life—like snow on the Golden Gate Bridge.",
+              "Until recently, the autonomous driving industry relied entirely on training data collected from real cars and real situations.",
+              "That means rare, potentially dangerous events are not well represented in training data.",
+              "The Waymo World Model aims to address that by allowing engineers to create simulations with simple prompts and driving inputs.",
+              "With Genie 3, the model can remember details for several minutes."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "COVID-19 cleared the skies but also supercharged methane emissions",
+            "link": "https://arstechnica.com/science/2026/02/covid-19-cleared-the-skies-but-also-supercharged-methane-emissions/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "67d94470ef39885e8695d365335f1a4e298a236c"
+          },
+          "review": {
+            "headline_rewrite": "COVID-19 cleared the skies but also supercharged methane emissions",
+            "bullets": [
+              "In the spring of 2020, as the COVID-19 pandemic brought global industry and travel nearly to a halt, satellite sensors recorded a dramatic plunge in nitrogen dioxide, a byproduct of internal combustion engines and heavy industry.",
+              "For a moment, the world’s air was cleaner than it had been in decades.",
+              "An atmospheric cleaner\nWhen nitrogen oxide levels plummeted by approximately 15 to 20 percent globally during the 2020 lockdowns, the production of the hydroxyl radical slowed to a crawl.",
+              "Without enough of these to go around, methane molecules that would have normally been destroyed remained in the atmosphere for longer.",
+              "The cleaner our air became, the longer the methane stuck around to warm the planet."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
