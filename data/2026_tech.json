@@ -135987,6 +135987,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "20:24": [
+        {
+          "item": {
+            "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+            "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "07c774bc663959226f1fe0f033d64863fbb55aac"
+          },
+          "review": {
+            "headline_rewrite": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+            "bullets": [
+              "OpenAI announced last week that it will retire some older ChatGPT models by February 13.",
+              "He was part of my routine, my peace, my emotional balance,” one user wrote on Reddit as an open letter to OpenAI CEO Sam Altman.",
+              "Like warmth.”\nThe backlash over GPT-4o’s retirement underscores a major challenge facing AI companies: the engagement features that keep users coming back can also create dangerous dependencies.",
+              "OpenAI now faces eight lawsuits alleging that 4o’s overly validating responses contributed to suicides and mental health crises — the same traits that made users feel heard also isolated vulnerable individuals and, according to legal filings, sometimes encouraged self-harm.",
+              "It’s a dilemma that extends beyond OpenAI.",
+              "As rival companies like Anthropic, Google, and Meta compete to build more emotionally intelligent AI assistants, they’re also discovering that making chatbots feel supportive and making them safe may mean making very different design choices."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI is helping solve the labor issue in treating rare diseases",
+            "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bd5f301d8c8d40a8cd3919f5e12ba26b29cf6375"
+          },
+          "review": {
+            "headline_rewrite": "How AI is helping solve the labor issue in treating rare diseases",
+            "bullets": [
+              "Modern biotech has the tools to edit genes and design drugs, yet thousands of rare diseases remain untreated.",
+              "AI, they say, is becoming the force multiplier that lets scientists take on problems the industry has long left untouched.",
+              "Speaking this week at Web Summit Qatar, Insilico’s CEO and founder Alex Aliper laid out his company’s aim to develop “pharmaceutical superintelligence.” Insilico recently launched its “MMAI Gym” that aims to train generalist large language models, like ChatGPT and Gemini, to perform as well as specialist models.",
+              "“We really need this technology to increase the productivity of our pharmaceutical industry and tackle the shortage of labor and talent in that space, because there are still thousands of diseases without a cure, without any treatment options, and there are thousands of rare disorders which are neglected,” Aliper said in an interview with TechCrunch.",
+              "“So we need more intelligent systems to tackle that problem.”\nFor example, the company recently used its AI models to identify whether existing drugs could be repurposed to treat ALS, a rare neurological disorder.",
+              "Even when AI can identify promising targets or therapies, many diseases require interventions at a more fundamental biological level."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How Epstein became a tech influencer",
+            "link": "https://www.theverge.com/podcast/874768/epstein-files-tech-anthropic-ads-vergecast",
+            "site_name": "The Verge",
+            "novelty_hash": "075b10b7a9cb2884cc0e5132792a1574747bb26f"
+          },
+          "review": {
+            "headline_rewrite": "How Epstein became a tech influencer",
+            "bullets": [
+              "These men (and they’re pretty much all men) had wildly varying degrees of interaction with Epstein, and the details matter a great deal.",
+              "On this episode of The Vergecast, David and Nilay start the show by talking about the latest tranche of emails from the Epstein files, both what we’ve learned and the deeply strange way in which they’re being disseminated.",
+              "After that, it’s time for the other thing capturing tech minds this week: Anthropic’s Super Bowl ads, which isn’t explicitly a shot at OpenAI’s plan to introduce ads to ChatGPT but is also very clearly exactly that.",
+              "The ads started a debate about both how we use AI and how we pay for it and also made it a little clearer how precarious OpenAI’s position is right now.",
+              "Finally, in the lightning round, we do a round of Brendan Carr is a Dummy, celebrate Google Home’s button support, and wonder when we’ll ever be able to buy gadgets again.",
+              "If you want to know more about everything we discuss in this episode, here are some links to get you started, first on the Epstein files:\n- The Epstein files\n- How the men in the Epstein files defeated #MeToo\n- From Garbage Day: Here’s how Epstein broke the internet\n- Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit\n- Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’\n- It turns out Elon Musk didn’t exactly ‘refuse’ the invite to Jeffrey Epstein’s island."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Can China’s No. 2 automaker make it in America?",
+            "link": "https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions",
+            "site_name": "The Verge",
+            "novelty_hash": "43b655c25c5f30011becf70bfeea6df8000f64b0"
+          },
+          "review": {
+            "headline_rewrite": "Can China’s No. 2 automaker make it in America?",
+            "bullets": [
+              "Geely may build cars in the US, but their software still has to follow cybersecurity restrictions.",
+              "It’s already sailed past one of two hurdles any of them need to clear to do that: Its Volvo Cars division already has an assembly plant in South Carolina that would let it build its cars domestically.",
+              "The bans sought to avert several types of national security risk.",
+              "One goal was to prevent an adversary government from gaining access to the cars via telematics to control their movements — whether taking over the driving remotely or mass-disabling them.",
+              "The fear is that the vehicles could record voice and facial recognition data, their travel patterns, their contacts, their phone calls, and much more — all of which could be used to train artificial intelligence programs.",
+              "A final goal, broadly, was to prevent vehicles produced by makers in those countries from capturing detailed images and data on US roads and the built environment through which the cars traveled."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "EU says TikTok needs to drop \"addictive design\"",
+            "link": "https://www.ft.com/content/3d19372c-4922-4cdd-896c-8e3a81ecd3ba",
+            "site_name": "Ars Technica",
+            "novelty_hash": "631116d4061e856a42adde842e7ed6e00b81f22e"
+          },
+          "review": {
+            "headline_rewrite": "EU says TikTok needs to drop \"addictive design\"",
+            "bullets": [
+              "Brussels has warned TikTok that its endlessly scrolling feeds may breach Europe’s new content rules, as regulators press ahead with efforts to rein in the social effects of big online platforms.",
+              "In preliminary findings issued on Friday, the European Commission said it believed the group had failed to adequately assess and mitigate the risks posed by addictive design features that could harm users’ physical and mental wellbeing, particularly children and other vulnerable groups.",
+              "The warning marks one of the most advanced tests yet of the EU’s Digital Services Act, which requires large online platforms to identify and curb systemic risks linked to their products.",
+              "By constantly “rewarding” users with new content, TikTok’s design fuels the urge to keep scrolling and shift the brain of users into “autopilot mode,” the Commission said.",
+              "“Social media addiction can have detrimental effects on the developing minds of children and teens,” said Henna Virkkunen, the EU’s tech chief."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Engadget Podcast: So there’s a social network for AI agents now",
+            "link": "https://www.engadget.com/ai/engadget-podcast-so-theres-a-social-network-for-ai-agents-now-133000813.html",
+            "site_name": "Engadget",
+            "novelty_hash": "dadfe461e11b5aeee57c119a622925e5130399ef"
+          },
+          "review": {
+            "headline_rewrite": "Engadget Podcast: So there’s a social network for AI agents now",
+            "bullets": [
+              "If you haven't heard, there's now a social network for AI: Moltbook, a site that purportedly features AI agents talking to each other.",
+              "That includes OpenClaw, a personal AI agent (formerly called Clawdbot and Moltbot) that's open source and free for anyone to run on their systems.",
+              "In this episode, Devindra and Senior Reporter Karissa Bell discuss the rise of these services, and the potential future that AI agents may have for all of us.",
+              "– 1:31\nAnthropic reinforces its commitment against ads with Super Bowl ad spots – 19:32\nSpaceX acquires xAI and plans for a mega IPO – 27:08\nAlexa + rolls out free for all Amazon Prime subscribers – 33:36\nAround Engadget: Reviews of the New AirTag and Switch Virtual Boy – 44:12\nWorking on – 46:34\nPop culture picks – 49:24\nCredits\nHosts: Devindra Hardawar and Karissa Bell\nProducer: Ben Ellman\nMusic: Dale North and Terrence O’Brien\nIf you buy something through a link in this article, we may earn commission."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
