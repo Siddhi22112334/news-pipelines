@@ -137049,6 +137049,118 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:53": [
+        {
+          "item": {
+            "title": "The quantum era is coming. Are we ready to secure it?",
+            "link": "https://blog.google/innovation-and-ai/technology/safety-security/the-quantum-era-is-coming-are-we-ready-to-secure-it/",
+            "site_name": "Google",
+            "novelty_hash": "d0e29941c0255bd8e5645b7d95ccfe9e01caac0a"
+          },
+          "review": {
+            "headline_rewrite": "The quantum era is coming. Are we ready to secure it?",
+            "bullets": [
+              "To put that plainly: The encryption currently used to keep your information confidential and secure could easily be broken by a large-scale quantum computer in coming years.",
+              "And while we’re not there yet, malicious actors are not waiting until a Cryptographically Relevant Quantum Computer (CRQC) is ready.",
+              "They are likely already carrying out “harvest now, decrypt later” attacks and collecting encrypted data, just waiting for the day when a quantum computer can unlock it.",
+              "Today, we are sharing an update to our work to keep users safer in the quantum era, and making a few suggestions for how policymakers can help everyone be more secure.",
+              "First, some context: The security community hasn’t been sitting idly by as bad actors harvest data for future quantum-powered decryption attacks.",
+              "We have been preparing for a post-quantum world since 2016, conducting pioneering experiments with post-quantum cryptography, rolling out post-quantum capabilities in our products, and sharing our expertise through threat models and technical papers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+            "link": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "2fe2f84d8b58d7b6e1389439b9fb590b36dd6b99"
+          },
+          "review": {
+            "headline_rewrite": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
+            "bullets": [
+              "The spread between what EWR companies would like to charge and what buyers would like to pay remains wide, according to a survey by CDR.fyi.",
+              "Terradot’s investor list includes Gigascale Capital, Google, Kleiner Perkins, and Microsoft, while Eion’s investors include AgFunder, Mercator Partners, and Overture."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple might let you use ChatGPT from CarPlay",
+            "link": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
+            "site_name": "The Verge",
+            "novelty_hash": "797ce368c91d91dd42ce5baef287a3f3b0e6a424"
+          },
+          "review": {
+            "headline_rewrite": "Apple might let you use ChatGPT from CarPlay",
+            "bullets": [
+              "As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others.",
+              "Apple might let you use ChatGPT from CarPlay\nA rumored update would open the door for voice-controlled third-party AI apps."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Maybe AI agents can be lawyers after all",
+            "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9112c93d61fa8e8eeff3676b7cab24c79b31c549"
+          },
+          "review": {
+            "headline_rewrite": "Maybe AI agents can be lawyers after all",
+            "bullets": [
+              "Last month, I wrote about Mercor’s new benchmark measuring AI agents’ capabilities on professional tasks like law and corporate analysis.",
+              "At the time, the scores were pretty dismal, with every major lab scoring under 25%, so we concluded lawyers were safe from AI displacement, at least for now.",
+              "But AI capabilities can change a lot in a couple of weeks.",
+              "Mercor CEO Brendan Foody, who was particularly impressed, said, “jumping from 18.4% to 29.8% in a few months is insane.”\nThirty percent is still a long way from 100%, so it’s not like lawyers need to be worried about getting replaced by machines next week."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This is the Trump Phone",
+            "link": "https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson",
+            "site_name": "The Verge",
+            "novelty_hash": "d601534820d62eade1b8d851e381c11c85798f5f"
+          },
+          "review": {
+            "headline_rewrite": "This is the Trump Phone",
+            "bullets": [
+              "Not in the flesh, but during an hourlong video call with two Trump Mobile executives who showed me a phone, and told me more about why it was delayed, when it might actually reach buyers, and why its spec sheet has changed again and again.",
+              "The T1 Phone that Thomas shows me over Google Meet isn’t a final production model, but apparently it’s close.",
+              "The T1 logo — seen since the first renders of the phone — will apparently be dropped before launch, though the American flag at the bottom will remain, as will the signature gold finish.",
+              "The iPhone-esque camera triangle has been replaced by three lenses laid out vertically in a black, oval island with “Trump Mobile” written alongside.",
+              "It will be powered by a Qualcomm Snapdragon 7 series chipset, usually used in upper-midrange devices, and include a 5,000mAh battery, 512GB of storage, and support for up to 1TB microSD cards.",
+              "I don’t know the full camera spec just yet, but I was told that both the selfie camera and the main rear camera are using 50-megapixel sensors, and a glimpse of the camera UI suggests the inclusion of an ultrawide lens and perhaps a telephoto, neither of which had been listed before."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Waymo leverages Genie 3 to create a world model for self-driving cars",
+            "link": "https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "04c38921a5f33fce5f690cee31cf0678ccdb120f"
+          },
+          "review": {
+            "headline_rewrite": "Waymo leverages Genie 3 to create a world model for self-driving cars",
+            "bullets": [
+              "Waymo touts more than 200 million miles of driving that informs how the vehicles navigate roads, but the company’s AI has also driven billions of miles virtually, and there’s a lot more to come with the new Waymo World Model.",
+              "Based on Google DeepMind’s Genie 3, Waymo says the model can create “hyper-realistic” simulated environments that train the AI on situations that are rarely (or never) encountered in real life—like snow on the Golden Gate Bridge.",
+              "Until recently, the autonomous driving industry relied entirely on training data collected from real cars and real situations.",
+              "That means rare, potentially dangerous events are not well represented in training data.",
+              "The Waymo World Model aims to address that by allowing engineers to create simulations with simple prompts and driving inputs.",
+              "With Genie 3, the model can remember details for several minutes."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
