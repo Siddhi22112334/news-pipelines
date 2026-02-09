@@ -144465,6 +144465,82 @@
             "impact": "Positive"
           }
         }
+      ],
+      "11:27": [
+        {
+          "item": {
+            "title": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
+            "site_name": "The Verge",
+            "novelty_hash": "a713ac3039ce5ae26a8eb955c189303c71dae724"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
+            "bullets": [
+              "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax\nNo, that isn’t Alexander Skarsgård playing around with Jony Ive and OpenAI’s first ChatGPT hardware gadget.",
+              "OpenAI president Greg Brockman commented on X with a tweet calling the story “fake news,” and OpenAI spokesperson Lindsay McCallum Rémy wrote, “this is totally fake.”\nWhoever was behind this hoax had been working on it for some time and approached spreading their story on multiple fronts.",
+              "Max Weinbach tweeted screenshots of an email he’d received a week ago proposing promotion of a tweet about an OpenAI hardware teaser ad featuring Alexander Skarsgård, which apparently came with a real $1,146.12 payment.",
+              "And AdAge reporter Gillian Follett tweeted earlier today about a “fake headline” attributed to her, falsely portraying a story about OpenAI changing its Super Bowl ad, while OpenAI CMO Kate Rouch mentioned an “entire fake website” trying to back up the same thing."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Turning Point USA’s Halftime Show Was Exactly What You’d Expect",
+            "link": "https://www.wired.com/story/turning-point-usas-halftime-show-was-exactly-what-youd-expect/",
+            "site_name": "WIRED",
+            "novelty_hash": "3177fcf2c72f61a463dd4b6b0619cc85113423f2"
+          },
+          "review": {
+            "headline_rewrite": "Turning Point USA’s Halftime Show Was Exactly What You’d Expect",
+            "bullets": [
+              "It streamed on platforms including Rumble, DailyWire+, and multiple YouTube channels.",
+              "Blake Neff, producer of The Charlie Kirk Show, claimed there were over 5 million live viewers on the Turning Point USA YouTube stream; as of publication time, it has been viewed over 16 million times.",
+              "Shortly before going live, TPUSA announced that it would not be able to air the special on X due to “licensing issues.”\nSuper Bowl LX, meanwhile, was expected to draw as many as 130 million viewers.",
+              "The Democratic party’s official X account screenshotted Trump’s post about Bad Bunny, observing: “Guess he wasn’t watching Kid Rock then.”\nThe livestream of the TPUSA event was preceded by a message from defense secretary Pete Hegseth, who said that the so-called Department of War was “proud to support” it.",
+              "“Charlie, he gave people microphones so they could say what was on their minds,” he declared before launching into a premiere performance of a new song called “Country Nowadays.” The lyrics included an allusion to gender politics.",
+              "“I turn the TV on and sit and watch the evening news / Be told if I tell my own daughter that little boys ain’t little girls / I’d be up the creek in hot water,” he sang."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 9, 2026 Tesla former AI director Andrej Karpathy who coined the word Vibe Coding has a new word for engineers",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/tesla-former-ai-director-andrej-karpathy-who-coined-the-word-vibe-coding-has-a-new-word-for-engineers/articleshow/128098180.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "9520c04c7751be9dde2b4b63cd5fe0daf156b114"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 9, 2026 Tesla former AI director Andrej Karpathy who coined the word Vibe Coding has a new word for engineers",
+            "bullets": [
+              "Former Tesla AI director and OpenAI cofounder Andrej Karpathy, who popularised the term vibe-coding has introduced a new phrase for the next stage of AI-driven software development: agentic engineering.",
+              "While vibe-coding refers to humans prompting AI to write code, agentic engineering describes a process where AI agents themselves generate and refine code autonomously.",
+              "In a post shared on social media platform X (formerly known as Twitter) Karpathy explained that the tern reflects not only the role of agents in writing code but also the âart & science and expertiseâ required to guide them effectively.",
+              "Karpathy who now believes that the next phase of AI-assisted programming deserves its own name: agentic engineering.",
+              "He feels that unlike vibe-coding, where humans prompt AI directly, agentic engineering includes AI agents autonomously wiring and refining code while humans act as orchestrators and supervisors.",
+              "Karpathy explained:\n- âAgenticâ because the new default is that you are not writing the code directly 99% of the time, you are orchestrating agents who do and acting as oversight."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
