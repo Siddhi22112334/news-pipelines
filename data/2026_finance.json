@@ -64278,5 +64278,27 @@
         }
       ]
     }
+  },
+  "2026-02-10": {
+    "runs": {
+      "01:35": [
+        {
+          "item": {
+            "title": "US soy futures pull back from rally as Brazil harvest advances",
+            "link": "https://www.livemint.com/market/us-soy-futures-pull-back-from-rally-as-brazil-harvest-advances-11770663235109.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US soy futures pull back from rally as Brazil harvest advances",
+            "bullets": [
+              "soybean futures fell on Monday on profit taking after a rally last week drove prices to a two-month high well above $11 a bushel,",
+              "CST (1815 GMT), Chicago Board of Trade March soybean futures were down 8-1/4 cents at $11.07 per bushel, retreating from Friday's high of $11.37-3/4,"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
