@@ -145369,6 +145369,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:23": [
+        {
+          "item": {
+            "title": "Anthropic closes in on $20B round",
+            "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "932190b43e15d758c64e32cdbb9ac06f2707a9ec"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic closes in on $20B round",
+            "bullets": [
+              "Anthropic is in the final stages of raising $20 billion in new capital at a valuation of $350 billion, Bloomberg reports, with investor demand leading the company to raise twice the funding it set out to obtain.",
+              "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible.",
+              "Funds expected to participate in the round include Altimeter Capital Management, Sequoia Capital, Lightspeed Venture Partners, Menlo Ventures, Coatue Management, Iconiq Capital, and Singapore’s sovereign wealth fund, but the bulk of the funding is said to come from the company’s strategic partners Nvidia and Microsoft.",
+              "Anthropic is building on recent successes, most notably the deployment of its coding agents, which have software engineers raving about increased coding productivity.",
+              "Last week, the company’s release of new models focused on legal and business research rattled the share prices of publicly-traded data firms as investors worried about the ability of AI to disrupt their businesses.",
+              "Anthropic’s rival, OpenAI, is reportedly assembling a new $100 billion fundraising round, and both companies are thought to be preparing IPOs ahead of a blockbuster summer in the markets, with xAI, recently acquired by SpaceX, also tapping public equity as part of the rocket maker’s IPO."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+            "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1eb29b23b6df3fa85c2feaa09b139c4ef02720cb"
+          },
+          "review": {
+            "headline_rewrite": "Ex-Googlers are building infrastructure to help companies understand their video data",
+            "bullets": [
+              "From years of broadcast archives to thousands of store cameras and countless hours of production footage, most of it just sits unused on servers, unwatched and unanalyzed.",
+              "To tackle the problem, Aza Kai (CEO) and Hiraku Yanagita (COO), two former Googlers who spent nearly a decade working together at Google Japan, decided to build their own solution.",
+              "“My co-founder, who spent a decade leading brand and data solutions at Google Japan, and I saw this inflection point coming while we were still at Google,” Kai said.",
+              "Kai, who previously worked at Google Japan across cloud, machine learning, ad systems, and video recommendation models and later led data science teams, explained that current solutions force a tradeoff.",
+              "That’s when video AI started moving beyond simple object tagging, Kai noted.",
+              "Falling GPU costs and annual performance gains of roughly 15–20% over the last decade helped, but the bigger story was capability until recently, models just couldn’t do the job, he told TechCrunch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Pixel 9A is back down to $349, its cheapest price so far",
+            "link": "https://www.theverge.com/gadgets/875742/google-pixel9a-switch-2-case-netgear-gigabit-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "0d032e988820ba3332a9b936191c0d817329082e"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Pixel 9A is back down to $349, its cheapest price so far",
+            "bullets": [
+              "That’s also when the company will share more details regarding specs and price for the midrange phone.",
+              "Other great Verge-approved deals\n- Tomtoc’s hard zip-up case for the Nintendo Switch 2 is the best one out there, with a slim, minimalist look available in multiple colors, a sleeve for storing 12 game cartridges, and occasionally a competitive price.",
+              "The 2022 CPU typically costs $350 at most retailers, but you can purchase it for $239.99 while supplies last.",
+              "This processor must be paired with a motherboard that has an AM5 socket."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Linux 6.19 arrives with a teaser for Linux 7.0",
+            "link": "https://www.theverge.com/tech/875784/linux-kernel-7-0-announced",
+            "site_name": "The Verge",
+            "novelty_hash": "5f98d3cb8a2d729d251fb54159c9eb7331c16474"
+          },
+          "review": {
+            "headline_rewrite": "Linux 6.19 arrives with a teaser for Linux 7.0",
+            "bullets": [
+              "It adds support for the modern AMDGPU driver for older AMD GCN 1.0 and 1.1 graphics cards, like Radeon HD 7000 series GPUs, along with Vulkan support through the RADV driver, and improved power management.",
+              "Linux 6.19 arrives with a teaser for Linux 7.0\nKernel version 6.19 includes a performance boost for older AMD GPUs.",
+              "Linux 6.19 also includes improved HDR support with the addition of the DRM Color Pipeline, an updated Asus Armoury driver, expanded support for newer Intel Wildcat Lake and Nova Lake chips, PCIe link encryption and device authentication, and more.",
+              "Along with the launch of Linux 6.19, Torvalds also teased the start of a new kernel cycle with the next update.",
+              "“As people have mostly figured out, I’m getting to the point where I’m being confused by large numbers (almost running out of fingers and toes again), so the next kernel is going to be called 7.0,” writes Linus in the update note.",
+              "The next update could include even more improvements for AMD GPUs, display support for Intel Nova Lake and Qualcomm Snapdragon 8 Elite Gen 5 chips, and expanded sensor monitoring support for Asus motherboards, among other changes."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best microSD cards in 2026",
+            "link": "https://www.engadget.com/computing/accessories/best-microsd-card-130038282.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f21c18435971b3f209caf2662361c2a303a4a640"
+          },
+          "review": {
+            "headline_rewrite": "The best microSD cards in 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Paired with Lexar’s USB card reader, it consistently delivered faster sequential reads and writes than any other UHS-I model across our benchmark tests.",
+              "- Fastest sequential read/write performance of any UHS-I card we've tested\n- Has been cheaper than many slower alternatives\n- Has a 1TB option\n- Lifetime limited warranty\n- Needs USB reader to reach maximum speeds (as expected)\nStorage capacity: 128GB, 256GB, 512GB, 1TB | Speed classes: U3, V30, A2, Class 10 | Warranty: 10-year limited\nStorage prices tend to fluctuate, however, especially with the ongoing AI boom driving memory and storage demand more toward data centers instead of consumers.",
+              "As of our most recent update, the Samsung Pro Plus — our former “best for most” pick — is now available for less than the Silver Plus in most capacities, and it’s still well worth considering when that’s the case.",
+              "That said, the Silver Plus is the better card when it’s in the same price range, plus Samsung’s has a shorter 10-year warranty.",
+              "An older-generation model with slower sequential reads and random performance may still be hanging around at some online retailers, so avoid that one."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "YouTube TV launches curated subscription packages this week",
+            "link": "https://www.engadget.com/entertainment/tv-movies/youtube-tv-launches-curated-subscription-packages-this-week-170710000.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d39616850194f5795476de5cb73404dd0c78add4"
+          },
+          "review": {
+            "headline_rewrite": "YouTube TV launches curated subscription packages this week",
+            "bullets": [
+              "YouTube is launching YouTube TV Plans this week, after revealing the program back in December.",
+              "There more than ten plans available and they are all cheaper than the typical asking price of $83 per month.",
+              "The Entertainment Plan costs $55 per month and includes networks like Bravo, Comedy Central, FX and the Food Network, among many others.",
+              "Some plans are rolling out later in the week, but YouTube says it could take \"several weeks\" for every plan to become available."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
