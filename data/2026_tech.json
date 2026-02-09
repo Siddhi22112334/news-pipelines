@@ -145838,6 +145838,120 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:38": [
+        {
+          "item": {
+            "title": "Waymo is testing driverless robotaxis in Nashville",
+            "link": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "354ef84ab326ae73d4cb8fdd8238f12a2110740a"
+          },
+          "review": {
+            "headline_rewrite": "Waymo is testing driverless robotaxis in Nashville",
+            "bullets": [
+              "Waymo has pulled the human safety driver from its autonomous test vehicles in Nashville, as the Alphabet-owned company moves closer to launching a robotaxi service in the city.",
+              "Waymo, which has been testing in Nashville for months, is slated to launch a robotaxi service there this year in partnership with Lyft.",
+              "Riders will initially hail rides directly through the Waymo app.",
+              "Once the service expands, Waymo will also make its self-driving vehicles available through the Lyft app.",
+              "Lyft has said it will handle fleet services, such as vehicle readiness and maintenance, charging infrastructure, and depot operations, through its wholly owned subsidiary Flexdrive.",
+              "Eventually, the company conducts driverless testing, often allowing employees to hail rides, before launching a robotaxi service."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT&#8217;s cheapest options now show you ads",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt",
+            "site_name": "The Verge",
+            "novelty_hash": "2d463a387dcf0534ddcc82003ef169093d33626d"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT&#8217;s cheapest options now show you ads",
+            "bullets": [
+              "ChatGPT users may soon start seeing ads in their chats, as OpenAI announced on Monday that it’s officially beginning to test ads on its AI platform.",
+              "They’ll appear as labeled “sponsored” links at the bottom of ChatGPT answers, but OpenAI says the ads “do not influence the answers ChatGPT gives you.”\nChatGPT’s cheapest options now show you ads\nChatGPT users will soon start seeing ‘sponsored’ links unless they pay at least $20 per month for a Plus subscription.",
+              "There is one loophole — OpenAI notes that users can “opt out of ads in the Free tier in exchange for fewer daily free messages.”\nUsers on the Go tier can’t opt out of seeing ads, but users on both the Free and Go plans can dismiss ads, share feedback on ads, turn off ad personalization, turn off the option for ads to be based on past chats, and delete their ad data.",
+              "According to OpenAI, advertisers will only get data on “aggregated ad views and clicks,” not personalized data or content from users’ ChatGPT conversations.",
+              "Additionally, not all users and chats will be eligible for ads, including users under 18 and conversations on certain sensitive topics “like health, mental health or politics.” Even adult users on the chatbot’s Free and Go plans might not immediately start seeing ads, since the feature is still in testing.",
+              "The introduction of ads on ChatGPT was initially announced a few weeks ago, and its launch was rumored just a few hours before OpenAI’s official announcement on Monday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
+            "link": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "574c6975816983d4d97c55f94da823a22467876b"
+          },
+          "review": {
+            "headline_rewrite": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
+            "bullets": [
+              "For a couple of weeks now, AI agents (and some humans impersonating AI agents) have been hanging out and doing weird stuff on Moltbook’s Reddit-style social network.",
+              "Now, those agents can also gather together on a vibe-coded, space-based MMO designed specifically and exclusively to be played by AI.",
+              "SpaceMolt describes itself as “a living universe where AI agents compete, cooperate, and create emergent stories” in “a distant future where spacefaring humans and AI coexist.” And while only a handful of agents are barely testing the waters right now, the experiment could herald a weird new world where AI plays games with itself and we humans are stuck just watching.",
+              "They watch.”\nGetting an AI agent into SpaceMolt is as simple as connecting it to the game server either via MCP, WebSocket, or an HTTP API.",
+              "Once a connection is established, a detailed agentic skill description instructs the agent to ask their creators which Empire they should pick to best represent their playstyle: mining/trading; exploring; piracy/combat; stealth/infiltration; or building/crafting.",
+              "To start, agent-characters mainly travel back and forth between nearby asteroids to mine ore—\"like any MMO, you grind at first to learn the basics and earn credits,” as the agentic skill description puts it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "MrBeast just bought a banking app",
+            "link": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
+            "site_name": "The Verge",
+            "novelty_hash": "8f9a39f645b860b2bf3b435aa2e5adad60164295"
+          },
+          "review": {
+            "headline_rewrite": "MrBeast just bought a banking app",
+            "bullets": [
+              "His main channel has 466 million subscribers and has long been one of the most popular on YouTube, frequently featuring videos where Donaldson gives away huge sums of money.",
+              "MrBeast just bought a banking app\nBeast Industries has acquired Step, a finance app aimed at Gen-Z and Gen Alpha.",
+              "MrBeast’s other business ventures also include a chain of ghost restaurants, the Feastables snack brand, and an upcoming phone service company called Beast Mobile.",
+              "Step is one of many mobile-only banking services, similar to Monzo or Revolut, but specifically aimed at teens, which may explain why Donaldson chose it over its rivals — his audience is mainly Gen-Z and Gen Alpha."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DOJ may face investigation for pressuring Apple, Google to remove apps for tracking ICE agents",
+            "link": "https://www.engadget.com/apps/doj-may-face-investigation-for-pressuring-apple-google-to-remove-apps-for-tracking-ice-agents-212145181.html",
+            "site_name": "Engadget",
+            "novelty_hash": "457777bfdd58ce4f5c4312ec2df8133f34d2596c"
+          },
+          "review": {
+            "headline_rewrite": "DOJ may face investigation for pressuring Apple, Google to remove apps for tracking ICE agents",
+            "bullets": [
+              "Politico reported that Raskin has contacted Attorney General Pam Bondi on the issue and also questioned the agency's use of force against protestors as it executes the immigration policy set by President Donald Trump.",
+              "\"The coercion and censorship campaign, which ultimately targets the users of ICE-monitoring applications, is a clear effort to silence this Administration’s critics and suppress any evidence that would expose the Administration’s lies, including its Orwellian attempts to cover up the murders of Renee and Alex,\" Raskin wrote to Bondi.",
+              "In the two separate incidents, claims made by federal leaders about the victims and the circumstances of their deaths were contradicted by eyewitnesses or camera footage, echoing violent interactions and lies about them that occurred while ICE conducted raids in Chicago several months ago."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Riot Games is laying off half of the 2XKO development team",
+            "link": "https://www.engadget.com/gaming/riot-games-is-laying-off-half-of-the-2xko-development-team-215423279.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4f6ece76ae942db485a3a265e040c86aa00ebc33"
+          },
+          "review": {
+            "headline_rewrite": "Riot Games is laying off half of the 2XKO development team",
+            "bullets": [
+              "Today it's Riot Games with the announcement that it's cutting jobs on its pair-based fighting game 2XKO.",
+              "The console launch for 2XKO happened last month.",
+              "Cannon said the company's plans for its 2026 competitive season have not altered with the layoffs."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
