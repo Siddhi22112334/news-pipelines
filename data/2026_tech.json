@@ -145720,6 +145720,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:36": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-6-in-amazon-bedrock-aws-builder-id-sign-in-with-apple-and-more-february-9-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "c712117eedd600b17343e2a4b7f04399efacfebb"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)",
+            "bullets": [
+              "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)\nHere are the notable launches and updates from last week that can help you build, scale, and innovate on AWS.",
+              "Last week’s launches\nHere are the launches that got my attention this week.",
+              "- AWS Network Firewall announces new price reductions: The service has added the hourly and data processing discounts on NAT Gateways that are service-chained with Network Firewall secondary endpoints.",
+              "Additionally, AWS Network Firewall has removed additional data processing charges for Advanced Inspection, which enables Transport Layer Security (TLS) inspection of encrypted network traffic.",
+              "With this new capability, you can replicate tables across AWS accounts and Regions to improve resiliency, isolate workloads at the account level, and apply distinct security and governance controls.",
+              "The console experience also includes integrated CloudShell access, offering the ability to connect to your databases directly from within the RDS console."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Safer Internet Day: 5 tips for safe, effective learning",
+            "link": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-26/",
+            "site_name": "Google",
+            "novelty_hash": "8d211422e0004c5450c88eb901c593dde848113d"
+          },
+          "review": {
+            "headline_rewrite": "Safer Internet Day: 5 tips for safe, effective learning",
+            "bullets": [
+              "Safer Internet Day: 5 tips for safe, effective learning\nFor the first time, people report that their primary motivation for using AI isn’t entertainment, but learning.",
+              "Teens in particular are excited about AI and digital tools to support their learning and creativity, but don’t want to go it alone – they want guidance, balance, and support to help them safely navigate the new learning frontier.",
+              "Support learning with smarter online/offline boundaries\nFoster critical thinking in the age of AI\nFrom history to computer science, anyone diving into anything needs to know the “why” as readily as the “what.” Using Guided Learning in Gemini, learners are guided to approach complex problems step-by-step, encouraging critical thinking over shortcuts and answers.",
+              "Nearly three-quarters of people now use AI for education, and a majority of teachers believe AI will improve student outcomes.",
+              "Help teens spot AI content and evaluate info online\nAs sophisticated AI tools become more common, understanding the origin and context of media we interact with is more important than ever.",
+              "Best practices like the “SIFT” method in the Super Searchers training program – Stop, Investigate the source, Find better coverage, and Trace claims – help students critically evaluate online information."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Here’s how we’re marking Safer Internet Day in the UK.",
+            "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/heres-how-were-marking-safer-internet-day-in-the-uk/",
+            "site_name": "Google",
+            "novelty_hash": "7c18028495dd4ba5db8643d3d3c7311c9900165a"
+          },
+          "review": {
+            "headline_rewrite": "Here’s how we’re marking Safer Internet Day in the UK.",
+            "bullets": [
+              "This includes our Be Internet Legends programme which, with thanks to our partners ParentZone, has trained over 10 million pupils across the UK to be \"sharp, alert, secure, kind and brave.\"\nThis year, we are sharing a new Family Guide to Online Safety – supported by ParentZone, Internet Watch Foundation and Childnet –which aims to help families in navigating the fast changing digital landscape, including how to make the most of AI tools for education.",
+              "With the right guardrails, we can all ensure the internet remains a space for positive curiosity and creativity."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s India expansion collides with a local company that already had the name",
+            "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "39637664ee09a9ce4484f09610834d4712d53941"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s India expansion collides with a local company that already had the name",
+            "bullets": [
+              "As Anthropic expands into India, a local software company has filed a court complaint saying it was already using the name “Anthropic,” spotlighting how the rapid global push of AI firms can collide with local incumbents.",
+              "The filing comes amid Anthropic deepening its focus on India, announcing an India office last October and more recently appointing former Microsoft India managing director Irina Ghose to lead its operations in the country, underscoring the South Asian market’s growing importance to global AI companies expanding beyond the U.S.",
+              "In a complaint filed in a commercial court in Karnataka in January, reviewed by TechCrunch, the Indian company Anthropic Software says it has used the name since 2017 and that Anthropic’s recent entry into India has led to customer confusion.",
+              "“As of now, I am exercising my legal right as it’s causing huge confusion to my customers,” he said.",
+              "India, the world’s most populous nation and one of the fastest-growing internet markets, has become a key battleground for AI companies like Anthropic and its rival OpenAI.",
+              "The country is also set to host an AI Impact Summit in New Delhi next week, where Anthropic co-founder and chief executive Dario Amodei is appearing alongside other industry leaders like Sam Altman, Jensen Huang, and Sundar Pichai."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT rolls out ads",
+            "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b9e3a0040c39524dae0d4cfb2359cba3ba5bef25"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT rolls out ads",
+            "bullets": [
+              "OpenAI on Monday announced it’s beginning to test ads in the U.S.",
+              "OpenAI sought to address concerns about how ads might affect the user experience, stating in a blog post: “Ads do not influence the answers ChatGPT gives you, and we keep your conversations with ChatGPT private from advertisers.",
+              "Our goal is for ads to support broader access to more powerful ChatGPT features while maintaining the trust people place in ChatGPT for important and personal tasks.”\nThe move, which the company announced last month, drew ridicule in a series of Super Bowl ads that ran on Sunday from a top rival, Anthropic.",
+              "In its TV commercials, Anthropic poked fun at the idea that some AI companies, like OpenAI, would soon include advertising by showing how poorly integrated ads could disrupt the consumer experience.",
+              "This was portrayed on-screen by glassy-eyed actors playing AI chatbots, who would deliver their advice alongside a poorly targeted ad.",
+              "OpenAI CEO Sam Altman got extremely testy about the jabs, calling the ads “dishonest” and Anthropic an “authoritarian company.”\nTechCrunch Founder Summit 2026: Tickets Live\nSave up to $300 on your pass or save up to 30% with group tickets for teams of four or more."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT&#8217;s cheapest options now show you ads",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt",
+            "site_name": "The Verge",
+            "novelty_hash": "2d463a387dcf0534ddcc82003ef169093d33626d"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT&#8217;s cheapest options now show you ads",
+            "bullets": [
+              "ChatGPT users may soon start seeing ads in their chats, as OpenAI announced on Monday that it’s officially beginning to test ads on its AI platform.",
+              "They’ll appear as labeled “sponsored” links at the bottom of ChatGPT answers, but OpenAI says the ads “do not influence the answers ChatGPT gives you.”\nChatGPT’s cheapest options now show you ads\nChatGPT users will soon start seeing ‘sponsored’ links unless they pay at least $20 per month for a Plus subscription.",
+              "There is one loophole — OpenAI notes that users can “opt out of ads in the Free tier in exchange for fewer daily free messages.”\nUsers on the Go tier can’t opt out of seeing ads, but users on both the Free and Go plans can dismiss ads, share feedback on ads, turn off ad personalization, turn off the option for ads to be based on past chats, and delete their ad data.",
+              "According to OpenAI, advertisers will only get data on “aggregated ad views and clicks,” not personalized data or content from users’ ChatGPT conversations.",
+              "Additionally, not all users and chats will be eligible for ads, including users under 18 and conversations on certain sensitive topics “like health, mental health or politics.” Even adult users on the chatbot’s Free and Go plans might not immediately start seeing ads, since the feature is still in testing.",
+              "The introduction of ads on ChatGPT was initially announced a few weeks ago, and its launch was rumored just a few hours before OpenAI’s official announcement on Monday."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
