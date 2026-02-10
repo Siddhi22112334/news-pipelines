@@ -147130,6 +147130,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:11": [
+        {
+          "item": {
+            "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+            "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "93005c99f9f70d873242f4b1ba1ef55119b563d9"
+          },
+          "review": {
+            "headline_rewrite": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+            "bullets": [
+              "Modern enterprises generate enormous amounts of security data, but legacy tools like Splunk still require companies to store all of it in one place before they can detect threats – a slow and costly process that’s increasingly breaking down in cloud environments where volumes are exploding and data lives everywhere.",
+              "AI cybersecurity startup Vega Security wants to flip that approach by running security where the data already lives, implementing in cloud services, data lakes, and existing storage systems.",
+              "And the two-year-old firm just raised a $120 million Series B round to scale that vision, TechCrunch has exclusively learned.",
+              "Led by Accel with participation from Cyberstarts, Redpoint, and CRV, the new round nearly doubles Vega’s valuation to $700M and brings its total funding to $185 million, money the startup will use to further develop its AI-native security operations suite, beef out its go-to-market team, and expand globally.",
+              "Shay Sandler, co-founder and CEO of Vega, told TechCrunch that the current operating model of the SIEM (security information and event management) — the dominant technology in this domain for the last two decades — is not only “crazy expensive,” but is also increasingly causing AI-native security operations to fail.",
+              "In complex cloud environments, he says, the current model often increases exposure to threat actors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google expands tools to let users remove sensitive data about themselves from Search",
+            "link": "https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a177a236776f84c16bbc3d12fc88e20d109f5efe"
+          },
+          "review": {
+            "headline_rewrite": "Google expands tools to let users remove sensitive data about themselves from Search",
+            "bullets": [
+              "The “Results about you” tool already allows users to remove Search results containing their phone number, email address, or home address, and it can now also be used to request the removal of results that include information such as a driver’s license, passport, or Social Security number, the company said in the update Tuesday.",
+              "Once you’ve confirmed your details, Google will automatically monitor Search results and notify you if it finds results that contain your information."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Autodesk is suing Google over the name of its Flow AI videomaker",
+            "link": "https://www.theverge.com/tech/876266/autodesk-google-flow-trademark-infringement-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "b8afd5d7adcc94fb48eb9d64e5b0b7805d4242c6"
+          },
+          "review": {
+            "headline_rewrite": "Autodesk is suing Google over the name of its Flow AI videomaker",
+            "bullets": [
+              "Autodesk, a company known for its suite of 3D design software, is suing Google over claims that it infringed on its “Flow” trademark, as reported earlier by Reuters.",
+              "The lawsuit, filed in a California court last week, alleges that the name of Google’s AI video generator, Flow, will likely confuse customers with Autodesk’s own AI-enabled filmmaking tools under the “Flow” brand.",
+              "Autodesk is suing Google over the name of its Flow AI videomaker\nThe 3D design software company claims Google’s ‘Flow’ branding will confuse customers with its own AI-powered Flow products.",
+              "Autodesk first introduced Flow in 2022 as a cloud-based platform for filmmakers and other creators.",
+              "It has since rolled out products under the Flow umbrella, including Flow Studio, which uses AI to transform live-action footage into 3D scenes.",
+              "After Google launched its AI-powered Flow app in May 2025, Autodesk claims it asked the tech giant to stop using the “Flow” name."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft wants to rewire data centers to save space",
+            "link": "https://www.theverge.com/science/876083/microsoft-ai-data-center-superconductor",
+            "site_name": "The Verge",
+            "novelty_hash": "855581e35a7a5a5437d49951f080cc9d0cd86beb"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft wants to rewire data centers to save space",
+            "bullets": [
+              "Tech companies are facing backlash over how much power generative AI demands, delays connecting to power grids that lack the infrastructure to meet those demands, and the impact construction of new data centers has on local residents.",
+              "“Microsoft is exploring how this technology could make electrical grids stronger and reduce the impact data centers have on nearby communities,” Microsoft GM of Global Infrastructure Marketing Alistair Speirs wrote in a blog published today.",
+              "While a superconducting cable only requires a small amount of rare-earth material, the supply chain for the rare earth element is still largely concentrated in China.",
+              "That’s starting to change as a result of the power demands of generative AI.",
+              "In recent years, tech companies have fueled research into the development of a nuclear fusion power plant, long considered the holy grail of clean energy.",
+              "“That actually helped the supply chain and manufacturer variety, and even some of the costing of HTS … for us to, like, oh, ‘Well, let’s think about that."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
+            "link": "https://www.ft.com/content/3260bc45-e09e-45a7-ae30-e55effbaf29b",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8f52bb461554ed273870673e9091dbd97e5b71b2"
+          },
+          "review": {
+            "headline_rewrite": "Alphabet selling very rare 100-year bonds to help fund AI investment",
+            "bullets": [
+              "Alphabet has lined up banks to sell a rare 100-year bond, stepping up a borrowing spree by Big Tech companies racing to fund their vast investments in AI this year.",
+              "The so-called century bond will form part of a debut sterling issuance this week by Google’s parent company, said people familiar with the matter.",
+              "Alphabet was also selling $20 billion of dollar bonds on Monday and lining up a Swiss franc bond sale, the people said.",
+              "A banker familiar with Alphabet’s transaction said the company’s multi-currency bond offering is an effort to expand the investor pool given the massive amount of capital needed by Big Tech companies.",
+              "“There might be a supply-demand imbalance if you were to try to come back to the US dollar market over and over again,” the banker said.",
+              "While a century bond is “highly unusual” for tech companies, it could appeal to buyers such as life insurance companies and pension funds, which have a mandate to buy long-term assets, said Nicholas Elfner, co-head of research at Breckinridge Capital Advisors."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next",
+            "link": "https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/",
+            "site_name": "WIRED",
+            "novelty_hash": "db95b912dca5b9d484842803ee344ee7ebb4d120"
+          },
+          "review": {
+            "headline_rewrite": "ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next",
+            "bullets": [
+              "Federal records obtained by WIRED show that over the past several months, Immigration and Customs Enforcement (ICE) and the Department of Homeland Security (DHS) have carried out a secret campaign to expand ICE’s physical presence across the US.",
+              "In numerous emails and memorandums viewed by WIRED, DHS asked GSA explicitly to disregard usual government lease procurement procedures, and even hide lease listings due to “national security concerns,” in an effort to support ICE’s immigration enforcement activities across the US.",
+              "GSA remains focused on supporting this administration’s goal of optimizing the federal footprint, and providing the best workplaces for our federal agencies to meet their mission,” Marianne Copenhaver, GSA associate administrator for communications, tells WIRED.",
+              "DHS claims the agency now has 22,000 officers and agents stationed around the country, and is still in the process of hiring more.",
+              "The agency received nearly $80 billion in funding as part of Trump’s One Big Beautiful Bill Act, giving it virtually unlimited resources to combat what the administration has consistently portrayed as an “invasion.” With new employees comes a desperate need for office space, and the possibility of deployment to new areas of operation.",
+              "ERO is tasked with immigration enforcement, including the arrest, detention, and removal of immigrants, and previously operated out of only 25 field offices in the US; OPLA is the legal arm of ICE, and lawyers with OPLA litigate “all removal cases including those against criminal aliens, terrorists, and human rights abusers,” for DHS, according to ICE’s website."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
