@@ -147589,6 +147589,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:42": [
+        {
+          "item": {
+            "title": "Google sent personal and financial information of student journalist to ICE",
+            "link": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "21c316c93fcf2bfe394d11821222591684c91460"
+          },
+          "review": {
+            "headline_rewrite": "Google sent personal and financial information of student journalist to ICE",
+            "bullets": [
+              "The subpoena, which reportedly included a gag order, did not include a specific justification for why ICE was requesting Thomas-Johnson’s personal data, but the student previously said that the demand for his data came within two hours of Cornell informing him that the U.S.",
+              "This has included anonymous Instagram accounts that share information about ICE presence and raids, as well as people who criticize or protest Trump and his policies.",
+              "These legal demands cannot compel companies to turn over the contents of a person’s email accounts, online searches, or location data, but can request metadata and other identifiable information, such as email addresses, in an attempt to de-anonymize the owner of a certain online account.",
+              "Last week, the digital rights group, the Electronic Frontier Foundation, sent a letter to Amazon, Apple, Discord, Google, Meta, Microsoft, and Reddit, demanding that the companies stop giving data to the Department of Homeland Security, which houses ICE, in response to administrative subpoenas.",
+              "“Based on our own contact with targeted users, we are deeply concerned your companies are failing to challenge unlawful surveillance and defend user privacy and speech,” read the letter."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
+            "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "415def6d223d75cc0e3798565b86ac6b491c83f9"
+          },
+          "review": {
+            "headline_rewrite": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
+            "bullets": [
+              "Facebook announced new AI-powered features on Tuesday designed to let users express themselves in more playful ways across the platform.",
+              "As Meta works to maintain Facebook’s relevance among younger users on its flagship app, it’s likely betting that these new features will deliver a more personalized experience that appeals to Gen Z.",
+              "Facebook is also enhancing its Stories — short photo and video posts that disappear after 24 hours — and Memories — a feature that resurfaces posts from the same date in previous years — with “Restyle,” a tool that uses Meta AI to reimagine the look of user-uploaded images.",
+              "By clicking on the new rainbow “A” icon, users can choose from a variety of still and animated scenes, such as falling leaves or rolling ocean waves, to make their posts stand out in the feed.",
+              "With around 2.1 billion daily active users, Facebook remains a social media giant.",
+              "However, in recent years, it has struggled to attract and retain a younger demographic."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ayaneo’s new Windows handheld will cost up to $4,299 with maxed out specs",
+            "link": "https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder",
+            "site_name": "The Verge",
+            "novelty_hash": "474ef2fb064b33e570f988e3abd80e9a0391cd3c"
+          },
+          "review": {
+            "headline_rewrite": "Ayaneo’s new Windows handheld will cost up to $4,299 with maxed out specs",
+            "bullets": [
+              "That’s more than twice as heavy as the original Ayaneo Next that launched back in 2022, and it easily outweighs the Steam Deck and Switch 2.",
+              "Pricing starts at $1,999 for a version of the Next 2 with a Ryzen AI Max 385 processor with integrated Radeon 8050S graphics, 32GB of memory, and 1TB of SSD storage.",
+              "Maxing out the Next 2’s specs will cost you $4,299 (or $3,499 with early bird discounts) but you’ll get the same AMD Ryzen AI Max+ 395 processor as found in the GPD Win 5 with a Radeon 8060S iGPU, 128GB of memory, and 2TB of storage.",
+              "Surrounding the display you’ll find a pair of TMR joysticks with adjustable torque and ring lighting, a pair of Hall effect triggers that can be switched to a shorter travel when playing FPS titles, an eight direction D-pad, dual smart touchpads, various buttons including four on the back, and a pair of front-facing stereo speakers.",
+              "On the top edge of the Next 2 you’ll also find a pair of USB-C ports for charging and connecting to peripherals or displays, a microSD card slot, and a proper headphone jack.",
+              "The handheld is cooled by a pair of fans and powered by a hefty 116Wh rechargeable battery inside contributing to its overall weight."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
+            "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a035e019f01bc6c581bb08254bb1ae03cfc8914e"
+          },
+          "review": {
+            "headline_rewrite": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
+            "bullets": [
+              "Wikipedia editors are discussing whether to blacklist Archive.today because the archive site was used to direct a distributed denial of service (DDoS) attack against a blogger who wrote a post in 2023 about the mysterious website’s anonymous maintainer.",
+              "Option C is to do nothing and maintain the status quo.",
+              "“Archive.today uses advanced scraping methods, and is generally considered more reliable than the Internet Archive,” the Wikipedia request for comment said.",
+              "“Wikipedia’s need for verifiable citations is absolutely not more important than the security of users,” one editor in favor of blacklisting wrote.",
+              "“We need verifiable citations so that we can maintain readers’ trust, however, in order to be trustworthy our references also have to be safe to access.”\nArchive would be hard to replace\nOn the other side, an editor who supported Option C wrote that “Archive.today contains a vast amount of archives available nowhere else.",
+              "Removal/blockage of this site will be disruptive daily for thousands of editors and readers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
+            "link": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
+            "site_name": "WIRED",
+            "novelty_hash": "821573215b3067638a9aa081b28d662af1a0bfad"
+          },
+          "review": {
+            "headline_rewrite": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
+            "bullets": [
+              "A 30-second Super Bowl ad featuring boxing legend Mike Tyson and paid for by the nonprofit MAHA Center encourages viewers to avoid processed foods and visit Realfood.gov.",
+              "is promoting, provides resources on the administration’s new dietary guidelines, released in January, and encourages people to use Elon Musk’s AI chatbot Grok to “get real answers about real food.”\nI decided to see how Grok’s advice aligns with the administration's recommendations, particularly around protein intake.",
+              "The new guidelines say to get 1.2 to 1.6 grams of protein per kilogram of body weight per day—more than what was previously advised—while the new inverted food pyramid prominently features steak and other animal products.",
+              "Following the website’s encouragement to ask AI for advice, I initially asked Grok how much protein I should eat based on my age, height, and weight.",
+              "(Grok, it should be noted, frequently does not return answers to prompts, instead citing high demand and encouraging users to sign up for an account.) It recommended 0.8 grams per kilogram per day—the long-standing recommended daily allowance, or RDA, developed by the National Institute of Medicine.",
+              "When I refined my question, saying that I do 30 minutes of strength training four days a week, Grok’s response was more in line with the administration’s new guidelines."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating",
+            "link": "https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/",
+            "site_name": "WIRED",
+            "novelty_hash": "75af3524bced97837eaf1be7d09042e02935c489"
+          },
+          "review": {
+            "headline_rewrite": "The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating",
+            "bullets": [
+              "There are three main types, each distinguished by their takeoffs: toe, blade, or edge.",
+              "A simple axel, therefore, requires one and a half rotations to complete, while a quadruple axel requires four and a half rotations in the air.",
+              "Both skaters, in fact, aimed to achieve significantly greater vertical heights in their attempts to perform this jump than in the triple axel.",
+              "“The results of this study provide valuable insights into the biomechanics of quadruple and triple axel jumps, update existing theories of figure skating research, and provide insights into training strategies for managing complex jumps,” the study concludes.",
+              "Easier said than done—unless you’re Ilia Malinin."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
