@@ -147367,5 +147367,116 @@
         }
       ]
     }
+  },
+  "2026-02-11": {
+    "runs": {
+      "00:50": [
+        {
+          "item": {
+            "title": "Facebook can animate your profile pic with AI",
+            "link": "https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "8a34747d79d201adb068b337ca438b732af3aaa7"
+          },
+          "review": {
+            "headline_rewrite": "Facebook can animate your profile pic with AI",
+            "bullets": [
+              "Facebook is rolling out new AI features that let you animate your profile picture and restyle Stories and Memories.",
+              "Facebook can animate your profile pic with AI\nWith preset animations, you can have a still photo wave to your friends or put on a party hat.",
+              "To restyle Stories or Memories, you can tap on the Restyle button and either type out the changes you want Meta’s AI to make to the photo or pick from Meta’s pre-set options, like “anime” or “low-poly.” And to spruce up your text posts with the new animated backgrounds, while you’re drafting a post, look for an A icon over a rainbow background to pull up a menu of different background styles to pick from, including both animated and still options.",
+              "Facebook is still a huge platform, with more than 2 billion daily active unique users.",
+              "But Meta has recently made a renewed effort to make Facebook more culturally relevant again, with CEO Mark Zuckerberg saying last year that he wanted to “get back to some OG Facebook.” As part of that, it introduced a dedicated friends-only feed that ditches the algorithmic junk."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Windows' original Secure Boot certificates expire in June—here's what you need to do",
+            "link": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "53f144ef012de1bd7570cd6e2c891befb6de27bf"
+          },
+          "review": {
+            "headline_rewrite": "Windows' original Secure Boot certificates expire in June—here's what you need to do",
+            "bullets": [
+              "Secure Boot has relied on the same security certificates to verify bootloaders since 2011, during the development cycle for Windows 8.",
+              "And renewing security certificates is a routine occurrence that most users only notice when something goes wrong.",
+              "“However, the device will enter a degraded security state that limits its ability to receive future boot-level protections.",
+              "Over time, this may also lead to compatibility issues, as newer operating systems, firmware, hardware, or Secure Boot–dependent software may fail to load.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Sharge’s new power bank can charge two laptops while putting on a light show",
+            "link": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+            "site_name": "The Verge",
+            "novelty_hash": "732a74af76ff7f69416741475e9f90bfb0a5e21b"
+          },
+          "review": {
+            "headline_rewrite": "Sharge’s new power bank can charge two laptops while putting on a light show",
+            "bullets": [
+              "We first went hands on with it over a year ago at CES 2025, but the power bank is finally available for preorder.",
+              "The earliest backers of Sharge’s latest Kickstarter crowdfunding campaign can preorder the power bank for $149, while its full price is expected to be closer to $199 once delivery starts as early as May 2026."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "This GoPro and Lens Bundle Is $200 Off",
+            "link": "https://www.wired.com/story/gopro-hero-lens-bundle-deal-226/",
+            "site_name": "WIRED",
+            "novelty_hash": "6f191e23b8f6a50f2c4eb3c17bdd8f26f532d841"
+          },
+          "review": {
+            "headline_rewrite": "This GoPro and Lens Bundle Is $200 Off",
+            "bullets": [
+              "It's one of the highest resolution and frame rate offerings you can get, with its 27-megapixel sensor producing up to 5.3K video, and up to 120 fps, although only for five seconds at a time at the highest resolution.",
+              "That said, there are some improvements to the HDR that our reviewer Scott Gilbertson said made a big difference when it came time to start editing."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Hubble showcases the Egg Nebula in all its dying-star glory",
+            "link": "https://www.engadget.com/science/space/hubble-showcases-the-egg-nebula-in-all-its-dying-star-glory-174239769.html",
+            "site_name": "Engadget",
+            "novelty_hash": "2890595a2f586ed4789101a910d5fb7599790a56"
+          },
+          "review": {
+            "headline_rewrite": "Hubble showcases the Egg Nebula in all its dying-star glory",
+            "bullets": [
+              "The new image shows the nebula's four beams of starlight (from that central star) escaping from its gas-and-dust \"shell.\" On either side of the disc-like cloud are fast-moving outflows of hot molecular hydrogen.",
+              "Since the stage only lasts a few thousand years (and because they're often faint), they're relatively difficult for astronomers to spot."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "This Itch.io bundle to help Minnesota includes over 1,200 games and costs just $10",
+            "link": "https://www.engadget.com/gaming/this-itchio-bundle-to-help-minnesota-includes-over-1200-games-and-costs-just-10-190643987.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4004c2bdd869fa11f787ee7ca94a20e654a2fdf1"
+          },
+          "review": {
+            "headline_rewrite": "This Itch.io bundle to help Minnesota includes over 1,200 games and costs just $10",
+            "bullets": [
+              "Itch.io is hosting a bundle to help raise money for the Immigrant Law Center of Minnesota, which was organized by charity creator Jes Wade.",
+              "The No ICE in Minnesota bundle includes nearly 1,300 video games and tabletop games and costs just $10, though those with deep pockets can certainly donate more than that.",
+              "It has a goal of $100,000, which it certainly is on pace to meet.",
+              "Other titles include the bee-collecting sim Apico, the musical sci-fi adventure Periphery Synthetic and the space-based roguelike Hyperspace Dogfights.",
+              "Schools are still being raided and people are still being brutally beaten.",
+              "That's why these fundraising bundles on Itch have become so important."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }

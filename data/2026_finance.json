@@ -65120,5 +65120,29 @@
         }
       ]
     }
+  },
+  "2026-02-11": {
+    "runs": {
+      "00:50": [
+        {
+          "item": {
+            "title": "Oil Fluctuates as Traders Focus on Supply Risks in Middle East",
+            "link": "https://www.livemint.com/market/oil-fluctuates-as-traders-focus-on-supply-risks-in-middle-east-11770749243858.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil Fluctuates as Traders Focus on Supply Risks in Middle East",
+            "bullets": [
+              "(Bloomberg) -- Oil fluctuated alongside equities as traders assess the risks of supply disruptions in the Middle East ahead of a meeting between Israeli",
+              "West Texas Intermediate flipped between gains and losses to trade above $64 a barrel as traders monitored tensions in the Middle East, centered on",
+              "In the absence of clear signals on the direction of the Middle East conflict, oil prices took cues from broader markets.",
+              "During a recent visit to the Gulf, “well-placed regional observers suggested that the fear of higher oil prices could ultimately push” Trump to seek"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
