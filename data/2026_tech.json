@@ -147825,6 +147825,120 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:41": [
+        {
+          "item": {
+            "title": "An ice dance duo skated to AI music at the Olympics",
+            "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8d39485ebdd0b0bd844b8361cd03ea60007f0d0f"
+          },
+          "review": {
+            "headline_rewrite": "An ice dance duo skated to AI music at the Olympics",
+            "bullets": [
+              "But the sibling duo used AI music in their rhythm dance program, which doesn’t break any official rules, but serves as a depressing symbol of how absolutely cooked we are.",
+              "As Mrázek spun his sister in a crazy cartwheel lift sort of move that made them look superhuman, one of the NBC commentators mentioned in passing, “This is AI generated, this first part,” referring to the music.",
+              "The Olympic ice dance competition is split into two events: the rhythm dance, where pairs must perform a routine that meets a specific theme, and the free dance.",
+              "This season’s theme is “The Music, Dance Styles, and Feeling of the 1990s.” British ice dancing duo Lilah Fear and Lewis Gibson paid tribute to the Spice Girls, while United States favorites Madison Chock and Evan Bates skated to a Lenny Kravitz medley.",
+              "— Mrázková and Mrázek danced to a routine with music that’s half AC/DC and half AI.",
+              "What’s even weirder is that this isn’t the duo’s first use of AI, nor is it the first time that this choice backfired."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
+            "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0cb59baa82926fb9bb4a872f3d57c285e1b91291"
+          },
+          "review": {
+            "headline_rewrite": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
+            "bullets": [
+              "Playter took the helm at Boston Dynamics in 2020, taking over from founder Marc Raibert.",
+              "Boston Dynamics was founded in 1992 by Raibert as a spinoff from Massachusetts Institute of Technology, where he was a professor.",
+              "Hyundai, its current owner, acquired the company in 2021."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+            "site_name": "The Verge",
+            "novelty_hash": "c178ea883037cec59e36111ea60f5a03e08dcccb"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+            "bullets": [
+              "OpenAI is updating ChatGPT’s deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports.",
+              "As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT’s reports in a window separate from your chat, while showing a table of contents on the left side of the screen, and a list of sources on the right.",
+              "Deep research, which OpenAI first launched last year, has ChatGPT scour the web to compile an in-depth report about the topic of your choosing.",
+              "OpenAI says these new features are headed to Plus and Pro users starting today, while subscribers to its new ChatGPT Go tier and people who use the app for free will see the deep research update in the “coming days.”"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
+            "link": "https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
+            "site_name": "WIRED",
+            "novelty_hash": "3e9836d7ad56d96ef36bc181f799747ac06ed617"
+          },
+          "review": {
+            "headline_rewrite": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
+            "bullets": [
+              "“Lots of people are furious,” says one source, who asked to remain anonymous for fear of retaliation.",
+              "“We are deeply troubled by leaked documentation revealing that Salesforce has pitched AI technology to U.S.",
+              "“Providing ‘Agentforce’ infrastructure to scale a mass deportation agenda that currently detains 66,000 people—73 percent of whom have no criminal record—represents a fundamental betrayal of our commitment to the ethical use of technology.”\nThe letter argues that Benioff’s voice “carries unique weight in Washington,” pointing to an episode last fall when Trump called off an ICE deployment in San Francisco after what appeared to be outreach from Bay Area tech leaders, including Benioff and Nvidia CEO Jensen Huang.",
+              "It urges Benioff to use that influence as a “corporate statesman” to issue a public statement condemning what it calls ICE’s unconstitutional conduct and to commit Salesforce to clear “red lines” barring the use of its cloud and AI products for state violence.",
+              "He supported Democratic presidential candidate Hillary Clinton in 2016, and later became one of the most high-profile backers of Proposition C, a failed San Francisco ballot measure that would have raised taxes to fund programs addressing homelessness.",
+              "In 2020, he donated to the primary campaigns of some Democratic presidential candidates, including Kamala Harris."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Fitbit’s AI health coach is now available on your iPhone",
+            "link": "https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios",
+            "site_name": "The Verge",
+            "novelty_hash": "4409aaa67fc53e07dc8e7c547f323f86e5d2d7e4"
+          },
+          "review": {
+            "headline_rewrite": "Fitbit’s AI health coach is now available on your iPhone",
+            "bullets": [
+              "Google announced on Tuesday that the public preview of Fitbit’s AI personal health coach is rolling out to iOS users in the U.S.",
+              "Fitbit’s AI health coach is now available on your iPhone\niPhone users can access the AI feature now, but a Fitbit Premium subscription is still required.",
+              "The update tests a major overhaul of Fitbit’s app, introducing a conversational interface with a Gemini-powered AI that interprets your latest results, creates custom routines and workouts based on users’ personal health goals, workout equipment, and training preferences.",
+              "It initially launched in October, when it was only available in the US and only on Android devices.",
+              "According to Fitbit, the AI health coach will be rolling out “over the next few days,” so it may not be available to all eligible users immediately."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Samsung's Galaxy S26 Unpacked event is on February 25",
+            "link": "https://www.engadget.com/mobile/smartphones/samsungs-galaxy-s26-unpacked-event-is-on-february-25-230000375.html",
+            "site_name": "Engadget",
+            "novelty_hash": "ec00f109316724aa75277f543ac6c6fdf1b3caf8"
+          },
+          "review": {
+            "headline_rewrite": "Samsung's Galaxy S26 Unpacked event is on February 25",
+            "bullets": [
+              "The company is officially hosting a Galaxy Unpacked event on February 25 at 1PM ET, where it'll introduce the Galaxy S26 series and updates to Galaxy AI.",
+              "Leaks that have trickled out ahead of the event suggest that the Galaxy S26, S26+ and S26 Ultra will feature a new Snapdragon 8 Elite Gen 5 chip, and could come with more RAM and storage.",
+              "Alongside new smartphones, Samsung is also expected to introduce the Galaxy Buds 4 and 4 Pro, which will reportedly feature a new design, support for head gestures and an Ultra Wideband chip so they're easier to find using Google Find Hub.",
+              "When you do pre-order, the company also claims that it'll offer up to an additional $900 in savings if you trade-in a device or $150 off even without a trade-in if you pre-order through Samsung.com."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
