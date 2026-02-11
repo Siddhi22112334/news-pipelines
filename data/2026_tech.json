@@ -147939,6 +147939,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:35": [
+        {
+          "item": {
+            "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+            "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dd46002274e554901910bfff26b0e604e3653298"
+          },
+          "review": {
+            "headline_rewrite": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+            "bullets": [
+              "The AI industry’s pursuit of licensable content has been a messy affair, filled with lawsuits and accusations of copyright infringement.",
+              "Now, as tech companies look for legally safe sources of AI training data, Amazon is reportedly considering launching a marketplace where publishers can license their content directly to AI companies.",
+              "The Information reported Monday that the e-commerce giant has been meeting with publishing executives and alerting them to its plans to launch such a marketplace.",
+              "Reached by TechCrunch, an Amazon spokesperson didn’t deny the story but didn’t directly address the would-be marketplace either, saying only: “Amazon has built long-lasting, innovative relationships with publishers across many areas of our business, including AWS, Retail, Advertising, AGI, and Alexa.",
+              "Microsoft recently launched what it calls a Publisher Content Marketplace (PCM), which it says will give publishers “a new revenue stream” while also providing AI systems with “scaled access to premium content.” Microsoft added that the PCM was designed to “empower publishers with a transparent economic framework for licensing” their content.",
+              "The move is a natural next step for the AI industry, which has already sought to solve the legally nebulous problem of how copyrighted material ends up in AI training data by forging deals with major news outlets and media organizations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "An ice dance duo skated to AI music at the Olympics",
+            "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1e973ddb6efd902121ae63e03aa96ad3ae623ef2"
+          },
+          "review": {
+            "headline_rewrite": "An ice dance duo skated to AI music at the Olympics",
+            "bullets": [
+              "But the sibling duo used AI music in their rhythm dance program, which doesn’t break any official rules, but serves as a depressing symbol of how absolutely cooked we are.",
+              "As Mrázek spun his sister in a crazy cartwheel-lift-sort-of-move that made them look superhuman, one of the NBC commentators mentioned in passing, “This is AI generated, this first part,” referring to the music.",
+              "The Olympic ice dance competition is split into two events: the rhythm dance, where pairs must perform a routine that meets a specific theme, and the free dance.",
+              "This season’s theme is “The Music, Dance Styles, and Feeling of the 1990s.” British ice dancing duo Lilah Fear and Lewis Gibson paid tribute to the Spice Girls, while United States favorites Madison Chock and Evan Bates skated to a Lenny Kravitz medley.",
+              "— Mrázková and Mrázek danced to a routine with music that’s half AC/DC and half AI.",
+              "What’s even weirder is that this isn’t the duo’s first use of AI, nor is it the first time that this choice backfired."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+            "site_name": "The Verge",
+            "novelty_hash": "c178ea883037cec59e36111ea60f5a03e08dcccb"
+          },
+          "review": {
+            "headline_rewrite": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+            "bullets": [
+              "OpenAI is updating ChatGPT’s deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports.",
+              "As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT’s reports in a window separate from your chat, while showing a table of contents on the left side of the screen, and a list of sources on the right.",
+              "Deep research, which OpenAI first launched last year, has ChatGPT scour the web to compile an in-depth report about the topic of your choosing.",
+              "OpenAI says these new features are headed to Plus and Pro users starting today, while subscribers to its new ChatGPT Go tier and people who use the app for free will see the deep research update in the “coming days.”"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
+            "link": "https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
+            "site_name": "WIRED",
+            "novelty_hash": "79ec313552aeca7da55431633ec788e85a9fbc03"
+          },
+          "review": {
+            "headline_rewrite": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
+            "bullets": [
+              "“Lots of people are furious,” says one source, who asked to remain anonymous for fear of retaliation.",
+              "“We are deeply troubled by leaked documentation revealing that Salesforce has pitched AI technology to U.S.",
+              "“Providing ‘Agentforce’ infrastructure to scale a mass deportation agenda that currently detains 66,000 people—73 percent of whom have no criminal record—represents a fundamental betrayal of our commitment to the ethical use of technology.”\nThe letter argues that Benioff’s voice “carries unique weight in Washington,” pointing to an episode last fall when Trump called off an ICE deployment in San Francisco after what appeared to be outreach from Bay Area tech leaders, including Benioff and Nvidia CEO Jensen Huang.",
+              "It urges Benioff to use that influence as a “corporate statesman” to issue a public statement condemning what it calls ICE’s unconstitutional conduct and to commit Salesforce to clear “red lines” barring the use of its cloud and AI products for state violence.",
+              "He supported Democratic presidential candidate Hillary Clinton in 2016 and later became one of the most high-profile backers of Proposition C, a failed San Francisco ballot measure that would have raised taxes to fund programs to address homelessness.",
+              "In 2020, he donated to the primary campaigns of some Democratic presidential candidates, including Kamala Harris."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out",
+            "link": "https://www.theverge.com/transportation/876703/trump-ev-charging-buy-american-nevi-funds",
+            "site_name": "The Verge",
+            "novelty_hash": "45d9f196287d0b95ab5a38de291a90ab84d08d70"
+          },
+          "review": {
+            "headline_rewrite": "Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out",
+            "bullets": [
+              "He tried to freeze $5 billion in funding for the National Electric Vehicle Infrastructure (NEVI) program, which was approved as part of the Bipartisan Infrastructure Law.",
+              "Trump’s new ‘Buy American’ requirement for EV charging would dramatically curtail build-out\nOf course, that was likely the plan all along.",
+              "EV chargers must now be built in the US, with components that also originate in the US, in order to receive federal funding, the US Department of Transportation said today.",
+              "Under the proposal, EV chargers would need to boost their US-made parts from 55 percent to 100 percent in order to be eligible for NEVI funding.",
+              "“This proposal does not meet industry where it is today and may discourage further investment in the production of U.S.-made EV chargers,” Albert Gore, executive director of the Zero Emissions Transportation Association, said in a statement.",
+              "“Ultimately, this will hinder the job growth that Buy America is intended to create.”\nThe reason, of course, is that most of the supply chain for EV charging equipment runs through China."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Samsung's Galaxy S26 Unpacked event is on February 25",
+            "link": "https://www.engadget.com/mobile/smartphones/samsungs-galaxy-s26-unpacked-event-is-on-february-25-230000375.html",
+            "site_name": "Engadget",
+            "novelty_hash": "ec00f109316724aa75277f543ac6c6fdf1b3caf8"
+          },
+          "review": {
+            "headline_rewrite": "Samsung's Galaxy S26 Unpacked event is on February 25",
+            "bullets": [
+              "The company is officially hosting a Galaxy Unpacked event on February 25 at 1PM ET, where it'll introduce the Galaxy S26 series and updates to Galaxy AI.",
+              "Leaks that have trickled out ahead of the event suggest that the Galaxy S26, S26+ and S26 Ultra will feature a new Snapdragon 8 Elite Gen 5 chip, and could come with more RAM and storage.",
+              "Alongside new smartphones, Samsung is also expected to introduce the Galaxy Buds 4 and 4 Pro, which will reportedly feature a new design, support for head gestures and an Ultra Wideband chip so they're easier to find using Google Find Hub.",
+              "When you do pre-order, the company also claims that it'll offer up to an additional $900 in savings if you trade-in a device or $150 off even without a trade-in if you pre-order through Samsung.com."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
