@@ -149755,6 +149755,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:04": [
+        {
+          "item": {
+            "title": "Is your campaign structure holding you back in the era of AI?",
+            "link": "https://blog.google/products/ads-commerce/is-your-campaign-structure-holding-you-back-in-the-era-of-ai/",
+            "site_name": "Google",
+            "novelty_hash": "1a121c7809ff5305e2a0516c449acb1553bd93b1"
+          },
+          "review": {
+            "headline_rewrite": "Is your campaign structure holding you back in the era of AI?",
+            "bullets": [
+              "Advertisers built elaborate, multi-layered campaigns to cover every variable, from match types to device bids.",
+              "In an era powered by AI, could your structure be holding you back?",
+              "In the latest episode of the Ads Decoded podcast, host and Ads Product Liaison Ginny Marvin sits down with Brandon Ervin, Director of Product Management for Search Ads, to explore the benefits of simplified campaign structures and the growing importance of early-stage search intent.",
+              "Brandon and Ginny also discuss new controls and why a curiosity mindset can help you turn campaign setups into strategic levers for success."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s Siri revamp reportedly delayed… again",
+            "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "37c48b3dbbfe16dcc22d0bc4cce4d1c2177289b3"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s Siri revamp reportedly delayed… again",
+            "bullets": [
+              "Apple has been promising a new-and-improved, cutting-edge, AI-powered Siri since it first unveiled Apple Intelligence in 2024.",
+              "According to a new report from Bloomberg’s Mark Gurman, we’ll likely have to wait even longer.",
+              "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
+              "Apparently, Apple ran into trouble when testing the software, requiring the launch date to be pushed back further.",
+              "The changes are rumored to make the longtime digital assistant more like the LLM chatbots that have swept the tech world — but instead of opening up a ChatGPT or Claude app on your iPhone or MacBook, you would be able to just talk to Siri, which will be powered by Google Gemini.",
+              "We’re starting to feel bad for the Siri product managers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
+            "link": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dc8626ace4217820ced450c7c61d0dca8d7ac7c5"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
+            "bullets": [
+              "Microsoft has rolled out fixes for security vulnerabilities in Windows and Office, which the company says are being actively abused by hackers to break into people’s computers.",
+              "The exploits are one-click attacks, meaning that a hacker can plant malware or gain access to a victim’s computer with minimal user interaction.",
+              "Details of how to exploit the bugs have been published, Microsoft said, potentially increasing the chance of hacks.",
+              "In its bug reports, Microsoft acknowledged the input of security researchers in Google’s Threat Intelligence Group in their discovery of the vulnerabilities.",
+              "Microsoft said one of the bugs, officially tracked as CVE-2026-21510, was found in the Windows shell, which powers the operating system’s user interface.",
+              "The bug affects all supported versions of Windows, the company said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Aurora says it will ‘triple’ its driverless truck network",
+            "link": "https://www.theverge.com/transportation/877191/aurora-driverless-truck-triple-routes-texas",
+            "site_name": "The Verge",
+            "novelty_hash": "408df631f780ae00f83c48f42855753b3656ffe9"
+          },
+          "review": {
+            "headline_rewrite": "Aurora says it will ‘triple’ its driverless truck network",
+            "bullets": [
+              "The company is also using AI to build new maps for its autonomous driving system, with the goal of shortening the time between testing, validation, and commercial operation.",
+              "According to Aurora:\nAfter a single manual drive, cloud-based algorithms are able to generate semantic components, which helps to build new maps with little to no human assistance.",
+              "Aurora is still operating trucks with safety monitors for several of its clients, including Hirschbach Motor Lines, Detmar Logistics, and “one of the leading carriers in the US from its Phoenix facility.” Aurora CEO Chris Urmson said previously that the company complies with requests from partners to keep safety drivers in the cab as a matter of optics, not an indicator of technological regression.",
+              "Aurora says it will launch the new truck without a safety monitor in the second quarter of 2026.",
+              "Lastly, Aurora said its cash position has improved.",
+              "Previously, Urmson said that Aurora had roughly $1.6 billion in the bank, enough to last until the second half of 2027."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple keeps hitting bumps with its overhauled Siri",
+            "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
+            "site_name": "The Verge",
+            "novelty_hash": "021526d5b207394d5871f8935735f9401a87ce71"
+          },
+          "review": {
+            "headline_rewrite": "Apple keeps hitting bumps with its overhauled Siri",
+            "bullets": [
+              "Apple had planned to launch those features with iOS 26.4, which is set to launch in March, but “testing uncovered fresh problems with the software,” according to Bloomberg.",
+              "Apple is also working on an AI chatbot version of Siri that’s slated for launch with iOS 27, iPadOS, and macOS 27, Bloomberg reported in January.",
+              "The plan is to reveal it in June at the Worldwide Developers Conference ahead of a September launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices",
+            "link": "https://arstechnica.com/gadgets/2026/02/apple-releases-ios-26-3-with-updates-that-mainly-benefit-non-apple-devices/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1fd2a81b15fe1a7c8528e8cb1d5aabb94f0e47b8"
+          },
+          "review": {
+            "headline_rewrite": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices",
+            "bullets": [
+              "The 26.3 updates for these operating systems are fairly mild, focusing mostly on bug fixes and security patches, but Apple is adding a handful of iPhone features designed to make it easier to use third-party devices in Apple’s ecosystem.",
+              "Apple offers to transfer “photos, messages, notes, apps, and more,” as well as the user’s phone number, but won’t transfer things like Bluetooth pairing information or sensitive data from the Health app.",
+              "Apps using this framework can import and export data to and from other devices and also access and download content the app has stored in the cloud.",
+              "The transfer system will rely on the target Android phone also supporting the feature; on Google’s end, the Data Transfer API was only added in the recent “QPR2” update to Android 16, released in early December.",
+              "But as with Android’s gradually improving support for AirDrop, better interoperability is a pretty straightforward win for users."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
