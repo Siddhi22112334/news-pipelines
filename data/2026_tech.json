@@ -149524,5 +149524,126 @@
         }
       ]
     }
+  },
+  "2026-02-12": {
+    "runs": {
+      "01:07": [
+        {
+          "item": {
+            "title": "Amazon’s new eero Signal keeps you connected to the internet when outages occur",
+            "link": "https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4039e495944e779df669efcb52d02cfa1c46b3ce"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s new eero Signal keeps you connected to the internet when outages occur",
+            "bullets": [
+              "It’s ideal for work-from-home employees, those needing security systems to stay online, or those in areas prone to outages.",
+              "At launch, users can choose between a $99.99 annual eero Plus subscription with 10 GB of backup data or a $199.99 eero Plus 100 plan with 100 GB of data.",
+              "Later this year, the company will also launch a 5G version of the eero Signal for $199.99, and support for the device will come to those on eero Business plans, as well."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How AI changes the math for startups, according to a Microsoft VP",
+            "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a1b925eb8c3535311368135bc2390b174923102c"
+          },
+          "review": {
+            "headline_rewrite": "How AI changes the math for startups, according to a Microsoft VP",
+            "bullets": [
+              "For 24 years, Microsoft’s Amanda Silver has been working to help developers — and in the last few years, that’s meant building tools for AI.",
+              "After a long stretch on GitHub Copilot, Silver is now a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
+              "Her work is focused on the Foundry system inside Azure, which is designed as a unified AI portal for enterprises, giving her a close view of how companies are actually using these systems and where deployments end up falling short.",
+              "I spoke with Silver about the current capabilities of enterprise agents, and why she believes this is the biggest opportunity for startups since the public cloud.",
+              "So, your work focuses on Microsoft products for outside developers — often startups that aren’t otherwise focused on AI.",
+              "How do you see AI impacting those companies?"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
+            "link": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
+            "site_name": "The Verge",
+            "novelty_hash": "b94b5437135e5f049c4578a311d576dfc7a3b27b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
+            "bullets": [
+              "Microsoft has fixed a serious security vulnerability affecting Markdown files in Notepad.",
+              "Clicking the link would “launch unverified protocols,” allowing attackers to remotely load and execute malicious files on a victim’s computer, according to the patch notes.",
+              "Microsoft says there isn’t any evidence of attackers exploiting the Notepad vulnerability (CVE-2026-20841) in the wild, but it issued a fix for the flaw in its Tuesday patch.",
+              "Microsoft initially added support for Markdown, a plaintext formatting language, to Notepad on Windows 11 last May.",
+              "The move contributed to criticism that Microsoft is filling its operating system with bloatware, including by stuffing new features and AI capabilities into apps like Notepad and Paint.",
+              "Notepad isn’t the only text editor that has faced security issues recently, as the third-party Notepad++ app disclosed that some users may have downloaded a malicious update linked to Chinese state-sponsored attackers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see",
+            "link": "https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm",
+            "site_name": "The Verge",
+            "novelty_hash": "99f96ca321e038b4389b70b1cf2d4feb1819586b"
+          },
+          "review": {
+            "headline_rewrite": "Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see",
+            "bullets": [
+              "Threads now lets users in the US adjust what is recommended in their feed by writing “Dear Algo” in a post and explaining what they’re looking for.",
+              "The feature has already been available in testing in Australia, Canada, New Zealand, and the United Kingdom, and now that test is launching in the US.",
+              "You can also ask that Threads show you less of a certain type of topic, too.",
+              "This year, Meta is focused on making Threads “more timely, more dynamic, and essential in people’s daily lives,” Hayes says in an interview with The Verge."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+            "link": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
+            "site_name": "WIRED",
+            "novelty_hash": "804261725054acc01f19efef1fe61f20bccdd031"
+          },
+          "review": {
+            "headline_rewrite": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
+            "bullets": [
+              "Previously known as both Clawdbot and Moltbot, OpenClaw recently became a Silicon Valley darling, charming AI enthusiasts and investors eager to either embrace the bleeding edge or profit from it.",
+              "The highly capable, web-savvy AI bot has even inspired its own AI-only (or mostly) social network.",
+              "But any sense of wonder is accompanied by a dollop of terror as the AI agent romps through emails and file systems, wields a credit card, and occasionally even turns on its human user (although in my case, this about-face was entirely my fault).",
+              "You need to give the bot an AI backend by generating an API key for Claude, GPT, or Gemini, which you paste into the bot’s config files.",
+              "I created a Brave Browser Search API account to let OpenClaw search the web.",
+              "And, God help me, I gave it access to email, Slack, and Discord servers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The ICE Expansion Won't Happen in the Dark",
+            "link": "https://www.wired.com/story/ice-expansion-wont-happen-in-the-dark/",
+            "site_name": "WIRED",
+            "novelty_hash": "4ba36fa39fefc6cf98e6d0bbbf579d3d2ae600fd"
+          },
+          "review": {
+            "headline_rewrite": "The ICE Expansion Won't Happen in the Dark",
+            "bullets": [
+              "On Tuesday, WIRED published details of ICE’s planned expansion into more than 150 office spaces across the United States, including 54 specific addresses.",
+              "Its enforcement officers and lawyers will have cubicles a modest drive away from giant warehouses that have been tapped to hold thousands of humans that ICE will detain.",
+              "More than 100 addresses remain unknown, some of them in high-concentration states like New York and New Jersey.",
+              "The specific nature of the work being done in some of these offices remains unclear, as is how long ICE plans to be there.",
+              "At the same time, the Department of Justice has become increasingly aggressive in its dealings with journalists, and has repeatedly claimed that revealing any identifying information about ICE agents or their activities is “doxing.” In Minnesota and beyond, ICE and CBP agents have treated observers as enemies, arresting and reportedly harassing them with increased frequency.",
+              "Knowing where ICE will go next is not the same as stopping the agency’s campaign of cruelty and violence."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
