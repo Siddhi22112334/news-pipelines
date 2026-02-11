@@ -149871,6 +149871,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:00": [
+        {
+          "item": {
+            "title": "Is your campaign structure holding you back in the era of AI?",
+            "link": "https://blog.google/products/ads-commerce/is-your-campaign-structure-holding-you-back-in-the-era-of-ai/",
+            "site_name": "Google",
+            "novelty_hash": "1a121c7809ff5305e2a0516c449acb1553bd93b1"
+          },
+          "review": {
+            "headline_rewrite": "Is your campaign structure holding you back in the era of AI?",
+            "bullets": [
+              "Advertisers built elaborate, multi-layered campaigns to cover every variable, from match types to device bids.",
+              "In an era powered by AI, could your structure be holding you back?",
+              "In the latest episode of the Ads Decoded podcast, host and Ads Product Liaison Ginny Marvin sits down with Brandon Ervin, Director of Product Management for Search Ads, to explore the benefits of simplified campaign structures and the growing importance of early-stage search intent.",
+              "Brandon and Ginny also discuss new controls and why a curiosity mindset can help you turn campaign setups into strategic levers for success."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s Siri revamp reportedly delayed… again",
+            "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "37c48b3dbbfe16dcc22d0bc4cce4d1c2177289b3"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s Siri revamp reportedly delayed… again",
+            "bullets": [
+              "Apple has been promising a new-and-improved, cutting-edge, AI-powered Siri since it first unveiled Apple Intelligence in 2024.",
+              "According to a new report from Bloomberg’s Mark Gurman, we’ll likely have to wait even longer.",
+              "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
+              "Apparently, Apple ran into trouble when testing the software, requiring the launch date to be pushed back further.",
+              "The changes are rumored to make the longtime digital assistant more like the LLM chatbots that have swept the tech world — but instead of opening up a ChatGPT or Claude app on your iPhone or MacBook, you would be able to just talk to Siri, which will be powered by Google Gemini.",
+              "We’re starting to feel bad for the Siri product managers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+            "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "42dca57bc0cff70998e515733d2dc17d9dfc8e18"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+            "bullets": [
+              "OpenAI has disbanded a team that focused on — as the company itself described — ensuring that its AI systems are “safe, trustworthy, and consistently aligned with human values.” At the same time, the team’s former leader has been given a new role as the company’s “chief futurist.”\nOpenAI confirmed to TechCrunch that the team’s members have now been assigned to other roles.",
+              "That’s a broad field of interest within the industry that seeks to ensure that AI acts in accordance with human interests.",
+              "“We want these systems to consistently follow human intent in complex, real-world scenarios and adversarial conditions, avoid catastrophic behavior, and remain controllable, auditable, and aligned with human values,” a post from OpenAI’s Alignment Research blog declares.",
+              "An OpenAI job posting for the Alignment team describes it as being dedicated to AI research that focuses on “developing methodologies that enable AI to robustly follow human intent across a wide range of scenarios, including those that are adversarial or high-stakes.”\nIn a blog post published Wednesday, Josh Achiam, the former head of OpenAI’s Alignment team, explained his new role as the company’s chief futurist.",
+              "“My goal is to support OpenAI’s mission — to ensure that artificial general intelligence benefits all of humanity — by studying how the world will change in response to AI, AGI, and beyond,” Achiam wrote.",
+              "Achiam noted that, in his new role, he would be collaborating with Jason Pruet, a physicist from OpenAI’s technical staff."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Aurora says it will ‘triple’ its driverless truck network",
+            "link": "https://www.theverge.com/transportation/877191/aurora-driverless-truck-triple-routes-texas",
+            "site_name": "The Verge",
+            "novelty_hash": "408df631f780ae00f83c48f42855753b3656ffe9"
+          },
+          "review": {
+            "headline_rewrite": "Aurora says it will ‘triple’ its driverless truck network",
+            "bullets": [
+              "The company is also using AI to build new maps for its autonomous driving system, with the goal of shortening the time between testing, validation, and commercial operation.",
+              "According to Aurora:\nAfter a single manual drive, cloud-based algorithms are able to generate semantic components, which helps to build new maps with little to no human assistance.",
+              "Aurora is still operating trucks with safety monitors for several of its clients, including Hirschbach Motor Lines, Detmar Logistics, and “one of the leading carriers in the US from its Phoenix facility.” Aurora CEO Chris Urmson said previously that the company complies with requests from partners to keep safety drivers in the cab as a matter of optics, not an indicator of technological regression.",
+              "Aurora says it will launch the new truck without a safety monitor in the second quarter of 2026.",
+              "Lastly, Aurora said its cash position has improved.",
+              "Previously, Urmson said that Aurora had roughly $1.6 billion in the bank, enough to last until the second half of 2027."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple keeps hitting bumps with its overhauled Siri",
+            "link": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
+            "site_name": "The Verge",
+            "novelty_hash": "021526d5b207394d5871f8935735f9401a87ce71"
+          },
+          "review": {
+            "headline_rewrite": "Apple keeps hitting bumps with its overhauled Siri",
+            "bullets": [
+              "Apple had planned to launch those features with iOS 26.4, which is set to launch in March, but “testing uncovered fresh problems with the software,” according to Bloomberg.",
+              "Apple is also working on an AI chatbot version of Siri that’s slated for launch with iOS 27, iPadOS, and macOS 27, Bloomberg reported in January.",
+              "The plan is to reveal it in June at the Worldwide Developers Conference ahead of a September launch."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?",
+            "link": "https://www.wired.com/story/winter-olympics-heated-rivalry-effect-lgbtq-inclusivity/",
+            "site_name": "WIRED",
+            "novelty_hash": "1a02363fbdc06c715a365144f440ae3b91436e16"
+          },
+          "review": {
+            "headline_rewrite": "‘Heated Rivalry’ Is Bringing New Fans to Hockey. Does the Sport Deserve Them?",
+            "bullets": [
+              "From \"big air\" to curling, the Olympics are all about people banding together to fixate on sports they barely knew existed a month ago.",
+              "Both Storrie and Williams were torch bearers and many athletes have praised the show.",
+              "Recently Browne called out USA Hockey’s decision to reverse its inclusive 2019 policy for trans players and limit trans players' ability to participate in programs that are designated by sex, which includes rec teams.",
+              "The new policy, which will go into effect April 1, means that in any program “where participation is restricted by sex, athletes are only permitted to participate in such programs based on their sex assigned at birth.” It also states that trans men can’t play in games, even so-called “beer” league games, for women players if they have “undergone male hormone therapy.”\nBrowne explains it more plainly.",
+              "“Like, we're just adults having fun.”\nAs for why the change is taking place, Browne, who is Canadian, says, “we can't really overlook the fact that the current [President Trump] administration is really putting a lot of pressure on sports leagues, withholding funding, other types of threats if they don't come up with policies that exclude trans people.”\nUSA Hockey, the governing body for the sport in the US and its Olympic teams, did not respond to WIRED’s request for comment.",
+              "Trump campaigned against policies that supported gender diversity in 2024 and signed several anti-trans executive orders early in his second term."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
