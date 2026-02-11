@@ -149988,6 +149988,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:33": [
+        {
+          "item": {
+            "title": "Is your campaign structure holding you back in the era of AI?",
+            "link": "https://blog.google/products/ads-commerce/is-your-campaign-structure-holding-you-back-in-the-era-of-ai/",
+            "site_name": "Google",
+            "novelty_hash": "1a121c7809ff5305e2a0516c449acb1553bd93b1"
+          },
+          "review": {
+            "headline_rewrite": "Is your campaign structure holding you back in the era of AI?",
+            "bullets": [
+              "Advertisers built elaborate, multi-layered campaigns to cover every variable, from match types to device bids.",
+              "In an era powered by AI, could your structure be holding you back?",
+              "In the latest episode of the Ads Decoded podcast, host and Ads Product Liaison Ginny Marvin sits down with Brandon Ervin, Director of Product Management for Search Ads, to explore the benefits of simplified campaign structures and the growing importance of early-stage search intent.",
+              "Brandon and Ginny also discuss new controls and why a curiosity mindset can help you turn campaign setups into strategic levers for success."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s Siri revamp reportedly delayed… again",
+            "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "37c48b3dbbfe16dcc22d0bc4cce4d1c2177289b3"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s Siri revamp reportedly delayed… again",
+            "bullets": [
+              "Apple has been promising a new-and-improved, cutting-edge, AI-powered Siri since it first unveiled Apple Intelligence in 2024.",
+              "According to a new report from Bloomberg’s Mark Gurman, we’ll likely have to wait even longer.",
+              "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
+              "Apparently, Apple ran into trouble when testing the software, requiring the launch date to be pushed back further.",
+              "The changes are rumored to make the longtime digital assistant more like the LLM chatbots that have swept the tech world — but instead of opening up a ChatGPT or Claude app on your iPhone or MacBook, you would be able to just talk to Siri, which will be powered by Google Gemini.",
+              "We’re starting to feel bad for the Siri product managers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+            "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "42dca57bc0cff70998e515733d2dc17d9dfc8e18"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+            "bullets": [
+              "OpenAI has disbanded a team that focused on — as the company itself described — ensuring that its AI systems are “safe, trustworthy, and consistently aligned with human values.” At the same time, the team’s former leader has been given a new role as the company’s “chief futurist.”\nOpenAI confirmed to TechCrunch that the team’s members have now been assigned to other roles.",
+              "That’s a broad field of interest within the industry that seeks to ensure that AI acts in accordance with human interests.",
+              "“We want these systems to consistently follow human intent in complex, real-world scenarios and adversarial conditions, avoid catastrophic behavior, and remain controllable, auditable, and aligned with human values,” a post from OpenAI’s Alignment Research blog declares.",
+              "An OpenAI job posting for the Alignment team describes it as being dedicated to AI research that focuses on “developing methodologies that enable AI to robustly follow human intent across a wide range of scenarios, including those that are adversarial or high-stakes.”\nIn a blog post published Wednesday, Josh Achiam, the former head of OpenAI’s Alignment team, explained his new role as the company’s chief futurist.",
+              "“My goal is to support OpenAI’s mission — to ensure that artificial general intelligence benefits all of humanity — by studying how the world will change in response to AI, AGI, and beyond,” Achiam wrote.",
+              "Achiam noted that, in his new role, he would be collaborating with Jason Pruet, a physicist from OpenAI’s technical staff."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Aurora says it will ‘triple’ its driverless truck network",
+            "link": "https://www.theverge.com/transportation/877191/aurora-driverless-truck-triple-routes-texas",
+            "site_name": "The Verge",
+            "novelty_hash": "408df631f780ae00f83c48f42855753b3656ffe9"
+          },
+          "review": {
+            "headline_rewrite": "Aurora says it will ‘triple’ its driverless truck network",
+            "bullets": [
+              "The company is also using AI to build new maps for its autonomous driving system, with the goal of shortening the time between testing, validation, and commercial operation.",
+              "According to Aurora:\nAfter a single manual drive, cloud-based algorithms are able to generate semantic components, which helps to build new maps with little to no human assistance.",
+              "Aurora is still operating trucks with safety monitors for several of its clients, including Hirschbach Motor Lines, Detmar Logistics, and “one of the leading carriers in the US from its Phoenix facility.” Aurora CEO Chris Urmson said previously that the company complies with requests from partners to keep safety drivers in the cab as a matter of optics, not an indicator of technological regression.",
+              "Aurora says it will launch the new truck without a safety monitor in the second quarter of 2026.",
+              "Lastly, Aurora said its cash position has improved.",
+              "Previously, Urmson said that Aurora had roughly $1.6 billion in the bank, enough to last until the second half of 2027."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
+            "site_name": "The Verge",
+            "novelty_hash": "7be3bf1f16f3408b95ccad9540a2946ca6eaa539"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
+            "bullets": [
+              "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents’ electricity bills.",
+              "Anthropic says it’ll try to keep its data centers from raising electricity costs\nFacing growing backlash over energy-hungry data centers, Anthropic joins other tech companies in its promises to limit costs.",
+              "The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids.",
+              "Anthropic didn’t provide details today about any agreements it has inked with energy companies in order to accomplish these goals.",
+              "In November, it shared a $50 billion plan to build data centers in New York and Texas “with more sites to come.”\nAs part of its pledge, Anthropic says it’ll support efforts to get new power sources online to meet growing electricity demand from AI.",
+              "It also claims it’ll be willing to cut its power consumption during demand peaks, a step that could help relieve pressure on power grids during a heatwave or cold snap."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+            "link": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "420fd96b0600d7526c69102454a0e1f616cd0229"
+          },
+          "review": {
+            "headline_rewrite": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+            "bullets": [
+              "Researchers said Wednesday that Lumma is once again “back at scale” in hard-to-detect attacks that pilfer credentials and sensitive files.",
+              "Its cloud-based malware-as-a-service model provided a sprawling infrastructure of domains for hosting lure sites offering free cracked software, games, and pirated movies, as well as command-and-control channels and everything else a threat actor needed to run their infostealing enterprise.",
+              "Last year, Microsoft said Lumma had become the “go-to tool” for multiple crime groups, including Scattered Spider, one of the most prolific groups.",
+              "In May, they said they seized 2,300 domains, command-and-control infrastructure, and crime marketplaces that had enabled the infostealer to thrive.",
+              "Recently, however, the malware has made a comeback, allowing it to infect a significant number of machines again.",
+              "“LummaStealer is back at scale, despite a major 2025 law-enforcement takedown that disrupted thousands of its command-and-control domains,” researchers from security firm Bitdefender wrote."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
