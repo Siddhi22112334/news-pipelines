@@ -149402,6 +149402,126 @@
             "impact": "Positive"
           }
         }
+      ],
+      "23:47": [
+        {
+          "item": {
+            "title": "How AI changes the math for startups, according to a Microsoft VP",
+            "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d0e04a5da22ca1085d57799ae2e030c276dc1e9b"
+          },
+          "review": {
+            "headline_rewrite": "How AI changes the math for startups, according to a Microsoft VP",
+            "bullets": [
+              "For 24 years, Microsoft’s Amanda Silver has been working to help developers — and in the last few years, that’s meant building tools for AI.",
+              "After a long stretch on GitHub Copilot, Silver is now a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
+              "Her work is focused on the Foundry system inside Azure, which is designed as a unified AI portal for enterprises, giving her a close view of how companies are actually using these systems and where deployments end up falling short.",
+              "I spoke with Silver about the current capabilities of enterprise agents, and why she believes this is the biggest opportunity for startups since the public cloud.",
+              "So, your work focuses on Microsoft products for outside developers – often startups that aren’t otherwise focused on AI.",
+              "How do you see AI impacting those companies?"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google releases the first beta of Android 17, adopts a continous developer release plan",
+            "link": "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fc409333c6e638b1e0f9840f222a53a043eb1b29"
+          },
+          "review": {
+            "headline_rewrite": "Google releases the first beta of Android 17, adopts a continous developer release plan",
+            "bullets": [
+              "Most importantly, it’s changing how developers get access to new APIs and features of the latest version.",
+              "The company said that because of this approach, features and API become available to developers as soon as they are approved in internal testing.",
+              "Plus, the Canary channel allows for over the air update, benefiting developers with more integrated workflows and better ways to test their apps.",
+              "Google said it’s targeting March for platform stability with the planned release of Android 17 in Q2 2026.",
+              "With Android 16’s release last year, Google adopted a two-release structure in a calendar year with a major SDK release in the first half and a minor SDK release in the second half of the year.",
+              "It’s adding APIs to let developers handle camera transitions more smoothly, support for VVC (H.266) video codec, better handling of loudness across apps to maintain consistent volume, and stricter controls for background audio."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
+            "link": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
+            "site_name": "The Verge",
+            "novelty_hash": "b94b5437135e5f049c4578a311d576dfc7a3b27b"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
+            "bullets": [
+              "Microsoft has fixed a serious security vulnerability affecting Markdown files in Notepad.",
+              "Clicking the link would “launch unverified protocols,” allowing attackers to remotely load and execute malicious files on a victim’s computer, according to the patch notes.",
+              "Microsoft says there isn’t any evidence of attackers exploiting the Notepad vulnerability (CVE-2026-20841) in the wild, but it issued a fix for the flaw in its Tuesday patch.",
+              "Microsoft initially added support for Markdown, a plaintext formatting language, to Notepad on Windows 11 last May.",
+              "The move contributed to criticism that Microsoft is filling its operating system with bloatware, including by stuffing new features and AI capabilities into apps like Notepad and Paint.",
+              "Notepad isn’t the only text editor that has faced security issues recently, as the third-party Notepad++ app disclosed that some users may have downloaded a malicious update linked to Chinese state-sponsored attackers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see",
+            "link": "https://www.theverge.com/tech/876610/meta-threads-dear-algo-algorithm",
+            "site_name": "The Verge",
+            "novelty_hash": "99f96ca321e038b4389b70b1cf2d4feb1819586b"
+          },
+          "review": {
+            "headline_rewrite": "Threads’ new ‘Dear Algo’ feature lets you tell the algorithm what you want to see",
+            "bullets": [
+              "Threads now lets users in the US adjust what is recommended in their feed by writing “Dear Algo” in a post and explaining what they’re looking for.",
+              "The feature has already been available in testing in Australia, Canada, New Zealand, and the United Kingdom, and now that test is launching in the US.",
+              "You can also ask that Threads show you less of a certain type of topic, too.",
+              "This year, Meta is focused on making Threads “more timely, more dynamic, and essential in people’s daily lives,” Hayes says in an interview with The Verge."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
+            "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+            "site_name": "WIRED",
+            "novelty_hash": "d9e3bad75cbfef101208d8878f43815abf43aa5f"
+          },
+          "review": {
+            "headline_rewrite": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
+            "bullets": [
+              "United States Customs and Border Protection plans to spend $225,000 for a year of access to Clearview AI, a face recognition tool that compares photos against billions of images scraped from the internet.",
+              "The deal extends access to Clearview tools to Border Patrol’s headquarters intelligence division (INTEL) and the National Targeting Center, units that collect and analyze data as part of what CBP calls a coordinated effort to “disrupt, degrade, and dismantle” people and networks viewed as security threats.",
+              "The contract states that Clearview provides access to “over 60+ billion publicly available images” and will be used for “tactical targeting” and “strategic counter-network analysis,” indicating the service is intended to be embedded in analysts’ day-to-day intelligence work rather than reserved for isolated investigations.",
+              "CBP says its intelligence units draw from a “variety of sources,” including commercially available tools and publicly available data, to identify people and map their connections for national security and immigration operations.",
+              "It does not specify what kinds of photos agents will upload, whether searches may include US citizens, or how long uploaded images or search results will be retained.",
+              "The Clearview contract lands as the Department of Homeland Security faces mounting scrutiny over how face recognition is used in federal enforcement operations far beyond the border, including large-scale actions in US cities that have swept up US citizens."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The best VPN service for 2026",
+            "link": "https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1155bc0b271758cced2da2eae6deb2517bd65283"
+          },
+          "review": {
+            "headline_rewrite": "The best VPN service for 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "For each VPN on this list, I've shared which platforms it works on, how much it cuts into your download speed, where it offers servers, what other features are included and how much the best available deal costs.",
+              "Every feature is where you expect it to be, never demanding any digging or leaving you perplexed about what a certain setting is for.",
+              "There's no drop-off in quality between platforms, either: Proton has clearly paid equally close attention to its clients for Windows, Mac, iOS and Android.",
+              "It's also a VPN uniquely devoted to security and privacy.",
+              "Not only did it pass my leak tests without a scratch, but it's also a leader in physical VPN security — its Secure Core servers connect you through locations fortified in the real-world."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
