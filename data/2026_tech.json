@@ -151425,6 +151425,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:05": [
+        {
+          "item": {
+            "title": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+            "link": "https://blogs.nvidia.com/blog/dgx-spark-higher-education/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "8284919eb65e7cdb9b0048cfbcb901947d59d1ac"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+            "bullets": [
+              "At leading institutions across the globe, the NVIDIA DGX Spark desktop supercomputer is bringing data‑center‑class AI to lab benches, faculty offices and students’ systems.",
+              "The compact supercomputer’s petaflop‑class performance enables local deployment of large AI applications, from clinical report evaluators to robotics perception systems, all while keeping sensitive data on site and shortening iteration loops for researchers and learners.",
+              "Powered by the NVIDIA GB10 superchip and the NVIDIA DGX operating system, each DGX Spark unit supports AI models of up to 200 billion parameters and integrates seamlessly with the NVIDIA NeMo, Metropolis, Holoscan and Isaac platforms, giving students access to the same professional-grade tools used across the DGX ecosystem.",
+              "Read more below on how DGX Spark powers groundbreaking AI work at leading institutions worldwide.",
+              "IceCube Neutrino Observatory: Studying Particles in the South Pole\nAt the University of Wisconsin-Madison’s IceCube Neutrino Observatory in Antarctica, researchers are using DGX Spark to run AI models for its experiments studying the universe’s most cataclysmic events, using subatomic particles called neutrinos.",
+              "“There’s no hardware store in the South Pole, which is technically a desert, with relative humidity under 5% and an elevation of 10,000 feet, meaning very limited power,” Riedel said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
+            "link": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "a2d43df4fa80e1debc20b13973226b629beac204"
+          },
+          "review": {
+            "headline_rewrite": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
+            "bullets": [
+              "Each of these AI-powered interactions is built on the same unit of intelligence: a token.",
+              "Scaling these AI interactions requires businesses to consider whether they can afford more tokens.",
+              "In the same way, investments in AI infrastructure can lead to far greater token output compared with the increase in cost — causing a meaningful reduction in the cost per token.",
+              "That’s why leading inference providers including Baseten, DeepInfra, Fireworks AI and Together AI are using the NVIDIA Blackwell platform, which helps them reduce cost per token by up to 10x compared with the NVIDIA Hopper platform.",
+              "Healthcare — Baseten and Sully.ai Cut AI Inference Costs by 10x\nIn healthcare, tedious, time-consuming tasks like medical coding, documentation and managing insurance forms cut into the time doctors can spend with patients.",
+              "Sully.ai helps solve this problem by developing “AI employees” that can handle routine tasks like medical coding and note-taking."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Our new report details the latest ways threat actors are misusing AI.",
+            "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/",
+            "site_name": "Google",
+            "novelty_hash": "57fb59dbab88cf2524267649ecdbd4d6d9e8f5df"
+          },
+          "review": {
+            "headline_rewrite": "Our new report details the latest ways threat actors are misusing AI.",
+            "bullets": [
+              "Over the last few months, Google Threat Intelligence Group (GTIG) has observed threat actors using AI to gather information, create super-realistic phishing scams and develop malware.",
+              "While we haven’t observed direct attacks on frontier models or generative AI products from advanced persistent threat (APT) actors, we have seen and mitigated frequent model extraction attacks (a type of corporate espionage) from private sector entities all over the world — a threat other businesses’ with AI models will likely face in the near future.",
+              "Today we released a report that details these observations and how we’ve taken action, including by disabling associated accounts in order to disrupt malicious activity.",
+              "We’ve also strengthened both our security controls and Gemini models against misuse.",
+              "Read the full report on the Google Cloud Threat Intelligence blog."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+            "site_name": "Google",
+            "novelty_hash": "3c80bd4604fe1f0e830280cbd0bdb07535a69969"
+          },
+          "review": {
+            "headline_rewrite": "Gemini 3 Deep Think: Advancing science, research and engineering",
+            "bullets": [
+              "We updated Gemini 3 Deep Think in close partnership with scientists and researchers to tackle tough research challenges — where problems often lack clear guardrails or a single correct solution and data is often messy or incomplete.",
+              "The new Deep Think is now available in the Gemini app for Google AI Ultra subscribers and, for the first time, we’re also making Deep Think available via the Gemini API to select researchers, engineers and enterprises.",
+              "In a field with very little existing training data, she used Deep Think to review a highly technical mathematics paper.",
+              "At Duke University, the Wang Lab utilized Deep Think to optimize fabrication methods for complex crystal growth for the potential discovery of semiconductor materials.",
+              "Elevating reasoning with mathematical and algorithmic rigor\nThe updated Deep Think mode continues to push the frontiers of intelligence, reaching new heights across the most rigorous academic benchmarks, including:\n- Setting a new standard (48.4%, without tools) on Humanity’s Last Exam, a benchmark designed to test the limits of modern frontier models\n- Achieving an unprecedented 84.6% on ARC-AGI-2, verified by the ARC Prize Foundation\n- Attaining a staggering Elo of 3455 on Codeforces, a benchmark consisting of competitive programming challenges\n- Reaching gold-medal level performance on the International Math Olympiad 2025\nNavigating complex scientific domains\nBeyond mathematics and competitive coding, Gemini 3 Deep Think now also excels across broad scientific domains such as chemistry and physics.",
+              "Most importantly, we are working to bring Deep Think to researchers and practitioners where they need it most — beginning with surfaces such as the Gemini API."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
+            "link": "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6c0437fecd86a461b49354b609428fe4c911b33b"
+          },
+          "review": {
+            "headline_rewrite": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
+            "bullets": [
+              "Fifth Season will remain as an executive producer.",
+              "“Severance” will now be one of Apple’s marquee titles, joining popular series such as “Your Friends and Neighbors” and “Stick.”\nAccording to Deadline, the production costs for “Severance” had exceeded what Fifth Season could afford.",
+              "The studio had already requested advances from Apple and was considering relocating production from New York to Canada for bigger and quicker tax rebates."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+            "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e724cc5f9e68e60ba1fae89e84379fe4121e2ba1"
+          },
+          "review": {
+            "headline_rewrite": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+            "bullets": [
+              "Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.",
+              "In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.",
+              "“These reports raise serious questions about whether Apple News is acting in accordance with its terms of service and its representations to consumers […] I abhor and condemn any attempt to censor content for ideological reasons,” Ferguson’s letter reads.",
+              "Ferguson, a Big Tech critic who Trump appointed to lead the competition regulator, noted the FTC doesn’t have any powers to require Apple to take ideological or political positions when curating news, but he said that if the company’s practices are “inconsistent” its terms of service or “reasonable expectations of consumers,” they may be in violation of the FTC Act.",
+              "Brendan Carr, the chairman of the Federal Communications Commission (another Trump appointee critical of Big Tech), supported Ferguson’s stance, writing, “Apple has no right to suppress conservative viewpoints in violation of the FTC Act.”\nFerguson has urged Apple to conduct a “comprehensive review” of its terms of service and ensure that the content curated on Apple News is consistent with its policies, and “take corrective action swiftly” if the curation isn’t in line.",
+              "TechCrunch Founder Summit: Tickets Live\nThe FTC last year also launched an investigation into “censorship by tech platforms,” seeking input from the public who felt they were silenced due to their political ideologies or affiliations."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
