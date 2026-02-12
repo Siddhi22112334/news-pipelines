@@ -151785,6 +151785,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:25": [
+        {
+          "item": {
+            "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+            "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e3115d97e8bf2f5a28e58b586d47c7a6c25670d4"
+          },
+          "review": {
+            "headline_rewrite": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+            "bullets": [
+              "On Thursday, OpenAI announced the release of a light-weight version of its agentic coding tool Codex, the latest model of which OpenAI launched earlier this month.",
+              "To power that inference, OpenAI has brought in a dedicated chip from its hardware partner Cerebras, marking a new level of integration in the company’s physical infrastructure.",
+              "The partnership between Cerebras and OpenAI was announced last month, when OpenAI said that it had reached a multi-year agreement with the firm worth over $10 billion.",
+              "“Integrating Cerebras into our mix of compute solutions is all about making our AI respond much faster,” the company said at the time.",
+              "Now, OpenAI calls Spark the “first milestone” in that relationship.",
+              "Spark, which OpenAI says is designed for swift, real-time collaboration and “rapid iteration,” will be powered by Cerebras’ Wafer Scale Engine 3."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+            "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "46ef98185a2dcdce0031be7bf279285201c8fc71"
+          },
+          "review": {
+            "headline_rewrite": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+            "bullets": [
+              "Has AI coding reached a tipping point?",
+              "That seems to be the case for Spotify at least, which shared this week during its fourth-quarter earnings call that the best developers at the company “have not written a single line of code since December.” That statement, from Spotify co-CEO Gustav Söderström, came alongside other comments about how the company is using AI to accelerate development.",
+              "And, most recently, it has rolled out more features, like AI-powered Prompted Playlists, Page Match for audiobooks, and About This Song, which all launched within the past few weeks.",
+              "At Spotify, engineers are using an internal system called “Honk” to speed up coding and product velocity, the company told analysts on the call.",
+              "This system allows for things like remote, real-time code deployment using generative AI, and specifically Claude Code.",
+              "“As a concrete example, an engineer at Spotify on their morning commute from Slack on their cell phone can tell Claude to fix a bug or add a new feature to the iOS app,” Söderström said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Eufy’s midrange X10 Pro Omni robovac has fallen to its best-ever price",
+            "link": "https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "641162c7ff7faec532f4f14e588d872d0ff97453"
+          },
+          "review": {
+            "headline_rewrite": "Eufy’s midrange X10 Pro Omni robovac has fallen to its best-ever price",
+            "bullets": [
+              "Spring doesn’t officially kick off until March 20th, but there’s something to be said about getting a head start on your spring cleaning.",
+              "Although it’s since been dethroned as our favorite midrange robot vacuum / mop hybrid, X10 Pro Omni remains a solid choice thanks to its excellent AI-powered obstacle detection, powerful oscillating mops, and user-friendly app.",
+              "The dual-spinning brushes are capable of removing dried stains with 1kg of downward pressure, and a built-in water reservoir prevents the robovac from having to frequently return to the dock just to refill its tank.",
+              "It offers great AI-powered object recognition, too, allowing it to deftly avoid pet messes, cables, toys, and other objects that might impede performance.",
+              "The newer flagship is really an exercise in form over function, as it’s equipped with a weaker chipset than rival models and a less capable camera array.",
+              "- Earlier this week, accessory maker Nomad introduced a “cosmic orange” version of its braided, USB-C ChargeKey."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "In one swoop, Trump kills US greenhouse gas regulations",
+            "link": "https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change",
+            "site_name": "The Verge",
+            "novelty_hash": "76d3aa03755aa75948c355c151fb8a2d84c3ac91"
+          },
+          "review": {
+            "headline_rewrite": "In one swoop, Trump kills US greenhouse gas regulations",
+            "bullets": [
+              "For nearly the past two decades, the “endangerment finding” has allowed the Environmental Protection Agency (EPA) to craft rules limiting greenhouse gas emissions under the Clean Air Act.",
+              "Today, the EPA finalized its plans to overturn the endangerment finding as part of its attempts to overhaul tailpipe pollution standards.",
+              "“It is impossible to imagine a morally defensible reason”\n“It is impossible to imagine a morally defensible reason for [EPA] Administrator [Lee] Zeldin’s decision to end EPA’s responsibility for cutting the climate pollution that is endangering peoples’ health,” Dominique Browning, Moms Clean Air Force director and cofounder, said in an emailed press statement.",
+              "When the agency first proposed a repeal of the endangerment finding last year, it claimed that automakers “have suffered from significant uncertainties and massive costs related to general regulations of greenhouse gases from vehicles and trucks.”\nThe agency announced today that it’s throwing out “all subsequent federal GHG emission standards for all vehicles and engines of model years 2012 to 2027 and beyond” by eliminating the endangerment finding.",
+              "history on behalf of American taxpayers and consumers,” Zeldin said in the press release.",
+              "Undoing tailpipe pollution rules by rescinding the endangerment finding could actually cost Americans $310 billion over the next 25 years — mostly at the gas pump — according to a report by nonpartisan climate policy think tank Energy Innovation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
+            "link": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
+            "site_name": "WIRED",
+            "novelty_hash": "a7e5200ab5b7870ebe2bba639da0726472716b9c"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
+            "bullets": [
+              "OpenAI’s president and cofounder Greg Brockman doesn’t consider himself political, which is surprising, because he was one of President Trump’s biggest individual donors of 2025.",
+              "The pair also gave $25 million to a bipartisan AI super PAC, Leading the Future, which says it plans to oppose politicians that jeopardize Americans’ “ability to benefit from AI.” The Brockmans have pledged to give an additional $25 million to Leading the Future in 2026, according to a person with direct knowledge of the matter.",
+              "According to Brockman, these political donations are in service of OpenAI’s founding mission: to develop highly capable AI systems and distribute the benefits to all of humanity.",
+              "The largest donation Brockman gave previously was a $5,400 gift to Hillary Clinton's 2016 presidential campaign.",
+              "Brockman says he's ramping up his political spending in part because public opinion has turned against AI.",
+              "A recent survey from the Pew Research Center suggests Americans are “more concerned than excited about the increased use of AI in daily life.” To Brockman, this has made supporting pro-AI politicians increasingly critical."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
+            "link": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/",
+            "site_name": "WIRED",
+            "novelty_hash": "58dbef870354cf78662114cf98aa2b01f4e1c236"
+          },
+          "review": {
+            "headline_rewrite": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
+            "bullets": [
+              "A lifestyle magazine based in India, a blog about a small island off the coast of Canada, the owners of several personal portfolio websites, a weather forecast platform with over 15 million pages, ecommerce shops hosted by Shopify, and even domains run by the US government have all reported being hit by what appear to be the same bots.",
+              "Given that AI-related bot activity surged across the internet last year, many believe the traffic could be connected to companies harvesting web data for training models.",
+              "When he looked deeper into the specific details of the visits, the only thing he could say for certain was that all of the traffic was eventually being routed through Singapore.",
+              "But the most concrete detail King found is that the traffic is being routed through servers belonging to several major Chinese cloud companies.",
+              "(He asked only to use his first to protect his privacy.) All three companies are major cloud providers, and it’s unclear whether the bots are coming from in-house or clients using their servers.",
+              "Many people suspect that these bots are part of an AI company’s effort to collect training data from web pages."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
