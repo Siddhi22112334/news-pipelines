@@ -152029,6 +152029,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:04": [
+        {
+          "item": {
+            "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+            "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "733eb79cc3ec816025a8d1746d6e73232bcc6dde"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic raises another $30B in Series G, with a new value of $380B",
+            "bullets": [
+              "Anthropic has just concluded a $30 billion Series G fundraising round, the company announced on Thursday.",
+              "Some details of the round were reported earlier this week by Bloomberg.",
+              "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+              "OpenAI also recently made it known that it is seeking to clinch an additional $100 billion in funding, which, were it to secure the funds, would balloon the company’s valuation to some $830 billion.",
+              "“Whether it is entrepreneurs, startups, or the world’s largest enterprises, the message from our customers is the same: Claude is increasingly becoming more critical to how businesses work,” said Krishna Rao, Anthropic’s chief financial officer, in a press release.",
+              "“This fundraising reflects the incredible demand we are seeing from these customers, and we will use this investment to continue building the enterprise-grade products and models they have come to depend on.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "YouTube finally launches a dedicated app for Apple Vision Pro",
+            "link": "https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b698472aeb1e0ff85f0795c736e02a5b33fb6129"
+          },
+          "review": {
+            "headline_rewrite": "YouTube finally launches a dedicated app for Apple Vision Pro",
+            "bullets": [
+              "When Apple’s headset first launched, YouTube opted for a web-based approach instead of developing a dedicated app, directing viewers to use Safari to access content.",
+              "For consumers with the latest Apple Vision Pro models powered by the M5 chip, the app supports 8K playback, a notable upgrade.",
+              "The timing of this app’s release is interesting, as YouTube initially hesitated to invest in a dedicated visionOS experience, possibly waiting to gauge the headset’s traction.",
+              "Most major streaming services have offered native experiences on the platform since launch, including Disney+, Amazon Prime Video, Paramount, and Peacock, among others.",
+              "TechCrunch Founder Summit: Tickets Live\nAnother reason why YouTube’s decision to launch the app now is interesting is that the initial hype surrounding the headset appears to have diminished.",
+              "The Financial Times reported that production was halted due to weak demand, resulting in a sharp reduction in marketing efforts across key markets."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+            "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2abd4aa33d862f55812531c729086f6f8c26269d"
+          },
+          "review": {
+            "headline_rewrite": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+            "bullets": [
+              "On Thursday, Google announced that “commercially motivated” actors have attempted to clone knowledge from its Gemini AI chatbot by simply prompting it.",
+              "One adversarial session reportedly prompted the model more than 100,000 times across various non-English languages, collecting responses ostensibly to train a cheaper copycat.",
+              "Google published the findings in what amounts to a quarterly self-assessment of threats to its own products that frames the company as the victim and the hero, which is not unusual in these self-authored assessments.",
+              "Google calls the illicit activity “model extraction” and considers it intellectual property theft, which is a somewhat loaded position, given that Google’s LLM was built from materials scraped from the Internet without permission.",
+              "In 2023, The Information reported that Google’s Bard team had been accused of using ChatGPT outputs from ShareGPT, a public site where users share chatbot conversations, to help train its own chatbot.",
+              "Senior Google AI researcher Jacob Devlin, who created the influential BERT language model, warned leadership that this violated OpenAI’s terms of service, then resigned and joined OpenAI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "It took two years, but Google released a YouTube app on Vision Pro",
+            "link": "https://arstechnica.com/gadgets/2026/02/it-took-two-years-but-google-released-a-youtube-app-on-vision-pro/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "454d504ba75f882f9f8fccf8515ff91c89bd35ec"
+          },
+          "review": {
+            "headline_rewrite": "It took two years, but Google released a YouTube app on Vision Pro",
+            "bullets": [
+              "When Apple’s Vision Pro mixed reality headset launched in February 2024, users were frustrated at the lack of a proper YouTube app—a significant disappointment given the device’s focus on video content consumption, and YouTube’s strong library of immersive VR and 360 videos.",
+              "That complaint continued through the release of the second-generation Vision Pro last year, including in our review.",
+              "Now, two years later, an official YouTube app from Google has launched on the Vision Pro’s app store.",
+              "Shortly after the Vision Pro launched, many users complained to YouTube about the lack of an app.",
+              "Third-party apps popped up, like the relatively popular Juno app, but it was pulled from the App Store on Google’s claim that it violated API policies.",
+              "(Some others remained or became available later.)"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "In one swoop, Trump kills US greenhouse gas regulations",
+            "link": "https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change",
+            "site_name": "The Verge",
+            "novelty_hash": "845f0748241456809b1906ea700abd477c5ec6d8"
+          },
+          "review": {
+            "headline_rewrite": "In one swoop, Trump kills US greenhouse gas regulations",
+            "bullets": [
+              "For nearly the past two decades, the “endangerment finding” has allowed the Environmental Protection Agency (EPA) to craft rules limiting greenhouse gas emissions under the Clean Air Act.",
+              "Today, the EPA finalized its plans to overturn the endangerment finding as part of its attempts to overhaul tailpipe pollution standards.",
+              "“It is impossible to imagine a morally defensible reason”\n“It is impossible to imagine a morally defensible reason for [EPA] Administrator [Lee] Zeldin’s decision to end EPA’s responsibility for cutting the climate pollution that is endangering peoples’ health,” Dominique Browning, Moms Clean Air Force director and cofounder, said in an emailed press statement.",
+              "When the agency first proposed a repeal of the endangerment finding last year, it claimed that automakers “have suffered from significant uncertainties and massive costs related to general regulations of greenhouse gases from vehicles and trucks.”\nThe agency announced today that it’s throwing out “all subsequent federal GHG emission standards for all vehicles and engines of model years 2012 to 2027 and beyond” by eliminating the endangerment finding.",
+              "history on behalf of American taxpayers and consumers,” Zeldin said in the press release.",
+              "Undoing tailpipe pollution rules by rescinding the endangerment finding could actually cost Americans $310 billion over the next 25 years — mostly at the gas pump — according to a report by nonpartisan climate policy think tank Energy Innovation."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
+            "link": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/",
+            "site_name": "WIRED",
+            "novelty_hash": "58dbef870354cf78662114cf98aa2b01f4e1c236"
+          },
+          "review": {
+            "headline_rewrite": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
+            "bullets": [
+              "A lifestyle magazine based in India, a blog about a small island off the coast of Canada, the owners of several personal portfolio websites, a weather forecast platform with over 15 million pages, ecommerce shops hosted by Shopify, and even domains run by the US government have all reported being hit by what appear to be the same bots.",
+              "Given that AI-related bot activity surged across the internet last year, many believe the traffic could be connected to companies harvesting web data for training models.",
+              "When he looked deeper into the specific details of the visits, the only thing he could say for certain was that all of the traffic was eventually being routed through Singapore.",
+              "But the most concrete detail King found is that the traffic is being routed through servers belonging to several major Chinese cloud companies.",
+              "(He asked only to use his first to protect his privacy.) All three companies are major cloud providers, and it’s unclear whether the bots are coming from in-house or clients using their servers.",
+              "Many people suspect that these bots are part of an AI company’s effort to collect training data from web pages."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
