@@ -151543,6 +151543,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:29": [
+        {
+          "item": {
+            "title": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
+            "link": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "a2d43df4fa80e1debc20b13973226b629beac204"
+          },
+          "review": {
+            "headline_rewrite": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
+            "bullets": [
+              "Each of these AI-powered interactions is built on the same unit of intelligence: a token.",
+              "Scaling these AI interactions requires businesses to consider whether they can afford more tokens.",
+              "In the same way, investments in AI infrastructure can lead to far greater token output compared with the increase in cost — causing a meaningful reduction in the cost per token.",
+              "That’s why leading inference providers including Baseten, DeepInfra, Fireworks AI and Together AI are using the NVIDIA Blackwell platform, which helps them reduce cost per token by up to 10x compared with the NVIDIA Hopper platform.",
+              "Healthcare — Baseten and Sully.ai Cut AI Inference Costs by 10x\nIn healthcare, tedious, time-consuming tasks like medical coding, documentation and managing insurance forms cut into the time doctors can spend with patients.",
+              "Sully.ai helps solve this problem by developing “AI employees” that can handle routine tasks like medical coding and note-taking."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Our new report details the latest ways threat actors are misusing AI.",
+            "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/",
+            "site_name": "Google",
+            "novelty_hash": "57fb59dbab88cf2524267649ecdbd4d6d9e8f5df"
+          },
+          "review": {
+            "headline_rewrite": "Our new report details the latest ways threat actors are misusing AI.",
+            "bullets": [
+              "Over the last few months, Google Threat Intelligence Group (GTIG) has observed threat actors using AI to gather information, create super-realistic phishing scams and develop malware.",
+              "While we haven’t observed direct attacks on frontier models or generative AI products from advanced persistent threat (APT) actors, we have seen and mitigated frequent model extraction attacks (a type of corporate espionage) from private sector entities all over the world — a threat other businesses’ with AI models will likely face in the near future.",
+              "Today we released a report that details these observations and how we’ve taken action, including by disabling associated accounts in order to disrupt malicious activity.",
+              "We’ve also strengthened both our security controls and Gemini models against misuse.",
+              "Read the full report on the Google Cloud Threat Intelligence blog."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "3 ways you can use Pixel for translation help this Lunar Year.",
+            "link": "https://blog.google/products-and-platforms/devices/pixel/lunar-new-year-2026-translation-tools/",
+            "site_name": "Google",
+            "novelty_hash": "c25e2ff9b60994923ddf4cc4eabdbc9453a97a49"
+          },
+          "review": {
+            "headline_rewrite": "3 ways you can use Pixel for translation help this Lunar Year.",
+            "bullets": [
+              "Lunar New Year is approaching, and 2026 is the Year of the Horse.",
+              "Whether you’re traveling for the holiday or connecting with loved ones overseas, language barriers shouldn't hold you back — use Pixel and Gemini to stay connected.",
+              "- Pixel Live Translate instantly translates incoming notes and lets you type responses in more than 20 languages in your favorite messaging apps.",
+              "- Found a recipe for longevity noodles in another language?",
+              "Use Circle to Search to instantly translate what’s on your screen and get more context."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "More US investors sue South Korean government over handling of Coupang data breach",
+            "link": "https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "35371c43ec2e7556c3e7843343d09d87d8ed7b8e"
+          },
+          "review": {
+            "headline_rewrite": "More US investors sue South Korean government over handling of Coupang data breach",
+            "bullets": [
+              "Coupang’s massive data breach in South Korea has now become a geopolitical flashpoint as a growing number of the company’s U.S.",
+              "investors take legal action against the South Korean government.",
+              "What began as a regulatory investigation into data security failures has expanded into a broader dispute over alleged unfair treatment of the U.S.-headquartered company.",
+              "While Coupang — which operates in South Korea, Taiwan, and Japan — is often referred to as the “Amazon of South Korea,” its worldwide headquarters are actually in Seattle, Washington.",
+              "investment firms Greenoaks and Altimeter filed a notice with South Korea’s Ministry of Justice, saying they suffered losses from what they characterized as the government’s discriminatory investigation into the data breach.",
+              "They said they plan to pursue investor–state dispute settlement (ISDS) arbitration under the U.S.-Korea FTA."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "YouTube is coming to the Apple Vision Pro",
+            "link": "https://www.theverge.com/tech/878097/youtube-apple-vision-pro-visionos-app",
+            "site_name": "The Verge",
+            "novelty_hash": "a4b8a8ebbeda6a97e916c9603cb3114b210588af"
+          },
+          "review": {
+            "headline_rewrite": "YouTube is coming to the Apple Vision Pro",
+            "bullets": [
+              "With the visionOS YouTube app, you’ll be able to watch all videos available on YouTube, including standard videos, Shorts, 3D, 360, and VR180 videos, Apple spokesperson Corey Nord tells The Verge.",
+              "YouTube is coming to the Apple Vision Pro\nTwo years after Google said that a YouTube app was on the roadmap, it’s finally here.",
+              "The Vision Pro launched more than two years ago, but it hasn’t had an official YouTube app until now.",
+              "Ahead of the release of the Vision Pro, YouTube said that it wasn’t planning to build a native app for the platform.",
+              "But a few days after the headset hit store shelves, YouTube changed course and said that a Vision Pro app was “on our roadmap.” That was in early February 2024, so it’s been just over two years from that announcement to Thursday’s launch.",
+              "Christian Selig, the developer of the now-shut-down Apollo app for Reddit, created an unofficial YouTube app for the Vision Pro called Juno that was available when the Vision Pro was released."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
+            "link": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3842c3f20a3641ee6225d441123b6cb413f9cd4f"
+          },
+          "review": {
+            "headline_rewrite": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
+            "bullets": [
+              "“This represents more than a technological achievement,” Aurora co-founder and CEO Chris Urmson said during the company’s earnings call Wednesday afternoon.",
+              "The company said that eventually it can cut transit times nearly in half, a stat that has won over companies like Hirschbach, an early customer on the Fort Worth-to-Phoenix route.",
+              "Aurora said in a letter to shareholders it is poised to expand across the Sun Belt of the United States.",
+              "The company’s CFO, David Maday, said total year adjusted revenue, which includes money earned through pilot programs early last year, was $4 million.",
+              "Urmson said the company’s trucks have racked up 250,000 driverless miles as of Jan 2026 with a perfect safety record.",
+              "The expansion of its driverless trucking routes has been propelled by a new software release, its fourth since launching commercial service in April 2025."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
