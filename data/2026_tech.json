@@ -151303,6 +151303,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:01": [
+        {
+          "item": {
+            "title": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+            "link": "https://blogs.nvidia.com/blog/dgx-spark-higher-education/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "8284919eb65e7cdb9b0048cfbcb901947d59d1ac"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+            "bullets": [
+              "At leading institutions across the globe, the NVIDIA DGX Spark desktop supercomputer is bringing data‑center‑class AI to lab benches, faculty offices and students’ systems.",
+              "The compact supercomputer’s petaflop‑class performance enables local deployment of large AI applications, from clinical report evaluators to robotics perception systems, all while keeping sensitive data on site and shortening iteration loops for researchers and learners.",
+              "Powered by the NVIDIA GB10 superchip and the NVIDIA DGX operating system, each DGX Spark unit supports AI models of up to 200 billion parameters and integrates seamlessly with the NVIDIA NeMo, Metropolis, Holoscan and Isaac platforms, giving students access to the same professional-grade tools used across the DGX ecosystem.",
+              "Read more below on how DGX Spark powers groundbreaking AI work at leading institutions worldwide.",
+              "IceCube Neutrino Observatory: Studying Particles in the South Pole\nAt the University of Wisconsin-Madison’s IceCube Neutrino Observatory in Antarctica, researchers are using DGX Spark to run AI models for its experiments studying the universe’s most cataclysmic events, using subatomic particles called neutrinos.",
+              "“There’s no hardware store in the South Pole, which is technically a desert, with relative humidity under 5% and an elevation of 10,000 feet, meaning very limited power,” Riedel said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GeForce NOW Turns Screens Into a Gaming Machine",
+            "link": "https://blogs.nvidia.com/?p=89724",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "1d9416b2769e680ccea1505a7271fb653cfb19d6"
+          },
+          "review": {
+            "headline_rewrite": "GeForce NOW Turns Screens Into a Gaming Machine",
+            "bullets": [
+              "The GeForce NOW sixth-anniversary festivities roll on this February, continuing a monthlong celebration of NVIDIA’s cloud gaming service.",
+              "This week brings even more reasons to join the party, as GeForce NOW launches on a new platform with support for Amazon Fire TV devices, and eight new games to keep the streaming going strong.",
+              "The Cloud Turns Up the Heat\nGeForce NOW continues to expand access across devices, supporting multiple platforms with the latest additions of Linux.",
+              "From PCs and Macs to smartphones, browsers and smart TVs, the cloud delivers high-performance gaming to nearly any screen, on more devices than ever.",
+              "That reach expands again with the launch of the GeForce NOW app on Amazon Fire TV.",
+              "GeForce NOW is powering up the living room with the launch of the GeForce NOW app on Amazon Fire TV streaming sticks, leveling up big-screen gaming with PC-quality performance."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Eclipse backs all-EV marketplace Ever in $31M funding round",
+            "link": "https://techcrunch.com/2026/02/12/eclipse-backs-all-ev-marketplace-ever-in-31m-funding-round/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6dda6a12aece6dbe0551c9d6f3ac52e2c06f0b56"
+          },
+          "review": {
+            "headline_rewrite": "Eclipse backs all-EV marketplace Ever in $31M funding round",
+            "bullets": [
+              "The company, which bills itself as the first “AI-native, full-stack auto retail business” for electric vehicles, already has thousands of customers buying and selling their EVs on the platform.",
+              "Now it’s looking to scale with help from a $31 million Series A funding round led by Eclipse, with Ibex Investors, Lifeline Ventures, and JIMCO — the investment arm of the Saudi Arabian Jameel family (an early investor in Rivian) — as co-investors.",
+              "More recently, myriad startups have tried to improve the car-buying experience with AI, pitching ideas like voice agents or smarter scheduling software.",
+              "Eclipse’s Jiten Behl thinks this is the wrong approach if you want to really modernize the automotive retail experience, though.",
+              "“These bolt-on AI tools are band-aids,” he said in an interview with TechCrunch.",
+              "He likened it to how many major automakers’ first EVs were essentially combustion vehicles that were repackaged to fit electric drivetrains."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "e706452bd6127f39481e9b7f1ae09a7e726b5023"
+          },
+          "review": {
+            "headline_rewrite": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+            "bullets": [
+              "Big Tech’s race to leapfrog the latest AI models continues with the launch of ByteDance’s next-gen video generator.",
+              "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video\nSeedance 2.0 can take camera movement, visual effects, and motion into account.",
+              "The company claims it “delivers a substantial leap in generation quality,” offering improvements in generating complex scenes with multiple subjects and its ability to follow instructions.",
+              "AI-powered generation models have only gotten more advanced within the past year, with Google Veo 3 adding the ability to generate audio-supported clips, and OpenAI launching Sora 2 along with a new app that allows users to create videos with “hyperreal motion and sound.” The AI startup, Runway, has also released a new version of its AI model that it claims has “unprecedented” accuracy.",
+              "In one example shared by ByteDance, which shows two figure skaters performing a routine together, the company says Seedance 2.0 can “reliably perform a sequence of high-difficulty movements — including synchronized takeoffs, mid-air spins and precise ice landings — while strictly following real-world physical laws.”\nUsers on social media have already started showing off what the new tool can do, with one person posting an AI-generated video with the likenesses of Brad Pitt and Tom Cruise in a cinematic fight sequence.",
+              "It’s likely over for us.”\nFor now, Seedance 2.0 is only available through ByteDance’s Dreamina AI platform and through its AI assistant, Doubao."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+            "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e724cc5f9e68e60ba1fae89e84379fe4121e2ba1"
+          },
+          "review": {
+            "headline_rewrite": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+            "bullets": [
+              "Federal Trade Commission (FTC) has raised concerns over allegations that Apple is censoring conservative content on the Apple News app.",
+              "In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.",
+              "“These reports raise serious questions about whether Apple News is acting in accordance with its terms of service and its representations to consumers […] I abhor and condemn any attempt to censor content for ideological reasons,” Ferguson’s letter reads.",
+              "Ferguson, a Big Tech critic who Trump appointed to lead the competition regulator, noted the FTC doesn’t have any powers to require Apple to take ideological or political positions when curating news, but he said that if the company’s practices are “inconsistent” its terms of service or “reasonable expectations of consumers,” they may be in violation of the FTC Act.",
+              "Brendan Carr, the chairman of the Federal Communications Commission (another Trump appointee critical of Big Tech), supported Ferguson’s stance, writing, “Apple has no right to suppress conservative viewpoints in violation of the FTC Act.”\nFerguson has urged Apple to conduct a “comprehensive review” of its terms of service and ensure that the content curated on Apple News is consistent with its policies, and “take corrective action swiftly” if the curation isn’t in line.",
+              "TechCrunch Founder Summit: Tickets Live\nThe FTC last year also launched an investigation into “censorship by tech platforms,” seeking input from the public who felt they were silenced due to their political ideologies or affiliations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s Send to Alexa Plus makes the Kindle Scribe feel more like a productivity device",
+            "link": "https://www.theverge.com/gadgets/877625/amazon-send-to-alexa-plus-kindle-scribe-hands-on",
+            "site_name": "The Verge",
+            "novelty_hash": "a991d8b8d68f3b05cbba7cee187e578b40ce7ea5"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s Send to Alexa Plus makes the Kindle Scribe feel more like a productivity device",
+            "bullets": [
+              "The feature lets you send your notes or documents to Amazon’s AI-powered Alexa Plus assistant, which can then summarize them, turn them into to-do lists, calendar events, or reminders, as well as help brainstorm, and offer project guidance.",
+              "Amazon’s Send to Alexa Plus makes the Kindle Scribe feel more like a productivity device\nKindle Scribe owners can ask Alexa to turn documents into summaries, tasks, and reminders.",
+              "I also tested how well it answered questions about my notes and documents, provided guidance, and handled brainstorming.",
+              "I also sent a PDF of an email and asked it to add up a list of charges, which it calculated correctly.",
+              "It was also good at pulling specific details.",
+              "In another test, I wrote notes for someone who was taking my mom to an appointment and intentionally left out details like the address."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
