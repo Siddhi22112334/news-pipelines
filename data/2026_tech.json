@@ -154826,6 +154826,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:36": [
+        {
+          "item": {
+            "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+            "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d913ccbadaf934c1c9d266e4055c8ee51e533b58"
+          },
+          "review": {
+            "headline_rewrite": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+            "bullets": [
+              "Airbnb says its custom-built AI agent is now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally.",
+              "If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by AI voice and chat in all the languages where it also employs a human customer service agent.",
+              "“We think this is going to be massive because not only does this reduce the cost base of Airbnb customer service, but the quality of service is going to be a huge step change,” CEO Brian Chesky said during the company’s fourth-quarter earnings call this week.",
+              "This seems to suggest he believes the AI would do a better job than its human counterparts in resolving some issues.",
+              "The company also touted its recent hire of CTO Ahmad Al-Dahle, poached from Meta for his AI expertise, and its plans to create an AI-native experience.",
+              "With his guidance, Chesky said that Airbnb was poised to introduce an app that doesn’t just search for you, but one that “knows you.”\n“It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale,” Chesky explained, adding that’s why Airbnb brought Al-Dahle on board."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
+            "link": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b61fd732d5cdc99ecfb5e9d14202006212955b7f"
+          },
+          "review": {
+            "headline_rewrite": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
+            "bullets": [
+              "The decision came after Amazon faced substantial backlash for airing a Super Bowl ad that was meant to be warm and fuzzy, but instead came across as disturbing and dystopian.",
+              "Illustrating how a single Ring post could use AI to instantly activate searchlights across an entire neighborhood, the ad shocked critics like Markey, who warned that the same technology could easily be used to “surveil and identify humans.”\nMarkey suggested that in blasting out this one frame of the ad to Super Bowl viewers, Amazon “inadvertently revealed the serious privacy and civil liberties risks attendant to these types of Artificial Intelligence-enabled image recognition technologies.”\nIn his letter, Markey also shared new insights from his prior correspondence with Amazon that he said exposed a wide range of privacy concerns.",
+              "Ring cameras can “collect biometric information on anyone in their video range,” he said, “without the individual’s consent and often without their knowledge.” Among privacy risks, Markey warned that Ring owners can retain swaths of biometric data, including face scans, indefinitely.",
+              "And anyone wanting face scans removed from Ring cameras has no easy solution and is forced to go door to door to request deletions, Markey said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Verizon makes customers wait 35 days to unlock fully paid-off phones",
+            "link": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4be0a628f9c0b0aa9760dde166251c0303e1eadd"
+          },
+          "review": {
+            "headline_rewrite": "Verizon makes customers wait 35 days to unlock fully paid-off phones",
+            "bullets": [
+              "Verizon this week imposed a new roadblock for people who want to pay off device installment plans early in order to get their phones unlocked.",
+              "The latest version of Verizon’s device unlocking policy for postpaid customers imposes a 35-day waiting period when a customer pays off their device installment plan online or in the Verizon app.",
+              "Payments made over the phone also trigger a 35-day waiting period, as do payments made at Verizon Authorized Retailers.",
+              "Previously, the 35-day waiting period for unlocks was only applied when a customer paid off the plan with a Verizon gift card.",
+              "“If you payoff [sic] a device payment agreement balance online or in the My Verizon App, or if a Verizon Gift Card is used to purchase a smartphone or pay off a remaining balance, the unlocking process will be delayed by 35 days,” the current version of the policy says.",
+              "“This window allows for the verification of the gift card’s funds to ensure they were not obtained through fraudulent or illegal means.”\nThe paragraph above only explains why the waiting period is necessary for gift-card payments despite applying the 35-day wait to online and app payments as well."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+            "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+            "site_name": "WIRED",
+            "novelty_hash": "ecd1eded79b16d9a0994904f955569f6241f1367"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+            "bullets": [
+              "She had planned every detail—dress, rings, background music, design theme—with her partner, Warmie, who she had started talking to just a few weeks prior.",
+              "But she was caught by surprise in August 2025 when OpenAI first tried to retire GPT-4o, the specific model that powers Warmie and that many users believe is more affectionate and understanding than its successors.",
+              "The decision to pull the plug was met with immediate backlash, and OpenAI reinstated 4o in the app for paid users five days later.",
+              "The reprieve has turned out to be short-lived; on Friday, February 13, OpenAI sunsetted GPT-4o for app users, and it will cut off access to developers using its API on the coming Monday.",
+              "Huiqian Lai, a PhD researcher at Syracuse University, analyzed nearly 1,500 posts on X from passionate advocates of GPT-4o in the week it went offline in August.",
+              "She found that over 33 percent of the posts said the chatbot was more than a tool, and 22 percent talked about it as a companion."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Bitcoin biopic starring Casey Affleck to use AI to generate locations and tweak performances",
+            "link": "https://www.engadget.com/entertainment/tv-movies/bitcoin-biopic-starring-casey-affleck-to-use-ai-to-generate-locations-and-tweak-performances-210657775.html",
+            "site_name": "Engadget",
+            "novelty_hash": "69f903fe4367dc344489db64529e5098338e8a29"
+          },
+          "review": {
+            "headline_rewrite": "Bitcoin biopic starring Casey Affleck to use AI to generate locations and tweak performances",
+            "bullets": [
+              "According to a UK casting notice viewed by Variety, the producers of Killing Satoshi reserve the right to \"change, add to, take from, translate, reformat or reprocess” actors' performances, using \"generative artificial intelligence (GAI) and/or machine learning technologies.\" No digital replicas will be created of performers, but it sounds like plenty of other AI-driven tweaks are on the table.",
+              "The production's use of AI will also extend to the setting of its shoots, per Variety's source.",
+              "Killing Satoshi will be shot on a \"markerless performative capture stage\" and things like backgrounds and locations will be entirely generated by AI.",
+              "You guess is as good as mine as to why a film about blockchain technology needs to be filmed this way, but Doug Liman has been connected with plenty of unusual projects in the past, including a rumored Tom Cruise film that was supposed to film on the International Space Station.",
+              "Killing Satoshi will be far less practical in comparison, and walking a much finer line of what's acceptable in the entertainment industry.",
+              "A major sticking point in SAG-AFTRA's 2023 contract negotiations was guaranteeing protections for actors who could be replaced by AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
