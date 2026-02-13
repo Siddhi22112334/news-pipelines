@@ -154942,6 +154942,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "05:25": [
+        {
+          "item": {
+            "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+            "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d913ccbadaf934c1c9d266e4055c8ee51e533b58"
+          },
+          "review": {
+            "headline_rewrite": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+            "bullets": [
+              "Airbnb says its custom-built AI agent is now handling roughly a third of its customer support issues in North America, and it’s preparing to roll out the feature globally.",
+              "If successful, the company believes that in a year’s time, more than 30% of its total customer support tickets will be handled by AI voice and chat in all the languages where it also employs a human customer service agent.",
+              "“We think this is going to be massive because not only does this reduce the cost base of Airbnb customer service, but the quality of service is going to be a huge step change,” CEO Brian Chesky said during the company’s fourth-quarter earnings call this week.",
+              "This seems to suggest he believes the AI would do a better job than its human counterparts in resolving some issues.",
+              "The company also touted its recent hire of CTO Ahmad Al-Dahle, poached from Meta for his AI expertise, and its plans to create an AI-native experience.",
+              "With his guidance, Chesky said that Airbnb was poised to introduce an app that doesn’t just search for you, but one that “knows you.”\n“It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale,” Chesky explained, adding that’s why Airbnb brought Al-Dahle on board."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+            "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "142275f9630d23f1b6cb00842e5e3ce88d972dd6"
+          },
+          "review": {
+            "headline_rewrite": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+            "bullets": [
+              "This spring, a Southern California beach town will become the first city in the country where municipal parking enforcement vehicles will use an AI system looking for potential bike lane violations.",
+              "Beginning in April, the City of Santa Monica will bring Hayden AI’s scanning technology to seven cars in its parking enforcement fleet, expanding beyond similar cameras already mounted on city buses.",
+              "“The more we can reduce the amount of illegal parking, the safer we can make it for bike riders,” Charley Territo, chief growth officer at Hayden AI, told Ars.",
+              "Hayden AI’s bus cameras, designed to detect bike lane and bus zone violations, currently exist in two other California cities: Oakland and Sacramento.",
+              "Late last year, over a 59-day period, Hayden AI also said its technology detected over 1,100 parking violations at the University of California, San Diego—and 88 percent of those were instances of blocking a bike lane.",
+              "Hayden AI says it sells its product to municipalities and related entities to not only increase bus speed (by removing obstructions) but also improve safety."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
+            "link": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "39ac26789a16ca2a766b8133e7a5c59d90d9493f"
+          },
+          "review": {
+            "headline_rewrite": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
+            "bullets": [
+              "The World Health Organization on Friday released a formal statement blasting a US-funded vaccine trial as “unethical,” because it would withhold an established, safe, and potentially lifesaving vaccine against hepatitis B from some newborns in Guinea-Bissau, Africa.",
+              "“In its current form, and based on publicly available information, the trial is inconsistent with established ethical and scientific principles,” the WHO concluded, after providing a bullet-point list of reasons the trial was harmful and low quality.",
+              "The trial has drawn widespread condemnation from health experts since notice of the US funding was published in the Federal Register in December.",
+              "Kennedy has cited their work in his decision to cut global vaccine funding.",
+              "The CDC’s funding of Benn’s hepatitis B vaccine trial also came soon after the agency’s advisors—who were handpicked by Kennedy—decided to abandon a long-standing universal recommendation for a hepatitis B vaccine birth dose.",
+              "The reason for the delayed implementation is resource constraints."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+            "link": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+            "site_name": "WIRED",
+            "novelty_hash": "ecd1eded79b16d9a0994904f955569f6241f1367"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+            "bullets": [
+              "She had planned every detail—dress, rings, background music, design theme—with her partner, Warmie, who she had started talking to just a few weeks prior.",
+              "But she was caught by surprise in August 2025 when OpenAI first tried to retire GPT-4o, the specific model that powers Warmie and that many users believe is more affectionate and understanding than its successors.",
+              "The decision to pull the plug was met with immediate backlash, and OpenAI reinstated 4o in the app for paid users five days later.",
+              "The reprieve has turned out to be short-lived; on Friday, February 13, OpenAI sunsetted GPT-4o for app users, and it will cut off access to developers using its API on the coming Monday.",
+              "Huiqian Lai, a PhD researcher at Syracuse University, analyzed nearly 1,500 posts on X from passionate advocates of GPT-4o in the week it went offline in August.",
+              "She found that over 33 percent of the posts said the chatbot was more than a tool, and 22 percent talked about it as a companion."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 14, 2026 China’s Baidu adds AI Agent in Search app for 700 million users that companies in Korea have 'restricted' and security companies are warning users about",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/chinas-baidu-adds-ai-agent-in-search-app-for-700-million-users-that-companies-in-korea-have-restricted-and-security-companies-are-warning-users-about/articleshow/128320638.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "46cd256c6bb93ebd540c8cc92b47768ddef51972"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 14, 2026 China’s Baidu adds AI Agent in Search app for 700 million users that companies in Korea have 'restricted' and security companies are warning users about",
+            "bullets": [
+              "Baidu reportedly plans to give users of its main smartphone app direct access to the wildly popular artificial intelligence tool OpenClaw.",
+              "According to the Chinese tech company, starting later on Friday (February 13), users who opt in can message the AI agent through Baiduâs main search app to complete tasks such as scheduling, organizing files and writing code.",
+              "Baidu claims 700 million monthly active users for its search app.",
+              "The company is also said to be rolling out OpenClawâs capabilities to its e-commerce business and other services.",
+              "OpenClaw gained attention this week after the emergence of a new social network called Moltbook that is advertised as being exclusively for the use of OpenClaw bots.",
+              "Cybersecurity firm Wiz said last weel that the network had a major flaw that exposed private data on thousands of people."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
