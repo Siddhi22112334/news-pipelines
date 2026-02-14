@@ -155949,6 +155949,84 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "17:18": [
+        {
+          "item": {
+            "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
+            "link": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
+            "site_name": "WIRED",
+            "novelty_hash": "8bf5c161c9f2b324be73bbecbe303f31619d9906"
+          },
+          "review": {
+            "headline_rewrite": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
+            "bullets": [
+              "The last remaining major nuclear weapons treaty between the United States and Russia just expired.",
+              "Combined with satellite imagery and human reviewers, AI-powered systems could replace in-person inspection of countries’ nuclear facilities.",
+              "Crypto-tracing firm Chainalysis this week revealed that blockchain-based transactions linked to the sale of human beings into prostitution and forced scamming has nearly doubled over the past year, with hundreds of millions of dollars in transactions annually.",
+              "Chainalysis researchers say that amount is likely an underestimate.",
+              "Meanwhile, Customs and Border Protection has signed a $225,000 deal with Clearview AI that gives Border Patrol intelligence units access to the company’s face-recognition technology.",
+              "Each week, we round up the security and privacy news we didn’t cover in depth ourselves."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Gear News of the Week: Samsung Sets a Date for Galaxy Unpacked, and Fitbit’s AI Coach Comes to iOS",
+            "link": "https://www.wired.com/story/gear-news-of-the-week-samsung-sets-a-date-for-galaxy-unpacked-and-fitbits-ai-coach-comes-to-ios/",
+            "site_name": "WIRED",
+            "novelty_hash": "72cd9c53c1d884b93771dc59b654c7d69234e16d"
+          },
+          "review": {
+            "headline_rewrite": "Gear News of the Week: Samsung Sets a Date for Galaxy Unpacked, and Fitbit’s AI Coach Comes to iOS",
+            "bullets": [
+              "Samsung usually announces other products outside of smartphones, and this year, that may be a new pair of Galaxy Buds wireless earbuds.",
+              "Fitbit’s Personal Health Coach Arrives on iOS\nMonths after Fitbit’s Personal Health Coach launched in public preview for Android users, the Gemini-powered health service is now finally available to iOS users.",
+              "To try it out, you must have an active paid or trial Fitbit Premium subscription and a phone that runs iOS 16.4 or higher.",
+              "However, it is the easiest, most helpful, and most accommodating of the AI coach services that I’ve tried so far, and $10/month for Fitbit Premium is cheaper than a real running coach.",
+              "(Before, you needed to download specific apps to do this.)\niOS 26.3 also introduces a new privacy feature called Limit Precise Location, which limits “some information that cellular networks may use to determine your location.\" Unfortunately, this feature is only available on Apple devices with Apple's custom C1 or C1X modem: the iPhone Air, iPhone 16e, or iPad Pro M5 Wi-Fi + Cellular.",
+              "The Android 17 Beta That Never Was\nGoogle was supposed to launch the Android 17 beta—the next version of its mobile operating system—this week, but the company pulled the release without explanation."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/1500-amazon-engineers-to-companys-leadership-stop-forcing-us-to-use-your-coding-tool-we-want-to/articleshow/128307031.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "88b69ad5d18e0de107deb39fd7ec90da13021f0e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "bullets": [
+              "Amazon's push to make employees use its in-house AI coding assistant Kiro over third-party tools like Anthropic's Claude Code has prompted criticism from some employees on internal forums.",
+              "Around 1,500 engineers have formally endorsed the adoption of Claude Code through those forums, pushing back against a policy they say is hurting productivity, Business Insider reported.",
+              "The backlash centres on internal guidance rolled out late last year that steers teams toward Kiro for production code.",
+              "While there is no explicit ban on Claude Code, the company applies stricter requirements for tools used to develop production code specifically, and provides a process for seeking exceptions.",
+              "Amazon employees can use Claude Code for a range of use cases, with an approval path available for production code.",
+              "\"And without competitive strength, Kiro's only survival mechanism becomes forced adoption rather than genuine value.\"\nThe situation gets particularly awkward for engineers who sell AWS BedrockâAmazon's platform that offers customers access to third-party AI services, including Claude Code."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
