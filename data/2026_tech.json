@@ -155835,6 +155835,79 @@
             "impact": "Positive"
           }
         }
+      ],
+      "16:26": [
+        {
+          "item": {
+            "title": "Robot Dogs Are on Going on Patrol at the 2026 World Cup in Mexico",
+            "link": "https://www.wired.com/story/robot-dogs-are-on-going-on-patrol-at-the-2026-world-cup-in-mexico/",
+            "site_name": "WIRED",
+            "novelty_hash": "c3f214f3c94bc791bb2105a3ac3eeafd9e5247f2"
+          },
+          "review": {
+            "headline_rewrite": "Robot Dogs Are on Going on Patrol at the 2026 World Cup in Mexico",
+            "bullets": [
+              "Authorities in Mexico’s Guadalupe, Nuevo León, this week unveiled four robot dogs that will be part of the security devices at BBVA Stadium, one of the three Mexican venues of the 2026 World Cup.",
+              "“These K9-X robot dogs are going to support the police with an initial intervention, providing video and ultimately entering high-risk locations—that is, before public security forces go in—and to protect officers’ physical safety, the robots will intervene in the event of a fight or an intoxicated person,” Héctor García, mayor of Guadalupe, said at a press conference.",
+              "According to the official press release, the “robodogs” carried out preventive patrols at the entrances and in main gathering areas.",
+              "The robot dogs are just one part of Guadalupe's security strategy for the 2026 World Cup.",
+              "The authorities have not disclosed the model, manufacturer, or many technical details of the K9-X units."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Lola Blankets Are 45 Percent Off This Presidents’ Day Weekend",
+            "link": "https://www.wired.com/story/the-viral-lola-blankets-are-45-percent-off-right-now/",
+            "site_name": "WIRED",
+            "novelty_hash": "6179ba1e5433d70d80cac605e4a007b9eb686086"
+          },
+          "review": {
+            "headline_rewrite": "Lola Blankets Are 45 Percent Off This Presidents’ Day Weekend",
+            "bullets": [
+              "It’s zero-shed, stain-resistant, and double-hemmed for durability.",
+              "Mine has survived everyday use and the affections of my cat, who has fully claimed it as her throne BTW."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/1500-amazon-engineers-to-companys-leadership-stop-forcing-us-to-use-your-coding-tool-we-want-to/articleshow/128307031.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "88b69ad5d18e0de107deb39fd7ec90da13021f0e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "bullets": [
+              "Amazon's push to make employees use its in-house AI coding assistant Kiro over third-party tools like Anthropic's Claude Code has prompted criticism from some employees on internal forums.",
+              "Around 1,500 engineers have formally endorsed the adoption of Claude Code through those forums, pushing back against a policy they say is hurting productivity, Business Insider reported.",
+              "The backlash centres on internal guidance rolled out late last year that steers teams toward Kiro for production code.",
+              "While there is no explicit ban on Claude Code, the company applies stricter requirements for tools used to develop production code specifically, and provides a process for seeking exceptions.",
+              "Amazon employees can use Claude Code for a range of use cases, with an approval path available for production code.",
+              "\"And without competitive strength, Kiro's only survival mechanism becomes forced adoption rather than genuine value.\"\nThe situation gets particularly awkward for engineers who sell AWS BedrockâAmazon's platform that offers customers access to third-party AI services, including Claude Code."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
