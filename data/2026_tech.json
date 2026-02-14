@@ -157888,6 +157888,104 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:20": [
+        {
+          "item": {
+            "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+            "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "287f447411d4a47404bbfed788358ac9043254f3"
+          },
+          "review": {
+            "headline_rewrite": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+            "bullets": [
+              "Much of Silicon Valley has spent years chasing mega-rounds and buzzy AI deals.",
+              "Meanwhile, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital’s earlier days, writing smaller Series A and B checks to founders that larger firms routinely overlook.",
+              "The former TaskRabbit CEO and decade-long Google veteran launched Cherryrock a year ago after seeing what she calls a persistent gap: access to capital for “underinvested entrepreneurs” building software companies at the crucial growth stage.",
+              "“When I left TaskRabbit, I took some time off to figure out what was next and saw this gap in the market, which was access to capital, particularly for underinvested entrepreneurs,” Brown-Philpot told TechCrunch.",
+              "Before launching Cherryrock, Brown-Philpot was a member of the investment committee for the SoftBank Opportunity Fund, a $100 million vehicle started in 2020 to back underserved entrepreneurs.",
+              "Brown-Philpot, meanwhile, doubled down, and launched her own fund."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NASA has a new problem to fix before the next Artemis II countdown test",
+            "link": "https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d11a4ea0241888f903156f5955ffd41cdf737be5"
+          },
+          "review": {
+            "headline_rewrite": "NASA has a new problem to fix before the next Artemis II countdown test",
+            "bullets": [
+              "NASA Administrator Jared Isaacman said Saturday the agency is looking at ways to prevent the fueling problems plaguing the Space Launch System rocket before the Artemis III mission.",
+              "As for Artemis II, which remains on the launch pad at Kennedy Space Center in Florida after missing a launch window earlier this month, NASA is preparing for a second countdown rehearsal as soon as next week to confirm whether technicians have resolved a hydrogen fuel leak that cut short a practice countdown run February 2.",
+              "Again and again\nFuel leaks are nothing new for the Space Launch System.",
+              "With that launch, ground teams thought they fixed the problem by changing how they load super-cold liquid hydrogen into the rocket’s core stage.",
+              "The launch team used the same loading procedure February 2, but the leak cropped up again.",
+              "“Considering the issues observed during the lead-up to Artemis I, and the long duration between missions, we should not be surprised there are challenges entering the Artemis II campaign,” Isaacman wrote Saturday in an update on the social media site X."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Airbnb is testing out AI search with a 'small percentage' of users",
+            "link": "https://www.engadget.com/ai/airbnb-is-testing-out-ai-search-with-a-small-percentage-of-users-203054011.html",
+            "site_name": "Engadget",
+            "novelty_hash": "54d2c007ce0ba18684864e3161e3fd9b72a30baf"
+          },
+          "review": {
+            "headline_rewrite": "Airbnb is testing out AI search with a 'small percentage' of users",
+            "bullets": [
+              "Airbnb plans to double down on artificial intelligence to improve its user experience for both guests and hosts.",
+              "During a fourth-quarter earnings call, Airbnb's CEO, Brian Chesky, said the company is building an \"AI-native experience\" aimed at helping guests book trips, assisting hosts with their listings, and running the company more efficiently.",
+              "According to Chesky, there's an AI search tool to help guests book trips that's live for a small percentage of users right now.",
+              "In a shareholder letter posted on Airbnb's website, the company said it's conducting early testing with an AI-powered search that is \"focused on giving guests a more natural way to describe what they’re looking for, and ask questions about the listing and location.\" The letter added that the AI search tool will become \"a more comprehensive and intuitive search experience that extends through the trip,\" but the company didn't offer a definitive date on when it would be available to the public.",
+              "While it may feel like Airbnb is late to incorporating AI into its ecosystem, it introduced an AI chatbot that handles customer service requests last year.",
+              "While the AI agent is only available to users in North America currently, Airbnb said that it already handles a third of customer requests without the need for human intervention, as reported by TechCrunch."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/1500-amazon-engineers-to-companys-leadership-stop-forcing-us-to-use-your-coding-tool-we-want-to/articleshow/128307031.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "88b69ad5d18e0de107deb39fd7ec90da13021f0e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "bullets": [
+              "Amazon's push to make employees use its in-house AI coding assistant Kiro over third-party tools like Anthropic's Claude Code has prompted criticism from some employees on internal forums.",
+              "Around 1,500 engineers have formally endorsed the adoption of Claude Code through those forums, pushing back against a policy they say is hurting productivity, Business Insider reported.",
+              "The backlash centres on internal guidance rolled out late last year that steers teams toward Kiro for production code.",
+              "While there is no explicit ban on Claude Code, the company applies stricter requirements for tools used to develop production code specifically, and provides a process for seeking exceptions.",
+              "Amazon employees can use Claude Code for a range of use cases, with an approval path available for production code.",
+              "\"And without competitive strength, Kiro's only survival mechanism becomes forced adoption rather than genuine value.\"\nThe situation gets particularly awkward for engineers who sell AWS BedrockâAmazon's platform that offers customers access to third-party AI services, including Claude Code."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
