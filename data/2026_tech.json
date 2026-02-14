@@ -157210,5 +157210,125 @@
         }
       ]
     }
+  },
+  "2026-02-15": {
+    "runs": {
+      "00:04": [
+        {
+          "item": {
+            "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+            "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3d51535f980287edb13c2ee60803b326dd8dc902"
+          },
+          "review": {
+            "headline_rewrite": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+            "bullets": [
+              "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+              "operations (it retains a stake in the new joint venture), launched Seedance 2.0 earlier this week.",
+              "According to the Wall Street Journal, the updated model is currently available to Chinese users of ByteDance’s Jianying app, and the company says it will soon be available to global users of its CapCut app.",
+              "Similar to tools such as OpenAI’s Sora, Seedance allows users to create videos (currently limited to 15 seconds in length) by just entering a text prompt.",
+              "And like Sora, Seedance quickly drew criticism for an apparent lack of guardrails around the ability to create videos using the likeness of real people, as well as studios’ intellectual property.",
+              "After one X user posted a brief video showing Tom Cruise fighting Brad Pitt, which they said was created by “a 2 line prompt in seedance 2,” “Deadpool” screenwriter Rhett Reese responded, “I hate to say it."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+            "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dd1cb1b3a2ef44869c1920d30ed492eb377f798c"
+          },
+          "review": {
+            "headline_rewrite": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+            "bullets": [
+              "Barton teamed up with Fiducia AI to create a multilingual AI agent (built with IBM Watsonx on IBM Cloud) to help guests identify pieces of the collection and try them on virtually.",
+              "TechCrunch caught up with Barton and Ganesh Harinath, the founder and CEO of Fiducia AI, before the show to learn more about the presentation.",
+              "For one, Barton said technology is baked into how she thinks.",
+              "She likes playing with the real and the unreal, and found the idea of using AI-like set design, “a portal into the collection’s world, rather than ‘AI for AI’s sake,” she said.",
+              "Harinath said his company used IBM watsonx, IBM Cloud, and IBM Cloud Object Storage to help pull off Barton’s presentation.",
+              "It was a production-grade activation with a Visual AI lens (built with IBM watsonx) that detects pieces from Barton’s new collection."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "iBuyPower’s gaming desktops are discounted for Presidents Day",
+            "link": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
+            "site_name": "The Verge",
+            "novelty_hash": "49a550a05b14bf9a54819ada14b962540b8d15e6"
+          },
+          "review": {
+            "headline_rewrite": "iBuyPower’s gaming desktops are discounted for Presidents Day",
+            "bullets": [
+              "If you’re weighing your options, consider some Presidents Day offers on iBuyPower’s pre-built desktops, including the $1,899 RDY Element 9 Pro R07 and the $2,099.99 Slate — both of which are stocked with high-end AMD processors and GPUs that can tear through most games at 1440p with fast frame rates.",
+              "iBuyPower’s gaming desktops are discounted for Presidents Day\nIf it’s too pricey or complicated to build your own, here are two configurations with high-end AMD CPUs and GPUs.",
+              "The GPU will be shipped uninstalled, so that’s the only component you’ll need to insert with iBuyPower’s instructions.",
+              "It’s available for $2,099.99 at Best Buy.",
+              "Most Popular\n- Ring cancels its partnership with Flock Safety after surveillance backlash\n- What’s behind the mass exodus at xAI?",
+              "- The DJI Romo robovac had security so poor, this man remotely accessed thousands of them\n- Why I wish I hadn’t bought my Samsung OLED TV\n- DJI’s first robovac is an autonomous cleaning drone you can’t trust"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
+            "link": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
+            "site_name": "The Verge",
+            "novelty_hash": "4f9e0b30327b42c7c1ca34f4cd2345e4ad215bb9"
+          },
+          "review": {
+            "headline_rewrite": "Georgia Tech announced the finalists in its wild musical instrument competition",
+            "bullets": [
+              "Unlike most of the rest of the finalists, it’s already a commercial product you can purchase from Eternal Research for $999.",
+              "Check out the video above for brief demos and details on all ten finalists.",
+              "Most Popular\n- Ring cancels its partnership with Flock Safety after surveillance backlash\n- What’s behind the mass exodus at xAI?",
+              "- The DJI Romo robovac had security so poor, this man remotely accessed thousands of them\n- Why I wish I hadn’t bought my Samsung OLED TV\n- DJI’s first robovac is an autonomous cleaning drone you can’t trust"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI has officially retired the controversial GPT-4o model",
+            "link": "https://www.engadget.com/ai/openai-has-officially-retired-the-controversial-gpt-4o-model-181553067.html",
+            "site_name": "Engadget",
+            "novelty_hash": "2f760dd75ffccd583e4db8fc3161bf764a34b885"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI has officially retired the controversial GPT-4o model",
+            "bullets": [
+              "OpenAI's GPT-4o may have survived its first brush with going offline, but it won't be as lucky this time.",
+              "OpenAI has officially retired GPT-4o, the ChatGPT model that was seen as more conversational and notoriously sycophantic, on February 13.",
+              "The news of GPT-4o's end was first announced in a post on the OpenAI website in January, but the discontinuation also included GPT-5, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini from ChatGPT.",
+              "It's not the first time that OpenAI has delisted GPT-4o as an option for ChatGPT.",
+              "In August, the AI giant sunsetted the GPT-4o model in favor of rolling out and prioritizing the latest GPT-5 model at the time.",
+              "However, a wave of user complaints led OpenAI to restore access to GPT-4o but with no guarantee that it'll be around forever."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Watch the NASA SpaceX Crew-12 mission dock with the ISS",
+            "link": "https://www.engadget.com/science/space/watch-the-nasa-spacex-crew-12-mission-dock-with-the-iss-180000450.html",
+            "site_name": "Engadget",
+            "novelty_hash": "87fdc40fe89d27ae44849fe8addbd8126f59af68"
+          },
+          "review": {
+            "headline_rewrite": "Watch the NASA SpaceX Crew-12 mission dock with the ISS",
+            "bullets": [
+              "The Crew-12 mission, SpaceX’s 20th human spaceflight, launched at 5:15 AM Eastern on February 13 from Cape Canaveral in Florida.",
+              "The four spacefarers are joining the three remaining passengers onboard the ISS after Crew-11 flew back to Earth a month earlier than planned."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
