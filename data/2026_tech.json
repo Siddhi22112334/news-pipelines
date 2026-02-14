@@ -158215,6 +158215,100 @@
             "impact": "Positive"
           }
         }
+      ],
+      "05:21": [
+        {
+          "item": {
+            "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+            "link": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ca58d6bb9de1ad35721e1ceb5eddeae77d252568"
+          },
+          "review": {
+            "headline_rewrite": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+            "bullets": [
+              "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of social media accounts that criticize Immigration and Customs Enforcement (ICE), according to The New York Times.",
+              "This echoes other recent reporting, with Bloomberg pointing to five cases in which Homeland Security sought to identify the owners of anonymous Instagram accounts, with the department withdrawing its subpoenas after the owners sued.",
+              "And a Washington Post story described Homeland Security’s growing use of administrative subpoenas — which do not require the approval of a judge — to target Americans.",
+              "Echoing past comments, Google said that it informs users of these subpoenas when it can, and that it pushes back when the subpoenas are “overbroad.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Is safety is ‘dead’ at xAI?",
+            "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "73911325e6b94d644448be659f25f763ae0f4b0b"
+          },
+          "review": {
+            "headline_rewrite": "Is safety is ‘dead’ at xAI?",
+            "bullets": [
+              "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged,” according to a former employee who spoke to The Verge about recent departures from Musk’s AI company.",
+              "This week, following the announcement that Musk’s SpaceX is acquiring xAI (which previously acquired his social media company X), at least 11 engineers and two co-founders said they’re leaving the company.",
+              "Some said they’re departing to start something new, and Musk himself suggested this is part of an effort to organize xAI more effectively.",
+              "One source said, “Safety is a dead org at xAI,” while the other said that Musk is “actively is trying to make the model more unhinged because safety means censorship, in a sense, to him.”\nThey also reportedly complained about a lack of direction, with one saying they felt xAI was “stuck in the catch-up phase” compared to competitors."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends",
+            "link": "https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia",
+            "site_name": "The Verge",
+            "novelty_hash": "996687ae4e60e2e7808b9e40c079a753e7906cb2"
+          },
+          "review": {
+            "headline_rewrite": "Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends",
+            "bullets": [
+              "The folks behind Jmail are at it again with a clone of Wikipedia that turns the treasure trove of data in Epstein’s emails into detailed dossiers on his associates.",
+              "The reports are dense, listing how many emails they exchanged with Epstein, basic biographical information, and details about how they’re connected.",
+              "Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends\nAI-generated dossiers from the Jmail team.",
+              "Beyond that, there are entries for the properties Epstein owns, detailing how they were acquired and the alleged activities that took place there.",
+              "It is worth noting that the entries are AI-generated.",
+              "While a casual glance seems to suggest Jikipedia is citing its sources, it’s still possible (if not likely) that there are some inaccuracies contained within them."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/1500-amazon-engineers-to-companys-leadership-stop-forcing-us-to-use-your-coding-tool-we-want-to/articleshow/128307031.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "88b69ad5d18e0de107deb39fd7ec90da13021f0e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 13, 2026 1,500 Amazon engineers to company's leadership: Stop forcing us to use your coding tool, we want to… Amazon engineers are pushing back against a company policy favoring its AI coding assistant, Kiro, over superior third-party tools like Claude Code. Around 1,500 engineers have formally backed Claude Code, citing productivity concerns and questioning how sales teams can promote AWS Bedrock while restricted from using its offerings. This internal dissent highlights a growing demand for better AI tools.",
+            "bullets": [
+              "Amazon's push to make employees use its in-house AI coding assistant Kiro over third-party tools like Anthropic's Claude Code has prompted criticism from some employees on internal forums.",
+              "Around 1,500 engineers have formally endorsed the adoption of Claude Code through those forums, pushing back against a policy they say is hurting productivity, Business Insider reported.",
+              "The backlash centres on internal guidance rolled out late last year that steers teams toward Kiro for production code.",
+              "While there is no explicit ban on Claude Code, the company applies stricter requirements for tools used to develop production code specifically, and provides a process for seeking exceptions.",
+              "Amazon employees can use Claude Code for a range of use cases, with an approval path available for production code.",
+              "\"And without competitive strength, Kiro's only survival mechanism becomes forced adoption rather than genuine value.\"\nThe situation gets particularly awkward for engineers who sell AWS BedrockâAmazon's platform that offers customers access to third-party AI services, including Claude Code."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
