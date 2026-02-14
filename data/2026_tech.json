@@ -155584,6 +155584,102 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "14:32": [
+        {
+          "item": {
+            "title": "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them",
+            "link": "https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt",
+            "site_name": "The Verge",
+            "novelty_hash": "a6457993070a0df5273ccd404b5a2891cf039dee"
+          },
+          "review": {
+            "headline_rewrite": "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them",
+            "bullets": [
+              "Sammy Azdoufal claims he wasn’t trying to hack every robot vacuum in the world.",
+              "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them\nThe immediate threat may be fixed, but this raises serious questions.",
+              "Azdoufal leads AI strategy at a vacation rental home company; when he told me he reverse engineered DJI’s protocols using Claude Code, I had to wonder whether AI was hallucinating these robots.",
+              "With nothing more than that 14-digit number, Azdoufal could not only pull up our robot, he could correctly see it was cleaning the living room and had 80 percent battery life remaining.",
+              "Separately, Azdoufal pulled up his own DJI Romo’s live video feed, completely bypassing its security PIN, then walked into his living room and waved to the camera while I watched.",
+              "He also says he shared a limited read-only version of his app with Gonzague Dambricourt, CTO at an IT consulting firm in France; Dambricourt tells me the app let him remotely watch his own DJI Romo’s camera feed before he even paired it."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
+            "link": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
+            "site_name": "The Verge",
+            "novelty_hash": "60326314cff8d08cc40ff0a348b1b6741f4a9040"
+          },
+          "review": {
+            "headline_rewrite": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
+            "bullets": [
+              "DJI’s first robovac is an autonomous cleaning drone you can’t trust\nRomo flies through chores, but a recent security vulnerability makes it impossible to recommend.",
+              "In October, DJI launched its very first robovacs in Europe.",
+              "My colleague witnessed my robot getting hacked first hand\nI’m especially troubled by a recently exploited security vulnerability that let anyone see inside owners’ homes.",
+              "DJI says the vulnerability has been closed, and that seems to be true based upon our testing, but others remain.",
+              "It’s an egregious oversight by a company already in the US government’s crosshairs because of security and data privacy concerns.",
+              "My colleague Sean Hollister, who witnessed my robot being accessed remotely by a third party (with my cooperation), has all the details in a separate story."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 14, 2026 Anthropic CEO again tells US government NOT to do what Nvidia CEO Jensen Huang has been 'begging' it for Anthropic CEO Dario Amodei strongly opposes selling advanced AI chips to China, viewing them as a national security risk. He argues that while AI's economic benefits should be shared globally, critical compute power must remain out of authoritarian hands. Amodei believes this approach is crucial for maintaining global stability and preventing misuse of AI technology.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-again-tells-us-government-not-to-do-what-nvidia-ceo-jensen-huang-has-been-begging-it-for/articleshow/128338383.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "58a1965bdcc52cac381245694c01ecb0a5c9e40e"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 14, 2026 Anthropic CEO again tells US government NOT to do what Nvidia CEO Jensen Huang has been 'begging' it for Anthropic CEO Dario Amodei strongly opposes selling advanced AI chips to China, viewing them as a national security risk. He argues that while AI's economic benefits should be shared globally, critical compute power must remain out of authoritarian hands. Amodei believes this approach is crucial for maintaining global stability and preventing misuse of AI technology.",
+            "bullets": [
+              "Anthropic CEO Dario Amodei has once again made it clear that he thinks selling advanced AI chips to China is a terrible idea.",
+              "In a wide-ranging conversation on the Dwarkesh Patel podcast, Amodei laid out his case for why the US should keep its compute advantage locked downâdirectly contradicting what Nvidia CEO Jensen Huang has been lobbying Washington to do for months now.",
+              "He said the US shouldn't be building data centres in China or shipping chips there, arguing that AI models powered by those chips are \"essentially cognition, essentially intelligence.\" His framing was blunt: sell cures for diseases to whoever wants them, build pharmaceutical industries in developing nations, but keep the data centres and the chips firmly out of authoritarian hands.",
+              "He even floated a scenario where AI tools could be designed to protect citizens inside authoritarian countries from their own governments' surveillanceâa kind of individualized digital shield.",
+              "Anthropic CEO frames AI chips as a national security chokepoint, not a trade commodity\nThis isn't the first time Amodei has gone after Nvidia's China ambitions.",
+              "At Davos last month, he compared selling H200 chips to China to \"selling nuclear weapons to North Korea and bragging that Boeing made the casings.\" On the podcast, he went furtherâwarning that if both the US and China end up with equally powerful AI systems, the result could be a standoff far more dangerous than nuclear deterrence."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "3c7bba1015cf4faac271b3fb02b84c866a2fbffa"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nToday's Top Headlines\nTrending News\nMust Read Stories\nLatest and Local – Gillette, WY\nBaltimore news to know\nFort Worth & Tarrant County headlines\nLatest news from CentralMaine.com\nFARGO-MOORHEAD NEWS\nLatest news from The Portland Press Herald\nROCHESTER MINNESOTA NEWS\nLatest and Local – Casper, WY\nSoMD Morning Headlines for 2/13/2026\nUNITED STATES\nDallas-Fort Worth News - Feb.",
+              "13, 2026\nLuxury Real Estate News\nTOP COLORADO NEWS\nBEMIDJI MINNESOTA NEWS\nA wrap on the day’s hard-hitting news and opinion\nOakland news this week\nFriday Night News\nNORTHEAST GEORGIA\nBRAINERD MINNESOTA NEWS\nAfternoon rundown\nDICKINSON ND NEWS\nCHARLOTTE HEADLINES\nTop Stories\nNEWS FOR YOU\nHawaii’s In-Depth News Source\nThe Business Journal of the Boulder Valley and Northern Colorado\nWhat Utah is buzzing about\nSaturday News Roundup -- Morning Edition\nWestside incumbents draw challengers in supervisor, council races\nBureau County Republican\nEntertainment & Arts\nAfternoon Update\nNews from the Central Valley\nLatest news from Baltimore, Montgomery County and across Maryland\nTop News\nTODAY IN SANTA CRUZ COUNTY\nLatest news from The Sun Journal\nThe Evening Rundown | Feb.",
+              "13\nEllenville Changes Short-Term Rental Law and more\nHappening in Loudoun County\nThe Rundown\nFriday's news in Arlington, Virginia\nDaily Rundown\nWILLMAR MINNESOTA NEWS\nCobb Courier Evening Update February 13, 2026\nLATEST CALIFORNIA NEWS\nLatest Headlines\nLatest news for Edmonds\nThe Evening Recap | February 13, 2026\nSAN FRANCISCO'S TOP STORIES\nTODAY'S TOP STORIES\nMorris Herald News\nFriday's news in Alexandria\nBridge Michigan\nMITCHELL SD NEWS\nSan Jose Spotlight: Your search for truth starts here\nYour Central Valley News Source\nDaily Dose of Neighborhood News 2.13.26\nKane County Chronicle\nAround Humboldt\nSan Diego Friday Evening Report\nGRAND FORKS ND NEWS\nSauk Valley\nBerkeley news to know\nLatinos in Arts\nSCV News from The Signal for Feb.",
+              "13, 2026\nPittsburgh Does\nWhat to know in New Orleans\nNew York City News Today\nAdvocate Top Stories\nTop Stories from The Wilson Times\nSTOCK MARKET TODAY\nDaily Chronicle\nDaily Briefing\nToday's Rundown\nNews Tribune\nLane County News\nDaily News\n@NorthcentralPa\nNYC BLACK NEWS\nToledo's Leader in News, Sports & Entertainment\nBest of Friday\nNews, art & life in Fayetteville, Arkansas\nDULUTH MINNESOTA NEWS"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
