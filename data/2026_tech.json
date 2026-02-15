@@ -161105,6 +161105,111 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:24": [
+        {
+          "item": {
+            "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+            "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "873ed1f2f5f71bd77761098f92e308d900b04e50"
+          },
+          "review": {
+            "headline_rewrite": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+            "bullets": [
+              "Greene said that after friends, family members, and coworkers began emailing him about the resemblance, he became convinced that the voice was replicating his cadence, intonation, and use of filler words like “uh.”\n“My voice is, like, the most important part of who I am,” said Greene, who currently hosts the KCRW show “Left, Right, & Center.”\nAmong other features, Google’s NotebookLM allows users to generate a podcast with AI hosts.",
+              "A company spokesperson told the Post that the voice used in this product is unrelated to Greene’s: “The sound of the male voice in NotebookLM’s Audio Overviews is based on a paid professional actor Google hired.”\nThis isn’t the first dispute over AI voices resembling real people.",
+              "In one notable example, OpenAI removed a ChatGPT voice after actress Scarlett Johansson complained that it was an imitation of her own."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+            "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "86dfbd2a0a2719100f2520bc27d377ad2f08600e"
+          },
+          "review": {
+            "headline_rewrite": "OpenClaw creator Peter Steinberger joins OpenAI",
+            "bullets": [
+              "Peter Steinberger, who created the AI personal assistant now known as OpenClaw, has joined OpenAI.",
+              "Previously known as Clawdbot, then Moltbot, OpenClaw achieved viral popularity over the past few weeks with its promise to be the “AI that actually does things,” whether that’s managing your calendar, booking flights, or even joining a social network full of other AI assistants.",
+              "(The name changed the first time after Anthropic threatened legal action over its similarity to Claude, then changed again because Steinberger liked the new name better.)\nIn a blog post announcing his decision to join OpenAI, the Austrian developer said that while he might have been able to turn OpenClaw into a huge company, “It’s not really exciting for me.”\n“What I want is to change the world, not build a large company[,] and teaming up with OpenAI is the fastest way to bring this to everyone,” Steinberger said.",
+              "OpenAI CEO Sam Altman posted on X that in his new role, Steinberger will “drive the next generation of personal agents.” As for OpenClaw, Altman said it will “live in a foundation as an open source project that OpenAI will continue to support”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Space Station returns to a full crew complement after a month",
+            "link": "https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1951fbc626496a6f92c83e111ae474e429ed8f52"
+          },
+          "review": {
+            "headline_rewrite": "Space Station returns to a full crew complement after a month",
+            "bullets": [
+              "This stands for “US Orbital Segment,” and means astronauts from the United States, Canada, Europe, and Japan who are trained to operate the areas of the station maintained by NASA and its partner astronauts.",
+              "NASA has not named the afflicted Crew-11 astronaut, but the flier is said to be recovering on Earth."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Terminator Zero showrunner confirms the Netflix anime has been canceled after one season",
+            "link": "https://www.engadget.com/entertainment/streaming/terminator-zero-showrunner-confirms-the-netflix-anime-has-been-canceled-after-one-season-211656840.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4e162d696d536fbe13ce8601c49f759e3a7ed505"
+          },
+          "review": {
+            "headline_rewrite": "Terminator Zero showrunner confirms the Netflix anime has been canceled after one season",
+            "bullets": [
+              "Responding to a fan on social media, showrunner Mattson Tomlin said this weekend that the show has been canceled.",
+              "In the post about the show's cancellation, Tomlin wrote, \"I would’ve loved to deliver on the Future War I had planned in season’s 2 and 3, but I’m also very happy with how it feels contained as is.\"\nTomlin went on to praise the marketing team in additional replies for \"trying to really make the show work,\" as well as the hundreds of people who worked on the show."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 15, 2026 CEO of Europe's largest IT company does not agree with Europe's call of reducing dependance on Google, Microsoft and other US tech companies; says: Nobody has ... Capgemini CEO Aiman Ezzat dismisses calls for total technological sovereignty in Europe, arguing that absolute sovereignty is unattainable. Instead, he advocates for \"right sovereignty solutions\" tailored to specific use cases, highlighting Europe's existing independence in some areas but acknowledging US tech dominance. Capgemini partners with US hyperscalers to offer \"sovereign\" AI and cloud services.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-europes-largest-it-company-does-not-agree-with-europes-call-of-reducing-dependance-on-google-microsoft-and-other-us-tech-companies-says-nobody-has-/articleshow/128392772.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "16319dc28c00b28e404ecd696f24a6374c2f30b9"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 15, 2026 CEO of Europe's largest IT company does not agree with Europe's call of reducing dependance on Google, Microsoft and other US tech companies; says: Nobody has ... Capgemini CEO Aiman Ezzat dismisses calls for total technological sovereignty in Europe, arguing that absolute sovereignty is unattainable. Instead, he advocates for \"right sovereignty solutions\" tailored to specific use cases, highlighting Europe's existing independence in some areas but acknowledging US tech dominance. Capgemini partners with US hyperscalers to offer \"sovereign\" AI and cloud services.",
+            "bullets": [
+              "Paris-based Capgemini CEO Aiman Ezzat has reportedly dismissed calls for a total technological sovereignty in Europe.",
+              "Europeâs push for greater digital sovereignty has gained new momentum in recent months, sparked by fears that the US President Donald Trumpâs foreign policy could force a âtech decouplingâ.",
+              "For those unaware, calls for digital sovereignty in Europe emphasize achieving strategic independence from foreign technology, specifically reducing dependence on U.S.-based\ntech giants for infrastructure, cloud services, and AI.",
+              "Capgemini CEO on full European tech autonomy\nAccording to a report in Reuters, French tech major Capgemini, which serves government agencies, critical-infrastructure operators and large regulated enterprises, is positioning itself as a bridge between Brussels' sovereignty ambitions and the reality of US-dominated cloud infrastructure.",
+              "\"Nobody has it, because no one has sovereignty over the entire value chain required to deliver services.\"\nEzzat said that on the first three levels, Europe already has independence, but the dominance of the US Big Tech means that there is no complete independence on a technological level.",
+              "He said digital autonomy follows a four-layer framework of data, operations, regulation and technology."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
