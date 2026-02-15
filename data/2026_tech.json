@@ -160889,6 +160889,112 @@
             "impact": "Positive"
           }
         }
+      ],
+      "03:20": [
+        {
+          "item": {
+            "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+            "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0c5e94dd8d0e86efa8f0f1df22e0c5a02318b72a"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+            "bullets": [
+              "The Pentagon is pushing AI companies to allow the U.S.",
+              "The government is reportedly making the same demand to OpenAI, Google, and xAI.",
+              "In response, the Pentagon is apparently threatening to pull the plug on its $200 million contract with the AI company.",
+              "The WSJ subsequently said that Claude was used in the U.S.",
+              "A company spokesperson told Axios that the company has “not discussed the use of Claude for specific operations with the Department of War” but is instead “focused on a specific set of Usage Policy questions — namely, our hard limits around fully autonomous weapons and mass domestic surveillance.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ancient Mars was warm and wet, not cold and icy",
+            "link": "https://theconversation.com/early-mars-was-warm-and-wet-not-icy-suggests-latest-research-275347",
+            "site_name": "Ars Technica",
+            "novelty_hash": "57aa065aa3f4f4abac28da1318c3e3b52b6779fc"
+          },
+          "review": {
+            "headline_rewrite": "Ancient Mars was warm and wet, not cold and icy",
+            "bullets": [
+              "The finding contrasts with another theory that this era was mainly cold and icy.",
+              "The prevailing climatic conditions of the Noachian are still a matter of intense debate."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Terminator Zero showrunner confirms the Netflix anime has been canceled after one season",
+            "link": "https://www.engadget.com/entertainment/streaming/terminator-zero-showrunner-confirms-the-netflix-anime-has-been-canceled-after-one-season-211656840.html",
+            "site_name": "Engadget",
+            "novelty_hash": "4e162d696d536fbe13ce8601c49f759e3a7ed505"
+          },
+          "review": {
+            "headline_rewrite": "Terminator Zero showrunner confirms the Netflix anime has been canceled after one season",
+            "bullets": [
+              "Responding to a fan on social media, showrunner Mattson Tomlin said this weekend that the show has been canceled.",
+              "In the post about the show's cancellation, Tomlin wrote, \"I would’ve loved to deliver on the Future War I had planned in season’s 2 and 3, but I’m also very happy with how it feels contained as is.\"\nTomlin went on to praise the marketing team in additional replies for \"trying to really make the show work,\" as well as the hundreds of people who worked on the show."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 15, 2026 CEO of Europe's largest IT company does not agree with Europe's call of reducing dependance on Google, Microsoft and other US tech companies; says: Nobody has ... Capgemini CEO Aiman Ezzat dismisses calls for total technological sovereignty in Europe, arguing that absolute sovereignty is unattainable. Instead, he advocates for \"right sovereignty solutions\" tailored to specific use cases, highlighting Europe's existing independence in some areas but acknowledging US tech dominance. Capgemini partners with US hyperscalers to offer \"sovereign\" AI and cloud services.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-europes-largest-it-company-does-not-agree-with-europes-call-of-reducing-dependance-on-google-microsoft-and-other-us-tech-companies-says-nobody-has-/articleshow/128392772.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "16319dc28c00b28e404ecd696f24a6374c2f30b9"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 15, 2026 CEO of Europe's largest IT company does not agree with Europe's call of reducing dependance on Google, Microsoft and other US tech companies; says: Nobody has ... Capgemini CEO Aiman Ezzat dismisses calls for total technological sovereignty in Europe, arguing that absolute sovereignty is unattainable. Instead, he advocates for \"right sovereignty solutions\" tailored to specific use cases, highlighting Europe's existing independence in some areas but acknowledging US tech dominance. Capgemini partners with US hyperscalers to offer \"sovereign\" AI and cloud services.",
+            "bullets": [
+              "Paris-based Capgemini CEO Aiman Ezzat has reportedly dismissed calls for a total technological sovereignty in Europe.",
+              "Europeâs push for greater digital sovereignty has gained new momentum in recent months, sparked by fears that the US President Donald Trumpâs foreign policy could force a âtech decouplingâ.",
+              "For those unaware, calls for digital sovereignty in Europe emphasize achieving strategic independence from foreign technology, specifically reducing dependence on U.S.-based\ntech giants for infrastructure, cloud services, and AI.",
+              "Capgemini CEO on full European tech autonomy\nAccording to a report in Reuters, French tech major Capgemini, which serves government agencies, critical-infrastructure operators and large regulated enterprises, is positioning itself as a bridge between Brussels' sovereignty ambitions and the reality of US-dominated cloud infrastructure.",
+              "\"Nobody has it, because no one has sovereignty over the entire value chain required to deliver services.\"\nEzzat said that on the first three levels, Europe already has independence, but the dominance of the US Big Tech means that there is no complete independence on a technological level.",
+              "He said digital autonomy follows a four-layer framework of data, operations, regulation and technology."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "63d66839463b09ab1d806dfaca11c26216721947"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nTop Stories from The Wilson Times\nDetroit Does\nSunday Morning News\nWeekend wrapup\nSAN FRANCISCO'S TOP STORIES\nTop Stories\nToday's Rundown\nCobb Courier Morning Update February 15, 2026\nNews Tribune\nMywebtimes\nSunday's news in Arlington, Virginia\nTrending Today\nLatest news for Edmonds\nDaily Chronicle\nYour Central Valley News Source\nWhat Utah is buzzing about\nDallas-Fort Worth news - Feb.",
+              "15, 2026\nBureau County Republican\nDaily News\nWeekend Top Stories\nTHE WEEK AHEAD\nToledo's Leader in News, Sports & Entertainment\nTODAY IN SANTA CRUZ COUNTY\nA wrap on the day’s hard-hitting news and opinion\nMorning rundown\nSTORIES FROM MINNESOTA\nPittsburgh Does\nSauk Valley\nSunday's news in Fairfax County\nLatest Headlines\nDaily Rundown\narks service: Federal beach control could boost protections and economy\nHappening in Loudoun County\nEvening Headlines, Feb.",
+              "15, 2026\n@NorthcentralPa\nWhat to know in Baton Rouge\nDaily Briefing\nToday's Top Headlines\nTrending News\nWHAT'S NEWS TODAY\nSunday Roundup - Morning Edition\nLane County News\nNorthwest Herald\nGJ Sentinel Headlines 2/15/26\nEUROPE\nSCV News from The Signal for Feb."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
