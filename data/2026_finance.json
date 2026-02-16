@@ -71854,5 +71854,46 @@
         }
       ]
     }
+  },
+  "2026-02-17": {
+    "runs": {
+      "00:43": [
+        {
+          "item": {
+            "title": "European Stocks Gain as Banks Rebound, Earnings Remain in Focus",
+            "link": "https://www.livemint.com/market/european-stocks-gain-as-banks-rebound-earnings-remain-in-focus-11771267877444.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "European Stocks Gain as Banks Rebound, Earnings Remain in Focus",
+            "bullets": [
+              "Investor sentiment was also lifted following Friday’s US data that showed slowing inflation, reinforcing investor conviction the Federal Reserve could cut interest rates at",
+              "German online broker flatexDEGIRO SE fell 5% after its rating was downgraded to neutral from outperform at BNP Paribas.",
+              "Europe’s benchmark index is wavering below last week’s record high amid a mixed earnings season, which has been marked by overall healthy profit growth",
+              "To subscribe to a daily list of European analyst rating changes, click here."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "European Stocks Muted as Tech Suffers; Dassault Systemes Falls",
+            "link": "https://www.livemint.com/market/european-stocks-muted-as-tech-suffers-dassault-systemes-falls-11771267510700.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "European Stocks Muted as Tech Suffers; Dassault Systemes Falls",
+            "bullets": [
+              "Earnings season has been mixed, marked by overall healthy profit growth yet fierce punishment for companies that didn’t meet market expectations.",
+              "German online broker FlatexDEGIRO SE fell 6.9% after its rating was downgraded to neutral from outperform at BNP Paribas.",
+              "To subscribe to a daily list of European analyst rating changes, click here."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }

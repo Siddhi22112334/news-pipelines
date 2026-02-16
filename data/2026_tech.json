@@ -162852,5 +162852,124 @@
         }
       ]
     }
+  },
+  "2026-02-17": {
+    "runs": {
+      "00:43": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m8azn-instances-new-open-weights-models-in-amazon-bedrock-and-more-february-16-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "207e8da9a431c356f2eefb3eaab528df7b9da51e"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)",
+            "bullets": [
+              "AWS Weekly Roundup: Amazon EC2 M8azn instances, new open weights models in Amazon Bedrock, and more (February 16, 2026)\nI joined AWS in 2021, and since then I’ve watched the Amazon Elastic Compute Cloud (Amazon EC2) instance family grow at a pace that still surprises me.",
+              "This week’s opening news is a good example: The general availability of Amazon EC2 M8azn instances.",
+              "These are general purpose, high-frequency, high-network instances powered by fifth generation AMD EPYC processors, offering the highest maximum CPU frequency in the cloud at 5 GHz.",
+              "The instances feature a 4:1 ratio of memory to vCPU and are available in 9 sizes ranging from 2 to 96 vCPUs with up to 384 GiB of memory, including two bare metal variants.",
+              "Last week’s launches\nHere are some of the other announcements from last week:\n- Amazon Bedrock adds support for six fully managed open weights models – Amazon Bedrock now supports DeepSeek V3.2, MiniMax M2.1, GLM 4.7, GLM 4.7 Flash, Kimi K2.5, and Qwen3 Coder Next.",
+              "DeepSeek V3.2 and Kimi K2.5 target reasoning and agentic intelligence, GLM 4.7 and MiniMax M2.1 support autonomous coding with large output windows, and Qwen3 Coder Next and GLM 4.7 Flash provide cost-efficient alternatives for production deployment."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
+            "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "da1ff3008da2708a25db30bcc2e14d73efd91df2"
+          },
+          "review": {
+            "headline_rewrite": "Have money, will travel: a16z’s hunt for the next European unicorn",
+            "bullets": [
+              "This all came to light when news emerged that a16z had led a $2.3 million pre-seed round into Dentio, a Swedish startup that uses AI to help dentists’ practices with admin work.",
+              "Since then, a significant number of fast-growing startups have been created in the Swedish capital, and the VC heavyweight tracked down where many of them were coming from.",
+              "Like fintech giant Klarna, legal AI startup Legora, and e-scooter company Voi, Dentio is an alum of SSE Labs — a startup incubator that has produced several successful Swedish companies.",
+              "The three former high school classmates Elias Afrasiabi, Anton Li and Lukas Sjögren joined the incubator after reconnecting as students at both the SSE (Stockholm School of Economics) and KTH (Royal Institute of Technology), then joined the incubator with additional backing from KTH’s Innovation Launch program.",
+              "The trio intuited that they could leverage LLMs to help people like her — an idea that they also validated with her and her colleagues.",
+              "This led them to Dentio’s initial product, a recording tool that uses AI to generate clinical notes."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "iPhone Fold rumors: Everything we know so far, including the leaked design, upgrades, price and more details",
+            "link": "https://www.engadget.com/mobile/smartphones/iphone-fold-rumors-everything-we-know-so-far-including-the-leaked-design-upgrades-price-and-more-details-130000074.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f8692ad68faa905523af353262900349eb388006"
+          },
+          "review": {
+            "headline_rewrite": "iPhone Fold rumors: Everything we know so far, including the leaked design, upgrades, price and more details",
+            "bullets": [
+              "Over the past few months, analysts, supply-chain watchers and leakers have continued to sketch out what Apple’s first folding phone might look like and when it could finally arrive.",
+              "Below, we’ve rounded up the most credible rumors so far, and we’ll keep this guide updated as new details emerge.",
+              "When could the iPhone Fold launch?",
+              "Mark Gurman has gone back and forth on timing, initially suggesting Apple could launch “as early as 2026,” before later writing that the device would ship at the end of 2026 and sell primarily in 2027.",
+              "Some reports still claim the project could slip into 2027 if Apple runs into manufacturing or durability issues, particularly around the hinge or display.",
+              "Given Apple’s history of delaying products that it feels aren’t ready, that remains a real possibility."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Apple Podcasts app is switching to HTTP Live Streaming video technology",
+            "link": "https://www.engadget.com/apps/the-apple-podcasts-app-is-switching-to-http-live-streaming-video-technology-182605612.html",
+            "site_name": "Engadget",
+            "novelty_hash": "c1bd396ad5e301848daffef84080e1fad84cf82f"
+          },
+          "review": {
+            "headline_rewrite": "The Apple Podcasts app is switching to HTTP Live Streaming video technology",
+            "bullets": [
+              "It'll also make both video and audio streams available to download for offline viewing.",
+              "The technology integrates picture-in-picture for multitasking on products like the iPad.",
+              "The update will be available on most platforms, including iOS, iPadOS, visionOS and the web."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 16, 2026 Tech leaders on AI layoff fears at India AI Impact Summit: Don't worry, just go and learn ... Tech leaders at the India AI Impact Summit emphasized focusing on AI skills, stating that while some jobs may become redundant, AI will create new opportunities. Lifelong learning and reskilling are crucial to adapt to the evolving job market, with AI acting as a capability multiplier.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/tech-leaders-on-ai-layoff-fears-at-india-ai-impact-summit-dont-worry-just-go-and-learn-/articleshow/128412015.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a108d6668e39d7124c1a3d3654eb753b76d028e9"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 16, 2026 Tech leaders on AI layoff fears at India AI Impact Summit: Don't worry, just go and learn ... Tech leaders at the India AI Impact Summit emphasized focusing on AI skills, stating that while some jobs may become redundant, AI will create new opportunities. Lifelong learning and reskilling are crucial to adapt to the evolving job market, with AI acting as a capability multiplier.",
+            "bullets": [
+              "Stay calm and focus on AI Skills that is the message from tech leaders at the India AI Impact Summit that started in New Delhi today.",
+              "Sateesh Seetharamiah CEO EdgeVerve (a wholly-owned subsidiary of Infosys) said that AI will act as faster capability multiplier and \"life-long learning ability\" will be the core mantra to tide over the AI wave.",
+              "He said that AI has generated more productivity to businesses.",
+              "\"So the jobs are not going anywhere, nature of jobs will change.\"\nIndian IT veteran and Sampark Founder Chairman Vineet Nayar said that while 50 per cent of current jobs will go because of AI, same perceantage, which is 50%, more jobs will also be created, which would need skilled manpower to handle AI.",
+              "\"AI offers us a scope to reskill ourselves.",
+              "But what skills are required (in respective professions) that we need to figure out,\" Nayar said."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
