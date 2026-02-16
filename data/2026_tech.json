@@ -163595,6 +163595,99 @@
             "impact": "Negative"
           }
         }
+      ],
+      "04:30": [
+        {
+          "item": {
+            "title": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
+            "link": "https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-for-custom-amazon-nova-models/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "38af406b6ab322b6e6d024e50b2f7f9d962f1a04"
+          },
+          "review": {
+            "headline_rewrite": "Announcing Amazon SageMaker Inference for custom Amazon Nova models",
+            "bullets": [
+              "Announcing Amazon SageMaker Inference for custom Amazon Nova models\nSince we launched Amazon Nova customization in Amazon SageMaker AI at AWS NY Summit 2025, customers have been asking for the same capabilities with Amazon Nova as they do when they customize open weights models in Amazon SageMaker Inference.",
+              "They also wanted have more control and flexibility in custom model inference over instance types, auto-scaling policies, context length, and concurrency settings that production workloads demand.",
+              "Today, we’re announcing the general availability of custom Nova model support in Amazon SageMaker Inference, a production-grade, configurable, and cost-efficient managed inference service to deploy and scale full-rank customized Nova models.",
+              "You can now experience an end-to-end customization journey to train Nova Micro, Nova Lite, and Nova 2 Lite models with reasoning capabilities using Amazon SageMaker Training Jobs or Amazon HyperPod and seamlessly deploy them with managed inference infrastructure of Amazon SageMaker AI.",
+              "With Amazon SageMaker Inference for custom Nova models, you can reduce inference cost through optimized GPU utilization using Amazon Elastic Compute Cloud (Amazon EC2) G5 and G6 instances over P5 instances, auto-scaling based on 5-minute usage patterns, and configurable inference parameters.",
+              "This feature enables deployment of customized Nova models with continued pre-training, supervised fine-tuning, or reinforcement fine-tuning for your use cases."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Call of Duty: Warzone Mobile will go offline on April 17",
+            "link": "https://www.engadget.com/gaming/call-of-duty-warzone-mobile-will-go-offline-on-april-17-222240967.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a5b493a988d3f63ce3386eccb716c841a1d2f75a"
+          },
+          "review": {
+            "headline_rewrite": "Call of Duty: Warzone Mobile will go offline on April 17",
+            "bullets": [
+              "The shooter will remain available for current players until that date.",
+              "For any people who still want to play the military shooter on their phones, there a mobile version of the main game remains available.",
+              "\"Player passion and feedback continue to shape the future of the Call of Duty franchise, and we look forward to delivering meaningful seasonal content and updates to Call of Duty: Mobile,\" Activision said in announcingWarzone's mobile shutdown."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 16, 2026 Tech leaders on AI layoff fears at India AI Impact Summit: Don't worry, just go and learn ... Tech leaders at the India AI Impact Summit emphasized focusing on AI skills, stating that while some jobs may become redundant, AI will create new opportunities. Lifelong learning and reskilling are crucial to adapt to the evolving job market, with AI acting as a capability multiplier.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/tech-leaders-on-ai-layoff-fears-at-india-ai-impact-summit-dont-worry-just-go-and-learn-/articleshow/128412015.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a108d6668e39d7124c1a3d3654eb753b76d028e9"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 16, 2026 Tech leaders on AI layoff fears at India AI Impact Summit: Don't worry, just go and learn ... Tech leaders at the India AI Impact Summit emphasized focusing on AI skills, stating that while some jobs may become redundant, AI will create new opportunities. Lifelong learning and reskilling are crucial to adapt to the evolving job market, with AI acting as a capability multiplier.",
+            "bullets": [
+              "Stay calm and focus on AI Skills that is the message from tech leaders at the India AI Impact Summit that started in New Delhi today.",
+              "Sateesh Seetharamiah CEO EdgeVerve (a wholly-owned subsidiary of Infosys) said that AI will act as faster capability multiplier and \"life-long learning ability\" will be the core mantra to tide over the AI wave.",
+              "He said that AI has generated more productivity to businesses.",
+              "\"So the jobs are not going anywhere, nature of jobs will change.\"\nIndian IT veteran and Sampark Founder Chairman Vineet Nayar said that while 50 per cent of current jobs will go because of AI, same perceantage, which is 50%, more jobs will also be created, which would need skilled manpower to handle AI.",
+              "\"AI offers us a scope to reskill ourselves.",
+              "But what skills are required (in respective professions) that we need to figure out,\" Nayar said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "2b57fd50faac1aa91bfba93a2a3701a2f59e664d"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nNews You Need\nToday's Rundown\nTop Stories\nSTGNews Headlines\nWHAT'S NEWS TODAY\nCobb Courier Morning Update February 16, 2026\nBest of Monday\nSoMD Evening Headlines for 2/16/2026\nDaily Chronicle\nSCV News from The Signal for Feb.",
+              "16, 2026\nFort Worth & Tarrant County headlines\nMonday Roundup - Afternoon Edition\nCAPITOLHILLSEATTLE.COM\nMorning Headlines, Feb.",
+              "16, 2026\nSauk Valley\nUNITED STATES\nMonday Night News\nLane County News\nTODAY IN SANTA CRUZ COUNTY\nIn Brief\nTOP COLORADO NEWS\nTop Stories from The Wilson Times\nWhat to know in New Orleans\nThe Evening Recap | February 16, 2026\nGJ Sentinel Headlines 2/16/26\nThe World's Biggest Bully and Biggest Island and more\nMywebtimes\nDaily News\nLatest news for Edmonds\nSAN FRANCISCO'S TOP STORIES\nDaily Dose of Neighborhood News 2.16.26\nAustin, Garfield Park, North Lawndale\nA West Side Mailman Went Viral For Singing To A Widowed Grandmother.",
+              "It Changed His LifeHawaii’s In-Depth News Source\nLatest Headlines\nToledo's Leader in News, Sports & Entertainment\nSTORIES FROM MINNESOTA\nDaily Rundown\nMorning rundown\nDaily Briefing\nYour Central Valley News Source\n@NorthcentralPa\nHappening in Loudoun County\nLatest news from Baltimore, Montgomery County and across Maryland\nLatest and Local – Casper, WY"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
