@@ -165329,5 +165329,126 @@
         }
       ]
     }
+  },
+  "2026-02-18": {
+    "runs": {
+      "00:27": [
+        {
+          "item": {
+            "title": "Check out the top 10 trending U.S. destinations for spring break 2026.",
+            "link": "https://blog.google/products-and-platforms/products/search/spring-break-2026-travel-trends/",
+            "site_name": "Google",
+            "novelty_hash": "e15eac0c5a570d8944a1898a10a2f4a9e707ddfc"
+          },
+          "review": {
+            "headline_rewrite": "Check out the top 10 trending U.S. destinations for spring break 2026.",
+            "bullets": [
+              "Hilo on Hawaii’s Big Island leads the pack, and Florida’s west coast — including places like Sarasota and Panama City — claims five of the top 10 spots:\n- Hilo, Hawaii\n- Asheville, North Carolina\n- Sarasota, Florida\n- Long Beach, California\n- Panama City, Florida\n- Punta Gorda, Florida\n- Santa Ana, California\n- Fort Myers, Florida\n- Tampa, Florida\n- Vail, Colorado\nTo create this list, we looked at destinations seeing the largest percentage increase in Google Flights searches for domestic trips in March and April 2026, compared to the same period in 2025.",
+              "If you’re ready to start planning, you’re in good company — searches for “AI travel planner” hit an all-time high in January.",
+              "And with the latest AI upgrades in Search, it’s easy to build a custom itinerary, find affordable flights and turn your plans into bookings."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+            "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5bc76bb9987fc2e72f5b3a9e14dabf2a0df25b97"
+          },
+          "review": {
+            "headline_rewrite": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+            "bullets": [
+              "Mistral AI, the French company last valued at $13.8 billion, has made its first acquisition.",
+              "The OpenAI competitor has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+              "Mistral has been primarily known for developing large language models (LLMs), but this deal confirms its ambitions to position itself as a full-stack player.",
+              "In June 2025, it had announced Mistral Compute, an AI cloud infrastructure offering which it now hopes Koyeb will accelerate.",
+              "Founded in 2020 by three former employees of French cloud provider Scaleway, Koyeb aimed to help developers process data without worrying about server infrastructure — a concept known as serverless.",
+              "This approach gained relevance as AI grew more demanding, also inspiring the recent launch of Koyeb Sandboxes, which provide isolated environments to deploy AI agents."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Here are the best Presidents Day deals you can still grab",
+            "link": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "78f273e40e3ac1581b2ec490bde32c79af538c19"
+          },
+          "review": {
+            "headline_rewrite": "Here are the best Presidents Day deals you can still grab",
+            "bullets": [
+              "Both Valentine’s Day and Presidents Day brought a deluge of discounts, and although both have passed, a number of notable deals remain.",
+              "Below, we’ve rounded up the best Presidents Day deals still available, the bulk of which we anticipate expiring by the end of the week.",
+              "Featured Products\nHeadphone and earbud deals\n- You can currently buy the Shokz OpenFit 2 Plus at Best Buy for $149.99 ($50 off), which is just $10 more than their all-time low.",
+              "They don’t sound as clear as the OpenRun Pro 2, but they do sound better than the OpenFit Air and offer helpful onboard touch controls.",
+              "- The latest pair of AirPods Max are on sale at Amazon and Walmart for $449 ($100 off), which is $50 shy of their best price to date.",
+              "Apple’s stainless steel / aluminum headphones offer a high-end look few headphones can match, along with a natural-sounding transparency mode and some of the best noise cancellation available."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic releases Sonnet 4.6",
+            "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a7b21d4a6b376214173d590b8e3da9788b251172"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic releases Sonnet 4.6",
+            "bullets": [
+              "The beta release of Sonnet 4.6 will include a context window of 1 million tokens, twice the size of the largest window previously available for Sonnet.",
+              "Anthropic described the new context window as “enough to hold entire codebases, lengthy contracts, or dozens of research papers in a single request.”\nThe release comes just two weeks after the launch of Opus 4.6, with an updated Haiku model likely to follow in the coming weeks.",
+              "The launch comes with a new set of record benchmark scores, including OS World for computer use and SWE-Bench for software engineering.",
+              "The score puts Sonnet 4.6 above most comparable models, although it still trails models like Opus 4.6, Gemini 3 Deep Think, and one refined version of GPT 5.2."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "WordPress’ new AI assistant will let users edit their sites with prompts",
+            "link": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+            "site_name": "The Verge",
+            "novelty_hash": "bdeeb6e4b2db0548b65056dec2e5779d11d83e07"
+          },
+          "review": {
+            "headline_rewrite": "WordPress’ new AI assistant will let users edit their sites with prompts",
+            "bullets": [
+              "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform’s site editor and media library, TechCrunch reports.",
+              "The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google’s Nano Banana, and make adjustments to their sites like creating new pages or changing fonts.",
+              "WordPress’ new AI assistant will let users edit their sites with prompts\nThe opt-in AI assistant can generate images, edit and translate text, and reorganize WordPress sites.",
+              "Users can also interact with the AI through the new block notes feature WordPress added in its 6.9 update in December, which allows users to leave comments in the site editor.",
+              "By tagging the AI assistant with “@ai” in block notes, users can give it prompts like asking it to edit a specific block of text or suggest a headline.",
+              "To try out the AI assistant, users have to manually enable it by going into their site’s settings and toggling on “AI tools.” Sites that were made with the AI website builder WordPress launched last year will have AI tools enabled by default."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Warner Bros. rejects Paramount again but asks for \"best and final offer\"",
+            "link": "https://arstechnica.com/tech-policy/2026/02/warner-bros-gives-paramount-one-more-week-to-beat-netflix-merger-offer/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "eabc391a2f04e843ea4df08076fe05a0767032dd"
+          },
+          "review": {
+            "headline_rewrite": "Warner Bros. rejects Paramount again but asks for \"best and final offer\"",
+            "bullets": [
+              "Discovery is giving Paramount one more week to make its best and final offer, leaving the door open for a deal that could upend its merger agreement with Netflix.",
+              "The company today scheduled a special meeting date of March 20 and recommended that shareholders vote for the Netflix merger.",
+              "“Netflix has provided WBD a limited waiver under the terms of WBD’s merger agreement with Netflix, permitting WBD to engage in discussions with Paramount Skydance for a seven-day period ending on February 23, 2026 to seek clarity for WBD stockholders and provide PSKY the ability to make its best and final offer,” Warner Bros.",
+              "said today.",
+              "merger agreement gives Netflix the right to match Paramount’s offer, Warner Bros.",
+              "said."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
