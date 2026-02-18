@@ -73781,5 +73781,44 @@
         }
       ]
     }
+  },
+  "2026-02-19": {
+    "runs": {
+      "00:25": [
+        {
+          "item": {
+            "title": "Sarvam AI unveils indigenously-built 30B and 105B LLM models",
+            "link": "https://www.thehindubusinessline.com/info-tech/sarvam-ai-unveils-indigenously-built-30b-and-105b-llm-models/article70648250.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Sarvam AI unveils indigenously-built 30B and 105B LLM models",
+            "bullets": [
+              "Ours is a mixture-of-experts (MoE) model and has just 1 billion activated parameters, meaning that in generating every output token, it only activates 1B",
+              "Across global benchmarks spanning mathematics, coding, and knowledge tasks, Sarvam 30B delivers strong results among, either surpassing or remains competitive with models like OpenAI’s"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Galgotias University faces backlash for passing off Chinese robodog, Korean drone as in-house innovations",
+            "link": "https://www.thehindubusinessline.com/companies/galgotias-university-faces-backlash-for-passing-off-chinese-robodog-korean-drone-as-in-house-innovations/article70648292.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Galgotias University faces backlash for passing off Chinese robodog, Korean drone as in-house innovations",
+            "bullets": [
+              "#WATCH | Delhi | Galgotias University staff and officials vacate their stall at India AI Impact Summit expo, following row over display of Chinese-made",
+              "— ANI (@ANI) February 18, 2026 As per sources, the govt had asked Galgotias University to vacate the stall at the expo.",
+              "pic.twitter.com/cqN5vBcgcN viral topic Meanwhile, Congress leader Rahul Gandhi slammed the government on the social media, saying: “Instead of leveraging India’s talent and data, the"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }

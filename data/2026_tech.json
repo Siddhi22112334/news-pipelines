@@ -167705,5 +167705,127 @@
         }
       ]
     }
+  },
+  "2026-02-19": {
+    "runs": {
+      "00:25": [
+        {
+          "item": {
+            "title": "Google debuts $499 Pixel 10a",
+            "link": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f1de655e9d09ac3e13a32392ad9a5148b0ca21ed"
+          },
+          "review": {
+            "headline_rewrite": "Google debuts $499 Pixel 10a",
+            "bullets": [
+              "The $499 Pixel 10a launches with new AI software capabilities and minor hardware updates.",
+              "The smartphone is available for preorder now with shipments starting March 5.",
+              "The Pixel 10a comes with the same Tensor G4 chip that powered last year’s Pixel 9a.",
+              "It features a 48MP main camera, which Google says is the best camera on a phone under $500, along with a 13MP ultrawide camera.",
+              "After first debuting on the Pixel 10 series last summer, Google is bringing a set of AI-powered camera features to the A-series phone.",
+              "As with recent Pixel phones, the Pixel 10a will come with seven years of software and security updates."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon halts Blue Jay robotics project after less than six months",
+            "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "7e67eb4c159788621bfef28759f31f6aea5d48c7"
+          },
+          "review": {
+            "headline_rewrite": "Amazon halts Blue Jay robotics project after less than six months",
+            "bullets": [
+              "At the time, the company was testing the robots at a facility in South Carolina and said it took Amazon significantly less time to develop Blue Jay — only about a year— than it did to develop its other warehouse robots, a speed the company credited to advancements in AI.",
+              "Amazon spokesperson Terrance Clark told TechCrunch that Blue Jay was launched as a prototype — although that was not made clear in the company’s original press release.",
+              "“We’re always experimenting with new ways to improve the customer experience and make work safer, more efficient, and more engaging for our employees,” Clark told TechCrunch over email.",
+              "The Vulcan can allegedly “feel” the objects that it touches and was trained on data gathered from real-world interactions.",
+              "TechCrunch Founder Summit: Tickets Live\nAmazon has been developing its internal robotics program since 2012 when it purchased Kiva Systems, a robotics company whose warehouse automation technology formed the foundation of Amazon’s fulfillment operations."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft is bringing a built-in network speed test to Windows 11",
+            "link": "https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview",
+            "site_name": "The Verge",
+            "novelty_hash": "ef93e2afb0200bb1112fc87e8e90ee598849d7bb"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft is bringing a built-in network speed test to Windows 11",
+            "bullets": [
+              "Microsoft is working on a bunch of new features for Windows 11, including a new network speed test that you can access from your taskbar.",
+              "The tool is bundled in an update rolling out to Windows 11 Insiders in the Release Preview Channel, allowing you to right-click the network icon in the system tray to access a speed test option that opens in your default browser.",
+              "Microsoft is bringing a built-in network speed test to Windows 11\nA new speed test tool is coming to your taskbar.",
+              "From there, you can check how fast your connection is over Ethernet, Wi-Fi, or cellular data.",
+              "Microsoft first started testing this feature last year, and it could offer a convenient alternative to checking your connection speed by navigating to third-party websites."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ken Watanabe didn’t think a kabuki movie would work",
+            "link": "https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho",
+            "site_name": "The Verge",
+            "novelty_hash": "61f52316eab17671756d949d40738ee7506eb32b"
+          },
+          "review": {
+            "headline_rewrite": "Ken Watanabe didn’t think a kabuki movie would work",
+            "bullets": [
+              "It’s a beautiful and at times devastating portrait of the lengths artists go to in search of greatness.",
+              "Due to the highly specific and physically difficult movements required of an onnagata, Kokuho’s two leads spent around 18 months training to get things right.",
+              "Watanabe’s character spends a comparatively small amount of time performing in the film, but even still, he says he trained for around four months to learn the moves and choreography.",
+              "So I never really felt like it was painful or extremely difficult.",
+              "However, I do complain on occasion.",
+              "In the ’60s, he trains the budding kabuki stars (played by child actors Sōya Kurokawa and Keitatsu Koshiyama), who develop a budding rivalry, in part over his approval."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "FDA reverses surprise rejection of Moderna's mRNA flu vaccine",
+            "link": "https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c1bf8458a7e87e1443e0b0513b77313bee780112"
+          },
+          "review": {
+            "headline_rewrite": "FDA reverses surprise rejection of Moderna's mRNA flu vaccine",
+            "bullets": [
+              "In an announcement Wednesday morning, Moderna said the FDA has now agreed to review its vaccine after the company held a formal (Type A) meeting with the FDA and proposed a change to the regulatory pathways used in the application.",
+              "“We appreciate the FDA’s engagement in a constructive Type A meeting and its agreement to advance our application for review,” Stéphane Bancel, Moderna’s CEO, said in the announcement.",
+              "“Pending FDA approval, we look forward to making our flu vaccine available later this year so that America’s seniors have access to a new option to protect themselves against flu.” The agency is expected to provide a decision on the vaccine by August 5, 2026.",
+              "In a letter to Moderna dated February 3, Prasad said this choice “does not reflect the best-available standard of care,” and therefore the trial was not “adequate and well-controlled.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft",
+            "link": "https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/",
+            "site_name": "WIRED",
+            "novelty_hash": "0414463a05ba32c947cff6bdb932f47e07f1cb62"
+          },
+          "review": {
+            "headline_rewrite": "A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft",
+            "bullets": [
+              "After years spent finding and investigating data breaches, Greg Pollock admits that when he comes across yet another exposed database full of passwords and Social Security numbers, “I come to it with some fatigue.” But Pollock, director of research at the cybersecurity company UpGuard, says he and his colleagues found an exposed, publicly accessible database online in January that appeared to contain a trove of Americans’ sensitive personal data so massive that his weariness lifted and they sprang to action to validate the finding.",
+              "The UpGuard researchers point out that not all of the records represent unique, valid information, but the raw totals they found in the January exposure included roughly 3 billion email addresses and passwords as well as about 2.7 billion records that included Social Security numbers.",
+              "It was unclear who had set up the database, but it seemed to contain personal details that may have been cobbled together from multiple historic data breaches—including, perhaps, the trove from the 2024 breach of the background-checking service National Public Data.",
+              "It is common for data brokers and cybercriminals to combine and recombine old datasets, but the scale and the potential quantity of Social Security numbers—even if only a fraction of them were real—was striking.",
+              "In some cases, the identities in this data breach are at risk because they have been exposed, but they have not yet been exploited.”\nThe data was hosted by the German cloud provider Hetzner.",
+              "The company, in turn, said it notified its customer, which removed the data on January 21."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
