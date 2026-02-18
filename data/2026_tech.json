@@ -167106,6 +167106,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:32": [
+        {
+          "item": {
+            "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
+            "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c5d6b2d8a5f107b90acc5964d12c7b4e99bb962b"
+          },
+          "review": {
+            "headline_rewrite": "Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
+            "bullets": [
+              "Indian AI lab Sarvam on Tuesday unveiled a new generation of large language models, as it bets that smaller, efficient open-source AI models will be able to grab some market share away from more expensive systems offered by its much larger U.S.",
+              "The launch, announced at the India AI Impact Summit in New Delhi, aligns with New Delhi’s push to reduce reliance on foreign AI platforms and tailor models to local languages and use cases.",
+              "Sarvam said the new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+              "The 30-billion- and 105-billion-parameter models use a mixture-of-experts architecture, which activates only a fraction of their total parameters at a time, significantly reducing computing costs, Sarvam said.",
+              "The 30B model supports a 32,000-token context window aimed at real-time conversational use, while the larger model offers a 128,000-token window for more complex, multi-step reasoning tasks.",
+              "Sarvam said the new AI models were trained from scratch rather than fine-tuned on existing open-source systems."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
+            "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b4d053485b9d62a4962a630413a14a3a9b768ada"
+          },
+          "review": {
+            "headline_rewrite": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
+            "bullets": [
+              "Indian AI company Sarvam plans to bring its newly released AI models to users by deploying them on Nokia feature phones, cars and its own smart glasses.",
+              "The company, backed by the likes of Lightspeed, PeakXV, and Khosla Ventures, said at the ongoing India AI Impact Summit in New Delhi that it is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
+              "The company is teaming up with HMD to bring a conversational AI assistant to Nokia and HMD phones.",
+              "A video demo showed a user clicking a dedicated AI button on a feature phone to converse with an AI assistant in a local language to get guidance on government schemes or local markets.",
+              "It is not clear if all the AI features showcased at the event will work offline.",
+              "“Through edge AI, we want to bring intelligence to every phone, laptop, car, and even a new generation of devices,” Tushar Goswamy, head of Edge AI at Sarvam, said during a presentation."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Mark Zuckerberg is taking the stand as social media goes on trial",
+            "link": "https://www.theverge.com/policy/880375/meta-ceo-mark-zuckerberg-testimony-los-angeles-social-media-addiction-trial",
+            "site_name": "The Verge",
+            "novelty_hash": "8bc6e3fefc5f83cd75621a9e180f903943617b07"
+          },
+          "review": {
+            "headline_rewrite": "Mark Zuckerberg is taking the stand as social media goes on trial",
+            "bullets": [
+              "Mark Zuckerberg is taking the stand as social media goes on trial\n“I want him to see my face,” one parent said.",
+              "“I was so worried about what my child was putting out online, I didn’t realize what she was receiving,” Schott said.",
+              "The way that Meta and Google-owned YouTube designed their products — allegedly luring users into a nonstop loop of taps and scrolling — is at the heart of this month’s bellwether social media trial, which sets the stage for thousands of similar lawsuits.",
+              "The companies have generally denied the claims.",
+              "Mosseri explained why Meta had modified a prior ban on image filters that altered users’ appearance, after previously discussing their potential negative mental health effects.",
+              "While the plaintiff has argued Meta is motivated by profits and engagement at the expense of users’ safety, Mosseri said that the two are aligned."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
+            "site_name": "The Verge",
+            "novelty_hash": "786a19dbe5e630cbf9ca2479a9b79136abddf1b3"
+          },
+          "review": {
+            "headline_rewrite": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
+            "bullets": [
+              "AI search startup Perplexity is distancing itself from ads amid fears users won’t trust chatbots with an agenda to upsell.",
+              "The move highlights an emerging crossroads for the AI industry as the sector’s biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like Anthropic promising to keep them out.",
+              "Perplexity joins anti-ad camp as AI companies battle over trust and revenue\nExecutives said ads could have users ‘doubting everything.’\nPerplexity began phasing out ads late last year and isn’t exploring any new ad deals at the moment, executives said on Monday at a roundtable event, according to Business Insider and the Financial Times.",
+              "It is a noteworthy U-turn for the US startup, which became one of the first generative AI companies to test ads on its platform in 2024.",
+              "which is why we don’t see it as a fruitful thing to focus on right now,” said an unnamed executive cited by the FT.",
+              "Another executive did not rule out a return to advertising in the future, but said serving ads was “misaligned with what the users want” and may not be needed for the company to thrive."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Federal court rules that OpenAI must stop using the term 'Cameo'",
+            "link": "https://www.engadget.com/ai/federal-court-rules-that-openai-must-stop-using-the-term-cameo-124559072.html",
+            "site_name": "Engadget",
+            "novelty_hash": "12abd347b60e3d193ccfaaec4cac9e0db88fac9c"
+          },
+          "review": {
+            "headline_rewrite": "Federal court rules that OpenAI must stop using the term 'Cameo'",
+            "bullets": [
+              "Cameo, the platform where celebrities sell short, personalized videos, has scored a preliminary win in a trademark lawsuit against OpenAI.",
+              "A California judge has ruled that the AI company's video generation tool Sora cannot use the term 'cameo' or any variation likely to cause confusion.",
+              "A temporary restraining order in the case was originally granted in November of last year.",
+              "The suit was first brought in response to a feature available within the Sora app at launch called 'Cameo' that allowed users to add any likeness to videos they generated.",
+              "Cameo claimed the use of the term in this setting was likely to cause confusion and could dilute their brand.",
+              "OpenAI then carried on with the feature despite the suit."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Why Olympic Choreographer Benoît Richaud Went Viral Just for Changing Jackets",
+            "link": "https://www.wired.com/story/why-olympic-choreographer-benoit-richaud-went-viral-just-for-changing-jackets/",
+            "site_name": "WIRED",
+            "novelty_hash": "fc1f66a5b40737d0f368366bbc0a396ad24995ab"
+          },
+          "review": {
+            "headline_rewrite": "Why Olympic Choreographer Benoît Richaud Went Viral Just for Changing Jackets",
+            "bullets": [
+              "He always had on the jacket of the team he was sitting with in the “kiss and cry,” but his stoic, thoughtful expression remained the same.",
+              "One is simply remembering the choreography and details of every skater’s program.",
+              "The other is riding the emotional roller coaster of watching so many performances and then waiting for the athletes’ scores."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
