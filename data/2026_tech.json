@@ -167582,6 +167582,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:24": [
+        {
+          "item": {
+            "title": "A milestone achievement in our journey to carbon negative",
+            "link": "https://blogs.microsoft.com/blog/2026/02/18/a-milestone-achievement-in-our-journey-to-carbon-negative/",
+            "site_name": "The Official Microsoft Blog",
+            "novelty_hash": "2e08977e462c8280d4b99f2ff195581f5d010b65"
+          },
+          "review": {
+            "headline_rewrite": "A milestone achievement in our journey to carbon negative",
+            "bullets": [
+              "In 2020, Microsoft announced a moonshot commitment to become carbon negative by 2030 — accelerating work across our company to advance the partnerships and technologies needed to advance sustainability for our businesses, our customers and the world.",
+              "A key milestone on this journey was our aim to match 100% of our annual global electricity consumption with renewable energy(1) by 2025.",
+              "This first deal not only supported Microsoft’s early cloud services but also set in motion a decade of commercial partnerships and learning-by-doing that served to demonstrate how corporate demand for advanced energy solutions can help to achieve a more affordable and sustainable power system, while supporting reliability for customers.",
+              "Of that contracted volume, 19 GW are now online, delivering new clean energy supply to the power grid, while the remainder are slated to come online over the next five years.",
+              "Catalyzing market investment through bankable, repeatable models\nThis global flywheel of partnership, investment, technology and policy innovation is expected to continue to facilitate billions of dollars’ worth of investment into infrastructure and jobs.",
+              "Combining scale with speed, Microsoft’s landmark 10.5 GW framework agreement with Brookfield sends a long-term, 2030 demand signal to the market that enables developers to raise funding more efficiently, bolster supply chains, hire engineers and construct world-class energy infrastructure."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A new way to express yourself: Gemini can now create music",
+            "link": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+            "site_name": "Google",
+            "novelty_hash": "90702a7bd232e7899da4e9e5034d5a4cfcc632eb"
+          },
+          "review": {
+            "headline_rewrite": "A new way to express yourself: Gemini can now create music",
+            "bullets": [
+              "A new way to express yourself: Gemini can now create music\nSince launching the Gemini app, we've built tools to encourage creative expression through images and video.",
+              "Create a track for my mother about the great times we had as kids and the memories of her home cooked plantains.",
+              "Available in the U.S.",
+              "New audio verification capabilities\nAll tracks generated in the Gemini app are embedded with SynthID, our imperceptible watermark for identifying Google AI-generated content.",
+              "We are also giving you more tools to help identify AI content, broadening our verification capabilities in the Gemini app to include audio, along with image and video.",
+              "Simply upload a file and ask if it was generated using Google AI, and Gemini will check for SynthID and use its own reasoning to return a response."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google debuts $499 Pixel 10a",
+            "link": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f1de655e9d09ac3e13a32392ad9a5148b0ca21ed"
+          },
+          "review": {
+            "headline_rewrite": "Google debuts $499 Pixel 10a",
+            "bullets": [
+              "The $499 Pixel 10a launches with new AI software capabilities and minor hardware updates.",
+              "The smartphone is available for preorder now with shipments starting March 5.",
+              "The Pixel 10a comes with the same Tensor G4 chip that powered last year’s Pixel 9a.",
+              "It features a 48MP main camera, which Google says is the best camera on a phone under $500, along with a 13MP ultrawide camera.",
+              "After first debuting on the Pixel 10 series last summer, Google is bringing a set of AI-powered camera features to the A-series phone.",
+              "As with recent Pixel phones, the Pixel 10a will come with seven years of software and security updates."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google adds music-generation capabilities to the Gemini app",
+            "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a1774e8dfe2669406c8c41df99f428816e430558"
+          },
+          "review": {
+            "headline_rewrite": "Google adds music-generation capabilities to the Gemini app",
+            "bullets": [
+              "Google said that you can even upload a photo or a video, and the AI-powered tool will create a song to match the mood of the media file.",
+              "The company said that Lyria 3 improves on the previous generation of models, creating more realistic and complex music tracks.",
+              "Along with rolling out Lyria 3 to the Gemini app, Google is making the model available to YouTube creators through the Dream Track feature on YouTube, a tool that helps creators make AI-generated tracks.",
+              "The option was only available to YouTube creators in the U.S.",
+              "But with this release, Google is expanding Dream Track availability globally.",
+              "Google said that you can’t mimic an artist outright, but if you add an artist’s name to your prompt, Gemini will create a track in a similar style or a mood."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s AI music maker is coming to the Gemini app",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta",
+            "site_name": "The Verge",
+            "novelty_hash": "8d6b050929721892c235b8ee021e212a18c45513"
+          },
+          "review": {
+            "headline_rewrite": "Google’s AI music maker is coming to the Gemini app",
+            "bullets": [
+              "Google has given Gemini the ability to spit out AI-generated music, courtesy of DeepMind’s latest audio model.",
+              "Google’s AI music maker is coming to the Gemini app\nThe Lyria 3 AI model can generate 30-second tracks based on images, videos, and text descriptions.",
+              "The new music-making tool is available globally starting today in English, German, Spanish, French, Hindi, Japanese, Korean, and Portuguese, with plans to expand in the future.",
+              "“The goal of these tracks isn’t to create a musical masterpiece, but rather to give you a fun, unique way to express yourself,” Google said in its announcement blog.",
+              "Gemini will add custom cover art generated by Nano Banana to songs created on the app, which aims to make them easier to share and download.",
+              "Google is also bringing Lyria 3 to YouTube’s Dream Track tool, which allows creators to make custom AI soundtracks for Shorts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Record scratch—Google's Lyria 3 AI music model is coming to Gemini today",
+            "link": "https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "5fbfc62f0e97907e03124b405b63d4383fda9929"
+          },
+          "review": {
+            "headline_rewrite": "Record scratch—Google's Lyria 3 AI music model is coming to Gemini today",
+            "bullets": [
+              "Google has announced its latest Lyria 3 AI model is being deployed in the Gemini app, vastly expanding access to AI music generation.",
+              "Google DeepMind has been tinkering with Lyria for a while now, offering limited access in developer-oriented products like Vertex AI.",
+              "In case there was any uncertainty about whether Lyria tracks still counted as a human artistic endeavor, worry not!",
+              "Gemini will also have a pre-loaded set of AI tracks that you can choose to remix to your heart’s content.",
+              "The Lyria 3 tools are also coming to Google’s Dream Track toolkit for YouTube Shorts, which will pair nicely with the Veo AI video options."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
