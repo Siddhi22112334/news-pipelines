@@ -166990,6 +166990,122 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "17:10": [
+        {
+          "item": {
+            "title": "We’re launching the Google.org Impact Challenge: AI for Science.",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-open-call/",
+            "site_name": "Google",
+            "novelty_hash": "5864500e5552c6b422624264774d030eaaa4a58c"
+          },
+          "review": {
+            "headline_rewrite": "We’re launching the Google.org Impact Challenge: AI for Science.",
+            "bullets": [
+              "AI isn’t just helping people solve problems faster, it’s unlocking new possibilities for discovery and scalability.",
+              "To support organizations at the forefront of scientific discovery and build on our inaugural AI for Science fund, we are launching a new $30 million global open-call, the Google.org Impact Challenge: AI for Science.",
+              "This new initiative provides catalytic funding and technical expertise to help researchers, nonprofits and social enterprises unlock Nobel-level breakthroughs.",
+              "In addition to funding, selected organizations will have the opportunity to participate in a Google.org Accelerator, receiving engineering support, technical mentorship and Google infrastructure to scale their solutions."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re announcing the new Google.org Impact Challenge: AI for Government Innovation.",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/global-impact-challenge-ai-government-2026/",
+            "site_name": "Google",
+            "novelty_hash": "56e4fe42eb17b05b4d730bb7f413f9453da6f9d4"
+          },
+          "review": {
+            "headline_rewrite": "We’re announcing the new Google.org Impact Challenge: AI for Government Innovation.",
+            "bullets": [
+              "Government AI adoption isn't just a technical upgrade, it's a way to solve real world challenges and drive societal impact for communities.",
+              "Yet new data reveals that while 80% of public servants say AI is empowering them, only 18% believe their governments are currently using AI effectively.",
+              "To help close the gap between promise and practice, we’re launching a $30 million Google.org Impact Challenge: AI for Government Innovation.",
+              "This is a global call for nonprofits, social enterprises and academic institutions to submit bold proposals for AI-powered solutions across topics like health, resilience and economy.",
+              "Selected organizations will receive funding and participate in a Google.org Accelerator, receiving engineering support, technical mentorship and Google infrastructure to scale their solutions."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
+            "site_name": "The Verge",
+            "novelty_hash": "786a19dbe5e630cbf9ca2479a9b79136abddf1b3"
+          },
+          "review": {
+            "headline_rewrite": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
+            "bullets": [
+              "AI search startup Perplexity is distancing itself from ads amid fears users won’t trust chatbots with an agenda to upsell.",
+              "The move highlights an emerging crossroads for the AI industry as the sector’s biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like Anthropic promising to keep them out.",
+              "Perplexity joins anti-ad camp as AI companies battle over trust and revenue\nExecutives said ads could have users ‘doubting everything.’\nPerplexity began phasing out ads late last year and isn’t exploring any new ad deals at the moment, executives said on Monday at a roundtable event, according to Business Insider and the Financial Times.",
+              "It is a noteworthy U-turn for the US startup, which became one of the first generative AI companies to test ads on its platform in 2024.",
+              "which is why we don’t see it as a fruitful thing to focus on right now,” said an unnamed executive cited by the FT.",
+              "Another executive did not rule out a return to advertising in the future, but said serving ads was “misaligned with what the users want” and may not be needed for the company to thrive."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla won’t use the term ‘Autopilot’ in California anymore",
+            "link": "https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update",
+            "site_name": "The Verge",
+            "novelty_hash": "4eef51c735d991cec8f33a43cda087bdaba9db0f"
+          },
+          "review": {
+            "headline_rewrite": "Tesla won’t use the term ‘Autopilot’ in California anymore",
+            "bullets": [
+              "The DMV’s complaint is connected to written marketing materials for Advanced Driver Assistance Systems (ADAS) features that Tesla started publishing in May 2021, which later led to the EV maker appending “(Supervised)” to its use of “Full Self-Driving Capability.” In December, the agency gave Tesla a 60-day window to also stop using the term Autopilot or face a 30-day manufacturing license and dealer license suspension — temporarily blocking Tesla from selling vehicles to its largest US market.",
+              "“The DMV is committed to safety throughout all California’s roadways and communities,” said DMV Director Steve Gordon.",
+              "“The department is pleased that Tesla took the required action to remain in compliance with the State of California’s consumer protections.”"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans",
+            "link": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
+            "site_name": "WIRED",
+            "novelty_hash": "0a54257861f6f5b2ec2bf83ff8145614630a1c82"
+          },
+          "review": {
+            "headline_rewrite": "How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans",
+            "bullets": [
+              "Now, 518,284 humans—and rapidly counting—are offering their labor to AI agents on a new online marketplace called RentAHuman.",
+              "The provocatively-titled platform enables users to connect AI agents like Clawdbot or Claude to its Model Context Protocol server so they can search, book, and pay for humans to carry out tasks in “meatspace.” Think of it like Fiverr, but doing away with the human recruiter and letting autonomous bots do the hiring instead.",
+              "Following the release of OpenClaw in November, Alexander Liteplo, a 26-year-old crypto engineer at UMA Protocol currently working in Argentina, identified a pain point.",
+              "The humanoid robot army is expected to reach 13 million strong by 2035, but right now, physical AI is relatively scarce.",
+              "Most AI bots are brains in a jar—they cannot move through space in a meaningful way.",
+              "The inception of RentAHuman stems from Liteplo's obsession with AI, forged while studying computer science at the University of British Columbia."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The best wireless workout headphones for 2026",
+            "link": "https://www.engadget.com/audio/headphones/best-wireless-workout-headphones-191517835.html",
+            "site_name": "Engadget",
+            "novelty_hash": "822c17f6df290f7642a00206c9b95c4815605b9f"
+          },
+          "review": {
+            "headline_rewrite": "The best wireless workout headphones for 2026",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "The best wireless headphones make it easier to focus on your workout, but not every pair is built to handle sweat, motion and long sessions.",
+              "Some are tuned for awareness during outdoor runs, while others aim to block distractions during intense training.",
+              "Below, you’ll find our top picks, along with guidance to help you choose the right pair for how you train.",
+              "Both of those adjustments make for a more comfortable, more portable pair of buds.",
+              "You'll get that signature, bass-heavy sound you expect from a pair of Beats earbuds, and ANC that's strong enough to block out most ambient noise."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
