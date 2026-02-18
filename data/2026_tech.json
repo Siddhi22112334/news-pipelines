@@ -168053,6 +168053,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+            "link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9559a785e09a1d08c0e3af62044db9fff1a8b475"
+          },
+          "review": {
+            "headline_rewrite": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+            "bullets": [
+              "The move makes Germ DM the first private messenger that can be launched natively within the Bluesky app.",
+              "Alongside the launch, Germ is also releasing new guidance that would allow other apps built on the underlying AT Protocol that powers Bluesky to do the same thing.",
+              "Meanwhile, Germ’s standalone app is also available in a public beta on iOS in North America and Europe.",
+              "That app had seen thousands of downloads so far, but after the official integration announcement, daily active users jumped by 5x, the team said.",
+              "The idea, the company previously explained to TechCrunch, was to offer an alternative to other E2E encrypted platforms like iMessage, Signal, and WhatsApp that’s built on newer technologies.",
+              "Today, Germ takes advantage of Messaging Layer Security (MLS), a new standard approved by the Internet Engineering Task Force (IETF), and the AT Protocol (or ATProto), which powers Bluesky, Skylight, and a growing number of other social apps."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+            "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6f277a2d614e5740ee463313e24672fa059b9675"
+          },
+          "review": {
+            "headline_rewrite": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+            "bullets": [
+              "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early.",
+              "Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond free credits and into real cloud bills.",
+              "On this episode of TechCrunch’s Equity podcast, Rebecca Bellan caught up with Darren Mowry, Google Cloud’s vice president of global startups who is right at the center of those tradeoffs.",
+              "Watch as they discuss what Mowry’s seeing across the startup ecosystem, how Google Cloud is competing for AI startups, and what founders should be thinking about as they scale."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
+            "link": "https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok",
+            "site_name": "The Verge",
+            "novelty_hash": "894569772c6fe218c0d80bcacb989cf96244ce14"
+          },
+          "review": {
+            "headline_rewrite": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
+            "bullets": [
+              "Unlike many earlier legal challenges against social media companies, these cases managed to overcome the companies’ attempts to get them dismissed based on objections citing Section 230, a law that protects online platforms from being held liable for their users’ speech.",
+              "They accuse companies like Meta, Snap, TikTok, and Google-owned YouTube of designing their platforms in ways that, the plaintiffs claim, they knew could contribute to addiction, depression, and anxiety.",
+              "The Meta CEO walked through the public entrance of the LA Superior Court and past parent advocates and media waiting to learn if they’d get a seat to hear his testimony.",
+              "“I was so worried about what my child was putting out online, I didn’t realize what she was receiving,” Schott said.",
+              "Read Article >- The social media addiction trial is delayed — again.",
+              "The documents were released last week as part of a major set of trials brought by school districts, state attorneys general, and others against Meta, Snap, TikTok and YouTube, alleging the design of their products harmed young users."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Here are the best AirPods deals you can get right now",
+            "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+            "site_name": "The Verge",
+            "novelty_hash": "ed107f947c0c77220080bc8c826bf509f4dd8cd7"
+          },
+          "review": {
+            "headline_rewrite": "Here are the best AirPods deals you can get right now",
+            "bullets": [
+              "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup.",
+              "Both the AirPods Max and AirPods 4 (with and without ANC) now consistently receive discounts, as do the newer AirPods Pro 3.",
+              "Here are the best AirPods deals you can get right now\nThere are deals available on every model, from the entry-level AirPods 4 to the Pro 3.",
+              "Below, we’ve rounded up the best deals currently available on each set of AirPods, including both iterations of the AirPods 4, the third-gen AirPods Pro, and the AirPods Max.",
+              "The best AirPods 4 deals\nAt the end of 2024, Apple introduced the AirPods 4, a pair of wireless earbuds available in two variations: a $129 standard model and a $179 noise-canceling model.",
+              "Both versions represent significant upgrades over the third-gen AirPods, with a more comfortable design and improved audio performance."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
+            "link": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1b500a434a94f2574d92b009c4641e0fa17d8e54"
+          },
+          "review": {
+            "headline_rewrite": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
+            "bullets": [
+              "Following our report last week that Verizon is forcing people to wait 35 days for phone unlocks after paying off device installment plans, Verizon is apparently trying to eliminate the inconvenient delay.",
+              "As a refresher, the latest version of Verizon’s device unlocking policy for postpaid customers imposes a 35-day waiting period when a customer pays off the remaining balance of a device installment plan online, in the Verizon app, or with a Verizon gift card.",
+              "There’s also a 35-day waiting period after paying off an installment plan over the phone or at a Verizon Authorized Retailer.",
+              "Saying restrictions are needed to counter fraud, Verizon will only unlock a phone immediately when someone pays off their device-plan balance at a Verizon corporate store or when someone pays off an installment plan on schedule via automatic payments.",
+              "If you’re partway into one of Verizon’s 36-month device installment plans and pay off the remaining balance early, but without making a trip to a Verizon corporate store, you’d have to wait 35 days for an unlock that would allow you to switch the phone to a different carrier’s network.",
+              "Verizon reportedly said it is trying to change that “really soon,” but provided no specific or even estimated rollout date."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options",
+            "link": "https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a1413f349d28ba1d41e42f2d4af482291ce78fd2"
+          },
+          "review": {
+            "headline_rewrite": "Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options",
+            "bullets": [
+              "There’s a new Nissan Leaf that starts at a hair under $30,000 (as long as you ignore the destination charge).",
+              "We’ll soon drive the reborn Chevrolet Bolt—with a new lithium iron phosphate battery, it also has a price tag starting with a two (again, ignoring the destination charge).",
+              "And the closer you get to $40,000, the more your options expand: the Hyundai Ioniq 5, Chevy Equinox EV, Toyota bZ, Tesla Model 3, Ford Mustang Mach-E, and Subaru Solterra all fall within that price bracket, and some of those are pretty good cars.",
+              "A few weeks ago, we looked at what passes for the used EV bargain basement—ones that cost $5,000 or less."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
