@@ -166154,6 +166154,125 @@
             "impact": "Positive"
           }
         }
+      ],
+      "07:31": [
+        {
+          "item": {
+            "title": "India Fuels Its AI Mission With NVIDIA",
+            "link": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "9bd5afd5c6a487fe483decaa3e12ae38290bb44b"
+          },
+          "review": {
+            "headline_rewrite": "India Fuels Its AI Mission With NVIDIA",
+            "bullets": [
+              "India is the nexus of AI innovation this week as the host of the AI Impact Summit, which brings together global heads of state and industry to chart the future of AI.",
+              "At the summit, taking place in New Delhi, industry leaders, government agencies, educational institutions and startups are sharing how they’re working with NVIDIA to drive the AI industrial revolution in the world’s most populous country.",
+              "These initiatives support the IndiaAI Mission, a government effort that’s infusing India’s AI ecosystem with over $1 billion to bolster the nation’s compute capacity and foster the development of sovereign AI datasets, frontier models and applications.",
+              "The mission also supports AI education, startup innovation and frameworks for trustworthy AI.",
+              "Read how NVIDIA is supporting IndiaAI Mission priorities including:\nNVIDIA Cloud Partners Boost India AI Infrastructure\nTo achieve its AI ambitions, India is investing heavily in its computing infrastructure.",
+              "Under the IndiaAI Compute Pillar, the nation is building out its AI cloud offerings with systems including tens of thousands of NVIDIA GPUs."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+            "link": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "f0335cae7ee3059cbc6fbebb6fbf47cc4b671ad2"
+          },
+          "review": {
+            "headline_rewrite": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+            "bullets": [
+              "Agentic AI is reshaping India’s tech industry, delivering leaps in services worldwide.",
+              "Tapping into NVIDIA AI Enterprise software and NVIDIA Nemotron models, India’s technology leaders are accelerating productivity and efficiency across industries — from call centers to telecommunications and healthcare.",
+              "Infosys, Persistent, Tech Mahindra and Wipro are leading the way for business transformation, improving back-office productivity and customer services with integrated agentic AI platforms built with NVIDIA AI Enterprise.",
+              "At this year’s India AI Impact Summit, the state of the art for next-generation business services driven by agentic and generative AI was on full display.",
+              "India’s tech industry is on track to reach $500 billion in revenue by 2030, up from about $250 billion in 2023, according to IBEF, citing momentum in AI from 38,000 GPUs secured in September.",
+              "Wipro WEGA Platform Boosting Efficiency for Call Centers With NVIDIA AI Enterprise\nFor health insurance plans in government‑regulated markets, customer experience is important — especially during peak enrollment cycles, when deadlines loom and subscribers need 24/7 support to assess options and optimize enrollment decisions for their families."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+            "site_name": "The Verge",
+            "novelty_hash": "388b70e9083690962c639204e7c0c71e1a382b65"
+          },
+          "review": {
+            "headline_rewrite": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+            "bullets": [
+              "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia’s Grace and Vera CPUs and Blackwell and Rubin GPUs.",
+              "While Meta has long been using Nvidia’s hardware for its AI products, this deal “represents the first large-scale Nvidia Grace-only deployment,” which Nvidia says will deliver “significant performance-per-watt improvements in [Meta’s] data centers.” The deal also includes plans to add Nvidia’s next-generation Vera CPUs to Meta’s data centers in 2027.",
+              "Meta’s new deal with Nvidia buys up millions of AI chips\nNvidia’s starting to sell AI CPUs for use by themselves for the first time.",
+              "Meta is also working on its own in-house chips for running AI models, but according to the Financial Times, it has run into “technical challenges and rollout delays” with its chip strategy.",
+              "Nvidia is also dealing with concerns about depreciation and chip-back loans used to finance AI buildouts, as well as the pressure of competition.",
+              "CNBC notes that Nvidia’s stock dropped four percent after a November report about Meta considering using Google’s Tensor chips for AI, and late last year, AMD announced chip arrangements with both OpenAI and Oracle."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
+            "link": "https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0a68b499af2aeaad6d973a2925386b9ffd25399d"
+          },
+          "review": {
+            "headline_rewrite": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
+            "bullets": [
+              "The human rights organization published a new report Tuesday analyzing several hacking attempts against local journalist and press freedom activist Teixeira Cândido, in which he was sent a series of malicious links via WhatsApp during 2024.",
+              "The new research shows again that government customers of commercial surveillance vendors are increasingly using spyware to target journalists, politicians, and other ordinary citizens, including critics.",
+              "From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram and Keybase @lorenzofb, or email.Intellexa is one of the most controversial spyware makers of the last few years, operating from different jurisdictions to skirt export laws and using an “opaque web of corporate entities” — as a U.S government official put it at the time — to hide its activities.",
+              "Earlier this year, the Treasury lifted sanctions against three other executives tied to Intellexa, a decision that left Senate Democrats demanding answers from the Trump administration.",
+              "Amnesty said that Intellexa used infection servers that had been previously linked to the company’s spyware infrastructure.",
+              "Amnesty said it wasn’t clear how the spyware was capable of hacking Cândido’s phone, as his phone was running an outdated version of iOS at the time."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Way to Pay Your Taxes Online (2026)",
+            "link": "https://www.wired.com/story/how-to-pay-taxes-online/",
+            "site_name": "WIRED",
+            "novelty_hash": "8d2298fda0b1dc95deae45c6cb037b6ea535d53a"
+          },
+          "review": {
+            "headline_rewrite": "The Best Way to Pay Your Taxes Online (2026)",
+            "bullets": [
+              "What You’ll Need to Self-File\nFiling Your Taxes Online for Free With the IRS\nOne of the most straightforward ways to file your federal taxes is with the IRS Free Filing Tool.",
+              "This is a good option if your income falls within the qualification guidelines and your return is relatively straightforward, since this free service only has the most commonly filed forms.",
+              "You’ll need to have documents ready, like a copy of last year's tax return, your social security number, and any W-2s.",
+              "Once you’ve filed your federal tax return, you can check your online account for updates, and you’ll receive an email when the IRS has accepted your return.",
+              "As I said, this year I went with H&R Block DIY, which is self-guided and free.",
+              "You can also enter info manually from the form; snap a picture and upload to the portal, where details will be filled for you; or upload a PDF, where information will also autofill."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "3082f5b25d6194e931ab998aba9e2ee13abe97d5"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Lieb\nKevin Warsh on the Fed chevron_right\nIKEA announces plans for new stores across the United States chevron_right\nBerkshire Hathaway in New York Times chevron_rightBerkshire Hathaway adds NY Times, boosts Chevron, pares BofA, Apple stakes among Q4 trades (BRK.B:NYSE)\nSeeking Alpha\nBy Liz Kiesche\nTom Pritzker steps down from Hyatt Hotels over Jeffrey Epstein association chevron_right\nInvestor's Business Daily\nBy Scott Lehtonen & Kimberley Koenig\nWarner Bros and Paramount Skydance negotiations chevron_rightParamount Weighs In On WBD Talks: Will Engage In Good Faith But Move Ahead With Hostile Offer, Proxy Fight\nNetflix grants WBD waiver to reopen deal talks with Paramount, Sarandos says 'let them make a move'\nDeadline\nBy Jill Goldsmith\nCNBC\nBy Sara Salinas & Lillian Rizzo\nAmazon shuts down Blue Jay warehouse robot chevron_rightAmazon pulls the plug on 'Blue Jay' warehouse robot after only a few months\nBusiness Insider\nBy Eugene Kim\nAI stock news chevron_rightS&P 500 closes little changed Tuesday as declines in software shares weigh on index: Live updates\nBy Sean Conlon & Alex Harring\nFord developing $30,000 electric truck chevron_right\nPalantir's move from Denver to Miami chevron_rightPalantir Moves Headquarters to Miami From Denver\nPalantir — Colorado’s largest public company — is leaving Denver for Miami\nBloomberg.com\nBy Daniel Cancel, Alicia Clanton & Pierre Paulden\nThe Denver Post\nBy Aldo Svaldi\nBy Reinhardt Krause\nYahoo Finance\nBy Adam Eckert\nMeta to use millions of Nvidia AI chips in new deal chevron_rightNvidia secures multibillion-dollar Meta deal as it battles chip rivals\nFinancial Times\nBy Michael Acton & Hannah Murphy\nPalo Alto Q2 earnings chevron_right\nFed's Bowman on mortgage rules chevron_right\nFord CEO on China-US carmaking chevron_right\nsupercarblondie.com\nBy Callum Tokody\nPacifiCorp sale to PGE chevron_right\nCostco lawsuit over rotisserie chicken chevron_rightA pair of class-action lawsuits slams Costco’s iconic $4.99 rotisserie chicken\nCostco Hit with Class Action Over Alleged Salmonella Risks at Facility (Update)\nOregonLive.com\nBy Veronica Nocera\nMeatingplace\nBy Chris Moore\nOcular Therapeutix's AMD study chevron_rightOcular’s experimental eye drug beats low dose of Regeneron’s Eylea in late-stage trial\nstatnews.com\nBy Adam Feuerstein\nAxios\nBy Courtenay Brown & Neil Irwin\nInvestors' bearishness on the dollar chevron_right\nPublishers, AI firms seek content licensing deals chevron_right\nIndia expects over $200 billion in AI investments in two years chevron_rightIndia’s Adani Group to Invest $100 Billion in AI Infrastructure\nThe Wall Street Journal\nBy Tripti Lahiri & Kosaku Narioka\nAmazon van on Broomway in Essex chevron_right\nDepression relief from psychedelic drug chevron_rightPsychedelic found in Amazonian brew ayahuasca shows anti-depression promise\nA short-acting psychedelic intervention for major depressive disorder: a phase IIa randomized placebo-controlled trial\nBy Michael Peel\nNature\nBy Tiffanie Benway, David Erritzøe & Robin Carhart-Harris\nClaude Sonnet 4.6 review chevron_right\nBy Amelia Lucas\nCommunities across the US push back against AI data centers chevron_rightWhen A.I.",
+              "Comes to Town: The Backlash Over Data Centers\nData centers for AI use huge amounts of electricity, water, driving up costs and climate concerns\nThe New York Times\nBy Natalie Kitroeff, Karen Weise & Marc Georges\nCBS News\nBy Audrina Sinclair & Aida Mogos\nAI stock news chevron_rightTrillion-dollar AI market wipeout happened because investors banked that 'almost every tech company would come out a winner'\nTrillion-dollar AI market wipeout happened because investors banked that ‘almost every tech company would come out a winner’\nFortune\nBy Eleanor Pringle\nSmithfield Foods facility in Sioux Falls chevron_right\nAI in the job market chevron_rightSpeech by Governor Barr on artificial intelligence and the labor market\nFederal Reserve Board (.gov)\nBy Michael S.",
+              "Barr\nHapag-Lloyd's purchase of ZIM chevron_right\nUS fraud charges against Mobileum executives chevron_rightUS charges two ex-executives at private equity-owned group with fraud\nBy Kaye Wiggins & Antoine Gara\nAI and the Law course chevron_right\nAcademics find security flaws in password managers chevron_rightPassword managers’ promise that they can’t see your vaults isn’t always true\nArs Technica\nBy Dan Goodin\nCreator subscriptions on Snapchat chevron_right\nTesla Cybercab designed for autonomous ride-sharing network chevron_rightMusk Says This About Tesla's Cybercab, Optimus, Makes Claim About Epstein And Tesla Stock\nBy Kit Norton\nAI demand for memory chips chevron_rightPhison CEO reportedly warns many consumer electronics companies may close by end of 2026\nVideoCardz.com\nNvidia stock news chevron_right\nWalmart earnings preview chevron_rightWalmart's Q4 Earnings Coming Up: Is WMT Stock Still a Smart Buy?"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
