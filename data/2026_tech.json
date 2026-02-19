@@ -169997,6 +169997,120 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:45": [
+        {
+          "item": {
+            "title": "We’re sharing how we kept the Google Play and Android app ecosystems safe in 2025.",
+            "link": "https://blog.google/products-and-platforms/platforms/google-play/how-we-kept-google-play-safe-in-2025/",
+            "site_name": "Google",
+            "novelty_hash": "9565055721667156b3573c6aefb12c0a4e9a9be1"
+          },
+          "review": {
+            "headline_rewrite": "We’re sharing how we kept the Google Play and Android app ecosystems safe in 2025.",
+            "bullets": [
+              "In 2025, we deployed advanced AI-powered defenses to combat apps that cause real-world harm, such as malware, financial fraud and more.",
+              "We prevented over 1.75 million policy-violating apps from being published on Google Play and banned more than 80,000 bad developer accounts that attempted to publish harmful apps.",
+              "We also continued to improve our protections for the broader Android ecosystem by expanding Google Play Protect, which now scans over 350 billion Android apps daily.",
+              "We launched real-time security measures like in-call scam protections to help keep users safe from scams, fraud and other threats.",
+              "To learn more about how we're helping keep Android users safe on Google Play and beyond, read the Google Security blog."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New features in Chrome for work, life and everything in between",
+            "link": "https://blog.google/products-and-platforms/products/chrome/chrome-productivity-improvements/",
+            "site_name": "Google",
+            "novelty_hash": "d4c3a07a0924e22810c580ad21c69d785b2ff131"
+          },
+          "review": {
+            "headline_rewrite": "New features in Chrome for work, life and everything in between",
+            "bullets": [
+              "New features in Chrome for work, life and everything in between\nWe also know your time is valuable, which is why we obsess about all the tiny details to make your Chrome experience as helpful as possible.",
+              "Today, we're announcing three new Chrome features designed to give you a productivity boost: split view, PDF annotations and Save to Google Drive."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "West Virginia sues Apple for allegedly letting child abuse spread in iCloud",
+            "link": "https://www.theverge.com/tech/881433/apple-west-virginia-lawsuit-icloud-csam",
+            "site_name": "The Verge",
+            "novelty_hash": "0d0a5a6a09e7b7890888961f0ad5cf30bba28916"
+          },
+          "review": {
+            "headline_rewrite": "West Virginia sues Apple for allegedly letting child abuse spread in iCloud",
+            "bullets": [
+              "West Virginia has filed a lawsuit against Apple, accusing the company of allowing the distribution and storage of child sexual abuse material (CSAM) in iCloud.",
+              "In a lawsuit filed on Thursday, West Virginia Attorney General JB McCuskey claims that by abandoning a CSAM detection system in favor of end-to-end encryption, iCloud has become a “secure frictionless avenue for the possession, protection, and distribution [of] CSAM,” violating the state’s consumer protection laws.",
+              "West Virginia sues Apple for allegedly letting child abuse spread in iCloud\nThe lawsuit claims Apple has allowed iCloud to become a ‘secure avenue’ for storing and distributing CSAM.",
+              "Apple initially outlined plans to launch a system that checks iCloud photos against a known list of CSAM images in 2021.",
+              "The move was met with significant backlash from privacy advocates, with some claiming that the company is launching a surveillance system, leading Apple to stop the development of this feature nearly one year later.",
+              "At the time, Apple’s software head Craig Federighi told The Wall Street Journal that “child sexual abuse can be headed off before it occurs..."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Zuckerberg grilled in court over social media harms on teens",
+            "link": "https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d250560338c97029211658dd8c265286dd178c40"
+          },
+          "review": {
+            "headline_rewrite": "Zuckerberg grilled in court over social media harms on teens",
+            "bullets": [
+              "Meta CEO Mark Zuckerberg testified in court on Wednesday in a landmark trial aiming to determine if the tech giant’s social media applications are addictive and harmful to teens and kids.",
+              "Lawyers for the plaintiff, a 20-year-old who goes by her initials KGM, questioned Zuckerberg this week about whether Instagram employees were given goals to increase daily app usage.",
+              "The Meta CEO had said during an earlier Congressional hearing that this was not the case, the AP noted, but a 2015 email chain presented as evidence in the trial showed Zuckerberg pushing to increase users’ time spent in app by 12%.",
+              "Zuckerberg was also asked about Instagram’s use of beauty filters, which Meta’s own experts said should be banned when it comes to teens, as well as internal documents with Meta’s estimates of how many children under the age of 13 were on the platform.",
+              "(Apple recently rolled out its own age assurance tools for developers, as a result of the increasing push to regulate apps like Facebook and Instagram in the U.S., where many states have now created or are developing their own social media laws.)\nReports from the courtroom noted Zuckerberg largely stuck to the company’s talking points during his testimony, sometimes claiming the plaintiff’s lawyers were taking things out of context or mischaracterizing what documents said.",
+              "Plaintiff KGM (who also goes by her first name Kaley) sued four social media companies over what she alleges is the harmful and addictive nature of their platforms."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta is shutting down Messenger’s standalone website",
+            "link": "https://techcrunch.com/2026/02/19/meta-is-shutting-down-messengers-standalone-website/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bc474fb96c9c20d98036f097c85c7ba403f13f87"
+          },
+          "review": {
+            "headline_rewrite": "Meta is shutting down Messenger’s standalone website",
+            "bullets": [
+              "Starting April 2026, the website will no longer be available.",
+              "While Meta’s decision to shut down various Messenger platforms is frustrating for users, it allows the tech giant to reduce costs by leaving it with fewer platforms to maintain.",
+              "Messenger first launched as “Facebook Chat” back in 2008, and Facebook (now Meta) launched Facebook Messenger as a standalone app in 2011.",
+              "Over the years, the tech giant positioned Messenger as its own service outside of Facebook, and in 2014, the social network removed messaging capabilities from its main mobile app to push people to the Messenger app."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving",
+            "link": "https://arstechnica.com/google/2026/02/google-announces-gemini-3-1-pro-says-its-better-at-complex-problem-solving/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "30d2763fe57c04358419047dfb2db1dc615f1a3f"
+          },
+          "review": {
+            "headline_rewrite": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving",
+            "bullets": [
+              "Another day, another Google AI model.",
+              "Google has really been pumping out new AI tools lately, having just released Gemini 3 in November.",
+              "In the popular Humanity’s Last Exam, which tests advanced domain-specific knowledge, Gemini 3.1 Pro scored a record 44.4 percent.",
+              "Gemini 3 Pro managed 37.5 percent, while OpenAI’s GPT 5.2 got 34.5 percent.",
+              "Google also calls out the model’s improvement in ARC-AGI-2, which features novel logic problems that can’t be directly trained into an AI."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
