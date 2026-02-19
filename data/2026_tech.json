@@ -170351,6 +170351,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:04": [
+        {
+          "item": {
+            "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
+            "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ab86a97d90b1bb6b160e986d38b49711c374455e"
+          },
+          "review": {
+            "headline_rewrite": "YouTube’s latest experiment brings its conversational AI tool to TVs",
+            "bullets": [
+              "The race to advance conversational AI in the living room is heating up, with YouTube being the latest to expand its tool to smart TVs, gaming consoles, and streaming devices.",
+              "This experimental feature, previously limited to mobile devices and the web, now brings conversational AI directly to the largest screen in the home, allowing users to ask questions about content without leaving the video they’re watching.",
+              "According to YouTube’s support page, eligible users can click the “Ask” button on their TV screen to summon the AI assistant.",
+              "Currently, this feature is available to a select group of users over 18 and supports English, Hindi, Spanish, Portuguese, and Korean.",
+              "YouTube first launched this conversational AI tool in 2024 to help viewers explore content in greater depth.",
+              "Other companies are also making significant strides with their conversational AI technologies."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Toyota hires seven Agility humanoid robots for Canadian factory",
+            "link": "https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "52a74f6d5df1c29fa635ebab12c14afe1096100d"
+          },
+          "review": {
+            "headline_rewrite": "Toyota hires seven Agility humanoid robots for Canadian factory",
+            "bullets": [
+              "“After evaluating a number of robots, we are excited to deploy Digit to improve the team member experience and further increase operational efficiency in our manufacturing facilities,” Toyota Motor Manufacturing Canada President Tim Hollander said in a statement.",
+              "Digit is intended to work in industrial environments without humans nearby, often bridging two different automated production lines.",
+              "Demonstrating a capability in a lab is one thing, but integrating it into a company’s workflow — including maintenance and charging — isn’t easy.",
+              "“When the tech companies spend real time in the field understanding the task that needs to be operated, the real workflows that happens…that’s when we will see a huge uptick in adoption,” Ram Devarajulu, a VP at Cambridge Consultants, said at the Humanoids Summit in late 2025.",
+              "The company has a proprietary cloud-based software package called Arc for users to manage fleets of their robots, and says AI will be vital in reducing deployment costs.",
+              "“Cost of deployment … can be more than the price of the robot by a lot,” Pras Velagapudi, Agility’s CTO, said in an interview last year."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The AI security nightmare is here and it looks suspiciously like lobster",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+            "site_name": "The Verge",
+            "novelty_hash": "f7f2361eeb84d0b11f374400ad5841d056c1d4c2"
+          },
+          "review": {
+            "headline_rewrite": "The AI security nightmare is here and it looks suspiciously like lobster",
+            "bullets": [
+              "A hacker tricked a popular AI coding tool into installing OpenClaw — the viral, open-source AI agent OpenClaw that “actually does things” — absolutely everywhere.",
+              "The AI security nightmare is here and it looks suspiciously like lobster\nA hacker tricked Cline’s Claude-powered workflow into installing OpenClaw on computers.",
+              "The hacker took advantage of a vulnerability in Cline, an open-source AI coding agent popular among developers, that security researcher Adnan Khan had surfaced just days earlier as a proof of concept.",
+              "It’s a sign of how quickly things can unravel when AI agents are given control over our computers.",
+              "They may look like clever wordplay — one group wooed chatbots into committing crimes with poetry — but in a world of increasingly autonomous software, prompt injections are massive security risks that are very difficult to defend against.",
+              "Acknowledging this, some companies instead lock down what AI tools can do if they’re hijacked."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "After Search Party backlash, Ring is still avoiding the bigger questions",
+            "link": "https://www.theverge.com/news/881339/after-search-party-backlash-ring-is-still-avoiding-the-bigger-questions",
+            "site_name": "The Verge",
+            "novelty_hash": "d26f4e2a040d7e6ac359eb34c3f755d9382f137c"
+          },
+          "review": {
+            "headline_rewrite": "After Search Party backlash, Ring is still avoiding the bigger questions",
+            "bullets": [
+              "In an interview with The Times this week, Siminoff explained that he understands people’s concerns and that “maybe people were ‘triggered’ by an image in the ad that showed blue rings radiating out from suburban homes.",
+              "There will be fewer maps in any future ads, he said.”\nGraphics in ads are not the problem.",
+              "The problem is the potential for Ring’s vast network of AI-powered camera technology to be turned into a surveillance tool, one accessible to law enforcement and capable of creating a record of people’s movements that’s searchable by AI (which itself raises concerns around reliability and hallucination).",
+              "Ring is the only home security camera company to have built a system — called Community Requests — that allows its users to share footage directly with local police.",
+              "Ring maintains that its cameras are not being used to create a mass surveillance tool.",
+              "He needs to explain where — and how — he will draw the line."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
+            "link": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+            "site_name": "WIRED",
+            "novelty_hash": "38d0f745e5be41832893d26abb44544496f78ee8"
+          },
+          "review": {
+            "headline_rewrite": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
+            "bullets": [
+              "Code Metal, a Boston-based startup that uses AI to write code and translate it into other programming languages, just closed a $125 million Series B funding round from new and existing investors.",
+              "The news comes just a few months after the startup raised $36 million in series A financing led by Accel.",
+              "Code Metal is part of a new wave of startups aiming to modernize the tech industry by using AI to generate code and translate it across programming languages.",
+              "One of the questions that persists about AI-assisted code, though, is whether the output is any good—and what the consequences might be if it’s not.",
+              "Over the past two years companies like Antithesis, Code Rabbit, Synthesized, Theorem, and Harness have all secured millions in backing from venture capitalists for their approaches to automating, validating, testing, and securing AI-generated code.",
+              "These startups are selling the “picks and shovels” of the AI gold rush—tech tools that serve a larger industry."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Inside the Rolling Layoffs at Jack Dorsey’s Block",
+            "link": "https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/",
+            "site_name": "WIRED",
+            "novelty_hash": "d71197c755d2c5ba847813c6331af1868bb4d5e5"
+          },
+          "review": {
+            "headline_rewrite": "Inside the Rolling Layoffs at Jack Dorsey’s Block",
+            "bullets": [
+              "After hundreds of workers were laid off in early February from Jack Dorsey’s Block, some of the people remaining at the company say the internal culture has devolved to a point where performance anxiety is running rampant, using generative AI is required, and overall morale is rapidly deteriorating.",
+              "“Morale is probably the worst I’ve felt in four years,” reads an employee complaint submitted to Dorsey in a recent all-hands meeting, a transcript of which was seen by WIRED.",
+              "“We don't yet know if our livelihoods will be affected, and this makes it incredibly hard to make major life choices without knowing if we still have a job next week,” reads another employee complaint from the same meeting with Dorsey.",
+              "Multiple sources who spoke with WIRED say they were appalled when Arnaud Weber, Block’s engineering lead, sent out an email after the initial wave of layoffs characterizing them as being performance-related rather than a cost-saving measure.",
+              "“As part of our 2025 performance cycle, we have parted ways with teammates who weren't meeting the expectations of their role,” wrote Weber in the email, which was viewed by WIRED.",
+              "“These departures were based on clear performance gaps, role expectations, and alignment coming out of calibrations on the bar for each level.”\nBlock employees are currently expected to send an update email to Dorsey every week, who then uses generative AI to summarize the thousands of messages."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
