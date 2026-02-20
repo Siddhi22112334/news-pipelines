@@ -172765,6 +172765,123 @@
             "impact": "Negative"
           }
         }
+      ],
+      "23:09": [
+        {
+          "item": {
+            "title": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’",
+            "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "77f2e88da30ef0eeb05f5b1732aaa4b5505231fb"
+          },
+          "review": {
+            "headline_rewrite": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’",
+            "bullets": [
+              "No one could have predicted that over thirty years later, Pixar would still be making Toy Story movies, nor could anyone have known that the latest installation in the franchise would pit Buzz Lightyear and a balding Woody against an evil AI tablet called Lilypad.",
+              "Potato Head, Rex, and Slinky Dog against the sinister threat of technology.",
+              "The trailer shows Bonnie, the young girl who inherited Andy’s toys when he left for college in Toy Story 2, playing outside with her toys when a surprise package with the Lilypad tablet arrives for her.",
+              "The Toy Story 5 trailer makes the Lilypad — or, Lily — out to be a sinister villain."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Smart glasses in court are a privacy nightmare",
+            "link": "https://www.theverge.com/tech/882030/smart-glasses-in-court-meta-mark-zuckerberg",
+            "site_name": "The Verge",
+            "novelty_hash": "7304f1071ba6383ca44b9c042e3adff6bf7bb677"
+          },
+          "review": {
+            "headline_rewrite": "Smart glasses in court are a privacy nightmare",
+            "bullets": [
+              "According to CNBC, Kuhl warned anyone recording with the glasses, “If you have done that, you must delete that, or you will be held in contempt of the court.” Kuhl also ordered everyone wearing AI smart glasses to remove them.",
+              "Even after the warning, at least one person was seen wearing the glasses around jurors in a courthouse hallway, although plaintiff attorney Rachel Lanier was told the glasses weren’t recording at the time.",
+              "Earlier this month, a user on the r/legaladvice subreddit shared a post asking for advice on reporting a plaintiff wearing Meta’s glasses to court.",
+              "Additionally, over recent months, a few states have moved to specifically ban smart glasses from courthouses, including the US District Courts for the District of Hawaii and the Western District of Wisconsin.",
+              "However, there are often restrictions, like requiring a judge’s approval, prohibiting recording certain aspects of a trial, or only allowing recording for certain people, like members of the media.",
+              "Privacy and security can also be an issue, especially in cases involving minors, who are often allowed to be anonymous in court records."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta’s metaverse leaves virtual reality",
+            "link": "https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5d23bbcca14afbe5abf8ea79d123066033c4762d"
+          },
+          "review": {
+            "headline_rewrite": "Meta’s metaverse leaves virtual reality",
+            "bullets": [
+              "The tech giant said it’s shifting focus for Horizon Worlds to be “almost exclusively mobile” and that it’s “explicitly separating” its Quest VR platform from the virtual world.",
+              "Last month, the company reportedly laid off roughly 1,500 employees from its Reality Labs division — about 10% of the unit’s staff — and shut down several VR game studios.",
+              "Additionally, it was reported that the VR fitness app Supernatural, which Meta acquired in 2023, will no longer produce new content and will move into “maintenance mode.”\nHorizon Worlds originally launched in 2021 as a VR platform and later rolled out to the web and mobile.",
+              "Meta said Thursday that to “truly change the game and tap into a much larger market, we’re going all-in on mobile.”\nBy going mobile-first, Horizon Worlds is positioning itself to compete with popular platforms like Roblox and Fortnite.",
+              "“We’re in a strong position to deliver synchronous social games at scale, thanks to our unique ability to connect those games with billions of people on the world’s biggest social networks,” Samantha Ryan, Reality Labs’ VP of content, said in the blog post.",
+              "“You saw this strategy start to unfold in 2025, and now, it’s our main focus.”\nRyan went on to note that Meta is still focused on VR hardware."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
+            "site_name": "The Verge",
+            "novelty_hash": "ae25dc56006674d21741806f6f9ade975ca748ac"
+          },
+          "review": {
+            "headline_rewrite": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
+            "bullets": [
+              "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro’s actions, according to the Financial Times.",
+              "Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China.",
+              "People familiar with the matter said the tool chose to “delete and recreate the environment” it was working on, which caused the outage.",
+              "Amazon blames human employees for an AI coding agent’s mistake\nTwo minor AWS outages have reportedly occurred as a result of actions by Amazon’s AI tools.",
+              "It is not the only time AI coding tools have caused problems for Amazon.",
+              "A senior AWS employee said the December outage is the second production outage linked to an AI tool in the last few months, with another linked to Amazon’s AI chatbot Q Developer."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI Safety Meets the War Machine",
+            "link": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+            "site_name": "WIRED",
+            "novelty_hash": "67c6b729502bf265cb54404f582b595414b94f0c"
+          },
+          "review": {
+            "headline_rewrite": "AI Safety Meets the War Machine",
+            "bullets": [
+              "When Anthropic last year became the first major AI company cleared by the US government for classified use—including military applications—the news didn’t make a major splash.",
+              "But this week a second development hit like a cannonball: The Pentagon is reconsidering its relationship with the company, including a $200 million contract, ostensibly because the safety-conscious AI firm objects to participating in certain deadly operations.",
+              "The so-called Department of War might even designate Anthropic as a “supply chain risk,” a scarlet letter usually reserved for companies that do business with countries scrutinized by federal agencies, like China, which means the Pentagon would not do business with firms using Anthropic’s AI in their defense work.",
+              "Ultimately, this is about our troops and the safety of the American people,” he said.",
+              "This is a message to other companies as well: OpenAI, xAI and Google, which currently have Department of Defense contracts for unclassified work, are jumping through the requisite hoops to get their own high clearances.",
+              "For one thing, there’s a question of whether Anthropic is being punished for complaining about the fact that its AI model Claude was used as part of the raid to remove Venezuela's president Nicolás Maduro (that’s what’s being reported; the company denies it)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "\"Million-year-old\" fossil skulls from China are far older—and not Denisovans",
+            "link": "https://arstechnica.com/science/2026/02/new-dates-on-chinese-fossils-raise-question-of-how-many-times-we-left-africa/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e73aafff0424502e41d73bd19b429d39381cd55b"
+          },
+          "review": {
+            "headline_rewrite": "\"Million-year-old\" fossil skulls from China are far older—and not Denisovans",
+            "bullets": [
+              "A recent study has re-dated the skulls to about 1.77 million years old, which makes them the oldest hominin remains found so far in East Asia.",
+              "Shantou University paleoanthropologist Hua Tu and his colleagues measured the ratio of two isotopes, aluminum-26 and beryllium-10, in grains of quartz from the sediment layer that once held the skulls.",
+              "(That’s not counting a couple of teeth from a site in southern China with an age that is a little less certain.) Those dates had suggested Homo erectus seemed to have taken a leisurely 140,000 years to spread east into Asia."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
