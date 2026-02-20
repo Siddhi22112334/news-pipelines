@@ -172174,6 +172174,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:31": [
+        {
+          "item": {
+            "title": "The OpenAI mafia: 18 startups founded by alumni",
+            "link": "https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "04c6ea2cfad4be866bf5cbe1996e89b494ee0789"
+          },
+          "review": {
+            "headline_rewrite": "The OpenAI mafia: 18 startups founded by alumni",
+            "bullets": [
+              "As the startup behind ChatGPT, OpenAI is arguably the biggest AI player in town.",
+              "Many employees have come and gone since the company first launched a decade ago, and some have launched startups of their own.",
+              "Among these, some have become top rivals (like Anthropic), while others, just on investor interest alone, have managed to raise billions without even launching a product (see, Thinking Machine Labs).",
+              "In January, Aliisa Rosenthal, OpenAI’s first sales leader, spoke a little bit about this growing network.",
+              "She, like the other OpenAI alums who did not become founders, decided to become an investor and said she was going to tap into the ex-OpenAI founder network to look for deal flow.",
+              "We know Peter Deng, OpenAI’s former head of consumer products (and now general partner at Felicis) already has."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
+            "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "58f5b9c81f115c30e6debbc5e48fa9869b104118"
+          },
+          "review": {
+            "headline_rewrite": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
+            "bullets": [
+              "Abu Dhabi-based tech company G42 has partnered with U.S.-based chipmaker Cerebras to deploy 8 exaflops of computing power via a new supercomputer system in India, the companies said on the sidelines of the India AI Impact Summit in New Delhi.",
+              "The system will be hosted in India and follow local data residency, security, and compliance rules.",
+              "The project aims to provide computing resources for AI applications to educational institutions, government entities, and small and medium enterprises.",
+              "“Sovereign AI infrastructure is becoming essential for national competitiveness.",
+              "This project brings that capability to India at a national scale, enabling local researchers, innovators, and enterprises to become AI-native while maintaining full data sovereignty and security,” Manu Jain, CEO of G42 India, said in a statement.",
+              "Abu Dhabi’s Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and India’s Centre for Development of Advanced Computing (C-DAC) are also part of the project."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta will ruin its smart glasses by being Meta",
+            "link": "https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables",
+            "site_name": "The Verge",
+            "novelty_hash": "b6ce9661d9990e38db37e58513774f6f1cd2e0b9"
+          },
+          "review": {
+            "headline_rewrite": "Meta will ruin its smart glasses by being Meta",
+            "bullets": [
+              "Cool hardware, but hard pass on anything Meta makes; will wait for someone else to come along.",
+              "It’s hard to imagine that sentiment changing anytime soon after The New York Times reported that Meta mulled launching facial recognition software “during a dynamic political environment” precisely because privacy advocates would be distracted.",
+              "That invisibility, that these recording tools look like a normal pair of glasses, is the point.",
+              "Anecdotally, one day, the privacy light on my spouse’s pair just stopped working.",
+              "What happens if you take a second to think of Meta’s history with the Cambridge Analytica data privacy scandal, CEO Mark Zuckerberg’s willingness to kiss Donald Trump’s ring, and recent changes to its smart glasses privacy policy to boost AI training?",
+              "When you remember that Zuckerberg once said that early Facebook users were “dumb fucks” for entrusting him with their data, and more recently, that people who opt out of smart glasses will be at a “severe cognitive disadvantage”?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla&#8217;s cheaper $60,000 Cybertruck is still a Cybertruck",
+            "link": "https://www.theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut",
+            "site_name": "The Verge",
+            "novelty_hash": "16a437849f0730973782500ff45e0e97af0408a5"
+          },
+          "review": {
+            "headline_rewrite": "Tesla&#8217;s cheaper $60,000 Cybertruck is still a Cybertruck",
+            "bullets": [
+              "Tesla’s cheaper $60,000 Cybertruck is still a Cybertruck\nThe price is lower, but the stigma remains the same.",
+              "The new dual motor AWD variant is available now from Tesla’s site.",
+              "It’s cheaper than the rear-wheel drive version that was launched last year and discontinued a few short months later, but includes features not seen on that model like a powered tonneau cover, bed outlets, and adaptive damping.",
+              "The Cyberbeast launched at $99,990, then went up by $20,000, back down by the same, up again by $15,000, and is now right back at square one.",
+              "Then again, you might expect Tesla to keep Cybertrucks as cheap as it can.",
+              "Most Popular\n- The RAM shortage is coming for everything you care about\n- The biggest app in the whole wide world\n- A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon’s cloud\n- Meta’s VR metaverse is ditching VR\n- GE Profile made a smaller version of its nugget ice maker that needs less counter space"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books",
+            "link": "https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "0990f0b2a4b375e3a1a50e8896d46c4e475b998d"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books",
+            "bullets": [
+              "Following backlash in a Hacker News thread, Microsoft deleted a blog post that critics said encouraged developers to pirate Harry Potter books to train AI models that could then be used to create AI slop.",
+              "The blog, which is archived here, was written in November 2024 by a senior product manager, Pooja Kamath.",
+              "According to her LinkedIn, Kamath has been at Microsoft for more than a decade and remains with the company.",
+              "In 2024, Microsoft tapped her to promote a new feature that the blog said made it easier to “add generative AI features to your own applications with just a few lines of code using Azure SQL DB, LangChain, and LLMs.”\nWhat better way to show “engaging and relatable examples” of Microsoft’s new feature that would “resonate with a wide audience” than to “use a well-known dataset” like Harry Potter books, the blog said.",
+              "The books are “one of the most famous and cherished series in literary history,” the blog noted, and fans could use the LLMs they trained in two fun ways: building Q&A systems providing “context-rich answers” and generating “new AI-driven Harry Potter fan fiction” that’s “sure to delight Potterheads.”\nTo help Microsoft customers achieve this vision, the blog linked to a Kaggle dataset that included all seven Harry Potter books, which, Ars verified, has been available online for years and incorrectly marked as “public domain.” Kaggle’s terms say that rights holders can send notices of infringing content and repeated offenders risk suspensions, but Hacker News commenters speculated that the Harry Potter dataset flew under the radar, with only 10,000 downloads over time not catching the attention of J.K.",
+              "The dataset was promptly deleted on Thursday after Ars reached out to the uploader, Shubham Maindola, a data scientist in India with no apparent links to Microsoft."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas",
+            "link": "https://arstechnica.com/space/2026/02/rocket-report-chinese-launch-firm-raises-big-money-falcon-9-back-to-the-bahamas/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "cb1066f30f7c462559f1c16b59181aec99a55465"
+          },
+          "review": {
+            "headline_rewrite": "Rocket Report: Chinese launch firm raises big money; Falcon 9 back to the Bahamas",
+            "bullets": [
+              "As I write this week’s edition, NASA’s Space Launch System rocket is undergoing a second countdown rehearsal at Kennedy Space Center, Florida.",
+              "The outcome of the test will determine whether NASA has a shot at launching the Artemis II mission around the Moon next month, or if the launch will be delayed until April or later.",
+              "Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar.",
+              "Who is actually investing in sovereign launch?",
+              "No one will supplant American and Chinese dominance in the space launch arena anytime soon, but several longtime US allies now see sovereign access to space as a national security imperative, Ars reports.",
+              "Taking advantage of private launch initiatives already underway within their own borders, several middle and regional powers have approved substantial government funding for commercial startups to help them reach the launch pad."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
