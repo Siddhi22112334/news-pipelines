@@ -172296,6 +172296,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:35": [
+        {
+          "item": {
+            "title": "The OpenAI mafia: 18 startups founded by alumni",
+            "link": "https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "04c6ea2cfad4be866bf5cbe1996e89b494ee0789"
+          },
+          "review": {
+            "headline_rewrite": "The OpenAI mafia: 18 startups founded by alumni",
+            "bullets": [
+              "As the startup behind ChatGPT, OpenAI is arguably the biggest AI player in town.",
+              "Many employees have come and gone since the company first launched a decade ago, and some have launched startups of their own.",
+              "Among these, some have become top rivals (like Anthropic), while others, just on investor interest alone, have managed to raise billions without even launching a product (see, Thinking Machine Labs).",
+              "In January, Aliisa Rosenthal, OpenAI’s first sales leader, spoke a little bit about this growing network.",
+              "She, like the other OpenAI alums who did not become founders, decided to become an investor and said she was going to tap into the ex-OpenAI founder network to look for deal flow.",
+              "We know Peter Deng, OpenAI’s former head of consumer products (and now general partner at Felicis) already has."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India",
+            "link": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1da00177c01c5d14e6880d03f6af13e7ae569d80"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India",
+            "bullets": [
+              "OpenAI seems to have found product-market fit with young Indians.",
+              "The company said on Friday that users between 18 and 24 years of age accounted for nearly 50% of messages sent to ChatGPT in the country, and users under 30 accounted for 80%.",
+              "The AI lab said Indians use ChatGPT mostly for work, with 35% of all messages relating to professional tasks, compared to 30% globally.",
+              "In particular, the company’s coding assistant, Codex, is seeing strong traction: OpenAI said Indians use Codex three times more than the global median, and weekly usage has increased by four times since the tool got a Mac app two weeks ago.",
+              "This is in line with findings from Antropic, which earlier this week said 45.2% of Claude’s tasks map to software-related use cases in India.",
+              "OpenAI said outside of work tasks, 35% of messages to ChatGPT from Indians requested guidance, 20% concerned questions about general information, and 20% were requests for the bot to produce or help with writing."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta will ruin its smart glasses by being Meta",
+            "link": "https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables",
+            "site_name": "The Verge",
+            "novelty_hash": "b6ce9661d9990e38db37e58513774f6f1cd2e0b9"
+          },
+          "review": {
+            "headline_rewrite": "Meta will ruin its smart glasses by being Meta",
+            "bullets": [
+              "Cool hardware, but hard pass on anything Meta makes; will wait for someone else to come along.",
+              "It’s hard to imagine that sentiment changing anytime soon after The New York Times reported that Meta mulled launching facial recognition software “during a dynamic political environment” precisely because privacy advocates would be distracted.",
+              "That invisibility, that these recording tools look like a normal pair of glasses, is the point.",
+              "Anecdotally, one day, the privacy light on my spouse’s pair just stopped working.",
+              "What happens if you take a second to think of Meta’s history with the Cambridge Analytica data privacy scandal, CEO Mark Zuckerberg’s willingness to kiss Donald Trump’s ring, and recent changes to its smart glasses privacy policy to boost AI training?",
+              "When you remember that Zuckerberg once said that early Facebook users were “dumb fucks” for entrusting him with their data, and more recently, that people who opt out of smart glasses will be at a “severe cognitive disadvantage”?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nintendo turned its biggest flop into an expensive, uncomfortable novelty",
+            "link": "https://www.theverge.com/games/881677/nintendo-switch-virtual-boy-review",
+            "site_name": "The Verge",
+            "novelty_hash": "b272cc1d018ca4f173111cfe9d8f310c00c8a03e"
+          },
+          "review": {
+            "headline_rewrite": "Nintendo turned its biggest flop into an expensive, uncomfortable novelty",
+            "bullets": [
+              "Instead, the console offered stereoscopic 3D games that you viewed through a pair of bulky goggles that were propped up on a stand.",
+              "Virtual Boy games have been added to the Nintendo Classics collection of retro games available to Switch Online subscribers this week, but the twist is, because of the unique nature of the original hardware, you need to buy an accessory to actually play them.",
+              "Look through the goggles, and you’re awash in pixelated reds and blacks (though other colors will be available post-launch).",
+              "All that said, the Virtual Boy’s lineup is surprisingly interesting to play in 2026.",
+              "There are seven titles available at launch, and while there are a few duds — I just can’t seem to wrap my head around the first-person robot fighter Teleroboxer — I’ve really been enjoying playing 3D Tetris, Galactic Pinball, and the space shooter Red Alarm.",
+              "The standout might be Wario Land, a fairly straightforward and occasionally clunky platformer but with 3D elements like enemies that jump out right in front of you, making things feel more tense."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books",
+            "link": "https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "f00d2a3d46c6ce566524b15a6d2c8af724320d9d"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft removes guide on how to train LLMs on pirated Harry Potter books",
+            "bullets": [
+              "Following backlash in a Hacker News thread, Microsoft deleted a blog post that critics said encouraged developers to pirate Harry Potter books to train AI models that could then be used to create AI slop.",
+              "The blog, which is archived here, was written in November 2024 by a senior product manager, Pooja Kamath.",
+              "According to her LinkedIn, Kamath has been at Microsoft for more than a decade and remains with the company.",
+              "In 2024, Microsoft tapped her to promote a new feature that the blog said made it easier to “add generative AI features to your own applications with just a few lines of code using Azure SQL DB, LangChain, and LLMs.”\nWhat better way to show “engaging and relatable examples” of Microsoft’s new feature that would “resonate with a wide audience” than to “use a well-known dataset” like Harry Potter books, the blog said.",
+              "The books are “one of the most famous and cherished series in literary history,” the blog noted, and fans could use the LLMs they trained in two fun ways: building Q&A systems providing “context-rich answers” and generating “new AI-driven Harry Potter fan fiction” that’s “sure to delight Potterheads.”\nTo help Microsoft customers achieve this vision, the blog linked to a Kaggle dataset that included all seven Harry Potter books, which, Ars verified, has been available online for years and incorrectly marked as “public domain.” Kaggle’s terms say that rights holders can send notices of infringing content, and repeat offenders risk suspensions, but Hacker News commenters speculated that the Harry Potter dataset flew under the radar, with only 10,000 downloads over time, not catching the attention of J.K.",
+              "The dataset was promptly deleted on Thursday after Ars reached out to the uploader, Shubham Maindola, a data scientist in India with no apparent links to Microsoft."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Engadget Podcast: Instagram on trial and the RAMaggedon rages on",
+            "link": "https://www.engadget.com/ai/engadget-podcast-instagram-on-trial-and-the-ramaggedon-rages-on-131526178.html",
+            "site_name": "Engadget",
+            "novelty_hash": "1bf4bae6a009bbcc20282b8fffedc0231f2277b3"
+          },
+          "review": {
+            "headline_rewrite": "Engadget Podcast: Instagram on trial and the RAMaggedon rages on",
+            "bullets": [
+              "This week, Meta CEO Mark Zuckerberg testified in a landmark social media trial, claiming the company only wanted to make Instagram \"useful\" and not addictive.",
+              "Topics\nMark Zuckerberg testifies that Instagram was meant to be “useful,” not addictive in social media addiction trial – 1:27\nMeta reportedly plans to launch a smartwatch later this year – 13:23\nThe RAMageddon will likely kill some small consumer electronics companies – 15:54\nApple could unveil a MacBook, new M5 Pro chip, and iPhone 17e at March 4th event – 26:26\nGoogle’s Pixel 10a arrives on March 5 – 32:17\nEmail leaked to 404 media suggests Ring had plans to use its Search Party function for wider surveillance – 34:48\nListener mail – 45:14\nWorking on – 48:40\nPop culture picks – 49:04\nCredits\nHost: Devindra Hardawar\nProducer: Ben Ellman\nMusic: Dale North and Terrence O’Brien\nIf you buy something through a link in this article, we may earn commission."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
