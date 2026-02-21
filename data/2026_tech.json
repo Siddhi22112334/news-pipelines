@@ -176509,5 +176509,117 @@
         }
       ]
     }
+  },
+  "2026-02-22": {
+    "runs": {
+      "00:04": [
+        {
+          "item": {
+            "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+            "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5ff054bfd97500521746432fd14d064469ebda3f"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+            "bullets": [
+              "With Sharma’s most recent role as the president of Microsoft’s CoreAI product, these moves suggest that Microsoft might be doubling down on bringing AI into video games.",
+              "The company had already been experimenting with ways to combine AI and gaming, for example developing an AI gaming companion and releasing a buggy, AI-generated level from “Quake II.”\nIndeed, in an internal memo published by The Verge, Sharma wrote that Microsoft “will invent new business models and new ways to play” and said that “monetization and AI” will both “evolve and influence this future.” At the same time, she said that the company “will not chase short-term efficiency or flood our ecosystem with soulless AI slop.”\n“Games are and always will be art, crafted by humans, and created with the most innovative technology provided by us,” Sharma added."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Georgia says Elon Musk’s America PAC violated election law",
+            "link": "https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
+            "site_name": "The Verge",
+            "novelty_hash": "96e9969a9acc000e39cdc6a264090fd327b9992e"
+          },
+          "review": {
+            "headline_rewrite": "Georgia says Elon Musk’s America PAC violated election law",
+            "bullets": [
+              "According to the State Election Board, the applications also failed to note that they were not actual ballots and were not provided by the government, as is required by law.",
+              "It’s also another incident in which those who claim to be most concerned about election integrity have been caught potentially violating the law."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "13-hour AWS outage reportedly caused by Amazon's own AI tools",
+            "link": "https://www.engadget.com/ai/13-hour-aws-outage-reportedly-caused-by-amazons-own-ai-tools-170930190.html",
+            "site_name": "Engadget",
+            "novelty_hash": "878dec9366c3c7e0e222602d4b36df2888b26db1"
+          },
+          "review": {
+            "headline_rewrite": "13-hour AWS outage reportedly caused by Amazon's own AI tools",
+            "bullets": [
+              "A recent Amazon Web Services (AWS) outage that lasted 13 hours was reportedly caused by one of its own AI tools, according to reporting by Financial Times.",
+              "This happened in December after engineers deployed the Kiro AI coding tool to make certain changes, say four people familiar with the matter.",
+              "Amazon says it was merely a \"coincidence that AI tools were involved\" and that \"the same issue could occur with any developer tool or manual action.\" The company blamed the outage on \"user error, not AI error.\" It said that by default the Kiro tool “requests authorization before taking any action” but that the staffer involved in the December incident had \"broader permissions than expected — a user access control issue, not an AI autonomy issue.\"\nMultiple Amazon employees spoke to Financial Times and noted that this was \"at least\" the second occasion in recent months in which the company's AI tools were at the center of a service disruption.",
+              "\"The outages were small but entirely foreseeable,\" said one senior AWS employee.",
+              "The company launched Kiro in July and has since pushed employees into using the tool.",
+              "However, Amazon disagrees with the characterization of certain products and services being unavailable as an outage."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "fe59ecacf9630ad93b927c49a4e85188204c34ed"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nFortune\nBy Shawn Tully\nBlue Owl sells $1.4 billion in loans amid redemption requests chevron_rightBlue Owl shares drop again as asset sale, debt fund changes fan investor worries\nReuters\nBy Pritam Biswas & Arasu Basil\nFed chair Kevin Warsh chevron_rightJerome Powell knows the Fed's balance sheet got too big—Kevin Warsh has a plan, he just has to sell it without freaking out markets or the Treasury\nBy Eleanor Pringle\nLes Wexner's testimony in Congress chevron_right\nUS Q4 GDP chevron_right\nMark Zuckerberg testifies in landmark social media addiction trial chevron_rightSocial media companies face legal reckoning over mental health harms to children\nAP News\nBy Barbara Ortutay\nGrail shares plummet after disappointing UK study results chevron_rightGrail shares plummet after cancer test falls short in three-year NHS study\nfirstwordpharma.com\nBy Elizabeth Eaton\nOil prices in Iran chevron_rightTrump And Iran Put Oil Prices Near Six-Month Highs But This Energy Industry Was Already Rallying\nInvestor's Business Daily\nBy Kit Norton\nJury selection challenges in Elon Musk Twitter investor lawsuit chevron_right\nParamount's bid for Warner Bros Discovery chevron_right\nThe Dispatch\nBy John Mccormack\nBy Ed Carson\nChina's AI industry chevron_rightThe Hong Kong Investor Putting American Money Into China’s AI Push\nThe Wall Street Journal\nBy Tracy Yixin Qu & Rory Jones\nUS December inflation chevron_right\nWhite House meeting on stablecoin yield chevron_rightBitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions\nBitcoin, XRP Prices Rise After Crypto Bill Talks.",
+              "Li & Suzy Khimm\nFBI warning of ATM jackpotting attacks chevron_right\nMichigan Public Service Commission approves DTE electric rate increase chevron_rightDTE gets permission to raise electric raises $242M for Michigan customers\nMLive.com\nBy Lucas Smolcic Larson\nOhioHealth sued for allegedly blocking access to affordable healthcare chevron_right\nAmazon dethrones Walmart as biggest global company by revenue chevron_rightAmazon Is Now America’s Biggest Company.",
+              "By Sarah Nassauer & Sean Mclain\nAnna Murdoch-Mann, author and philanthropist, dies at 81 chevron_right\nVolkswagen workers in Chattanooga ratify first union contract chevron_right\nBlue Owl's CoreWeave debt chevron_right\nTrader Joe's chicken fried rice recalled due to glass contamination chevron_rightPortland company recalls popular Trader Joe’s frozen product that may contain glass\nMore than 3M pounds of frozen chicken fried rice recalled over potential glass contamination\nOregonLive.com\nBy Veronica Nocera\nFox Business\nBy Michael Sinkewicz\nBeyondTrust vulnerability chevron_right\nAI disruption in software stocks chevron_right‘Fighting the AI Ghost Trade’ – Dan Ives Lists 10 Catalysts to Reverse the Tech Selloff\nTipRanks\nBy Sheryl Sheth\nBy Jordan Pandy\nExtreme cold weather causes spike in utility bills chevron_right\nNvidia stock news chevron_right\nOpenAI CEO Sam Altman discusses \"AI washing\" at summit chevron_right\nWhite House homeownership plan chevron_rightExclusive | White House Offers New Details on Its Push to Ban Housing Investors\nBy Rebecca Picciotto\nKWQC\nBy Madeline Gillespie\nBy Krystal Hur\nWoman's arrest at Las Vegas airport chevron_right\nOpenAI's ChatGPT advertising chevron_right\nBitcoin news chevron_rightCrypto price news: BTC unfazed by Trump tariff news; DOGE, SOL, ADA lead modest bounce\nCoinDesk\nBy Krisztian Sandor\nNetflix-Warner Bros merger chevron_right\nAmerican Airlines CEO Robert Isom chevron_rightWorld’s Most Powerful Flight Attendant Praises American CEO Robert Isom\nAmerican Airlines CEO Praised by Most Powerful Attendant in the World Amid 50% Pay Deal\nOne Mile at a Time\nBy Ben Schlappig\nAviation A2Z\nBy Natalia Shelley\nBy Amanda Cooper & Lucy R.",
+              "2027 Audi RS5 is Audi Sport's first plug-in hybrid model chevron_right\nHome repairs for seniors chevron_rightFive People in Their 60s, 70s, and 80s Share How They Plan to Age at Home\nThe New York Times\nBy Dan Koeppel\nTesla Cybertruck price cut chevron_rightElon Musk kills first Tesla Cybertruck ($60k) that makes sense just 10 days after launch\nElectrek\nBy Fred Lambert\nChicago Tribune\nBy Claire Malon\nAmazon must face lawsuits over sodium nitrite linked suicides chevron_rightWA Supreme Court rules lawsuit against Amazon ‘suicide kits’ can proceed\nThe Seattle Times\nBy Alex Halverson\nWalgreens closing Houston distribution center, laying off 159 chevron_rightWalgreens laying off 469 Illinois employees, following sale to private equity firm\nNational chain announces major job cuts affecting more than 600 employees in 2 states\nBy Lisa Schencker\nAL.com\nBy Diane Mwai\nNorwegian Cruise Line clarifies prohibited dining attire chevron_right\nUS stock markets react to PCE inflation and GDP data chevron_rightStock market today: Dow, S&P 500, Nasdaq futures falter as US GDP cools, Fed-favored PCE inflation heats up\nYahoo Finance\nBy Karen Friar\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "A judge ruled Tesla still has to pay $243 million for a fatal crash involving Autopilot",
+            "link": "https://www.engadget.com/transportation/evs/a-judge-ruled-tesla-still-has-to-pay-243-million-for-a-fatal-crash-involving-autopilot-174548093.html",
+            "site_name": "Engadget",
+            "novelty_hash": "de80dab1c3c82f342e48bc5563fd96ea5cfa41ca"
+          },
+          "review": {
+            "headline_rewrite": "A judge ruled Tesla still has to pay $243 million for a fatal crash involving Autopilot",
+            "bullets": [
+              "The Model S then crashed into an SUV that was parked on a shoulder, where Naibel Benavides Leon and Dillon Angulo were standing aside.",
+              "Tesla's lawyers previously tried to pin the blame on the driver, claiming that the Model S and Autopilot weren't defective."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 20, 2026 Who is Ranvir Sachdeva, 8-year-old who became the youngest speaker at India AI Impact Summit 2026; He met with Google CEO Sundar Pichai, OpenAI’s Sam Altman An eight-year-old technologist, Ranvir Sachdeva, is the youngest keynote speaker at the India AI Impact Summit 2026. He is discussing how ancient Indian philosophies connect with modern AI. Ranvir is also sharing his contributions to India's GDP and AI literacy through an Indian AI model. He has previously met global tech leaders and the UN Secretary-General.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/who-is-ranvir-sachdeva-8-year-old-who-became-the-youngest-speaker-at-india-ai-impact-summit-2026-he-met-with-google-ceo-sundar-pichai-openais-sam-altman/articleshow/128594909.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "741957d18cd449181095e91c9d435523cc50f101"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 20, 2026 Who is Ranvir Sachdeva, 8-year-old who became the youngest speaker at India AI Impact Summit 2026; He met with Google CEO Sundar Pichai, OpenAI’s Sam Altman An eight-year-old technologist, Ranvir Sachdeva, is the youngest keynote speaker at the India AI Impact Summit 2026. He is discussing how ancient Indian philosophies connect with modern AI. Ranvir is also sharing his contributions to India's GDP and AI literacy through an Indian AI model. He has previously met global tech leaders and the UN Secretary-General.",
+            "bullets": [
+              "Amidst a sea of global tech CEOs, leaders and senior policymakers at the India AI Impact Summit 2026, one speaker stood out â Ranvir Sachdeva, an eight-year-old coder who called himself a technologist.",
+              "Ranvir took stage to discuss how he is linking ancient Indian philosophies to modern-day Artificial Intelligence (AI).",
+              "âI'm here as the youngest keynote speaker at the India AI Impact Summit.",
+              "I'm also covering the different approaches which the rest of the nations are building AI with,â Ranvir Sachdeva told news agency ANI.",
+              "âI'm talking about how India is building AI with.",
+              "I'm sharing my own use case of an Indian AI model just released and how I'm contributing to India's GDP and driving AI literacy with it,â he added."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }

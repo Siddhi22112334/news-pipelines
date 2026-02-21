@@ -77281,5 +77281,43 @@
         }
       ]
     }
+  },
+  "2026-02-22": {
+    "runs": {
+      "00:04": [
+        {
+          "item": {
+            "title": "Microsoft, Palantir, Salesforce, Adobe: How OpenAI and Anthropic crushed software’s 23-year reign",
+            "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/microsoft-palantir-salesforce-adobe-how-openai-and-anthropic-crushed-softwares-23-year-reign/article70659385.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Microsoft, Palantir, Salesforce, Adobe: How OpenAI and Anthropic crushed software’s 23-year reign",
+            "bullets": [
+              "Accenture and EPAM Systems are among the biggest losers with losses of 25 per cent and 35 per cent.",
+              "It can be observed that in the post-dotcom period, the ratio has been above 100 – implying the outperformance of the software portfolio relative"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump ups tariff to 15%, a day after levying 10% post SC ruling",
+            "link": "https://www.thehindubusinessline.com/economy/india-faces-lower-tariff-rate-of-10-as-trump-issues-proclamation-on-new-levies/article70659099.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Trump ups tariff to 15%, a day after levying 10% post SC ruling",
+            "bullets": [
+              "Sensitive areas include agriculture market access, digital trade rules and India’s policy autonomy in dealing with so-called non-market economies such as China.",
+              "These include market access for cereals and dairy, digital trade, the country’s position on Russian oil and its relationship with China."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
