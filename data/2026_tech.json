@@ -177994,6 +177994,61 @@
             "impact": "Negative"
           }
         }
+      ],
+      "14:02": [
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "88dfa633e4c599f24d332083cfaf46ab189897dd"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nThe Evening Recap | February 21, 20\nWhat to know in Baton Rouge\nBizTimes Daily Update\nAfternoon Update\nROCHESTER MINNESOTA NEWS\nMywebtimes\nWeekend Top Stories\nLatino Issues\nCelebrity Homes\nThe Business Journal of the Boulder Valley and Northern Colorado\nDaily Briefing\nFARGO-MOORHEAD NEWS\nEvening Headlines, Feb.",
+              "21, 2026\nWhat Utah is buzzing about\nThe Almanac\nThe Herald News\nFood Forest Economies and more\nTop Stories\nBridgeDetroit\nTop News\nNEWS FOR YOU\nToledo's Leader in News, Sports & Entertainment\nWeekend wrapup\nGRAND FORKS ND NEWS\nCHARLOTTE HEADLINE\nLane County News\nKaren Bass frontrunner for Hypocrite of the Year\nToday's Top Headlines\nWHAT'S NEWS TODAY\nLatest news for Edmonds\nLatest news from Baltimore, Montgomery County and across Maryland\nTop Mississippi News Stories This Week\nTrending Today\nLatest Headlines\nCobb Courier Evening Update February 21, 2026\nAfternoon rundown\nNews Tribune\nToday's Rundown\nMorning Headlines\nDaily Journal\nSAN FRANCISCO'S TOP STORIES\nSoMD Evening Headlines for 2/21/2026\nDallas-Fort Worth News - Feb.",
+              "21, 2026\nA wrap on the day’s hard-hitting news and opinion\nWhat to know in New Orleans\nSTORIES FROM MINNESOTA\nDaily Rundown\nSauk Valley\nDaily News\nTop Stories from The Wilson Times\nSaturday's news in Fairfax County"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 22, 2026 Block Layoffs: Employees cite morale crisis after job cuts; AI use now mandatory in workflows Block employees, including those at Square and Cash App, are reportedly experiencing heightened performance pressure and declining morale following recent layoffs. Concerns about job security and the mandatory use of AI tools are widespread, with staff disagreeing with management's framing of the cuts as performance-related. Jack Dorsey acknowledged these anxieties but urged AI adoption to boost productivity.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/report-claims-horror-layoff-stories-rolling-from-jack-dorseys-block/articleshow/128655905.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "6e7b9827e54802ff94768e0febf550b4e0a0237c"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 22, 2026 Block Layoffs: Employees cite morale crisis after job cuts; AI use now mandatory in workflows Block employees, including those at Square and Cash App, are reportedly experiencing heightened performance pressure and declining morale following recent layoffs. Concerns about job security and the mandatory use of AI tools are widespread, with staff disagreeing with management's framing of the cuts as performance-related. Jack Dorsey acknowledged these anxieties but urged AI adoption to boost productivity.",
+            "bullets": [
+              "A report claims that the employees at the parent company of Square and Cash App are worried about worsening workplace conditions following a fresh round of layoffs.",
+              "According to a Wired report, several current and former employees said internal culture has been affected after hundreds of workers were laid off earlier this month.",
+              "The report claimed to have spoken to seven current and former Block employees, who requested anonymity to discuss internal operations.",
+              "They also noted that, following the layoffs, the use of generative AI tools has become mandatory in certain workflows.",
+              "What Block employees said about the companyâs reported lastest moves\nBlock employee's feedback shared during a recent all-hands meeting reflected concerns about workplace culture.",
+              "According to a transcript reviewed by Wired, the employeeâs complaint, which was submitted to Dorsey, read,\nâMorale is probably the worst Iâve felt in four years."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
