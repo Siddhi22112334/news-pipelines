@@ -178993,6 +178993,104 @@
             "impact": "Positive"
           }
         }
+      ],
+      "20:25": [
+        {
+          "item": {
+            "title": "America desperately needs new privacy laws",
+            "link": "https://www.theverge.com/column/882516/privacy-laws-america",
+            "site_name": "The Verge",
+            "novelty_hash": "57dc54f56ba9e32e87ef21a681ff26944cb26ba9"
+          },
+          "review": {
+            "headline_rewrite": "America desperately needs new privacy laws",
+            "bullets": [
+              "In 1974, Congress passed the Privacy Act, which set some of the first rules aimed at computerized records systems — limiting when government agencies could share information and outlining what access individuals should have.",
+              "But over the past couple of decades, amid an explosion in digital surveillance by governments and private companies, Congress has repeatedly failed to keep up.",
+              "Data breaches at major tech companies are common, and security regulations meant to prevent them are being rolled back.",
+              "Amazon just aired a Super Bowl ad bragging about how your doorbell can become part of a distributed surveillance dragnet for finding dogs.",
+              "(The company said this was an experiment it’s since ended.)\nState-level and international regulations have addressed some privacy risks.",
+              "Several states have passed some form of general privacy framework, as well as more specific rules — Illinois’ biometric privacy law has facilitated lawsuits against Meta and others, for instance, and New York mandated algorithmic pricing disclosure a few months ago."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "This magazine plays Tetris — here’s how",
+            "link": "https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display",
+            "site_name": "The Verge",
+            "novelty_hash": "a96099252b85d848e829c1ec210f791e383d4fe0"
+          },
+          "review": {
+            "headline_rewrite": "This magazine plays Tetris — here’s how",
+            "bullets": [
+              "Last year the Tetris Company partnered with Red Bull for a gaming tournament that culminated in the 150-meter-tall Dubai Frame landmark being turned into the world’s largest playable Tetris installation using over 2,000 drones that functioned as pixels.",
+              "In 2015, he launched the $39 Arduboy, a credit card-sized, open-source handheld that attracted a thriving community of developers.",
+              "Over the course of a decade, Bates also created a pair of equally pocketable Tetris-playing handhelds that cost less than $30, and the shrunken-down USB-C Arduboy Mini.",
+              "He wouldn’t divulge the exact details of how his collaboration with Red Bull came to be.",
+              "But if you’re looking to make an officially licensed version of Tetris that’s thin enough to flex, Bates has the experience, and he shared with us some of the technical details that make this creation work.",
+              "But it’s only in the past five or six years that the technology has become available to smaller makers, and Bates says he’s been “messing around with the flexible circuits for about as much time.” This collaboration was an opportunity to use what he’s learned to create a device that would live outside his workshop."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How to send a message via satellite on iPhone",
+            "link": "https://www.engadget.com/mobile/smartphones/how-to-send-a-message-via-satellite-on-iphone-130000418.html",
+            "site_name": "Engadget",
+            "novelty_hash": "fbfa414e1c5616f5e8d7e7692ce8ad3d67c62898"
+          },
+          "review": {
+            "headline_rewrite": "How to send a message via satellite on iPhone",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Apple’s satellite features were originally designed for emergencies, allowing iPhone users to contact emergency services when cellular and Wi-Fi coverage is unavailable.",
+              "This makes it possible to stay in touch with friends and family from remote locations where traditional networks do not reach, such as hiking trails, rural areas or offshore locations.",
+              "Messaging via satellite is built directly into the iPhone and works automatically when no cellular or Wi-Fi signal is available.",
+              "To send a message via satellite, open the Messages app when no cellular or Wi-Fi signal is available.",
+              "If the feature is supported in the current location, the app will display a prompt indicating that satellite messaging is available."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 22, 2026 Anthropic’s lead engineer has a Doomsday prediction for engineers, product managers and designers; says: AI Agents are going to expand to any kind of work that you … Anthropic engineer Borsi Cherny warns that advanced AI agents, like Claude Code, will soon automate nearly all computer-based jobs, potentially eliminating titles like \"software engineer\" by 2026. He urges workers to adapt and integrate AI into their workflows, as this technological shift is expected to be disruptive but also offers increased productivity.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-lead-engineer-has-a-doomsday-prediction-for-engineers-product-managers-and-designers-says-ai-agents-are-going-to-expand-to-any-kind-of-work-that-you-/articleshow/128678080.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "a02815d1ddc4bd4a8020e92e534aac538ded311d"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 22, 2026 Anthropic’s lead engineer has a Doomsday prediction for engineers, product managers and designers; says: AI Agents are going to expand to any kind of work that you … Anthropic engineer Borsi Cherny warns that advanced AI agents, like Claude Code, will soon automate nearly all computer-based jobs, potentially eliminating titles like \"software engineer\" by 2026. He urges workers to adapt and integrate AI into their workflows, as this technological shift is expected to be disruptive but also offers increased productivity.",
+            "bullets": [
+              "According to a report by Benzinga, speaking on Lennyâs Podcast, Cherny predicted that advanced AI agents will soon expand into nearly every type of computer-based job, from software engineering to product management and design.",
+              "âItâs going to expand to pretty much any kind of work that you can do on a computer,â he said, cautioning that the transition will be disruptive and painful for many workers.",
+              "Claude Code leading the shift\nAt the center of this transformation is Claude Code, Anthropicâs AI coding agent.",
+              "Cherny noted that productivity per engineer has already increase since its launch, and he expects further acceleration as agentic AI becomes mainstream.",
+              "Donât fear AI just embrace it\nCherny has also asked the workers to adapt rather than resist the technology.",
+              "âDonât be scared of them,â he advised, emphasizing the importance of learning how AI tools function and integrating them into workflows."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
