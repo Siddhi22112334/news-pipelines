@@ -78515,5 +78515,47 @@
         }
       ]
     }
+  },
+  "2026-02-23": {
+    "runs": {
+      "00:05": [
+        {
+          "item": {
+            "title": "Wall Street Week Ahead: Focus on Nvidia earnings, wholesale inflation, US-Iran tensions",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-focus-on-nvidia-earnings-wholesale-inflation-us-iran-tensions-11771777325115.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street Week Ahead: Focus on Nvidia earnings, wholesale inflation, US-Iran tensions",
+            "bullets": [
+              "Market participants will also be evaluating critical economic data, specifically wholesale inflation figures for January, consumer confidence metrics for February, and the February Chicago",
+              "President Trump recently indicated that a limited strike is under consideration, following an earlier order to bolster naval forces in the Middle East to",
+              "On February 23 (Monday), data on factory orders for December will be declared.",
+              "Following companies are due to report fourth quarter results in the week ahead — Dominion Energy, Home Depot, HP Inc., Salesforce, Nvidia, Zoom Communications,"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "India miserably fail first big Test against Proteas, throw Super Eights wide open",
+            "link": "https://www.thehindubusinessline.com/todays-paper/tp-news/india-miserably-fail-first-big-test-against-proteas-throw-super-eights-wide-open/article70664537.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India miserably fail first big Test against Proteas, throw Super Eights wide open",
+            "bullets": [
+              "While four victories on the trot in the group stage papered over the visible lacunae, the Indian batters totally faltered on a slightly sluggish",
+              "Marco Jansen (4/22), Keshav Maharaj (3/24) and Corbin Bosch (2/12) were the wreckers-in-chief in what was a complete performance by the Proteas.",
+              "On a black soil surface where the ball was gripping, none of the Indian batters got the measure of Proteas' attack which fired collectively.",
+              "Tilak’s intention to give Marco Jansen the charge ended disastrously and he also wasted a DRS for a nick that possibly could have been"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
