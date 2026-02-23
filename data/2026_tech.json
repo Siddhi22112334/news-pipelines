@@ -181643,6 +181643,121 @@
             "impact": "Negative"
           }
         }
+      ],
+      "17:32": [
+        {
+          "item": {
+            "title": "Our commitment to make AI training available to all 6 million U.S. educators",
+            "link": "https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/",
+            "site_name": "Google",
+            "novelty_hash": "7f6a42f1c9c334474789a8bfbf02c9f3d52cb6b8"
+          },
+          "review": {
+            "headline_rewrite": "Our commitment to make AI training available to all 6 million U.S. educators",
+            "bullets": [
+              "Our commitment to make AI training available to all 6 million U.S.",
+              "educators\nAI can transform how students learn — but it can be overwhelming for educators to master this new technology on top of their already demanding workloads.",
+              "Existing AI training initiatives often require hours of time, and they don’t always clearly show how teachers can use what they’ve learned to help their students.",
+              "That’s why Google for Education is launching a landmark initiative with ISTE+ASCD to provide free, comprehensive Gemini training to all 6 million K-12 and higher education faculty in the U.S.",
+              "It’s the largest initiative of its kind, designed to help these educators and their over 74 million students safely and thoughtfully use Google’s suite of AI tools - including Gemini and NotebookLM - to thrive in a world where AI is becoming more prevalent.",
+              "Our unique approach\nThis initiative has been thoughtfully designed with training modules that are concise and flexible, specifically addressing the needs of today’s busy teachers and built by educators for educators."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How many AIs does it take to read a PDF?",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure",
+            "site_name": "The Verge",
+            "novelty_hash": "be61e54cb35ae10b83411c02b85ca460200a1c48"
+          },
+          "review": {
+            "headline_rewrite": "How many AIs does it take to read a PDF?",
+            "bullets": [
+              "Last November, the House Oversight Committee had just released 20,000 pages of documents from the estate of Jeffrey Epstein, and Luke Igel and some friends were clicking around, trying to follow the threads of conversation through garbled email threads and a PDF viewer that was, frankly, “gross.” In the coming months, the Department of Justice would release its own batches of files, more than three million of them — again, all PDFs.",
+              "How many AIs does it take to read a PDF?",
+              "While the Department of Justice had run optical character recognition over the text, it was not very good, Igel said, rendering the files more or less unsearchable.",
+              "You just had to get lucky and hope that the document ID that you were looking at contains what you’re looking for,” said Igel, cofounder of the AI video editing startup Kino.",
+              "What if, Igel thought, they built a Gmail clone to view and search all this correspondence in a more intuitive way?",
+              "To do this, they would need to extract the information contained in PDFs, which is far less straightforward than it might sound."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Taara Beam provides 25Gbps connectivity over invisible beams of light",
+            "link": "https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light",
+            "site_name": "The Verge",
+            "novelty_hash": "a6286437688dc14def95d47c0f0091fcaa4523ba"
+          },
+          "review": {
+            "headline_rewrite": "Taara Beam provides 25Gbps connectivity over invisible beams of light",
+            "bullets": [
+              "Light-based internet provider Taara, which spun out of Alphabet’s “moonshot” incubator last year, just launched Taara Beam to provide 25Gbps connectivity within cities over invisible beams of light — line of sight permitting.",
+              "Unlike last year’s Taara Lightbridge, which connects communities separated by water and mountains at distances up to 20km (over 12 miles), the shoebox-sized Beam can be mounted to street poles and roof tops for city-wide connectivity at distances up to 10km.",
+              "Lightbridge has already been deployed by the likes of T-Mobile and Airtel in over 20 countries, and Taara says it’s seeing “significant interest” in a couple of use cases for Taara Beam."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best iPad to Buy (and Some to Avoid) in 2026",
+            "link": "https://www.wired.com/gallery/the-best-ipad/",
+            "site_name": "WIRED",
+            "novelty_hash": "2f108f58150905e0334de5f9313eae85879d7b0f"
+          },
+          "review": {
+            "headline_rewrite": "The Best iPad to Buy (and Some to Avoid) in 2026",
+            "bullets": [
+              "Apple sells four main iPad models in varying sizes and each with its own strengths.",
+              "This guide covers the iPad models currently available, what’s coming up, the key differences between them, and the older versions that are still in use (including those you should avoid at any price).",
+              "Updated February 2026: We've added a section on comparing the iPad Pro with the MacBook Air, as well context on what iPads are launching soon.",
+              "The base iPad and the iPad Air launched in 2025.",
+              "The iPad Mini arrived late in 2024, so it's fairly up to date.",
+              "There are reports of a refreshed base iPad and iPad Air arriving sometimes in early 2026, with a rumored released date to be “coming soon” as of February 8."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Say Goodbye to the Undersea Cable That Made the Global Internet Possible",
+            "link": "https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/",
+            "site_name": "WIRED",
+            "novelty_hash": "e8e7e92674702e8a9a5bd2fe95aa863a9d48e601"
+          },
+          "review": {
+            "headline_rewrite": "Say Goodbye to the Undersea Cable That Made the Global Internet Possible",
+            "bullets": [
+              "The people who build and maintain the nearly 600 subsea cables that carry almost all of our intercontinental traffic—supporting just about every swipe, tap, Zoom, and doomscroll anywhere on the planet—have a love-hate relationship with this myth, which has persisted for decades.",
+              "(Who is this “we,” I always want to know?) Billions of people are able to walk around not noticing this infrastructure because of the daily work of a few thousand people, sometimes at sea, other times buried under piles of permits, surveys, and purchase orders for thousands of kilometers of cables that will join the millions of kilometers of cables on the seabed that ensure that our planet is continuously being hugged by light.",
+              "With fiber, voices become light, pulsate across spiderweb-thin strings of glass, and become voices again in your handset on the other end.",
+              "When TAT-8 went into service on December 14, 1988, the science fiction writer Isaac Asimov spoke on video link from New York to audiences in Paris and London: “Welcome everyone to this historic transatlantic crossing,” he said, “this maiden voyage across the sea on a beam of light.” AT&T made a TV ad, in which an earnest voice-over promised a “worldwide intelligent network” where people could send information in any format to anyone they want.",
+              "During the next week or so, they’ll offload 1,012 kilometers of TAT-8, resupply the ship, then set out again to pick up another load.",
+              "Up on the bridge, we meet Captain Alex Ivanov, who has been at sea for 30 years and still takes pictures of sunsets."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "9454d2a718e6aa1f27b679e27a30841a864ba4b5"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nBlue Owl Capital stock chevron_right\nHaryana government accounts targeted in IDFC First Bank fraud chevron_right\nNovo Nordisk trial results chevron_rightNovo Nordisk's obesity drug CagriSema falls short against Eli Lilly's in trial\nReuters\nBy Stine Jacobsen & Terje Solsvik\nSouth Korea's Kospi stocks chevron_rightHow Korea’s President Turned Its Market Into the World’s Best Performer\nBloomberg\nBy Soo-hyang Choi & Youkyung Lee\nUS tariffs chevron_rightKolanovic warns of reversal in overseas stocks after Trump signals tariff hike (EEM:NYSEARCA)\nSeeking Alpha\nBy Rob Williams\nBitcoin price chevron_rightBitcoin sinks below $65,000 as macro shocks rattle fragile market: analysts\nThe Block\nBy Danny Kunwoong Park\nBy Aaron Kirchfeld & Liana B Baker\nNvidia stock news chevron_rightWhat to Expect in Markets This Week: Earnings From Nvidia, Home Depot, Banks, and Berkshire; Trump Speech\nInvestopedia\nBy Terry Lane\nChapel Hill businesses after Tropical Storm Chantal chevron_rightKipos Greek Taverna reopens in Chapel Hill after Tropical Storm Chantal\nABC11 Raleigh-Durham\nBy Tom George\nUS Q4 GDP chevron_right\nJPMorgan Chase on Trump's lawsuit chevron_right\nNetflix co-CEO Ted Sarandos urges Paramount to submit a better offer chevron_right\nOhio State University medical center name change protests chevron_rightRyan Day 'likely' being briefed on how to handle Ohio State's Les Wexner mess\nScarlet and Game\nBy Andrew Hughes\nBusiness Insider\nBy Lauren S.",
+              "Edmonds\nUS Supreme Court ruling on tariffs chevron_right\nBill Gurley on career success chevron_right\nAnthropic releases new security capability for Claude Code chevron_right\nMIT develops multimaterial 3D printer for electric motors chevron_rightA Recent 3D Printing Breakthrough Brings Us One Step Closer to You Downloading a Car\nGizmodo\nBy Justin Caffier\nCompass Coffee closure chevron_right\nAI and productivity chevron_right\nThe future of AI chevron_right\nApproximately 100 PayPal accounts affected by data breach chevron_right\nOpenAI CEO Sam Altman compares human energy use to AI systems chevron_right\nTopo Chico mineral water temporarily unavailable in United States chevron_right\nLatin American stocks see fastest foreign investor inflows in a decade chevron_right\nRail Passengers on Amtrak restructuring chevron_right\nDario Amodei on his AI jobs chevron_rightNikhil Kamath announces upcoming podcast with Anthropic CEO Dario Amodei: ‘No script conversation about the tech…’\nMint\nBy Anubhav Mukherjee\nFlight delays, cancellations disrupt US airports chevron_rightMajor airlines cancel thousands of flights, travelers urged to rebook\nthestreet.com\nBy Nina Zdinjak & Celine Provini\nThe Motley Fool\nBy Sean Williams\nYahoo Finance\nAutomaker Stellantis takes €22.2 billion write-down over EVs chevron_rightEV write-downs will drive Stellantis to first annual loss since 2021 founding\nAutomotive News\nBy Luca Ciferri\nUnited Airlines credit card changes chevron_right\nUS spot Bitcoin ETFs see $3.8 billion in five-week outflows chevron_right\nBy Marco Quiroz-Gutierrez\nAnglo's De Beers diamond unit impairment chevron_right\nOpenAI spending target chevron_rightInside OpenAI’s Scramble to Get Computing Power After Stargate Stalled\nThe Information\nBy Anissa Gardizy\nForbes\nBy Billy Bambrough\nBy Pippa Stevens\nSide hustles in the workplace chevron_right\nTesla Cybertruck price chevron_right\nReport: Amazon's AI coding tool Kiro caused 13-hour outage chevron_right\nMeta Platforms announces long-term infrastructure partnership with Nvidia chevron_right\nBy Mihir Zaveri, Shayla Colon & Hurubie Meko\nWashington Reagan National Airport flight control upgrade chevron_rightDCA Airport Tower Just Ditched Paper Flight Strips—Only Took FAA 43 Years [Roundup]\nView from the Wing\nBy Gary Leff\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
