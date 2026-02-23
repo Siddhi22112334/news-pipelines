@@ -182592,6 +182592,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:25": [
+        {
+          "item": {
+            "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+            "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bca9947592446981738fd6a638ce96a0f91704ca"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+            "bullets": [
+              "Anthropic is accusing three Chinese AI companies of setting up more than 24,000 fake accounts with its Claude AI model to improve their own models.",
+              "The labs — DeepSeek, Moonshot AI, and MiniMax — allegedly generated more than 16 million exchanges with Claude through those accounts using a technique called “distillation.” Anthropic said the labs “targeted Claude’s most differentiated capabilities: agentic reasoning, tool use, and coding.”\nThe accusations come amid debates over how strictly to enforce export controls on advanced AI chips, a policy aimed at curbing China’s AI development.",
+              "Distillation is a common training method that AI labs use on their own models to create smaller, cheaper versions, but competitors can use it to essentially copy the homework of other labs.",
+              "OpenAI sent a memo to House lawmakers earlier this month accusing DeepSeek of using distillation to mimic its products.",
+              "DeepSeek is expected to soon release DeepSeek V4, its latest model, which reportedly can outperform Anthropic’s Claude and OpenAI’s ChatGPT in coding.",
+              "Anthropic tracked more than 150,000 exchanges from DeepSeek that seemed aimed at improving foundational logic and alignment, specifically around censor-ship safe alternatives to policy-sensitive queries."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Cloud AI lead on the three frontiers of model capability",
+            "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f46ee0a07d07891c768aa74d44c3053be0e496ec"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Cloud AI lead on the three frontiers of model capability",
+            "bullets": [
+              "As a product VP at Google Cloud, Michael Gerstenhaber works mostly on Vertex AI, the company’s unified platform for deploying enterprise AI.",
+              "It gives him a high-level view of how companies are actually using AI models, and what still needs to be done to unleash the potential of agentic AI.",
+              "As he put it, AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality that has less to do with raw capability than with cost — whether a model can be deployed cheaply enough to run at massive, unpredictable scale.",
+              "Why don’t you start by walking us through your experience in AI so far, and what you do at Google?",
+              "I’ve been in AI for about two years now.",
+              "I run Vertex AI, Google’s developer platform."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Billions of dollars later and still nobody knows what an Xbox is",
+            "link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+            "site_name": "The Verge",
+            "novelty_hash": "69423ebb8b73ee10777e7a55221b121c371b6504"
+          },
+          "review": {
+            "headline_rewrite": "Billions of dollars later and still nobody knows what an Xbox is",
+            "bullets": [
+              "He’ll be replaced as CEO by Asha Sharma, formerly president of Microsoft’s CoreAI Product, while Xbox Game Studios boss Matt Booty has been promoted to EVP and CCO.",
+              "One of Sharma’s commitments, she wrote in a memo, is “the return of Xbox.” But given the brand’s uncertain status right now following Spencer’s tenure, what that actually means is anybody’s guess.",
+              "Spencer took over the Xbox division in 2014, a year after the launch of the Xbox One.",
+              "And while he was popular among fans for being the rare exec who also appeared to really be passionate about games, his legacy will ultimately hinge on the transformative changes that took place around Game Pass and cloud gaming.",
+              "Despite being a comparative latecomer, Microsoft made up ground quickly in the console race against Sony and Nintendo, due in large part to its prescient focus on online play through Xbox Live.",
+              "With the follow-up Xbox 360, Microsoft found itself competing closely with the PS3, but that momentum was lost with its third console, the Xbox One, which never really recovered from a messy launch and ultimately sold less than half of what the PS4 sold."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+            "site_name": "The Verge",
+            "novelty_hash": "15a0bb02b6f58618f6286e92363f813230270dd2"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+            "bullets": [
+              "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products.",
+              "In an announcement on Monday, Anthropic says the “industrial-scale campaigns” involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal.",
+              "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI\nDeepSeek allegedly targeted Claude’s reasoning capabilities, while generating ‘censorship-safe alternatives to politically sensitive questions.’\nThe three companies — DeepSeek, MiniMax, and Moonshot — are accused of “distilling” Claude, or training a smaller AI model based on a more advanced one.",
+              "Though Anthropic says that distillation is a “legitimate training method,” it adds that it can “also be used for illicit purposes,” including “to acquire powerful capabilities from other labs in a fraction of the time, and at a fraction of the cost, that it would take to develop them independently.”\nAnthropic adds that illicitly distilled models are “unlikely” to carry over existing safeguards.",
+              "“Foreign labs that distill American models can then feed these unprotected capabilities into military, intelligence, and surveillance systems — enabling authoritarian governments to deploy frontier AI for offensive cyber operations, disinformation campaigns, and mass surveillance,” Anthropic writes.",
+              "DeepSeek, which caused a stir in the AI industry for its powerful but more efficient models, held over 150,000 exchanges with Claude and targeted its reasoning capabilities, according to Anthropic."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+            "site_name": "WIRED",
+            "novelty_hash": "c7e235ad49d38b91ec7b853bd784a6e4190dcf96"
+          },
+          "review": {
+            "headline_rewrite": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+            "bullets": [
+              "This week, Zoë Schiffer dives into why some researchers at top AI companies have been resigning and publicly voicing their concerns about AI safety.",
+              "Brian Barrett tells us why Rent-A-Human—a website where AI agents hire humans to perform various tasks—has gathered attention and controversy.",
+              "- Articles mentioned in this episode:\nOpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy\nThe Rise of RentAHuman, the Marketplace Where Bots Put People to Work\nI Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups\nBurnt Hair and Soft Power: A Night Out With Evie Magazine\nHow to Listen\nYou can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how:\nIf you're on an iPhone or iPad, open the app called Podcasts, or just tap this link.",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Zoë Schiffer: Wait, was it really bad?",
+              "It had nothing to do with the book, which is fantastic, because like I said, the book was terrible, and it was perfect."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "b8e6257454f92392d0f545551a60ae12b4eb880d"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nUS stock futures chevron_rightDow tumbles 800 points on growing fears about AI disruption, tariff drag: Live updates\nStock market today: Dow falls 800 points, S&P 500, Nasdaq slide amid Trump's new tariff threats, AI fears\nCNBC\nBy Sean Conlon & Sarah Min\nYahoo Finance\nBy Karen Friar & Jake Conley\nJailing of DJ for aircraft fraud chevron_rightEx-techno DJ jailed for global aircraft engine fraud\nFinancial Times\nBy Alistair Gray & Sylvia Pfeifer\nEli Lilly's Zepbound now available in multi-dose KwikPen chevron_right\nToday's mortgage rates chevron_right\nBinance sanctions chevron_right\nNovo Nordisk stock drop chevron_right\nGilead-Arcellx deal chevron_right\nMerck's separation of cancer business chevron_rightGirding against Keytruda cliff, Merck splits oncology into standalone business unit\nFierce Pharma\nBy Fraiser Kansteiner\nBlue Owl Capital stock chevron_right\nthestreet.com\nBy Nina Zdinjak & Celine Provini\nUnited States Space Development Agency contract awarded to AST SpaceMobile chevron_right\nOil prices in US-Iran talks chevron_right\nParamount's bid for Warner Bros Discovery chevron_rightParamount Is Expected to Raise Price of Warner Bros.",
+              "It could set off a chain reaction\nMark Zuckerberg’s entourage threatened with contempt for wearing Meta AI glasses into a no-recording courtroom\nCNN\nBy Clare Duffy\nFortune\nBy Jacqueline Munis\nBy Jake Conley\nBain on Private Equity's slump chevron_right\nBitcoin price chevron_rightBitcoin sinks below $65,000 as macro shocks rattle fragile market: analysts\nThe Block\nBy Danny Kunwoong Park\nBloomberg\nBy Soo-hyang Choi & Youkyung Lee\nBy William Sandlund & Daniel Tudor\nAMC earnings chevron_right\nAI investment in the US economy chevron_rightThis economic idea transfixed Wall Street and Washington.",
+              "The Washington Post\nBy Shira Ovide\nOpenAI CEO Sam Altman compares human energy use to AI systems chevron_rightSam Altman compares AI energy use to the cost of \"training\" humans, says water-usage concerns are \"fake\"\nSam Altman defends AI resource usage: Water concerns 'fake,' and 'humans use energy too'\nTechSpot\nBy Rob Thubron\nBy Dylan Butts\nAnthropic's Claude Security Tool chevron_right\nBy Ethan Beck\nJPMorgan Chase on Trump's lawsuit chevron_rightJPMorgan admits it closed Trump's accounts after Jan.",
+              "6 attack amid $5 billion debanking lawsuit\nBy Ken Sweet\nMichael Burry questions sustainability of big tech AI spending chevron_rightMoody’s alert cites gap in data centre accounting for Big Tech companies\nBy Stephen Foley\nCenterview Partners settles lawsuit over analyst working hours chevron_rightElite investment bank settles case that put Wall Street's 100-hour weeks on trial\nBusiness Insider\nBy Alice Tecotzky & Katherine Tangalakis-Lippert\nDog abandoned at Las Vegas airport adopted by police officer chevron_rightDog abandoned at airport ticket counter is adopted by responding officer\nBy Kyle Melnick\nXRP price chevron_rightXRP About to Print 5 Consecutive Red Monthly Candles: XRP Price Spiked 60,000% Last Time It Happened\n24/7 Wall St.",
+              "By Sam Daodu\nInvestors withdraw $3.8 billion from US-listed spot bitcoin ETFs chevron_rightBitcoin (BTC) news today: ETFs bleed $3.8 billion in historic five-week outflow streak\nCoinDesk\nBy omkar godbole\nChina's AI industry chevron_right\nElon Musk on data centers in space chevron_rightSam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous'\nBy Lauren S.",
+              "to release fourth-quarter earnings report on February 25 chevron_right\nCoca-Cola confirms Topo Chico mineral water shortage in US chevron_rightTopo Chico Mineral Water temporarily unavailable in U.S., company says\nSan Antonio Express-News\nBy Suryatapa Chakraborty\nRosina Food Products recalls meatballs sold at Aldi nationwide chevron_rightRosina Food Products, Inc."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
