@@ -182350,5 +182350,131 @@
         }
       ]
     }
+  },
+  "2026-02-24": {
+    "runs": {
+      "00:32": [
+        {
+          "item": {
+            "title": "OpenAI calls in the consultants for its enterprise push",
+            "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3fa64f16b434d5900034c1d9a52c682c58cea189"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI calls in the consultants for its enterprise push",
+            "bullets": [
+              "OpenAI is beefing up partnerships with four major consulting giants as the AI company looks to grow its enterprise business in 2026.",
+              "OpenAI announced on Monday the “Frontier Alliance,” a signal that the AI lab is willing to try different approaches to get enterprises to meaningfully adopt its technology.",
+              "The alliance includes multi-year partnerships between OpenAI and four major consulting firms, Boston Consulting Group (BCG), McKinsey, Accenture and Capgemini, to sell its enterprise products.",
+              "OpenAI’s Forward Deployed Engineering team will work with the consulting giants to help them implement OpenAI’s enterprise-focused technologies like OpenAI Frontier into customers’ tech stacks.",
+              "The company launched OpenAI Frontier in early February.",
+              "The no-code open software allows users to build, deploy, and manage AI agents both built on OpenAI’s AI models and beyond."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Guide Labs debuts a new kind of interpretable LLM",
+            "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d0f283d82819f6794a71c317a0f4b4ce2e49a3b6"
+          },
+          "review": {
+            "headline_rewrite": "Guide Labs debuts a new kind of interpretable LLM",
+            "bullets": [
+              "The challenge of wrangling a deep learning model is often understanding why it does what it does: Whether it’s xAI’s repeated struggle sessions to fine-tune Grok’s odd politics, ChatGPT’s struggles with sycophancy, or run-of-the-mill hallucinations, plumbing through a neural network with billions of parameters isn’t easy.",
+              "Guide Labs, a San Francisco start-up founded by CEO Julius Adebayo and chief science officer Aya Abdelsalam Ismail, is offering an answer to that problem today.",
+              "On Monday, the company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable: Every token produced by the model can be traced back to its origins in the LLM’s training data.",
+              "“You can do it with current models, but it’s very fragile … It’s sort of one of the holy grail questions.”\nAdebayo began this work while earning his PhD at MIT, co-authoring a widely cited 2018 paper that showed existing methods of understanding deep learning models were not reliable.",
+              "That work ultimately led to the creation of a new way of building LLMs: Developers insert a concept layer in the model that buckets data into traceable categories.",
+              "This requires more up front data annotation, but by using other AI models to help, they were able to train this model as their largest proof of concept yet."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New Microsoft gaming chief has \"no tolerance for bad AI\"",
+            "link": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "6bbddf04fa16991dcfd4d2215e1d4a63ef713fc7"
+          },
+          "review": {
+            "headline_rewrite": "New Microsoft gaming chief has \"no tolerance for bad AI\"",
+            "bullets": [
+              "Last week’s surprise departure of Phil Spencer from Microsoft led to the promotion of Asha Sharma, who comes to head Microsoft’s gaming division after two years as president of the company’s CoreAI Product group.",
+              "Despite that recent history, Sharma says in a new interview that she has “no tolerance for bad AI” in game development.",
+              "Speaking with Variety, Sharma noted that “AI has long been part of gaming and will continue to be,” before adding that “great stories are created by humans.” The interview comes after Sharma promised in an introductory memo: “We will not chase short-term efficiency or flood our ecosystem with soulless AI slop.",
+              "Games are and always will be art, crafted by humans, and created with the most innovative technology provided by us.”\nThose statements seem like a clear line in the sand from Sharma against the use of AI tools in Microsoft’s first-party game development, at the very least.",
+              "But what separates “bad AI” and “soulless AI slop” from “innovative technology” that humans can use to create artful games is a matter of some significant debate in the gaming world.",
+              "Many have taken a zero-tolerance approach to the use of generative AI tools in video games."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s newest AirTags are already on sale if you’re looking to upgrade",
+            "link": "https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "7f91ea2232a27dfbf05dbe1468f7e47fd26a771c"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s newest AirTags are already on sale if you’re looking to upgrade",
+            "bullets": [
+              "Less than a month after making their debut, Apple’s second-gen AirTags are already receiving their first discount.",
+              "Apple’s newest AirTags are already on sale if you’re looking to upgrade\nThe new item trackers offer greater precision and range, making it easier to find your belongings.",
+              "Apple’s original AirTag has been our favorite tracker for iPhone users for years, and the newest version builds upon that excellence with some welcome improvements.",
+              "What has always set the AirTag apart is Apple’s ultra wideband chip, which allows for an impressive level of precision that competing products like the Tile Pro can’t match.",
+              "The company’s new, upgraded chip still guides you straight to misplaced items with on-screen arrows, vibrations, and sounds, but now from up to 50 percent farther away.",
+              "The extended range also makes tracking items in multi-story homes much more reliable, and even makes it faster to connect the AirTag to your phone."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The creators of Dark Sky have a new weather app that shares multiple predictions",
+            "link": "https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription",
+            "site_name": "The Verge",
+            "novelty_hash": "9437a8d4be4a5a5a5c39bbe7a88c8f95d5751319"
+          },
+          "review": {
+            "headline_rewrite": "The creators of Dark Sky have a new weather app that shares multiple predictions",
+            "bullets": [
+              "Their new app, called Acme Weather, embraces the fact that forecasts will never be entirely accurate by providing both a main prediction of the day’s conditions and several alternate predictions.",
+              "The creators of Dark Sky have a new weather app that shares multiple predictions\nAcme Weather is available now for iOS with a $25 annual subscription, but an Android version is also planned.",
+              "Acme Weather is currently only available for iOS.",
+              "Dark Sky cost $3.99 when it was a third-party app, but Acme Weather’s creators claim their new app will provide better forecasts and more weather info than Dark Sky did, sourced from satellite data, ground station observations, and radar data.",
+              "To expand the information available through the app during active weather events, Acme Weather also allows users to report conditions where they’re located, which appear on a map as simple icons.",
+              "Community-reported conditions are joined by other maps featuring radar, lightning, rain and snow amounts, wind, temperature, humidity, storm tracks, and cloud cover, which are included with forecasts based on their relevancy to predicted conditions."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Falcon Northwest FragBox review: A compact gaming rig that does everything right",
+            "link": "https://www.engadget.com/computing/falcon-northwest-fragbox-review-a-compact-gaming-rig-that-does-everything-right-130000837.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9f81f65a183f6e77f64eb9e9422726b6b8073aa5"
+          },
+          "review": {
+            "headline_rewrite": "Falcon Northwest FragBox review: A compact gaming rig that does everything right",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "I know what you're thinking: \"A $4,000 desktop, in this economy?\" That pricing also doesn't include upgrading from the stock NVIDIA's RTX 5070 GPU, as well as adding more RAM and larger SSDs, all of which could drive the price up thousands more.",
+              "I initially planned to review the FragBox back in early December 2025, before the AI-induced RAMaggedon made memory, storage and other components dramatically more expensive.",
+              "Falcon Northwest is mainly known as a boutique and high-end system builder, so its wealthier clientele can likely weather the pricing storm.",
+              "That's still a main selling point today: It can still fit in large NVIDIA GPUs, including the beefy RTX 5090, as well as either Intel's latest Core Ultra chips or AMD's Ryzen 9000 CPUs.",
+              "A huge 280mm radiator sits at the top pulling out hot air, and it also serves as an All-in-One (AIO) liquid cooler for the CPU."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
