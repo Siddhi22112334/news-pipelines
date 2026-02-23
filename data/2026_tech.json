@@ -182832,6 +182832,100 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:11": [
+        {
+          "item": {
+            "title": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic",
+            "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "442ab6095867a5d56d6436e78ee13dec16d8f196"
+          },
+          "review": {
+            "headline_rewrite": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic",
+            "bullets": [
+              "With OpenAI on the verge of finalizing a new $100 billion round, and Anthropic just closing its own monster $30 billion raise, one thing is clear: the concept of investor “loyalty” is only hanging on by a thread.",
+              "At least a dozen direct investors in OpenAI were announced as backers in Anthropic’s $30 billion raise earlier this month, including Founders Fund, Iconiq, Insight Partners, and Sequoia Capital.",
+              "Affiliated funds of BlackRock joined in Anthropic’s $30 billion raise even though BlackRock’s senior managing director and board member Adebayo Ogunlesi is also on OpenAI’s board of directors.",
+              "In that world, it’s true that if various BlackRock funds get a chance to own OpenAI stock, they are likely to take it, never mind the personal association of a member of their senior leadership.",
+              "And we all know the history of OpenAI and Microsoft’s relationship and why Microsoft is hedging its bets.",
+              "But venture capital funds have — until now — operated differently."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "6 Best Duffel Bags We Tested While Traveling (2026)",
+            "link": "https://www.wired.com/gallery/best-duffel-bags/",
+            "site_name": "WIRED",
+            "novelty_hash": "7bf90a50b54111506c4ab25d0e65421339a676c4"
+          },
+          "review": {
+            "headline_rewrite": "6 Best Duffel Bags We Tested While Traveling (2026)",
+            "bullets": [
+              "The best practice would be to look at your specific airline size requirements, and double-check your packed bag before going.",
+              "I've successfully used an underpacked duffel bag as a personal item before, but again, it sort of depends on your flight, the airline, and how cool the plane staff is."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic accuses three Chinese AI labs of abusing Claude to improve their own models",
+            "link": "https://www.engadget.com/ai/anthropic-accuses-three-chinese-ai-labs-of-abusing-claude-to-improve-their-own-models-205210613.html",
+            "site_name": "Engadget",
+            "novelty_hash": "64d82f99987d0fbf0531e616287201e5d5e80bce"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic accuses three Chinese AI labs of abusing Claude to improve their own models",
+            "bullets": [
+              "Anthropic is issuing a call to action against AI \"distillation attacks,\" after accusing three AI companies of misusing its Claude chatbot.",
+              "On its website, Anthropic claimed that DeepSeek, Moonshot and MiniMax have been conducting \"industrial-scale campaigns…to illicitly extract Claude’s capabilities to improve their own models.\"\nDistillation in the AI world refers to when less capable models lean on the responses of more powerful ones to train themselves.",
+              "While distillation isn't a bad thing across the board, Anthropic said that these types of attacks can be used in a more nefarious way.",
+              "According to Anthropic, these three Chinese AI firms were responsible for more than \"16 million exchanges with Claude through approximately 24,000 fraudulent accounts.\" From Anthropic's perspective, these competing companies were using Claude as a shortcut to develop more advanced AI models, which could also lead to circumventing certain safeguards.",
+              "Anthropic said in its post that it was able to link each of these distilling attack campaigns to the specific companies with \"high confidence\" thanks to IP address correlation, metadata requests and infrastructure indicators, along with corroborating with others in the AI industry who have noticed similar behaviors.",
+              "Early last year, OpenAI made similar claims of rival firms distilling its models and banned suspected accounts in response."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 23, 2026 Anthropic CEO Dario Amodei gets summoned from Pentagon for 'not a friendly meeting' The Pentagon is demanding full access to Anthropic's AI model, Claude, for military use, clashing with the company's safety safeguards. Defence Secretary Hegseth is reportedly issuing an ultimatum to Anthropic CEO Amodei, threatening contract cancellations if restrictions on mass surveillance and autonomous weapons aren't lifted. This high-stakes meeting highlights a significant ideological divide.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-gets-summoned-from-pentagon-for-not-a-friendly-meeting/articleshow/128722217.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "8a75bc0f230058095b43b796a1c97f3b3b3ec5e5"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 23, 2026 Anthropic CEO Dario Amodei gets summoned from Pentagon for 'not a friendly meeting' The Pentagon is demanding full access to Anthropic's AI model, Claude, for military use, clashing with the company's safety safeguards. Defence Secretary Hegseth is reportedly issuing an ultimatum to Anthropic CEO Amodei, threatening contract cancellations if restrictions on mass surveillance and autonomous weapons aren't lifted. This high-stakes meeting highlights a significant ideological divide.",
+            "bullets": [
+              "Sources claim that this meeting will be anything but routine.",
+              "In a statement to Axios, a senior official from the US Department of Defence said,\n\"Anthropic knows this is not a get-to-know-you meeting.",
+              "This is a sh*t-or-get-off-the-pot meeting\".The meeting centres on terms for military use of Anthropic's Claude, the only AI model currently available in the military's classified systems and the one used for sensitive defence and intelligence work.",
+              "The Pentagon, while unwilling to lose access to Claude, is said to be furious with Anthropic for refusing to lift its safeguards fully.",
+              "The two sides appear to be heading into the meeting at an impasse, with an Anthropic spokesperson saying the company is\n\"having productive conversations, in good faith.\" Meanwhile\n, US Department of Defence officials say negotiations have shown no progress and are on the verge of breaking down, the Axios report noted.",
+              "What Anthropic said about the Pentagon meeting with Pete Hegseth\nAnthropic has said it is willing to loosen its usage restrictions but wants to draw a firm line around two areas: the mass surveillance of Americans and the development of weapons that fire without human involvement."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
