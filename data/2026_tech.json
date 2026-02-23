@@ -182714,6 +182714,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:15": [
+        {
+          "item": {
+            "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+            "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bca9947592446981738fd6a638ce96a0f91704ca"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+            "bullets": [
+              "Anthropic is accusing three Chinese AI companies of setting up more than 24,000 fake accounts with its Claude AI model to improve their own models.",
+              "The labs — DeepSeek, Moonshot AI, and MiniMax — allegedly generated more than 16 million exchanges with Claude through those accounts using a technique called “distillation.” Anthropic said the labs “targeted Claude’s most differentiated capabilities: agentic reasoning, tool use, and coding.”\nThe accusations come amid debates over how strictly to enforce export controls on advanced AI chips, a policy aimed at curbing China’s AI development.",
+              "Distillation is a common training method that AI labs use on their own models to create smaller, cheaper versions, but competitors can use it to essentially copy the homework of other labs.",
+              "OpenAI sent a memo to House lawmakers earlier this month accusing DeepSeek of using distillation to mimic its products.",
+              "DeepSeek is expected to soon release DeepSeek V4, its latest model, which reportedly can outperform Anthropic’s Claude and OpenAI’s ChatGPT in coding.",
+              "Anthropic tracked more than 150,000 exchanges from DeepSeek that seemed aimed at improving foundational logic and alignment, specifically around censor-ship safe alternatives to policy-sensitive queries."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+            "link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eefd7e1a9befc735bf85f0b6093e3c8425186644"
+          },
+          "review": {
+            "headline_rewrite": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+            "bullets": [
+              "The team recently announced the launch of their new app, Acme Weather, which they claim offers a better and more reliable forecast than the one they had at Dark Sky.",
+              "The app will also offer a range of unique weather notifications, including fun ones like alerts about rainbows and beautiful sunsets.",
+              "Dark Sky co-founder Adam Grossman explains in an introductory blog post that the app’s homegrown forecasts will leverage different numerical weather prediction models, satellite data, ground station observations, and radar data, making its forecast fairly reliable.",
+              "“And our biggest pet peeve with a lot of weather apps is you just get their best guess, and you don’t know how certain they are.”\nHaving an understanding of the alternatives helps people plan for big events, he noted.",
+              "“I find it most useful for winter storms, where, maybe the storm starts out in the morning, and you’re going to get snow, but maybe there’s also a possibility it holds out a little bit later — to the afternoon — in which case it’s rain,” Gross explained.",
+              "Or do half of them say snow and half of them say rain?”,” he says.”\nThis type of weather data could make for a valuable product, not just for consumers, but for other developers, too."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Billions of dollars later and still nobody knows what an Xbox is",
+            "link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+            "site_name": "The Verge",
+            "novelty_hash": "69423ebb8b73ee10777e7a55221b121c371b6504"
+          },
+          "review": {
+            "headline_rewrite": "Billions of dollars later and still nobody knows what an Xbox is",
+            "bullets": [
+              "He’ll be replaced as CEO by Asha Sharma, formerly president of Microsoft’s CoreAI Product, while Xbox Game Studios boss Matt Booty has been promoted to EVP and CCO.",
+              "One of Sharma’s commitments, she wrote in a memo, is “the return of Xbox.” But given the brand’s uncertain status right now following Spencer’s tenure, what that actually means is anybody’s guess.",
+              "Spencer took over the Xbox division in 2014, a year after the launch of the Xbox One.",
+              "And while he was popular among fans for being the rare exec who also appeared to really be passionate about games, his legacy will ultimately hinge on the transformative changes that took place around Game Pass and cloud gaming.",
+              "Despite being a comparative latecomer, Microsoft made up ground quickly in the console race against Sony and Nintendo, due in large part to its prescient focus on online play through Xbox Live.",
+              "With the follow-up Xbox 360, Microsoft found itself competing closely with the PS3, but that momentum was lost with its third console, the Xbox One, which never really recovered from a messy launch and ultimately sold less than half of what the PS4 sold."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+            "site_name": "The Verge",
+            "novelty_hash": "15a0bb02b6f58618f6286e92363f813230270dd2"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+            "bullets": [
+              "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products.",
+              "In an announcement on Monday, Anthropic says the “industrial-scale campaigns” involved the creation of around 24,000 fraudulent accounts and more than 16 million exchanges with Claude, as reported earlier by The Wall Street Journal.",
+              "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI\nDeepSeek allegedly targeted Claude’s reasoning capabilities, while generating ‘censorship-safe alternatives to politically sensitive questions.’\nThe three companies — DeepSeek, MiniMax, and Moonshot — are accused of “distilling” Claude, or training a smaller AI model based on a more advanced one.",
+              "Though Anthropic says that distillation is a “legitimate training method,” it adds that it can “also be used for illicit purposes,” including “to acquire powerful capabilities from other labs in a fraction of the time, and at a fraction of the cost, that it would take to develop them independently.”\nAnthropic adds that illicitly distilled models are “unlikely” to carry over existing safeguards.",
+              "“Foreign labs that distill American models can then feed these unprotected capabilities into military, intelligence, and surveillance systems — enabling authoritarian governments to deploy frontier AI for offensive cyber operations, disinformation campaigns, and mass surveillance,” Anthropic writes.",
+              "DeepSeek, which caused a stir in the AI industry for its powerful but more efficient models, held over 150,000 exchanges with Claude and targeted its reasoning capabilities, according to Anthropic."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic accuses three Chinese AI labs of abusing Claude to improve their own models",
+            "link": "https://www.engadget.com/ai/anthropic-accuses-three-chinese-ai-labs-of-abusing-claude-to-improve-their-own-models-205210613.html",
+            "site_name": "Engadget",
+            "novelty_hash": "64d82f99987d0fbf0531e616287201e5d5e80bce"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic accuses three Chinese AI labs of abusing Claude to improve their own models",
+            "bullets": [
+              "Anthropic is issuing a call to action against AI \"distillation attacks,\" after accusing three AI companies of misusing its Claude chatbot.",
+              "On its website, Anthropic claimed that DeepSeek, Moonshot and MiniMax have been conducting \"industrial-scale campaigns…to illicitly extract Claude’s capabilities to improve their own models.\"\nDistillation in the AI world refers to when less capable models lean on the responses of more powerful ones to train themselves.",
+              "While distillation isn't a bad thing across the board, Anthropic said that these types of attacks can be used in a more nefarious way.",
+              "According to Anthropic, these three Chinese AI firms were responsible for more than \"16 million exchanges with Claude through approximately 24,000 fraudulent accounts.\" From Anthropic's perspective, these competing companies were using Claude as a shortcut to develop more advanced AI models, which could also lead to circumventing certain safeguards.",
+              "Anthropic said in its post that it was able to link each of these distilling attack campaigns to the specific companies with \"high confidence\" thanks to IP address correlation, metadata requests and infrastructure indicators, along with corroborating with others in the AI industry who have noticed similar behaviors.",
+              "Early last year, OpenAI made similar claims of rival firms distilling its models and banned suspected accounts in response."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
