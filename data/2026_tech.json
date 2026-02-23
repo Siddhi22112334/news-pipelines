@@ -182474,6 +182474,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:32": [
+        {
+          "item": {
+            "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+            "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bca9947592446981738fd6a638ce96a0f91704ca"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+            "bullets": [
+              "Anthropic is accusing three Chinese AI companies of setting up more than 24,000 fake accounts with its Claude AI model to improve their own models.",
+              "The labs — DeepSeek, Moonshot AI, and MiniMax — allegedly generated more than 16 million exchanges with Claude through those accounts using a technique called “distillation.” Anthropic said the labs “targeted Claude’s most differentiated capabilities: agentic reasoning, tool use, and coding.”\nThe accusations come amid debates over how strictly to enforce export controls on advanced AI chips, a policy aimed at curbing China’s AI development.",
+              "Distillation is a common training method that AI labs use on their own models to create smaller, cheaper versions, but competitors can use it to essentially copy the homework of other labs.",
+              "OpenAI sent a memo to House lawmakers earlier this month accusing DeepSeek of using distillation to mimic its products.",
+              "DeepSeek is expected to soon release DeepSeek V4, its latest model, which reportedly can outperform Anthropic’s Claude and OpenAI’s ChatGPT in coding.",
+              "Anthropic tracked more than 150,000 exchanges from DeepSeek that seemed aimed at improving foundational logic and alignment, specifically around censor-ship safe alternatives to policy-sensitive queries."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Cloud AI lead on the three frontiers of model capability",
+            "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "fab63222377a370601256f01942f8da2acbd91c2"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Cloud AI lead on the three frontiers of model capability",
+            "bullets": [
+              "As a product VP at Google Cloud, Michael Gerstenhaber works mostly on Vertex, the company’s unified platform for deploying enterprise AI.",
+              "It gives him a high-level view of how companies are actually using AI models, and what still needs to be done to unleash the potential of agentic AI.",
+              "As he put it, AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality that has less to do with raw capability than with cost — whether a model can be deployed cheaply enough to run at massive, unpredictable scale.",
+              "Why don’t you start by walking us through your experience in AI so far, and what you do at Google?",
+              "I’ve been in AI for about two years now.",
+              "That’s for Shopify, Thomson Reuters, and our various customers to provide in their own domains."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+            "site_name": "WIRED",
+            "novelty_hash": "c7e235ad49d38b91ec7b853bd784a6e4190dcf96"
+          },
+          "review": {
+            "headline_rewrite": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+            "bullets": [
+              "This week, Zoë Schiffer dives into why some researchers at top AI companies have been resigning and publicly voicing their concerns about AI safety.",
+              "Brian Barrett tells us why Rent-A-Human—a website where AI agents hire humans to perform various tasks—has gathered attention and controversy.",
+              "- Articles mentioned in this episode:\nOpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy\nThe Rise of RentAHuman, the Marketplace Where Bots Put People to Work\nI Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups\nBurnt Hair and Soft Power: A Night Out With Evie Magazine\nHow to Listen\nYou can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how:\nIf you're on an iPhone or iPad, open the app called Podcasts, or just tap this link.",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Zoë Schiffer: Wait, was it really bad?",
+              "It had nothing to do with the book, which is fantastic, because like I said, the book was terrible, and it was perfect."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s newest AirTags are already on sale if you’re looking to upgrade",
+            "link": "https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "7f91ea2232a27dfbf05dbe1468f7e47fd26a771c"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s newest AirTags are already on sale if you’re looking to upgrade",
+            "bullets": [
+              "Less than a month after making their debut, Apple’s second-gen AirTags are already receiving their first discount.",
+              "Apple’s newest AirTags are already on sale if you’re looking to upgrade\nThe new item trackers offer greater precision and range, making it easier to find your belongings.",
+              "Apple’s original AirTag has been our favorite tracker for iPhone users for years, and the newest version builds upon that excellence with some welcome improvements.",
+              "What has always set the AirTag apart is Apple’s ultra wideband chip, which allows for an impressive level of precision that competing products like the Tile Pro can’t match.",
+              "The company’s new, upgraded chip still guides you straight to misplaced items with on-screen arrows, vibrations, and sounds, but now from up to 50 percent farther away.",
+              "The extended range also makes tracking items in multi-story homes much more reliable, and even makes it faster to connect the AirTag to your phone."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Falcon Northwest FragBox review: A compact gaming rig that does everything right",
+            "link": "https://www.engadget.com/computing/falcon-northwest-fragbox-review-a-compact-gaming-rig-that-does-everything-right-130000837.html",
+            "site_name": "Engadget",
+            "novelty_hash": "9f81f65a183f6e77f64eb9e9422726b6b8073aa5"
+          },
+          "review": {
+            "headline_rewrite": "Falcon Northwest FragBox review: A compact gaming rig that does everything right",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "I know what you're thinking: \"A $4,000 desktop, in this economy?\" That pricing also doesn't include upgrading from the stock NVIDIA's RTX 5070 GPU, as well as adding more RAM and larger SSDs, all of which could drive the price up thousands more.",
+              "I initially planned to review the FragBox back in early December 2025, before the AI-induced RAMaggedon made memory, storage and other components dramatically more expensive.",
+              "Falcon Northwest is mainly known as a boutique and high-end system builder, so its wealthier clientele can likely weather the pricing storm.",
+              "That's still a main selling point today: It can still fit in large NVIDIA GPUs, including the beefy RTX 5090, as well as either Intel's latest Core Ultra chips or AMD's Ryzen 9000 CPUs.",
+              "A huge 280mm radiator sits at the top pulling out hot air, and it also serves as an All-in-One (AIO) liquid cooler for the CPU."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nothing reveals the Phone 4a ahead of schedule",
+            "link": "https://www.engadget.com/mobile/smartphones/nothing-reveals-the-phone-4a-ahead-of-schedule-181905011.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d201a888db00be093b600d9326b689b183d1c01e"
+          },
+          "review": {
+            "headline_rewrite": "Nothing reveals the Phone 4a ahead of schedule",
+            "bullets": [
+              "It's been reported that the Nothing Phone 4a will feature a Snapdragon 7-series chip and that the reveal will be accompanied by a Pro model with a more powerful camera.",
+              "The Nothing Phone 3a was also launched alongside the 3a Pro."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
