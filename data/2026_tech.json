@@ -182112,6 +182112,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:45": [
+        {
+          "item": {
+            "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+            "link": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "a6242587192cfd018b5983159336b01d5b236097"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+            "bullets": [
+              "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud.",
+              "Unlike traditional IT environments that manage data and applications, OT systems control real-world processes where cyber incidents can have immediate consequences for safety, availability and operational continuity.",
+              "NVIDIA is collaborating with leading cybersecurity providers Akamai, Forescout, Palo Alto Networks and Xage Security, as well as industrial automation innovator Siemens, to bring accelerated computing and AI to OT cybersecurity, advancing real-time threat detection and response across critical infrastructure.",
+              "These efforts represent a fundamental shift in OT and ICS cybersecurity, where security is embedded into and distributed across infrastructure, enforced at the edge and coordinated through centralized, AI-driven intelligence, bringing modern cybersecurity to the systems that keep the physical world running.",
+              "Forescout and NVIDIA Bring Zero Trust to OT and ICS Environments\nZero trust is a security model that removes implicit trust from networks.",
+              "Legacy devices, proprietary protocols and safety-critical operations limit the use of intrusive controls or AI-driven enforcement, even as increased connectivity to IT and cloud environments expands the attack surface."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+            "link": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a3c63c9ec53816ad4172e3a98ca7698b9b177e84"
+          },
+          "review": {
+            "headline_rewrite": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+            "bullets": [
+              "The meeting comes as the Pentagon threatens to declare Anthropic a “supply chain risk” — a label typically reserved for foreign adversaries — after the AI firm refused to allow the Department of Defense to use its tech for the mass surveillance of Americans and the development of weapons that fire without human involvement.",
+              "Anthropic signed a $200 million contract with DOD last summer, and Claude was reportedly used during the January 3 special operations raid that resulted in the capture of Venezuelan president Nicolás Maduro, an episode that brought the two sides’ tensions into the open.",
+              "But the stakes are real: a supply chain risk designation would void Anthropic’s contract and force other Pentagon partners to drop Claude entirely."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report",
+            "link": "https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "12b54156596a4ffb682c06c62c77403c0e68d9ee"
+          },
+          "review": {
+            "headline_rewrite": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report",
+            "bullets": [
+              "In February 2021, software giant Ivanti discovered that Chinese hackers had breached the network of Pulse Secure, one of its subsidiaries that provided VPN appliances to dozens of companies and government agencies around the world, according to new reporting by Bloomberg.",
+              "The hackers exploited a secret backdoor they had planted in Pulse Secure’s VPN software, Bloomberg reported, citing Ivanti’s chief security officer at the time and other sources.",
+              "The backdoor allowed the hackers to gain access to 119 other unnamed organizations that used the company’s same VPN product.",
+              "Mandiant was reportedly aware of the breaches as well, alerting Ivanti that hackers had exploited the bug to breach European and U.S.",
+              "The previously unreported breach is the latest example of how acquisitions, layoffs, and cost-cutting driven by private equity firms helped to compromise the quality and security of Ivanti’s most critical technologies.",
+              "After private investment giant Clearlake Capital Group acquired Ivanti in 2017, Bloomberg reported rounds of cuts — particularly in 2022 — affecting employees who had deep institutional knowledge of the company’s products and their security."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Inside Microsoft’s big Xbox leadership shake-up",
+            "link": "https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad",
+            "site_name": "The Verge",
+            "novelty_hash": "f57b822bc749b25224920998d4adc2c233f02bc2"
+          },
+          "review": {
+            "headline_rewrite": "Inside Microsoft’s big Xbox leadership shake-up",
+            "bullets": [
+              "Instead of picking Bond for the role, Microsoft promoted Asha Sharma, a former Microsoft AI executive, to the top of Xbox.",
+              "The giant Activision Blizzard acquisition had dragged on for far longer than Microsoft had anticipated, and the need to grow the business saw Microsoft walk away from Xbox-exclusive games in favor of a multiplatform strategy.",
+              "Choudhry was key to Xbox’s backward compatibility support and helped bring Xbox Cloud Gaming to life as xCloud in 2019.",
+              "A month later, Microsoft delivered a marketing campaign that signalled people didn’t need to buy an Xbox console anymore.",
+              "The message was that “you don’t need an Xbox to play Xbox,” because games were available through Xbox Cloud Gaming on TVs.",
+              "Months later the “This is an Xbox” campaign launched, with commercials that positioned a phone or a tablet as an Xbox instead of just a console."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
+            "link": "https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out",
+            "site_name": "The Verge",
+            "novelty_hash": "1325c3039d06f41dd66ac51b63de9f67f3e24800"
+          },
+          "review": {
+            "headline_rewrite": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
+            "bullets": [
+              "Last summer, Microsoft responded to rumors of Spencer’s retirement, saying at the time that he was “not retiring anytime soon.” Microsoft’s CoreAI president, Asha Sharma, will be moving into Spencer’s former role as Microsoft Gaming CEO, while Matt Booty is being promoted to EVP and chief content officer.",
+              "Her previous role at Microsoft was AI-focused, and here’s what she has to say about utilizing AI for games:\nAs monetization and AI evolve and influence this future, we will not chase short-term efficiency or flood our ecosystem with soulless AI slop.",
+              "His replacement: Asha Sharma, formerly head of development for Microsoft’s AI enterprise teams.",
+              "Asha Sharma, currently the president of CoreAI product at Microsoft, is stepping into the Microsoft Gaming CEO role, reporting directly to Microsoft CEO Satya Nadella.",
+              "Asha Sharma, currently president of CoreAI product, is taking over as CEO of Microsoft Gaming.",
+              "In a note to employees that she shared on LinkedIn late Friday, Bond writes that she will “remain on as a Special Advisor to Asha to help ensure a smooth transition and set the organization up for continued success.”\nRead Article >\nMost Popular\n- Anker’s X1 Pro shouldn’t exist, but I’m so glad it does\n- Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice\n- Stellantis is in a crisis of its own making\n- Georgia says Elon Musk’s America PAC violated election law\n- Turtle Beach’s new PC controller with swiveling sticks is 30 percent off"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The creators of Dark Sky have a new weather app",
+            "link": "https://www.engadget.com/apps/the-creators-of-dark-sky-have-a-new-weather-app-155426063.html",
+            "site_name": "Engadget",
+            "novelty_hash": "a80cea1df64f44dc01e3908d217184a4b605d9ce"
+          },
+          "review": {
+            "headline_rewrite": "The creators of Dark Sky have a new weather app",
+            "bullets": [
+              "The release comes after Apple's 2020 acquisition of Dark Sky, which it ultimately shut down in 2022 after integrating much of its tech into the native iOS Weather app.",
+              "Acme Weather is primarily designed to address the uncertainty inherent in most forecasts, as different models yield disparate results and no two weather apps seem to report the same thing.",
+              "Like most weather apps, there is also a map component with layers for radar, lightning, rain and snow totals, wind and more.",
+              "Grossman says they are comprehensive and should help you avoid getting caught in the rain unawares.",
+              "Notifications also include community reports, government weather alerts and even experimental tools from \"Acme Labs\" like rainbow and beautiful sunset alerts.",
+              "The iOS version is available now and an Android is forthcoming."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
