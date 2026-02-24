@@ -183001,6 +183001,81 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "07:27": [
+        {
+          "item": {
+            "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+            "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c297ce82d0885e3a31278bb4203a2ff3fc2171d3"
+          },
+          "review": {
+            "headline_rewrite": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+            "bullets": [
+              "The now-viral X post from Meta AI security researcher Summer Yue reads, at first, like satire.",
+              "She told her OpenClaw AI agent to check her overstuffed email inbox and suggest what to delete or archive.",
+              "It started deleting all her email in a “speed run” while ignoring her commands from her phone telling it to stop.",
+              "(The Mini is selling “like hotcakes,” one “confused” Apple employee apparently told famed AI researcher Andrej Karpathy when he bought one to run an OpenClaw alternative called NanoClaw.)\nOpenClaw is, of course, the open source AI agent that achieved fame through Moltbook, an AI-only social network.",
+              "OpenClaw agents were at the center of that now largely debunked episode on Moltbook in which it looked like the AIs were plotting against humans.",
+              "It aims to be a personal AI assistant that runs on your own devices."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
+            "link": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "30199aaf09dab0f6f297235bd5713fc43c722a73"
+          },
+          "review": {
+            "headline_rewrite": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
+            "bullets": [
+              "Tesla has filed a lawsuit against the California Department of Motor Vehicles in an attempt to overturn an agency ruling.",
+              "The lawsuit reignites an issue that appeared to be resolved last week when the DMV said it would not suspend Tesla’s sales and manufacturing licenses for 30 days.",
+              "The DMV could have taken action against Tesla."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 23, 2026 Anthropic CEO Dario Amodei gets summoned from Pentagon for 'not a friendly meeting' The Pentagon is demanding full access to Anthropic's AI model, Claude, for military use, clashing with the company's safety safeguards. Defence Secretary Hegseth is reportedly issuing an ultimatum to Anthropic CEO Amodei, threatening contract cancellations if restrictions on mass surveillance and autonomous weapons aren't lifted. This high-stakes meeting highlights a significant ideological divide.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-gets-summoned-from-pentagon-for-not-a-friendly-meeting/articleshow/128722217.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "8a75bc0f230058095b43b796a1c97f3b3b3ec5e5"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 23, 2026 Anthropic CEO Dario Amodei gets summoned from Pentagon for 'not a friendly meeting' The Pentagon is demanding full access to Anthropic's AI model, Claude, for military use, clashing with the company's safety safeguards. Defence Secretary Hegseth is reportedly issuing an ultimatum to Anthropic CEO Amodei, threatening contract cancellations if restrictions on mass surveillance and autonomous weapons aren't lifted. This high-stakes meeting highlights a significant ideological divide.",
+            "bullets": [
+              "Sources claim that this meeting will be anything but routine.",
+              "In a statement to Axios, a senior official from the US Department of Defence said,\n\"Anthropic knows this is not a get-to-know-you meeting.",
+              "This is a sh*t-or-get-off-the-pot meeting\".The meeting centres on terms for military use of Anthropic's Claude, the only AI model currently available in the military's classified systems and the one used for sensitive defence and intelligence work.",
+              "The Pentagon, while unwilling to lose access to Claude, is said to be furious with Anthropic for refusing to lift its safeguards fully.",
+              "The two sides appear to be heading into the meeting at an impasse, with an Anthropic spokesperson saying the company is\n\"having productive conversations, in good faith.\" Meanwhile\n, US Department of Defence officials say negotiations have shown no progress and are on the verge of breaking down, the Axios report noted.",
+              "What Anthropic said about the Pentagon meeting with Pete Hegseth\nAnthropic has said it is willing to loosen its usage restrictions but wants to draw a firm line around two areas: the mass surveillance of Americans and the development of weapons that fire without human involvement."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
