@@ -184060,6 +184060,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "21:03": [
+        {
+          "item": {
+            "title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+            "link": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2dd0035bceb2edb1ffe07b975de90ea7fbe07216"
+          },
+          "review": {
+            "headline_rewrite": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+            "bullets": [
+              "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body.",
+              "NVIDIA’s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return on investment (ROI) on core applications like medical imaging and drug discovery.",
+              "The industry is also embracing open source software and AI models to tackle specific use cases, as well as exploring using agentic AI to speed knowledge retrieval and research paper analysis.",
+              "Highlights from this year’s report include:\n- 70% of respondents said their organizations are actively using AI, up from 63% in 2024.",
+              "- 69% said they’re using generative AI and large language models, up from 54%.",
+              "- 82% said open source software and models are moderately to extremely important to their organizations’ AI strategy."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "ProducerAI: Your music creation partner, now in Google Labs",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/producerai/",
+            "site_name": "Google",
+            "novelty_hash": "9eba9c4c8c1ad6772604f486db4303cb9a151f5d"
+          },
+          "review": {
+            "headline_rewrite": "ProducerAI: Your music creation partner, now in Google Labs",
+            "bullets": [
+              "ProducerAI: Your music creation partner, now in Google Labs\nProducerAI, a platform that allows you to create and refine music using generative AI, is joining Google Labs.",
+              "What ProducerAI does\nProducerAI is a creative collaborator, whether you’re writing lyrics, refining a melody or inventing entirely new genres.",
+              "With ProducerAI, you can turn your imagination into dynamic, comprehensive songs.",
+              "All outputs from ProducerAI are embedded with SynthID, our imperceptible watermark for identifying Google AI-generated content.",
+              "ProducerAI was built with, and for, a passionate community of artists, from aspiring musicians to established musicians like Grammy-winning rapper Lecrae and The Chainsmokers.",
+              "How ProducerAI and Google Labs fit together\nProducerAI uses a preview version of Lyria 3, Google DeepMind’s newest high-fidelity, professional-grade music generation model."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
+            "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eff754b9c8c58a79a9f4f9dc7f84796034c54270"
+          },
+          "review": {
+            "headline_rewrite": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
+            "bullets": [
+              "Meta plans to purchase potentially up to $100 billion worth of AMD chips, enough to drive roughly six gigawatts of data center power demand, the companies announced Tuesday.",
+              "As part of the multiyear agreement, AMD has issued Meta a performance-based warrant for up to 160 million shares of AMD common stock — or about 10% of the company — for $0.01 each, structured to vest alongside certain milestones.",
+              "Under the agreement, Meta will purchase AMD’s MI540 series of GPUs and its latest generation of CPUs.",
+              "CPUs are increasingly becoming a core pillar of the AI inference compute stack because they’re efficient, easier to scale, and don’t tie companies solely to Nvidia.",
+              "AMD has been slowly gaining ground as AI firms look to reduce their reliance on Nvidia, which has been the longstanding leader in AI chips and has charged a premium for the title.",
+              "Last October, AMD and OpenAI struck a similar deal trading equity for an agreement to buy chips."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+            "link": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "62904fb0a4f7e8922fdac1c5262db10b377be320"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+            "bullets": [
+              "On Tuesday, Anthropic unveiled its new enterprise agents program, its most aggressive push yet to integrate agentic AI into everyday workplaces.",
+              "In an official briefing, Anthropic’s head of Americas, Kate Jensen, told reporters that the new system would finally deliver on the promise of agentic AI.",
+              "“2025 was meant to be the year agents transformed the enterprise, but the hype turned out to be mostly premature,” Jensen said.",
+              "“It wasn’t a failure of effort.",
+              "It was a failure of approach.”\nUnder the new program, companies can use the plug-in system to deploy pre-built agents to help with common enterprise tasks, including financial research and engineering specifications.",
+              "The result is a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta could end up owning 10% of AMD in new chip deal",
+            "link": "https://www.ft.com/content/76b40c38-cece-4df7-a0f8-3783eacd7b97",
+            "site_name": "Ars Technica",
+            "novelty_hash": "10fc805e27b25e13dea2b07582e886b742500492"
+          },
+          "review": {
+            "headline_rewrite": "Meta could end up owning 10% of AMD in new chip deal",
+            "bullets": [
+              "Meta has struck a multi-billion dollar chip deal with AMD that could lead to the Facebook owner taking a 10 percent stake in the group, sending shares in the US chipmaker surging on Tuesday.",
+              "The social media giant said it would acquire customized chips with a total capacity of 6 gigawatts from AMD as it races to develop and deploy its AI models.",
+              "AMD’s chief executive Lisa Su said that “each gigawatt of compute is worth double-digit billions” under the deal.",
+              "The shares-for-chips arrangement represents the latest “circular” transaction in the industry and mirrors a deal AMD struck with OpenAI in October, in which the ChatGPT maker was offered a 10 percent stake in the chip group over time.",
+              "Shares in AMD, which has a market capitalization of $320 billion, surged 14 percent in pre-market trading on Tuesday.",
+              "The transaction is also the latest sign that Big Tech customers are looking to diversify supply away from market leader Nvidia, which last week announced its own multiyear deal with Meta to supply it with “millions” of its chips over the coming years."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How Claude Code Claude Codes",
+            "link": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
+            "site_name": "The Verge",
+            "novelty_hash": "96560b994a584148e81d067901d695efef04bcd5"
+          },
+          "review": {
+            "headline_rewrite": "How Claude Code Claude Codes",
+            "bullets": [
+              "Few AI products have found true product-market fit the way Claude Code has.",
+              "How Claude Code Claude Codes\nOn The Vergecast: How vibe coding took off, how carefully you should guard your email, and how soon you should upgrade your phone.",
+              "On this episode of The Vergecast, Anthropic’s Boris Cherny, the head of Claude Code, explains how the project has taken off over the last year.",
+              "Cherny has made a lot of headlines recently by saying that Claude Code now writes 100 percent of his code, and he explains how his relationship to that code has changed.",
+              "After that, The Verge’s Hayden Field joins the show to continue our conversation from a few weeks ago about AI and privacy.",
+              "Finally, The Verge’s Allison Johnson helps David answer a question from the Vergecast Hotline (call 866-VERGE11 or email vergecast@theverge.com!) about how the RAM shortage will affect your gadget purchases this year."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
