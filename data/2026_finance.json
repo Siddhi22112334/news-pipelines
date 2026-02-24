@@ -80596,5 +80596,27 @@
         }
       ]
     }
+  },
+  "2026-02-25": {
+    "runs": {
+      "00:31": [
+        {
+          "item": {
+            "title": "European Stocks Decline With Focus on New US Tariffs, Earnings",
+            "link": "https://www.livemint.com/market/european-stocks-decline-with-focus-on-new-us-tariffs-earnings-11771958059629.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "European Stocks Decline With Focus on New US Tariffs, Earnings",
+            "bullets": [
+              "The European Union has warned that some tariffs under the new policy will exceed the level permitted under the EU–US trade agreement.",
+              "To subscribe to a daily list of European analyst rating changes, click here."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }

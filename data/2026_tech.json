@@ -184422,5 +184422,125 @@
         }
       ]
     }
+  },
+  "2026-02-25": {
+    "runs": {
+      "00:31": [
+        {
+          "item": {
+            "title": "Transform live video for mobile audiences with AWS Elemental Inference",
+            "link": "https://aws.amazon.com/blogs/aws/transform-live-video-for-mobile-audiences-with-aws-elemental-inference/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "eea0962d0c588b9b6fea87ac7b7174915667b0e0"
+          },
+          "review": {
+            "headline_rewrite": "Transform live video for mobile audiences with AWS Elemental Inference",
+            "bullets": [
+              "Transform live video for mobile audiences with AWS Elemental Inference\nToday, we’re announcing AWS Elemental Inference, a fully managed AI service that automatically transforms and maximizes live and on-demand video broadcasts to engage audiences at scale.",
+              "At launch, you’ll be able to use AWS Elemental Inference to adapt video content into vertical formats optimized for mobile and social platforms in real time.",
+              "With AWS Elemental Inference, broadcasters and streamers can reach audiences on social and mobile platforms such as TikTok, Instagram Reels, and YouTube Shorts without manual postproduction work or AI expertise.",
+              "From the dashboard, choose Create feed to establish your top-level resource for AI-powered video processing.",
+              "A feed contains your feature configurations and begins in CREATING state before transitioning to AVAILABLE when ready.",
+              "This standalone interface provides a streamlined experience for configuring and managing your AI-powered video transformations, making it straightforward to get started with vertical video creation and clip generation."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+            "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4a9e59d552e90434cc2154bb99b0445d536e6bd5"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+            "bullets": [
+              "Earlier this month, OpenAI launched a new platform called OpenAI Frontier for enterprises to build and manage agents, but OpenAI COO Brad Lightcap said that businesses haven’t yet seen AI adoption at scale.",
+              "“One of the interesting things and some of the inspiration for the work we’ve been doing lately around OpenAI Frontier is we have not yet really seen enterprise AI penetrate enterprise business process,” the AI exec said on the sidelines of the India AI summit held last week in New Delhi.",
+              "“You’ve got really powerful AI systems that any person can use in their individual capacity.",
+              "There are very complex goals that have to be achieved using a lot of different systems and tools.”\nThere is a lot of talk around AI agents taking over business processes and claiming that “SaaS is dead”.",
+              "In fact, Lightcap said OpenAI was a massive Slack user last year, indicating how much AI firms are still reliant on traditional enterprise software.",
+              "In January, OpenAI CFO Sarah Friar posted that the company’s revenue is on the rise, with the startup ending 2025 with over $20 billion in annualized revenue."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google adds a way to create automated workflows to Opal",
+            "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5572e07d5edff1d28191b53ca0593d3f24ad16fc"
+          },
+          "review": {
+            "headline_rewrite": "Google adds a way to create automated workflows to Opal",
+            "bullets": [
+              "The company said that a new agent being introduced in Opal will allow users to create mini apps that can let them plan and execute tasks using text prompts.",
+              "For instance, it can use Google Sheets to maintain memory across sessions, such as a shopping list for an e-commerce-related app.",
+              "Google said these agents are natively interactive, which means that if they need more information, they would ask users to enter it or offer them choices to determine next steps, if needed.",
+              "With this addition, users without technical knowledge could build complex workflows within their apps, the company claims.",
+              "Lovable and Replit are among the more popular ones, but other startups like former Replika founder’s Wabi, Softbank and Lightspeed-backed Emergent, and Accel-backed Rocket.new are also gaining prominence."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
+            "site_name": "The Verge",
+            "novelty_hash": "fc1dd091648b4e6a149c370b01afd2168fa27ec9"
+          },
+          "review": {
+            "headline_rewrite": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
+            "bullets": [
+              "When Irish filmmaker Ruairi Robinson began uploading a series of short clips created with Seedance 2.0 — TikTok developer ByteDance’s newest video generation model — it was hard to deny that the footage was much more impressive than what we’ve seen from other gen AI outfits.",
+              "And the characters moved with a complex fluidity almost passing for choreography and amplified by kinetic “camerawork.”\nSeedance 2.0 might be gen AI video’s next big hope, but it’s still slop\nIntellectual property theft is still a fundamental part of what makes these kinds of models work.",
+              "Gen AI enthusiasts love to proclaim that the traditionally produced entertainment industry is cooked, and some of Hollywood’s biggest studios did seem to be alarmed by Seedance’s recent capabilities as the ersatz-Cruise videos continued to rack up views online.",
+              "Motion Picture Association, Disney, Paramount, and Netflix each sent ByteDance cease and desist letters over claims of copyright infringement.",
+              "And in response, ByteDance said that it would take steps “to strengthen current safeguards as we work to prevent the unauthorized use of intellectual property and likeness by users.” ByteDance has yet to officially release a version of Seedance that prevents users from generating footage the company doesn’t have the rights to create.",
+              "Everything about Seedance 2.0’s rollout has felt like a viral stunt, especially when studios have already made it clear that they’re willing to sue when AI companies steal their IP."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "1Password is going up in price",
+            "link": "https://www.theverge.com/tech/883837/1password-price-increase",
+            "site_name": "The Verge",
+            "novelty_hash": "9a9d7571874e8482b4ed17a92d6a643685056c36"
+          },
+          "review": {
+            "headline_rewrite": "1Password is going up in price",
+            "bullets": [
+              "In an email sent to users, the password manager says it will raise the price of its yearly individual plan from $35.88 to $47.88, and that its family plan is going from $59.88 to $71.88.",
+              "“While 1Password has grown substantially in value and capability, our pricing has remained largely unchanged for many years,” 1Password’s email states.",
+              "1Password says that the price increase will help it “continue investing in innovation and the world-class security you expect.” The email lists some of the new features the company has recently added to the platform, such as the ability to save logins and payment details, protection against phishing, and faster device setup."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Inside the quixotic team trying to build an entire world in a 20-year-old game",
+            "link": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d9fafa422d11e68012da4f42b864ec86e0a5af32"
+          },
+          "review": {
+            "headline_rewrite": "Inside the quixotic team trying to build an entire world in a 20-year-old game",
+            "bullets": [
+              "Almost immediately, fans began modding the remaining parts of the series’ fictional continent, Tamriel, into the game.",
+              "By contrast, Morrowind contained just a single island—not even the entire province after which the game was named.",
+              "In 2015, those two projects combined to form Project Tamriel, reigniting the goal of adding the remaining provinces of Tamriel.",
+              "Tamriel Rebuilt and Project Tamriel first became connected when the modders decided to combine their asset repositories into Tamriel_Data, but they have since grown closer through their shared developers, training protocols, and tools."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
