@@ -185124,6 +185124,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:29": [
+        {
+          "item": {
+            "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+            "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8526d7f0ba59795e6924814378df940b48611f9a"
+          },
+          "review": {
+            "headline_rewrite": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+            "bullets": [
+              "Multiverse Computing, a Spanish startup, is addressing this issue with compressed models that aim to close the gap between what frontier models can do and what companies can actually afford to deploy.",
+              "The secret sauce is CompactifAI, a compression technology inspired by quantum computing that the Basque company has applied to models released by OpenAI.",
+              "At 32GB, HyperNova 60B is roughly half the size of the model it derives from — OpenAI’s gpt-oss-120B — while boasting lower memory usage and lower latency.",
+              "One of the competitors Multiverse claims to have beaten with HyperNova 60B is Mistral Large 3, one of the models released by French decacorn Mistral AI.",
+              "But beyond the technological rivalry, the two European AI companies also have a lot in common.",
+              "And while Multiverse is not officially a unicorn yet, it is now rumored to be raising a fresh €500 million funding round at a valuation of more than €1.5 billion."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
+            "link": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8b839b76684895f9428c010075ff2e45f3a34eb1"
+          },
+          "review": {
+            "headline_rewrite": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
+            "bullets": [
+              "Apple is launching new tools to comply with the growing number of age verification laws both in the U.S.",
+              "The company informed developers on Tuesday that it’s expanding its set of “age assurance” tools, including an updated Declared Age Range API now available for beta testing.",
+              "These tools allow developers to obtain a user’s age range without gaining access to the user’s personal information, like their date of birth.",
+              "The need for a technical solution like this came about as more governments around the world have created laws to block or restrict certain apps like social media that can only be used by adults 18 and up.",
+              "In Brazil, for example, developers can use the Declared Age Range API to obtain the user’s age category, if the user or their parent or guardian chooses to share it.",
+              "Also, developers whose games contain loot boxes, a gambling-like mechanism that lets players spend money for a random chance at in-game rewards, and that lawmakers believe shouldn’t be available to kids, will see their apps’ age ratings updated to reflect an 18+ audience in Brazil, specifically."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s touchscreen MacBooks might also have a Dynamic Island",
+            "link": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
+            "site_name": "The Verge",
+            "novelty_hash": "826ff9de4086fe2a702d3ae586bab23a5997d40c"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s touchscreen MacBooks might also have a Dynamic Island",
+            "bullets": [
+              "Apple’s OLED touchscreen MacBook Pros set to launch this fall will get a Dynamic Island feature like what’s available on iPhones, according to Bloomberg’s Mark Gurman.",
+              "Apple first debuted the Dynamic Island with the iPhone 14 Pro and iPhone 14 Pro Max as a pill-shaped cutout that can show information and alerts, though the MacBook Pro’s Dynamic Island will be “smaller” than what’s available on current iPhones.",
+              "Apple’s touchscreen MacBooks might also have a Dynamic Island\nThe iPhone feature could show up in new OLED MacBook Pros launching this fall."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI defeats xAI’s trade secrets lawsuit",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/884049/openai-elon-musk-xai-trade-secrets-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "08a58c05a5658c039e155ba578641391dfb7c400"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI defeats xAI’s trade secrets lawsuit",
+            "bullets": [
+              "OpenAI won a victory Tuesday in one of its legal battles with xAI, which involved allegations of poaching and theft of trade secrets.",
+              "OpenAI defeats xAI’s trade secrets lawsuit\nThe court handed OpenAI a win in part of its multi-pronged battle with Elon Musk.",
+              "The former company’s motion to dismiss the lawsuit was granted on Tuesday with leave to amend, meaning xAI has the option to refile with modified claims.",
+              "Lin wrote that “xAI does not point to any misconduct by OpenAI” in its current claims.",
+              "“Instead, it points to eight former xAI employees who left for OpenAI at around the same time,” with no indication that OpenAI directed their actions while leaving xAI.",
+              "xAI alleges that two former employees “stole its source code during their departure at a time when they were communicating with an OpenAI recruiter,” Lin writes, but “there is no allegation that the recruiter told them to do so.” xAI also alleges that two other former employees “retained work chats on their devices after leaving xAI,” that one “refused xAI’s demands to provide various certifications about confidential information after his departure,” that another “unsuccessfully tried to access xAI information about hiring and datacenter optimization after he started working at OpenAI,” and that two more “simply left xAI for OpenAI.” But none of this, Lin determined, amounts to illegal behavior at OpenAI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "WBD says Paramount’s new, higher offer could be “superior” to Netflix's",
+            "link": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ecd4aa59c2f98c2b1f0a6946d59ad8a1119a5570"
+          },
+          "review": {
+            "headline_rewrite": "WBD says Paramount’s new, higher offer could be “superior” to Netflix's",
+            "bullets": [
+              "Discovery (WBD) from $30 per share to $31 per share, WBD said today.",
+              "Amid a competing offer from Netflix for WBD’s movie studios and streaming businesses, WBD said that Paramount’s new bid “could reasonably be expected to lead to a ‘Company Superior Proposal.’”\nUnder its revamped offer, Paramount would also pay the $7 billion regulatory termination fee that would arise should a Paramount-WBD merger fail to close due to antitrust regulation.",
+              "The company owned by David Ellison also said it would pay $0.25 per share for every day the deal doesn’t close, starting on September 30, rather than the previous start date of December 31.",
+              "Paramount previously agreed to pay the $2.8 billion termination fee that WBD would be subject to if it canceled its merger deal with Netflix.",
+              "Regardless of the ultimate buyer, any WBD merger is expected to face intense regulatory scrutiny, lead to higher subscription prices, and have a lasting impact on Hollywood."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
+            "link": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
+            "site_name": "WIRED",
+            "novelty_hash": "2e0156a22dfd61db4a64589be1f8770ec3b2423c"
+          },
+          "review": {
+            "headline_rewrite": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
+            "bullets": [
+              "Google declined to comment on the specific documents included in the dumps, but spokesperson Katelin Jabbari said in a written statement that the company’s “processes for handling law enforcement requests are designed to protect users' privacy while meeting our legal obligations.",
+              "We review all legal demands for legal validity, and we push back against those that are overbroad, including objecting to some entirely.”\nThe documents show how much the government will sometimes attempt to obtain without a judge’s sign-off, how Google pushes back against requests that it says are beyond what’s required by law, and what types of information the company has turned over about its users.",
+              "A 2019 letter signed by the then US attorney for the Southern District of New York and addressed to Google’s legal department prohibited the company by law from revealing the letter’s existence to Epstein coconspirator Ghislaine Maxwell, the subject of the subpoena, for 180 days from the date of the order.",
+              "The letter also instructed Google to alert prosecutors if it planned to tell Maxwell about the existence of the order after the 180 days were up, “in case the investigation remains ongoing and the order needs to be renewed.”\nEven when not required by law, prosecutors requested Google’s silence.",
+              "A 2018 letter instructing Google to preserve all emails (including those in draft and trash folders) and Google Drive content associated with four gmail accounts also requested that Google not disclose the existence of the letter to anyone, including the people who owned the accounts.",
+              "The letter also requested that Google notify federal prosecutors if the company intended to make a disclosure, so the prosecutors could “obtain a non-disclosure order if necessary.”\nIt’s unclear whether Google informed the account holders of the redacted emails after the 180-day period described in the 2019 letter were up."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
