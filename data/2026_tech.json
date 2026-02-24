@@ -184766,6 +184766,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "03:05": [
+        {
+          "item": {
+            "title": "Let me see some ID: age verification is spreading across the internet",
+            "link": "https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety",
+            "site_name": "The Verge",
+            "novelty_hash": "82c138569c95c05387b99e02eb29315d5538fb6e"
+          },
+          "review": {
+            "headline_rewrite": "Let me see some ID: age verification is spreading across the internet",
+            "bullets": [
+              "The age-gating wave is coming along with calls for stronger child safety measures online, despite concerns about privacy, security, and censorship.",
+              "Discord has delayed plans to roll out age verification globally after user backlash until later in 2026, but it hasn’t completely shelved them, even after a breach of a former vendor last year that leaked some users’ scanned IDs.",
+              "Meanwhile, other platforms, like ChatGPT and Google, are applying AI models to identify and lock down accounts suspected of being underage until some form of identity verification can prove the user is an adult.",
+              "Follow along below for the latest updates on age verification for internet services and apps…\nDiscord won’t roll out age verification globally on its platform next month as previously announced, and says in a blog post that it’s delaying the launch until the second half of 2026.",
+              "That’s not what’s happening, but the fact that so many people believe it tells us we failed at our most basic job: clearly explaining what we’re doing and why,” writes Discord CTO Stanislav Vishnevskiy.",
+              "Discord says that before it rolls out age verification globally, it will add more options for users to verify their age (including with a credit card), include documentation of every verification vendor used, add an option for “spoiler channels” in Discord as an alternative to age-gated channels for walling off certain topics, and publish a technical blog post explaining how its age estimation systems work."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+            "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6df51d54250da0cacf51f4679e4fa1b5e842e976"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic won’t budge as Pentagon escalates AI dispute",
+            "bullets": [
+              "military unrestricted access to its AI model or face the consequences, reports Axios.",
+              "Defense Secretary Pete Hegseth told Anthropic CEO Dario Amodei in a meeting Tuesday morning that the Pentagon will either declare Anthropic a “supply chain risk” — a designation usually reserved for foreign adversaries — or invoke the Defense Production Act (DPA) to force the company to tailor a version of the model to the military’s needs.",
+              "The DPA gives the president the authority to force companies to prioritize or expand production for national defense.",
+              "Using the DPA in a dispute over AI guardrails would mark a significant expansion of the law’s modern use.",
+              "It would also reflect an expansion of a broader pattern of executive branch instability that has intensified in recent years, according to Dean Ball, senior fellow at the Foundation for American Innovation and former senior policy advisor on AI in Trump’s White House.",
+              "“It would basically be the government saying, ‘If you disagree with us politically, we’re going to try to put you out of business,’” Ball said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+            "link": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9bc984288fdeecd292934533377743c89fc4b505"
+          },
+          "review": {
+            "headline_rewrite": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+            "bullets": [
+              "When oxygen from the air flows over pebbles of iron inside the battery, it rusts the iron, generating electricity in the process.",
+              "As battery chemistries go, Form’s iron-air cells are heavy and not very efficient.",
+              "Typical iron-air batteries can only deliver 50% to 70% of the energy used to charge them, compared with upwards of 90% for lithium-ion batteries.",
+              "Solar and wind are both proven technologies, but Form’s iron-air batteries are still relatively new.",
+              "The company has raised $1.4 billion to date, according to PitchBook data."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "UK fines Reddit for not checking user ages aggressively enough",
+            "link": "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "288e3bf73b3849d9e3293f7fcd1bcad705acd853"
+          },
+          "review": {
+            "headline_rewrite": "UK fines Reddit for not checking user ages aggressively enough",
+            "bullets": [
+              "The UK Information Commissioner’s Office (ICO) alleged that the failure to check ages resulted in Reddit illegally using children’s personal information.",
+              "“Our investigation found that Reddit failed to apply any robust age assurance mechanism and therefore did not have a lawful basis for processing the personal information of children under the age of 13… These failures meant Reddit was using children’s data unlawfully, potentially exposing them to inappropriate and harmful content,” an ICO press release said.",
+              "But the ICO said it is still concerned about Reddit’s post-July 2025 system because the company relies on users to declare their ages when opening an account.",
+              "Reddit today said it will appeal the fine and criticized the ICO for demanding more collection of private information.",
+              "“Reddit doesn’t require users to share information about their identities, regardless of age, because we are deeply committed to their privacy and safety,” Reddit said in a statement provided to Ars.",
+              "We intend to appeal the ICO’s decision.”\nReddit pointed to its privacy policy, which says, “We collect minimal information that can be used to identify you by default."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 23, 2026 America's biggest investor Michael Burry has an 'End question' for Google, Amazon, Meta, Microsoft and other tech companies; says: When does it ... Investor Michael Burry is questioning Big Tech's massive AI spending, highlighting concerns over ballooning debt and accounting practices. Companies are investing hundreds of billions in AI infrastructure, leading to significant borrowing and potential overstatement of earnings. Burry draws parallels to the early electricity boom, where transformative technology didn't prevent investor losses.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/americas-biggest-investor-michael-burry-has-an-end-question-for-google-amazon-meta-microsoft-and-other-tech-companies-says-when-does-it-/articleshow/128700141.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "cf8fb465eb4d1eb54870d01fc01288573dd3d7d2"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 23, 2026 America's biggest investor Michael Burry has an 'End question' for Google, Amazon, Meta, Microsoft and other tech companies; says: When does it ... Investor Michael Burry is questioning Big Tech's massive AI spending, highlighting concerns over ballooning debt and accounting practices. Companies are investing hundreds of billions in AI infrastructure, leading to significant borrowing and potential overstatement of earnings. Burry draws parallels to the early electricity boom, where transformative technology didn't prevent investor losses.",
+            "bullets": [
+              "Michael Burry, the investor who famously predicted the 2008 financial crisis and shorted the US housing market before it collapsed, has turned his attention to Big Tech's AI spending bingeâand he's asking a question nobody on Wall Street seems to want to answer: when does it actually stop?",
+              "In a series of posts on X over the weekend, Burryâwho runs Scion Asset Management and goes by the handle Cassandra Unchainedâcalled out Amazon, Google, Meta, Microsoft, Oracle, Nvidia, and Caterpillar by name.",
+              "These companies are burning through all their cash flow on AI data centres, borrowing money in ways they never have before, and using accounting tricks to mask the damage to their earnings.",
+              "\"But if it scales, when does it end?\"\nBig Tech's combined AI tab has crossed $660 billionâand the debt is piling up\nThe numbers back him up.",
+              "Amazon, Alphabet, Meta, and Microsoft are collectively set to spend roughly $660 billion on AI infrastructure in 2026âa figure that's 165% higher than what they spent in 2024 and larger, as a share of US GDP, than the Apollo space programme, the interstate highway build-out, and the great railroad expansion of the 1850s.",
+              "The company has already filed paperwork signalling it may raise fresh capital through debt."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Pentagon has reportedly given Anthropic until Friday to let it use Claude as it sees fit",
+            "link": "https://www.engadget.com/ai/the-pentagon-has-reportedly-given-anthropic-until-friday-to-let-it-use-claude-as-it-sees-fit-203549467.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d3134ffee642a9bc9993904a32ca25711368fdf9"
+          },
+          "review": {
+            "headline_rewrite": "The Pentagon has reportedly given Anthropic until Friday to let it use Claude as it sees fit",
+            "bullets": [
+              "Defense Secretary Pete Hegseth will reportedly give Anthropic until Friday to drop certain guardrails for military use, as reported by Axios.",
+              "The outlet also reported that CEO Dario Amodei met with Hegseth yesterday as the Pentagon ratcheted up pressure on the AI company to give in to its demands.",
+              "The makers of Claude have reportedly been offered an ultimatum: Either yield to the government's demands to remove limits for certain military applications, or potentially be forced to tailor its AI model to the government's needs under the Defense Production Act.",
+              "Anthropic, for its part, has said that while it was willing to adopt certain policies for the Pentagon, it would not allow its model to be used for mass surveillance of Americans or for the development of autonomous weapons.",
+              "Claude is currently the only AI model employed in some of the government's most sensitive work.",
+              "The Pentagon is reportedly ramping up conversations with OpenAI and Google about using their models for classified work."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
