@@ -183938,6 +183938,128 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:47": [
+        {
+          "item": {
+            "title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+            "link": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "2dd0035bceb2edb1ffe07b975de90ea7fbe07216"
+          },
+          "review": {
+            "headline_rewrite": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+            "bullets": [
+              "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body.",
+              "NVIDIA’s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return on investment (ROI) on core applications like medical imaging and drug discovery.",
+              "The industry is also embracing open source software and AI models to tackle specific use cases, as well as exploring using agentic AI to speed knowledge retrieval and research paper analysis.",
+              "Highlights from this year’s report include:\n- 70% of respondents said their organizations are actively using AI, up from 63% in 2024.",
+              "- 69% said they’re using generative AI and large language models, up from 54%.",
+              "- 82% said open source software and models are moderately to extremely important to their organizations’ AI strategy."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "ProducerAI: Your music creation partner, now in Google Labs",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/producerai/",
+            "site_name": "Google",
+            "novelty_hash": "d603c09c07dfe2928053cc6630652444c594aa06"
+          },
+          "review": {
+            "headline_rewrite": "ProducerAI: Your music creation partner, now in Google Labs",
+            "bullets": [
+              "ProducerAI: Your music creation partner, now in Google Labs\nProducerAI, a platform that allows you to create and refine music using generative AI, is joining Google Labs.",
+              "What ProducerAI does\nProducerAI is a creative collaborator, whether you’re writing lyrics, refining a melody or inventing entirely new genres.",
+              "With ProducerAI, you can turn your imagination into dynamic, comprehensive songs.",
+              "All outputs from ProducerAI are embedded with SynthID, our imperceptible watermark for identifying Google AI-generated content.",
+              "ProducerAI was built with, and for, a passionate community of artists, from aspiring musicians to established musicians like Grammy-winning rapper Lecrae and The Chainsmokers.",
+              "How ProducerAI and Google Labs fit together\nProducerAI uses a preview version of Lyria 3, Google DeepMind’s newest high-fidelity, professional-grade music generation model."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mogul says it has tracked $1.5B in music royalties, raised $5M in funding",
+            "link": "https://techcrunch.com/2026/02/24/mogul-tracked-1-5-billion-music-royalties-raised-5m-funding/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ce08486a75b4912e35e3030d0ee1d6eac6e45a75"
+          },
+          "review": {
+            "headline_rewrite": "Mogul says it has tracked $1.5B in music royalties, raised $5M in funding",
+            "bullets": [
+              "For them, making sure that they have all the information in the right place while maintaining creative output is a tiresome task.",
+              "Mogul, a platform founded by former SoundCloud head of creators Jeff Ponchick and former SoundCloud VP of engineering Joey Mason, announced Tuesday that it has helped artists track $1.5 billion in lost royalties since its launch last year.",
+              "The startup also raised $5 million in a new round of funding led by the Yamaha Music Innovations Fund with participation from the Urban Innovation Fund, Mindset Ventures, and Fairway Capital Partners, alongside existing investors Amplify LA and Wonder Ventures.",
+              "The company has raised more than $6.3 million in funding to date.",
+              "Mogul currently has six people on staff, and plans to grow the team with the funding.",
+              "Andrew Kahn, managing partner at Yamaha Music Innovations Fund, believes that Mogul’s founding team has the credentials and experience to ship products that can help artists manage their careers better."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
+            "link": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f78e13e965c70e4bfdf9b5b9dc5dc8d49256e518"
+          },
+          "review": {
+            "headline_rewrite": "New Relic launches new AI agent platform and OpenTelemetry tools",
+            "bullets": [
+              "Companies are increasingly launching software to build and monitor AI agents in an effort to get enterprises to adopt AI.",
+              "As the data observability company launches an AI agent platform of its own, it knows it isn’t the only game in town.",
+              "New Relic on Tuesday unveiled a no-code agentic platform that lets enterprises put together data observability AI agents that monitor a company’s data to catch bugs and issues before they disrupt products.",
+              "It also supports the model context protocol (MCP), which connects AI applications to external data sources, and integrates with other New Relic tools.",
+              "New Relic isn’t looking to be the only platform that companies use to manage and deploy all of their AI agents, Brian Emerson, the startup’s new chief product officer, told TechCrunch.",
+              "Instead, the aim is to offer clients the same agent-building capabilities they are getting elsewhere for observability as well."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "This Chainsmokers-approved AI music producer is joining Google",
+            "link": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
+            "site_name": "The Verge",
+            "novelty_hash": "4105ae830209495b67a03d807d73c3da006f0174"
+          },
+          "review": {
+            "headline_rewrite": "This Chainsmokers-approved AI music producer is joining Google",
+            "bullets": [
+              "ProducerAI, an AI-powered music-making platform, is joining Google.",
+              "As part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model.",
+              "This Chainsmokers-approved AI music producer is joining Google\nProducerAI will use Google’s Lyria 3 AI model to help users generate sounds, workshop lyrics, remix songs, and more.",
+              "ProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop lyrics, remix songs, and even create new instruments based on a prompt.",
+              "The platform launched in July 2025 as a successor to the AI music-making tool Riffusion, and initially used the startup’s own AI model to help you generate songs and tweak existing ones.",
+              "Seth Forsgren, the cofounder and CEO of ProducerAI, tells The Verge the team is “just scratching the surface of what these models are going to be able to do once we harness everything that Google brings to the table.”\n“You can talk to this producer like you would a Gemini model, ask questions, and learn about a new genre,” Forsgren says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta may trade AI chips for shares in its latest AMD deal",
+            "link": "https://www.engadget.com/ai/meta-may-trade-ai-chips-for-shares-in-its-latest-amd-deal-134259842.html",
+            "site_name": "Engadget",
+            "novelty_hash": "0dbac69920671eaed1b7ff0e182e881f489e8051"
+          },
+          "review": {
+            "headline_rewrite": "Meta may trade AI chips for shares in its latest AMD deal",
+            "bullets": [
+              "Meta has struck a deal with AMD to buy up to six gigawatts worth of AI chips, both companies announced.",
+              "The agreement is structured in a way that could see AMD issue Meta up to 160 million shares of its common stock provided GPU shipment milestones are achieved — meaning Meta could own up to 10 percent of AMD if the deal fully completes.",
+              "Meta plans to purchase six gigawatts of AMD's Instinct GPUs based on the MI450 architecture and optimized for Meta's workloads, with the first gigawatt deployment set to begin in the second half of 2026.",
+              "AMD and Meta will also expand on their EPYC CPU partnership, with Meta deploying \"millions\" of AMD EPYC CPUs and become a launch customer for its sixth-generation EPYC CPUs.",
+              "Vesting is tied to AMD hitting certain stock price thresholds and Meta achieving certain technical and commercial milestones.",
+              "The deal is very similar to one that AMD structured with OpenAI last year, with AMD obtaining up to a 10 percent stake in AMD in exchange for six gigawatts of Instinct GPUs."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
