@@ -184887,6 +184887,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:04": [
+        {
+          "item": {
+            "title": "Let me see some ID: age verification is spreading across the internet",
+            "link": "https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety",
+            "site_name": "The Verge",
+            "novelty_hash": "82c138569c95c05387b99e02eb29315d5538fb6e"
+          },
+          "review": {
+            "headline_rewrite": "Let me see some ID: age verification is spreading across the internet",
+            "bullets": [
+              "The age-gating wave is coming along with calls for stronger child safety measures online, despite concerns about privacy, security, and censorship.",
+              "Discord has delayed plans to roll out age verification globally after user backlash until later in 2026, but it hasn’t completely shelved them, even after a breach of a former vendor last year that leaked some users’ scanned IDs.",
+              "Meanwhile, other platforms, like ChatGPT and Google, are applying AI models to identify and lock down accounts suspected of being underage until some form of identity verification can prove the user is an adult.",
+              "Follow along below for the latest updates on age verification for internet services and apps…\nDiscord won’t roll out age verification globally on its platform next month as previously announced, and says in a blog post that it’s delaying the launch until the second half of 2026.",
+              "That’s not what’s happening, but the fact that so many people believe it tells us we failed at our most basic job: clearly explaining what we’re doing and why,” writes Discord CTO Stanislav Vishnevskiy.",
+              "Discord says that before it rolls out age verification globally, it will add more options for users to verify their age (including with a credit card), include documentation of every verification vendor used, add an option for “spoiler channels” in Discord as an alternative to age-gated channels for walling off certain topics, and publish a technical blog post explaining how its age estimation systems work."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+            "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "6df51d54250da0cacf51f4679e4fa1b5e842e976"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic won’t budge as Pentagon escalates AI dispute",
+            "bullets": [
+              "military unrestricted access to its AI model or face the consequences, reports Axios.",
+              "Defense Secretary Pete Hegseth told Anthropic CEO Dario Amodei in a meeting Tuesday morning that the Pentagon will either declare Anthropic a “supply chain risk” — a designation usually reserved for foreign adversaries — or invoke the Defense Production Act (DPA) to force the company to tailor a version of the model to the military’s needs.",
+              "The DPA gives the president the authority to force companies to prioritize or expand production for national defense.",
+              "Using the DPA in a dispute over AI guardrails would mark a significant expansion of the law’s modern use.",
+              "It would also reflect an expansion of a broader pattern of executive branch instability that has intensified in recent years, according to Dean Ball, senior fellow at the Foundation for American Innovation and former senior policy advisor on AI in Trump’s White House.",
+              "“It would basically be the government saying, ‘If you disagree with us politically, we’re going to try to put you out of business,’” Ball said."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+            "link": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9bc984288fdeecd292934533377743c89fc4b505"
+          },
+          "review": {
+            "headline_rewrite": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+            "bullets": [
+              "When oxygen from the air flows over pebbles of iron inside the battery, it rusts the iron, generating electricity in the process.",
+              "As battery chemistries go, Form’s iron-air cells are heavy and not very efficient.",
+              "Typical iron-air batteries can only deliver 50% to 70% of the energy used to charge them, compared with upwards of 90% for lithium-ion batteries.",
+              "Solar and wind are both proven technologies, but Form’s iron-air batteries are still relatively new.",
+              "The company has raised $1.4 billion to date, according to PitchBook data."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "DJI sues the FCC for “carelessly” restricting its drones",
+            "link": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "80bc9852c330df888e241460cce393be6c4f5c66"
+          },
+          "review": {
+            "headline_rewrite": "DJI sues the FCC for “carelessly” restricting its drones",
+            "bullets": [
+              "DJI, the most popular consumer drone maker, is suing over the Federal Communications Commission (FCC)’s import ban against new, foreign-made drones, which has been in effect since December 23, 2025.",
+              "The Covered List includes communications equipment and services that are “deemed to pose an unacceptable risk to the national security of the United States or the security and safety of United States persons,” per the FCC.",
+              "In its petition dated February 20, 2026, DJI said:\nPetitioners seek review of the Ruling on the ground that the FCC exceeded its statutory authority, failed to observe statutorily required procedures, and violated the Fifth Amendment when it purported to add DJI’s products to the Covered List.",
+              "In a December 22 statement, the FCC said that “criminals, hostile foreign actors, and terrorists can use [drones] to present new and serious threats to our homeland.” The FCC said at the time that it made its decision about the ban after a review by an Executive Branch interagency body review that it said had “appropriate national security expertise” and “was convened by the White House.”\nDJI reportedly requested that the US government audit its devices multiple times before the US issued the import ban.",
+              "In a company statement shared with Bloomberg today, DJI said:\nDespite repeated efforts to engage with the government, DJI has never been given the chance to provide information to address or refute any concerns.",
+              "In a statement to Reuters today, DJI also said that the FCC’s decision “carelessly restricts DJI’s business in the US and summarily denies U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 23, 2026 America's biggest investor Michael Burry has an 'End question' for Google, Amazon, Meta, Microsoft and other tech companies; says: When does it ... Investor Michael Burry is questioning Big Tech's massive AI spending, highlighting concerns over ballooning debt and accounting practices. Companies are investing hundreds of billions in AI infrastructure, leading to significant borrowing and potential overstatement of earnings. Burry draws parallels to the early electricity boom, where transformative technology didn't prevent investor losses.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/americas-biggest-investor-michael-burry-has-an-end-question-for-google-amazon-meta-microsoft-and-other-tech-companies-says-when-does-it-/articleshow/128700141.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "cf8fb465eb4d1eb54870d01fc01288573dd3d7d2"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 23, 2026 America's biggest investor Michael Burry has an 'End question' for Google, Amazon, Meta, Microsoft and other tech companies; says: When does it ... Investor Michael Burry is questioning Big Tech's massive AI spending, highlighting concerns over ballooning debt and accounting practices. Companies are investing hundreds of billions in AI infrastructure, leading to significant borrowing and potential overstatement of earnings. Burry draws parallels to the early electricity boom, where transformative technology didn't prevent investor losses.",
+            "bullets": [
+              "Michael Burry, the investor who famously predicted the 2008 financial crisis and shorted the US housing market before it collapsed, has turned his attention to Big Tech's AI spending bingeâand he's asking a question nobody on Wall Street seems to want to answer: when does it actually stop?",
+              "In a series of posts on X over the weekend, Burryâwho runs Scion Asset Management and goes by the handle Cassandra Unchainedâcalled out Amazon, Google, Meta, Microsoft, Oracle, Nvidia, and Caterpillar by name.",
+              "These companies are burning through all their cash flow on AI data centres, borrowing money in ways they never have before, and using accounting tricks to mask the damage to their earnings.",
+              "\"But if it scales, when does it end?\"\nBig Tech's combined AI tab has crossed $660 billionâand the debt is piling up\nThe numbers back him up.",
+              "Amazon, Alphabet, Meta, and Microsoft are collectively set to spend roughly $660 billion on AI infrastructure in 2026âa figure that's 165% higher than what they spent in 2024 and larger, as a share of US GDP, than the Apollo space programme, the interstate highway build-out, and the great railroad expansion of the 1850s.",
+              "The company has already filed paperwork signalling it may raise fresh capital through debt."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "05e00c2a0dedb721f9891622556b12b103515bd7"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nMeta Platforms signs multi-year AI chip deal with Advanced Micro Devices chevron_rightAMD Stock Surges After AI Chip Maker Agrees to Meta Deal.",
+              "Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs\nBarron's\nBy Mackenzie Tatananni & Callum Keown\nCNBC\nBy Katie Schoolov\nWarner Bros' offer to Paramount chevron_right\nSpirit Airlines bankruptcy chevron_rightSpirit Airlines plans to slash flights, fleet in bid to emerge from bankruptcy as early as spring\nBy Leslie Josephs\nJamie Dimon on JPMorgan chevron_right\nAnthropic CEO Dario Amodei on AI chevron_right‘It’s going to be painful for a lot of people’: Software engineers could go extinct this year, says Claude Code creator\nAre Anthropic’s new AI work tools game-changing for professionals?",
+              "Opinion\nFortune\nBy Jacqueline Munis\nFinancial Times\nBy Melissa Heikkilä, Anjli Raval & Suzi Ring\nSnow in New York chevron_right\nApple to manufacture Mac mini computers in Houston chevron_right\nNovo Nordisk cuts US prices for Wegovy and Ozempic chevron_right\nTexas data center growth chevron_right\nAI disruption in software stocks chevron_right\nAnthropic launches new enterprise offerings with partner companies chevron_right\nAI stock news chevron_rightStock Market Today: Dow Rises; AMD Rallies After Meta Deal — Live Updates\nWSJ\nBy James Mackintosh, Alexander Osipovich & Paul Berger\nChocolate becomes high-value target for thieves in the UK chevron_right\nOpenAI forms Frontier alliances with major consulting firms chevron_right\nFDA guidance on gene therapies chevron_rightFDA unveils rules for bespoke gene therapies, predicting flood of rare disease applications\nstatnews.com\nBy Jason Mast & Lizzy Lawrence\nNovo Nordisk weight loss trial chevron_rightWhy Novo Nordisk Stock Is Plunging—and Why It’s Good News for Eli Lilly\nBy Mackenzie Tatananni & George Glover\nAstellas and Vir Biotechnology collaborate on prostate cancer drug chevron_right\nBitcoin price chevron_right\nReuters\nBy Katie Paul & Jeff Horwitz\nGoogle to build Minnesota data center chevron_right\nIntel invests in SambaNova Systems' $350 million funding round chevron_right\nBlue Owl debt fund sale chevron_rightBoaz Weinstein Warns ‘Wheels Coming Off’ Private Credit Funds\nBloomberg\nBy Denitsa Tsekova & Alexandra Semenova\nAI's effects on the US economy chevron_right\nGilead Sciences acquires Arcellx in $7.8 billion deal chevron_right\nUK data watchdog fines Reddit over age verification failures chevron_right\nAnthropic's accusations against Chinese AI labs chevron_rightAnthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model\nThe Hacker News\nBy Ravie Lakshmanan\nMeta CEO Mark Zuckerberg testifies in Los Angeles courtroom chevron_rightJudge scolds Mark Zuckerberg's team for wearing Meta glasses to social media trial\nCBS News\nBy Mary Cunningham\nNvidia stock prediction chevron_right\nDiscord age verification backlash chevron_right\nPayPal takeover interest report chevron_right\nAbbVie News Center\nChicago Tribune\nBy Lisa Schencker\nCalifornia heat pump bills chevron_rightHigh power bills impeding heat pumps, CA's electrification goals\nCalMatters\nBy Alejandro Lazo & Ben Christopher\nInvestor's Business Daily\nBy Ryan Deffenbaugh\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
