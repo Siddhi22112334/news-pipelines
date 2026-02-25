@@ -186491,6 +186491,122 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:39": [
+        {
+          "item": {
+            "title": "Ask a Techspert: What’s a world model?",
+            "link": "https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/",
+            "site_name": "Google",
+            "novelty_hash": "66ab3f2edcb537534d2a5410c9574e0505bd66cf"
+          },
+          "review": {
+            "headline_rewrite": "Ask a Techspert: What’s a world model?",
+            "bullets": [
+              "Project Genie is powered by what’s called a “world model.” It’s currently available to Google AI Ultra subscribers in the U.S.",
+              "To help explain the concept, we sat down with Googlers Shlomi Fruchter and Jack Parker-Holder.",
+              "Congratulations on the launch of Project Genie!",
+              "How will the light reflect from the wooden floor?\" All of those environment dynamics — if water is spilled or it rains — the model simulates end to end, with no game engine running in the background.",
+              "Jack: There are actually lots of historical papers on world models, but one of the ones that popularized the idea is from 2018 from what was then called Google Brain.",
+              "Google Brain was our deep learning and AI research team, and it’s now a part of Google DeepMind."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New ways to create and refine content in Flow",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/",
+            "site_name": "Google",
+            "novelty_hash": "6dfe7954c9a38e43bf3bb54371144e4db8d20dbf"
+          },
+          "review": {
+            "headline_rewrite": "New ways to create and refine content in Flow",
+            "bullets": [
+              "New ways to create and refine content in Flow\nSince Flow launched last year, you've created over 1.5 billion images and videos for creative projects ranging from films to music videos to product campaigns.",
+              "Toggle between view modes to scan your library or focus on specific details.",
+              "Start creating today\nFrom conceptualizing mood boards to directing short films and launching product campaigns, these updates are here to help you bring your stories to life more seamlessly.",
+              "We can't wait to see what you make."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+            "link": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1925909706d76ff0d11526f855ca76f6a7e3957e"
+          },
+          "review": {
+            "headline_rewrite": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+            "bullets": [
+              "Peter Steinberger, the creator of the viral AI agent OpenClaw, who has since been hired by OpenAI, has some advice for those experimenting with AI technology, including AI agents.",
+              "“I wish I could say that I had the unified plan in the beginning, but a lot of it was just exploration,” Steinberger said.",
+              "“I wanted things, and those things didn’t exist, and…let’s say, I prompted them into existence.”\nThe developer was chatting with OpenAI’s Head of Developer Experience, Romain Huet, on the first episode of the company’s new Builders Unscripted podcast.",
+              "Steinberger explained he began by building a tool that would integrate with WhatsApp, but then set it aside for a bit and focused on other things, as he assumed the AI labs would build something like what he was working on in the near future.",
+              "By last November, however, the developer was surprised that no AI labs had started to build what he wanted to use.",
+              "[But] WhatsApp just works everywhere,” he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "About 12% of U.S. teens turn to AI for emotional support or advice",
+            "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f39a10324cf9f089da6c88575bb1b958fcc5a5ed"
+          },
+          "review": {
+            "headline_rewrite": "About 12% of U.S. teens turn to AI for emotional support or advice",
+            "bullets": [
+              "AI chatbots have become embedded in the lives of American teenagers, according to a report published Tuesday by the Pew Research Center.",
+              "While the most common uses of AI among this demographic are to search for information (57%) and get help with schoolwork (54%), teens are also using AI to fill roles that would typically be occupied by friends or family.",
+              "teens say they use AI for casual conversation, while 12% use AI chatbots for emotional support or advice.",
+              "“We are social creatures, and there’s certainly a challenge that these systems can be isolating,” Dr.",
+              "Nick Haber, a Stanford professor researching the therapeutic potential of LLMs, told TechCrunch recently.",
+              "“There are a lot of instances where people can engage with these tools and then can become not grounded to the outside world of facts, and not grounded in connection to the interpersonal, which can lead to pretty isolating — if not worse — effects.”\nPew’s survey also shows a discrepancy between teenagers’ self-reported AI usage and the extent to which their parents think they engage with this technology."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon&#8217;s AGI lab leader is leaving",
+            "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
+            "site_name": "The Verge",
+            "novelty_hash": "b9bf18ceea4d9d2d7014e5198ce5f213a0a998e6"
+          },
+          "review": {
+            "headline_rewrite": "Amazon&#8217;s AGI lab leader is leaving",
+            "bullets": [
+              "After less than two years at Amazon, David Luan, the head of Amazon’s San Francisco AI lab, is departing the company.",
+              "But with AGI so close, I decided to spend 100% of my time on teaching AI systems brand new capabilities.”\nAmazon’s AGI lab leader is leaving\nDavid Luan was leading Amazon’s development of the Nova Act AI browser agent.",
+              "The loss of a top AI developer at Amazon comes as the company struggles to keep up in the AI race; even its own employees are reportedly calling its in-house AI products “Amazon Basics.” Just a few weeks ago, Amazon rolled out Alexa Plus, its revamped AI assistant, to all users in the US, although some early users have said they’d prefer to stick with the original Alexa.",
+              "Luan joined Amazon in 2024 along with other employees from his startup, Adept, which was developing AI agent technology that Amazon licensed.",
+              "While at Amazon, Luan worked on its Nova AI models, including the Nova Act AI agent, which launched as a research preview in March.",
+              "Act could complete web searches, make purchases, and answer questions, and Amazon said at the time of its launch that Act was already in use in Alexa Plus."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Live: Samsung unveils new Galaxy phones",
+            "link": "https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "af43f68902a72ccb228160ca393d15ab98b207f4"
+          },
+          "review": {
+            "headline_rewrite": "Live: Samsung unveils new Galaxy phones",
+            "bullets": [
+              "And, of course, whether there are any new AI features to discuss.",
+              "Most Popular\n- YouTube’s cheaper subscription is getting background play and downloads\n- Discord is delaying its global age verification rollout\n- Samsung is on slop watch at Unpacked\n- The DJI Romo robovac had security so poor, this man remotely accessed thousands of them\n- Inside Anthropic’s existential negotiations with the Pentagon"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
