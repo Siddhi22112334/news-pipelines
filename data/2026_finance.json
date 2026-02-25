@@ -81485,5 +81485,63 @@
         }
       ]
     }
+  },
+  "2026-02-26": {
+    "runs": {
+      "00:09": [
+        {
+          "item": {
+            "title": "Nvidia stock jumps over 2% ahead of fourth quarter results",
+            "link": "https://www.livemint.com/market/stock-market-news/nvidia-stock-jumps-over-2-ahead-of-fourth-quarter-results-11772038531014.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Nvidia stock jumps over 2% ahead of fourth quarter results",
+            "bullets": [
+              "Nvidia Corp’s stock rose more than 2% on Wednesday ahead of the much anticipated fourth quarter results of the chipmaker.",
+              "Nvidia, currently the most valuable and influential stock in the US market, is scheduled to release its fourth quarter ended, which ended on January",
+              "Forecasts indicate that quarterly profits may surge by nearly 70% compared to last year, hitting roughly $37.52 billion.",
+              "Furthermore, revenue is projected to climb 68% to $65.9 billion for the fiscal fourth quarter, with adjusted earnings expected to increase 72% to $1.53"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "EV exports can scale production, improve cost curves: FICCI-Yes Bank report",
+            "link": "https://www.thehindubusinessline.com/economy/ev-exports-can-scale-production-improve-cost-curves-ficci-yes-bank-report/article70676906.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "EV exports can scale production, improve cost curves: FICCI-Yes Bank report",
+            "bullets": [
+              "Exports boost manufacturing scale “As India invests in ecosystem development to enhance capabilities and its EV market starts to gain significance, exports become a",
+              "It highlights that such a strategy would help India gain an advantage in markets across Europe, Latin America, and Southeast Asia while absorbing regulatory",
+              "He noted that with clear policy direction and strong industry participation, the country can establish itself as a leading global center for manufacturing and",
+              "“With clear policy direction and strong industry participation, India can firmly establish itself as a leading global center for electric mobility manufacturing and innovation."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "PM Modi and Netanyahu discuss key issues to strengthen India-Israel ties",
+            "link": "https://www.thehindubusinessline.com/economy/pm-modi-and-netanyahu-discuss-key-issues-to-strengthen-india-israel-ties/article70676926.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "PM Modi and Netanyahu discuss key issues to strengthen India-Israel ties",
+            "bullets": [
+              "Sectors such as technology, water management, agriculture, talent partnership and more offer immense scope for close collaboration.",
+              "Modi's visit assumed greater significance as it is taking place amid the ongoing tensions in the Middle East, including deteriorating ties between the US"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
