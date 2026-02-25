@@ -186372,6 +186372,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "21:05": [
+        {
+          "item": {
+            "title": "Ads Decoded episode 3 explores how Google is reimagining Search ads experiences in a way that delivers value for both users and advertisers.",
+            "link": "https://blog.google/products/ads-commerce/ads-decoded-reimagining-search-ads/",
+            "site_name": "Google",
+            "novelty_hash": "bbba6532758604f735d75e2ebdbbf7ee33f88e91"
+          },
+          "review": {
+            "headline_rewrite": "Ads Decoded episode 3 explores how Google is reimagining Search ads experiences in a way that delivers value for both users and advertisers.",
+            "bullets": [
+              "These are just two examples of Search ads experience updates that aim to deliver value for both users and advertisers.",
+              "In our newest episode of Ads Decoded, we’re pulling back the curtain on the design and testing process behind our ad experiences on Search.",
+              "Host Ginny Marvin, along with Ads UI Product Manager Abby Butler and Search Ads UX Lead Adam Bullock discuss how they achieve that balance, including:\n- The specific data points and rigorous vetting process required to move a new format from hypothesis to global rollout."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s AI-powered Alexa+ gets new personality options",
+            "link": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3a0b6b2a7e7e3f4e75c2914f6a6e6ab1a53ad6f1"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s AI-powered Alexa+ gets new personality options",
+            "bullets": [
+              "Amazon is introducing a new feature that will allow users to change the personality of its AI assistant, Alexa+.",
+              "On Wednesday, the company launched three new Alexa+ personality styles — Brief, Chill, and Sweet — that will change the AI assistant’s tone.",
+              "In the Brief style, Alexa will respond with shorter, direct responses, while the Chill style will see Alexa answer more like a laid-back friend.",
+              "The idea of infusing an AI with a personality has been a complicated issue for model makers.",
+              "For some chatbot users, a flattering and affirming AI model, like OpenAI’s GPT-4o, led some users to develop an unhealthy dependency on the technology.",
+              "Still, chatbot users have shown a preference for controlling how their AI responds, even writing custom instructions to dictate the AI’s personality."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Harbinger acquires autonomous driving company Phantom AI",
+            "link": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3156240e4b58b9e150c20e11842a1eaebdda557c"
+          },
+          "review": {
+            "headline_rewrite": "Harbinger acquires autonomous driving company Phantom AI",
+            "bullets": [
+              "Electric trucking startup Harbinger has acquired autonomous driving software company Phantom AI, in an effort to vertically integrate more technology and create new revenue streams for the young company.",
+              "The acquisition, which is Harbinger’s first, is part of the startup’s plan to steadily expand its portfolio beyond the electric truck chassis it’s been building and selling for the last year.",
+              "Just last month, Harbinger announced it would start selling its battery packs for energy storage and auxiliary power, with Airstream as the first customer.",
+              "Harbinger co-founder and CEO John Harris told TechCrunch in an exclusive interview that he expects this new software services business line to generate “millions” of dollars in revenue this year, which he said is mostly “not material” compared to the amount the company will make from selling its truck chassis.",
+              "The startup recently raised $160 million in a funding round co-led by FedEx and THOR Industries, both of which are customers.",
+              "“The passenger car market is slower, but the volumes are very, very large,” he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon&#8217;s AGI lab leader is leaving",
+            "link": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
+            "site_name": "The Verge",
+            "novelty_hash": "743e0977a0423bbbadf7834c52cc0f18e0479f82"
+          },
+          "review": {
+            "headline_rewrite": "Amazon&#8217;s AGI lab leader is leaving",
+            "bullets": [
+              "After less than two years at Amazon, David Luan, the head of Amazon’s San Francisco AI lab, is departing the company.",
+              "But with AGI so close, I decided to spend 100% of my time on teaching AI systems brand new capabilities.”\nAmazon’s AGI lab leader is leaving\nDavid Luan was leading Amazon’s development of the Nova Act AI browser agent.",
+              "The loss of a top AI developer at Amazon comes as the company struggles to keep up in the AI race; even its own employees are reportedly calling its in-house AI products “Amazon Basics.” Just a few weeks ago, Amazon rolled out Alexa Plus, its revamped AI assistant, to all users in the US, although some early users have said they’d prefer to stick with the original Alexa.",
+              "Luan joined Amazon in 2024 along with other employees from his startup, Adept, which was developing AI agent technology that Amazon licensed.",
+              "While at Amazon, Luan worked on its Nova AI models, including the Nova Act AI agent, which launched as a research preview in March.",
+              "Act could complete web searches, make purchases, and answer questions, and Amazon said at the time of its launch that Act was already in use in Alexa Plus."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
+            "link": "https://www.ft.com/content/0c6b63b6-2524-4ba7-9f7a-e7183b29386f",
+            "site_name": "Ars Technica",
+            "novelty_hash": "67e43beda0edb88b091e4b45529df547382bda32"
+          },
+          "review": {
+            "headline_rewrite": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
+            "bullets": [
+              "US Defense Secretary Pete Hegseth has threatened to cut Anthropic from his department’s supply chain unless it agrees to sign off on its technology being used in all lawful military applications by Friday.",
+              "The threat is the latest escalation in a feud between Anthropic and the department, triggered by the AI group’s refusal to give unfettered access to its models for classified military use, including domestic surveillance and deadly missions with no direct human control.",
+              "During tense talks, the defense secretary threatened to cut the company out of the department’s supply chain or to invoke the Defense Production Act, a Cold War-era measure enabling the president to control domestic industry in the interest of national defense, said a person with knowledge of the talks.",
+              "Anthropic had until 5:01 pm on Friday “to get on board or not” with Hegseth’s terms, said a senior Pentagon official.",
+              "“If they don’t get on board, [Hegseth] will ensure the Defense Production Act is invoked on Anthropic, compelling them to be used by the Pentagon regardless of if they want to or not,” the official said.",
+              "The Defense Department would also label Anthropic “a supply chain risk.”\n“You can’t lead tactical ops by exception,” the official added, claiming “this has nothing to do with mass surveillance and autonomous weapons being used.”\nAnthropic said it had continued with “good-faith conversations about our usage policy to ensure Anthropic can continue to support the government’s national security mission in line with what our models can reliably and responsibly do.”"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+            "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+            "site_name": "The Verge",
+            "novelty_hash": "41ba56ea42076831b943dc8c7375ffa5d8b70e5e"
+          },
+          "review": {
+            "headline_rewrite": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+            "bullets": [
+              "Three “personality style” presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences.",
+              "You can now make Alexa’s AI personality more friendly, blunt, or chilled out\nThree styles — Brief, Chill, and Sweet — are available for Alexa Plus users in the US.",
+              "“Alexa’s personality is one of the things customers tell us they love most about Alexa,” Amazon said in its press release.",
+              "“That familiar voice and personality have become a part of so many customers’ daily lives, but here’s what we’ve learned from customers since launching Alexa Plus: everyone has their own communication style and preferences, and a truly personal assistant should adapt to match it.”\nThe new style presets are Brief, Chill, and Sweet.",
+              "Contrary to how much people supposedly “love” Alexa’s current base personality, Amazon said the Brief option is being introduced in response to “customer requests for shorter, more direct responses,” providing a blunt communication style that “cuts straight to the point with no-nonsense.” Chill is described as having a relaxed energy that feels like chatting with a laid-back friend, while Sweet is designed to be “your biggest cheerleader” by providing more enthusiasm and encouragement.",
+              "As someone who finds overtly bubbly and affable robots annoying, I certainly see the appeal of the Brief personality style."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
