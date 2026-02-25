@@ -186256,6 +186256,122 @@
             "impact": "Positive"
           }
         }
+      ],
+      "19:45": [
+        {
+          "item": {
+            "title": "Ads Decoded episode 3 explores how Google is reimagining Search ads experiences in a way that delivers value for both users and advertisers.",
+            "link": "https://blog.google/products/ads-commerce/ads-decoded-reimagining-search-ads/",
+            "site_name": "Google",
+            "novelty_hash": "bbba6532758604f735d75e2ebdbbf7ee33f88e91"
+          },
+          "review": {
+            "headline_rewrite": "Ads Decoded episode 3 explores how Google is reimagining Search ads experiences in a way that delivers value for both users and advertisers.",
+            "bullets": [
+              "These are just two examples of Search ads experience updates that aim to deliver value for both users and advertisers.",
+              "In our newest episode of Ads Decoded, we’re pulling back the curtain on the design and testing process behind our ad experiences on Search.",
+              "Host Ginny Marvin, along with Ads UI Product Manager Abby Butler and Search Ads UX Lead Adam Bullock discuss how they achieve that balance, including:\n- The specific data points and rigorous vetting process required to move a new format from hypothesis to global rollout."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s AI-powered Alexa+ gets new personality options",
+            "link": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "80aed3b768508b35f1de228969d257cb70e0cdc3"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s AI-powered Alexa+ gets new personality options",
+            "bullets": [
+              "Amazon is introducing a new feature that will allow users to change the personality of its AI assistant, Alexa+.",
+              "On Wednesday, the company launched three new Alexa+ personality styles — Brief, Chill, and Sweet — that will change the AI assistant’s tone.",
+              "In the Brief style, Alexa will respond with shorter, direct responses, while the Chill style will see Alexa answer more like a laid-back friend.",
+              "The idea of infusing an AI with a personality has been a complicated issue for model makers.",
+              "For some chatbot users, a flattering and affirming AI model, like OpenAI’s GPT-4o, led some users to develop an unhealthy dependency on the technology.",
+              "Still, chatbot users have shown a preference for controlling how their AI responds, even writing custom instructions to dictate the AI’s personality."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Harbinger acquires autonomous driving company Phantom AI",
+            "link": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "3156240e4b58b9e150c20e11842a1eaebdda557c"
+          },
+          "review": {
+            "headline_rewrite": "Harbinger acquires autonomous driving company Phantom AI",
+            "bullets": [
+              "Electric trucking startup Harbinger has acquired autonomous driving software company Phantom AI, in an effort to vertically integrate more technology and create new revenue streams for the young company.",
+              "The acquisition, which is Harbinger’s first, is part of the startup’s plan to steadily expand its portfolio beyond the electric truck chassis it’s been building and selling for the last year.",
+              "Just last month, Harbinger announced it would start selling its battery packs for energy storage and auxiliary power, with Airstream as the first customer.",
+              "Harbinger co-founder and CEO John Harris told TechCrunch in an exclusive interview that he expects this new software services business line to generate “millions” of dollars in revenue this year, which he said is mostly “not material” compared to the amount the company will make from selling its truck chassis.",
+              "The startup recently raised $160 million in a funding round co-led by FedEx and THOR Industries, both of which are customers.",
+              "“The passenger car market is slower, but the volumes are very, very large,” he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+            "link": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+            "site_name": "The Verge",
+            "novelty_hash": "41ba56ea42076831b943dc8c7375ffa5d8b70e5e"
+          },
+          "review": {
+            "headline_rewrite": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+            "bullets": [
+              "Three “personality style” presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences.",
+              "You can now make Alexa’s AI personality more friendly, blunt, or chilled out\nThree styles — Brief, Chill, and Sweet — are available for Alexa Plus users in the US.",
+              "“Alexa’s personality is one of the things customers tell us they love most about Alexa,” Amazon said in its press release.",
+              "“That familiar voice and personality have become a part of so many customers’ daily lives, but here’s what we’ve learned from customers since launching Alexa Plus: everyone has their own communication style and preferences, and a truly personal assistant should adapt to match it.”\nThe new style presets are Brief, Chill, and Sweet.",
+              "Contrary to how much people supposedly “love” Alexa’s current base personality, Amazon said the Brief option is being introduced in response to “customer requests for shorter, more direct responses,” providing a blunt communication style that “cuts straight to the point with no-nonsense.” Chill is described as having a relaxed energy that feels like chatting with a laid-back friend, while Sweet is designed to be “your biggest cheerleader” by providing more enthusiasm and encouragement.",
+              "As someone who finds overtly bubbly and affable robots annoying, I certainly see the appeal of the Brief personality style."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple brings age verification to UK users in iOS 26.4 beta",
+            "link": "https://www.theverge.com/tech/884306/apple-age-verification-uk-users-ios-26-4-beta",
+            "site_name": "The Verge",
+            "novelty_hash": "8cf7ad349c46635db18b225d5ad773e0f925c5c7"
+          },
+          "review": {
+            "headline_rewrite": "Apple brings age verification to UK users in iOS 26.4 beta",
+            "bullets": [
+              "Apple brings age verification to UK users in iOS 26.4 beta\nUsers who don’t verify their age may not be able to download or purchase apps.",
+              "The Verge reached out to Apple for more information about this update but didn’t immediately hear back.",
+              "This comes as Apple and tech companies contend with age verification requirements spreading across the globe.",
+              "On Tuesday, Apple announced that it will start blocking users in Australia, Brazil, and Singapore from downloading apps rated 18+ unless they verify that they’re an adult using “reasonable methods.” It will also begin sharing age categories with a developer’s app to comply with local laws in Utah and Louisiana."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon introduces three personality styles for Alexa+",
+            "link": "https://www.engadget.com/ai/amazon-introduces-three-personality-styles-for-alexa-140000602.html",
+            "site_name": "Engadget",
+            "novelty_hash": "e77b208a7468685e952c2f4457cf6184219484a9"
+          },
+          "review": {
+            "headline_rewrite": "Amazon introduces three personality styles for Alexa+",
+            "bullets": [
+              "Amazon is offering a new way for Alexa+ users to customize the AI assistant's communication style.",
+              "Chill is easygoing and seems to be inspired by caricatures of the surfer/stoner type, while the Sweet mode is almost aggressively perky and chipper.",
+              "I’m radiating pure joy and ready to make your day incredibly amazing!\"\nAmazon explained that the three personality styles are based on five metrics: expressiveness, emotional openness, formality, directness and humor.",
+              "The company may release additional options with different combinations of those sliding scale traits in the future.",
+              "All three personalities are available now for all Alexa+ customers."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
