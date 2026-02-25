@@ -185242,6 +185242,123 @@
             "impact": "Positive"
           }
         }
+      ],
+      "07:29": [
+        {
+          "item": {
+            "title": "Nvidia challenger AI chip startup MatX raised $500M",
+            "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4ffbff496bf7d789736bdf9a0048019bd9108253"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia challenger AI chip startup MatX raised $500M",
+            "bullets": [
+              "MatX, a chip startup founded by two former Google hardware engineers, has raised a $500 million Series B led by Jane Street and Situational Awareness, an investment fund formed by former OpenAI researcher Leopold Aschenbrenner.",
+              "The company’s goal is to make its processors 10 times better at training LLMs and delivering results than Nvidia’s GPUs.",
+              "Other investors in the round include Marvell Technology, NFDG, Spark Capital, and Stripe co-founders Patrick Collison and John Collison, the startup’s founder and CEO Reiner Pope announced Tuesday in a post on LinkedIn.",
+              "Although the company didn’t release its latest valuation, Etched, MatX’s closest competitor, raised a $500 million round at a $5 billion valuation, Bloomberg reported last month.",
+              "MatX’s latest round comes more than a year after its Series A of about $100 million, which was led by Spark Capital.",
+              "Before co-founding MatX in 2023, Pope led AI software development for Google’s TPUs, the tech giant’s proprietary AI chips."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+            "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "4cb6b001fc67d6b367ac44ade8fbacd72597faca"
+          },
+          "review": {
+            "headline_rewrite": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+            "bullets": [
+              "Wayve’s self-driving tech has attracted a diverse set of investors in the company’s latest $1.2 billion funding round, including three automakers, top venture and institutional firms, and returning backers Microsoft, Nvidia, and Uber.",
+              "The total raise could reach $1.5 billion thanks to another $300 million from Uber contingent on deploying robotaxis, beginning in London.",
+              "The funding round illustrates the eagerness among Big Tech, legacy automakers, and the investor community to profit from the burgeoning automated driving industry.",
+              "“I think the technology chessboard is set around where different companies have invested on the technology strategy, and now the commercial chessboard is being arranged,” Kendall said.",
+              "Now, when it comes to this phase of moving into commercialization, we’re also taking a contrarian business model approach.”\nWayve, which launched in 2017, uses a self-learning approach to its software.",
+              "This data-driven learning approach underpins two products: an “eyes on” assisted-driving system and an “eyes off” fully automated-driving system that could be applied to robotaxis or consumer vehicles that can handle all of the driving in certain environments."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+            "site_name": "The Verge",
+            "novelty_hash": "2e6e5d1513504af58eaf3c47378614ca47d2a457"
+          },
+          "review": {
+            "headline_rewrite": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+            "bullets": [
+              "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire\nDefense officials Steve Feinberg, the founder of Cerberus Capital Management, and Emil Michael, the former No.",
+              "The stakes are higher than it should reasonably be, with the Pentagon continuing to designate Anthropic a “supply-chain risk” if the company doesn’t comply with their demands about their acceptable use policy.",
+              "- Deputy Secretary Steve Feinberg, the founder of the private equity firm Cerberus Capital Management, which manages roughly $65 billion in assets and specializes in “distressed properties.” Feinberg, who’s widely blamed for the death of the auto manufacturer Chrysler, was also an early supporter of Donald Trump, donating to his 2016 presidential campaign and serving on the president’s intelligence advisory board in 2018.",
+              "During his 2025 Senate confirmation hearing, Feinberg touted Cerberus’ investments in several companies involved in national security, saying he had “significant experience with the Pentagon as a contractor and understand[s] how it functions and is organized.”\n- At the time, Democrats raised concerns that Feinberg would have conflicts of interest due to Cerberus’ numerous investments in defense companies such as DynCorp.",
+              "(That year, DynCorp settled a lawsuit with the Department of Justice over allegations that it had “knowingly inflated subcontractor charges under a State Department contract to train Iraqi police forces.”)\n- In 2023, while Feinberg was still at Cerberus, the firm launched Cerberus Ventures, a venture capital arm that invests in early-stage companies that address national security issues in critical infrastructure.",
+              "In 2024, the Biden administration released a national security memorandum on the use of artificial intelligence, which laid out several directives regarding the protection of the supply chain."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
+            "link": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+            "site_name": "The Verge",
+            "novelty_hash": "ccea60003467c7ff98dd465b7303575acb193087"
+          },
+          "review": {
+            "headline_rewrite": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
+            "bullets": [
+              "Apple, like many others, has had to launch age verification features in response to new requirements for age checks in many regions, and on Tuesday, the company announced new details about its tools that developers can use to “meet their age assurance obligations under upcoming U.S.",
+              "Apple notes that developers may still “have separate obligations to independently confirm that their users are adults,” and they can use Apple’s Declared Age Range API, introduced last year to let app developers request age range information about users, to help.",
+              "In addition, Apple is announcing that, for new Apple Account users in Utah as of May 6th and in Louisiana as of July 1st, “age categories will be shared with the developer’s app when requested through the Declared Age Range API.”\nThere are also “new signals” available to developers through the Declared Age Range API, “including whether age-related regulatory requirements apply to the user and if the user is required to share their age range,” Apple says.",
+              "“The API will also let you know if you need to get a parent or guardian’s permission for significant app updates for a child.”\nMost Popular\n- Inside Microsoft’s big Xbox leadership shake-up\n- Billions of dollars later and still nobody knows what an Xbox is\n- Yep, it’s fast: Donut Lab’s solid-state battery gets its first test result\n- YouTube’s cheaper subscription is getting background play and downloads\n- Inside Anthropic’s existential negotiations with the Pentagon"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Boozy chimps fail urine test, confirm hotly debated theory",
+            "link": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2cdfebc2e3434ca1fbd7c64bebeb01aef702aae5"
+          },
+          "review": {
+            "headline_rewrite": "Boozy chimps fail urine test, confirm hotly debated theory",
+            "bullets": [
+              "The urine of chimpanzees contains high levels of alcohol byproduct, most likely because the chimps regularly gorge themselves on fermented fruit, according to a new paper published in the journal Biology Letters.",
+              "The authors measured the alcohol content of the fruit with a handy portable breathalyzer and found almost all of the fallen fruit (90 percent) contained some ethanol, with the ripest containing the highest levels—the equivalent of 0.61 percent ABV (alcohol by volume).",
+              "A thankless task\nThe next step was to sample the chimps’ urine to see if it contains any alcohol metabolites, as was found in a 2022 study on spider monkeys."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 23, 2026 America's biggest investor Michael Burry has an 'End question' for Google, Amazon, Meta, Microsoft and other tech companies; says: When does it ... Investor Michael Burry is questioning Big Tech's massive AI spending, highlighting concerns over ballooning debt and accounting practices. Companies are investing hundreds of billions in AI infrastructure, leading to significant borrowing and potential overstatement of earnings. Burry draws parallels to the early electricity boom, where transformative technology didn't prevent investor losses.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/americas-biggest-investor-michael-burry-has-an-end-question-for-google-amazon-meta-microsoft-and-other-tech-companies-says-when-does-it-/articleshow/128700141.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "cf8fb465eb4d1eb54870d01fc01288573dd3d7d2"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 23, 2026 America's biggest investor Michael Burry has an 'End question' for Google, Amazon, Meta, Microsoft and other tech companies; says: When does it ... Investor Michael Burry is questioning Big Tech's massive AI spending, highlighting concerns over ballooning debt and accounting practices. Companies are investing hundreds of billions in AI infrastructure, leading to significant borrowing and potential overstatement of earnings. Burry draws parallels to the early electricity boom, where transformative technology didn't prevent investor losses.",
+            "bullets": [
+              "Michael Burry, the investor who famously predicted the 2008 financial crisis and shorted the US housing market before it collapsed, has turned his attention to Big Tech's AI spending bingeâand he's asking a question nobody on Wall Street seems to want to answer: when does it actually stop?",
+              "In a series of posts on X over the weekend, Burryâwho runs Scion Asset Management and goes by the handle Cassandra Unchainedâcalled out Amazon, Google, Meta, Microsoft, Oracle, Nvidia, and Caterpillar by name.",
+              "These companies are burning through all their cash flow on AI data centres, borrowing money in ways they never have before, and using accounting tricks to mask the damage to their earnings.",
+              "\"But if it scales, when does it end?\"\nBig Tech's combined AI tab has crossed $660 billionâand the debt is piling up\nThe numbers back him up.",
+              "Amazon, Alphabet, Meta, and Microsoft are collectively set to spend roughly $660 billion on AI infrastructure in 2026âa figure that's 165% higher than what they spent in 2024 and larger, as a share of US GDP, than the Apollo space programme, the interstate highway build-out, and the great railroad expansion of the 1850s.",
+              "The company has already filed paperwork signalling it may raise fresh capital through debt."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
