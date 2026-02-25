@@ -186967,6 +186967,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:06": [
+        {
+          "item": {
+            "title": "Intrinsic is joining Google to accelerate the future of physical AI.",
+            "link": "https://blog.google/alphabet/intrinsic-joins-google/",
+            "site_name": "Google",
+            "novelty_hash": "10f36fb2dbf10738866b91e0c632562cbc958ec2"
+          },
+          "review": {
+            "headline_rewrite": "Intrinsic is joining Google to accelerate the future of physical AI.",
+            "bullets": [
+              "Founded as an Other Bet by Alphabet in 2021, Intrinsic is now joining Google to continue making AI-enabled robotics applications easy to build, deploy and manage for industrial automation.",
+              "The move to Google will enable Intrinsic’s work across frontier AI to help businesses grow faster and flexibly adapt to shifting business needs."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+            "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f6a5f13f3c976a94543fe38e3efbcd5ec5714210"
+          },
+          "review": {
+            "headline_rewrite": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+            "bullets": [
+              "The proliferation of AI data centers plugging into the national electrical grid has helped increase consumer electricity prices, driving up the average national electricity price by more than 6% in the last year.",
+              "“We’re telling the major tech companies that they have the obligation to provide for their own power needs,” Trump said.",
+              "“They can build their own power plants as part of their factory, so that no one’s prices will go up.”\nOn January 11, Microsoft announced its policy “to ensure that the electricity cost of serving our datacenters is not passed on to residential customers.” January 26, OpenAI committed to “paying its own way on energy, so that our operations don’t increase your energy prices.” On February 11, Anthropic made the same pledge to “cover electricity price increases that consumers face from our data centers.” Yesterday, Google announced the largest battery project in the world yesterday to support a data center in Minnesota.",
+              "What these commitments means in practice, and who will determine which data centers are responsible for which price increases, remains unknown.",
+              "The White House did not respond to questions about the policy from TechCrunch.",
+              "“A handshake agreement with Big Tech over data center costs isn’t good enough,” Arizona Democratic Senator Mark Kelly said on social media."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Alphabet-owned robotics software company Intrinsic joins Google",
+            "link": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1b3ad148387a2a25b30616f2131351d1ac4ef518"
+          },
+          "review": {
+            "headline_rewrite": "Alphabet-owned robotics software company Intrinsic joins Google",
+            "bullets": [
+              "Google is moving further into physical AI by bringing a familiar robotics software platform under its wing.",
+              "Alphabet-owned Intrinsic, which builds AI models and software designed to make industrial robots more accessible, is joining Google, the companies announced on Wednesday.",
+              "Intrinsic will remain a distinct entity within Google but will work closely with Google DeepMind and will tap into Google’s Gemini AI models and cloud services.",
+              "Alphabet declined to share information regarding funding or purchase price.",
+              "While the purchase price wasn’t disclosed, Vicarious had raised about $250 million from VCs and tech big wigs like Jeff Bezos.",
+              "Despite this rapid expansion, Intrinsic laid off 20% of its workforce in January 2023."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Peace Corps is recruiting volunteers to sell AI to developing nations",
+            "link": "https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "cab8961f1760a034a6fbbcd78384a635318ac18b"
+          },
+          "review": {
+            "headline_rewrite": "The Peace Corps is recruiting volunteers to sell AI to developing nations",
+            "bullets": [
+              "But a new initiative, called the “Tech Corps,” threatens to unravel the agency’s original mission by recruiting de facto Silicon Valley salespeople to promote the biggest names in AI — many of which have ties to President Donald Trump.",
+              "The Peace Corps is recruiting volunteers to sell AI to developing nations\nTrump’s ‘Tech Corps’ initiative is turning unpaid workers into Silicon Valley salespeople.",
+              "Now, the version of diplomacy it will be pushing is the vision of America-made AI tools in a bid to “enhance opportunity and prosperity” in developing countries.",
+              "As noted on the Tech Corps website, the program will recruit volunteers to “support last-mile adoption of American AI.” Qualifications are broad; the Tech Corps says volunteers must have an associate’s or bachelor’s degree in science, technology, engineering, or mathematics, or relevant work experience.",
+              "It will place volunteers based on requests from countries in the American AI Exports Program, which is supposed to help foreign businesses “partner with or buy American AI.” One Tech Corps assignment example describes volunteers helping to integrate an AI-powered healthcare system into a local hospital, train staff, and develop privacy protocols.",
+              "Another describes volunteers working with a country’s ministry of education to “identify gaps in student, teacher, and parent services where AI education tools could be most impactful.”\nKelsey Quinn, a project lead and analyst of tech sovereignty and security at the New Lines Institute, tells The Verge that while “it’s not entirely unusual for the Peace Corps to wade into the field of technology,” it’s the “commercial structure” of the Tech Corps that’s different."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google and Samsung just launched the AI features Apple couldn’t with Siri",
+            "link": "https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri",
+            "site_name": "The Verge",
+            "novelty_hash": "d7ce12a814cd5affb28a5965df12ccd6e2756845"
+          },
+          "review": {
+            "headline_rewrite": "Google and Samsung just launched the AI features Apple couldn’t with Siri",
+            "bullets": [
+              "Google just announced that Gemini will soon be able to take care of some multi-step tasks on your phone, like ordering food or hailing a car, starting first with the Pixel 10, Pixel 10 Pro, and the just-announced Samsung Galaxy S26 phones.",
+              "Google and Samsung just launched the AI features Apple couldn’t with Siri\nGemini will be able to do multi-step tasks on your phone, starting with ordering food or a ride.",
+              "Setting aside that this situation doesn’t seem that complicated to do by yourself in the GrubHub app (or even by calling the pizzeria to talk through it with a human), this is a potentially big moment for agentic AI.",
+              "Google just recently added the ability for Gemini to auto-browse for users in Chrome, and being able to do something similar right inside of Android feels like a logical next step; Google clearly wants Gemini to be thought of as a helpful agent or productivity partner rather than just a chatbot or a series of AI models.",
+              "Assuming the agentic Gemini features also launch “soon” like Google is promising and that Apple doesn’t pull a rabbit out of its hat, Google will also beat Apple to the punch on some of its most impressive Apple Intelligence demos — also only shown in prerecorded videos — from that WWDC 2024 show.",
+              "The company said Siri would even be able to understand your personal context, meaning you could ask it when your mom’s flight was landing and the assistant would pull the information from an email and show it to you."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
+            "link": "https://www.wired.com/story/openai-hires-riley-walz/",
+            "site_name": "WIRED",
+            "novelty_hash": "c782d74c7e5d30236d71e5ba3bb0d7a53dc64cf9"
+          },
+          "review": {
+            "headline_rewrite": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
+            "bullets": [
+              "Riley Walz, a software engineer famous for his online stunts, is joining OpenAI to research and develop new ways for humans to interact with AI, WIRED has learned.",
+              "An OpenAI spokesperson confirmed the hire.",
+              "His most recent initiative, Jmail, lets users search Jeffrey Epstein’s emails as if they’re accessing his personal Gmail inbox.",
+              "Another project, Find My Parking Cops, used publicly available data to reverse engineer San Francisco's parking ticket system to show people exactly where each parking enforcement officer last wrote a ticket.",
+              "Now, Walz’s skills creating novel web experiences will be put to use in OAI Labs, a relatively new team led by research leader Joanne Jang.",
+              "The team is secretive about what it’s been working on but has been tasked with “inventing and prototyping new interfaces for how people collaborate with AI,” according to Jang."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
