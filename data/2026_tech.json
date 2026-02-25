@@ -187329,6 +187329,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:25": [
+        {
+          "item": {
+            "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+            "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eee65301a1f86b5f5d20f2f158612845d356946e"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+            "bullets": [
+              "Anthropic on Wednesday announced that it has acquired Vercept, an AI startup with deep roots to some of the biggest names in Seattle’s tech scene.",
+              "The acquisition marks the latest after Anthropic acquired coding agent engine Bun in December to help scale Claude Code.",
+              "Vercept had created tools for more complex agentic tasks, including its product Vy, a computer-use agent in the cloud that could operate a remote Apple Macbook.",
+              "Vercept is one of the many startups working on re-imagining the personal computer for the age of AI agents.",
+              "As part of the deal, Anthropic is shuttering Vercept’s product on March 25.",
+              "The startup was a grad of Seattle’s AI-focused incubator A12, which spawned from the longstanding Allen Institute for AI."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia has another record quarter amid record capex spends",
+            "link": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "330a3728a724ced5650f960b269405d807cf8427"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia has another record quarter amid record capex spends",
+            "bullets": [
+              "Chip giant and world’s most valuable company Nvidia reported record profits in its most recent quarter on Wednesday, as demand for AI compute continues to skyrocket.",
+              "“The demand for tokens in the world has gone completely exponential,” CEO Jensen Huang said on a call with analysts following the results.",
+              "“I think we’re all seeing that, to the point where even our six-year-old GPUs in the cloud are completely consumed and the pricing is going up.”\nThe company reported $68 billion in revenue in the most recent quarter, up 73% from the prior year, with $62 billion of that revenue coming from the company’s data center business.",
+              "Notably, Nvidia divided the data center revenue into $51 billion in compute revenue (largely GPUs) and $11 billion in networking products like NVLink.",
+              "As in previous quarters, the company did not report any revenue from chip exports to China, despite the recent lifting of export restrictions by the U.S.",
+              "“While small amounts of H200 products for China-based customers were approved by the U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How the new Galaxy S26 phones stack up against each other on paper",
+            "link": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
+            "site_name": "The Verge",
+            "novelty_hash": "03c7aa58c8af4b062a2ec95c1f5b3079e748ac4d"
+          },
+          "review": {
+            "headline_rewrite": "How the new Galaxy S26 phones stack up against each other on paper",
+            "bullets": [
+              "All three run on Qualcomm’s Galaxy-centric Snapdragon 8 Elite Gen 5, which delivers improved performance and powers a slew of new AI-based features.",
+              "This includes the ability to screen unknown calls and edit photos by typing what you want changed, along with an update to Google Gemini that can carry out certain tasks in supported third-party apps, like Uber and DoorDash, on your behalf.",
+              "How the new Galaxy S26 phones stack up against each other on paper\nThe new S26 phones all support new AI tools and faster performance, but they still differ in terms of hardware.",
+              "Its rear cameras include a 50-megapixel main sensor, a 12-megapixel ultrawide, and a 10-megapixel telephoto lens.",
+              "The $1,099.99 S26 Plus, meanwhile, retains the same features but adds a larger 6.7-inch display and a bigger 4,900mAh battery, which in theory means it could last longer on a single charge than the S26.",
+              "Its camera system is the most advanced, as well, offering a 200-megapixel main sensor, a 50-megapixel ultrawide, and two dedicated telephoto lenses with 3x and 5x optical zoom so you can zoom in farther without losing image quality."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "New York sues Valve, alleging its loot boxes are ‘quintessential gambling’",
+            "link": "https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "6da2bc0989e15d376bafb88026bc3471da9ec74e"
+          },
+          "review": {
+            "headline_rewrite": "New York sues Valve, alleging its loot boxes are ‘quintessential gambling’",
+            "bullets": [
+              "The attorney general seeks to “permanently stop Valve from promoting gambling features in its games, disgorge all ill-gotten gains, and pay fines for violating New York’s laws.”\nNew York sues Valve, alleging its loot boxes are ‘quintessential gambling’\nAttorney General Letitia James seeks to stop Valve from promoting gambling features in games like Counter-Strike 2.",
+              "Valve has made “tens of millions of dollars” selling loot box keys to “thousands” of New York residents and has “made millions of dollars more in commissions from New Yorkers who sold virtual items obtained from loot boxes.” The company’s loot boxes are also “particularly pernicious” because they’re popular with children and adolescents, according to the complaint.",
+              "Most Popular\n- Hands on: I’m super impressed with the Galaxy S26 Ultra’s new Privacy Display\n- Google Gemini can book an Uber or order food for you on Pixel 10 and Galaxy S26\n- YouTube’s cheaper subscription is getting background play and downloads\n- The DJI Romo robovac had security so poor, this man remotely accessed thousands of them\n- Samsung’s artsy Frame TV has dropped to a record-low price for a limited time"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Judge: xAI can’t claim OpenAI stole trade secrets just by hiring ex-staffers",
+            "link": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "bb0e3cc5a8b9eeba96048aebf83156dde04f8770"
+          },
+          "review": {
+            "headline_rewrite": "Judge: xAI can’t claim OpenAI stole trade secrets just by hiring ex-staffers",
+            "bullets": [
+              "Elon Musk appears to be grasping at straws in a lawsuit accusing OpenAI of poaching eight xAI employees in an allegedly unlawful bid to access xAI trade secrets connected to its data centers and chatbot, Grok.",
+              "In a Tuesday order granting OpenAI’s motion to dismiss, US District Judge Rita F.",
+              "Lin said that xAI failed to provide evidence of any misconduct from OpenAI.",
+              "Instead, xAI seemed fixated on a range of alleged conduct of former employees.",
+              "But in assessing xAI’s claims, Lin said that xAI failed to show proof that OpenAI induced any of these employees to steal trade secrets “or that these former xAI employees used any stolen trade secrets once employed by OpenAI.”\nTwo employees admitted to stealing confidential information, with both downloading xAI’s source code and one improperly grabbing a supposedly sensitive recording from a Musk “All Hands” meeting.",
+              "But the rest were either accused of retaining seemingly less consequential data, like retaining work chats on their devices, or didn’t seem to hold any confidential information at all."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 26, 2026 Americans, White House wants you to know it is negotiating with Google, Microsoft, Amazon, Meta and others to keep your electricity bills down Tech giants like Google, Microsoft, and Meta are set to pledge covering their own energy costs for new data centers. This White House initiative aims to prevent rising electricity bills for American consumers, driven by AI's massive power demands. Companies will invest in their own power solutions, avoiding grid strain and public backlash.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/americans-white-house-wants-you-to-know-it-is-negotiating-with-google-microsoft-amazon-meta-and-others-to-keep-your-electricity-bills-down/articleshow/128794141.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "c700d025b62c01dd84327715f31aa29689cee390"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 26, 2026 Americans, White House wants you to know it is negotiating with Google, Microsoft, Amazon, Meta and others to keep your electricity bills down Tech giants like Google, Microsoft, and Meta are set to pledge covering their own energy costs for new data centers. This White House initiative aims to prevent rising electricity bills for American consumers, driven by AI's massive power demands. Companies will invest in their own power solutions, avoiding grid strain and public backlash.",
+            "bullets": [
+              "The deal likely to be announced next month aims to shield American consumers from rising electricity costs.",
+              "Earlier this week, President Donald Trump said that he was negotiating pledges from major tech companies to pay a greater share of the energy costs associated with new data centers.",
+              "âWeâre telling the major tech companies they have the obligation to provide for their own power needs and can build their own power plants so no oneâs prices will go up,â Trump said.",
+              "He called it a âratepayer protection pledge.â\nThe tech companies expected to appear with Trump next week include Amazon, Google, Meta, Microsoft, xAI, Oracle and OpenAI, according to a White House official.",
+              "Others on the invite list include Elon Muskâs xAI Corp., Oracle Corp.",
+              "and OpenAI Inc."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
