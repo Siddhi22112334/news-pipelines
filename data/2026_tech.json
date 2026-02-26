@@ -189608,6 +189608,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:00": [
+        {
+          "item": {
+            "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+            "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b01975006c0ea1b577d50aa457192bf480d71e34"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic CEO stands firm as Pentagon deadline looms",
+            "bullets": [
+              "Anthropic CEO Dario Amodei said Thursday that he “cannot in good conscience accede to [the Pentagon’s] request” to give the military unrestricted access to its AI systems.",
+              "“However, in a narrow set of cases, we believe AI can undermine, rather than defend, democratic values.",
+              "The Department of Defense has attempted to force Amodei’s hand by either labeling Anthropic a supply chain risk — a designation reserved for foreign adversaries — or invoke the Defense Production Act and effectively force the firm to do its bidding.",
+              "The DPA gives the president the authority to force companies to prioritize or expand production for national defense.",
+              "“One labels us a security risk; the other labels Claude as essential to national security.”\nHe added that it’s the Department’s right to choose contractors most aligned with its vision, “but given the substantial value that Anthropic’s technology provides to our armed forces, we hope they reconsider.”\nAnthropic is currently the only frontier AI lab that has classified-ready systems for the military, though the DOD is reportedly getting xAI ready for the job.",
+              "“Our strong preference is to continue to serve the Department and our warfighters—with our two requested safeguards in place,” Amodei said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
+            "link": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
+            "site_name": "The Verge",
+            "novelty_hash": "bbc9208c4259c27bad9084d7490faa45ab7460e4"
+          },
+          "review": {
+            "headline_rewrite": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
+            "bullets": [
+              "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday.",
+              "The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling appointments to generating study plans while you do something else.",
+              "Microsoft’s Copilot Tasks AI uses its own computer to get things done\nThe AI assistant can do things like turn emails, attachments, and images from your inbox into a slide deck, or offer rundowns on nearby apartment listings.",
+              "You can call upon Copilot Tasks to do things like organize your subscriptions and cancel the ones you don’t use, as well as turn emails, attachments, and images from your inbox into a slide deck.",
+              "Some other use cases include having the AI assistant surface urgent emails and draft replies, plan a birthday party from venue to invites; and keep tabs on new apartment listings every Friday, even setting up home tours.",
+              "Copilot Tasks appears to be Microsoft’s response to the agentic AI capabilities launched in recent months, including Claude Cowork, ChatGPT Agent Mode, Perplexity Computer, and the Gemini-powered “auto-browse” feature in Google Chrome."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "PayPal might not be looking to sell itself: Report",
+            "link": "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "588b7699f6938b3a790b8b33bdc43700b011dd86"
+          },
+          "review": {
+            "headline_rewrite": "PayPal might not be looking to sell itself: Report",
+            "bullets": [
+              "PayPal may not be pursuing an acquisition, Semafor reported, citing people familiar with the matter.",
+              "Earlier this week, Bloomberg reported that Stripe expressed interest in buying some or all of PayPal Holdings, which includes the flagship product PayPal and its services, as well as other companies like Venmo.",
+              "But unnamed sources tell Semafor that the company has been working with bankers in preparation for a possible activist investor campaign or a hostile takeover.",
+              "The company’s new CEO starts next week, PayPal has said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Why no magnets in Galaxy S26? Samsung R&#038;D chief explains",
+            "link": "https://www.theverge.com/news/885616/samsung-galaxy-s26-no-magnets-because-people-use-cases",
+            "site_name": "The Verge",
+            "novelty_hash": "e10e5f6bc393edee2f39ffe6922c91eedfd09d88"
+          },
+          "review": {
+            "headline_rewrite": "Why no magnets in Galaxy S26? Samsung R&#038;D chief explains",
+            "bullets": [
+              "Samsung R&D chief explains\nIt’s the case problem.",
+              "Most Popular\n- Burger King will use AI to check if employees say ‘please’ and ‘thank you’\n- Hands on: I’m super impressed with the Galaxy S26 Ultra’s new Privacy Display\n- Google and Samsung just launched the AI features Apple couldn’t with Siri\n- Corsair is halting Drop sales after March 25th\n- Here’s how the new Samsung Galaxy S26 compares with last year’s S25"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
+            "link": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
+            "site_name": "WIRED",
+            "novelty_hash": "2c03a3579347ea12015e2c8cdfeaa44c17c6eb9d"
+          },
+          "review": {
+            "headline_rewrite": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
+            "bullets": [
+              "Articles mentioned in this episode:\n- Are You ‘Agentic’ Enough for the AI Era?",
+              "Transcript\nNote: This is an automated transcript, which may contain errors.",
+              "Before we get completely derailed by the name, Anthropic, they won this contract and then things have gotten pretty tense since then because basically these two sides have very, very different views on how AI technology should be used by the DOD.",
+              "This is a stance that is not OK with certain members of the DOD, namely Defense Secretary Pete Hegseth.",
+              "The company has until Friday to comply with the Pentagon's demands, basically saying that the AI can be used however the DOD wants without restrictions, or the DOD might actually cancel their contract.",
+              "Brian Barrett: Zoë, what's fascinating to me about this, among many things, including the DOD's threat to use the power of the state to force Anthropic to give them access to its AI to do whatever it wants, the DOD has options here."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
+            "link": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "9087963282249b97064ff2b668350d8b64bbe35b"
+          },
+          "review": {
+            "headline_rewrite": "xAI spent $7M building wall that barely muffles annoying power plant noise",
+            "bullets": [
+              "For miles around xAI’s makeshift power plant in Southaven, Mississippi, neighbors have endured months of constant roaring, erupting pops, and bursts of high-pitched whining from 27 temporary gas turbines installed without consulting the community.",
+              "In a report on Thursday, NBC News interviewed residents fighting to shut down xAI’s turbines.",
+              "They confirmed that xAI operates the turbines day and night, allegedly tormenting residents in order to power xAI founder Elon Musk’s unbridled AI ambitions.",
+              "Eventually, 41 permanent gas turbines—that supposedly won’t be as noisy—will be installed, if xAI can secure the permitting.",
+              "In the meantime, xAI has erected a $7 million “sound barrier” that’s supposed to mitigate some of the noise.",
+              "However, residents told NBC News that the wall that xAI built does little to quiet the din."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
