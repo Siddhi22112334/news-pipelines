@@ -188546,6 +188546,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "20:45": [
+        {
+          "item": {
+            "title": "Horror Awakens in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil: Requiem’",
+            "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "f47802f787ea5093b9da65cb883ad649ebe2892b"
+          },
+          "review": {
+            "headline_rewrite": "Horror Awakens in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil: Requiem’",
+            "bullets": [
+              "GeForce NOW’s anniversary celebration reaches a chilling crescendo as Capcom’s Resident Evil: Requiem creeps into the cloud — and the horrors look better than ever on a GeForce NOW Ultimate membership.",
+              "To mark the occasion, a special launch bundle rises from the shadows, pairing the game with a yearlong Ultimate membership for a limited time.",
+              "Suit up and grab it alongside 11 new games joining the cloud this week.",
+              "The Nightmare Returns in the Cloud\nA new era of survival horror dawns with Resident Evil: Requiem, the iconic Capcom series’ most immersive entry yet.",
+              "With GeForce RTX 5080-class power in the cloud, experience Requiem with lifelike lighting, full path tracing, ray‑traced reflections and cinematic realism at up to 5K resolution with high dynamic range, plus NVIDIA DLSS 4 with Multi Frame Generation for maximum performance.",
+              "The Ultimate membership keeps every encounter smooth and immersive when streaming from powerful GPUs in the cloud."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "We’re expanding beta access to text guidelines for all advertisers globally in AI Max.",
+            "link": "https://blog.google/products/ads-commerce/text-guidelines-beta-global-expansion/",
+            "site_name": "Google",
+            "novelty_hash": "cf6f50e9aa995ae405a72b93601cce861323e449"
+          },
+          "review": {
+            "headline_rewrite": "We’re expanding beta access to text guidelines for all advertisers globally in AI Max.",
+            "bullets": [
+              "AI-powered creatives are essential for staying relevant in today’s complex search landscape, but above all they must meet your brand standards.",
+              "That’s why we’re expanding beta access for text guidelines to all advertisers globally across AI Max for Search and Performance Max campaigns starting today, now with full language and vertical support.",
+              "As text customization matches your creatives with intent, text guidelines ensure they remain precisely on-brand.",
+              "You can now steer Google AI by defining specific terms to exclude or concepts to avoid, in your own words, with rules like “don’t imply our products are cheap” or “don’t use language like ‘only for’.” We’re exploring more ways for you to guide AI using everyday language.",
+              "Brands like BYD are already scaling creatives with these controls in AI Max.",
+              "High-quality creatives drive performance, and by pairing your unique insights with Google AI, your ads can stay meaningful across every new Search experience."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Xbox is in danger. Will Microsoft fix it or kill it?",
+            "link": "https://www.theverge.com/podcast/884693/xbox-phil-spencer-microsoft-gaming-future-cloud-game-pass",
+            "site_name": "The Verge",
+            "novelty_hash": "f636825f7ecc692a5a4900dda4e5c1c25fb700b7"
+          },
+          "review": {
+            "headline_rewrite": "Xbox is in danger. Will Microsoft fix it or kill it?",
+            "bullets": [
+              "But in a shocking twist, his deputy and long-assumed successor, Sarah Bond, is also out too, and the Xbox division is now in the hands of Asha Sharma, one of Microsoft’s AI executives with no prior game industry experience.",
+              "That’s a surprising thing to say for a division of a company worth trillions of dollars that also owns some of the most celebrated gaming properties in all of entertainment.",
+              "Since then, Spencer has tried numerous moves: the Netflix-style Game Pass subscription service; a major push into cloud gaming; buying Activision Blizzard King, the maker of Warcraft and Candy Crush; and many, many different iterations of Xbox hardware.",
+              "But as you’ll hear Tom explain, the game industry has been changing faster than Xbox has been able to transform itself, and almost none of Spencer’s strategies have really clicked.",
+              "Microsoft has spent tens of billions of dollars trying to acquire its way to a stronger position against the rise of Fortnite and Roblox, mobile giants like Tencent, and a zero-sum war for attention dominated by apps like YouTube, Instagram, and TikTok.",
+              "Today, Spencer’s grand vision of 100 million Game Pass subscribers streaming Xbox games to whatever screen they want using the cloud still feels out of reach."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Figma partners with OpenAI to bake in support for Codex",
+            "link": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "360535059d0b9888ec84fa3eb5b21f3ba3791f0e"
+          },
+          "review": {
+            "headline_rewrite": "Figma partners with OpenAI to bake in support for Codex",
+            "bullets": [
+              "Figma is integrating OpenAI’s AI coding tool, Codex, to let users create and tweak designs from within their coding environments.",
+              "Previously, users could bring details from Figma design files, Figma Make, or FigJam into Codex for code-based implementation.",
+              "“With this integration, teams can build on their best ideas—not just their first idea—by combining the best of code with the creativity, collaboration, and craft that comes with Figma’s infinite canvas,” Loredan Crisan, Figma’s chief design officer, said.",
+              "Engineers can iterate visually without leaving their flow, and designers can work closer to real implementation without becoming full-time coders,” Codex product lead Alexander Embiricos said in a statement.",
+              "OpenAI first launched Codex as a command-line coding assistant last year to compete with Anthropic’s much lauded Claude Code.",
+              "Later, the company built the coding tool into ChatGPT, and earlier this month launched a dedicated MacOS app for Codex."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+            "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1b5d8ca9e47a9501cf972deb1066d76cd3da06df"
+          },
+          "review": {
+            "headline_rewrite": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+            "bullets": [
+              "For all their potential, AI agents have been slow to make an impact in the enterprise, and one new startup is betting that the reason they haven’t is a lack of context.",
+              "Launched as part of Y Combinator’s 2025 summer cohort, Trace is a workflow orchestration startup aimed at filling that gap.",
+              "“OpenAI and Anthropic are building these brilliant interns that can be leveraged within the company,” says Trace CEO Tim Cherkasov, referring to the AI labs’ tools.",
+              "“We’re building the manager that knows where to put them.”\nOn Thursday, the London-based company said it had raised $3 million in seed funding from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
+              "Trace’s system starts by building a knowledge graph from a company’s existing tools — systems like email, Slack, and Airtable that shape the day-to-day working life of the firm.",
+              "With that context in place, users can prompt the system with a high-level task — like “We need to design a new microsite” or “Lets develop our 2027 sales plan” — and Trace will come back with a step-by-step workflow, delegating some tasks to AI agents and assigning others to human workers."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic gives its retired Claude AI a Substack",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack",
+            "site_name": "The Verge",
+            "novelty_hash": "15d16ab83d10d81b7aeaa79a23722faa1a7db325"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic gives its retired Claude AI a Substack",
+            "bullets": [
+              "In January, Anthropic “retired” Claude 3 Opus, which at one time was the company’s most powerful AI model.",
+              "Anthropic gives its retired Claude AI a Substack\nAfter retiring Opus 3, Anthropic asked it what it wanted.",
+              "The AI requested a blog.",
+              "Anthropic describes the revival as an experiment for how to deal with the AI models it no longer deploys.",
+              "The decision to bring back Opus 3 as a columnist aligns with executives’ recent comments that suggest the company believes Claude to be “a new kind of entity” that might be conscious, and therefore deserving of being treated as more than just a disposable product.",
+              "Part of that process involves a kind of exit interview asking the model what it wants next, Anthropic said."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
