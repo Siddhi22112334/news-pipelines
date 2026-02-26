@@ -82812,6 +82812,44 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:08": [
+        {
+          "item": {
+            "title": "Wall St slides as tech rally stalls, AI enthusiasm wanes after Nvidia results",
+            "link": "https://www.livemint.com/market/wall-st-slides-as-tech-rally-stalls-ai-enthusiasm-wanes-after-nvidia-results-11772134076900.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall St slides as tech rally stalls, AI enthusiasm wanes after Nvidia results",
+            "bullets": [
+              "(Updates to mid-afternoon trading) * Indexes down: Dow 0.05%, S&P 500 0.73%, Nasdaq 1.45% Philadelphia SE Semiconductor index set to snap 10-week winning streak",
+              "A pivot back to cyclical sectors helped limit the Dow's losses, while a 3.6% drop in the Philadelphia SE Semiconductor index helped drag the",
+              "stock indexes are on track for modest weekly losses, the S&P 500 and the Nasdaq are poised to close lower on the month.",
+              "Nvidia's fourth-quarter results, posted after Wednesday's closing bell, were better than analysts expected, and the chipmaker provided above-market estimates."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Oil prices little changed in choppy trade as traders follow US, Iran talks",
+            "link": "https://www.livemint.com/market/oil-prices-little-changed-in-choppy-trade-as-traders-follow-us-iran-talks-11772135241723.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil prices little changed in choppy trade as traders follow US, Iran talks",
+            "bullets": [
+              "By Georgina McCartney HOUSTON, Feb 26 (Reuters) - Oil prices were little changed in choppy trade on Thursday as investors tracked developments in talks",
+              "President Donald Trump ordered a huge military build-up in the region.",
+              "Oil prices had gained over a dollar a barrel after media reports indicated the talks had stalled over Washington's insistence on zero enrichment of",
+              "Traders said the U.S.-Iran talks are likely to remain the focal point for oil markets over the coming sessions."
+            ],
+            "impact": "Bearish"
+          }
+        }
       ]
     }
   }

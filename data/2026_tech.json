@@ -189139,6 +189139,128 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:08": [
+        {
+          "item": {
+            "title": "AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions",
+            "link": "https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "a49b9698bf5e345599de066ceca41d88757fc2f1"
+          },
+          "review": {
+            "headline_rewrite": "AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions",
+            "bullets": [
+              "AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions\nAt re:Invent 2025, we introduced a completely re-imagined AWS Security Hub that unifies AWS security services, including Amazon GuardDuty and Amazon Inspector into a single experience.",
+              "This unified experience automatically and continuously analyzes security findings in combination to help you prioritize and respond to your critical security risks.",
+              "Today, we’re announcing AWS Security Hub Extended, a plan of Security Hub that simplifies how you procure, deploy, and integrate a full-stack enterprise security solution across endpoint, identity, email, network, data, browser, cloud, AI, and security operations.",
+              "With the Extended plan, you can expand your security portfolio beyond AWS to help protect your enterprise estate through a curated selection of AWS Partner solutions, including 7AI, Britive, CrowdStrike, Cyera, Island, Noma, Okta, Oligo, Opti, Proofpoint, SailPoint, Splunk, a Cisco company, Upwind, and Zscaler.",
+              "You can also get unified security operations experience within Security Hub and unified Level 1 support for AWS Enterprise Support customers.",
+              "Security findings from all participating solutions are emitted in the Open Cybersecurity Schema Framework (OCSF) schema and automatically aggregated in AWS Security Hub."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+            "link": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "e3b1bccdb0df5deb57a6b072bbd48ef9dd0c5c16"
+          },
+          "review": {
+            "headline_rewrite": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+            "bullets": [
+              "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale.",
+              "Powered by a DGX SuperPOD with 1,016 NVIDIA Blackwell Ultra GPUs, Lilly’s AI factory delivers more than 9,000 petaflops of AI performance.",
+              "“It’s a big day for us with the supercomputer coming on board, but it’s a day 150 years in the making,” said Diogo Rau, executive vice president and chief information and digital officer at Lilly.",
+              "We are, right here, right now, at the right moment to advance biology in a way that has just never been done before.”\nComputational power that once required 7 million Cray supercomputers now fits inside a single NVIDIA GPU — and LillyPod contains more than 1,000 of them.",
+              "This infrastructure enables Lilly’s genomics team to harness 700 terabytes of data using over 290 terabytes of high-bandwidth GPU memory.",
+              "“Computation is at the heart of biology and it is at the heart of science,” said Thomas Fuchs, senior vice president and chief AI officer at Lilly."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Old masters, new perspectives: The Gemäldegalerie in Berlin",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/old-masters-new-perspectives-the-gemaldegalerie-in-berlin/",
+            "site_name": "Google",
+            "novelty_hash": "fa47480e7e3d128a43168b87a6ea1e7df37c2170"
+          },
+          "review": {
+            "headline_rewrite": "Old masters, new perspectives: The Gemäldegalerie in Berlin",
+            "bullets": [
+              "Old masters, new perspectives: The Gemäldegalerie in Berlin\nThe Gemäldegalerie, Berlin’s renowned painting gallery, guards one of the most important treasures of European art history.",
+              "The museum houses masterpieces from the 13th to the 18th century — including paintings by Jan van Eyck, Pieter Bruegel, Albrecht Dürer, Botticelli, Raphael, Titian, Caravaggio, Peter Paul Rubens, Rembrandt, Jan Vermeer and Angelika Kauffmann.",
+              "Zoom into the collection\nThis is the largest art digitization for a museum that Google Arts & Culture has undertaken to date for more than 1,100 paintings — including masterpieces by Albrecht Dürer, Caravaggio, and Rembrandt.",
+              "You can also explore the paintings organised by time or color.",
+              "A digital magnifying glass: Zoom in to discover hidden details in masterpieces like Hans Holbein's \"The Merchant Georg Gisze.\"\nBehind the scenes: Using Art Camera technology, over 1,100 masterpieces from the Gemäldegalerie were digitized in high-resolution gigapixel quality.",
+              "These Gigapixel images act as a digital magnifying glass allowing both experts and art enthusiasts alike to examine the surfaces of the paintings in minute detail."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+            "site_name": "Google",
+            "novelty_hash": "cc80b57bc5f3fc0acdfc2d06169ba410731b5962"
+          },
+          "review": {
+            "headline_rewrite": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+            "bullets": [
+              "AI is creating new opportunities across the workforce.",
+              "Today, we announced with Governor Maura Healey that Google is partnering with the Massachusetts AI Hub to provide every Bay Stater with no-cost access to Google’s AI and career training through our Grow with Google program.",
+              "This includes Google’s new AI Professional Certificate and the Google Career Certificates program.",
+              "We’re excited to help Massachusetts residents learn how to use AI tools in their everyday work and create opportunities for career advancement.",
+              "This partnership builds on our ongoing AI and career training commitments in Arkansas, Connecticut, Oklahoma and Virginia.",
+              "By equipping residents with essential AI literacy, Massachusetts is ensuring its workforce is prepared for the jobs of today and tomorrow."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm won&#8217;t be announcing Windows gaming handhelds at GDC after all",
+            "link": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+            "site_name": "The Verge",
+            "novelty_hash": "a831da024fafe4e003cba8c822a2912e7d058240"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm won&#8217;t be announcing Windows gaming handhelds at GDC after all",
+            "bullets": [
+              "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco — just in time to challenge Nvidia’s own first Arm gaming CPU and Intel’s first dedicated handheld gaming chips.",
+              "It won’t announce any updates to its Snapdragon G Series gaming chips there, nor offer the recently announced updates to the Snapdragon X line for journalists to try or benchmark.",
+              "Our commitment remains strong, and we can’t wait to share more information about these areas,” reads part of a statement to The Verge via Qualcomm spokesperson Cassandra Garcia-Bacha.",
+              "In Qualcomm’s February earnings call, president and CEO Cristiano Amon attributed a big dip in its chip business “100 percent” to the memory shortage, telling investors that the AI industry’s appetite for components would likely define the entire scale of the phone industry all year long.",
+              "“We just wish there was more memory,” said Amon.",
+              "But the Windows gaming handheld delay could also have something to do with Microsoft, which has worked very closely with Qualcomm on previous Windows on Arm launches and tightly controls partner announcements."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "So, we’re getting Prada Meta AI glasses, right?",
+            "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c0b86c6474e1c47d8927cb068c25ff9751b2b482"
+          },
+          "review": {
+            "headline_rewrite": "So, we’re getting Prada Meta AI glasses, right?",
+            "bullets": [
+              "Could Meta be preparing to launch a Prada version of its Meta AI glasses?",
+              "CNBC reported last summer that Prada AI glasses were in the works, among others.",
+              "This month, the company announced it sold over 7 million AI glasses in 2025, up from 2 million in the prior year.",
+              "Now, it seems, Prada AI glasses could be next, given that Prada and EssilorLuxottica already renewed their licensing deal for eyewear under the Prada and Miu Miu brands for the next ten years.",
+              "(The existing agreement, which expired on December 31, 2025, was later extended through December 31, 2030, with the provision for renewal until December 31, 2035.)\nPrada AI glasses could give Meta a foothold in the high-fashion market, a niche that its Oakleys and Ray-Bans don’t yet address.",
+              "However, there are some concerns that AI glasses aren’t the right fit for a world that’s seeing an increased consumer backlash against surveillance devices, which have recently led people to rip out their Ring doorbells and smash Flock cameras."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
