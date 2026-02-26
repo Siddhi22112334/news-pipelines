@@ -187929,6 +187929,78 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "14:17": [
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "64b09d5569bc60d5a730ddd1788cf288a62a878f"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nNvidia earnings chevron_right\nNvidia CEO Jensen Huang discusses AI competition and chip demand chevron_right\nMeta signs multi-year AI chip deal with AMD chevron_rightBank of America resets AMD stock price target on deal with Meta\nMeta and AMD Agree to AI Chips Deal Worth More Than $100 Billion\nthestreet.com\nBy Vuk Zdinjak & Celine Provini\nWSJ\nBy Meghan Bobrowsky & Robbie Whelan\nTechCrunch\nBy Tim Fernholz\nSalesforce earnings report chevron_rightSalesforce shares sink on mixed guidance as company commits $50 billion for buybacks\nCNBC\nBy Jordan Novet\nAI fears on Wall Street chevron_right\nSarandos meets with White House officials over Warner Bros.",
+              "bid\nDeadline\nBy Dominic Patten\nPolitico\nBy Yasmin Khorram\nStellantis EV writedown chevron_right\nExperts discuss whether AI will make human workers obsolete chevron_rightEx–presidential candidate Andrew Yang warns that millions of white-collar workers will lose their jobs within 18 months\nFortune\nBy Preston Fore\nIonQ Q4 earnings chevron_rightIonQ Stock Jumps After Earnings Beat.",
+              "Barron's\nBy Mackenzie Tatananni\nDiageo dividend cut chevron_right\nArtificial Intelligence stocks chevron_right\nThe Trade Desk Q4 earnings chevron_right\nCisco SD-WAN flaw CVE-2026-20127 allows unauthenticated admin access chevron_right\nNexstar's WGN newsroom layoffs chevron_rightKTLA layoffs hit local TV news hosts Mark Kriski, Lu Parker and Glen Walker\nNexstar lays off local TV journalists including KTLA’s Glen Walker and Lu Parker\nLos Angeles Daily News\nBy Peter Larsen\nLos Angeles Times\nBy Stephen Battaglio\nParamount Q4 revenue chevron_right\nSnowflake revenue chevron_rightSnowflake Earnings, Revenue Edge By Estimates As Guidance Underwhelms\nInvestor's Business Daily\nBy Reinhardt Krause\nUS mortgage rates chevron_right\nFDA issues highest risk recall for frozen blueberries chevron_rightOregon company recalls 55,000 pounds of frozen berries due to listeria concerns\nOregonLive.com\nBy Veronica Nocera\nAston Martin cuts 20% of workforce as losses widen chevron_right\nBy Victoria Guida\nSouthern Company to use loan for natural gas, nuclear power upgrades chevron_rightEnergy Department Announces Largest Loan in Department History, Delivering Over $7 Billion in Electricity Cost Savings for Georgia and Alabama Customers\nDepartment of Energy (.gov)\nWaymo begins mapping Chicago streets for future robotaxi service chevron_right\nNovo Nordisk signs $2.1 billion deal with Vivtex chevron_rightLanger-founded biotech lands massive Novo Nordisk deal as obesity drug race heats up\nThe Business Journals\nMoody's on data centers chevron_rightMoody’s flags $662 billion risk at the heart of the data center build-out by just 5 companies\nMoody’s alert cites gap in data centre accounting for Big Tech companies\nBy Nick Lichtenberg\nFinancial Times\nBy Stephen Foley\nThere are no items to show."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 26, 2026 Galaxy S26 series launch: Samsung partners with Perplexity but Google Gemini remains central to AI features",
+            "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/galaxy-s26-series-launch-samsung-partners-with-perplexity-but-google-gemini-remains-central-to-ai-features/articleshow/128807043.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "03269de12a3025b109a1fb0cda310aaee8fa1e53"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 26, 2026 Galaxy S26 series launch: Samsung partners with Perplexity but Google Gemini remains central to AI features",
+            "bullets": [
+              "Samsung Galaxy S26 series has been launched and one of the most important announcements made at the Galaxy Unpacked event was the companyâs partnership to bring Perplexity to its phones.",
+              "Samsung Galaxy S26 series of smartphones will ship with Bixby, Perplexity and Gemini â giving users choice to use the AI of their liking.",
+              "âAI must become part of our infrastructure.",
+              "You should be able to enjoy its benefits through the devices you use every day,â said TM Roh, Samsung's CEO of device experience, during a showcase held in San Francisco.",
+              "âThis is the agentic AI phone,â Roh added of the Galaxy S26.",
+              "Samsung Galaxy S26 arrive with broad set of AI features\nSamsung announced that the latest phones offer a huge set of AI features that are built into the core experience, with Google Gemini playing a central role alongside Samsung's own Bixby and a new partnership with AI search platform Perplexity."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "ef0bbf0ad27dfe9881d9c249578ec39db5a4c306"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nNEWS FOR YOU\nWhat Utah is buzzing about\nTOP COLORADO NEWS\nYour Central Valley News Source\nOakland news to know\nEntertainment & Arts\nBaltimore news to know\nTampa Bay Times Top Stories\nIn Brief\nAfternoon Update\nGRAND FORKS ND NEWS\nTop News\nToledo's Leader in News, Sports & Entertainment\nSauk Valley\nTop Stories\nThe Rundown\nLatest and Local – Cheyenne, WY\nLatest news from CentralMaine.com\nJAMESTOWN ND NEWS\nWednesday News Roundup -- Evening Edition\nKane County Chronicle\nFort Worth & Tarrant County headlines\nThe Morning Rundown (Feb.",
+              "25, 2026)\nFARGO-MOORHEAD NEWS\nNews from Gainesville, FL\nWednesday's news in Alexandria\nMywebtimes\nNew York City News Today\nToday's Rundown\nFrieze Los Angeles returns to Santa Monica Airport with 100-plus galleries\nLatest news for Edmonds\nLatest and Local – Casper, WY\nLatino News\nLATEST CALIFORNIA NEWS\nLatest Headlines\nWILLMAR MINNESOTA NEWS\n@NorthcentralPa\nWhat to know in Baton Rouge\nNews\nHawaii’s In-Depth News Source\nDaily Briefing\nThe Evening Recap | February 25, 2026\nGJ Sentinel Headlines 2/25/26\nBRAINERD MINNESOTA NEWS\nHappening In Loudoun County\nTODAY IN SANTA CRUZ COUNTY\nLuxury Real Estate News\nDULUTH MINNESOTA NEWS\nCobb Courier Evening Update February 25, 2026\nDaily Rundown\nMITCHELL SD NEWS\nThe Business Journal of the Boulder Valley and Northern Colorado\nImmigration News\nSCV News from The Signal for Feb.",
+              "25, 2026\nBridgeDetroit\nCHARLOTTE HEADLINES\nDaily Dose of Neighborhood News 2.25.26\nTucson's watchdog news\nWednesday's news in Arlington, Virginia\nNews Tribune\nBest of Wednesday\nToday's Top Headlines\nDICKINSON ND NEWS\nSAN FRANCISCO'S TOP STORIES\nBerkeley news to know\nTrending in Olathe\nWednesday Evening Update 2-25-2026\nDaily News\nNews of the day\nTODAY'S TOP STORIES\nSan Diego Wednesday Evening Report\nLatest news from The Portland Press Herald\nLane County News\nLatest news from Baltimore, Montgomery County and across Maryland\nROCHESTER MINNESOTA NEWS\nA wrap on the day’s hard-hitting news and opinion\nAfternoon rundown\nWhat to know in New Orleans\nBEMIDJI MINNESOTA NEWS\nWednesday Night News\nWednesday's news in Fairfax County\nThe Herald News\nTop Stories from The Wilson Times"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
