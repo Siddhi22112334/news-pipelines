@@ -188907,5 +188907,121 @@
         }
       ]
     }
+  },
+  "2026-02-27": {
+    "runs": {
+      "00:23": [
+        {
+          "item": {
+            "title": "AWS Security Hub Extended oﬀers full-stack enterprise security with curated partner solutions",
+            "link": "https://aws.amazon.com/blogs/aws/aws-security-hub-extended-o%EF%AC%80ers-full-stack-enterprise-security-with-curated-partner-solutions/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "0c12e3ac67452445f319b1a3cc54458a33615591"
+          },
+          "review": {
+            "headline_rewrite": "AWS Security Hub Extended oﬀers full-stack enterprise security with curated partner solutions",
+            "bullets": [
+              "AWS Security Hub Extended oﬀers full-stack enterprise security with curated partner solutions\nAt re:Invent 2025, we introduced a completely re-imagined AWS Security Hub that unifies AWS security services, including Amazon GuardDuty and Amazon Inspector into a single experience.",
+              "This unified experience automatically and continuously analyzes security findings in combination to help you prioritize and respond to your critical security risks.",
+              "Today, we’re announcing AWS Security Hub Extended, a plan of Security Hub that simplifies how you procure, deploy, and integrate a full-stack enterprise security solution across endpoint, identity, email, network, data, browser, cloud, AI, and security operations.",
+              "With the Extended plan, you can expand your security portfolio beyond AWS to help protect your enterprise estate through a curated selection of AWS Partner solutions, including 7AI, Britive, CrowdStrike, Cyera, Island, Noma, Okta, Oligo, Opti, Proofpoint, SailPoint, Splunk, a Cisco company, Upwind, and Zscaler.",
+              "You can also get unified security operations experience within Security Hub and unified Level 1 support for AWS Enterprise Support customers.",
+              "Security findings from all participating solutions are emitted in the Open Cybersecurity Schema Framework (OCSF) schema and automatically aggregated in AWS Security Hub."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+            "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+            "site_name": "Google",
+            "novelty_hash": "f8b6f1e89d97cdff59894cf8518bbbdbe88c49ac"
+          },
+          "review": {
+            "headline_rewrite": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+            "bullets": [
+              "Today, we’re introducing new AI-powered features in Google Translate designed to help you nail the tone of any conversation — from informal hangouts to professional meetings — when it matters most.",
+              "So if you’re looking for more options to convey a phrase like “It’s raining cats and dogs,” you’ll see clear tips on when and why to use different expressions so you pinpoint the right phrasing for your conversation."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+            "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "64f6b6fd8a8d758723d5fbf8654a69aa6bb0b263"
+          },
+          "review": {
+            "headline_rewrite": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+            "bullets": [
+              "Meeting notetaker Read AI on Thursday launched an AI-powered email-based assistant called Ada, saying it helps users manage their schedules, answer questions based on a company’s knowledge base, and reply to out-of-office emails.",
+              "Read AI said that the assistant will be available to all users, and they can start configuring it by sending an email to “ada@read.ai” and writing “Get me started.”\nWhen you ask Ada to find a time to meet with someone, it replies to the other person in the thread with your availability.",
+              "If the other person replies that they are unavailable at those times and would like a different time slot, Ada responds with new options.",
+              "While Ada has access to your calendar through Read AI, it does not reveal the nature of those meetings with other people.",
+              "The startup said that Ada doesn’t reveal any sensitive information without your permission.",
+              "Read AI’s VP of Product, Justin Farris, said that the new feature doesn’t rely on MCPs (model context protocols, a technical standard for connecting AI tools to external services), and instead builds a knowledge graph based on meeting data and connected services for more contextual answers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
+            "link": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "2f6f3b3d3021353d3f9ad37935927ef41492a784"
+          },
+          "review": {
+            "headline_rewrite": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
+            "bullets": [
+              "The last year has been big for Google’s AI efforts.",
+              "Its rapid-fire model releases have brought it to parity with the likes of OpenAI and Anthropic and, in some cases, pushed it into the lead.",
+              "Now, Google has announced yet another update to its image model with Nano Banana 2, which is available starting today.",
+              "Google promises the new image generator will have more advanced world knowledge pulled from the Internet by the Gemini 3.1 LLM.",
+              "The days of squiggly AI text were already ending, but Google says Nano Banana 2 has Pro-like text accuracy in image outputs.",
+              "This, along with richer textures and “vibrant” lighting will aid in visual storytelling with Nano Banana 2."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Threads is testing a shortcut to quickly start DM conversations",
+            "link": "https://techcrunch.com/2026/02/26/threads-is-testing-a-shortcut-to-quickly-start-dm-conversations/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ecc6e62b1d65bd7de1b2e3d8593b4c1f3804dbee"
+          },
+          "review": {
+            "headline_rewrite": "Threads is testing a shortcut to quickly start DM conversations",
+            "bullets": [
+              "The social network recently introduced an AI-powered feature that lets users personalize their feed, and the ability to share posts directly to an Instagram Story without leaving the app.",
+              "The additions come as a recent report from market intelligence firm Similarweb suggested that Threads now surpasses X in daily mobile usage.",
+              "Although X still dominates Threads on the web, the Threads mobile app for iOS and Android has continued to see an increase in daily active users over the past several months.",
+              "The report revealed that Threads had 141.5 million daily active users on mobile as of January 7, 2026, while X had 125 million daily active users."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Razer’s new laptop sleeve wirelessly charges other devices",
+            "link": "https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power",
+            "site_name": "The Verge",
+            "novelty_hash": "bf61c614ec095a7a189fc4475c9a9d4de6cd5499"
+          },
+          "review": {
+            "headline_rewrite": "Razer’s new laptop sleeve wirelessly charges other devices",
+            "bullets": [
+              "What potentially justifies paying $129.99 for Razer’s Laptop Sleeve 16” are the pair of wireless charging pads integrated into its cover flap.",
+              "Most Popular\n- Hands on: I’m super impressed with the Galaxy S26 Ultra’s new Privacy Display\n- Google Gemini can book an Uber or order food for you on Pixel 10 and Galaxy S26\n- Burger King will use AI to check if employees say ‘please’ and ‘thank you’\n- Google and Samsung just launched the AI features Apple couldn’t with Siri\n- Corsair is halting Drop sales after March 25th"
+            ],
+            "impact": "Positive"
+          }
+        }
+      ]
+    }
   }
 }
