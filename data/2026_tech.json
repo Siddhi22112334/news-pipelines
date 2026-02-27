@@ -191813,6 +191813,126 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:58": [
+        {
+          "item": {
+            "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+            "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "05b570aec05c7ffb73da6d807a3e208c97b41cec"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic vs. the Pentagon: What’s actually at stake?",
+            "bullets": [
+              "The past two weeks have been defined by a clash between Anthropic CEO Dario Amodei and Defense Secretary Pete Hegseth as the two battle over the military’s use of AI.",
+              "Anthropic refuses to allow its AI models to be used for mass surveillance of Americans or for fully autonomous weapons that conduct strikes without human input.",
+              "On Thursday, Amodei publicly signaled that Anthropic isn’t backing down — despite threats that his company could be designated as a supply chain risk as a result.",
+              "At its core, this fight is about who controls powerful AI systems — the companies that build them, or the government that wants to deploy them.",
+              "As we said above, Anthropic doesn’t want its AI models to be used for mass surveillance of Americans or for autonomous weapons with no humans in the loop for targeting and firing decisions.",
+              "Traditional defense contractors typically have little say in how their products will be used, but Anthropic has argued from its inception that AI technology poses unique risks and therefore requires unique safeguards."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+            "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0a578e10c90f420ef291077af6278d4ad542c1ed"
+          },
+          "review": {
+            "headline_rewrite": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+            "bullets": [
+              "In a newly released deposition filed in Elon Musk’s case against OpenAI, the tech executive attacked OpenAI’s safety record, claiming that his company, xAI, better prioritizes safety.",
+              "In it, he called on AI labs to pause development of AI systems more powerful than GPT-4, OpenAI’s flagship model at the time, for at least six months.",
+              "The letter, which was signed by over 1,100 people, including many AI experts, stated there was not enough planning and management taking place at AI labs, as they were locked in an “out-of-control race to develop and deploy ever more powerful digital minds that no one — not even their creators — can understand, predict, or reliably control.”\nThose fears have since gained credibility.",
+              "OpenAI now faces a series of lawsuits alleging that ChatGPT’s manipulative conversation tactics have led several people to experience negative mental health effects, with some dying by suicide.",
+              "Musk’s comment suggests that these incidents could be used as fodder in his case against OpenAI.",
+              "The lawsuit against OpenAI centers on the company’s shift from a nonprofit AI research lab to a for-profit company, which Musk claims violated its founding agreements."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount",
+            "link": "https://www.theverge.com/gadgets/886153/amazon-fire-tv-stick-4k-plus-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "8fe1e58ae7894ba4ec9702c87678c1cead869160"
+          },
+          "review": {
+            "headline_rewrite": "Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount",
+            "bullets": [
+              "If you want something cheaper and don’t mind waiting for the update to arrive, the Amazon Fire TV Stick 4K Select is also on sale at Amazon, Best Buy, and Target, for $19.99 ($20 off), which is $2 more than its all-time low price.",
+              "You also get access to all the major streaming services, while Xbox Game Pass Ultimate subscribers can stream select games from the cloud as they can on Amazon’s other sticks.",
+              "after Paramount came back with a better offer\n- Burger King will use AI to check if employees say ‘please’ and ‘thank you’\n- Phones are going to get weird next week\n- Why no magnets in Galaxy S26?",
+              "Samsung R&D chief explains\n- Jack Dorsey’s Block cuts nearly half of its staff in AI gamble"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+            "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+            "site_name": "WIRED",
+            "novelty_hash": "91e7177b40e6c48d54247a452673e25a75527b9d"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+            "bullets": [
+              "OpenAI has fired an employee following an investigation into their activity on prediction market platforms including Polymarket, WIRED has learned.",
+              "OpenAI CEO of Applications, Fidji Simo, disclosed the termination in an internal message to employees earlier this year.",
+              "The employee, she said, “used confidential OpenAI information in connection with external prediction markets (e.g.",
+              "Polymarket).”\n“Our policies prohibit employees from using confidential OpenAI information for personal gain, including in prediction markets,” says spokesperson Kayla Wood.",
+              "OpenAI has not revealed the name of the employee or the specifics of their trades.",
+              "Polymarket runs on the Polygon blockchain network, so its trading ledger is pseudonymous but traceable."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI deepfakes are a train wreck and Samsung&#8217;s selling tickets",
+            "link": "https://www.theverge.com/tech/885727/samsung-execs-unpacked-ai-deepfake-photos-vs-reality-c2pa",
+            "site_name": "The Verge",
+            "novelty_hash": "f6adc08f9ecfbdd1df05fac47dd758d3038e5c76"
+          },
+          "review": {
+            "headline_rewrite": "AI deepfakes are a train wreck and Samsung&#8217;s selling tickets",
+            "bullets": [
+              "AI deepfakes are a train wreck and Samsung’s selling tickets\nSamsung feels little urgency to protect reality from AI deepfakes.",
+              "I asked:\nWe see a divide in society between people who want AI to do impressive things with their photos and videos, and those who don’t want AI to do anything with photos and videos because it’s eroding our ability to believe that what we have seen is real, destroying the concept of photographic evidence.",
+              "Metadata tools like C2PA have utterly failed to stem the tide.",
+              "Does Samsung have any new and different ideas on how to prevent AI images from taking over the world?",
+              "But he, and other Samsung executives, suggested that the company needs to balance the desire for photographic reality with letting smartphone buyers be “more creative.” They passed the buck by suggesting it’s an industry-wide problem, one that requires a broader conversation, and suggested that Samsung has already partially solved it simply by adding a watermark to AI-generated images.",
+              "Given an opening later, an exec suggested our feelings toward AI-generated content might become more favorable in the future."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
+            "link": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ae4b9a7b36c8b9c77c8bdf0e27b364a56cca4613"
+          },
+          "review": {
+            "headline_rewrite": "Whoops: US military laser strike takes down CBP drone near Mexican border",
+            "bullets": [
+              "“Congressional aides told Reuters the Pentagon used the high-energy laser system to shoot down a Customs and Border Protection drone near the Mexican border, in an area that often has incursions from Mexican drones used by drug cartels,” Reuters reported last night.",
+              "The FAA closed some airspace along the border with Mexico in Fort Hancock, Texas, on Thursday with a notice announcing temporary flight restrictions for special security reasons.",
+              "The military hasn’t been coordinating counter-drone measures with the FAA, and “CBP drone operators didn’t inform the military’s laser unit that it was launching,” Bloomberg wrote, citing anonymous sources.",
+              "Because the CBP didn’t notify the Defense Department, the military viewed the aircraft as “an unknown drone,” the Times wrote, citing an unnamed Pentagon official.",
+              "Two laser strikes in February\nThe latest incident came about two weeks after the FAA abruptly closed airspace over El Paso for a few hours, leading to flight cancellations.",
+              "“In both cases, the lasers were used without the FAA’s approval, which many aviation safety experts maintain is a violation of the law,” the Times wrote."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
