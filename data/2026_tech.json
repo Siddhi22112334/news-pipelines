@@ -192524,6 +192524,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:55": [
+        {
+          "item": {
+            "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+            "link": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "313ec61f0e4b486468b9a9cf987b4644cbb32cd8"
+          },
+          "review": {
+            "headline_rewrite": "Pentagon moves to designate Anthropic as a supply-chain risk",
+            "bullets": [
+              "In a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’s public dispute with the Department of Defense.",
+              "The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was no longer welcome as a federal contractor.",
+              "“We don’t need it, we don’t want it, and will not do business with them again,” the president wrote in the post.",
+              "Notably, the President’s post does not mention any plans to designate Anthropic as a supply chain risk, as had been previously mentioned as a consequence.",
+              "“In conjunction with the President’s directive for the Federal Government to cease all use of Anthropic’s technology, I am directing the Department of War to designate Anthropic a Supply-Chain Risk to National Security,” Secretary Hegseth wrote.",
+              "“Effective immediately, no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic.”\nThe Pentagon dispute centered on Anthropic’s refusal to allow its AI models to be used to power either mass domestic surveillance or fully autonomous weapons, which Secretary Hegseth found unduly restrictive."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI fires employee for using confidential info on prediction markets",
+            "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eae9f64f46f768ef4352beab569bb799aa75fd41"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI fires employee for using confidential info on prediction markets",
+            "bullets": [
+              "OpenAI has fired an employee over the employee’s activity on prediction markets, including Polymarket, the company confirmed to Wired.",
+              "The employee used confidential OpenAI information in connection with the trades made, the company alleges.",
+              "OpenAI didn’t release the name of the employee.",
+              "However, a spokesperson said that such actions violated a company policy that bans workers from using inside information for personal gain, including on prediction markets.",
+              "For instance, on Polymarket, there are wagers being made around the kind of products OpenAI will announce in 2026 and when the company will go public.",
+              "As we recently reported, an accountant won a $470,300 jackpot on Kalshi by betting against DOGE believers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump orders federal agencies to drop Anthropic’s AI",
+            "link": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+            "site_name": "The Verge",
+            "novelty_hash": "14da4f6af3fd9a6e39e88108ed95716472295ef6"
+          },
+          "review": {
+            "headline_rewrite": "Trump orders federal agencies to drop Anthropic’s AI",
+            "bullets": [
+              "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to “STRONG-ARM” the Pentagon and directing federal agencies to “IMMEDIATELY CEASE” use of its products.",
+              "Trump orders federal agencies to drop Anthropic’s AI\nAnthropic has refused to agree to the Pentagon’s demand to allow ‘any lawful use’ of its AI.",
+              "As we explained earlier this week, that agreement would give the US military access to use the company’s services for mass domestic surveillance and lethal autonomous weapons, or AI that has full power to track and kill targets with no humans involved in the decision-making process.",
+              "OpenAI and xAI have reportedly already agreed to the new terms, though OpenAI is reportedly looking to negotiate with the Pentagon to adopt the same red lines as Anthropic.",
+              "For weeks, Anthropic and the Pentagon have been locked in a stalemate regarding the acceptable use of Anthropic’s AI technology.",
+              "In a statement Thursday, Amodei wrote that the Pentagon’s “threats do not change our position: we cannot in good conscience accede to their request.” He added that Anthropic has “never raised objections to particular military operations nor attempted to limit use of our technology in an ad hoc manner” but that in a “narrow set of cases, we believe AI can undermine, rather than defend, democratic values.”\nAmodei went on to say that “should the Department choose to offboard Anthropic, we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations, or other critical missions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump Moves to Ban Anthropic From the US Government",
+            "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+            "site_name": "WIRED",
+            "novelty_hash": "1b8ae0e3060516ae6553a65a130f357cdc870618"
+          },
+          "review": {
+            "headline_rewrite": "Trump Moves to Ban Anthropic From the US Government",
+            "bullets": [
+              "US President Donald Trump announced Friday that he was instructing every federal agency to “immediately cease” use of Anthropic’s AI tools.",
+              "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,” Trump said in a post on Truth Social.",
+              "Trump said that there would be a “six month phase out period” for agencies using Anthropic, which could allow time for further negotiations between the government and the AI startup.",
+              "Shortly after the President’s announcement, defense secretary Pete Hegseth said that Anthropic would also be designated a “supply chain risk,” a move normally reserved for foreign businesses considered a danger to American national security.",
+              "The designation will bar the US military and its contractors and suppliers from working with the AI company.",
+              "The Department of Defense has sought to change the terms of a deal struck with Anthropic and other companies last July to eliminate restrictions on how AI can be deployed and instead permit “all lawful use” of the technology."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+            "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+            "site_name": "The Verge",
+            "novelty_hash": "b26f5a65a8ab530b9a9e96f87fa4094457ac0ae6"
+          },
+          "review": {
+            "headline_rewrite": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+            "bullets": [
+              "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a “supply-chain risk”.",
+              "Defense secretary Pete Hegseth designates Anthropic a supply chain risk\nMilitary suppliers and contractors are banned from working with Anthropic as its Pentagon AI standoff continues.",
+              "It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security.",
+              "After a week of tense negotiations over the company’s acceptable use policies, the Pentagon gave Anthropic an ultimatum: agree by Friday, 5:30 PM EST, to let the Pentagon use Claude for “all legal purposes,” including for autonomous lethal weapons without human oversight and mass surveillance, or be designated a supply-chain risk.",
+              "The designation, which is typically used for companies with ties to foreign governments that pose national security risks to the United States, will bar any company that uses Anthropic products from working with the Department of Defense.",
+              "In a tweet posted just after 5PM ET, Hegseth broadened the designation to encompass companies doing “any commercial activity with Anthropic,” reiterating Trump’s mandate that companies had six months to divest themselves from Anthropic products."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Photons that aren't actually there influence superconductivity",
+            "link": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e888ab04dc099038f8c54b5f88941178d201da29"
+          },
+          "review": {
+            "headline_rewrite": "Photons that aren't actually there influence superconductivity",
+            "bullets": [
+              "Researchers have found a way to get these virtual photons to influence the behavior of a superconductor, ultimately making it worse.",
+              "That may, in the end, tell us something useful about superconductivity, but it’ll probably take a little while.",
+              "Virtual reality\nOne of the stranger consequences of this is that locations that have a strong electromagnetic field can be filled with virtual photons even when no real ones are present."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
