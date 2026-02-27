@@ -191463,6 +191463,120 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "23:06": [
+        {
+          "item": {
+            "title": "Find out what’s new in the Gemini app in February's Gemini Drop.",
+            "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-drop-february-2026/",
+            "site_name": "Google",
+            "novelty_hash": "be9a7ad0b4c9fd0de2589072419ce2e20ce0290f"
+          },
+          "review": {
+            "headline_rewrite": "Find out what’s new in the Gemini app in February's Gemini Drop.",
+            "bullets": [
+              "Gemini is constantly evolving to be your most useful AI partner.",
+              "This release features 3.1 Pro for demanding workflows, and Deep Think, a specialized reasoning mode for modern science and engineering (available for Google AI Ultra subscribers).",
+              "Browse the gallery for inspiration, pick a style you love and remix it with your own details for a polished, unique result.",
+              "- Find verified scientific citations straight from the source without digging through pages of search results."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+            "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "94e3151917d1ce0ea1c0f85d28d8c383cb4906ef"
+          },
+          "review": {
+            "headline_rewrite": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+            "bullets": [
+              "Anthropic has reached a stalemate with the United States Department of War over the military’s request for unrestricted access to the AI company’s technology.",
+              "But as the Pentagon’s Friday afternoon deadline for Anthropic’s compliance approaches, over 300 Google employees and over 60 OpenAI employees have signed an open letter urging the leaders of their companies to support Anthropic and refuse this unilateral use.",
+              "Specifically, Anthropic stood in opposition to the use of AI for domestic mass surveillance and autonomous weaponry.",
+              "“That strategy only works if none of us know where the others stand.”\nThe letter specifically calls on executives at Google and OpenAI to maintain Anthropic’s red lines against mass surveillance and fully automated weaponry.",
+              "TechCrunch has reached out to Google and OpenAI for comment.",
+              "In an interview with CNBC on Friday morning, OpenAI CEO Sam Altman said that he doesn’t “personally think the Pentagon should be threatening DPA against these companies.” According to a CNN reporter, an OpenAI spokesperson confirmed that the company shares Anthropic’s red lines against autonomous weapons and mass surveillance."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "We don&#8217;t have to have unsupervised killer robots",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+            "site_name": "The Verge",
+            "novelty_hash": "6cd00d10ca2052fead774d88f306033f34c3d4d2"
+          },
+          "review": {
+            "headline_rewrite": "We don&#8217;t have to have unsupervised killer robots",
+            "bullets": [
+              "It’s the day of the Pentagon’s looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a “supply chain risk” and potentially lose hundreds of billions of dollars in contracts.",
+              "We don’t have to have unsupervised killer robots\nAI companies could stand together to draw red lines on military AI — why aren’t they?",
+              "While the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing the US military to use Anthropic’s AI kill targets with no human oversight, OpenAI and xAI had reportedly already agreed to such terms, although OpenAI is reportedly attempting to adopt the same red lines in the agreements as Anthropic.",
+              "“When I joined the tech industry, I thought tech was about making people’s lives easier,” an Amazon Web Services employee told The Verge, “but now it seems like it’s all about making it easier to surveil and deport and kill people.”\nIn conversations with The Verge, current and former employees from OpenAI, xAI, Amazon, Microsoft, and Google expressed similar feelings about the changing moral landscape of their companies.",
+              "“From their perspective, they’d love to keep making money and not have to talk about it,” said a software engineer from Microsoft.",
+              "In 2024, OpenAI removed a ban on “military and warfare” use cases from its terms of service; after that, it signed a deal with autonomous weapons maker Anduril and then its DoD contract, and just this week, Anthropic changed its oft-touted responsible scaling policy, dropping its longtime safety pledge in order to ensure it stayed competitive in the AI race."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
+            "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1c82fb0a4acd5ea800c4ef38f0259f4f26de9158"
+          },
+          "review": {
+            "headline_rewrite": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
+            "bullets": [
+              "Beyond live race coverage, the partnership includes cross-promotion of Netflix’s hit series, “Drive to Survive.” For the first time, the eighth season — which consists of eight episodes covering the 2025 Formula One World Championship — will be available to both Apple TV subscribers in the U.S.",
+              "The series has been a particular focus of Apple’s broader F1 ambitions: the company has said it plans to promote the sport across Apple News, Apple Maps (highlighting F1 tracks around the world), Apple Music, and Apple Fitness+, as well as in its physical retail stores.",
+              "The deal is reportedly valued at around $150 million per season, a significant jump from the roughly $85 million ESPN reportedly paid.",
+              "All races are available to Apple TV subscribers at no extra charge."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+            "site_name": "The Verge",
+            "novelty_hash": "679b91802b8f04fe9bc2a58055493c8b8803e49f"
+          },
+          "review": {
+            "headline_rewrite": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+            "bullets": [
+              "Can AI firms set limits on how and where the military uses their models?",
+              "Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully autonomous lethal weapons.",
+              "Pentagon CTO Emil Michael is pushing for Anthropic to be designated a “supply chain risk” if it doesn’t comply, a label usually only given to national security threats.",
+              "Anthropic’s rivals OpenAI and xAI have reportedly agreed to the new terms, but even after a White House meeting with Defense Secretary Pete Hegseth, Anthropic CEO Dario Amodei is still refusing to cross his company’s red line, stating that “threats do not change our position: we cannot in good conscience accede to their request.”\nFollow along here for the latest updates on the clash between AI companies and the Pentagon…\nIt’s the day of the Pentagon’s looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a “supply chain risk” and potentially lose hundreds of billions of dollars in contracts.",
+              "While the Department of Defense has spent weeks negotiating with Anthropic over removing its guardrails, including allowing the US military to use Anthropic’s AI kill targets with no human oversight, OpenAI and xAI had reportedly already agreed to such terms, although OpenAI is reportedly attempting to adopt the same red lines in the agreements as Anthropic.",
+              "“When I joined the tech industry, I thought tech was about making people’s lives easier,” an Amazon Web Services employee told The Verge, “but now it seems like it’s all about making it easier to surveil and deport and kill people.”\nRead Article >Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense’s demands for unrestricted access to its AI."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "And the award for the most improved EV goes to... the 2026 Toyota bZ",
+            "link": "https://arstechnica.com/cars/2026/02/and-the-award-for-the-most-improved-ev-goes-to-the-2026-toyota-bz/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "4fd68008a0dc88bd3e38643e6fde312f5fa71ac2"
+          },
+          "review": {
+            "headline_rewrite": "And the award for the most improved EV goes to... the 2026 Toyota bZ",
+            "bullets": [
+              "Toyota was an early pioneer of hybrid powertrains, and it remains a fan today, often saying that given limited battery supply, it makes sense to build more hybrids than fewer EVs.",
+              "It uses a new 74.7 kWh battery pack, available with either front- or all-wheel-drive powertrains that now use silicon carbide power electronics."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
