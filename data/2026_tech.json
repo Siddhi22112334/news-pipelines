@@ -192173,6 +192173,121 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "03:25": [
+        {
+          "item": {
+            "title": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
+            "link": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "e1282d292939a36aece24d290f3b4bad5b03a509"
+          },
+          "review": {
+            "headline_rewrite": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
+            "bullets": [
+              "In a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’s public dispute with the Department of Defense.",
+              "The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was no longer welcome as a federal contractor.",
+              "“We don’t need it, we don’t want it, and will not do business with them again,” the president wrote in the post.",
+              "Notably, the post does not mention any plans to invoke the Defense Production Act or designate Anthropic as a supply chain risk.",
+              "The dispute centered on Anthropic’s refusal to allow its AI models to be used to power either mass domestic surveillance or fully autonomous weapons, which Secretary of Defense Pete Hegseth found unduly restrictive."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump orders federal agencies to drop Anthropic’s AI",
+            "link": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+            "site_name": "The Verge",
+            "novelty_hash": "14da4f6af3fd9a6e39e88108ed95716472295ef6"
+          },
+          "review": {
+            "headline_rewrite": "Trump orders federal agencies to drop Anthropic’s AI",
+            "bullets": [
+              "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to “STRONG-ARM” the Pentagon and directing federal agencies to “IMMEDIATELY CEASE” use of its products.",
+              "Trump orders federal agencies to drop Anthropic’s AI\nAnthropic has refused to agree to the Pentagon’s demand to allow ‘any lawful use’ of its AI.",
+              "As we explained earlier this week, that agreement would give the US military access to use the company’s services for mass domestic surveillance and lethal autonomous weapons, or AI that has full power to track and kill targets with no humans involved in the decision-making process.",
+              "OpenAI and xAI have reportedly already agreed to the new terms, though OpenAI is reportedly looking to negotiate with the Pentagon to adopt the same red lines as Anthropic.",
+              "For weeks, Anthropic and the Pentagon have been locked in a stalemate regarding the acceptable use of Anthropic’s AI technology.",
+              "In a statement Thursday, Amodei wrote that the Pentagon’s “threats do not change our position: we cannot in good conscience accede to their request.” He added that Anthropic has “never raised objections to particular military operations nor attempted to limit use of our technology in an ad hoc manner” but that in a “narrow set of cases, we believe AI can undermine, rather than defend, democratic values.”\nAmodei went on to say that “should the Department choose to offboard Anthropic, we will work to enable a smooth transition to another provider, avoiding any disruption to ongoing military planning, operations, or other critical missions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump Moves to Ban Anthropic From the US Government",
+            "link": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+            "site_name": "WIRED",
+            "novelty_hash": "3abde38f0390fba0aa6f0e4537193182f33bb437"
+          },
+          "review": {
+            "headline_rewrite": "Trump Moves to Ban Anthropic From the US Government",
+            "bullets": [
+              "US President Donald Trump announced Friday that he was instructing every federal agency to halt the use of Anthropic’s AI tools effective immediately.",
+              "\"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War,” Trump said in a post on Truth Social.",
+              "The Department of Defense has sought to change the terms of a deal struck with Anthropic and other AI companies last July to eliminate restrictions on how AI can be deployed and instead permit “all lawful use” of the technology.",
+              "Anthropic objected to the change, claiming that it could allow AI to be used to fully control lethal autonomous weapons or to conduct mass surveillance on US citizens.",
+              "The Pentagon does not currently use AI in these ways, and has said it has no plans to do so.",
+              "Anthropic was the first major AI lab to work with the US military, through a $200 million deal signed with the Pentagon last year."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Warner Bros. Discovery agrees to $110 billion Paramount merger",
+            "link": "https://www.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement",
+            "site_name": "The Verge",
+            "novelty_hash": "654201ec5d72cc0ac3d33d74e3c9145f25f46f18"
+          },
+          "review": {
+            "headline_rewrite": "Warner Bros. Discovery agrees to $110 billion Paramount merger",
+            "bullets": [
+              "Discovery and Paramount Skydance’s merger agreement is now official.",
+              "Discovery agrees to $110 billion Paramount merger\nParamount and WBD expect the deal to close in the third quarter of this year.",
+              "That persistence paid off, as WBD determined that Paramount’s “best and final” offer is “superior” to Netflix’s deal.",
+              "Paramount has also agreed to cover the $7 billion regulatory termination fee and the $2.8 billion breakup fee owed to Netflix, which it has already paid, according to Bloomberg.",
+              "If approved, the deal would transform Paramount into an entertainment behemoth.",
+              "Skydance only just completed its acquisition of Paramount last August, putting David Ellison, the son of Oracle co-founder and President Donald Trump ally Larry Ellison, into the CEO role."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Photons that aren't actually there influence superconductivity",
+            "link": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "e888ab04dc099038f8c54b5f88941178d201da29"
+          },
+          "review": {
+            "headline_rewrite": "Photons that aren't actually there influence superconductivity",
+            "bullets": [
+              "Researchers have found a way to get these virtual photons to influence the behavior of a superconductor, ultimately making it worse.",
+              "That may, in the end, tell us something useful about superconductivity, but it’ll probably take a little while.",
+              "Virtual reality\nOne of the stranger consequences of this is that locations that have a strong electromagnetic field can be filled with virtual photons even when no real ones are present."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Roku Is $20 Off",
+            "link": "https://www.wired.com/story/roku-ultra-deal-226/",
+            "site_name": "WIRED",
+            "novelty_hash": "ef5100a318be8a954b8bdc981021135b499d0afc"
+          },
+          "review": {
+            "headline_rewrite": "The Best Roku Is $20 Off",
+            "bullets": [
+              "If you really hate buffering and dropped connections, there's an Ethernet port around back for a wired hookup, something most other streaming devices can't claim.",
+              "The Roku Ultra even includes a pair of earbuds you can use right out of the box, which are surprisingly good for what they are, and they include extra ear tips for getting the fit right.",
+              "We also have a great guide that breaks down the differences between all of the available Roku streamers, and a roundup of our favorite media streamers, in case you're wondering what the Roku alternatives look like."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
