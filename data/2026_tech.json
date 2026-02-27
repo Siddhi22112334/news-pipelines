@@ -192643,6 +192643,125 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "05:20": [
+        {
+          "item": {
+            "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+            "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "313ec61f0e4b486468b9a9cf987b4644cbb32cd8"
+          },
+          "review": {
+            "headline_rewrite": "Pentagon moves to designate Anthropic as a supply-chain risk",
+            "bullets": [
+              "In a post on Truth Social, President Trump directed federal agencies to cease use of all Anthropic products after the company’s public dispute with the Department of Defense.",
+              "The president allowed for a six-month phase-out period for departments using the products, but emphasized that Anthropic was no longer welcome as a federal contractor.",
+              "“We don’t need it, we don’t want it, and will not do business with them again,” the president wrote in the post.",
+              "Notably, the president’s post does not mention any plans to designate Anthropic as a supply chain risk, as had been previously mentioned as a consequence.",
+              "“In conjunction with the President’s directive for the Federal Government to cease all use of Anthropic’s technology, I am directing the Department of War to designate Anthropic a Supply-Chain Risk to National Security,” Secretary Hegseth wrote.",
+              "“Effective immediately, no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic.”\nThe Pentagon dispute centered on Anthropic’s refusal to allow its AI models to be used to power either mass domestic surveillance or fully autonomous weapons, which Secretary Hegseth found unduly restrictive."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI fires employee for using confidential info on prediction markets",
+            "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "eae9f64f46f768ef4352beab569bb799aa75fd41"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI fires employee for using confidential info on prediction markets",
+            "bullets": [
+              "OpenAI has fired an employee over the employee’s activity on prediction markets, including Polymarket, the company confirmed to Wired.",
+              "The employee used confidential OpenAI information in connection with the trades made, the company alleges.",
+              "OpenAI didn’t release the name of the employee.",
+              "However, a spokesperson said that such actions violated a company policy that bans workers from using inside information for personal gain, including on prediction markets.",
+              "For instance, on Polymarket, there are wagers being made around the kind of products OpenAI will announce in 2026 and when the company will go public.",
+              "As we recently reported, an accountant won a $470,300 jackpot on Kalshi by betting against DOGE believers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+            "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+            "site_name": "The Verge",
+            "novelty_hash": "a5ec616b841c55b0b24116d3b35b4b97e9a2702f"
+          },
+          "review": {
+            "headline_rewrite": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+            "bullets": [
+              "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a “supply-chain risk”.",
+              "Defense secretary Pete Hegseth designates Anthropic a supply chain risk\nMilitary suppliers and contractors are banned from working with Anthropic as its Pentagon AI standoff continues.",
+              "It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security.",
+              "After a week of tense negotiations over the company’s acceptable use policies, the Pentagon gave Anthropic an ultimatum: agree by Friday, 5:30 PM EST, to let the Pentagon use Claude for “all legal purposes,” including for autonomous lethal weapons without human oversight and mass surveillance, or be designated a supply-chain risk.",
+              "The designation, which is typically used for companies with ties to foreign governments that pose national security risks to the United States, will bar any company that uses Anthropic products from working with the Department of Defense.",
+              "In a tweet posted just after 5PM ET, Hegseth broadened the designation to encompass companies doing “any commercial activity with Anthropic,” reiterating Trump’s mandate that companies had six months to divest themselves from Anthropic products."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NASA is pushing back its plans for a Moon landing",
+            "link": "https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028",
+            "site_name": "The Verge",
+            "novelty_hash": "4c44140ad3128824dc08a7f380f78621698f0b81"
+          },
+          "review": {
+            "headline_rewrite": "NASA is pushing back its plans for a Moon landing",
+            "bullets": [
+              "NASA also says it’s “increasing its cadence of missions,” including adding a second test flight in 2027 and aiming for “at least one surface landing every year thereafter,” including the Artemis IV landing.",
+              "The overhaul to the Artemis launch schedule follows a report from NASA’s Aerospace Safety Advisory Panel (ASAP) earlier this month that highlighted serious safety risks with NASA’s previous plans for future launches.",
+              "ASAP was particularly concerned about Artemis III, which its report said included too many “cumulative technical, operational, and schedule risks associated with multiple first-of-a-kind objectives planned for a single mission.”\nThe Artemis II mission, scheduled for this year, has faced a string of issues during testing over recent weeks, delaying its launch until no earlier than April.",
+              "Samsung R&D chief explains\n- Burger King will use AI to check if employees say ‘please’ and ‘thank you’\n- Jack Dorsey’s Block cuts nearly half of its staff in AI gamble"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump orders federal agencies to drop Anthropic services amid Pentagon feud",
+            "link": "https://www.engadget.com/ai/trump-orders-federal-agencies-to-drop-anthropic-services-amid-pentagon-feud-222029306.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d8bdb8dd8be3579071b7bf6a1db00b65c916a6fb"
+          },
+          "review": {
+            "headline_rewrite": "Trump orders federal agencies to drop Anthropic services amid Pentagon feud",
+            "bullets": [
+              "President Donald Trump has ordered all US government agencies to stop using Claude and other Anthropic services, escalating an already volatile feud between the Department of Defense and company over AI safeguards.",
+              "Taking to Truth Social on Friday afternoon, the president said there would be a six-month phase out period for federal agencies, including the Defense Department, to migrate off of Anthropic's products.",
+              "Before today, US Defense Secretary Pete Hegseth had threatened to label Anthropic a “supply chain risk” if it did not agree to withdraw safeguards that insist Claude not be used for mass surveillance against Americans or in fully autonomous weapons.",
+              "In a post on X published after President Trump’s statement, Hegseth said he was “directing the Department of War to designate Anthropic a Supply-Chain Risk to National Security.",
+              "Earlier in the day, a spokesperson for the company said the contract Anthropic received after CEO Dario Amodei outlined Anthropic's position made “virtually no progress” on preventing the outlined misuses.",
+              "\"New language framed as a compromise was paired with legalese that would allow those safeguards to be disregarded at will."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "These Deals Can Have You Zipping Around on a New E-Scooter This Spring",
+            "link": "https://www.wired.com/story/electric-scooters-spring-deals-2026/",
+            "site_name": "WIRED",
+            "novelty_hash": "61bf2893d565cd1e20af955217488857b7ddac8b"
+          },
+          "review": {
+            "headline_rewrite": "These Deals Can Have You Zipping Around on a New E-Scooter This Spring",
+            "bullets": [
+              "Gear editor Julian Chokkattu has spent five years testing more than 45 electric scooters.",
+              "These are his top picks that are also on sale right now.",
+              "Apollo Go for $849 ($450 Off)\nThis is Gear editor Julian Chokkattu's favorite scooter.",
+              "The riding experience is powerful and smooth, thanks to its dual 350-watt motors and solid front and rear suspensions.",
+              "The speed maxes out at 28 miles per hour (mph), which doesn't make it the fastest scooter on the market, but it has a good range."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
