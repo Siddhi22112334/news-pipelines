@@ -193147,6 +193147,28 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "12:08": [
+        {
+          "item": {
+            "title": "OpenAI strikes a deal with the Defense Department to deploy its AI models",
+            "link": "https://www.engadget.com/ai/openai-strikes-a-deal-with-the-defense-department-to-deploy-its-ai-models-054441785.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f595ce040bd2dd94ffb949b381c6825532663c80"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI strikes a deal with the Defense Department to deploy its AI models",
+            "bullets": [
+              "OpenAI has reached an agreement with the Defense Department to deploy its models in the agency’s network, company chief Sam Altman has revealed on X.",
+              "In his post, he said two of OpenAI’s most important safety principles are “prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.” Altman claimed the company put those principles in its agreement with the agency, which he called by the government’s preferred name of Department of War (DoW), and that it had agreed to honor them.",
+              "The agency has closed the deal with OpenAI, shortly after President Donald Trump ordered all government agencies to stop using Claude and any other Anthropic services.",
+              "If you’ll recall, US Defense Secretary Pete Hegseth previously threatened to label Anthropic “supply chain risk” if it continues refusing to remove the guardrails on its AI, which are preventing the technology to be used for mass surveillance against Americans and in fully autonomous weapons.",
+              "It’s unclear why the government agreed to team up with OpenAI if its models also have the same guardrails, but Altman said it’s asking the government to offer the same terms to all the AI companies it works with.",
+              "Jeremy Lewin, the Senior Official Under Secretary for Foreign Assistance, Humanitarian Affairs, and Religious Freedom, said on X that DoW “references certain existing legal authorities and includes certain mutually agreed upon safety mechanisms” in its contracts."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
