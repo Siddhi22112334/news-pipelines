@@ -193710,6 +193710,68 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "16:50": [
+        {
+          "item": {
+            "title": "EveryPlate’s Meal Kit Offers Affordable Vegetarian Options",
+            "link": "https://www.wired.com/story/everyplate-vegetarian-meal-kit-rave/",
+            "site_name": "WIRED",
+            "novelty_hash": "711be53d90825ea6beb0e8bd5d77be0c13c1e7eb"
+          },
+          "review": {
+            "headline_rewrite": "EveryPlate’s Meal Kit Offers Affordable Vegetarian Options",
+            "bullets": [
+              "Plan, Preferences, and Picking Process\nEveryPlate is much like parent HelloFresh, but stays cheaper by relying more on simple, grain-heavy dishes, like pasta or rice with a hero flavor.",
+              "Each meal I tested took about one hour to prep and cook, although the directions said it would take only 20 to 30 minutes (except for the pizzas I made).",
+              "If you don't like their choices after you've paid, you're SOL.",
+              "The earliest available delivery date was four days later, and delivery was possible every day for the first 15 days after, between 8 am and 8 pm daily.",
+              "You'll have to input payment details to reserve your first box, and you'll be charged four days before the delivery.",
+              "In many cases, you'll need a certain amount of a spice for the recipe, but it comes in a sachet with no amount information."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "US and Israel Launch Strikes Against Iran",
+            "link": "https://www.wired.com/story/us-iran-strike-donald-trump/",
+            "site_name": "WIRED",
+            "novelty_hash": "0c6aa13f82357ab78e4c14042d17ed5ac6354c09"
+          },
+          "review": {
+            "headline_rewrite": "US and Israel Launch Strikes Against Iran",
+            "bullets": [
+              "United States and Israeli forces have launched military strikes against Iran, with President Donald Trump calling the attacks a “major combat operation” against the Iranian regime.",
+              "Explosions within Iran were first recorded in the early hours of Saturday morning ET, with smoke rising above the capital city Tehran.",
+              "Shortly after the first reports of the attacks emerged, both the US and Israel claimed responsibility for the strikes.",
+              "Explosions have subsequently been heard in the United Arab Emirates and Bahrain, in what appeared to be retaliatory Iranian strikes.",
+              "In an eight-minute video posted to Truth Social and X, Trump said the operation’s objective was to “defend the American people by eliminating imminent threats from the Iranian regime.” Israeli Prime Minister Benjamin Netanyahu issued a statement confirming the military operation and said Israel was aiming to “remove the existential threat posed” by Iran.",
+              "Shortly after confirming launching the attacks, the IDF said it had “identified” Iranian missiles being launched towards Israel."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 28, 2026 Explained: What is Perplexity Computer and how does it work Perplexity has unveiled 'Computer,' an AI tool for Max subscribers that performs complex, multi-step tasks autonomously. It leverages 19 diverse AI models for specialized functions, orchestrating them to deliver finished products without constant user oversight. Operating securely in the cloud, Computer integrates with popular business tools, offering a powerful new way to automate work.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/explained-what-is-perplexity-computer-and-how-does-it-work/articleshow/128881052.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "15d5ea64f1e3755cbb34437bcdc0cb8f5cf9af83"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 28, 2026 Explained: What is Perplexity Computer and how does it work Perplexity has unveiled 'Computer,' an AI tool for Max subscribers that performs complex, multi-step tasks autonomously. It leverages 19 diverse AI models for specialized functions, orchestrating them to deliver finished products without constant user oversight. Operating securely in the cloud, Computer integrates with popular business tools, offering a powerful new way to automate work.",
+            "bullets": [
+              "Perplexity has launched Computer, a new AI tool that doesn't just answer your questionsâit actually does your work.",
+              "Available to Perplexity Max subscribers ($200/month), Computer is essentially a digital worker that can handle complex, multi-step tasks on its own, running for hours or even months in the background.",
+              "Think of it this way: instead of asking an AI chatbot to help you draft an email, you tell Computer to \"research our top five competitors, compare their pricing, build a slide deck, and email it to the team.\" It breaks that down into subtasks, assigns each one to the best AI model available, and delivers the finished productâwithout you hovering over it.",
+              "Perplexity's AI tool doesn't rely on just one AI model, it juggles 19\nThe biggest differentiator here is Computer's multi-model approach.",
+              "Rather than running everything through a single AI, it orchestrates 19 different models on the backend.",
+              "Nano Banana generates images, Veo 3.1 does video, xAI's Grok handles quick lightweight tasks, and OpenAI's ChatGPT 5.2 is deployed for long-context recall and broad web searches."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
