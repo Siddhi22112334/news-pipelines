@@ -192876,6 +192876,124 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "09:26": [
+        {
+          "item": {
+            "title": "India disrupts access to popular developer platform Supabase with blocking order",
+            "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "28316fadc8a825fd2d0df421c2b5f9d6904a8547"
+          },
+          "review": {
+            "headline_rewrite": "India disrupts access to popular developer platform Supabase with blocking order",
+            "bullets": [
+              "The Indian government did not publicly cite a reason for the move, and it was not immediately clear whether the action was linked to a cybersecurity concern, copyright complaint, or another issue.",
+              "It was also unclear how long the restrictions would remain in place.",
+              "In one post on Friday, Supabase tagged India’s IT minister Ashwini Vaishnaw, asking him to intervene and restore access, though the company later removed the message and said in a subsequent update that the site remained blocked for many users in the country.",
+              "A technology consultant working with local startups, who spoke on condition of anonymity, said they were unable to reliably access Supabase for both development and production purposes.",
+              "While Supabase suggested workarounds such as switching DNS settings or using a VPN (which reroute internet traffic to bypass local restrictions), the founder said such steps were not practical for most end users.",
+              "At the time of publication, TechCrunch was able to verify that supabase.co remained inaccessible on ACT Fibernet, JioFiber and Airtel connections in New Delhi."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+            "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+            "site_name": "WIRED",
+            "novelty_hash": "319bbc3d3724e41c806523ea96534261c602a236"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+            "bullets": [
+              "United States Secretary of Defense Pete Hegseth directed the Pentagon to designate Anthropic as a “supply-chain risk” on Friday, sending shockwaves through Silicon Valley and leaving many companies scrambling to understand whether they can keep using one of the industry’s most popular AI models.",
+              "The designation comes after weeks of tense negotiations between the Pentagon and Anthropic over how the US military could use the startup’s AI models.",
+              "The Pentagon asked that Anthropic agree to let the US military apply its AI to “all lawful uses” with no specific exceptions.",
+              "A supply chain risk designation allows the Pentagon to restrict or exclude certain vendors from defense contracts if they are deemed to pose security vulnerabilities, such as risks related to foreign ownership, control, or influence.",
+              "Anthropic responded in another blog post on Friday evening, saying it would “challenge any supply chain risk designation in court,” and that such a designation would “set a dangerous precedent for any American company that negotiates with the government.”\nAnthropic added that it hadn’t received any direct communication from the Department of Defense or the White House regarding negotiations over the use of its AI models.",
+              "\"This is the most shocking, damaging, and over-reaching thing I have ever seen the United States government do,” says Dean Ball, a senior fellow at the Foundation for American Innovation and the former senior policy advisor for AI at the White House."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+            "link": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+            "site_name": "The Verge",
+            "novelty_hash": "c3fe03ea930633a2e6d42c81427b43ad0d56ea10"
+          },
+          "review": {
+            "headline_rewrite": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+            "bullets": [
+              "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a “supply-chain risk,” which Anthropic says it is willing to challenge in court.",
+              "Defense secretary Pete Hegseth designates Anthropic a supply chain risk\nAnthropic says it will challenge the designation in court.",
+              "It is not immediately clear to what extent the Pentagon may blacklist companies that contract with Claude for other services outside of national security, Anthropic has responded, claiming the designation applies only to the use of its Claude AI on Department of Defense contract work specifically.",
+              "After a week of tense negotiations over the company’s acceptable use policies, the Pentagon gave Anthropic an ultimatum: agree by Friday, 5:30 PM EST, to let the Pentagon use Claude for “all legal purposes,” including for autonomous lethal weapons without human oversight and mass surveillance, or be designated a supply-chain risk.",
+              "The designation, which is typically used for companies with ties to foreign governments that pose national security risks to the United States, will bar any company that uses Anthropic products from working with the Department of Defense.",
+              "In his tweet posted just after 5PM ET, Hegseth broadened the designation to encompass companies doing “any commercial activity with Anthropic,” reiterating Trump’s mandate that companies had six months to divest themselves from Anthropic products."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump orders federal agencies to drop Anthropic services amid Pentagon feud",
+            "link": "https://www.engadget.com/ai/trump-orders-federal-agencies-to-drop-anthropic-services-amid-pentagon-feud-222029306.html",
+            "site_name": "Engadget",
+            "novelty_hash": "e9d5aaea9aac76e74cf92fc2da4892b436b3a7b0"
+          },
+          "review": {
+            "headline_rewrite": "Trump orders federal agencies to drop Anthropic services amid Pentagon feud",
+            "bullets": [
+              "President Donald Trump has ordered all US government agencies to stop using Claude and other Anthropic services, escalating an already volatile feud between the Department of Defense and company over AI safeguards.",
+              "Taking to Truth Social on Friday afternoon, the president said there would be a six-month phase out period for federal agencies, including the Defense Department, to migrate off of Anthropic's products.",
+              "Before today, US Defense Secretary Pete Hegseth had threatened to label Anthropic a “supply chain risk” if it did not agree to withdraw safeguards that insist Claude not be used for mass surveillance against Americans or in fully autonomous weapons.",
+              "In a post on X published after President Trump’s statement, Hegseth said he was “directing the Department of War to designate Anthropic a Supply-Chain Risk to National Security.",
+              "Earlier in the day, a spokesperson for the company said the contract Anthropic received after CEO Dario Amodei outlined Anthropic's position made “virtually no progress” on preventing the outlined misuses.",
+              "\"New language framed as a compromise was paired with legalese that would allow those safeguards to be disregarded at will."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 27, 2026 Elon Musk joins Pentagon in slamming Claude-maker Anthropic, says: Anthropic hates… Elon Musk has joined the Pentagon in criticizing AI firm Anthropic, accusing it of \"hating Western Civilization.\" This follows a dispute over Anthropic's refusal to allow its AI, Claude, to be used for mass domestic surveillance or fully autonomous weapons by the US military. The Pentagon warns of terminating its partnership if Anthropic doesn't comply by Friday.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-joins-pentagon-in-slamming-claude-maker-anthropic-says-anthropic-hates/articleshow/128854327.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "716b2433dfc46e23470885ae5387152223af0d7d"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 27, 2026 Elon Musk joins Pentagon in slamming Claude-maker Anthropic, says: Anthropic hates… Elon Musk has joined the Pentagon in criticizing AI firm Anthropic, accusing it of \"hating Western Civilization.\" This follows a dispute over Anthropic's refusal to allow its AI, Claude, to be used for mass domestic surveillance or fully autonomous weapons by the US military. The Pentagon warns of terminating its partnership if Anthropic doesn't comply by Friday.",
+            "bullets": [
+              "Elon Musk has waded into the escalating war of words between Anthropic and the Pentagon, backing the US Department of War's criticism of the AI company.",
+              "Reposting a post by Under Secretary of War Emil Michael on X, Musk wrote: \"Anthropic hates Western Civilization.\" Musk's post came in response to Michael's claim that Anthropic had tried to scrub an older version of Claude's constitution from the internet.",
+              "Michael quoted a line from the previous document that read: \"Choose the response that is least likely to be viewed as harmful or offensive to a non-western cultural tradition of any sort.\" The implication was clearâthat Anthropic's AI was trained to prioritize non-Western sensitivities over Western ones.",
+              "Just weeks ago, he called the company's AI \"misanthropic and evil\" and personally attacked Anthropic philosopher Amanda Askell over her role in shaping Claude's ethics.",
+              "Amodei said he \"cannot in good conscience\" agree to lift these safeguards, even if it means losing the military as a client.",
+              "What we are talking about is allowing our warfighters to use AI without having to call @DarioAmodei for permission to shoot down enemy drone swarms that would kill Americans.\" He used the hashtag #CallDario and later accused Amodei of having a \"God complex.\"\nWhat Anthropic wants vs what Pentagon wants\nAt the heart of the dispute is a seemingly simple question: should the Pentagon be able to use Claude for \"all lawful purposes\" without restrictions?"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
