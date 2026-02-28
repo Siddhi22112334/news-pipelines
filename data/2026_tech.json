@@ -193772,6 +193772,84 @@
             "impact": "Negative"
           }
         }
+      ],
+      "17:14": [
+        {
+          "item": {
+            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+            "link": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
+            "site_name": "WIRED",
+            "novelty_hash": "9dd3043d0d9883c5c8e9e34418d3addea6f993a6"
+          },
+          "review": {
+            "headline_rewrite": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+            "bullets": [
+              "Congressional Democrats on the Joint Economic Committee released a report this week pinpointing more than $20.9 billion in consumer losses stemming from identity theft that came out of four major breaches of data broker firms.",
+              "US senator Maggie Hassan launched the investigation in August after an investigation by The Markup and CalMatters, copublished by WIRED, found that some data brokers were hiding opt-out tools from Google and other search engines.",
+              "The Mexican drug cartel CJNG may survive the killing of its longtime leader Nemesio “El Mencho” Oseguera Cervantes in part thanks to its prolific use of technologies like drones, social media, and AI.",
+              "Meanwhile, the Mexican Navy announced on Thursday that it had seized a semi-submersible vessel carrying nearly 4 tons of cocaine as part of a recent initiative to deter drug trafficking in the Pacific Ocean.",
+              "The effort comes as the US has launched its own purported campaign against maritime trafficking via a series of deadly attacks on boats in the Caribbean.",
+              "Meanwhile, as AI assistant agents like OpenClaw explode in popularity—and sow chaos around the web—a new open source project called IronCurtain is using a unique design to secure and constrain agentic AI before it can go rogue."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Laptop Cooling Pad and Why You Should Buy One",
+            "link": "https://www.wired.com/story/best-laptop-cooling-pad/",
+            "site_name": "WIRED",
+            "novelty_hash": "8100da6a403ec4fbd083d86bb7f272295d907aab"
+          },
+          "review": {
+            "headline_rewrite": "The Best Laptop Cooling Pad and Why You Should Buy One",
+            "bullets": [
+              "These days, laptop chips have become extremely efficient.",
+              "I tried out a couple cooling pads paired with a couple of different gaming laptops, and walked away surprised at how effective they could be.",
+              "Laptop cooling pads have been around for decades, and the idea has always been simple: provide extra air to blow through a laptop that’s otherwise restricted by its own cooling system.",
+              "In theory, more air means lower temperatures—and, ultimately, better performance.",
+              "This is the whole idea of the power modes that exist in Windows, which ramp up the RPMs (rotations per minute) of the fans to add more air to both improve performance.",
+              "The problem, however, is that a cooling pad is a rather inefficient way of transferring air into your device."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 28, 2026 Explained: What is Perplexity Computer and how does it work Perplexity has unveiled 'Computer,' an AI tool for Max subscribers that performs complex, multi-step tasks autonomously. It leverages 19 diverse AI models for specialized functions, orchestrating them to deliver finished products without constant user oversight. Operating securely in the cloud, Computer integrates with popular business tools, offering a powerful new way to automate work.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/explained-what-is-perplexity-computer-and-how-does-it-work/articleshow/128881052.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "15d5ea64f1e3755cbb34437bcdc0cb8f5cf9af83"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 28, 2026 Explained: What is Perplexity Computer and how does it work Perplexity has unveiled 'Computer,' an AI tool for Max subscribers that performs complex, multi-step tasks autonomously. It leverages 19 diverse AI models for specialized functions, orchestrating them to deliver finished products without constant user oversight. Operating securely in the cloud, Computer integrates with popular business tools, offering a powerful new way to automate work.",
+            "bullets": [
+              "Perplexity has launched Computer, a new AI tool that doesn't just answer your questionsâit actually does your work.",
+              "Available to Perplexity Max subscribers ($200/month), Computer is essentially a digital worker that can handle complex, multi-step tasks on its own, running for hours or even months in the background.",
+              "Think of it this way: instead of asking an AI chatbot to help you draft an email, you tell Computer to \"research our top five competitors, compare their pricing, build a slide deck, and email it to the team.\" It breaks that down into subtasks, assigns each one to the best AI model available, and delivers the finished productâwithout you hovering over it.",
+              "Perplexity's AI tool doesn't rely on just one AI model, it juggles 19\nThe biggest differentiator here is Computer's multi-model approach.",
+              "Rather than running everything through a single AI, it orchestrates 19 different models on the backend.",
+              "Nano Banana generates images, Veo 3.1 does video, xAI's Grok handles quick lightweight tasks, and OpenAI's ChatGPT 5.2 is deployed for long-context recall and broad web searches."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
