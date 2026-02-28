@@ -192994,6 +192994,84 @@
             "impact": "Negative"
           }
         }
+      ],
+      "10:26": [
+        {
+          "item": {
+            "title": "India disrupts access to popular developer platform Supabase with blocking order",
+            "link": "https://techcrunch.com/2026/02/27/india-disrupts-access-to-popular-developer-platform-supabase-with-blocking-order/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "28316fadc8a825fd2d0df421c2b5f9d6904a8547"
+          },
+          "review": {
+            "headline_rewrite": "India disrupts access to popular developer platform Supabase with blocking order",
+            "bullets": [
+              "The Indian government did not publicly cite a reason for the move, and it was not immediately clear whether the action was linked to a cybersecurity concern, copyright complaint, or another issue.",
+              "It was also unclear how long the restrictions would remain in place.",
+              "In one post on Friday, Supabase tagged India’s IT minister Ashwini Vaishnaw, asking him to intervene and restore access, though the company later removed the message and said in a subsequent update that the site remained blocked for many users in the country.",
+              "A technology consultant working with local startups, who spoke on condition of anonymity, said they were unable to reliably access Supabase for both development and production purposes.",
+              "While Supabase suggested workarounds such as switching DNS settings or using a VPN (which reroute internet traffic to bypass local restrictions), the founder said such steps were not practical for most end users.",
+              "At the time of publication, TechCrunch was able to verify that supabase.co remained inaccessible on ACT Fibernet, JioFiber and Airtel connections in New Delhi."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+            "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+            "site_name": "WIRED",
+            "novelty_hash": "319bbc3d3724e41c806523ea96534261c602a236"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+            "bullets": [
+              "United States Secretary of Defense Pete Hegseth directed the Pentagon to designate Anthropic as a “supply-chain risk” on Friday, sending shockwaves through Silicon Valley and leaving many companies scrambling to understand whether they can keep using one of the industry’s most popular AI models.",
+              "The designation comes after weeks of tense negotiations between the Pentagon and Anthropic over how the US military could use the startup’s AI models.",
+              "The Pentagon asked that Anthropic agree to let the US military apply its AI to “all lawful uses” with no specific exceptions.",
+              "A supply chain risk designation allows the Pentagon to restrict or exclude certain vendors from defense contracts if they are deemed to pose security vulnerabilities, such as risks related to foreign ownership, control, or influence.",
+              "Anthropic responded in another blog post on Friday evening, saying it would “challenge any supply chain risk designation in court,” and that such a designation would “set a dangerous precedent for any American company that negotiates with the government.”\nAnthropic added that it hadn’t received any direct communication from the Department of Defense or the White House regarding negotiations over the use of its AI models.",
+              "\"This is the most shocking, damaging, and over-reaching thing I have ever seen the United States government do,” says Dean Ball, a senior fellow at the Foundation for American Innovation and the former senior policy advisor for AI at the White House."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-bans-anthropic-and-gives-it-same-label-that-chinas-huawei-has-in-the-us-since-the-year-2018/articleshow/128873401.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "06d15d2fe0027223633dfc620047aade5ae12e26"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "bullets": [
+              "US President\nDonald Trump on Friday ordered every US federal agency to immediately stop using technology from AI startup Anthropic, escalating a bitter standoff over the Pentagon's demand for unrestricted access to the company's Claude AI model.",
+              "Defence Secretary\nPete Hegseth followed up by designating Anthropic a \"supply chain risk to national security\"âa label historically reserved for foreign adversaries like China's Huawei.",
+              "Anthropic refused, insisting its AI tools should not be used for mass surveillance of Americans or fully autonomous weapons systems that can kill without human oversight.",
+              "The Pentagon has maintained it has \"no interest\" in using AI for either purpose, but Hegseth's own post told a different storyâdemanding \"full, unrestricted access\" to Anthropic's models and accusing the company of placing \"Silicon Valley ideology above American lives.",
+              "\"\nAnthropic digs in, says it will fight \"supply chain risk\" label in court\nAnthropic hit back with a detailed statement, saying it would challenge the designation in court.",
+              "\"No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons,\" the company said Friday night."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
