@@ -193342,6 +193342,64 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "14:25": [
+        {
+          "item": {
+            "title": "Tenways nearly perfects the shareable city e-bike",
+            "link": "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable",
+            "site_name": "The Verge",
+            "novelty_hash": "e1a62f7384856a1531b0ab215ead75f963b758fd"
+          },
+          "review": {
+            "headline_rewrite": "Tenways nearly perfects the shareable city e-bike",
+            "bullets": [
+              "It also takes up less space than an ordinary bike with its 20-inch wheels, folding pedals, and a handlebar that twists to create a slim, wall-hugging profile that goes flat inside a car or train.",
+              "Open the lever to quickly raise and lower the handlebar, or to gain access to a pin release that lets the handlebar twist out of the way.",
+              "But the seat’s quick release mechanism offers no additional security to prevent the post and saddle from being stolen.",
+              "On downhill slopes, the large chainring allowed me to pedal comfortably at speeds approaching 30km/h without my legs frantically spinning out.",
+              "I received alerts on my iPhone and Apple Watch when the battery dropped to 10 percent, and power dropped noticeably when the estimated remaining range hit 4km.",
+              "The little crossbar in the step-through frame even doubles as a handle to help hoist the bike up stairs."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-bans-anthropic-and-gives-it-same-label-that-chinas-huawei-has-in-the-us-since-the-year-2018/articleshow/128873401.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "06d15d2fe0027223633dfc620047aade5ae12e26"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "bullets": [
+              "US President\nDonald Trump on Friday ordered every US federal agency to immediately stop using technology from AI startup Anthropic, escalating a bitter standoff over the Pentagon's demand for unrestricted access to the company's Claude AI model.",
+              "Defence Secretary\nPete Hegseth followed up by designating Anthropic a \"supply chain risk to national security\"âa label historically reserved for foreign adversaries like China's Huawei.",
+              "Anthropic refused, insisting its AI tools should not be used for mass surveillance of Americans or fully autonomous weapons systems that can kill without human oversight.",
+              "The Pentagon has maintained it has \"no interest\" in using AI for either purpose, but Hegseth's own post told a different storyâdemanding \"full, unrestricted access\" to Anthropic's models and accusing the company of placing \"Silicon Valley ideology above American lives.",
+              "\"\nAnthropic digs in, says it will fight \"supply chain risk\" label in court\nAnthropic hit back with a detailed statement, saying it would challenge the designation in court.",
+              "\"No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons,\" the company said Friday night."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
