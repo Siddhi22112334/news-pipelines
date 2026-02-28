@@ -195473,6 +195473,118 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:20": [
+        {
+          "item": {
+            "title": "The billion-dollar infrastructure deals powering the AI boom",
+            "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "69712eadcccc9ecd0f017ee8d1e707f2457c3389"
+          },
+          "review": {
+            "headline_rewrite": "The billion-dollar infrastructure deals powering the AI boom",
+            "bullets": [
+              "It takes a lot of computing power to run an AI product — and as the tech industry races to tap the power of AI models, there’s a parallel race underway to build the infrastructure that will power them.",
+              "On a recent earnings call, Nvidia CEO Jensen Huang estimated that between $3 trillion and $4 trillion will be spent on AI infrastructure by the end of the decade — with much of that money coming from AI companies.",
+              "Along the way, they’re placing immense strain on power grids and pushing the industry’s building capacity to its limit.",
+              "Below, we’ve laid out everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+              "Microsoft’s 2019 investment in OpenAI\nThis is arguably the deal that kicked off the whole contemporary AI boom: In 2019, Microsoft made a $1 billion investment in a buzzy non-profit called OpenAI, known mostly for its association with Elon Musk.",
+              "Crucially, the deal made Microsoft the exclusive cloud provider for OpenAI — and as the demands of model training became more intense, more of Microsoft’s investment started to come in the form of Azure cloud credit rather than cash."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
+            "link": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
+            "site_name": "The Verge",
+            "novelty_hash": "42931243cf62515b07b3a9e9b6c9be6fd8d403f1"
+          },
+          "review": {
+            "headline_rewrite": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
+            "bullets": [
+              "But researchers and stargazers have been eagerly anticipating the launch of this system.",
+              "Every night, the camera captures about 1,000 images and then compares those against a reference image taken when the telescope first went online.",
+              "Samsung R&D chief explains\n- Warner Bros.",
+              "Discovery agrees to $110 billion Paramount merger\n- Defense secretary Pete Hegseth designates Anthropic a supply chain risk"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Polymarket defends its decision to allow betting on war as ‘invaluable’",
+            "link": "https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable",
+            "site_name": "The Verge",
+            "novelty_hash": "a5bb62505ad68894875c7f86b440c5586b763c47"
+          },
+          "review": {
+            "headline_rewrite": "Polymarket defends its decision to allow betting on war as ‘invaluable’",
+            "bullets": [
+              "Samsung R&D chief explains\n- Warner Bros.",
+              "Discovery agrees to $110 billion Paramount merger\n- Defense secretary Pete Hegseth designates Anthropic a supply chain risk"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything announced at MWC 2026: The new Leica Leitzphone by Xiaomi, Honor's ultra-thin MagicPad 4 and more",
+            "link": "https://www.engadget.com/mobile/everything-announced-at-mwc-2026-the-new-leica-leitzphone-by-xiaomi-honors-ultra-thin-magicpad-4-and-more-172442426.html",
+            "site_name": "Engadget",
+            "novelty_hash": "083b828e9c34c1dab6ec3632a004ac46746d138a"
+          },
+          "review": {
+            "headline_rewrite": "Everything announced at MWC 2026: The new Leica Leitzphone by Xiaomi, Honor's ultra-thin MagicPad 4 and more",
+            "bullets": [
+              "We can always count on the annual tech event to bring tons of new phones, laptops and tablets, and we're expecting to see some robots and other gadgets too — plus plenty of AI news, of course.",
+              "Xiaomi x Leica\nXiaomi kicked off MWC this year by announcing the global launch of its 17 Ultra smartphone, which debuted first in China back in December.",
+              "Xiaomi teamed up again with Leica to make a photography-focused smartphone, and the 17 Ultra sports a 1-inch 50-megapixel camera sensor with a f/1.67 lens, a telephoto setup with a 200MP 1/1.4-inch sensor, and a 50MP ultrawide camera.",
+              "Like the 17 Ultra, it has a Snapdragon 8 Elite Gen 5 chip and a 6.9-inch 120Hz display.",
+              "The Pro model is powered by a Snapdragon 8 Elite chip, while the regular Pad 8 uses the Snapdragon 8s Gen 4 chipset.",
+              "Honor MagicPad 4\nAhead of MWC, Honor announced what it claims is the thinnest Android tablet in the world: the 4.8mm thick MagicPad 4."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Alaska could be the next state to crack down on AI-generated CSAM and restrict kids' social media use",
+            "link": "https://www.engadget.com/social-media/alaska-could-be-the-next-state-to-crack-down-on-ai-generated-csam-and-restrict-kids-social-media-use-190506366.html",
+            "site_name": "Engadget",
+            "novelty_hash": "51d660706ae01625c7c29b4645f9aade73be8353"
+          },
+          "review": {
+            "headline_rewrite": "Alaska could be the next state to crack down on AI-generated CSAM and restrict kids' social media use",
+            "bullets": [
+              "The bill's original form was focused on prohibiting the possession and distribution of sexually explicit images of children using AI, but Alaska lawmakers decided to add amendments that would impose social media restrictions.",
+              "While the House bill saw 39 votes in favor and zero against, the amendments offered some hints at potential upcoming revisions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-bans-anthropic-and-gives-it-same-label-that-chinas-huawei-has-in-the-us-since-the-year-2018/articleshow/128873401.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "06d15d2fe0027223633dfc620047aade5ae12e26"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "bullets": [
+              "US President\nDonald Trump on Friday ordered every US federal agency to immediately stop using technology from AI startup Anthropic, escalating a bitter standoff over the Pentagon's demand for unrestricted access to the company's Claude AI model.",
+              "Defence Secretary\nPete Hegseth followed up by designating Anthropic a \"supply chain risk to national security\"âa label historically reserved for foreign adversaries like China's Huawei.",
+              "Anthropic refused, insisting its AI tools should not be used for mass surveillance of Americans or fully autonomous weapons systems that can kill without human oversight.",
+              "The Pentagon has maintained it has \"no interest\" in using AI for either purpose, but Hegseth's own post told a different storyâdemanding \"full, unrestricted access\" to Anthropic's models and accusing the company of placing \"Silicon Valley ideology above American lives.",
+              "\"\nAnthropic digs in, says it will fight \"supply chain risk\" label in court\nAnthropic hit back with a detailed statement, saying it would challenge the designation in court.",
+              "\"No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons,\" the company said Friday night."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
