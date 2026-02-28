@@ -193169,6 +193169,64 @@
             "impact": "Negative"
           }
         }
+      ],
+      "12:58": [
+        {
+          "item": {
+            "title": "OpenAI strikes a deal with the Defense Department to deploy its AI models",
+            "link": "https://www.engadget.com/ai/openai-strikes-a-deal-with-the-defense-department-to-deploy-its-ai-models-054441785.html",
+            "site_name": "Engadget",
+            "novelty_hash": "f595ce040bd2dd94ffb949b381c6825532663c80"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI strikes a deal with the Defense Department to deploy its AI models",
+            "bullets": [
+              "OpenAI has reached an agreement with the Defense Department to deploy its models in the agency’s network, company chief Sam Altman has revealed on X.",
+              "In his post, he said two of OpenAI’s most important safety principles are “prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.” Altman claimed the company put those principles in its agreement with the agency, which he called by the government’s preferred name of Department of War (DoW), and that it had agreed to honor them.",
+              "The agency has closed the deal with OpenAI, shortly after President Donald Trump ordered all government agencies to stop using Claude and any other Anthropic services.",
+              "If you’ll recall, US Defense Secretary Pete Hegseth previously threatened to label Anthropic “supply chain risk” if it continues refusing to remove the guardrails on its AI, which are preventing the technology to be used for mass surveillance against Americans and in fully autonomous weapons.",
+              "It’s unclear why the government agreed to team up with OpenAI if its models also have the same guardrails, but Altman said it’s asking the government to offer the same terms to all the AI companies it works with.",
+              "Jeremy Lewin, the Senior Official Under Secretary for Foreign Assistance, Humanitarian Affairs, and Religious Freedom, said on X that DoW “references certain existing legal authorities and includes certain mutually agreed upon safety mechanisms” in its contracts."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trump-bans-anthropic-and-gives-it-same-label-that-chinas-huawei-has-in-the-us-since-the-year-2018/articleshow/128873401.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "06d15d2fe0027223633dfc620047aade5ae12e26"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Feb 28, 2026 Donald Trump ‘bans’ Anthropic and gives it same label that China’s Huawei has in the US since the year 2018 Anthropic is locked in a high-stakes standoff with the Trump administration after refusing to give the Pentagon unrestricted access to its Claude AI model. The company drew a line at mass surveillance and autonomous weapons. In response, Trump ordered a government-wide ban on Anthropic's technology, while Defence Secretary Pete Hegseth designated it a \"supply chain risk\"—a label typically reserved for foreign adversaries.",
+            "bullets": [
+              "US President\nDonald Trump on Friday ordered every US federal agency to immediately stop using technology from AI startup Anthropic, escalating a bitter standoff over the Pentagon's demand for unrestricted access to the company's Claude AI model.",
+              "Defence Secretary\nPete Hegseth followed up by designating Anthropic a \"supply chain risk to national security\"âa label historically reserved for foreign adversaries like China's Huawei.",
+              "Anthropic refused, insisting its AI tools should not be used for mass surveillance of Americans or fully autonomous weapons systems that can kill without human oversight.",
+              "The Pentagon has maintained it has \"no interest\" in using AI for either purpose, but Hegseth's own post told a different storyâdemanding \"full, unrestricted access\" to Anthropic's models and accusing the company of placing \"Silicon Valley ideology above American lives.",
+              "\"\nAnthropic digs in, says it will fight \"supply chain risk\" label in court\nAnthropic hit back with a detailed statement, saying it would challenge the designation in court.",
+              "\"No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons,\" the company said Friday night."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
