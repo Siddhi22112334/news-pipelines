@@ -198328,6 +198328,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:53": [
+        {
+          "item": {
+            "title": "OpenAI reveals more details about its agreement with the Pentagon",
+            "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8ff83d2ada43ec9bd2ee151dc9b06d350d47e710"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI reveals more details about its agreement with the Pentagon",
+            "bullets": [
+              "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”\nAfter negotiations between Anthropic and the Pentagon fell through on Friday, President Donald Trump directed federal agencies to stop using Anthropic’s technology after a six-month transition period, and Secretary of Defense Pete Hegseth said he was designating the AI company as a supply-chain risk.",
+              "Then, OpenAI quickly announced that it had reached a deal of its own for models to be deployed in classified environments.",
+              "With Anthropic saying it was drawing red lines around the use of its technology in fully autonomous weapons or mass domestic surveillance, and Altman saying OpenAI had the same red lines, there were some obvious questions: Was OpenAI being honest about its safeguards?",
+              "So as OpenAI executives defended the agreement on social media, the company also published a blog post outlining its approach.",
+              "In fact, the post pointed to three areas where it said OpenAI’s models cannot be used — mass domestic surveillance, autonomous weapon systems, and “high-stakes automated decisions (e.g.",
+              "systems such as ‘social credit’).”\nThe company said that in contrast to other AI companies that have “reduced or removed their safety guardrails and relied primarily on usage policies as their primary safeguards in national security deployments,” OpenAI’s agreement protects its red lines “through a more expansive, multi-layered approach.”\n“We retain full discretion over our safety stack, we deploy via cloud, cleared OpenAI personnel are in the loop, and we have strong contractual protections,” the blog said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+            "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f200a465bde31fe1137701313f0350781e9ca36b"
+          },
+          "review": {
+            "headline_rewrite": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+            "bullets": [
+              "Investors have been pouring billions into AI companies over the past few years, as the technology continues to hold sway in the Valley and thus the world.",
+              "But not all AI companies are grabbing investor attention.",
+              "Indeed, even as it seems every company these days is rebranding to include “AI” in its name, some startup ideas are just no longer in favor with investors.",
+              "TechCrunch spoke with VCs to learn what investors aren’t looking for in AI software-as-a-service startups anymore.",
+              "Popular SaaS categories for investors now include startups building AI-native infrastructure, vertical SaaS with proprietary data, systems of action (those helping users complete tasks), and platforms deeply embedded in mission-critical workflows, according to Aaron Holiday, a managing partner at 645 Ventures.",
+              "But he also gave a list of companies that are considered quite boring to investors these days: Startups building thin workflow layers, generic horizontal tools, light product management, and surface-level analytics — basically, anything an AI agent can now do."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Lego’s Smart Brick is here, and it transforms these new Star Wars sets",
+            "link": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+            "site_name": "The Verge",
+            "novelty_hash": "0dddd588fe5cdd955fe36d169b6e32757b4a45bc"
+          },
+          "review": {
+            "headline_rewrite": "Lego’s Smart Brick is here, and it transforms these new Star Wars sets",
+            "bullets": [
+              "It has so much promise that we awarded it “best in show” at CES 2026, and now, eight Star Wars-themed sets that support the Smart Brick (and include it, in some cases) are now available.",
+              "Lego’s Smart Brick is here, and it transforms these new Star Wars sets\nThe Smart Brick comes with three of eight Star Wars sets at launch, although most smart-enabled sets ship without it.",
+              "The cheapest set to include a Smart Brick is Darth Vader’s TIE Fighter, which costs $69.99 at Amazon, Best Buy, and Lego’s online storefront, while the priciest one — the Throne Room Duel & A-Wing set — is available from Amazon, Best Buy, and Lego for $159.99 with two Smart Bricks."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything announced at MWC 2026: Honor's Robot Phone, the new Leica Leitzphone by Xiaomi, and more",
+            "link": "https://www.engadget.com/mobile/everything-announced-at-mwc-2026-honors-robot-phone-the-new-leica-leitzphone-by-xiaomi-and-more-172442140.html",
+            "site_name": "Engadget",
+            "novelty_hash": "7a686a85febd75e61ec8495e799d1ef5548f6b8b"
+          },
+          "review": {
+            "headline_rewrite": "Everything announced at MWC 2026: Honor's Robot Phone, the new Leica Leitzphone by Xiaomi, and more",
+            "bullets": [
+              "We can always count on the annual tech event to bring tons of new phones, laptops and tablets, and we're expecting to see some robots and other gadgets too — plus plenty of AI news, of course.",
+              "Honor\nHonor didn't reveal too much spec-wise, but the company says the primary camera uses a 200-megapixel sensor.",
+              "The gimbal will offer three-axis stabilization, which will be coupled with camera modes such as Super Steady Video and AI Object Tracking.",
+              "The Robot Phone isn't quite ready for release at the moment, but the company says it will launch later this year.",
+              "As for the cameras, there are two 50-megapixel lenses and a 64-megapixel telephoto, plus a 20-megapixel f/2.2 selfie lens on the cover and internal display.",
+              "Honor hasn't yet shared details about pricing and availability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What Happens if Iran Shuts Down the Strait of Hormuz?",
+            "link": "https://www.wired.com/story/what-happens-if-iran-shuts-down-the-strait-of-hormuz/",
+            "site_name": "WIRED",
+            "novelty_hash": "bba7e1c7f24734b6e01049e811433d230fdfae53"
+          },
+          "review": {
+            "headline_rewrite": "What Happens if Iran Shuts Down the Strait of Hormuz?",
+            "bullets": [
+              "A disruption in the Strait of Hormuz—the world’s most critical energy chokepoint—in the aftermath of US-Israeli attacks on Iran would not stay confined to the Gulf.",
+              "Analysts say it could trigger a new inflation shock across the global economy, complicating monetary policy and putting pressure on the currencies of energy-importing countries.",
+              "The semi-official Tasnim news agency reported that the “Strait of Hormuz is shut down” following the strikes on Iran in the early hours of February 28.",
+              "Vessels operating near the strait have also reported VHF radio warnings from Iran’s Revolutionary Guards warning that “no ship is allowed to pass the Strait of Hormuz.\" On Sunday morning, authorities in Oman said that an oil tanker was attacked off the country's port of Khasab, which is in the Strait of Hormuz.",
+              "Why the Strait Matters\nData from the US Energy Information Administration shows that about 20 million barrels of oil and petroleum products passed through the Strait of Hormuz each day in 2024—roughly one fifth of global oil consumption.",
+              "In practical terms, disruption in the strait would remove a significant share of the world’s energy supply from global markets almost immediately."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Mar 1, 2026 Intel CEO Lip-Bu Tan: I was shocked to find China's Huawei has hired 100s of engineers who can... Intel CEO Lip-Bu Tan expressed shock at Huawei's 100+ top CPU architects, developing alternatives to advanced tools and lithography. He warned China is rapidly closing the semiconductor gap through engineering and infrastructure optimization, even excelling in older tech. Tan also highlighted China's regulatory speed and the US trailing in open-source AI development, urging immediate action to maintain its chip advantage.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/intel-ceo-lip-bu-tan-i-was-shocked-to-find-chinas-huawei-has-hired-100s-of-engineers-who-can-/articleshow/128909038.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "1fe47d2c3332734f0a4a0e57be83d12fe64d9352"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Mar 1, 2026 Intel CEO Lip-Bu Tan: I was shocked to find China's Huawei has hired 100s of engineers who can... Intel CEO Lip-Bu Tan expressed shock at Huawei's 100+ top CPU architects, developing alternatives to advanced tools and lithography. He warned China is rapidly closing the semiconductor gap through engineering and infrastructure optimization, even excelling in older tech. Tan also highlighted China's regulatory speed and the US trailing in open-source AI development, urging immediate action to maintain its chip advantage.",
+            "bullets": [
+              "Intel CEO Lip-Bu Tan has admitted he was \"shocked\" to discover that Huawei has quietly assembled a team of over 100 top-tier CPU architectsâeven as the company remains cut off from the world's most advanced chipmaking tools and design software.",
+              "Speaking at Intel's Second Annual AI Summit on February 3, Tan said he stumbled upon Huawei's talent pipeline while trying to recruit senior chip designers himself.",
+              "When he brought up ASML's advanced lithography equipmentâwhich China cannot legally accessâthe engineers reportedly said they were \"quietly building\" alternatives.",
+              "Huawei is closing the gap faster than the US expected\nTan warned that Huawei and other Chinese tech firms are narrowing the semiconductor gap through sheer engineering effort and infrastructure optimisation.",
+              "\"If they decide to have it, they quickly can get all the approval and get it done,\" Tan said, contrasting it with the slower pace of approvals in the United States, particularly around power infrastructure for AI data centres.",
+              "He also said multiple well-connected people had told him that in open-source AI development, the US is now trailing Chinaâa gap he believes needs urgent attention and funding."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
