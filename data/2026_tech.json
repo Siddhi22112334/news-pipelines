@@ -198567,5 +198567,131 @@
         }
       ]
     }
+  },
+  "2026-03-02": {
+    "runs": {
+      "00:03": [
+        {
+          "item": {
+            "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+            "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f9370c82e9c19793d4f9653a58fdb00bc591c866"
+          },
+          "review": {
+            "headline_rewrite": "Google looks to tackle longstanding RCS spam in India — but not alone",
+            "bullets": [
+              "As persistent spam complaints have clouded Google’s Rich Communication Services (RCS) push in India, the company is turning to deeper carrier integration to bolster protections on the platform.",
+              "On Sunday, Bharti Airtel, India’s second-largest telecom operator with over 463 million subscribers, said it had partnered with Google to integrate the carrier’s network-level spam filtering into the RCS ecosystem in the country.",
+              "The move is aimed at strengthening protections against unwanted messages and fraud on the platform, the companies said.",
+              "India has emerged as a particularly challenging market for spam and fraud across messaging channels, driven by the country’s vast mobile user base, rapid growth in digital payments, and aggressive enterprise marketing practices.",
+              "In 2022, complaints about unsolicited ads on Google’s RCS — delivered primarily through the Google Messages app — were significant enough to prompt the company to temporarily pause business promotions on the platform in India.",
+              "Airtel said it had been cautious about deeper alignment with Google’s RCS until traffic could be routed through its own spam controls, highlighting carrier concerns about rising fraud risks."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+            "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f200a465bde31fe1137701313f0350781e9ca36b"
+          },
+          "review": {
+            "headline_rewrite": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+            "bullets": [
+              "Investors have been pouring billions into AI companies over the past few years, as the technology continues to hold sway in the Valley and thus the world.",
+              "But not all AI companies are grabbing investor attention.",
+              "Indeed, even as it seems every company these days is rebranding to include “AI” in its name, some startup ideas are just no longer in favor with investors.",
+              "TechCrunch spoke with VCs to learn what investors aren’t looking for in AI software-as-a-service startups anymore.",
+              "Popular SaaS categories for investors now include startups building AI-native infrastructure, vertical SaaS with proprietary data, systems of action (those helping users complete tasks), and platforms deeply embedded in mission-critical workflows, according to Aaron Holiday, a managing partner at 645 Ventures.",
+              "But he also gave a list of companies that are considered quite boring to investors these days: Startups building thin workflow layers, generic horizontal tools, light product management, and surface-level analytics — basically, anything an AI agent can now do."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’",
+            "link": "https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death",
+            "site_name": "The Verge",
+            "novelty_hash": "3d03368881d7bf00cbf8dc200109bcf1dfb7ef7e"
+          },
+          "review": {
+            "headline_rewrite": "Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’",
+            "bullets": [
+              "In a statement on X, Kalshi CEO Tarek Mansour said his company would pay out positions on “Ali Khamenei out as Supreme Leader?” at the last trading price before his death.",
+              "Mansour said that Kalshi doesn’t “list markets directly tied to death” and that its rules are designed to “prevent people from profiting from death.” In addition, Kalshi is refunding fees related to the market and reimbursing anyone who purchased shares after Khamenei’s death.",
+              "Some users have voiced anger at how the situation was handled, claiming that either Kalshi’s rules should have been communicated more clearly, or that its markets should have been more narrowly worded to avoid confusion.",
+              "While Mansour defended that having a market on Khamenei was important, he said that “having a market directly settling on someone’s death” was not allowed under US regulations.",
+              "Unlike Polymarket, Kalshi does not appear to have allowed a market for betting on when or if the US would launch another military strike on Iran.",
+              "Polymarket does not appear to have altered payouts on its own similar market, “Khamenei out as Supreme Leader of Iran by March 31?” However, it’s unclear if this bet was available to users in the US at this time."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Everything announced at MWC 2026: Honor's Robot Phone, the new Leica Leitzphone by Xiaomi, and more",
+            "link": "https://www.engadget.com/mobile/everything-announced-at-mwc-2026-honors-robot-phone-the-new-leica-leitzphone-by-xiaomi-and-more-172442140.html",
+            "site_name": "Engadget",
+            "novelty_hash": "7a686a85febd75e61ec8495e799d1ef5548f6b8b"
+          },
+          "review": {
+            "headline_rewrite": "Everything announced at MWC 2026: Honor's Robot Phone, the new Leica Leitzphone by Xiaomi, and more",
+            "bullets": [
+              "We can always count on the annual tech event to bring tons of new phones, laptops and tablets, and we're expecting to see some robots and other gadgets too — plus plenty of AI news, of course.",
+              "Honor\nHonor didn't reveal too much spec-wise, but the company says the primary camera uses a 200-megapixel sensor.",
+              "The gimbal will offer three-axis stabilization, which will be coupled with camera modes such as Super Steady Video and AI Object Tracking.",
+              "The Robot Phone isn't quite ready for release at the moment, but the company says it will launch later this year.",
+              "As for the cameras, there are two 50-megapixel lenses and a 64-megapixel telephoto, plus a 20-megapixel f/2.2 selfie lens on the cover and internal display.",
+              "Honor hasn't yet shared details about pricing and availability."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
+            "link": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
+            "site_name": "WIRED",
+            "novelty_hash": "6ef978a550b86562cd162c6e99b52061f6f8dcbe"
+          },
+          "review": {
+            "headline_rewrite": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
+            "bullets": [
+              "In his second term as president, Trump continues to indulge his love of high-stakes gambits—and the war-entirely-of-personal-choice he launched over the weekend with Iran might be the biggest gamble yet of his entire political career.",
+              "On the one hand, the events of the weekend so far seem all-but foreordained.",
+              "Similarly, the Iranian response to the war’s opening salvos—missiles and retaliatory strikes against other Gulf States, including Kuwait, Qatar, Bahrain, Israel, the United Arab Emirates, Saudi Arabia, and Jordan—had been widely foreseen and telegraphed.",
+              "After all, the US is still dealing with the downstream consequences of the last upheaval in Iran nearly a half-century ago, when the US-backed shah—originally put in power by a 1953 CIA coup—was ousted in 1979 by Ruhollah Musavi Khomeini and whose 86-year-old Ali Hosseini Khamenei successor led Iran until his death in the Israeli and American airstrikes this weekend.",
+              "Donald Trump has been clearly emboldened in his global rambunctiousness over the last year by two major tactical military successes—a bloodless-for-America airstrike campaign on Iranian nuclear facilities last year, carried out with stealth bombers and in conjunction with earlier Israeli airstrikes, as well as the stunningly audacious raid just weeks ago to seize Venezuelan leader Nicolás Maduro, which also was carried out without a single US death.",
+              "History, though, is always a close-run thing—and earlier this week we received an unexpected window into an narrowly averted alternate history: At the State of the Union, Trump presented an Army special operations pilot, Chief Warrant Officer 5 Eric Slover, with the Medal of Honor for his brave and careful reaction after being wounded four times by machine-gun fire while piloting the lead MH-47 Chinook helicopter on the Maduro raid."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The US reportedly used Anthropic's AI for its attack on Iran, just after banning it",
+            "link": "https://www.engadget.com/ai/the-us-reportedly-used-anthropics-ai-for-its-attack-on-iran-just-after-banning-it-172908929.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d88b92fc62e10d9ab310a21f1e59e66986e1e292"
+          },
+          "review": {
+            "headline_rewrite": "The US reportedly used Anthropic's AI for its attack on Iran, just after banning it",
+            "bullets": [
+              "In a lengthy post on Truth Social on February 27, President Trump ordered all federal agencies to \"immediately cease all use of Anthropic's technology\" following strong disagreements between the Department of Defense and the AI company.",
+              "A few hours later, the US conducted a major air attack on Iran with the help of Anthropic's AI tools, according to a report from The Wall Street Journal.",
+              "The president noted in his post that there would be a \"six-month phase-out period for agencies like the Department of War who are using Anthropic’s products,\" so federal agencies are still expected to eventually move away from using Claude or other Anthropic tech.",
+              "It's also not the first time that the US used Anthropic's AI for a major military operation, as the WSJ previously reported that Claude was used in the capture of the now-removed Venezuelan president Nicolás Maduro.",
+              "Moving forward, the Department of Defense may begin transitioning towards other AI options, especially after reaching deals with both xAI and OpenAI to use their models within the federal agency's network.",
+              "However, the WSJ reported that it would take months to replace Anthropic's Claude with other AI models."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
