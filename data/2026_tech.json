@@ -196769,6 +196769,118 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "14:30": [
+        {
+          "item": {
+            "title": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+            "link": "https://blogs.nvidia.com/blog/software-defined-ai-ran/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "323b27c7fb7a520da8292aa12950f759bc7e5d26"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+            "bullets": [
+              "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks.",
+              "Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN platforms.",
+              "Industry pioneers T-Mobile U.S., SoftBank and Indosat Ooredoo Hutchison (IOH) passed implementation milestones, taking NVIDIA-powered AI-RAN outdoors and over the air.",
+              "New benchmarking results from partners like SynaXG showed that AI-RAN running on NVIDIA platforms delivers high-speed, carrier-grade performance — meaning extreme reliability — across multiple 5G spectrum bands.",
+              "And over 20 AI-RAN Alliance demos built on NVIDIA platforms will be showcased at MWC, highlighting how AI is boosting 5G performance and efficiency, and unlocking new edge AI applications.",
+              "All of this represents momentum and convergence toward a common, software-defined foundation that will set the stage for secure, open and AI-native 6G systems."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+            "link": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
+            "site_name": "NVIDIA Blog",
+            "novelty_hash": "a490fcdad16e49dee870dbc29cb363a36616ae0f"
+          },
+          "review": {
+            "headline_rewrite": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+            "bullets": [
+              "In the latest NVIDIA State of AI in Telecommunications report, network automation emerged as the top AI use case for investment and return on investment.",
+              "Reasoning models and AI agents fine-tuned on telecom data are key to enabling this shift.",
+              "For networks to become autonomous, there’s a need for an end-to-end agentic system that includes key components like telco network models and AI agents that talk to each other and use network simulation tools to validate actions.",
+              "And as part of GSMA’s new Open Telco AI initiative — launching tomorrow — NVIDIA is releasing the new open source LTM, implementation guide and agentic AI blueprints as open resources through GSMA, an organization for the mobile communications industry.",
+              "Open Nemotron 3 Large Telco Model Brings Reasoning to Telecom\nFor telcos to successfully operationalize generative and agentic AI across their operations, AI models must have the ability to understand the language of telecom and reason through complex workflows.",
+              "NVIDIA has collaborated with AdaptKey AI to release a new open source, 30-billion-parameter NVIDIA Nemotron LTM that operators around the world can use to build autonomous networks."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "26bee238f2db6fda8aad005fd5a4327fc7bd13a7"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nWarren Buffett steps down as Berkshire Hathaway CEO chevron_rightWarren Buffett's Final $373 Billion Warning Sent Shockwaves Through Wall Street\nWarren Buffett sold stocks, built up cash in final weeks as Berkshire Hathaway CEO\nThe Motley Fool\nBy Sean Williams\nBusiness Insider\nBy Theron Mohamed\nGreg Abel's Berkshire Hathaway shareholder letter chevron_right\nBlock lays off over 4,000 employees due to AI chevron_right\nNvidia earnings chevron_right\nSweetgreen reports declining sales and revenue in fourth quarter chevron_right\nUS producer prices rise more than expected in January chevron_right\nAnthropic's AI tool for IBM chevron_right\nAnthropic's Claude rises in App Store rankings following Pentagon dispute chevron_rightAnthropic’s Claude rises to No.",
+              "1 on Apple's top free apps list after Pentagon rejection\nTechCrunch\nBy Anthony Ha\nCNBC\nBy Jordan Novet\nInvestor's Business Daily\nBy Ed Carson\nYahoo Finance\nBy Karen Friar\nReuters\nBy Anushree Ashish Mukherjee & Rod Nickel\nPlaintiff Kaley GM describes social media addiction starting at age 6 chevron_rightWomen gasp, men yawn and laugh at landmark L.A.",
+              "social media addiction trial\nLos Angeles Times\nBy Sandra Mcdonald & Sonja Sharp\nThe Washington Post\nBy Michelle Singletary\nDTE Energy plans another rate hike application for April 27 chevron_right\nWall Street's anxiety about AI future chevron_right\nSpaceX reportedly weighs confidential IPO filing as soon as March chevron_rightSpaceX could seek IPO valuation of over $1.75 trillion, Bloomberg says\nBy Juby Babu & Muhammad Tasim Zahid\nBy Kevin Liffey\nBloomberg.com\nBy Salma El Wardany, Fiona Macdonald & Grant Smith\nDemocrats' homeownership plan chevron_rightWall Street Is Driving Up Home Prices."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Mar 1, 2026 Intel CEO Lip-Bu Tan: I was shocked to find China's Huawei has hired 100s of engineers who can... Intel CEO Lip-Bu Tan expressed shock at Huawei's 100+ top CPU architects, developing alternatives to advanced tools and lithography. He warned China is rapidly closing the semiconductor gap through engineering and infrastructure optimization, even excelling in older tech. Tan also highlighted China's regulatory speed and the US trailing in open-source AI development, urging immediate action to maintain its chip advantage.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/intel-ceo-lip-bu-tan-i-was-shocked-to-find-chinas-huawei-has-hired-100s-of-engineers-who-can-/articleshow/128909038.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "1fe47d2c3332734f0a4a0e57be83d12fe64d9352"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Mar 1, 2026 Intel CEO Lip-Bu Tan: I was shocked to find China's Huawei has hired 100s of engineers who can... Intel CEO Lip-Bu Tan expressed shock at Huawei's 100+ top CPU architects, developing alternatives to advanced tools and lithography. He warned China is rapidly closing the semiconductor gap through engineering and infrastructure optimization, even excelling in older tech. Tan also highlighted China's regulatory speed and the US trailing in open-source AI development, urging immediate action to maintain its chip advantage.",
+            "bullets": [
+              "Intel CEO Lip-Bu Tan has admitted he was \"shocked\" to discover that Huawei has quietly assembled a team of over 100 top-tier CPU architectsâeven as the company remains cut off from the world's most advanced chipmaking tools and design software.",
+              "Speaking at Intel's Second Annual AI Summit on February 3, Tan said he stumbled upon Huawei's talent pipeline while trying to recruit senior chip designers himself.",
+              "When he brought up ASML's advanced lithography equipmentâwhich China cannot legally accessâthe engineers reportedly said they were \"quietly building\" alternatives.",
+              "Huawei is closing the gap faster than the US expected\nTan warned that Huawei and other Chinese tech firms are narrowing the semiconductor gap through sheer engineering effort and infrastructure optimisation.",
+              "\"If they decide to have it, they quickly can get all the approval and get it done,\" Tan said, contrasting it with the slower pace of approvals in the United States, particularly around power infrastructure for AI data centres.",
+              "He also said multiple well-connected people had told him that in open-source AI development, the US is now trailing Chinaâa gap he believes needs urgent attention and funding."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "News Showcase",
+            "link": "https://news.google.com/showcase?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "b669a49a953e95d0372f3fb6557b68789732f24c"
+          },
+          "review": {
+            "headline_rewrite": "News Showcase",
+            "bullets": [
+              "News Showcase\nStories selected by newsroom editors\nTwin Cities\nMorning Headlines\nWhat Utah is buzzing about\nTop News\nMywebtimes\nThe Business Journal of the Boulder Valley and Northern Colorado\nIn Brief\nTODAY'S TOP STORIES\nGJ Sentinel Headlines 2/28\nTrending News\nThe Herald News\nTop Stories from The Wilson Times\nSaturday Roundup - Evening Edition\nNews You Need\nLane County News\nToledo's Leader in News, Sports & Entertainment\nDaily Rundown\nSaturday News Roundup -- Afternoon Edition\nNEWS TO KNOW THIS MORNING\nToday's Rundown\nCobb Courier Evening Update February 28, 2026\nThe Afternoon Rundown | Feb.",
+              "28, 2026\nDaily Briefing\nTODAY IN SANTA CRUZ COUNTY\nSauk Valley\nLatest Headlines\nIRAN ATTACK, FOREVER STOCKS?",
+              "NORTHEAST GEORGIA\nHappening In Loudoun County\nSan Diego Saturday Evening Report\nToday's Top Headlines\nSaturday Night News\nLatest news for Edmonds\nA wrap on the day’s hard-hitting news and opinion\nSaturday's news in Fairfax County\nBridgeDetroit\nSaturday Evening Update 2-28-2026\nAddiction recovery has exploded across L.A, City Hall wants spacing rules\nDaily Journal"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
