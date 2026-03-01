@@ -197728,6 +197728,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "20:22": [
+        {
+          "item": {
+            "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+            "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "5f4fb553c34e14855e103d0a9bbd1b8d4b8824f2"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+            "bullets": [
+              "On Saturday evening, it overtook OpenAI’s ChatGPT to claim the number one spot, a position that it still held on Sunday morning.",
+              "It’s climbed rapidly in the past few days, from sixth on Wednesday, then fourth on Thursday, then first on Saturday.",
+              "A company spokesperson said that daily signups have broken the all-time record every day this week, free users have increased more than 60% since January, and paid subscribers have more than doubled this year.",
+              "After Anthropic attempted to negotiate for safeguards preventing the Department of Defense from using its AI models for mass domestic surveillance or fully autonomous weapons, President Donald Trump directed federal agencies to stop using all Anthropic products and Secretary of Defense Pete Hegseth said he’s designating the company a supply-chain threat.",
+              "OpenAI subsequently announced its own agreement with the Pentagon, which CEO Sam Altman claimed includes safeguards related to domestic surveillance and autonomous weapons."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+            "link": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f05427f33a2875ca6f2768a60ef1173694821be9"
+          },
+          "review": {
+            "headline_rewrite": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+            "bullets": [
+              "One day not long ago, a founder texted his investor with an update: he was replacing his entire customer service team with Claude Code, an AI tool that can write and deploy software on its own.",
+              "The whole idea of using AI agents instead of people to perform work throws into question the SaaS business model itself.",
+              "When one, or a handful, of AI agents can do that work — when employees simply ask their AI of choice to pull the data from the system — that per-seat model starts to break down.",
+              "The rapid pace of AI development also means that new tools, like Claude Code or OpenAI’s Codex, can replicate not just the core functions of SaaS products but also the add-on tools a SaaS vendor would sell to grow revenue from existing customers.",
+              "We saw this as early as late 2024, when Klarna announced that it had ditched Salesforce’s flagship CRM product in favor of its own homegrown AI system.",
+              "Rather, it’s the beginning of an old snake shedding its skin, he said."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta won’t let morality get in the way of a product launch",
+            "link": "https://www.theverge.com/policy/886348/meta-glasses-ice-doxxing-privacy",
+            "site_name": "The Verge",
+            "novelty_hash": "bf620010e14b996c22376bb3c9a67ada273d194c"
+          },
+          "review": {
+            "headline_rewrite": "Meta won’t let morality get in the way of a product launch",
+            "bullets": [
+              "Meta won’t let morality get in the way of a product launch\nAnyone else notice that ICE isn’t worried about getting doxed by Meta?",
+              "But who has the energy to complain?",
+              "A dangerously mercurial president, the blatant profiteering and corporate give-and-take, the expansive use of government surveillance, a supine Fourth Estate owned by billionaires, the rampant tyranny of ICE: These are the best preconditions to introduce Name Tag, brought to you by Meta and Ray-Ban.",
+              "Maybe it thinks that Meta is at the beck and call of Washington, DC, and will change its product to suit the needs of ICE.",
+              "According to an internal memo from last year, reviewed by The New York Times, the company claimed the feature will be launched “during a dynamic political environment where many civil society groups that we would expect to attack us would have their resources focused on other concerns.”\nThe sentence is remarkably self-serving, even for Meta.",
+              "The “dynamic political environment,” one presumes, is the chaotic Trump administration, the very same regime with which Meta and its CEO has curried favor — using slobbering praise and ideologically motivated policy changes and ballroom donations that went toward demolishing the historic White House East Wing."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Honor claims its Robot Phone will launch later this year",
+            "link": "https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs",
+            "site_name": "The Verge",
+            "novelty_hash": "20d78138032861fb433af7e8b78f81e778a5d75e"
+          },
+          "review": {
+            "headline_rewrite": "Honor claims its Robot Phone will launch later this year",
+            "bullets": [
+              "Honor has revealed more details of its so-called Robot Phone at MWC 2026, and finally showed a working unit in action alongside a dancing humanoid robot.",
+              "Honor claims its Robot Phone will launch later this year\nIts 200-megapixel main camera is supposedly built into the smallest 4DoF gimbal around.",
+              "Honor has now revealed that the main camera will have a 200-megapixel sensor, and is built into what it says is the smallest 4DoF gimbal system in the industry, though those are all the official specs we have so far.",
+              "It includes various AI camera tracking modes, along with more robotic features like the ability to nod or shake its head in conversation, and “dance” to music.",
+              "I fought through a throng of journalists to see a working unit in the demo area, which I saw unfold from the device, hold an AI-enabled conversation, and fold back in.",
+              "It gave no details at all about that device, though has previously claimed it does have plans for a commercial launch."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "How to share your location via satellite on iPhone",
+            "link": "https://www.engadget.com/mobile/smartphones/how-to-share-your-location-via-satellite-on-iphone-130000085.html",
+            "site_name": "Engadget",
+            "novelty_hash": "6a6abf5389a8392b30975ee4706b7375256c4ef0"
+          },
+          "review": {
+            "headline_rewrite": "How to share your location via satellite on iPhone",
+            "bullets": [
+              "Read more about how we evaluate products.",
+              "Apple’s satellite features are designed for situations where cellular and Wi-Fi coverage are unavailable.",
+              "This guide explains what is required to use location sharing via satellite on an iPhone, how to prepare the feature in advance and how to send your location when no signal is available.",
+              "How to share your location via satellite\nWhen there is no cellular or Wi-Fi signal available, open the Find My app.",
+              "Onscreen instructions will guide you to point the iPhone toward the sky and adjust its position to maintain a connection.",
+              "What you need before using satellite location sharing\nLocation sharing via satellite is available on iPhone 14 models and later that are running iOS 18 or newer."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Business",
+            "link": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+            "site_name": "Google News",
+            "novelty_hash": "2cf38645a9df6d3810eb880c775f485eec9f0996"
+          },
+          "review": {
+            "headline_rewrite": "Business",
+            "bullets": [
+              "Business\nBy Katherine Blunt & Jennifer Hiller\nReuters\nBy Dmitry Zhdannikov, Emelia Sithole-Matarise & Christina Fincher\nFinancial Times\nAI worries and stocks chevron_right\nMicrosoft stock analysis chevron_rightPrediction: This Will Be Microsoft's Stock Price in 3 Years.",
+              "(Hint: You're Going to Want to Buy Now)\nThe Motley Fool\nBy Keithen Drury\nNvidia stock chevron_right\nThe Washington Post\nBy David J Lynch\nBy Samantha Chatman\nPlaintiff Kaley testifies at social media addiction trial chevron_rightWomen gasp, men yawn and laugh at landmark L.A.",
+              "social media addiction trial\nLos Angeles Times\nBy Sandra Mcdonald & Sonja Sharp\nInvestor's Business Daily\nBy Ed Carson\nYahoo Finance\nBy Karen Friar & Jake Conley\nBlock lays off over 4,000 employees due to AI chevron_rightHere is how Block's severance package compares to other tech companies in past layoffs\nBusiness Insider\nBy Robert Scammell & Katherine Li\nCnEVPost\nBy Phate Zhang\nFortune\nBy Jacqueline Munis\nBy Michelle Singletary\nAnthropic's Claude rises in App Store rankings following Pentagon dispute chevron_rightAnthropic’s Claude rises to No.",
+              "2 in the App Store following Pentagon dispute\nTechCrunch\nBy Anthony Ha\nCoinDesk\nBy Shaurya Malwa\nBloomberg\nBy Emily Nicolle, Suvashree Ghosh & Sidhartha Shukla\nFCC approval of Cox Communications-Charter merger chevron_right\nSpaceX IPO filing chevron_rightSpaceX Weighs Confidential IPO Filing as Soon as March\nBy Bailey Lipschultz, Kiel Porter & Ryan Gould\nDTE Energy plans another rate hike application for April 27 chevron_right\nIBM stock after Anthropic AI tool chevron_rightJim Cramer on International Business Machines: “Astonishing Decline for a Company That Is Actually Doing Quite Well”\nDemocrats' homeownership plan chevron_rightWall Street Is Driving Up Home Prices.",
+              "One Mile at a Time\nBy Ben Schlappig\nState Farm auto insurance dividend chevron_right\nWendy's drive-thru incident in NJ chevron_rightVideo captures Wendy's drive-thru mayhem in Ewing Twp.; 3 facing charges\n3 wanted by NJ police for breaking into Wendy's drive-thru window, throwing food\n6abc Philadelphia\nBy Leland Pinder\nNBC10 Philadelphia\nBy Emily Grassi\nNovartis reaches confidential settlement over use of Henrietta Lacks cells chevron_rightHenrietta Lacks’s Family Settles Suit With Novartis Over Use of Her Cells - The New York Times\nThe New York Times\nBy Michael Levenson\nAI stock market chevron_right\nNewsweek, Statista rank top hospitals based on expert recommendations chevron_right3 Chicago hospitals land spots on list of ‘World's Best Hospitals 2026'\nNBC 5 Chicago\nBy Matt Stefanski\nBurger King makes first changes to Whopper in nearly a decade chevron_rightI tried Burger King's new 'elevated' Whopper.",
+              "Burger King makes changes to signature Whopper for first time in nearly a decade\nBy Erin McDowell\nFox Business\nBy Matthew Kazin\nOpenAI reportedly a major customer for Nvidia's new chip chevron_rightExclusive | Nvidia Plans New Chip to Speed AI Processing, Shake Up Computing Market\nWSJ\nBy Berber Jin, Robbie Whelan & Kate Clark\nXiaomi and Honor unveil new products at MWC 2026 chevron_rightEverything announced at MWC 2026: The new Leica Leitzphone by Xiaomi, Honor's ultra-thin MagicPad 4 and more\nEngadget\nBy Cheyenne Macdonald\nTruth Social spin-off chevron_right\nIran's cryptocurrency ecosystem chevron_rightIran is using a $7.8 billion crypto shadow economy to bypass global sanctions\nBy Francisco Rodrigues\nWaymo starts manual test drives in Chicago for data collection chevron_rightWaymo taxis’ first day in Charlotte leads to their first accident in Charlotte\nCharlotte Observer\nBy Chase Jordan\nBerkshire Hathaway Q4 earnings chevron_rightBerkshire Hathaway’s Earnings Are Nearly Here."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
