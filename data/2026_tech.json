@@ -200757,6 +200757,123 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "20:23": [
+        {
+          "item": {
+            "title": "How OpenAI caved to the Pentagon on AI surveillance",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+            "site_name": "The Verge",
+            "novelty_hash": "3eb1e8320d352cbbf7bef85000b0cfe7d03d6d32"
+          },
+          "review": {
+            "headline_rewrite": "How OpenAI caved to the Pentagon on AI surveillance",
+            "bullets": [
+              "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon.",
+              "The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of Americans and no lethal autonomous weapons (or AI systems with the power to kill targets without human oversight).",
+              "Altman, however, implied that he’d found a unique way to keep those same limits in OpenAI’s contract.",
+              "How OpenAI caved to the Pentagon on AI surveillance\nThe law doesn’t say what Sam Altman claims it does.",
+              "“The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement,” he added, using the Trump Administration’s preferred name for the Defense Department, the Department of War.",
+              "Across social media and the AI industry, people immediately began to challenge Altman’s claim."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s bakes in AI smarts into its new $599 iPhone 17e",
+            "link": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "9afb7ef10987c74cfad85bb182207d1db0e137a1"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s bakes in AI smarts into its new $599 iPhone 17e",
+            "bullets": [
+              "The iPhone 17e retails for $599 and will be available on March 11.",
+              "The smartphone comes with the A19 chip that’s found in the base iPhone 17, and will support Apple Intelligence.",
+              "The smartphone is available in black, white, and a new soft pink color.",
+              "As for the camera, the iPhone 17e features that same 48-megapixel camera as the iPhone 16e.",
+              "The iPhone 17e is rated IP68 for dust and water resistance, and its 6.1-inch Super Retina XDR display is protected by Ceramic Shield 2, which is said to offer trice the scratch resistance than the previous generation."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Claude reports widespread outage",
+            "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "149b50d469d9b69638d5d3fb2d93d2c9b3724020"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Claude reports widespread outage",
+            "bullets": [
+              "The outage seems to be affecting Claude.ai as well as Claude Code, though the company said the Claude API is working as intended.",
+              "“The issues we are seeing are related to Claude.ai and with the login/logout paths,” the company’s status page reads.",
+              "Anthropic has not yet detailed what caused the outage, though the company said it has identified an issue and is implementing a fix.",
+              "President Donald Trump last week told federal agencies to stop using Anthropic products after a dispute over safeguards preventing the Department of Defense from using its AI models for mass domestic surveillance or fully autonomous weapons.",
+              "Secretary of Defense Pete Hegseth said he would designate the company as a supply-chain threat, though Anthropic says it hasn’t yet received any formal notices."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple announces the iPhone 17E",
+            "link": "https://www.theverge.com/tech/886476/apple-iphone-march-2026",
+            "site_name": "The Verge",
+            "novelty_hash": "875e29d1505f868bc0bdc6849b50d089154d70bb"
+          },
+          "review": {
+            "headline_rewrite": "Apple announces the iPhone 17E",
+            "bullets": [
+              "The iPhone 17E starts at $599 with a higher 256GB of storage, and is available in black, white, and pink.",
+              "It also offers more storage for the same starting price as its predecessor, which cost $599 for 128GB when it launched last year.",
+              "It also has a C1X chip, the next-gen version of Apple’s in-house modem, which the company says is twice as fast.",
+              "The iPhone 17E offers a 48-megapixel “fusion” camera as well, enabling an “optical-quality” 2x telephoto.",
+              "There’s support for Apple’s advanced portraits feature, too, which automatically recognizes people, dogs, and cats and saves depth information, giving you the ability to add background blur after capture.",
+              "In between hardware launches, Apple has been working on a more personalized version of Siri powered by Google’s Gemini AI, allowing it to understand your personal context and take action on your screen."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple's new iPhone 17e has an A19 chip, MagSafe, and 256GB of storage for $599",
+            "link": "https://arstechnica.com/gadgets/2026/03/apples-new-iphone-17e-has-an-a19-chip-magsafe-and-256gb-of-storage-for-599/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b687f797d8e32785cf22a137bd3f7db855bc6b3c"
+          },
+          "review": {
+            "headline_rewrite": "Apple's new iPhone 17e has an A19 chip, MagSafe, and 256GB of storage for $599",
+            "bullets": [
+              "The phone will be available to preorder on March 4 and will be available on March 11, starting at $599.",
+              "The new iPhone includes an Apple A19 chip similar to the one in the more-expensive iPhone 17—both phones have six CPU cores, but the 17e only gets four GPU cores instead of five.",
+              "A 512GB version of the phone is available for $799."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding",
+            "link": "https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "44f5856aa2b4acae7b8f562ddc7ebb1345a85186"
+          },
+          "review": {
+            "headline_rewrite": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding",
+            "bullets": [
+              "A former NASA administrator says he is “encouraged” that the US Congress is considering legislation to prevent NASA from spending more than 50 percent of its launch funding on any single provider.",
+              "“I’m encouraged to see Congress taking meaningful steps to strengthen the industrial base that underpins both our civil and national security space missions.”\nBridenstine commended the chairman of the Senate Committee on Commerce, Science, and Transportation, Sen.",
+              "The provision appears to target SpaceX, which currently launches the only crewed vehicle capable of reaching the space station, Dragon; both US cargo vehicles (Dragon and Cygnus); as well as a majority of NASA’s science missions.",
+              "If passed into law, this language could effectively prohibit SpaceX from launching crewed lunar missions from Earth on Dragon or Starship for NASA in addition to its existing portfolio.",
+              "Lucrative lobbying\nWhat Bridenstine did not say on social media is that his consulting firm, The Artemis Group, netted $990,000 from United Launch Alliance in 2025, according to public records.",
+              "This was nearly a third of all revenue raised by his lobbying last year, a total of $3,385,000."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
