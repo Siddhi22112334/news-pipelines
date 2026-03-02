@@ -200102,6 +200102,86 @@
             "impact": "Positive"
           }
         }
+      ],
+      "15:18": [
+        {
+          "item": {
+            "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time",
+            "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "c47d394de95bf88c36e5df752671d80939ad60dc"
+          },
+          "review": {
+            "headline_rewrite": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time",
+            "bullets": [
+              "AMD has been selling “Ryzen AI”-branded laptop processors for around a year and a half at this point.",
+              "In addition to including modern CPU and GPU architectures, these attempting to capitalize on the generative AI craze by offering chips with neural processing units (NPUs) suitable for running language and image-generation models locally, rather than on some company’s server.",
+              "But so far, AMD’s desktop chips have lacked both these higher-performance NPUs and the Ryzen AI label.",
+              "That changes today, at least a little: AMD is announcing its first three Ryzen AI chips for desktops using its AM5 CPU socket.",
+              "These Ryzen AI 400-series CPUs are direct replacements for the Ryzen 8000G processors, rather than the Ryzen 9000-series, and they combine Zen 5-based CPU cores, RDNA 3.5 GPU cores, and an NPU capable of 50 trillion operations per second (TOPS).",
+              "This makes them AMD’s first desktop chips to qualify for Microsoft’s Copilot+ PC label, which enables a handful of unique Windows 11 features like Recall and Click to Do."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Vivo’s next phone will launch with a professional camera rig",
+            "link": "https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage",
+            "site_name": "The Verge",
+            "novelty_hash": "038cb0e3881df98f001172e4d52ace7f804f0a31"
+          },
+          "review": {
+            "headline_rewrite": "Vivo’s next phone will launch with a professional camera rig",
+            "bullets": [
+              "The company isn’t ready to launch the handset just yet — or even reveal very many of its specs — but has confirmed that whenever it does arrive, it will be the first Ultra to go on sale outside China.",
+              "Vivo’s next phone will launch with a professional camera rig\nAnd it’ll be the company’s first Ultra to launch outside China.",
+              "The only concrete detail about the X300 Ultra itself Vivo would confirm is that it will have a 200-megapixel telephoto camera.",
+              "That was true of last year’s X200 Ultra too though, so we’re still waiting to find out what upgrades Vivo has in store from my favorite phone camera of last year.",
+              "The 200-megapixel sensor will apparently be taken full advantage of by the new Telephoto Extender Gen2 Ultra, an optional lens that will strap onto the phone’s rear.",
+              "Telephoto extenders have proved popular with manufacturers since Vivo introduced one with the X200 Ultra, also supported on the X300 and X300 Pro, with copycats launched by both Oppo and Honor."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Qualcomm's Snapdragon Wear Elite chip is made for smartwatches and AI devices",
+            "link": "https://www.engadget.com/wearables/qualcomms-snapdragon-wear-elite-chip-is-made-for-smartwatches-and-ai-devices-080744412.html",
+            "site_name": "Engadget",
+            "novelty_hash": "d8440599f73cc3e8d8d8168af6d8dbd9398088b8"
+          },
+          "review": {
+            "headline_rewrite": "Qualcomm's Snapdragon Wear Elite chip is made for smartwatches and AI devices",
+            "bullets": [
+              "Qualcomm's Snapdragon Elite chips are reserved for the best Android phones and laptops, and now the company has introduced the first in the Elite series for wearables.",
+              "The Snapdragon Wear Elite processor is designed for smartwatches and AI devices like pendants and promises up to a fivefold increase in single-thread CPU performance, Qualcomm announced.",
+              "With those changes, the company is promising up to five times faster single-threaded performance, with GPU speeds boosted up to seven times.",
+              "The Snapdragon Wear Elite is also equipped with a new NPU that allows low-power AI use cases like keyword recognition along with noise cancellation.",
+              "It's also the first Snapdragon wearable processor with a dedicated Hexagon NPU supporting AI models with two billion parameters.",
+              "That will allow new \"personal AI experiences,\" the company said, like context-aware recommendations, natural voice interactions, life logging and AI agents that can orchestrate tasks on your behalf."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Motorola's Edge 70 Fusion phone has a huge curved 144Hz display",
+            "link": "https://www.engadget.com/mobile/smartphones/motorolas-edge-70-fusion-phone-has-a-huge-curved-144hz-display-093035809.html",
+            "site_name": "Engadget",
+            "novelty_hash": "116a99586e7475c5b05b5a0d31d8fa6570dbc87f"
+          },
+          "review": {
+            "headline_rewrite": "Motorola's Edge 70 Fusion phone has a huge curved 144Hz display",
+            "bullets": [
+              "The 50MP main camera is also impressive, using Sony's Lytia 710 sensor with optical image stabilization and an f/1.8 aperture.",
+              "The Edge 70 fusion is powered by Qualcomm's Snapdragon 7s Gen 3 with Cortex-A720 and A520 cores, along with an Adreno 810 GPU, promising about a 15 percent bump in performance over the last model.",
+              "It's a solid value with prices starting at $430 in Europe (about $503) when it goes on sale later this month in colors like Patone Orient Blue, Pantone Country Air and Pantone Sporting Green.",
+              "There's no indication that it will be available in the US, though."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
