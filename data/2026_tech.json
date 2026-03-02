@@ -201470,6 +201470,120 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:08": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "066b90092242ff18b46367a94748c2e005a1880d"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)",
+            "bullets": [
+              "AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)\nThis past week, I’ve been deep in the trenches helping customers transform their businesses through AI-DLC (AI-Driven Lifecycle) workshops.",
+              "Throughout 2026, I’ve had the privilege of facilitating these sessions for numerous customers, guiding them through a structured framework that helps organizations identify, prioritize, and implement AI use cases that deliver measurable business value.",
+              "AI-DLC is a methodology that takes companies from AI experimentation to production-ready solutions by aligning technical capabilities with business outcomes.",
+              "If you’re interested in learning more, check out this blog post that dives deeper into the framework, or watch as Riya Dani teaches me all about AI-DLC on our recent GenAI Developer Hour livestream!",
+              "Now, let’s get into this week’s AWS news…\nOpenAI and Amazon announced a multi-year strategic partnership to accelerate AI innovation for enterprises, startups, and end consumers around the world.",
+              "Amazon will invest $50 billion in OpenAI, starting with an initial $15 billion investment and followed by another $35 billion in the coming months when certain conditions are met."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "VRC Non-Skip ads are now generally available, allowing brands to reach TV audiences with Google AI.",
+            "link": "https://blog.google/products/ads-commerce/vrc-non-skip-ads-generally-available/",
+            "site_name": "Google",
+            "novelty_hash": "0c743976e1180bdbca9f043da347684fd81e538f"
+          },
+          "review": {
+            "headline_rewrite": "VRC Non-Skip ads are now generally available, allowing brands to reach TV audiences with Google AI.",
+            "bullets": [
+              "VRC Non-Skips are now generally available globally in Google Ads and Display & Video 360.",
+              "- AI-powered optimization: Google AI dynamically optimizes between 6-second Bumpers, 15-second standard and 30-second CTV-only non-skippable ad formats, ensuring your campaign reaches the right audience at the right time.",
+              "- Drive better performance: AI-powered precision helps drive greater efficiency across multiple non-skip ad formats, delivering more unique reach and impact compared with manual mixes of single-format campaigns."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+            "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "953c4218acf8a88d840dcb9e1e40d7c4c263d064"
+          },
+          "review": {
+            "headline_rewrite": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+            "bullets": [
+              "Many users are switching to Claude following a string of controversies surrounding ChatGPT and its parent company, OpenAI.",
+              "The tipping point came after Anthropic, the company behind Claude, refused to allow the Department of Defense to use its AI models for mass domestic surveillance or fully autonomous weapons.",
+              "In response, President Trump ordered all federal agencies to stop using Anthropic’s products, and Defense Secretary Pete Hegseth announced plans to designate the company a supply-chain threat.",
+              "Hours later, OpenAI announced its own agreement with the Pentagon, claiming to include safeguards, but the deal has still sparked widespread debate over privacy and the ethical use of AI.",
+              "According to Anthropic, daily signups have hit record highs, free users have jumped by more than 60% since January, and paid subscribers have more than doubled this year.",
+              "Instead of starting from scratch with a new AI assistant, you can transfer your data to Claude so it can get up to speed on your preferences right away."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+            "link": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+            "site_name": "The Verge",
+            "novelty_hash": "ab22fd090446b75f0637d7a1da301f72566fff52"
+          },
+          "review": {
+            "headline_rewrite": "Apple might use Google servers to store data for its upgraded AI Siri",
+            "bullets": [
+              "Apple had already announced in January that Google’s Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information’s report indicates Apple might lean even more on Google so it can catch up in AI.",
+              "Apple might use Google servers to store data for its upgraded AI Siri\nApple may be leaning even more on Google as it tries to catch up in AI.",
+              "The original partnership announcement said that “the next generation of Apple Foundation Models will be based on Google’s Gemini models and cloud technology,” and that the models would “help power future Apple Intelligence features,” including “a more personalized Siri.” While the announcement noted that Apple Intelligence would “continue to run on Apple devices and Private Cloud Compute,” it didn’t specify if the new Siri would run on Google’s cloud.",
+              "Much of The Information’s article also dives deep into the history of Apple’s own cloud computing and data center efforts.",
+              "As noted in the report, Apple has generally been more conservative in its infrastructure spending, especially compared to rivals like Google, Microsoft, and Amazon, which are making massive investments to meet the needs of AI demand.",
+              "Apple’s AI features so far haven’t proven to be very popular, with just 10 percent of its Private Cloud Compute capacity in use on average, The Information says."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Mastodon now has a button for sharing content from other websites",
+            "link": "https://www.theverge.com/tech/887791/mastodon-official-share-button-widget",
+            "site_name": "The Verge",
+            "novelty_hash": "b1c8905edee12c704637a92fb8c559323afd9118"
+          },
+          "review": {
+            "headline_rewrite": "Mastodon now has a button for sharing content from other websites",
+            "bullets": [
+              "The blog post announcing the feature also explains that the tool “works entirely in your browser: there is no tracking data, and it does not store any information on the server.”\nMastodon now has a button for sharing content from other websites\nThe new “Share” button works with any Mastodon server, but Mastodon says it doesn’t use tracking data.",
+              "Previously, a “share” widget wasn’t available on Mastodon mainly due to the technical challenges that come with the platform’s decentralized design.",
+              "The widget’s open-source code is also freely available so anyone can view it or even use it to host their own version of the button."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Iranian Ayatollah Khamenei’s Death Sparks Revolt Among Kalshi Customers",
+            "link": "https://www.wired.com/story/iranian-ayatollah-khameneis-death-sparks-revolt-among-kalshi-customers/",
+            "site_name": "WIRED",
+            "novelty_hash": "1f45e14715a9895263e2d0bb847426f68437b8b1"
+          },
+          "review": {
+            "headline_rewrite": "Iranian Ayatollah Khamenei’s Death Sparks Revolt Among Kalshi Customers",
+            "bullets": [
+              "(Sample commentary online: “You literally ruined the entire credibility of your business.”) Some traders threatened class action lawsuits, and said that they had filed complaints to the Commodity Futures Trading Commission, the government agency that oversees prediction markets.",
+              "Last year, for example, traders protested how Polymarket resolved a popular market about whether Ukrainian president Volodymyr Zelensky, known for his casual outfits, would wear a suit before a certain date.",
+              "This week, former Trump chief of staff Mick Mulvaney also launched an advocacy group called Gambling Is Not Investing aimed at pushing for more guardrails on the sector.",
+              "Despite the recent turmoil, enthusiasm around prediction markets remains high."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
