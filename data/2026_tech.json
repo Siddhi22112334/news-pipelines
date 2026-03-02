@@ -201352,6 +201352,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "01:08": [
+        {
+          "item": {
+            "title": "AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)",
+            "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-partnership-aws-elemental-inference-strands-labs-and-more-march-2-2026/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "066b90092242ff18b46367a94748c2e005a1880d"
+          },
+          "review": {
+            "headline_rewrite": "AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)",
+            "bullets": [
+              "AWS Weekly Roundup: OpenAI partnership, AWS Elemental Inference, Strands Labs, and more (March 2, 2026)\nThis past week, I’ve been deep in the trenches helping customers transform their businesses through AI-DLC (AI-Driven Lifecycle) workshops.",
+              "Throughout 2026, I’ve had the privilege of facilitating these sessions for numerous customers, guiding them through a structured framework that helps organizations identify, prioritize, and implement AI use cases that deliver measurable business value.",
+              "AI-DLC is a methodology that takes companies from AI experimentation to production-ready solutions by aligning technical capabilities with business outcomes.",
+              "If you’re interested in learning more, check out this blog post that dives deeper into the framework, or watch as Riya Dani teaches me all about AI-DLC on our recent GenAI Developer Hour livestream!",
+              "Now, let’s get into this week’s AWS news…\nOpenAI and Amazon announced a multi-year strategic partnership to accelerate AI innovation for enterprises, startups, and end consumers around the world.",
+              "Amazon will invest $50 billion in OpenAI, starting with an initial $15 billion investment and followed by another $35 billion in the coming months when certain conditions are met."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+            "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "953c4218acf8a88d840dcb9e1e40d7c4c263d064"
+          },
+          "review": {
+            "headline_rewrite": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+            "bullets": [
+              "Many users are switching to Claude following a string of controversies surrounding ChatGPT and its parent company, OpenAI.",
+              "The tipping point came after Anthropic, the company behind Claude, refused to allow the Department of Defense to use its AI models for mass domestic surveillance or fully autonomous weapons.",
+              "In response, President Trump ordered all federal agencies to stop using Anthropic’s products, and Defense Secretary Pete Hegseth announced plans to designate the company a supply-chain threat.",
+              "Hours later, OpenAI announced its own agreement with the Pentagon, claiming to include safeguards, but the deal has still sparked widespread debate over privacy and the ethical use of AI.",
+              "According to Anthropic, daily signups have hit record highs, free users have jumped by more than 60% since January, and paid subscribers have more than doubled this year.",
+              "Instead of starting from scratch with a new AI assistant, you can transfer your data to Claude so it can get up to speed on your preferences right away."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+            "link": "https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "75bb6b20fc98aa11eb3597ce9b948a16a3674c53"
+          },
+          "review": {
+            "headline_rewrite": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+            "bullets": [
+              "“Our combined company will be home to many of the greatest, most recognizable and beloved franchises in the world, from ‘Harry Potter’ to ‘Top Gun,’ ‘Star Trek’ to ‘Looney Tunes,’ ‘Game of Thrones’ to ‘Yellowstone.’ This represents a tremendous opportunity, and we fully intend to invest in the creative engines of both studios, making them the most sought-after destination for the industry’s leading creative talent,” Ellison said during the call.",
+              "Ellison also reassured investors that HBO’s identity and creative vision as a studio would remain unchanged, stating, “Our viewpoint is HBO should stay HBO.” He also committed to maintaining a robust theatrical slate, pledging 15 films per year, per studio, for a total of at least 30 annual theatrical releases.",
+              "The merger would bring together a vast array of film, TV, and news assets under one corporate entity and is expected to upend the Hollywood landscape as we know it.",
+              "However, the merger also invites close scrutiny from the U.S.",
+              "Last week, California Attorney General Rob Bonta vowed to rigorously review the acquisition.",
+              "Additionally, industry observers warn that the merger is likely to result in significant job cuts, heightening employee anxieties over layoffs and wage reductions."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "You could be an influencer without even realizing it",
+            "link": "https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers",
+            "site_name": "The Verge",
+            "novelty_hash": "e5323c6bc604225ad8ccd6a776e3eb965c313d52"
+          },
+          "review": {
+            "headline_rewrite": "You could be an influencer without even realizing it",
+            "bullets": [
+              "In late February, Puck reported on a strange case: An influencer with more than a million followers was inadvertently promoting products on Instagram.",
+              "You could be an influencer without even realizing it\nA new AI Instagram feature uses influencers’ posts to hawk lookalike products without their consent.",
+              "Her job is to promote clothing, accessories, and other products to her followers, so having links to specific items isn’t strange.",
+              "The product links led followers not to the actual items Berolzheimer was promoting (and earning commission from), but to lookalikes.",
+              "She said she had no idea the “Shop the look” button appeared on her posts until someone else notified her.",
+              "”This is a limited test intended to help people explore products that match their interests when they’re viewing posts or reels,” Matthew T Torres, a Meta spokesperson, said in an email."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
+            "link": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+            "site_name": "The Verge",
+            "novelty_hash": "b1acd9a7df99b63a0944408b767b3b864af266a5"
+          },
+          "review": {
+            "headline_rewrite": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
+            "bullets": [
+              "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters.",
+              "The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court’s decision to uphold a ruling that found AI-generated art can’t be copyrighted.",
+              "AI-generated art can’t be copyrighted after Supreme Court declines to review the rule\nThe country’s highest judicial court won’t reconsider a decision that determined AI-created art is ineligible for copyright protection.",
+              "As reported by Reuters, Thaler asked the Supreme Court to review the ruling in October 2025, arguing it “created a chilling effect on anyone else considering using AI creatively.”\nLast year, the Copyright Office issued new guidance that says AI-generated artwork based on text prompts isn’t protected by copyright.",
+              "The Supreme Court’s decision follows several attempts by Thaler to copyright and patent the output from his AI systems.",
+              "The US federal circuit court similarly determined that AI systems can’t patent inventions because they aren’t human, which the US Patent Office reaffirmed in 2024 with new guidance, stating that while AI systems can’t be listed as inventors on a patent, people can still use AI-powered tools to develop them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Our Favorite Budget TV Is On Sale",
+            "link": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "site_name": "WIRED",
+            "novelty_hash": "bba55b86c7db53da447ce83bccbb34eb8d34b29a"
+          },
+          "review": {
+            "headline_rewrite": "Our Favorite Budget TV Is On Sale",
+            "bullets": [
+              "It would make a great second TV for your garage or guest room,\nWith a plain old LED panel, the Vizio isn't going to turn any heads or impress your most keen-eyed friends, but it's more than good enough for a night in catching up on your stories.",
+              "While it has its own built-in smart interface from Vizio, it also supports a variety of wireless connections, including both Apple AirPlay 2 and Google Cast, so both Android and iOS users can take advantage."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
