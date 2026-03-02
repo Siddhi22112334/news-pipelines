@@ -201233,5 +201233,126 @@
         }
       ]
     }
+  },
+  "2026-03-03": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+            "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "953c4218acf8a88d840dcb9e1e40d7c4c263d064"
+          },
+          "review": {
+            "headline_rewrite": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
+            "bullets": [
+              "Many users are switching to Claude following a string of controversies surrounding ChatGPT and its parent company, OpenAI.",
+              "The tipping point came after Anthropic, the company behind Claude, refused to allow the Department of Defense to use its AI models for mass domestic surveillance or fully autonomous weapons.",
+              "In response, President Trump ordered all federal agencies to stop using Anthropic’s products, and Defense Secretary Pete Hegseth announced plans to designate the company a supply-chain threat.",
+              "Hours later, OpenAI announced its own agreement with the Pentagon, claiming to include safeguards, but the deal has still sparked widespread debate over privacy and the ethical use of AI.",
+              "According to Anthropic, daily signups have hit record highs, free users have jumped by more than 60% since January, and paid subscribers have more than doubled this year.",
+              "Instead of starting from scratch with a new AI assistant, you can transfer your data to Claude so it can get up to speed on your preferences right away."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
+            "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "d1a897e36d94383383cea53cf85c344530bcaa33"
+          },
+          "review": {
+            "headline_rewrite": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
+            "bullets": [
+              "Hundreds of tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a “supply chain risk.” The letter also calls on Congress to step in and “examine whether the use of these extraordinary authorities against an American technology company is appropriate.”\nThe letter includes signatories from major technology and venture capital firms including OpenAI, Slack, IBM, Cursor, Salesforce Ventures, and more.",
+              "It follows a dispute between the DOD and Anthropic after the AI lab last week refused to give the military unrestricted access to its AI systems.",
+              "The DOD said it had no plans to do either of those things, but that it didn’t believe it should be limited by the rules of a vendor.",
+              "Hegseth said he would make good on his threats and designate Anthropic a supply chain risk — a designation normally reserved for foreign adversaries that would blacklist the AI firm from working with any agency or company that does business with the Pentagon.",
+              "In a post on Friday, Hegseth wrote: “Effective immediately, no contractor, supplier, or partner that does business with the United States military may conduct any commercial activity with Anthropic.”\nBut a post on X does not automatically make Anthropic a supply chain risk.",
+              "The government needs to complete a risk assessment and notify Congress before military partners have to cut ties with Anthropic or its products."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
+            "link": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+            "site_name": "The Verge",
+            "novelty_hash": "e02ef7a18c43e8d0f99430f32e52e5549bb7d713"
+          },
+          "review": {
+            "headline_rewrite": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
+            "bullets": [
+              "Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future AI data centers, after Nvidia already capitalized on its 2020 acquisition of the network hardware company Mellanox to beef up NVLink and increase the amount of data moving between its GPUs.",
+              "Nvidia’s spending $4 billion on photonics to stay ahead of the curve in AI\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.",
+              "Coherent’s deal is described similarly, with a “multibillion-dollar purchase commitment and future access and capacity rights for advanced laser and optical networking products.”\nThe growth of agentic AI like Anthropic’s Claude Cowork and Microsoft’s Copilot Tasks is driving up the bandwidth needs of AI data centers in order to support executing multiple tasks quickly.",
+              "Last month, DARPA put out a call for research proposals for improving photonic computing, specifically related to AI applications.",
+              "Nvidia’s rival AMD also acquired silicone photonics startup Enosemi last year, which it said would “accelerate” AMD’s optics innovation for its AI systems."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Supreme Court won’t hear AI-generated art copyright case",
+            "link": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+            "site_name": "The Verge",
+            "novelty_hash": "d3d374829bdaf0c4217876aa37445b9db6d229ec"
+          },
+          "review": {
+            "headline_rewrite": "Supreme Court won’t hear AI-generated art copyright case",
+            "bullets": [
+              "The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters.",
+              "The Monday decision comes after Stephen Thaler, a computer scientist from Missouri, appealed a court’s decision to uphold a ruling that found AI-generated art can’t be copyrighted.",
+              "Supreme Court won’t hear AI-generated art copyright case\nThe country’s highest judicial court won’t reconsider a lower court’s decision that determined AI-generated art can’t be copyrighted.",
+              "As reported by Reuters, Thaler asked the Supreme Court to review the ruling in October 2025, arguing it “created a chilling effect on anyone else considering using AI creatively.”\nLast year, the Copyright Office issued new guidance that says AI-generated artwork based on text prompts isn’t protected by copyright.",
+              "The Supreme Court’s decision follows several attempts by Thaler to copyright and patent the output from his AI systems.",
+              "The US federal circuit court similarly determined that AI systems can’t patent inventions because they aren’t human, which the US Patent Office reaffirmed in 2024 with new guidance, stating that while AI systems can’t be listed as inventors on a patent, people can still use AI-powered tools to develop them."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Our Favorite Budget TV Is On Sale",
+            "link": "https://www.wired.com/story/vizio-tv-deal-226/",
+            "site_name": "WIRED",
+            "novelty_hash": "bba55b86c7db53da447ce83bccbb34eb8d34b29a"
+          },
+          "review": {
+            "headline_rewrite": "Our Favorite Budget TV Is On Sale",
+            "bullets": [
+              "It would make a great second TV for your garage or guest room,\nWith a plain old LED panel, the Vizio isn't going to turn any heads or impress your most keen-eyed friends, but it's more than good enough for a night in catching up on your stories.",
+              "While it has its own built-in smart interface from Vizio, it also supports a variety of wireless connections, including both Apple AirPlay 2 and Google Cast, so both Android and iOS users can take advantage."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
+            "link": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
+            "site_name": "WIRED",
+            "novelty_hash": "3d9c94a4af5a8e3352d7f356daf58eda34383639"
+          },
+          "review": {
+            "headline_rewrite": "Attacks on GPS Spike Amid US and Israeli War on Iran",
+            "bullets": [
+              "Shipping through the Strait of Hormuz—the narrow but vital oil trade route in the Middle East—has almost ground to a halt since the start of the United States and Israel’s war against Iran.",
+              "Since the first US-Israeli strikes against Iran on February 28, more than 1,100 ships operating across the Gulf region have had their GPS or automatic identification system (AIS) communications technology disrupted, says Ami Daniel, the CEO of maritime intelligence firm Windward.",
+              "“We’re seeing a lot of GPS jamming,” Daniel says of shipping in the Strait of Hormuz and surrounding areas.",
+              "“It's becoming very dangerous to go in and out.”\nOver the last few years, attacks against GPS and navigation systems have been on the rise—largely driven by the wars in Ukraine and Gaza.",
+              "During jamming attacks, satellite signals are overwhelmed so that positioning data isn’t available.",
+              "Whereas spoofing can create false signals that make an object appear incorrectly on a map—for instance, making ships appear as if they are inland at airports."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }

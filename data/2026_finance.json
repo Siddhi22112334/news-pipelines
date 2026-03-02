@@ -87836,5 +87836,63 @@
         }
       ]
     }
+  },
+  "2026-03-03": {
+    "runs": {
+      "00:15": [
+        {
+          "item": {
+            "title": "Global energy security at risk? Gas prices jump 50% as Qatar shuts world's largest LNG export plant amid US-Iran war",
+            "link": "https://www.livemint.com/market/commodities/global-energy-security-at-risk-gas-prices-jump-50-as-qatar-shuts-worlds-largest-lng-export-plant-amid-us-iran-war-11772460530215.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Global energy security at risk? Gas prices jump 50% as Qatar shuts world's largest LNG export plant amid US-Iran war",
+            "bullets": [
+              "According to a Bloomberg report, European gas prices surged more than 50% following the shutdown as traders scrambled to price in the potential loss",
+              "In response, Tehran targeted Israel and US assets in Gulf states.",
+              "On top of that, Israel on Saturday ordered the temporary closure of some gas-producing capacities, including its biggest Leviathan gas field.",
+              "The states intercepted Iranian missiles launched in response to US-Israeli strikes."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "JSW Cement wins Sikilangso limestone mining lease in Assam",
+            "link": "https://www.thehindubusinessline.com/companies/jsw-cement-wins-sikilangso-limestone-mining-lease-in-assam/article70696827.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "JSW Cement wins Sikilangso limestone mining lease in Assam",
+            "bullets": [
+              "JSW Cement Ltd on Monday said it has been declared as the 'Preferred Bidder' for the mining lease of the Sikilangso Limestone Block in",
+              "Located in Umrangso, Dima Hasao District, Assam, the Limestone Block A and Block B are spread over an area of 200 hectares each, it",
+              "As of December 31, 2025, the Company had a cement grinding capacity of 21.60 MTPA (million tonnes per annum)."
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "IndiGo to launch daily direct Kolkata-Shanghai flights from March 29",
+            "link": "https://www.thehindubusinessline.com/economy/logistics/indigo-to-launch-daily-direct-kolkata-shanghai-flights-from-march-29/article70696794.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "IndiGo to launch daily direct Kolkata-Shanghai flights from March 29",
+            "bullets": [
+              "IndiGo on Monday announced the launch of daily, direct flights between Kolkata and Shanghai, effective March 29.",
+              "The new route will be operated using IndiGo’s A320 aircraft.",
+              "This announcement follows the recent reinstatement of the airline’s services to Guangzhou, highlighting its focus on improving connectivity and enabling smoother travel between India"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
