@@ -202057,6 +202057,125 @@
             "impact": "Negative"
           }
         }
+      ],
+      "05:23": [
+        {
+          "item": {
+            "title": "Stripe wants to turn your AI costs into a profit center",
+            "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "133f34a012b2b1bd9618d8c4af5858db9c40dff8"
+          },
+          "review": {
+            "headline_rewrite": "Stripe wants to turn your AI costs into a profit center",
+            "bullets": [
+              "Stripe on Monday released a preview of a new feature that could help AI startups (and other companies) solve the problem of passing through the underlying costs of AI model usage to their customers.",
+              "As Stripe described it, “Say you’re building an AI app: you want a consistent 30% margin over raw LLM token costs across providers.",
+              "Billing automates the process.”\nThe billing feature lets the startup pick the AI models it uses.",
+              "It tracks the API prices of those models.",
+              "As we’ve previously reported, there are a variety of ways that AI startups are charging for their wares.",
+              "The more their customers use their agents, the more tokens they consume from the underlying model provider, be that OpenAI, Google Gemini, Anthropic, or others — making pricing and business model decisions especially critical."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "No one has a good plan for how AI companies should work with the government",
+            "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "aa495675b39023c878454ccd6feda90358172d79"
+          },
+          "review": {
+            "headline_rewrite": "No one has a good plan for how AI companies should work with the government",
+            "bullets": [
+              "Around 7 p.m., the OpenAI CEO announced he would be fielding questions publicly on X, as a way of demystifying his company’s decision to pick up the Pentagon contract that Anthropic had just walked away from.",
+              "Most of the questions boiled down to OpenAI’s willingness to participate in mass surveillance and automated killing — the exact activities Anthropic had ruled out in its negotiations with the Pentagon.",
+              "Altman typically punted to the public sector, saying it wasn’t his role to set national policy.",
+              "“There is more open debate than I thought there would be,” Altman said, “about whether we should prefer a democratically elected government or unelected private companies to have more power.",
+              "I guess this is something people disagree on.”\nIt’s a telling moment for both OpenAI and the tech industry at large.",
+              "But what’s more telling is that, as OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company appears unequipped to manage its new responsibilities."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+            "site_name": "The Verge",
+            "novelty_hash": "f903f361c1e805099c25564a8094cf8aa2876434"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic upgrades Claude’s memory to attract AI switchers",
+            "bullets": [
+              "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude’s memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots.",
+              "These upgrades could allow users who have been using rivals like OpenAI’s ChatGPT or Google’s Gemini to quickly copy the data their preferred AI has collected on them and bring it over to Anthropic’s chatbot.",
+              "Anthropic upgrades Claude’s memory to attract AI switchers\nClaude’s memory feature has a new prompt and importing tool for copying users’ data from other AI platforms.",
+              "The option to import and export memories from Claude has been available since October, when Anthropic also rolled out the option for users to turn on Claude’s memory.",
+              "Up until now, the memory feature was only available to users on paid Claude subscriptions, but now all Claude users can turn it on by going into “settings” then “capabilities.” This menu is also where users can find the new memory importing tool, which has users copy a pre-written prompt into their previous AI then copy the output from that prompt back into Claude’s importing tool.",
+              "Last month, Anthropic launched its new Opus 4.6 and Sonnet 4.6 models, which the company says are better at coding and completing complex tasks like working through a spreadsheet or filling out forms."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s cheapest AirPods have hit $89",
+            "link": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "e9601bfd1ac9af20a40dc3ddd8fa40a9c562e1ec"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s cheapest AirPods have hit $89",
+            "bullets": [
+              "Not only did the company introduce a new budget phone, its entry-level AirPods 4 are also on sale.",
+              "Right now, you can snag a pair of Apple’s AirPods 4 starting at just $89 ($30 off) at Walmart.",
+              "Apple’s cheapest AirPods have hit $89\nThe noise-canceling model is down to just $119, which is cheaper than the regular AirPods 4 at full price.",
+              "The AirPods 4 are the best and most comfortable entry-level earbuds from Apple yet.",
+              "They deliver fuller bass along with clearer, more detailed sound than previous models, and even now match the AirPods Pro in terms of voice call quality.",
+              "They also boast an upgraded IP54 rating for water and dust resistance, meaning they can withstand light rain and sweaty workouts."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Oops: South Korean cops lost $5M in seized crypto after leaking wallet password",
+            "link": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "1965e579b2d83512e7daafee6821f2db2fcaaa69"
+          },
+          "review": {
+            "headline_rewrite": "Oops: South Korean cops lost $5M in seized crypto after leaking wallet password",
+            "bullets": [
+              "Clearly legible in the photo, the note contained a complete mnemonic recovery phrase that anyone can use as a master key to move assets off the cold wallet to a new wallet without any additional PIN or permissions required.",
+              "A blockchain analysis expert, Cho Jae-woo, told a South Korean news site that 4 million PRTG (Pre-Retogeum) tokens—worth approximately $4.8 million—were in the wallet when the thief struck.",
+              "The Block reported that on-chain data from Etherscan indicated that “the party who moved the funds first deposited a small amount of ETH into the wallet to cover transaction fees, then transferred the 4 million PRTG tokens out in three transactions.”\nOn Sunday, officers with South Korea’s National Tax Service posted another press release, “deeply” apologizing for the leak compromising the seized assets.",
+              "In it, cops explained that they included the images to make the release more eye-catching, but they were careless in failing to redact the crypto wallet password from the images.",
+              "They acknowledged there was no excuse for the error and confirmed they were launching an investigation with national police, attempting to trace the transfer and retrieve the lost funds."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic brings memory to Claude's free plan",
+            "link": "https://www.engadget.com/ai/anthropic-brings-memory-to-claudes-free-plan-220729070.html",
+            "site_name": "Engadget",
+            "novelty_hash": "44ae9cf774a07c3c4442c4284af07bb05330c551"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic brings memory to Claude's free plan",
+            "bullets": [
+              "Anthropic is bringing another paid feature to Claude's free tier.",
+              "This comes while Anthropic is engaged in a high-stakes contract dispute with the US government over AI safeguards.",
+              "On Friday, US Defense Secretary Pete Hegseth labeled the company a \"supply chain risk\" after it refused to sign a contract that would allow the Pentagon to use Anthropic models for mass surveillance against Americans and in fully autonomous weapons.",
+              "As of right now, we’re waiting to see how things play out, and what it might mean for Anthropic."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
