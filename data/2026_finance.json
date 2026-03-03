@@ -88717,6 +88717,61 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "19:32": [
+        {
+          "item": {
+            "title": "US stock market: Wall Street set to open over 2% lower as Middle East conflict intensifies; SanDisk down 8.5%",
+            "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-wall-street-set-to-open-over-2-lower-as-middle-east-conflict-intensifies-sandisk-down-85-11772538936059.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US stock market: Wall Street set to open over 2% lower as Middle East conflict intensifies; SanDisk down 8.5%",
+            "bullets": [
+              "The weakness comes as tensions between the US, Israel, and Iran continue to escalate, keeping crude oil prices elevated and intensifying concerns over rising",
+              "Iran intensified its attacks, striking energy infrastructure in Gulf countries and tankers carrying crude oil.",
+              "Tehran also reportedly attacked the US embassy in Riyadh, Saudi Arabia’s capital, with drones while vowing a full closure of the Strait of Hormuz,",
+              "The chokepoint off the coast of Iran handles a fifth of the world’s oil and a similar portion of liquefied natural gas."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Supermicro Expands Support for AI-RAN and Sovereign AI Solutions to Deliver High-Performance, Efficient, and Scalable AI Infrastructure",
+            "link": "https://www.thehindubusinessline.com/brandhub/pr-release/supermicro-expands-support-for-ai-ran-and-sovereign-ai-solutions-to-deliver-high-performance-efficient-and-scalable-ai-infrastructure/article70698861.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Supermicro Expands Support for AI-RAN and Sovereign AI Solutions to Deliver High-Performance, Efficient, and Scalable AI",
+            "bullets": [
+              "Cutting-edge infrastructure solutions, featuring the latest CPUs and GPUs, power AI-native telecom networks, and secure, scalable AI factories Supermicro collaborating with global partners including",
+              "Increased demand for sovereign AI platforms represents a strategic opportunity for telecom operators, by offering secure, in-country AI infrastructure as a service, and unlocking",
+              "At MWC, Supermicro is collaborating with leading industry players to demonstrate real-world deployments and practical use cases that advance AI acceleration.",
+              "Designed for enterprises, startups, and public sector organizations, it provides NVIDIA GPU-accelerated infrastructure entirely within Norway, ensuring data never leaves national borders."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Infosys and Intel expand AI partnership to scale enterprise deployments",
+            "link": "https://www.thehindubusinessline.com/info-tech/infosys-and-intel-expand-ai-partnership-to-scale-enterprise-deployments/article70699542.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Infosys and Intel expand AI partnership to scale enterprise deployments",
+            "bullets": [
+              "Infosys and Intel have announced the next phase of their collaboration to help enterprises move from AI pilots to production at scale.",
+              "Combining the architecture of Infosys Topaz Fabric with Intel’s open hardware and software stack, the collaboration aims to advance open standards across the edge-to-cloud",
+              "Together, Infosys and Intel are co‑innovating on the design, development, optimisation, and benchmarking of AI workloads across Intel Xeon processors, Intel Gaudi AI accelerators,"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }

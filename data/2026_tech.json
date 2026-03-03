@@ -203113,6 +203113,123 @@
             "impact": "Positive"
           }
         }
+      ],
+      "19:32": [
+        {
+          "item": {
+            "title": "The candidate that Silicon Valley built is now the one they want to tear down",
+            "link": "https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "13632a9857764ea3d47b9a622b69eae8e689c6d9"
+          },
+          "review": {
+            "headline_rewrite": "The candidate that Silicon Valley built is now the one they want to tear down",
+            "bullets": [
+              "For months, there has been talk that Silicon Valley’s billionaire class was recruiting a candidate to take on Representative Ro Khanna.",
+              "His endorsement has infuriated some of the state’s richest founders and investors, but Khanna has doubled down, introducing national legislation with Senator Bernie Sanders that would impose a 5% annual wealth tax on all Americans worth $1 billion or more — a proposal their offices estimate would raise $4.4 trillion over a decade.",
+              "There’s a certain irony to the situation.",
+              "Agarwal: We’re pulling papers tomorrow, so we don’t have a bank account yet and I can’t raise money until then.",
+              "That said — [Y Combinator CEO] Garry Tan is behind me, [DoorDash co-founder] Stanley Tang, and a lot of others from the tech community whose names will come out in the coming days and weeks.",
+              "[Editor’s note: The involvement of Tan, Tang, and others will likely fuel a familiar line of attack: that Agarwal is less an independent candidate than a vehicle for billionaire grievances."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "GoPro&#8217;s next cameras are coming soon with a brand-new chip",
+            "link": "https://www.theverge.com/tech/886326/gopro-ai-enhanced-gp3-processor-npu-scene-subject-detection",
+            "site_name": "The Verge",
+            "novelty_hash": "795e8da7874507064c697a97addd01e3da5279cf"
+          },
+          "review": {
+            "headline_rewrite": "GoPro&#8217;s next cameras are coming soon with a brand-new chip",
+            "bullets": [
+              "GoPro has announced a new processor today that the company says will “power GoPro’s next generation of cameras across current and future products” — and will debut in cameras launching in Q2 2026.",
+              "There were no details shared about what cameras GoPro plans to launch in the coming months, but the company says its new GP3 chip will be its “most powerful custom imaging processor to date,” improving the low-light and thermal performance of its small form-factor cameras to extend run times.",
+              "GoPro’s next cameras are coming soon with a brand-new chip\nThe cameras will be powered by GoPro’s new GP3 processor, delivering improved low-light performance and other upgrades.",
+              "It already uses AI to optimize camera settings for different filming environments, like underwater videography or shooting in snow, and for automatically tracking and focusing on subjects in frame.",
+              "The new GP3 processor will feature a “specialized AI Neural Processor Unit (NPU) that enables next-generation video pixel processing and market-leading low-light image performance,” according to GoPro, with “dedicated cores” to improve scene recognition and subject detection."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+            "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "62936ad94112af1eb511ef83a3c9acebb667e509"
+          },
+          "review": {
+            "headline_rewrite": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+            "bullets": [
+              "Burner accounts on social media sites can increasingly be analyzed to identify the pseudonymous users who post to them using AI in research that has far-reaching consequences for privacy on the Internet, researchers said.",
+              "The ability to cheaply and quickly identify the people behind such obscured accounts opens them up to doxxing, stalking, and the assembly of detailed marketing profiles that track where speakers live, what they do for a living, and other personal information.",
+              "LLMs invalidate this assumption.”\nThe researchers collected several datasets from public social media sites to test the techniques while preserving the privacy of the speakers.",
+              "A second dataset was obtained from a Netflix release of micro-identities, such as individual preferences, recommendations, and transaction records."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Elgato’s Stream Deck Plus XL has more buttons, more dials, and a larger touchscreen",
+            "link": "https://www.theverge.com/tech/887761/elgato-stream-deck-plus-xl-controller-price-availability",
+            "site_name": "The Verge",
+            "novelty_hash": "dcb6a70cd26ff16e60f1861bea653c8af09dcc5c"
+          },
+          "review": {
+            "headline_rewrite": "Elgato’s Stream Deck Plus XL has more buttons, more dials, and a larger touchscreen",
+            "bullets": [
+              "After supersizing its Stream Deck controller into a product designed for professional broadcast environments in 2024, Elgato is giving a similar treatment to the three-year-old Stream Deck Plus.",
+              "The new Stream Deck Plus XL is essentially the same product as the original, but with more macro buttons, more dials, a wider touchscreen, and a bigger footprint.",
+              "Instead of just triggering individual functions, the dials allowed precise adjustments to be made to settings like volume or gain.",
+              "It will gobble up a little more desktop space, but if you need more than 15 buttons, the Stream Deck Plus XL will give you more than twice as many while taking up far less space than daisy-chaining a pair of standard Stream Decks."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Medical journal The Lancet blasts RFK Jr.’s health work as a failure",
+            "link": "https://arstechnica.com/health/2026/03/medical-journal-the-lancet-blasts-rfk-jr-s-health-work-as-a-failure/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "fe882de711a173de881bad9a835e1e46c141622b"
+          },
+          "review": {
+            "headline_rewrite": "Medical journal The Lancet blasts RFK Jr.’s health work as a failure",
+            "bullets": [
+              "Kennedy Jr, calling the anti-vaccine activist’s first year as US Health Secretary “a failure by most measures, especially his own.”\nThe Lancet is one of the world’s oldest academic medical journals still in publication and one of the most cited sources of peer-reviewed medical research.",
+              "But it is also well-known for publishing an infamous study by prominent anti-vaccine activist and disgraced ex-physician Andrew Wakefield, which falsely claimed to find a link between vaccines and autism.",
+              "Kennedy is among the prominent anti-vaccine activists who continue to embrace the thoroughly debunked claim, along with other dangerous conspiracy theories.",
+              "The Lancet assailed Kennedy for spreading misinformation as the country’s top health official and politicizing health policy at the expense of vulnerable Americans, including children.",
+              "“The destruction that Kennedy has wrought in one year might take generations to repair, and there is little hope for US health and science while he remains at the helm,” the journal’s editorial board wrote in its latest issue.",
+              "The journal’s board noted that when Kennedy first took the role a year ago, he laid out noble ambitions of “radical transparency” and “gold-standard science.” But within days Kennedy appeared to abandon those ideals."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Morning After: Apple’s big week starts with the iPhone 17e",
+            "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-121540093.html",
+            "site_name": "Engadget",
+            "novelty_hash": "44947453196f3399620be0943c457a24e6afd9e6"
+          },
+          "review": {
+            "headline_rewrite": "The Morning After: Apple’s big week starts with the iPhone 17e",
+            "bullets": [
+              "We’re at the start of another one of those weeks where Apple announces one or two of its lesser products each day.",
+              "The first pair to break cover is the iPhone 17e and iPad Air M4, with more due to drop as the calendar rolls forward.",
+              "The iPhone 17e is by far the more interesting gadget, especially as the price remained the same as for the iPhone 16e.",
+              "The 17e also gains several features that were held back from the equivalent budget handset last year.",
+              "Keen-eyed spec-list nerds will also spot Apple’s C1X proprietary wireless chip, which offers comparable speed to the Qualcomm models it will eventually replace, but with far better power efficiency.",
+              "The iPad Air, by comparison, is the very model of a modern major iterative spec revision to keep it up to date."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
