@@ -203948,6 +203948,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "02:03": [
+        {
+          "item": {
+            "title": "Help find your lost luggage with Google’s Find Hub",
+            "link": "https://blog.google/products-and-platforms/platforms/android/find-hub-luggage/",
+            "site_name": "Google",
+            "novelty_hash": "f9c157eb7473952a6f598befc7c3b289bbe119db"
+          },
+          "review": {
+            "headline_rewrite": "Help find your lost luggage with Google’s Find Hub",
+            "bullets": [
+              "Today, we’re rolling out a share item location feature in Find Hub, giving you a new way to help you find lost luggage at the airport and greater peace of mind while you travel.",
+              "This feature allows you to securely share the location of a Find Hub-compatible tag or network accessory with airlines.",
+              "A new way to share your item’s location with your airline\nThe Find Hub app lets you see your items on a map.",
+              "With the new share item location feature, you can generate a secure link to your bag’s location and share it directly with a participating airline, giving them the information they need to locate it.",
+              "- Provide to the airline: Copy the secure link and paste it into the airline’s mobile app or website so they can see the item’s location as it updates.",
+              "Partnerships with airlines, suitcase companies and more\nWe’ve teamed up with the travel industry to help ensure this feature works where you need it most."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "New on Android: Find friends, lost luggage and great apps",
+            "link": "https://blog.google/products-and-platforms/platforms/android/new-android-features-march-2026/",
+            "site_name": "Google",
+            "novelty_hash": "b6ab955abeff127c5d8e3d8f2665fa061d7046e9"
+          },
+          "review": {
+            "headline_rewrite": "New on Android: Find friends, lost luggage and great apps",
+            "bullets": [
+              "Whether you’re meeting up at a concert or getting picked up at the airport, share your location for as long as you need, with the flexibility to stop sharing at any time – entirely within your conversation.",
+              "Recover lost luggage by sharing your tracker tag link with the airline.",
+              "If you’ve added a tracker tag to your luggage, share its location link with your participating airline so they can help find it and provide updates.",
+              "Keep the family entertained while you’re parked with new Teacher Approved games on Android Auto."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Claude Code rolls out a voice mode capability",
+            "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1426a3b3ef4a795c328624bc1a6438d6dd06c63d"
+          },
+          "review": {
+            "headline_rewrite": "Claude Code rolls out a voice mode capability",
+            "bullets": [
+              "Anthropic is bringing Voice Mode to Claude Code, the company’s AI coding assistant for developers.",
+              "The launch of voice mode marks a significant step toward more hands-free, conversational coding workflows.",
+              "pic.twitter.com/P7GQ6pEANy\nIt remains unclear what the limitations of the new capability are, including whether there are caps on voice interactions or specific technical constraints.",
+              "It’s also unknown if this feature was built in collaboration with a third-party AI voice provider like ElevenLabs, with whom Anthropic was reportedly in talks.",
+              "Anthropic launched Voice Mode for its standard Claude chatbot last May, allowing users to interact with the model via voice for a variety of general-purpose tasks.",
+              "The competition in AI coding assistants is fierce, with Microsoft’s GitHub Copilot, Cursor, Google, and OpenAI all vying for developers’ attention."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anduril aims at $60 billion valuation in new funding round",
+            "link": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "83a0385699812ebb9d8e6c5a74097ecda01cbb74"
+          },
+          "review": {
+            "headline_rewrite": "Anduril aims at $60 billion valuation in new funding round",
+            "bullets": [
+              "Palmer Luckey’s defense-tech company is in the middle of a multi-billion-dollar funding round led by Thrive Capital and Andreessen Horowitz, according to a new report from the Wall Street Journal.",
+              "The funding round would come less than a year after the company’s Series G, which closed in June with $2.5 billion against a $30 billion valuation.",
+              "Lux Capital and Founders Fund are also expected to participate.",
+              "A previous report from Bloomberg said the new round could bring as much as $8 billion of capital into the company, which closed its previous funding round last summer.",
+              "government is in the process of cancelling all its contracts with the AI company, and Secretary of Defense Hegseth has threatened to designate the company as a supply chain risk.",
+              "While not explicitly endorsing the supply-chain-risk designation, Luckey has vocally supported the government’s stance."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
+            "link": "https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "726e42cf9da644b566b991a4f7545117420ab9da"
+          },
+          "review": {
+            "headline_rewrite": "M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon",
+            "bullets": [
+              "As part of today’s MacBook Pro update, Apple has also unveiled the M5 Pro and M5 Max, the newest members of the M5 chip family.",
+              "Normally, the Pro and Max chips take the same basic building blocks from the basic chip and just scale them up—more CPU cores, more GPU cores, and more memory bandwidth.",
+              "But the M5 chips are a surprisingly large departure from past generations, both in terms of the CPU architectures they use and in how they’re packaged together.",
+              "We won’t know the impact these changes have had on performance until we have hardware in hand to test, but here are all the technical details we’ve been able to glean about the new updates and how the M5 chip family stacks up against the past few generations of Apple Silicon chips.",
+              "New Fusion Architecture and a third type of CPU core\nApple says that M5 Pro and M5 Max use an “all-new Fusion Architecture” that welds two silicon chiplets into a single processor.",
+              "Apple has used this approach before, but historically only to combine two Max chips together into an Ultra."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Android’s Find Hub adds iPhone-like luggage tracking links",
+            "link": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
+            "site_name": "The Verge",
+            "novelty_hash": "f0ef5e36231bddcd47c27fef278ed4c6f65fab84"
+          },
+          "review": {
+            "headline_rewrite": "Android’s Find Hub adds iPhone-like luggage tracking links",
+            "bullets": [
+              "Google is rolling out an Android update that includes the ability to share the location of your missing luggage with an airline.",
+              "It’s similar to the luggage-tracking feature Apple brought to the iPhone, allowing you to view the location of your Find Hub tag or accessory on a map, and provide your airline with a link to the information they need to track it down.",
+              "Android’s Find Hub adds iPhone-like luggage tracking links\nThe new feature lets you share the location of your luggage with your airline.",
+              "So far, several airlines support the new Find Hub feature, including AJet, Air India, China Airlines, Saudia Airlines, Scandinavian Airlines, Turkish Airlines, and the Lufthansa Group, which owns Lufthansa, Austrian Airlines, Brussels Airlines, and Swiss International Air Lines.",
+              "Google says more airlines, such as Qantas, will accept Find Hub links in the future.",
+              "When asked whether US-based airlines plan to add this feature, Google spokesperson Sofia Giovannello told The Verge that the company is “actively working with additional airline partners to integrate this feature into their luggage recovery processes, and we look forward to sharing more updates.”\nLuggage tracking isn’t the only change coming to Android, as you can now share your location with friends and family members directly in Google Messages."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
