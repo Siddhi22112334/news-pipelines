@@ -202993,6 +202993,126 @@
             "impact": "Negative"
           }
         }
+      ],
+      "18:30": [
+        {
+          "item": {
+            "title": "How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown",
+            "link": "https://www.wired.com/story/how-big-tech-is-powering-trumps-immigration-crackdown/",
+            "site_name": "WIRED",
+            "novelty_hash": "6e4ca83767b6cdaf3b14f5eec4a2a00f6a0f4b8d"
+          },
+          "review": {
+            "headline_rewrite": "How Palantir, Microsoft, Amazon, and Google Power Trump’s Immigration Crackdown",
+            "bullets": [
+              "However, when it comes to selling tech to federal immigration authorities, Palantir is far from alone: ICE and Customs and Border Protection are paying hundreds of millions of dollars for products and services from companies like Microsoft, Amazon, and Google.",
+              "WIRED also reviewed public documents from ICE and the Department of Homeland Security pertaining to the technology at ICE and CBP’s disposal.",
+              "In that same time frame, ICE has paid for products worth at least $94 million from Microsoft, at least $51 million from Amazon, and at least $921,000 from Google.",
+              "CBP, meanwhile, has paid for products worth at least $81 million from Microsoft, at least $158 million from Amazon, and at least $7 million from Google.",
+              "These are minimum estimates that exclude payments that do not directly mention these companies or their core offerings in publicly available documents.",
+              "Many of the payments are for cloud storage powering operations across the agencies."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The candidate that Silicon Valley built is now the one they want to tear down",
+            "link": "https://techcrunch.com/2026/03/03/the-candidate-that-silicon-valley-built-is-now-the-one-they-want-to-tear-down/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "13632a9857764ea3d47b9a622b69eae8e689c6d9"
+          },
+          "review": {
+            "headline_rewrite": "The candidate that Silicon Valley built is now the one they want to tear down",
+            "bullets": [
+              "For months, there has been talk that Silicon Valley’s billionaire class was recruiting a candidate to take on Representative Ro Khanna.",
+              "His endorsement has infuriated some of the state’s richest founders and investors, but Khanna has doubled down, introducing national legislation with Senator Bernie Sanders that would impose a 5% annual wealth tax on all Americans worth $1 billion or more — a proposal their offices estimate would raise $4.4 trillion over a decade.",
+              "There’s a certain irony to the situation.",
+              "Agarwal: We’re pulling papers tomorrow, so we don’t have a bank account yet and I can’t raise money until then.",
+              "That said — [Y Combinator CEO] Garry Tan is behind me, [DoorDash co-founder] Stanley Tang, and a lot of others from the tech community whose names will come out in the coming days and weeks.",
+              "[Editor’s note: The involvement of Tan, Tang, and others will likely fuel a familiar line of attack: that Agarwal is less an independent candidate than a vehicle for billionaire grievances."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
+            "link": "https://arstechnica.com/gadgets/2026/03/with-developer-verification-googles-apple-envy-threatens-to-dismantle-androids-open-legacy/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d34be70e8c8eb5d0270cf9ac8c12af902cd4c15d"
+          },
+          "review": {
+            "headline_rewrite": "With developer verification, Google's Apple envy threatens to dismantle Android's open legacy",
+            "bullets": [
+              "Later this year, though, Google plans to seriously curtail that freedom in the name of security.",
+              "Failure to do so will block their apps from installation (sometimes called sideloading) on virtually all Android devices.",
+              "Google says this is a necessary evolution of the platform’s security model, but upending the status quo could push developers away from Android and risk the privacy of those that remain.",
+              "There were virtually no rules in the early days, allowing developers to publish apps that tinkered with undocumented system features, infringed on copyrights, and leveraged exploits to gain root access.",
+              "Today, Google has numerous security layers that detect and remove malware, and that has undeniably made Android safer.",
+              "Developer verification could continue to make your phone safer, too, according to Christoph Hebeisen, director of security intelligence research at Lookout."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+            "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "62936ad94112af1eb511ef83a3c9acebb667e509"
+          },
+          "review": {
+            "headline_rewrite": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+            "bullets": [
+              "Burner accounts on social media sites can increasingly be analyzed to identify the pseudonymous users who post to them using AI in research that has far-reaching consequences for privacy on the Internet, researchers said.",
+              "The ability to cheaply and quickly identify the people behind such obscured accounts opens them up to doxxing, stalking, and the assembly of detailed marketing profiles that track where speakers live, what they do for a living, and other personal information.",
+              "LLMs invalidate this assumption.”\nThe researchers collected several datasets from public social media sites to test the techniques while preserving the privacy of the speakers.",
+              "A second dataset was obtained from a Netflix release of micro-identities, such as individual preferences, recommendations, and transaction records."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Untold Story of the Birth of the iPhone",
+            "link": "https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/",
+            "site_name": "WIRED",
+            "novelty_hash": "a3b58b7f17292e5954c4956cd572f9491dcd8734"
+          },
+          "review": {
+            "headline_rewrite": "The Untold Story of the Birth of the iPhone",
+            "bullets": [
+              "But behind the scenes, the iPhone we know today was made possible by more than bold bets, fanatical attention to detail, brilliant design, and a vision for the future; there were also false starts, last-minute redesigns, and a few strokes of luck.",
+              "For starters, the product Apple set out to build first was not a phone.",
+              "“But he was doing the device all wrong,” Jobs said later, according to Walter Isaacson’s book Steve Jobs.",
+              "“This dinner was like the 10th time he talked to me about it, and I was so sick of it that I came home and said, ‘Fuck this.",
+              "“We need to show the world how to create a real tablet,” he said—and by that, he meant no stylus.",
+              "“God gave us 10 styluses,” he often said, waggling his fingers."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The Morning After: Apple’s big week starts with the iPhone 17e",
+            "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-121540093.html",
+            "site_name": "Engadget",
+            "novelty_hash": "44947453196f3399620be0943c457a24e6afd9e6"
+          },
+          "review": {
+            "headline_rewrite": "The Morning After: Apple’s big week starts with the iPhone 17e",
+            "bullets": [
+              "We’re at the start of another one of those weeks where Apple announces one or two of its lesser products each day.",
+              "The first pair to break cover is the iPhone 17e and iPad Air M4, with more due to drop as the calendar rolls forward.",
+              "The iPhone 17e is by far the more interesting gadget, especially as the price remained the same as for the iPhone 16e.",
+              "The 17e also gains several features that were held back from the equivalent budget handset last year.",
+              "Keen-eyed spec-list nerds will also spot Apple’s C1X proprietary wireless chip, which offers comparable speed to the Qualcomm models it will eventually replace, but with far better power efficiency.",
+              "The iPad Air, by comparison, is the very model of a modern major iterative spec revision to keep it up to date."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }

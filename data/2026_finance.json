@@ -88645,6 +88645,78 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "18:30": [
+        {
+          "item": {
+            "title": "US stock market: Wall Street set to open over 2% lower as Middle East conflict intensifies; SanDisk down 8.5%",
+            "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-wall-street-set-to-open-over-2-lower-as-middle-east-conflict-intensifies-sandisk-down-85-11772538936059.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US stock market: Wall Street set to open over 2% lower as Middle East conflict intensifies; SanDisk down 8.5%",
+            "bullets": [
+              "The weakness comes as tensions between the US, Israel, and Iran continue to escalate, keeping crude oil prices elevated and intensifying concerns over rising",
+              "Iran intensified its attacks, striking energy infrastructure in Gulf countries and tankers carrying crude oil.",
+              "Tehran also reportedly attacked the US embassy in Riyadh, Saudi Arabia’s capital, with drones while vowing a full closure of the Strait of Hormuz,",
+              "The chokepoint off the coast of Iran handles a fifth of the world’s oil and a similar portion of liquefied natural gas."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "MCX gold rate today crashes 3%, silver down 6%: What's dragging precious metals lower despite US-Iran war risk?",
+            "link": "https://www.livemint.com/market/commodities/mcx-gold-rate-today-crashes-3-silver-down-6-whats-dragging-precious-metals-lower-despite-us-iran-war-risk-11772537921363.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "MCX gold rate today crashes 3%, silver down 6%: What's dragging precious metals lower despite US-Iran war risk?",
+            "bullets": [
+              "Since gold is a non-yielding asset, it thrives in a low-interest-rate environment.",
+              "The conflict in the Middle East has already resulted in a spike in energy prices, which could trickle into inflation data and could be",
+              "Tehran, meanwhile, has attacked oil and gas infrastructure and threatened shipping in the strategic Strait of Hormuz.",
+              "Concerns over crude oil supply through the Strait of Hormuz have added to inflationary fears, further supporting bullion prices, said the expert."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "India adopts balanced AI regulation, avoids US and EU extremes: IAIRO official",
+            "link": "https://www.thehindubusinessline.com/info-tech/india-adopts-balanced-ai-regulation-avoids-us-and-eu-extremes-iairo-official/article70699536.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India adopts balanced AI regulation, avoids US and EU extremes: IAIRO official",
+            "bullets": [
+              "India has adopted a balanced and pragmatic approach on AI, avoiding the extremes of lightly regulated US model and heavily compliance-driven framework of the",
+              "Indian AI Research Organisation (IAIRO), Founding Director, Amit Sheth said India has adopted balanced regulatory approach which enables innovation while safeguarding users.",
+              "He said that the US leads in frontier AI research and large, proprietary, consumer-centric models, supported by deep capital markets, advanced semiconductor ecosystems, and"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Infosys and Intel expand AI partnership to scale enterprise deployments",
+            "link": "https://www.thehindubusinessline.com/info-tech/infosys-and-intel-expand-ai-partnership-to-scale-enterprise-deployments/article70699542.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Infosys and Intel expand AI partnership to scale enterprise deployments",
+            "bullets": [
+              "Infosys and Intel have announced the next phase of their collaboration to help enterprises move from AI pilots to production at scale.",
+              "Combining the architecture of Infosys Topaz Fabric with Intel’s open hardware and software stack, the collaboration aims to advance open standards across the edge-to-cloud",
+              "Together, Infosys and Intel are co‑innovating on the design, development, optimisation, and benchmarking of AI workloads across Intel Xeon processors, Intel Gaudi AI accelerators,"
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
