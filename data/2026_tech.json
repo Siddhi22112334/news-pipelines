@@ -203350,6 +203350,127 @@
             "impact": "Negative"
           }
         }
+      ],
+      "21:17": [
+        {
+          "item": {
+            "title": "Apple unveils new MacBook Air and MacBook Pro with M5",
+            "link": "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "93666f7671fa4bc8983f7a64ae9d30ddb595eb20"
+          },
+          "review": {
+            "headline_rewrite": "Apple unveils new MacBook Air and MacBook Pro with M5",
+            "bullets": [
+              "Apple announced its new slate of laptops on Tuesday morning, including new MacBook Air and MacBook Pro models that use Apple’s M5 chips.",
+              "The Pro models were unveiled alongside the brand new M5 Pro and M5 Max chips, which Apple describes as its most advanced CPU cores yet.",
+              "The company said these updated M5 chips were specifically designed to make the MacBook Air and MacBook Pro laptops better at handling intensive AI tasks, which are becoming more of a focal point for new Apple hardware.",
+              "Both the new Air and Pro laptops can handle AI tasks up to 4x faster than their respective M4 predecessors, according to Apple.",
+              "These AI-centric upgrades may not be immediately noticeable for more casual users who aren’t trying to run a computationally intensive network of AI agents or generate fast 3D renderings.",
+              "MacBook Air users get perks like 18 hours of battery life (a six-hour improvement compared with the last Intel-based Apple laptops from 2020), as well as a 12MP Center Stage camera for video calls, a three-mic array, and a sound system that supports Spatial Audio and Dolby Atmos."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’",
+            "link": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "83f7c7379d909a7cadac7c37f005d6de4f8fb7e2"
+          },
+          "review": {
+            "headline_rewrite": "Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’",
+            "bullets": [
+              "Apple on Tuesday debuted the latest addition to the M-series of chips, as it announced its new M5 Pro and M5 Max, which are powering the new MacBook Pro.",
+              "The tech giant says the chips are engineered around its new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip (SoC), which includes a powerful CPU, scalable GPU, Media Engine, unified memory controller, Neural Engine, and Thunderbolt 5 capabilities.",
+              "Both chips feature an 18-core CPU, marking an upgrade from the 14-core configuration in the M4 Pro and the 16-core in the M4 Max.",
+              "“The GPU scales up the next-generation architecture introduced in M5 to an up-to-40-core GPU,” Apple explained in a press release.",
+              "“With a Neural Accelerator in each GPU core and higher unified memory bandwidth, M5 Pro and M5 Max are over 4x the peak GPU compute for AI compared to the previous generation.”\nGraphics performance is up to 20% faster overall, with ray-tracing workloads improving by as much as 35%.",
+              "Apple says the M5 Pro is aimed at pro users such as data modelers, post-production sound designers, and STEM students who need strong CPU and GPU performance, along with large amounts of unified memory for complex projects and workloads."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple launches M5 Pro and M5 Max chips",
+            "link": "https://www.theverge.com/tech/888090/apple-m5-pro-max-processors",
+            "site_name": "The Verge",
+            "novelty_hash": "c81555d8049c2f8a4a9147ac56d0d161c0f1c69b"
+          },
+          "review": {
+            "headline_rewrite": "Apple launches M5 Pro and M5 Max chips",
+            "bullets": [
+              "The new chips will power the MacBook Pro it revealed on Tuesday, offering an 18-core CPU and a new “Fusion Architecture” that integrates two 3nm dies into a single system-on-a-chip (SoC).",
+              "Apple launches M5 Pro and M5 Max chips\nThe new 18-core processors come with a new ‘Fusion Architecture’ that combines two dies on one chip.",
+              "The M5 and M5 Pro chips also come with “all-new” performance cores that are even more efficient, delivering up to 2.5 times higher multithreaded performance compared to the M1 Pro and M1 Max.",
+              "The chips also feature a neural accelerator in every GPU core, allowing for better ray-tracing and more than four times the peak compute for AI than Apple’s previous generation of chips.",
+              "Meanwhile, the M5 Max is ideal for 3D animators, app developers, and AI researchers, according to Apple.",
+              "It offers an up to 40-core GPU with support for up to 128GB of unified memory, as well as 30 percent better ray-tracing performance when compared to the M4 Max."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
+            "link": "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first",
+            "site_name": "The Verge",
+            "novelty_hash": "9fc8ddabf420991afc256220425fe8d1cd4b6692"
+          },
+          "review": {
+            "headline_rewrite": "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
+            "bullets": [
+              "When it launched the 17 and 17 Ultra in Europe on Saturday, Xiaomi bucked an industry trend: it didn’t really talk about AI all that much.",
+              "And it really didn’t talk about AI when it showed off the two phones’ cameras, including a special edition 17 Ultra co-created with Leica.",
+              "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first\nAngus Ng explains why Xiaomi’s cameras aren’t all about AI.",
+              "“We’re still currently focusing on what is the limitation of hardware,” Ng told me at MWC 2026, when I asked why its photography approach seemed so different to Google and Samsung’s recent Pixel 10A and Galaxy S26 launches.",
+              "“If it really comes to a point where we cannot do any more innovations, then we’ll also start looking at the software side.”\n“Obviously we do have software and AI processing within our current imaging sensors and imaging system, but it’s just not as obvious as Samsung,” he added.",
+              "“When we did use AI processing two years ago, a year ago, when we really focused on that, the feedback wasn’t that overwhelmingly positive.”\nAs for why Samsung has taken a different approach, Ng has a personal theory, and not necessarily a flattering one: “Because their hardware did not upgrade, they focused their strategy on software.”"
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+            "link": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "082e4de19f70ee5dc49b9fecf74efc6a08fe145f"
+          },
+          "review": {
+            "headline_rewrite": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+            "bullets": [
+              "Apple updated its low-end MacBook Pro with the Apple M5 back in October, but the higher-end 14-inch and 16-inch Pros stuck with the M4 Pro and M4 Max chips.",
+              "This morning, Apple circled back and updated the rest of the lineup, adding the M5 Pro and M5 Max to the higher-end machines and bumping the base storage—the M5 Pro now comes with 1TB of storage by default, while M5 Max chips come with 2TB of storage by default.",
+              "The internal storage is said to be “up to 2x faster” than the previous-generation Pros.",
+              "The M5 Pro and M5 Max look like fairly major updates from the M4 Pro and M4 Max.",
+              "Apple says the 12 other CPU cores in the M5 Pro and M5 Max are an “all-new performance core that is optimized to deliver greater power-efficient, multithreaded performance for pro workloads.” These appear to be different from the efficiency cores used in M5 and older Apple chips."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "This is why our electricity bills are so high right now",
+            "link": "https://insideclimatenews.org/news/02032026/whats-driving-higher-electricity-rates/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "d8e560eeb7004af95cea1c75d409b71ecc43a71f"
+          },
+          "review": {
+            "headline_rewrite": "This is why our electricity bills are so high right now",
+            "bullets": [
+              "“Nobody can believe when they see the kind of numbers and especially energy, when they see energy going down to numbers like that,” he said.",
+              "“High electricity prices are a choice,” Energy Secretary Chris Wright has said repeatedly.",
+              "On February 18, White House spokeswoman Karoline Leavitt took up the argument, saying “red states with Republican legislatures currently enjoy lower average retail electricity prices than blue states with Democrat legislatures.”\nBut the latest figures from the EIA show that states that voted for Trump in 2024 are sharing the pain of the power price shocks sweeping the country; 13 of the 24 states where prices rose in 2025 by more than the US average of 5 percent voted for the Republican candidate.",
+              "Not only did Democrats win the New Jersey and Virginia governors’ races with campaigns focused on high electricity prices, Democratic candidates also ousted two Republicans from seats on Georgia’s Public Service Commission by campaigning against recent rate hikes for Georgia Power.",
+              "Both Democrats and climate activists are committed to the electricity cost message in their campaigns against the Trump administration and Republicans this year.",
+              "“The energy affordability crisis is not a red or blue issue,” said David Kieve, the president of Environmental Defense Fund Action, in an email last week."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
