@@ -203471,6 +203471,122 @@
             "impact": "Negative"
           }
         }
+      ],
+      "22:16": [
+        {
+          "item": {
+            "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+            "site_name": "Google",
+            "novelty_hash": "4a645b73fb8d0ed11e0d9261774bd5172bb3d034"
+          },
+          "review": {
+            "headline_rewrite": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+            "bullets": [
+              "Starting today, 3.1 Flash-Lite is rolling out in preview to developers via the Gemini API in Google AI Studio and for enterprises via Vertex AI.",
+              "It outperforms 2.5 Flash with a 2.5X faster Time to First Answer Token and 45% increase in output speed, according to the Artificial Analysis benchmark while maintaining similar or better quality.",
+              "3.1 Flash-Lite achieves an impressive Elo score of 1432 on the Arena.ai Leaderboard and outperforms other models of similar tier across reasoning and multimodal understanding benchmarks, including 86.9% on GPQA Diamond and 76.8% on MMMU Pro–even surpassing larger Gemini models from prior generations like 2.5 Flash.",
+              "Adaptive intelligence at scale for developers\nBeyond its raw performance, Gemini 3.1 Flash-Lite comes standard with thinking levels in AI Studio and Vertex AI, giving developers the control and flexibility to select how much the model “thinks” for a task, which is critical for managing high-frequency workloads.",
+              "Early-access developers on AI Studio and Vertex AI, and companies like Latitude, Cartwheel and Whering are already using 3.1 Flash-Lite to solve complex problems at scale.",
+              "Early testers highlighted 3.1 Flash-Lite’s efficiency and reasoning capabilities, saying it can handle complex inputs with the precision of a larger-tier model, plus follow instructions and maintain adherence."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple unveils new MacBook Air and MacBook Pro with M5",
+            "link": "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8b9c6b96613429a553845c125c91311f877443db"
+          },
+          "review": {
+            "headline_rewrite": "Apple unveils new MacBook Air and MacBook Pro with M5",
+            "bullets": [
+              "Apple announced its new slate of laptops on Tuesday morning, including new MacBook Air and MacBook Pro models that use Apple’s M5 chips.",
+              "The Pro models were unveiled alongside the brand new M5 Pro and M5 Max chips, which Apple describes as its most advanced CPU cores yet.",
+              "The company said these updated M5 chips were specifically designed to make the MacBook Air and MacBook Pro laptops better at handling intensive AI tasks, which are becoming more of a focal point for new Apple hardware.",
+              "Both the new Air and Pro laptops can handle AI tasks up to 4x faster than their respective M4 predecessors, according to Apple.",
+              "These AI-centric upgrades may not be immediately noticeable for more casual users who aren’t trying to run a computationally intensive network of AI agents or generate fast 3D renderings.",
+              "MacBook Air users get perks like 18 hours of battery life (a six-hour improvement compared with the last Intel-based Apple laptops from 2020), as well as a 12MP Center Stage camera for video calls, a three-mic array, and a sound system that supports Spatial Audio and Dolby Atmos."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple’s new Studio displays come with Thunderbolt 5",
+            "link": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "c64752813b276ec019d69d5f687ceb1da237fcc2"
+          },
+          "review": {
+            "headline_rewrite": "Apple’s new Studio displays come with Thunderbolt 5",
+            "bullets": [
+              "Apple on Tuesday announced a new MacBook Pro and MacBook Air, both powered by its latest chips, as well as a new family of displays.",
+              "The displays come with Thunderbolt 5 ports, so they can be connected to accessories and be used to daisy-chain up to four displays (a Thunderbolt 5 Pro cable comes included).",
+              "Apple says the Medical Imaging Calibrator on macOS is pending FDA clearance and is expected to be available soon in the U.S.",
+              "Pre-orders begin on March 4, and the displays will be available starting March 11."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple&#8217;s website leaks MacBook &#8216;Neo,&#8217; which could be its new cheaper laptop",
+            "link": "https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak",
+            "site_name": "The Verge",
+            "novelty_hash": "17dbda3a0fcf31c8d501aea407a8fe31507f6cb6"
+          },
+          "review": {
+            "headline_rewrite": "Apple&#8217;s website leaks MacBook &#8216;Neo,&#8217; which could be its new cheaper laptop",
+            "bullets": [
+              "During Apple’s week-long product launch event on Tuesday, a listing for the “MacBook Neo (Model A3404)” appeared on a regulatory compliance page on Apple’s website under its line-up of 2026 MacBooks.",
+              "Unfortunately, it didn’t include any additional details beyond the device’s name and model number.",
+              "Apple’s website leaks MacBook ‘Neo,’ which could be its new cheaper laptop\nThe unannounced “MacBook Neo” appeared alongside listings for the new M5 MacBook Air and updated MacBook Pro models.",
+              "Apple has reportedly been working on a budget-friendly MacBook priced under $1,000 and powered by an iPhone processor, rather than an M-series chip like the rest of the Mac line-up.",
+              "A more affordable MacBook could be especially appealing after Apple announced the M5 MacBook Air on Tuesday, which has a higher starting price than last year’s Air."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "All of Amazon’s kid-friendly Kindles are on sale, including the color version",
+            "link": "https://www.theverge.com/gadgets/887836/kindle-paperwhite-colorsoft-kids-twelve-south-plugbug-charger-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "4759d6cc0c86832e297c70673f8478f87eae73ed"
+          },
+          "review": {
+            "headline_rewrite": "All of Amazon’s kid-friendly Kindles are on sale, including the color version",
+            "bullets": [
+              "Each so-called “Kids” device is identical to its non-Kids counterpart, except that it comes with a protective case, an extended two-year warranty against damage, and six months of Amazon Kids Plus.",
+              "Then again, if you love magazines, graphic novels, or a good book cover, it’s the best color e-reader in its price range — and that’s without a $50 discount.",
+              "It’s not vastly different than hundreds of rival iPhone grips on the market — you can hold it between two fingers like a PopSocket, or attach it to your fridge or a magnetic car mount — but the double-sided magnet ring is one of the most powerful available.",
+              "- Sure, Apple’s latest AirTags aren’t particularly expensive, but why shell out for a dedicated location tracker when you can pick up a wall charger that has one baked in?"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+            "link": "https://arstechnica.com/gadgets/2026/03/apple-intros-m5-pro-and-max-macbook-pros-and-its-first-new-monitors-in-years/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "082e4de19f70ee5dc49b9fecf74efc6a08fe145f"
+          },
+          "review": {
+            "headline_rewrite": "Apple intros M5 Pro and Max MacBook Pros and its first new monitors in years",
+            "bullets": [
+              "Apple updated its low-end MacBook Pro with the Apple M5 back in October, but the higher-end 14-inch and 16-inch Pros stuck with the M4 Pro and M4 Max chips.",
+              "This morning, Apple circled back and updated the rest of the lineup, adding the M5 Pro and M5 Max to the higher-end machines and bumping the base storage—the M5 Pro now comes with 1TB of storage by default, while M5 Max chips come with 2TB of storage by default.",
+              "The internal storage is said to be “up to 2x faster” than the previous-generation Pros.",
+              "The M5 Pro and M5 Max look like fairly major updates from the M4 Pro and M4 Max.",
+              "Apple says the 12 other CPU cores in the M5 Pro and M5 Max are an “all-new performance core that is optimized to deliver greater power-efficient, multithreaded performance for pro workloads.” These appear to be different from the efficiency cores used in M5 and older Apple chips."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
