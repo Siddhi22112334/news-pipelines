@@ -203587,6 +203587,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "23:14": [
+        {
+          "item": {
+            "title": "Create new worlds in Project Genie with these 4 tips",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+            "site_name": "Google",
+            "novelty_hash": "613e5f9e245d0e022dbe1f9afe6c006a65788b06"
+          },
+          "review": {
+            "headline_rewrite": "Create new worlds in Project Genie with these 4 tips",
+            "bullets": [
+              "Project Genie is currently available to Google AI Ultra Subscribers in the U.S.",
+              "Describe the environment in detail\nStart by writing out what kind of environment you want — for example, you could choose a forest, a city, the moon…you get the idea.",
+              "Be specific with the details: Is the forest lush or wintry?",
+              "Also add any structures or objects you want, and weather details, like wind or snow.",
+              "You can add details like how it moves (maybe it flies, rolls on wheels or runs backwards) and what kind of effect it has — maybe every time it hops forward, a puff of smoke follows behind it.",
+              "Upload your image and add any other environment-defining details (like whether you want things to look dark and stormy or like they’re made of a slimy substance)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+            "site_name": "Google",
+            "novelty_hash": "4a645b73fb8d0ed11e0d9261774bd5172bb3d034"
+          },
+          "review": {
+            "headline_rewrite": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+            "bullets": [
+              "Starting today, 3.1 Flash-Lite is rolling out in preview to developers via the Gemini API in Google AI Studio and for enterprises via Vertex AI.",
+              "It outperforms 2.5 Flash with a 2.5X faster Time to First Answer Token and 45% increase in output speed, according to the Artificial Analysis benchmark while maintaining similar or better quality.",
+              "3.1 Flash-Lite achieves an impressive Elo score of 1432 on the Arena.ai Leaderboard and outperforms other models of similar tier across reasoning and multimodal understanding benchmarks, including 86.9% on GPQA Diamond and 76.8% on MMMU Pro–even surpassing larger Gemini models from prior generations like 2.5 Flash.",
+              "Adaptive intelligence at scale for developers\nBeyond its raw performance, Gemini 3.1 Flash-Lite comes standard with thinking levels in AI Studio and Vertex AI, giving developers the control and flexibility to select how much the model “thinks” for a task, which is critical for managing high-frequency workloads.",
+              "Early-access developers on AI Studio and Vertex AI, and companies like Latitude, Cartwheel and Whering are already using 3.1 Flash-Lite to solve complex problems at scale.",
+              "Early testers highlighted 3.1 Flash-Lite’s efficiency and reasoning capabilities, saying it can handle complex inputs with the precision of a larger-tier model, plus follow instructions and maintain adherence."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Amid new competition, Chrome speeds up its release schedule",
+            "link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a980cea937554045429c96f78f8fa1d9dca951f9"
+          },
+          "review": {
+            "headline_rewrite": "Amid new competition, Chrome speeds up its release schedule",
+            "bullets": [
+              "As AI-powered browsers from companies like OpenAI, Perplexity, and others attempt to carve out a space for themselves in a market that’s long been dominated by Chrome, Google says that it’s now speeding up the pace of Chrome releases.",
+              "(This is in addition to the weekly security updates that were introduced back in 2023.) As a result, those milestones will now come twice as frequently.",
+              "However, the move comes at a time when Chrome is finally facing what could one day become real competition from AI model providers, who are trying to rebuild the browser for an agentic web, where more tasks are automated on users’ behalf.",
+              "ChatGPT Atlas, OpenAI’s web browser, offers its AI assistant built in and is experimenting with various automations.",
+              "Perplexity’s Comet, meanwhile, includes a sidecar AI assistant for all, and other tools like an email assistant and meeting scheduler for itspaid customers.",
+              "In response to the emerging threats, Google has been rapidly rolling out deeper Gemini integrations into Chrome, including its own set of agentic features for autonomous tasks."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "New MacBooks, the iPhone 17E, and more: everything we know about Apple’s March 2026 announcements",
+            "link": "https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad",
+            "site_name": "The Verge",
+            "novelty_hash": "8a3d7adecbb57e25c47121ed6cbfd5e66d7c6c08"
+          },
+          "review": {
+            "headline_rewrite": "New MacBooks, the iPhone 17E, and more: everything we know about Apple’s March 2026 announcements",
+            "bullets": [
+              "Apple is kicking off March with a flurry of product announcements ahead of a “special Apple experience” on March 4th in New York City, London, and Shanghai.",
+              "The same day, Apple also revealed a new iPad Air powered by an M4 chip, a bump up from the previous version’s M3 chip.",
+              "March 3rd brought announcements of MacBook Pros with M5 Pro and M5 Max chips, the MacBook Air with an M5 chip, and a Studio Display refresh, including a new Mini LED-equipped XDR model.",
+              "But the company may be saving the most interesting news for last; Apple is rumored to be launching a lower-cost MacBook that’s powered by an iPhone chip instead of an M-series processor.",
+              "On Tuesday, during Apple’s weeklong product launch event, a listing for the “MacBook Neo (Model A3404)” appeared on a regulatory compliance page on Apple’s website under its lineup of 2026 MacBooks.",
+              "Unfortunately, it didn’t include any additional details beyond the device’s name and model number."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Apple&#8217;s website leaks MacBook &#8216;Neo,&#8217; which could be its new cheaper laptop",
+            "link": "https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak",
+            "site_name": "The Verge",
+            "novelty_hash": "81d011f5c70f9ee312ee81ecdfa4ed35b512c10c"
+          },
+          "review": {
+            "headline_rewrite": "Apple&#8217;s website leaks MacBook &#8216;Neo,&#8217; which could be its new cheaper laptop",
+            "bullets": [
+              "On Tuesday, during Apple’s weeklong product launch event, a listing for the “MacBook Neo (Model A3404)” appeared on a regulatory compliance page on Apple’s website under its lineup of 2026 MacBooks.",
+              "Unfortunately, it didn’t include any additional details beyond the device’s name and model number.",
+              "Apple’s website leaks MacBook ‘Neo,’ which could be its new cheaper laptop\nThe unannounced ‘MacBook Neo’ appeared alongside listings for the new M5 MacBook Air and updated MacBook Pro models.",
+              "Apple has reportedly been working on a budget-friendly MacBook priced under $1,000 and powered by an iPhone processor, rather than an M-series chip like the rest of the Mac lineup.",
+              "A more affordable MacBook could be especially appealing after Apple announced the M5 MacBook Air on Tuesday, which has a higher starting price than last year’s Air."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "New MacBook Airs come with M5, double the storage, and higher starting prices",
+            "link": "https://arstechnica.com/gadgets/2026/03/new-macbook-airs-come-with-m5-double-the-storage-and-higher-starting-prices/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "34b6a8fded8aae81e1869b0f83699ea64e438091"
+          },
+          "review": {
+            "headline_rewrite": "New MacBook Airs come with M5, double the storage, and higher starting prices",
+            "bullets": [
+              "Most of Apple’s laptop lineup is getting refreshed today—the high-end MacBook Pros are getting M5 Pro and M5 Max chip refreshes, and the MacBook Air is getting upgraded with an M5.",
+              "The more significant update might be the storage, though: Apple is bumping the Air’s base storage from 256GB up to 512GB, and Apple says the storage will be up to twice as fast as the M4 MacBook Air.",
+              "But that’s also increasing the Air’s starting price from $999 to $1,099 for the 13-inch model, and from $1,199 to $1,299 for the 15-inch model.",
+              "Whether you describe this as a price increase or a price cut depends on your point of view; the 512GB version of the M4 MacBook Air would have cost you $1,199.",
+              "But for people who just want the cheapest Air and don’t particularly care about the specs, the pricing is now $100 higher than it was before.",
+              "Apple is offering two versions of the M5 in the new Airs: one with 8 GPU cores enabled, and one with all 10 GPU cores enabled."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
