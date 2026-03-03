@@ -204544,6 +204544,127 @@
             "impact": "Positive"
           }
         }
+      ],
+      "04:58": [
+        {
+          "item": {
+            "title": "Alibaba’s Qwen tech lead steps down after major AI push",
+            "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "005454ff27f6f0f1e77a35692a13d92314acbad8"
+          },
+          "review": {
+            "headline_rewrite": "Alibaba’s Qwen tech lead steps down after major AI push",
+            "bullets": [
+              "Alibaba’s Qwen AI project has lost one of its most visible technical leaders just a day after the Chinese tech giant unveiled its new Qwen 3.5 open-weight small models.",
+              "Junyang Lin, a central technical leader on Alibaba’s Qwen team, said in a post on X on Tuesday that he was “stepping down” from the project, without elaborating.",
+              "The abrupt departure, which drew strong reactions from colleagues and industry partners, comes as global competition among AI developers intensifies and companies race to build models rivaling those from OpenAI, Google, and Anthropic.",
+              "Alibaba’s Qwen family of models has emerged as one of China’s most prominent open-weight AI efforts, with recent releases posting benchmark results that often rival systems from leading U.S.",
+              "The systems, the company said, are native multimodal models designed for uses ranging from on-device AI deployment to lightweight agents.",
+              "The launch drew attention from figures in the AI community, including Elon Musk, who wrote on X that the models showed “impressive intelligence density.”\nLin’s departure came just as the Qwen team was pushing ahead with new releases, prompting unusually strong reactions from colleagues and partners who described his role in the project as central."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals",
+            "link": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "1b0c4cbed0777c5a764798e0494911be572964e0"
+          },
+          "review": {
+            "headline_rewrite": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals",
+            "bullets": [
+              "Security researchers have identified a suite of powerful hacking tools capable of compromising Apple iPhones running older software that they say has passed from a government customer into the hands of cybercriminals.",
+              "Google said Tuesday that it first identified the exploit kit, dubbed Coruna, in February 2025 during a surveillance vendor’s attempt to hack into someone’s phone with spyware on behalf of a government customer.",
+              "It found the same exploit kit months later targeting Ukrainian users in a broad-scale campaign by a Russian espionage group, and then later found it used by a financially motivated hacker in China.",
+              "It’s unclear how the tools leaked or proliferated, but Google security researchers warned of an emerging market for “second hand” exploits, which are sold to hackers motivated by money to extract more value out of the exploit.",
+              "iVerify, a mobile security company that obtained and reverse-engineered the hacking tools, said in a blog post that it linked the Coruna exploit kit to the U.S.",
+              "“The more widespread the use, the more certain a leak will occur,” said iVerify."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "What Trump’s war on Iran means for the US energy crunch",
+            "link": "https://www.theverge.com/science/888526/what-trumps-war-on-iran-means-for-the-us-energy-crunch",
+            "site_name": "The Verge",
+            "novelty_hash": "7a8c035df816274e9c61b75146f386636c6020bc"
+          },
+          "review": {
+            "headline_rewrite": "What Trump’s war on Iran means for the US energy crunch",
+            "bullets": [
+              "Fuel prices surged after the Trump administration launched strikes against Iran on Saturday, immediately raising questions about whether the war would increase energy costs for Americans, put more pressure on power grids, and push companies to pump out more oil and gas in the US.",
+              "What Trump’s war on Iran means for the US energy crunch\nLong-lasting conflict could influence energy prices and production in the US.",
+              "But prolonged conflict and disruptions to oil and gas production in the Middle East could reshape the global flow of fossil fuels.",
+              "A longer military engagement has the potential to change forecasts for fossil fuel production in the US — already the world’s biggest oil and gas producer.",
+              "“It’s an interesting balance to walk”\n“It’s an interesting balance to walk because a higher oil price environment, which incentivizes increased oil production, fits within the ‘drill, baby, drill’ mantra, but it is also reflective of an environment where energy and particularly gasoline prices are likely more expensive,” says Reed Blakemore, director of research and programs at the Atlantic Council’s Global Energy Center.",
+              "“The balance of how the consequences of this war with Iran manifest in US energy affordability and US oil and gas production is a really important space to watch particularly as we [move] toward midterm elections in November,” Blakemore says."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "No fooling: NASA targets April 1 for Artemis II launch to the Moon",
+            "link": "https://arstechnica.com/space/2026/03/no-fooling-nasa-targets-april-1-for-artemis-ii-launch-to-the-moon/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "b39bf24345730139dbd773d1afd0775cfb99850e"
+          },
+          "review": {
+            "headline_rewrite": "No fooling: NASA targets April 1 for Artemis II launch to the Moon",
+            "bullets": [
+              "NASA has fixed the problem that forced the removal of the rocket for the Artemis II mission from its launch pad last month, but it will be a couple of weeks before officials are ready to move the vehicle back into the starting blocks at Kennedy Space Center in Florida.",
+              "The 322-foot-tall (98-meter) rocket could have launched as soon as this week after it passed a key fueling test on February 21.",
+              "During that test, NASA loaded the Space Launch System rocket with super-cold propellants without any major problems, apparently overcoming a persistent hydrogen leak that prevented the mission from launching in early February.",
+              "Unlike the connections to the core stage, which workers can repair at the launch pad, the umbilical lines leading to the upper stage higher up the rocket are only accessible inside the cavernous Vehicle Assembly Building (VAB) at Kennedy.",
+              "Sealing the deal\n“The team removed the quick disconnect, reassembled the system, and began validating the repairs to the upper stage by running a reduced flow rate of helium through the mechanism to ensure the issue was resolved,” NASA said in an update posted Tuesday."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "FCC chair calls Paramount/WBD merger \"a lot cleaner\" than defunct Netflix deal",
+            "link": "https://arstechnica.com/tech-policy/2026/03/trump-fcc-chair-paramount-warner-bros-merger-likely-to-get-quick-approval/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "000a1b69ba0361ec9cb0a6efd027f8b5ce84707a"
+          },
+          "review": {
+            "headline_rewrite": "FCC chair calls Paramount/WBD merger \"a lot cleaner\" than defunct Netflix deal",
+            "bullets": [
+              "Discovery (WBD) has a notable supporter in Federal Communications Commission Chairman Brendan Carr.",
+              "Netflix “would have had a very difficult path forward from a regulatory perspective” because of “the scope and scale” of the streaming service that would have been created by combining Netflix with WBD property HBO Max, Carr said.",
+              "There were “a lot of concerns in DC” about Netflix buying the company, he said.",
+              "Although Paramount plans to merge its own Paramount+ streaming service with HBO Max, Carr said the Paramount/WBD merger “does not raise at all the same types of concerns [as Netflix].",
+              "The Ellisons seem to have won President Trump’s backing for the merger.",
+              "The FCC plays a big role in reviewing mergers when broadcast licenses are transferred from one entity to another."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Highguard has raided its last fortress, will shutdown on March 12",
+            "link": "https://www.engadget.com/gaming/highguard-has-raided-its-last-fortress-will-shutdown-on-march-12-225531035.html",
+            "site_name": "Engadget",
+            "novelty_hash": "b0130198fe00849bc810609b6590a8fd4b838994"
+          },
+          "review": {
+            "headline_rewrite": "Highguard has raided its last fortress, will shutdown on March 12",
+            "bullets": [
+              "Developer Wildlight Studios shared that the game would be winding down alongside details of its final update, which include a new character, weapon and skill trees.",
+              "\"Since launch, more than two million players stepped into Highguard’s world.",
+              "Despite the passion and hard work of our team, we have not been able to build a sustainable player base to support the game long term.",
+              "Servers will remain online until March 12.",
+              "We hope you’ll jump in with us one more time to show your support and get those final great matches in while we still can.\"\nWhen Highguard shuts down next week, it will have been available to play for a grand total of 46 days.",
+              "Wildlight Studios laid off some of its staff not long after Highguard launched, but a smaller team of developers has been supporting the game with new content since then, adding things like a \"5v5 raid mode\" and today's final update."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
