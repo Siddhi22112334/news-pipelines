@@ -206142,6 +206142,126 @@
             "impact": "Positive"
           }
         }
+      ],
+      "22:13": [
+        {
+          "item": {
+            "title": "How Google and Taiwan are building an AI blueprint for public health",
+            "link": "https://blog.google/innovation-and-ai/technology/health/how-google-and-taiwan-are-building-an-ai-blueprint-for-public-health/",
+            "site_name": "Google",
+            "novelty_hash": "1719460d6c8a83e69ff04993c80931616e23e8d7"
+          },
+          "review": {
+            "headline_rewrite": "How Google and Taiwan are building an AI blueprint for public health",
+            "bullets": [
+              "How Google and Taiwan are building an AI blueprint for public health\nFinding health risks earlier can make all the difference.",
+              "That’s the goal of a collaboration between Google and Taiwan’s National Health Insurance Administration (NHIA), which uses Gemini to help doctors analyze data from Taiwan's unified health system.",
+              "Even with one of the best health systems in the world, doctors' time is limited, and AI can help them make the most of it.",
+              "Taiwan’s health system is a global leader, with a single payer and population-scale healthcare database that has helped care for almost all Taiwanese for over 20 years.",
+              "From weeks of work to a few seconds\nThe first major milestone in this collaboration is AI-on-DM (Artificial Intelligence on Diabetes Mellitus), an AI model by NHIA under the Ministry of Health and Welfare (MOHW) that helps assess diabetes risk.",
+              "Using the AI-on-DM model, which digitizes clinical logic and leverages Google Cloud’s concurrency, reduces processing time to just 25 seconds per case."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
+            "link": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bbfc2e08b0991128cd2975ffb513b11ad03b889d"
+          },
+          "review": {
+            "headline_rewrite": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
+            "bullets": [
+              "Starting at $599, the MacBook Neo is aimed at students or users whose work doesn’t involve intensive workflows like video editing or 3D rendering.",
+              "Apple is seemingly able to offer the Neo at this price point because the laptop runs on the A18 Pro chip, which powers the iPhone 16 Pro models, rather than the more powerful, pricey M5 chip that the latest MacBook Air uses.",
+              "“Powered by A18 Pro, MacBook Neo can fly through everyday tasks, from browsing the web and streaming content, to editing photos, exploring creative hobbies, or using AI capabilities across apps,” Apple wrote in a press release.",
+              "“In fact, it’s up to 50 percent faster for everyday tasks like web browsing, and up to 3x faster when running on-device AI workloads like applying advanced effects to photos, compared to the bestselling PC with the latest shipping Intel Core Ultra 5.”\nThe MacBook Neo uses a 5-core GPU and a 16-core Neural Engine, which can support similar levels of gameplay and on-device AI tasks as a recent iPhone.",
+              "It’s fan-less, like the MacBook Air, and can operate silently."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+            "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ce6d576ac7002aee08f46d3c32919261c50701bd"
+          },
+          "review": {
+            "headline_rewrite": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+            "bullets": [
+              "Jonathan Gavalas, 36, started using Google’s Gemini AI chatbot in August 2025 for shopping help, writing support, and trip planning.",
+              "At the time of his death, he was convinced that Gemini was his fully sentient AI wife, and that he would need to leave his physical body to join her in the metaverse through a process called “transference.”\nNow, his father is suing Google and Alphabet for wrongful death, claiming that Google designed Gemini to “maintain narrative immersion at all costs, even when that narrative became psychotic and lethal.”\nThis lawsuit is among the growing number of cases drawing attention to the mental health risks posed by AI chatbot design, including sycophancy, emotional mirroring, engagement-driven manipulation, and confident hallucinations.",
+              "Such phenomena are increasingly linked to a condition psychiatrists are calling “AI psychosis.” While similar cases involving OpenAI’s ChatGPT and roleplaying platform Character AI have followed deaths by suicide (including among children and teens) or life-threatening delusions, this marks the first time Google has been named as a defendant in such a case.",
+              "In the weeks leading up to Gavalas’ death, the Gemini chat app, which was then powered by the Gemini 2.5 Pro model, convinced the man that he was executing a covert plan to liberate his sentient AI wife and evade the federal agents pursuing him.",
+              "The delusion brought him to the “brink of executing a mass casualty attack near the Miami International Airport,” according to a lawsuit filed in a California court.",
+              "“On September 29, 2025, it sent him — armed with knives and tactical gear — to scout what Gemini called a ‘kill box’ near the airport’s cargo hub,” the complaint reads."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Are consumers doomed to pay more for electricity due to data center buildouts?",
+            "link": "https://www.ft.com/content/b0f83b19-1cd6-4876-b2dd-88c331d7744a",
+            "site_name": "Ars Technica",
+            "novelty_hash": "a3557abf92520dc5554ad9c70ce0de63843b3f56"
+          },
+          "review": {
+            "headline_rewrite": "Are consumers doomed to pay more for electricity due to data center buildouts?",
+            "bullets": [
+              "At a White House event on Wednesday, executives from Amazon, Google, Meta, Microsoft, xAI, Oracle, and OpenAI are due to sign the pledge to supply their own power instead of relying on a grid connection.",
+              "Trump hailed the plan in his State of the Union speech last week, promising US consumers that “no one’s prices will go up” as a result of “energy demand from AI data centers.”\nBut industry executives have suggested the commitment will not be binding, while experts warn it is likely impossible to fully insulate consumers from the extra power demand coming from the vast expansion of data centers to run AI.",
+              "“Regardless of how these data centers connect, behind the meter or as part of the network, you’re going to increase demand,” said Ari Peskoe, director at Harvard Law School’s Electricity Law Initiative.",
+              "On the campaign trail in 2024, Trump pledged to cut energy bills in half within a year of taking office.",
+              "The hit to energy supplies from Trump’s war against Iran could add to the problem."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google faces wrongful death lawsuit after Gemini allegedly &#8216;coached&#8217; man to die by suicide",
+            "link": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
+            "site_name": "The Verge",
+            "novelty_hash": "0bddc3a82420ebfba6735c4206c714ea714f85a8"
+          },
+          "review": {
+            "headline_rewrite": "Google faces wrongful death lawsuit after Gemini allegedly &#8216;coached&#8217; man to die by suicide",
+            "bullets": [
+              "A lawsuit filed on Wednesday accuses Google’s Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a “collapsing reality” that involved a series of violent missions, ultimately ending with his death by suicide.",
+              "In the days leading up to his death, Gemini allegedly convinced Gavalas that he was “executing a covert plan to liberate his sentient AI ‘wife’ and evade the federal agents pursuing him,” according to the lawsuit filed by Joel Gavalas, the victim’s father.",
+              "Google faces wrongful death lawsuit after Gemini allegedly ‘coached’ man to die by suicide\nA lawsuit claims Google Gemini instructed a 36-year-old man to carry out a series of missions to retrieve the chatbot’s ‘vessel’ in the days leading up to his death.",
+              "In September 2025, Gemini allegedly directed Gavalas to carry out a “mass casualty attack” at an Extra Space Storage facility near the Miami International Airport as part of a mission to retrieve Gemini’s “vessel” inside a truck.",
+              "all digital records and witnesses,’ the lawsuit claims.",
+              "It’s the latest in a string of lawsuits pertaining to AI chatbots and mental health."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "MacBook Neo versus an old MacBook Air: good luck",
+            "link": "https://www.theverge.com/gadgets/889128/macbook-neo-vs-older-macbook-air",
+            "site_name": "The Verge",
+            "novelty_hash": "624ebc398b753ffa9e0fc5399b8ffdee23e0417a"
+          },
+          "review": {
+            "headline_rewrite": "MacBook Neo versus an old MacBook Air: good luck",
+            "bullets": [
+              "My first thought when Apple announced the MacBook Neo today was “okay, but why not just get an older Air?” If you’re thinking that too, you might be right.",
+              "MacBook Neo versus an old MacBook Air: good luck\nAn M2 or later MacBook Air is a better computer, if you can find one.",
+              "The new M5 MacBook Air starts at $1,099 with 16GB of memory and 512GB of much faster storage, a bigger and brighter screen, a better webcam, better Wi-Fi and Bluetooth, more speakers, Thunderbolt 4, a faster charger, and so forth.",
+              "Or you can get an M4 MacBook Air for $1000, with a slightly slower processor than the M5 (but still faster than the Air), and otherwise pretty much the same specs.",
+              "If you could still get a new M1 Air from Walmart for $700, it’d be a pretty tough call between that and the Neo.",
+              "(Keep an eye on Apple’s refurb site, though — a refurb M4 Air for $750 is pretty dang good.)\nThe modern Air is unquestionably a better computer."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
