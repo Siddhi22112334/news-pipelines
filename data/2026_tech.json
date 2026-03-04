@@ -206615,6 +206615,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:02": [
+        {
+          "item": {
+            "title": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
+            "link": "https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "16f31634f4c59b4f041debffd18efb1216b112e2"
+          },
+          "review": {
+            "headline_rewrite": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
+            "bullets": [
+              "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents\nToday, we’re announcing the general availability of OpenClaw on Amazon Lightsail to launch OpenClaw instance, pairing your browser, enabling AI capabilities, and optionally connecting messaging channels.",
+              "Your Lightsail OpenClaw instance is pre-configured with Amazon Bedrock as the default AI model provider.",
+              "Once you complete setup, you can start chatting with your AI assistant immediately — no additional configuration required.",
+              "OpenClaw is an open-source self-hosted autonomous private AI agent that acts as a personal digital assistant by running directly on your computer.",
+              "You can AI agents on OpenClaw through your browser to connect to messaging apps like WhatsApp, Discord, or Telegram to perform tasks such as managing emails, browsing the web, and organizing files, rather than just answering questions.",
+              "As someone who has experienced installing OpenClaw directly on my home device, I learned that this is not easy and that there are many security considerations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
+            "link": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f5fad657dc9deda5e2c9c99e8abc7fbe730c0caa"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
+            "bullets": [
+              "Google has expanded access to Canvas in AI Mode to all users in the U.S.",
+              "in English, after first launching the feature as part of its Google Labs experiments last year.",
+              "Canvas in AI Mode is designed to help users organize and plan projects or delve into deeper research.",
+              "The feature now supports the ability to draft documents or create custom tools within Google Search, the company said in a blog post.",
+              "Canvas is already available in Gemini, where Google AI Pro and Google AI Ultra subscribers have access to the latest model, Gemini 3, and a larger 1 million-token context window for more complex projects.",
+              "More people will be exposed to Canvas now that it’s available to all users in the U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+            "link": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dc9378b742d47c41516a34394c44d67fcded4c59"
+          },
+          "review": {
+            "headline_rewrite": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+            "bullets": [
+              "The tech giant on Wednesday said it will drop its Play Store commissions to 20% on in-app purchases, with another 5% tacked on if app developers choose to use Google’s billing system.",
+              "“With these updates, we have also resolved our disputes worldwide with Epic Games,” Google said in a company blog post.",
+              "Of course, users should be wary — sideloaded apps are a well-known security risk.",
+              "That program will allow this, as approved stores will need to meet certain quality and safety requirements, Google notes.",
+              "Once the settlement is approved by the court, it will launch stateside as well.",
+              "The new developer programs will also launch at that time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "link": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "d9138c0b8515e8719dd9bcb1fb5bc5041cd5b9f1"
+          },
+          "review": {
+            "headline_rewrite": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "bullets": [
+              "Powered by the new M5 chip, Apple’s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor.",
+              "Best Buy is offering the new 13-inch M5-powered MacBook Air for $1,099 with a $50 gift card and the 15-inch for $1,299 with the same perk ahead of their March 11th release date.",
+              "That said, if you’d rather spend less and don’t mind buying last year’s model, Amazon’s also selling the 15-inch M4 MacBook Air with 512GB of storage and 16GB of RAM for an all-time low of $1,099, matching the price of the new 13-inch Air.",
+              "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last year’s model.",
+              "Before Apple announced the new MacBook Air on Tuesday, the M4-powered MacBook Air was the model we recommended for most people.",
+              "Even with the introduction of the cheaper MacBook Neo, the Air is still the better choice if you want more power."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "MacBook Neo hands-on: Apple build quality at a substantially lower price",
+            "link": "https://arstechnica.com/gadgets/2026/03/macbook-neo-hands-on-apple-build-quality-at-a-substantially-lower-price/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "8a6c15db337f2999e3bd10d46dfb7c480f13f970"
+          },
+          "review": {
+            "headline_rewrite": "MacBook Neo hands-on: Apple build quality at a substantially lower price",
+            "bullets": [
+              "NEW YORK CITY—Whether you’re talking about the iBook, MacBook, or MacBook Air, Apple’s most basic laptops have started at or within $100 of the $1,000 price point for over 20 years.",
+              "Sure, the company had quietly been testing the waters with a Walmart-exclusive M1 MacBook Air configuration for several years, first at $699 and then at $599.",
+              "But as far as what Apple would actively advertise and offer on its own site and in its own retail stores, we’ve never seen anything for substantially below $1,000.",
+              "Apple has experimented with lower-cost products before, most notably with the $329 and $349 iPads and the old $429 iPhone SE.",
+              "The Neo starts at $599 for a version with 256GB of storage and no Touch ID sensor, and $699 for a version with Touch ID and 512GB of storage (each also available to educational customers for $100 less).",
+              "It definitely has some spec sheet shortcomings, even compared to older M3 or M4 MacBook Airs that you still might be able to get at a discount from third-party retailers or Apple’s refurbished site—more on that in our full review next week."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s AI-powered workspace is now available to more users in Search",
+            "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "2b842c90a93e9946201ad619b496e012937511d1"
+          },
+          "review": {
+            "headline_rewrite": "Google’s AI-powered workspace is now available to more users in Search",
+            "bullets": [
+              "Google is bringing Canvas to everyone in the US using AI Mode in Search.",
+              "The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat.",
+              "Google’s AI-powered workspace is now available to more users in Search\nCanvas in AI Mode now supports tasks related to creative writing and coding, too.",
+              "Though Google initially launched Canvas inside its Gemini app as a way to create documents and code in real-time, it later tested the feature in AI Mode — but only for visualizing travel plans.",
+              "Now, you can use Canvas in AI Mode for tasks related to creative writing and coding, too, giving you the ability to view an AI-generated dashboard laying out information related to your prompt, or an interactive prototype of a tool you’re developing.",
+              "You can try out the feature by navigating to AI Mode in Search, selecting the “plus” button inside the chat window, and then choosing Canvas."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }

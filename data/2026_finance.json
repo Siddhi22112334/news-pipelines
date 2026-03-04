@@ -90368,7 +90368,44 @@
           }
         }
       ],
-      "01:10": []
+      "01:10": [],
+      "02:02": [
+        {
+          "item": {
+            "title": "US yields gain for third straight day as inflation risk looms",
+            "link": "https://www.livemint.com/market/us-yields-gain-for-third-straight-day-as-inflation-risk-looms-11772655754951.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US yields gain for third straight day as inflation risk looms",
+            "bullets": [
+              "* ISM non-manufacturing index hits highest since July 2022 * ADP employment tops expectations * Yields higher with crude prices volatile By Chuck Mikolajczak",
+              "Treasury yields climbed for a third straight session on Wednesday as investors weighed the potential risk of rising inflation and the path of monetary",
+              "strike hit an Iranian warship off Sri Lanka, and NATO air defenses destroyed an Iranian ballistic missile that had been fired towards Turkey.",
+              "Shipping through the Strait of Hormuz was incapacitated for a fifth day, choking off vital Middle East oil and gas flows."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "US submarine ‘sank Iranian warship in Indian Ocean’; at least 87 dead",
+            "link": "https://www.thehindubusinessline.com/news/sri-lanka-rescues-32-recovers-87-bodies-after-iranian-frigate-distress-call/article70704475.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US submarine ‘sank Iranian warship in Indian Ocean’; at least 87 dead",
+            "bullets": [
+              "Colombo US Defence Secretary Pete Hegseth told a media conference in Washington DC that a US submarine sank an Iranian warship in the Indian",
+              "Meanwhile, the Sri Lankan Navy on Wednesday rescued 32 sailors and recovered 87 bodies, following a distress call from the Iranian frigate IRIS Dena,",
+              "The development came to light when Sri Lanka’s Foreign Minister Vijitha Herath informed its Parliament on Wednesday of the distress call at dawn (05.08"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
     }
   }
 }
