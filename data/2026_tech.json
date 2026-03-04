@@ -206737,6 +206737,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "02:32": [
+        {
+          "item": {
+            "title": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
+            "link": "https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/",
+            "site_name": "Amazon Web Services",
+            "novelty_hash": "16f31634f4c59b4f041debffd18efb1216b112e2"
+          },
+          "review": {
+            "headline_rewrite": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
+            "bullets": [
+              "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents\nToday, we’re announcing the general availability of OpenClaw on Amazon Lightsail to launch OpenClaw instance, pairing your browser, enabling AI capabilities, and optionally connecting messaging channels.",
+              "Your Lightsail OpenClaw instance is pre-configured with Amazon Bedrock as the default AI model provider.",
+              "Once you complete setup, you can start chatting with your AI assistant immediately — no additional configuration required.",
+              "OpenClaw is an open-source self-hosted autonomous private AI agent that acts as a personal digital assistant by running directly on your computer.",
+              "You can AI agents on OpenClaw through your browser to connect to messaging apps like WhatsApp, Discord, or Telegram to perform tasks such as managing emails, browsing the web, and organizing files, rather than just answering questions.",
+              "As someone who has experienced installing OpenClaw directly on my home device, I learned that this is not easy and that there are many security considerations."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+            "link": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "dc9378b742d47c41516a34394c44d67fcded4c59"
+          },
+          "review": {
+            "headline_rewrite": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+            "bullets": [
+              "The tech giant on Wednesday said it will drop its Play Store commissions to 20% on in-app purchases, with another 5% tacked on if app developers choose to use Google’s billing system.",
+              "“With these updates, we have also resolved our disputes worldwide with Epic Games,” Google said in a company blog post.",
+              "Of course, users should be wary — sideloaded apps are a well-known security risk.",
+              "That program will allow this, as approved stores will need to meet certain quality and safety requirements, Google notes.",
+              "Once the settlement is approved by the court, it will launch stateside as well.",
+              "The new developer programs will also launch at that time."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "His house burned down. He used the insurance money to build PopSockets.",
+            "link": "https://techcrunch.com/video/his-house-burned-down-he-used-the-insurance-money-to-build-popsockets/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f1a8f20e3b8bbd1099649dd0bc880dd6184e4bde"
+          },
+          "review": {
+            "headline_rewrite": "His house burned down. He used the insurance money to build PopSockets.",
+            "bullets": [
+              "Eleven years and 290 million products sold across 115 countries later, PopSockets has proven that the bootstrapped, low-dilution path more viable than the industry gives it credit for.",
+              "The global consumer hardware brand was built on less than $500k, no institutional capital, and a philosophy professor’s determination."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "link": "https://www.theverge.com/gadgets/889391/apple-macbook-air-m5-m4-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "d9138c0b8515e8719dd9bcb1fb5bc5041cd5b9f1"
+          },
+          "review": {
+            "headline_rewrite": "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price",
+            "bullets": [
+              "Powered by the new M5 chip, Apple’s latest MacBook Airs are more powerful than ever with double the base storage (512GB), but they also cost $100 more than their predecessor.",
+              "Best Buy is offering the new 13-inch M5-powered MacBook Air for $1,099 with a $50 gift card and the 15-inch for $1,299 with the same perk ahead of their March 11th release date.",
+              "That said, if you’d rather spend less and don’t mind buying last year’s model, Amazon’s also selling the 15-inch M4 MacBook Air with 512GB of storage and 16GB of RAM for an all-time low of $1,099, matching the price of the new 13-inch Air.",
+              "The new MacBook Air debuts with a $50 gift card as the M4 model hits its best price\nThe new MacBook Air now costs more, but you can still save with gift cards or a big discount on last year’s model.",
+              "Before Apple announced the new MacBook Air on Tuesday, the M4-powered MacBook Air was the model we recommended for most people.",
+              "Even with the introduction of the cheaper MacBook Neo, the Air is still the better choice if you want more power."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+            "site_name": "The Verge",
+            "novelty_hash": "59487fb1bc47c7e0914fdfca6d73c6ee4de1c771"
+          },
+          "review": {
+            "headline_rewrite": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+            "bullets": [
+              "NotebookLM can now summarize research in ‘cinematic’ video overviews\nUsers with a Google AI Ultra subscription can turn their notes into personalized, fully animated videos.",
+              "Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google’s AI models, “including Gemini 3, Nano Banana Pro and Veo 3,” to generate animated visuals based on the content of users’ notes.",
+              "This is the latest in a string of recent AI video updates from Google.",
+              "Last month, Google upgraded its Veo AI video model and expanded access to Flow, its AI video generating tool.",
+              "Google also recently demoed a new “Project Genie” AI video generator that Verge reporter Jay Peters was able to use to make short knockoff slices of Nintendo games.",
+              "Cinematic video overviews are available in NotebookLM starting today, but are currently only available in English for users over 18 with a Google AI Ultra subscription."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026",
+            "link": "https://www.wired.com/gallery/best-usb-hubs/",
+            "site_name": "WIRED",
+            "novelty_hash": "b37b98d31e27edcf348673b45560038117d270dd"
+          },
+          "review": {
+            "headline_rewrite": "USB Hubs Can Save You Lots of Hassles—Here Are 5 We Like Best in 2026",
+            "bullets": [
+              "Featured in this article\nYour laptop never has enough ports, especially if it’s the MacBook Air I'm using to write this article.",
+              "Hubs expand the number and kind of ports available from one device, so you can cut down on the clutter.",
+              "Check out our other guides, including the Best Docking Stations, Ultimate Work-From-Home Gear, Best Office Chairs, Best Standing Desks, and Best USB Flash Drives.",
+              "We have a full explainer here, but if you just want to get the basics before you buy your hub, here are a few things to keep in mind.",
+              "When USB 3.2 came out in 2019, the 5-Gbps USB was rebranded again to “USB 3.2 Gen 1,” the 10-Gbps version became “USB 3.2 Gen 2,” and the new 20-Gbps spec became—you guessed it—USB 3.2 Gen 2x2.",
+              "… Wait, what?"
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
