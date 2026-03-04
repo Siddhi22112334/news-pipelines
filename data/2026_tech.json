@@ -205789,6 +205789,124 @@
             "impact": "Negative"
           }
         }
+      ],
+      "19:30": [
+        {
+          "item": {
+            "title": "How Google and Taiwan are building an AI blueprint for public health",
+            "link": "https://blog.google/innovation-and-ai/technology/health/how-google-and-taiwan-are-building-an-ai-blueprint-for-public-health/",
+            "site_name": "Google",
+            "novelty_hash": "1719460d6c8a83e69ff04993c80931616e23e8d7"
+          },
+          "review": {
+            "headline_rewrite": "How Google and Taiwan are building an AI blueprint for public health",
+            "bullets": [
+              "How Google and Taiwan are building an AI blueprint for public health\nFinding health risks earlier can make all the difference.",
+              "That’s the goal of a collaboration between Google and Taiwan’s National Health Insurance Administration (NHIA), which uses Gemini to help doctors analyze data from Taiwan's unified health system.",
+              "Even with one of the best health systems in the world, doctors' time is limited, and AI can help them make the most of it.",
+              "Taiwan’s health system is a global leader, with a single payer and population-scale healthcare database that has helped care for almost all Taiwanese for over 20 years.",
+              "From weeks of work to a few seconds\nThe first major milestone in this collaboration is AI-on-DM (Artificial Intelligence on Diabetes Mellitus), an AI model by NHIA under the Ministry of Health and Welfare (MOHW) that helps assess diabetes risk.",
+              "Using the AI-on-DM model, which digitizes clinical logic and leverages Google Cloud’s concurrency, reduces processing time to just 25 seconds per case."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Our statement on the Gavalas lawsuit",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/gavalas-lawsuit-response/",
+            "site_name": "Google",
+            "novelty_hash": "08f061a0421766ff78a674841a7a28ca9fec9c50"
+          },
+          "review": {
+            "headline_rewrite": "Our statement on the Gavalas lawsuit",
+            "bullets": [
+              "We are reviewing all the claims in this lawsuit.",
+              "Our models generally perform well in these types of challenging conversations and we devote significant resources to this, but unfortunately AI models are not perfect.",
+              "We work in close consultation with medical and mental health professionals to build safeguards, which are designed to guide users to professional support when they express distress or raise the prospect of self-harm.",
+              "In this instance, Gemini clarified that it was AI and referred the individual to a crisis hotline many times."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Raycast’s Glaze is an all-in-one vibe coding app platform",
+            "link": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store",
+            "site_name": "The Verge",
+            "novelty_hash": "8da0a30fd3ea56ad6fdd52af7419eaff8081f120"
+          },
+          "review": {
+            "headline_rewrite": "Raycast’s Glaze is an all-in-one vibe coding app platform",
+            "bullets": [
+              "AI tools like Claude Code have made it possible for users to build software with no coding knowledge whatsoever.",
+              "That’s not to say the process is easy, though: You may not need to write code directly, but you need to understand how your computer’s terminal works, how to deploy and maintain software, and deal with lots of other associated tasks.",
+              "Raycast, the launcher app that has been particularly popular among Mac users, thinks it can make the process even simpler.",
+              "The company is launching a new product called Glaze that attempts to make it easy to build, use, share, and discover new vibe-coded software.",
+              "Right now it’s only available for Mac, but Raycast plans to bring it to Windows and mobile over time, and the company thinks it could change the way you think about your apps.",
+              "The Glaze process is even more straightforward than most vibe coding tools: you just type a prompt, and the tool tries to create an app in one go."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "The Best Linux Laptops (I Install Linux on Every Laptop I Test) (2026)",
+            "link": "https://www.wired.com/story/best-linux-laptops/",
+            "site_name": "WIRED",
+            "novelty_hash": "574490fe6a49c61303687e000b07f44bf57e498c"
+          },
+          "review": {
+            "headline_rewrite": "The Best Linux Laptops (I Install Linux on Every Laptop I Test) (2026)",
+            "bullets": [
+              "A disclaimer: There's no real such thing as a Linux laptop.",
+              "That said, Linux runs better on some laptops than others.",
+              "- Best for Most People: System76 Lemur Pro\n- Best MacBook Replacement: Tuxedo InfinityBook Pro 14\n- Best for the Minimalist: Dell XPS 13 Developer Edition\n- Most Repairable: Framework Laptop 13\n- A Sysadmin Favorite: System76's Pangolin\n- Best for Performance: Kubuntu Focus Zr Gen 1\n- If Your Budget Is Tight\n- What to Look for in a Linux Laptop\nBest for Most People\nThe System76 Lemur Pro (9/10, WIRED Recommends) is my favorite Linux laptop.",
+              "You can configure the Lemur Pro with a Core Ultra 7 155U chip if you want more power, as well as up to 8 TB of storage and 56 GB of RAM.",
+              "Think of it more as the Linux equivalent of a Macbook Air, a solid all-around laptop that's good for all the things most people do everyday.",
+              "The Ubuntu version is coming later this year and might be worth waiting for if you don't want to spend time chasing down fixes for new hardware, but if you're willing to wrestle with your system for a little bit, then this is worth considering."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "I Ranked 30 Energy Drinks, From Celsius to Ghost (2025)",
+            "link": "https://www.wired.com/story/best-energy-drinks/",
+            "site_name": "WIRED",
+            "novelty_hash": "9d6b703e64a9eb995a8ceb492db210c1bd479ff9"
+          },
+          "review": {
+            "headline_rewrite": "I Ranked 30 Energy Drinks, From Celsius to Ghost (2025)",
+            "bullets": [
+              "Pepper and Mountain Dew variants at my local Sheetz.",
+              "Updated March 2026: We've added new drinks from Bloom, Melting Forest, and Liquid Death; removed some discontinued products; and updated links, tasting notes, and prices throughout.",
+              "Halfway through the can I got happy feet and swapped my Aeron chair for the walking pad.",
+              "Marketing be damned, you could add this to the rotation at a Taco Bell and no one would know (or care) about its alleged postgains powers.",
+              "While we loved Jocko Go when it initially blazed the trail for monkfruit-based energy drinks, the mellow tang of Naked outclasses the sharp and astringent sweetness of the signature beverage of the wellness world’s favorite ex-Navy Seal/human-sized clenched fist.",
+              "It packs more than double the caffeine, making it a no-brainer when A/B-ing the two."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "TikTok won't add end-to-end encryption to DMs",
+            "link": "https://www.engadget.com/apps/tiktok-wont-add-end-to-end-encryption-to-dms-123431502.html",
+            "site_name": "Engadget",
+            "novelty_hash": "db8e77108cc9098482a43456afcc5a65d8c34630"
+          },
+          "review": {
+            "headline_rewrite": "TikTok won't add end-to-end encryption to DMs",
+            "bullets": [
+              "In a briefing about security at its London office, TikTok said that implementing the technology would prevent its safety teams or law enforcement from being able to read messages if needed.",
+              "TikTok said messages sent through its app are still protected by standard encryption and only authorized employees will be able to access them if the app gets a request from authorities or gets user reports for harmful behavior.",
+              "A group of non-Chinese investors, including Oracle, purchased an 80 percent stake on the app, while ByteDance retained only a 19.9 percent stake.",
+              "The entity will be in charge of content moderation in the country and will retrain TikTok’s algorithm on US users’ data."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
