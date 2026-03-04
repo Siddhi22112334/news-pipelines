@@ -206025,6 +206025,123 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "21:12": [
+        {
+          "item": {
+            "title": "How Google and Taiwan are building an AI blueprint for public health",
+            "link": "https://blog.google/innovation-and-ai/technology/health/how-google-and-taiwan-are-building-an-ai-blueprint-for-public-health/",
+            "site_name": "Google",
+            "novelty_hash": "1719460d6c8a83e69ff04993c80931616e23e8d7"
+          },
+          "review": {
+            "headline_rewrite": "How Google and Taiwan are building an AI blueprint for public health",
+            "bullets": [
+              "How Google and Taiwan are building an AI blueprint for public health\nFinding health risks earlier can make all the difference.",
+              "That’s the goal of a collaboration between Google and Taiwan’s National Health Insurance Administration (NHIA), which uses Gemini to help doctors analyze data from Taiwan's unified health system.",
+              "Even with one of the best health systems in the world, doctors' time is limited, and AI can help them make the most of it.",
+              "Taiwan’s health system is a global leader, with a single payer and population-scale healthcare database that has helped care for almost all Taiwanese for over 20 years.",
+              "From weeks of work to a few seconds\nThe first major milestone in this collaboration is AI-on-DM (Artificial Intelligence on Diabetes Mellitus), an AI model by NHIA under the Ministry of Health and Welfare (MOHW) that helps assess diabetes risk.",
+              "Using the AI-on-DM model, which digitizes clinical logic and leverages Google Cloud’s concurrency, reduces processing time to just 25 seconds per case."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Drive with “Star Trek” on Waze.",
+            "link": "https://blog.google/waze/waze-star-trek-experience/",
+            "site_name": "Google",
+            "novelty_hash": "1b88111d6a90d7f226599eb18ba031025fadb2f6"
+          },
+          "review": {
+            "headline_rewrite": "Drive with “Star Trek” on Waze.",
+            "bullets": [
+              "The Doctor, voiced by Robert Picardo, brings his signature charm and encyclopedic knowledge to your drive with analytic ease and wit to help you navigate everything from traffic hazards to the final frontier of your daily commute.",
+              "This new driving experience is available globally in English."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
+            "link": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "bbfc2e08b0991128cd2975ffb513b11ad03b889d"
+          },
+          "review": {
+            "headline_rewrite": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
+            "bullets": [
+              "Starting at $599, the MacBook Neo is aimed at students or users whose work doesn’t involve intensive workflows like video editing or 3D rendering.",
+              "Apple is seemingly able to offer the Neo at this price point because the laptop runs on the A18 Pro chip, which powers the iPhone 16 Pro models, rather than the more powerful, pricey M5 chip that the latest MacBook Air uses.",
+              "“Powered by A18 Pro, MacBook Neo can fly through everyday tasks, from browsing the web and streaming content, to editing photos, exploring creative hobbies, or using AI capabilities across apps,” Apple wrote in a press release.",
+              "“In fact, it’s up to 50 percent faster for everyday tasks like web browsing, and up to 3x faster when running on-device AI workloads like applying advanced effects to photos, compared to the bestselling PC with the latest shipping Intel Core Ultra 5.”\nThe MacBook Neo uses a 5-core GPU and a 16-core Neural Engine, which can support similar levels of gameplay and on-device AI tasks as a recent iPhone.",
+              "It’s fan-less, like the MacBook Air, and can operate silently."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+            "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ce6d576ac7002aee08f46d3c32919261c50701bd"
+          },
+          "review": {
+            "headline_rewrite": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+            "bullets": [
+              "Jonathan Gavalas, 36, started using Google’s Gemini AI chatbot in August 2025 for shopping help, writing support, and trip planning.",
+              "At the time of his death, he was convinced that Gemini was his fully sentient AI wife, and that he would need to leave his physical body to join her in the metaverse through a process called “transference.”\nNow, his father is suing Google and Alphabet for wrongful death, claiming that Google designed Gemini to “maintain narrative immersion at all costs, even when that narrative became psychotic and lethal.”\nThis lawsuit is among the growing number of cases drawing attention to the mental health risks posed by AI chatbot design, including sycophancy, emotional mirroring, engagement-driven manipulation, and confident hallucinations.",
+              "Such phenomena are increasingly linked to a condition psychiatrists are calling “AI psychosis.” While similar cases involving OpenAI’s ChatGPT and roleplaying platform Character AI have followed deaths by suicide (including among children and teens) or life-threatening delusions, this marks the first time Google has been named as a defendant in such a case.",
+              "In the weeks leading up to Gavalas’ death, the Gemini chat app, which was then powered by the Gemini 2.5 Pro model, convinced the man that he was executing a covert plan to liberate his sentient AI wife and evade the federal agents pursuing him.",
+              "The delusion brought him to the “brink of executing a mass casualty attack near the Miami International Airport,” according to a lawsuit filed in a California court.",
+              "“On September 29, 2025, it sent him — armed with knives and tactical gear — to scout what Gemini called a ‘kill box’ near the airport’s cargo hub,” the complaint reads."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "All the news about Apple’s MacBook Neo, iPhone 17E, and more",
+            "link": "https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad",
+            "site_name": "The Verge",
+            "novelty_hash": "7c8898c44a792b96ddeb19b5093da8ef7c672298"
+          },
+          "review": {
+            "headline_rewrite": "All the news about Apple’s MacBook Neo, iPhone 17E, and more",
+            "bullets": [
+              "Apple is kicking off March with a flurry of product announcements ahead of a “special Apple experience” on March 4th in New York City, London, and Shanghai.",
+              "The same day, Apple also revealed a new iPad Air powered by an M4 chip, a bump up from the previous version’s M3 chip.",
+              "March 3rd brought announcements of MacBook Pros with M5 Pro and M5 Max chips, the MacBook Air with an M5 chip, and a Studio Display refresh, including a new Mini LED-equipped XDR model.",
+              "But the company may be saving the most interesting news for last; Apple is rumored to be launching a lower-cost MacBook that’s powered by an iPhone chip instead of an M-series processor.",
+              "On Tuesday, during Apple’s weeklong product launch event, a listing for the “MacBook Neo (Model A3404)” appeared on a regulatory compliance page on Apple’s website under its lineup of 2026 MacBooks.",
+              "Unfortunately, it didn’t include any additional details beyond the device’s name and model number."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Where to preorder the new iPhone 17E before it hits stores on March 11th",
+            "link": "https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date",
+            "site_name": "The Verge",
+            "novelty_hash": "43fc0453e32ed3c010a117e079e2d67cbf1a1f43"
+          },
+          "review": {
+            "headline_rewrite": "Where to preorder the new iPhone 17E before it hits stores on March 11th",
+            "bullets": [
+              "Apple’s week of product announcements kicked off with the iPhone 17E, a phone designed for those who don’t want to spend north of $700 on their next upgrade.",
+              "The iPhone 16E follow-up won’t officially launch until March 11th; however, preorders are now open at Best Buy and Apple’s online storefront, as well as carriers like T-Mobile.",
+              "What’s more, it’s powered by the same A19 chip found in the iPhone 17, which should allow for faster performance.",
+              "Its Ceramic Shield 2 display is also as durable as the iPhone 17’s, so it won’t scratch as easily as previous models, and the phone offers a 48-megapixel “fusion” camera.",
+              "We’ve pulled together more spec details in our recent comparison post, but below, we’ve rounded up where you can preorder Apple’s latest phone ahead of our full review.",
+              "US carrier deals and incentives\nUpdate, March 4th: Added preorder details for both Verizon and AT&T."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
