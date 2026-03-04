@@ -206493,6 +206493,128 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "01:10": [
+        {
+          "item": {
+            "title": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
+            "link": "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "ace43155b79b538621add2c7b1d23e9cd246ed5c"
+          },
+          "review": {
+            "headline_rewrite": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
+            "bullets": [
+              "From a budget-friendly MacBook to a new iPhone, Apple announced a series of new products this week.",
+              "The tech giant started things off on Monday with the new iPhone 17e and the M4 iPad Air.",
+              "Then on Tuesday, Apple announced the M5 MacBook Air, new MacBook Pro models, new M5 Pro and M5 Max chips, and a new Studio Display and Studio Display XDR.",
+              "Apple then rounded out its announcements on Wednesday with a cheaper MacBook called the MacBook Neo that runs on a chip similar to the iPad and iPhone.",
+              "If you didn’t have time to check out all the new products, we’ve compiled all the announcements for you right here.",
+              "iPhone 17e\nApple unveiled the latest version of its budget-friendly iPhone line, the iPhone 17e, which retails for $599 and will be available on March 11."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
+            "link": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "f5fad657dc9deda5e2c9c99e8abc7fbe730c0caa"
+          },
+          "review": {
+            "headline_rewrite": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
+            "bullets": [
+              "Google has expanded access to Canvas in AI Mode to all users in the U.S.",
+              "in English, after first launching the feature as part of its Google Labs experiments last year.",
+              "Canvas in AI Mode is designed to help users organize and plan projects or delve into deeper research.",
+              "The feature now supports the ability to draft documents or create custom tools within Google Search, the company said in a blog post.",
+              "Canvas is already available in Gemini, where Google AI Pro and Google AI Ultra subscribers have access to the latest model, Gemini 3, and a larger 1 million-token context window for more complex projects.",
+              "More people will be exposed to Canvas now that it’s available to all users in the U.S."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+            "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+            "site_name": "WIRED",
+            "novelty_hash": "3b6aa2d2021c8fa199becdf69aaf1839cb14945a"
+          },
+          "review": {
+            "headline_rewrite": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+            "bullets": [
+              "The movements of a hard drive's components, keystrokes on a keyboard, even the electric charge in a semiconductor's wires produce radio waves, sound, and vibrations that transmit in all directions and can—when picked up by someone with sufficiently sensitive equipment and enough spycraft to decipher those signals—reveal your private data and activities.",
+              "This category of spying techniques, originally codenamed TEMPEST by the National Security Agency but now encompassed in the more general term “side-channel attacks,\" has been a known problem in computer security for close to eight decades, and it's one that the United States government carefully considers in securing its own classified information.",
+              "Now a pair of US lawmakers are launching an investigation into how vulnerable the rest of us are to TEMPEST-style surveillance—and whether the US government needs to push device manufacturers to do more to protect Americans.",
+              "In the letter, Wyden and Brown write that these forms of spying “do not just pose a counterintelligence threat to the US government, but these methods can also be exploited by adversaries against the American public, including to steal strategically important technologies from US companies.”\nAlong with the letter, Wyden and Brown also commissioned a newly released Congressional Research Service report about the history of TEMPEST and the contemporary threat posed by similar side-channel attacks.",
+              "Meanwhile, the government has “neither warned the public about this threat, nor imposed requirements on the manufacturers of consumer electronics, such as smartphones, computers and computer accessories, to build technical countermeasures into their products,” Wyden and Brown point out in the letter.",
+              "“As such, the government has left the American people vulnerable and in the dark.”\nWyden and Brown's letter ends by urging GAO to review a list of TEMPEST-related issues: the scale of the modern privacy threat of side-channel attacks, the “cost and feasibility” of implementing protections against them in modern devices, and “potential policy options to mitigate this threat against the public, including mandating device manufacturers add countermeasures to their products,” suggesting that Congress could apply pressure to tech companies to add more defenses to the devices they sell."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Google’s AI-powered workspace is now available to more users in Search",
+            "link": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+            "site_name": "The Verge",
+            "novelty_hash": "2b842c90a93e9946201ad619b496e012937511d1"
+          },
+          "review": {
+            "headline_rewrite": "Google’s AI-powered workspace is now available to more users in Search",
+            "bullets": [
+              "Google is bringing Canvas to everyone in the US using AI Mode in Search.",
+              "The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat.",
+              "Google’s AI-powered workspace is now available to more users in Search\nCanvas in AI Mode now supports tasks related to creative writing and coding, too.",
+              "Though Google initially launched Canvas inside its Gemini app as a way to create documents and code in real-time, it later tested the feature in AI Mode — but only for visualizing travel plans.",
+              "Now, you can use Canvas in AI Mode for tasks related to creative writing and coding, too, giving you the ability to view an AI-generated dashboard laying out information related to your prompt, or an interactive prototype of a tool you’re developing.",
+              "You can try out the feature by navigating to AI Mode in Search, selecting the “plus” button inside the chat window, and then choosing Canvas."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead",
+            "link": "https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google",
+            "site_name": "The Verge",
+            "novelty_hash": "980d23492522758f3b94e1b62835cb303fc06a22"
+          },
+          "review": {
+            "headline_rewrite": "Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead",
+            "bullets": [
+              "Today, Google has decided it’s not waiting for that settlement to be approved: it’s moving forward with many of its proposed changes right now, rolling them out globally through 2027.",
+              "Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead\nBy June 30th, Google writes, it will lower its app store fees in the US, UK, and European Economic Area to 20 percent or less, down from 30 percent.",
+              "By the end of the year, it will launch a “Registered App Stores” program outside of the US, so that you can install third-party app stores (like the Epic Games Store) without so much friction.",
+              "Service Fees: For new installs (first time installs from users after the new fees are launched in a region), we are reducing the in-app purchase (IAP) service fee to 20%.",
+              "We are launching an Apps Experience Program and revamping our Games Level-Up program to incentivize building great software experiences across Android form factors associated with clear quality benchmarks and enhanced user benefits.",
+              "We will also launch the updated Games Level-Up program and new App Experience program by September 30 for EEA, UK, US, and Australia and then it will roll out in line with the rest of the schedule above."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump’s War on Iran Could Screw Over US Farmers",
+            "link": "https://www.wired.com/story/trumps-war-on-iran-could-screw-over-us-farmers/",
+            "site_name": "WIRED",
+            "novelty_hash": "6a75efba1bf9e1ad2ed5cfd8e67f8c9904fff279"
+          },
+          "review": {
+            "headline_rewrite": "Trump’s War on Iran Could Screw Over US Farmers",
+            "bullets": [
+              "But another key global supply chain is also at risk, one that may directly impact American farmers who have already been squeezed for months by tariff wars.",
+              "The global fertilizer market focuses on three main macronutrients: phosphates, nitrogen, and potash.",
+              "QatarLNG, a subsidiary of Qatar Energy, a state-run oil and gas company, said on Monday that it would halt production following drone strikes on some of its facilities.",
+              "On Tuesday, Qatar Energy said that it would also stop production of downstream products, including urea.",
+              "The blockage of the Strait of Hormuz is also preventing other countries in the region from exporting nitrogen products.",
+              "“When we look at ammonia, we're looking at almost 30 percent of global production being either involved or at risk in this conflict,” says Veronica Nigh, a senior economist at the Fertilizer Institute, a US-based industry advocacy organization."
+            ],
+            "impact": "Neutral"
+          }
+        }
       ]
     }
   }
