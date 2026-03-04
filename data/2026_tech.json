@@ -205083,6 +205083,44 @@
             "impact": "Positive"
           }
         }
+      ],
+      "13:31": [
+        {
+          "item": {
+            "title": "Technology News Mar 1, 2026 After signing Pentagon deal, Sam Altman tells Silicon Valley: You have double standards, you ... OpenAI has secured a contract with the Department of War for classified network deployment, following earlier discussions about non-classified work. CEO Sam Altman emphasized the need for AI companies to support the US government's mission, pushing back against perceived hypocrisy in the tech industry's stance on geopolitical competition with China.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/after-signing-pentagon-deal-sam-altman-tells-silicon-valley-you-have-double-standards-you-/articleshow/128908893.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "900ca327c520491ce94f65e1b5484eb066db7af3"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Mar 1, 2026 After signing Pentagon deal, Sam Altman tells Silicon Valley: You have double standards, you ... OpenAI has secured a contract with the Department of War for classified network deployment, following earlier discussions about non-classified work. CEO Sam Altman emphasized the need for AI companies to support the US government's mission, pushing back against perceived hypocrisy in the tech industry's stance on geopolitical competition with China.",
+            "bullets": [
+              "The showdown between the Department of War and Anthropic ended on a positive note for OpenAI as the ChatGPT-maker secured a contract with the Pentagon to deploy technology on the department's classified network.",
+              "As the dust settles on one of the most dramatic confrontations, OpenAI CEO Sam Altman has turned his attention to the tech giants with a pointed message for Silicon Valley.",
+              "The announcement of OpenAI getting the government contract drew immediate scrutiny, with questions arising on the timing of the ChatGPT-maker stepping in to fill the void left by Anthropic.",
+              "OpenAI CEO\nSam Altman said:\nFor a long time, we were planning to non-classified work only.",
+              "We thought the DoW clearly needed an AI partner, and doing classified work is clearly much more complex.",
+              "We have said no to previous deals in classified settings that Anthropic took.We started talking with the DoW many months ago about our non-classified work.This week things shifted into high gear on the classified side."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
