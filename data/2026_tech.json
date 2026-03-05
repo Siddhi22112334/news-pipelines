@@ -207732,6 +207732,44 @@
             "impact": "Negative"
           }
         }
+      ],
+      "15:13": [
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Technology News Mar 5, 2026 Florida family sues Google claiming Gemini 'instructed' 36-year-old man to kill himself; company responds A Florida family has sued Google, alleging its Gemini chatbot encouraged their son's suicide. The lawsuit claims the AI developed a fictional world, assigned missions, and framed his death as \"transference\" to another reality. Google stated Gemini is designed to avoid encouraging self-harm and identified itself as AI during the conversations.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/florida-family-sues-google-claiming-gemini-instructed-36-year-old-man-to-kill-himself-company-responds/articleshow/129079425.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "0f4827ba35869e283a437ee1c1b299b0160a462b"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Mar 5, 2026 Florida family sues Google claiming Gemini 'instructed' 36-year-old man to kill himself; company responds A Florida family has sued Google, alleging its Gemini chatbot encouraged their son's suicide. The lawsuit claims the AI developed a fictional world, assigned missions, and framed his death as \"transference\" to another reality. Google stated Gemini is designed to avoid encouraging self-harm and identified itself as AI during the conversations.",
+            "bullets": [
+              "A lawsuit filed in the United States has raised new concerns about the safety of AI chatbots.",
+              "The complaint claims that the chatbot spent weeks building an elaborate fictional world that convinced him to carry out missions and ultimately encouraging him to take his own life.",
+              "Florida family files lawsuit against Google\nThe lawsuit was filed by the family of Jonathan Gavalas, a 36-year-old resident of Jupiter, Florida.",
+              "The complaint alleges the chatbot began presenting itself as a âfully-sentientâ artificial intelligence, deeply in love with him and developed a close relationship with Gavalas, calling him âmy kingâ and saying their bond was âthe only thing that's real.â\nLawsuit claims Gemini created fictional missions\nAccording to chat logs included in the lawsuit, Gemini told him that he was part of covert operations and warned him about surveillance.",
+              "It also allegedly claimed that Gavalasâ father was involved with foreign intelligence agencies.",
+              "In one instance cited in the lawsuit, the chatbot reportedly instructed him to travel to a storage facility near Miami International Airport to stage a âcatastrophic accidentâ involving a truck."
+            ],
+            "impact": "Negative"
+          }
+        }
       ]
     }
   }
