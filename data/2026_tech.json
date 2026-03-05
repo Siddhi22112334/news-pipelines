@@ -208447,6 +208447,124 @@
             "impact": "Positive"
           }
         }
+      ],
+      "23:34": [
+        {
+          "item": {
+            "title": "Unbox the sleek, durable new Pixel 10a with us.",
+            "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-10a-unboxing-video/",
+            "site_name": "Google",
+            "novelty_hash": "1dd625f280fd24286ff5bc4f4e09c6f254590cc8"
+          },
+          "review": {
+            "headline_rewrite": "Unbox the sleek, durable new Pixel 10a with us.",
+            "bullets": [
+              "Can’t wait to get your hands on the new Pixel 10a?",
+              "Pixel 10a is our most durable A-series phone, with our best-in-class\n1\ncamera system and many of our most advanced AI tools, powered by our custom-built Google Tensor G4 chip."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Ask a Techspert: How does AI understand my visual searches?",
+            "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+            "site_name": "Google",
+            "novelty_hash": "0f07a6fd1dda533a7ba852f028ac2f9289bc1823"
+          },
+          "review": {
+            "headline_rewrite": "Ask a Techspert: How does AI understand my visual searches?",
+            "bullets": [
+              "Ask a Techspert: How does AI understand my visual searches?",
+              "In recent months, we’ve also launched several updates that enhance both visual search and image results in AI Mode, so you can better find inspiration as you search.",
+              "That means building a tool that can just as easily explain a complex math problem as it can identify a rare succulent or help you track down a pair of shoes you love.",
+              "Previously, you’d have to search for the lamp, then the rug, then the chair individually.",
+              "Now, AI Mode can break down that complex image, identify each individual piece and issue multiple visual searches simultaneously.",
+              "Our advanced Gemini models make AI Mode possible, and its multimodal capabilities benefit from the visual expertise we've built into Lens over the years."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+            "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "a179d769dd66faff87a556e25e39537f6b654466"
+          },
+          "review": {
+            "headline_rewrite": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+            "bullets": [
+              "Meta is facing a new lawsuit over its AI smart glasses and their lack of privacy, after an investigation by Swedish newspapers found that workers at a Kenya-based subcontractor are reviewing footage from customers’ glasses, which included sensitive content, like nudity, people having sex, and using the toilet.",
+              "Meta claimed it was blurring faces in images, but sources disputed that this blurring consistently worked, reports noted.",
+              "In the newly filed complaint, plaintiffs Gina Bartone of New Jersey and Mateo Canu of California, represented by the public interest-focused Clarkson Law Firm, allege that Meta violated privacy laws and engaged in false advertising.",
+              "The complaint alleges that the Meta AI smartglasses are advertised using promises like “designed for privacy, controlled by you,” and “built for your privacy,” which might not lead customers to assume their glasses’ footage, including intimate moments, was being watched by overseas workers.",
+              "The plaintiffs believed Meta’s marketing and said they saw no disclaimer or information that contradicted the advertised privacy protections.",
+              "Clarkson Law Firm, which over the years has filed other major lawsuits against tech giants, including Apple, Google, and OpenAI, points to the scale of the issues at hand."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+            "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "29f13205e0875eef46a6ed29cdd8a43062d06ea1"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+            "bullets": [
+              "Anthropic’s $200 million contract with the Department of Defense (DOD) broke down last week after the two parties failed to come to an agreement over the degree to which the military could obtain unrestricted access to Anthropic’s AI.",
+              "When the DOD made a deal with OpenAI instead, it seemed that the military’s relationship with Anthropic would come to a close — but new reporting from the Financial Times and Bloomberg say that Amodei resumed negotiations with Pentagon official Emil Michael.",
+              "These talks are reportedly part of an attempt to compromise on a contract that outlines how the Pentagon can continue to access Anthropic’s AI models.",
+              "But a compromise could still hold appeal for both sides — the Pentagon already relies on Anthropic’s technology, and an abrupt switch to OpenAI’s systems would be disruptive.",
+              "The dispute began when Anthropic CEO Dario Amodei voiced concern over a clause that allowed the military to use Anthropic’s AI for “any lawful use.” Amodei asserted that the company would not allow for its technology to be used for domestic mass surveillance or autonomous weaponry and wanted the contract to more clearly prohibit those uses.",
+              "When Anthropic refused to comply, the DOD turned around and struck a deal with OpenAI instead."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+            "link": "https://www.theverge.com/tech/889637/meta-ai-smart-glasses-human-reviewers-kenya",
+            "site_name": "The Verge",
+            "novelty_hash": "4fea26cbea048e9219832cd754e9084597d1cf06"
+          },
+          "review": {
+            "headline_rewrite": "Meta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya",
+            "bullets": [
+              "Meta’s AI-powered smart glasses could be sending sensitive footage to human reviewers in Nairobi, Kenya, according to an investigation by the Swedish outlets Svenska Dagbladet and Göteborgs-Posten.",
+              "The report, which was published last week, claims Meta contractors in Kenya have seen videos captured with the smart glasses that show “bathroom visits, sex and other intimate moments.”\nMeta’s AI glasses reportedly send sensitive footage to human reviewers in Kenya\nNairobi-based contractors have seen footage capturing bathroom visits, naked people, and intimate moments, according to an investigation from two Swedish newspapers.",
+              "So far, at least one proposed class action lawsuit accusing Meta of violating false advertising and privacy laws has emerged in response to Svenska Dagbladet’s reporting, citing the company’s claim that its smart glasses are designed for privacy:\nBy affirmatively claiming that the Glasses were designed to protect privacy, Meta assumed a duty to disclose material facts that would inform a reasonable consumer’s decision to purchase the product.",
+              "Instead, Meta hid the alarming reality: that use of the AI features results in a stranger halfway around the world watching the most private moments of a person’s life.",
+              "The Nairobi-based contractors interviewed by Svenska Dagbladet are AI annotators, meaning they label images, text, or audio, with the goal of helping AI systems make sense of the data they’re training on.",
+              "“Meta has that type of content in its databases.”\nMeta’s Ray-Ban and Oakley smart glasses come with a built-in AI assistant capable of answering questions about what a user can see."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "922de0a364c9f7f92f5d736e3c6fe17e2888d4f1"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+            "bullets": [
+              "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations.",
+              "It’s also OpenAI’s first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.",
+              "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents\nThe latest model comes with native computer use capabilities, allowing it to take on jobs across your device and applications.",
+              "The new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software.",
+              "OpenAI introduced ChatGPT Agent amid a flurry of other agentic tools that emerged last year, which can take control of your computer to perform tasks, such as searching for and buying ingredients for a meal.",
+              "While OpenAI is bringing GPT-5.4 to its API and its AI-powered coding tool, Codex, it’s rolling out its reasoning model, GPT-5.4 Thinking, to ChatGPT."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
