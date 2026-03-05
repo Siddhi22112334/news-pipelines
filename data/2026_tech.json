@@ -207618,6 +207618,44 @@
             "impact": "Negative"
           }
         }
+      ],
+      "12:58": [
+        {
+          "item": {
+            "title": "Technology News Mar 3, 2026 Microsoft CEO Satya Nadella may have just agreed with Google DeepMind CEO Demis Hassabis on ‘next AI breakthroughs’ Leading AI figures Satya Nadella and Demis Hassabis believe the current AI era is not the final one, anticipating one or two more major breakthroughs. While scaling current models is crucial, they suggest new architectures, improved reasoning, and memory are needed for true Artificial General Intelligence, which Hassabis estimates is still five to ten years away.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-may-have-just-agreed-with-google-deepmind-ceo-demis-hassabis-on-next-ai-breakthroughs/articleshow/128968200.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "6bca66826f2dda191df3351df35cf5ec6cdc1843"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Mar 3, 2026 Microsoft CEO Satya Nadella may have just agreed with Google DeepMind CEO Demis Hassabis on ‘next AI breakthroughs’ Leading AI figures Satya Nadella and Demis Hassabis believe the current AI era is not the final one, anticipating one or two more major breakthroughs. While scaling current models is crucial, they suggest new architectures, improved reasoning, and memory are needed for true Artificial General Intelligence, which Hassabis estimates is still five to ten years away.",
+            "bullets": [
+              "Two of the most powerful figures in artificial intelligence (AI) industry have signalled the same thing: the current era of AI is not the final one, and that it will take one of two more breakthroughs that can change the world entirely.",
+              "When asked whether meaningful breakthroughs still lie ahead beyond today's AI models, Nadella responded by saying that there isnât going to be one model that will change how things are.",
+              "âItâs not no longer just one transformer model,â Nadella said in a response while talking on the OMR Podcast.",
+              "It was all about pre-training scale.",
+              "Then it was about post- training, then we came up with reasoning, then we said, âOh, there's (Reinforcement Learning) RLâ.",
+              "âI always say that we are one sort of innovation away from the entire regime changing,â Nadella said, pointing to the possibility of a fundamentally new model architecture that could be far more efficient than anything available today."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
