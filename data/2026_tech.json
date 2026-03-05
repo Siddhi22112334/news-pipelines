@@ -207656,6 +207656,44 @@
             "impact": "Positive"
           }
         }
+      ],
+      "13:33": [
+        {
+          "item": {
+            "title": "Technology News Mar 5, 2026 Defense tech companies to employees: Stop using Anthropic's Claude, and it likely also means 'ban' from Lockheed Martin Defense contractors are rapidly removing Anthropic's Claude AI from their systems following a US government designation of the company as a supply chain risk. This decision effectively blacklists Anthropic from defense contracts, prompting firms like Lockheed Martin to cease using its technology.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/defense-tech-companies-to-employees-stop-using-anthropics-claude-and-it-likely-also-means-ban-from-lockheed-martin/articleshow/129075159.cms",
+            "site_name": "The Times of India",
+            "novelty_hash": "3c5830d6cfcb51dfa0bcff39c2e46c84359a6641"
+          },
+          "review": {
+            "headline_rewrite": "Technology News Mar 5, 2026 Defense tech companies to employees: Stop using Anthropic's Claude, and it likely also means 'ban' from Lockheed Martin Defense contractors are rapidly removing Anthropic's Claude AI from their systems following a US government designation of the company as a supply chain risk. This decision effectively blacklists Anthropic from defense contracts, prompting firms like Lockheed Martin to cease using its technology.",
+            "bullets": [
+              "Defense technology companies are now moving quickly to distance themselves from Athropicâs Claude AI assistant after the Trump administration designated the company a supply chain risk.",
+              "According to a report by CNBC, as a result, the firms working with the Department of Defense (DoD) are instructing employees to stop using Claude and switch to alternative AI models.",
+              "The report by Reuters revealed that the major defense contractors including Lockheed Martin are said to remove Anthropicâs technology from their supply chains.",
+              "Along with this, venture capital firm J2 Ventures confirmed that at least 10 of its portfolio companies have already started replacing Claude in defense related use cases.",
+              "âMost of our companies are actively involved in large defense contracts and so are very strict in their interpretation of the requirements,â said Alexander Harstrick, managing partner at J2 Ventures.",
+              "The company also insisted that it refused the demands of Pentagon to allow unrestricted use of its AI, particularly for autonomic weapons or domestic surveillance."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "AI News",
+            "link": "https://timesofindia.indiatimes.com/technology/artificial-intelligence",
+            "site_name": "The Times of India",
+            "novelty_hash": "4b13aad42bc8a647cfbf2fc0bb439ef7629a8baf"
+          },
+          "review": {
+            "headline_rewrite": "AI News",
+            "bullets": [
+              "Amazon devices chief Panos Panay shares ‘one of his favourite Fire TV features’ of Alexa+: How it works\nAmazon Devices Chief Panos Panay announced the launch of a new, AI-powered feature for Fire TV, enabling users to skip the search and jump directly to specific scenes in a movie using only voice commands.",
+              "Panay, expressing enthusiasm for the update, called it one of his \"favorite Fire TV features\" and a practical use of AI integrated seamlessly into the viewing experience."
+            ],
+            "impact": "Positive"
+          }
+        }
       ]
     }
   }
