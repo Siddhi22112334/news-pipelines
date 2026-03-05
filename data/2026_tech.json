@@ -208567,5 +208567,130 @@
         }
       ]
     }
+  },
+  "2026-03-06": {
+    "runs": {
+      "01:15": [
+        {
+          "item": {
+            "title": "Ask a Techspert: How does AI understand my visual searches?",
+            "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+            "site_name": "Google",
+            "novelty_hash": "0f07a6fd1dda533a7ba852f028ac2f9289bc1823"
+          },
+          "review": {
+            "headline_rewrite": "Ask a Techspert: How does AI understand my visual searches?",
+            "bullets": [
+              "Ask a Techspert: How does AI understand my visual searches?",
+              "In recent months, we’ve also launched several updates that enhance both visual search and image results in AI Mode, so you can better find inspiration as you search.",
+              "That means building a tool that can just as easily explain a complex math problem as it can identify a rare succulent or help you track down a pair of shoes you love.",
+              "Previously, you’d have to search for the lamp, then the rug, then the chair individually.",
+              "Now, AI Mode can break down that complex image, identify each individual piece and issue multiple visual searches simultaneously.",
+              "Our advanced Gemini models make AI Mode possible, and its multimodal capabilities benefit from the visual expertise we've built into Lens over the years."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Google says half of all zero-days it tracked in 2025 targeted buggy enterprise tech",
+            "link": "https://techcrunch.com/2026/03/05/google-says-half-of-all-zero-days-it-tracked-in-2025-targeted-buggy-enterprise-tech/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "761f8ee983e618e92f01990bbbe451dc4552baef"
+          },
+          "review": {
+            "headline_rewrite": "Google says half of all zero-days it tracked in 2025 targeted buggy enterprise tech",
+            "bullets": [
+              "According to the search and security giant’s annual report, 48% of the tracked zero-days — vulnerabilities in software that are unknown to its maker at the time they are exploited — were found in technologies used by corporations and large businesses.",
+              "Google said security and networking devices, such as firewalls made by Cisco and Fortinet, and VPN and virtualization platforms like Ivanti and VMware, were among the top targeted vendors last year.",
+              "All four of the companies said hackers have exploited their products on customer networks in recent months.",
+              "Google’s researchers said that hackers exploited common flaws, like input validation and incomplete authorization processes, to break through firewall and VPN defenses to gain access to customer networks.",
+              "The company also pointed to other buggy software that makes up the remaining half of enterprise zero-days.",
+              "Google noted the Clop extortion gang’s campaign against Oracle E-Business Suite customers, which allowed hackers to walk away with reams of human resources data from dozens of companies about their staff and executives."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+            "link": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "b23760cad277674c089a2304e99d2ad6114a6e9e"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+            "bullets": [
+              "On Thursday, OpenAI released GPT-5.4, a new foundation model billed as “our most capable and efficient frontier model for professional work.” In addition to the standard version, GPT-5.4 is also available as a reasoning model (GPT-5.4 Thinking) or optimized for high performance (GPT-5.4 Pro).",
+              "The API version of the model will be available with context windows as large as 1 million tokens, by far the largest context window available from OpenAI.",
+              "OpenAI also emphasized improved token efficiency, saying GPT-5.4 was able to solve the same problems with significantly fewer tokens than its predecessor.",
+              "The new model also scored a record 83% on OpenAI’s GDPval test for knowledge work tasks.",
+              "“[GPT-5.4] excels at creating long-horizon deliverables such as slide decks, financial models, and legal analysis,” Foody said in the statement, “delivering top performance while running faster and at a lower cost than competitive frontier models.”\nGPT-5.4 continues the company’s efforts to limit hallucinations and factual errors.",
+              "OpenAI said the new model was 33% less likely to make errors in individual claims when compared to GPT 5.2, and overall responses were 18% less likely to contain errors."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+            "site_name": "The Verge",
+            "novelty_hash": "922de0a364c9f7f92f5d736e3c6fe17e2888d4f1"
+          },
+          "review": {
+            "headline_rewrite": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+            "bullets": [
+              "OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations.",
+              "It’s also OpenAI’s first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.",
+              "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents\nThe latest model comes with native computer use capabilities, allowing it to take on jobs across your device and applications.",
+              "The new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software.",
+              "OpenAI introduced ChatGPT Agent amid a flurry of other agentic tools that emerged last year, which can take control of your computer to perform tasks, such as searching for and buying ingredients for a meal.",
+              "While OpenAI is bringing GPT-5.4 to its API and its AI-powered coding tool, Codex, it’s rolling out its reasoning model, GPT-5.4 Thinking, to ChatGPT."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date",
+            "link": "https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "9356efccbd47aa2e42194f9590c00d55ee6a354c"
+          },
+          "review": {
+            "headline_rewrite": "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date",
+            "bullets": [
+              "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date\nWhile designed to feed hummingbirds, you can use it to photograph, identify, and track all kinds of species using AI.",
+              "Although the feeder is designed for hummingbirds, when paired with its companion app, it can identify a wide range of species using AI and alert you when they arrive.",
+              "Using a motion-activated 2K camera, it can capture 5-megapixel stills, slow-motion clips, and HDR video, which it can then automatically save.",
+              "The camera can capture a bird’s finer details, while its wider field of view helps capture multiple birds in a single frame.",
+              "The solar roof also helps keep the camera’s battery topped up even when it’s cloudy outside, though you can always recharge it via USB-C if needed.",
+              "Most Popular\n- MacBook Neo versus an old MacBook Air: good luck\n- Our first hands-on look at Apple’s MacBook Neo\n- I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year\n- Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead\n- Google brings Android’s desktop mode to Pixel devices"
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Nerve damage, energy management, and Apple TV: F1 in 2026 starts today",
+            "link": "https://arstechnica.com/cars/2026/03/nerve-damage-energy-management-and-apple-tv-f1-in-2026-starts-today/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "ca83b7126ed80dcbb928b434f4c2f9bbd8e6dec3"
+          },
+          "review": {
+            "headline_rewrite": "Nerve damage, energy management, and Apple TV: F1 in 2026 starts today",
+            "bullets": [
+              "The cars are smaller and lighter, and they have different aerodynamic configurations for the corners and the straights.",
+              "The hybrid systems are more powerful, and each runs on its own bespoke sustainable fuel.",
+              "Drawing in more car companies, which have boards and shareholders to answer to, required acknowledging road relevance and some commitment to sustainability and decarbonization.",
+              "And the veneer of environmental responsibility arrives in the form of heavily audited, fully sustainable fuels.",
+              "The engines are still 1.6 L V6s and turbocharged, but those turbochargers no longer contain the hybrid system known as the MGU-H."
+            ],
+            "impact": "Negative"
+          }
+        }
+      ]
+    }
   }
 }
