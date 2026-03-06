@@ -92886,5 +92886,46 @@
         }
       ]
     }
+  },
+  "2026-03-07": {
+    "runs": {
+      "00:13": [
+        {
+          "item": {
+            "title": "Gold, silver rates today: Comex gold jumps $104/oz; silver gains $3.15 after US payrolls data",
+            "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-jumps-104-oz-silver-gains-3-15-after-us-payrolls-data-11772813032518.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold, silver rates today: Comex gold jumps $104/oz; silver gains $3.15 after US payrolls data",
+            "bullets": [
+              "The May silver futures contract, too, strengthened $3.15 per troy ounce to reach the day's high of $85.33.",
+              "However, hopes for interest-rate cuts have been complicated by surging oil prices amid escalating tensions in the Middle East, raising fears that the ongoing",
+              "In addition, strength in the dollar and Treasury yields has been standing in the way of gold reclaiming its place as a safe-haven asset",
+              "Fed policymakers will meet on March 18, where they are widely expected to hold rates steady, with the first rate cut widely expected in"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Axel Springer to buy UK’s Telegraph in £575m deal, Financial Times reports",
+            "link": "https://www.thehindubusinessline.com/news/world/axel-springer-to-buy-uks-telegraph-in-575m-deal-financial-times-reports/article70713415.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Axel Springer to buy UK’s Telegraph in £575m deal, Financial Times reports",
+            "bullets": [
+              "Axel Springer has agreed a 575 million pound ($766.30 million) deal for UK's Telegraph Media Group, the Financial Times reported on Friday, citing people",
+              "Telegraph and RedBird IMI did not immediately respond to Reuters' requests for comment.",
+              "Daily Mail-owner DMGT had struck a 500 million pound deal for Telegraph in November, but was facing regulatory scrutiny over public interest and competition"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }

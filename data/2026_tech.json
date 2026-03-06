@@ -210965,5 +210965,130 @@
         }
       ]
     }
+  },
+  "2026-03-07": {
+    "runs": {
+      "00:13": [
+        {
+          "item": {
+            "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+            "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+            "site_name": "Google",
+            "novelty_hash": "c9236330cc254469c14c820780080db78c1b36c9"
+          },
+          "review": {
+            "headline_rewrite": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+            "bullets": [
+              "How our open-source AI model SpeciesNet is helping to promote wildlife conservation\nThat's where SpeciesNet comes in.",
+              "SpeciesNet is an AI model trained to automatically identify nearly 2,500 categories of mammals, birds and reptiles.",
+              "We launched it as a free, open-source tool a year ago, and today, research groups are using it to make sense of their camera trap data faster than ever.",
+              "and Mexico but is still common in South America, and a puma (also known as a cougar or mountain lion).",
+              "Many of the species the institute monitors live in Colombia’s Amazon Rainforest, an extremely biodiverse region that is undergoing rapid changes.",
+              "The group recently expanded in launching Red Otus, a national-scale network that captures camera trap images on public and private land across the country."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+            "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "8dde3038c4d20784ffd2aefdf523902598319a5b"
+          },
+          "review": {
+            "headline_rewrite": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+            "bullets": [
+              "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance.",
+              "As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%.",
+              "As the stakes keep rising, the question remains: how much unrestricted access should the military have to an AI model?",
+              "Watch as Equity hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane break down what startups should know about chasing federal AI contracts, plus the week’s biggest tech stories, from Paramount’s Warner Bros.",
+              "deal and MyFitnessPal’s Cal AI acquisition to Pinterest’s $1B AI push, Anduril’s $60B valuation, and whether the “SaaSpocalypse” is real."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+            "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+            "site_name": "TechCrunch",
+            "novelty_hash": "0aa627bdb39f045244157941832c16e288d60308"
+          },
+          "review": {
+            "headline_rewrite": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+            "bullets": [
+              "Claude’s daily active users are on the rise on mobile devices, as are its new app installs, following the company’s fallout with the Pentagon.",
+              "After Anthropic CEO Dario Amodei refused to allow the government to use its AI systems for mass surveillance of Americans or to power fully autonomous weapons, the AI model provider behind Claude was marked as a supply-chain risk.",
+              "The most recent figures from March 2 show Claude with 149,000 daily downloads, compared with 124,000 for ChatGPT, the company’s estimates indicate.",
+              "On that front, another market intelligence provider, Similarweb, found that Claude’s app on iOS and Android devices saw 11.3 million daily active users on March 2, up 183% from the start of the year when usage was around 4 million, and up from 5 million daily active users at the beginning of February.",
+              "Claude’s growth put it ahead of other AI apps by daily active users, like Perplexity and Microsoft Copilot, but not other top rivals like ChatGPT.",
+              "Of course, ChatGPT still dominates the market by a significant factor, as its daily active users on March 2 were 250.5 million across iOS and Android."
+            ],
+            "impact": "Positive"
+          }
+        },
+        {
+          "item": {
+            "title": "You can already save up to $50 on the new M4 iPad Air",
+            "link": "https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale",
+            "site_name": "The Verge",
+            "novelty_hash": "2f530de95711fa6cb452fd6a35129059ba280c15"
+          },
+          "review": {
+            "headline_rewrite": "You can already save up to $50 on the new M4 iPad Air",
+            "bullets": [
+              "It also unveiled the M4-powered iPad Air, which is already receiving a preorder discount ahead of its March 11th debut.",
+              "Right now, the 128GB / Wi-Fi model is available at Amazon, Best Buy, and Walmart starting at $559 ($40 off), while the LTE config is selling for $709 ($40 off) at Best Buy.",
+              "You can already save up to $50 on the new M4 iPad Air\nWe also have an exclusive discount on Garmin’s Forerunner 265, just for Verge readers.",
+              "The larger 13-inch variant, meanwhile, can be found at the same retailers, including Amazon and Walmart, in its base configuration with Wi-Fi and 128GB of storage starting at $749 ($50 off).",
+              "Admittedly, the new iPad Airs aren’t drastically different from their predecessors, but they do stand out due to their performance gains.",
+              "They now run on Apple’s M4 chip, which Apple says makes them up to 30 percent faster (and over twice as fast as the M1 Air from 2020)."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "When AI Companies Go to War, Safety Gets Left Behind",
+            "link": "https://www.wired.com/story/when-ai-companies-go-to-war-safety-gets-left-behind/",
+            "site_name": "WIRED",
+            "novelty_hash": "600ccfc939fed44c0c9e5cb634e7d60a3f2fc5b0"
+          },
+          "review": {
+            "headline_rewrite": "When AI Companies Go to War, Safety Gets Left Behind",
+            "bullets": [
+              "I’ve spent the past few days asking AI companies to convince me that the prospects for AI safety have not dimmed.",
+              "Just a few years ago, it seemed that there was universal agreement among companies, legislators, and the general public that serious regulation and oversight of AI was not just necessary, but inevitable.",
+              "People speculated about international bodies setting rules to insure that AI would be treated more seriously than other emerging technologies, and that could at least provide obstacles to its most dangerous implementations.",
+              "While doomers still spun dystopic scenarios, a global consensus was forming to limit AI risks while reaping its benefits.",
+              "All parties agree that the existing contract between the two used to specify—at Anthropic's insistence—that the Department of Defense (which now tellingly refers to itself as the Department of War) won’t use Anthropic’s Claude AI models for autonomous weapons or mass surveillance of Americans.",
+              "Now, the Pentagon wants to erase those red lines, and Anthropic’s refusal has not only resulted in the end of its contract, but also prompted Secretary of Defense Pete Hegseth to declare the company a supply-chain risk, a designation that prevents government agencies from doing business with Anthropic."
+            ],
+            "impact": "Negative"
+          }
+        },
+        {
+          "item": {
+            "title": "Americans trust Fauci over RFK Jr. and career scientists over Trump officials",
+            "link": "https://arstechnica.com/health/2026/03/americans-trust-fauci-over-rfk-jr-and-career-scientists-over-trump-officials/",
+            "site_name": "Ars Technica",
+            "novelty_hash": "65728d87e77445926dcdb7861fc6052260fa3da7"
+          },
+          "review": {
+            "headline_rewrite": "Americans trust Fauci over RFK Jr. and career scientists over Trump officials",
+            "bullets": [
+              "has worked hard to villainize infectious disease expert Anthony Fauci, even writing a conspiracy-laden book lambasting the former director of the National Institute of Allergy and Infectious Diseases.",
+              "In a nationally representative survey conducted in February by the Annenberg Public Policy Center at the University of Pennsylvania, 54 percent of respondents said they had confidence in Fauci, while only 38 percent had confidence in Kennedy.",
+              "Breaking those supporters down further, 25 percent of respondents said they were “very confident” in Fauci, while only 9 percent said the same for Kennedy.",
+              "Among federal agencies, 67 percent said they had confidence in career scientists at the Centers for Disease Control and Prevention, the Food and Drug Administration, and the National Institutes of Health.",
+              "But only 43 percent said they had confidence in the leaders of those agencies.",
+              "Oz,” Ken Winneg, APPC’s managing director of survey research, said in a statement."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
