@@ -94158,7 +94158,27 @@
   },
   "2026-03-08": {
     "runs": {
-      "00:03": []
+      "00:03": [],
+      "00:31": [
+        {
+          "item": {
+            "title": "Dow Jones, S&P 500, Nasdaq, KOSPI, Nifty 50: How the indices fared during major wars and why it’s different this time",
+            "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/dow-jones-sampp-500-nasdaq-kospi-nifty-50-how-the-indices-fared-during-major-wars-and-why-its-different-this-time/article70716521.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dow Jones, S&P 500, Nasdaq, KOSPI, Nifty 50: How the indices fared during major wars and why it’s different this time",
+            "bullets": [
+              "We analysed this in the context of two major wars in the 21st century that involved crude oil spiking severely—the US-Iraq war of 2003",
+              "In the short term (one-week), if your guess is: oil and dollar gain while equities plunge, you would be largely right.",
+              "As crude raced to $115 a barrel from $95, the US government announced release of strategic oil reserves, which could have comforted the market.",
+              "Oil had hit a peak of $35 a barrel a few days before US invaded Iraq and had increased 52 per cent in the"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
