@@ -96768,6 +96768,42 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:04": [
+        {
+          "item": {
+            "title": "Wall St slips as crude price surge fuels inflation fears, tech bounces back",
+            "link": "https://www.livemint.com/market/wall-st-slips-as-crude-price-surge-fuels-inflation-fears-tech-bounces-back-11773081540148.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall St slips as crude price surge fuels inflation fears, tech bounces back",
+            "bullets": [
+              "* Indexes down: Dow 0.96%, S&P 500 0.56%, Nasdaq 0.20% * Chip stocks rebound, limiting Nasdaq's slide * Small-caps Russell 2000 slips over 1.2%",
+              "equity indexes tumbled more than 1% in early trading, but pared losses as they struggled to regain their footing in the wake of the",
+              "Tech shares rebounded with a boost from microchips , which helped limit the Nasdaq's losses.",
+              "Oil prices reached their highest levels since mid-2022 due to constricted supply arising from shipping disruptions as the U.S.-Israeli war on Iran entered its"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "US weighs easing Russian oil sanctions to cool global price surge, sources say",
+            "link": "https://www.thehindubusinessline.com/news/us-weighs-easing-russian-oil-sanctions-to-cool-global-price-surge-sources-say/article70724009.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US weighs easing Russian oil sanctions to cool global price surge, sources say",
+            "bullets": [
+              "The Trump administration is weighing further easing sanctions on Russian oil to help cool a surge in global energy prices, according to three sources",
+              "efforts to deprive Moscow of revenue for its war in Ukraine."
+            ],
+            "impact": "Bullish"
+          }
+        }
       ]
     }
   }
