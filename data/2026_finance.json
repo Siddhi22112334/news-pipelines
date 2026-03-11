@@ -99644,7 +99644,43 @@
       ],
       "03:04": [],
       "03:31": [],
-      "04:02": []
+      "04:02": [],
+      "04:25": [
+        {
+          "item": {
+            "title": "Oil Extends Advance as Iran Rhetoric Outweighs Release Plan",
+            "link": "https://www.livemint.com/market/oil-extends-advance-as-iran-rhetoric-outweighs-release-plan-11773269301767.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil Extends Advance as Iran Rhetoric Outweighs Release Plan",
+            "bullets": [
+              "(Bloomberg) -- Oil advanced a second day following another volatile session as escalating rhetoric over the Iran war raised concerns over a prolonged conflict,",
+              "Oil briefly fell on Wednesday after the International Energy Agency agreed to an unprecedented release of 400 million barrels, surpassing even the drawdown following",
+              "The near-closure of Hormuz, through which a fifth of global oil typically flows, has led to major Gulf producers cutting output and driven up",
+              "The fallout from the war, which is in its second week, has raised concerns about an inflation crisis."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "US war on Iran costs estimated $11.3 billion in six days",
+            "link": "https://www.thehindubusinessline.com/news/world/us-war-on-iran-costs-estimated-113-billion-in-six-days/article70732817.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US war on Iran costs estimated $11.3 billion in six days",
+            "bullets": [
+              "military stocks at a time when the defense industry was already struggling to keep up with demand.",
+              "Trump met executives from seven defense contractors last week as the Pentagon worked to replenish supplies."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
