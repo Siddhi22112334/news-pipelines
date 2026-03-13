@@ -101928,5 +101928,63 @@
         }
       ]
     }
+  },
+  "2026-03-14": {
+    "runs": {
+      "00:11": [
+        {
+          "item": {
+            "title": "Wall St drops, set for weekly loss as war on Iran fuels inflation worries",
+            "link": "https://www.livemint.com/market/wall-st-drops-set-for-weekly-loss-as-war-on-iran-fuels-inflation-worries-11773427022756.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall St drops, set for weekly loss as war on Iran fuels inflation worries",
+            "bullets": [
+              "(Updates to mid-afternoon trading) * Indexes down: Dow off 0.07%, S&P 500 down 0.47%, Nasdaq drops 0.97% * Q4 GDP slashed in half, PCE",
+              "President Donald Trump temporarily eased sanctions on Russian oil in an effort to ease supply concerns.",
+              "\"Tell me what oil prices will do today and I will tell you what stocks will do today,\" said Peter Cardillo, chief market economist",
+              "\"(Stocks) have had some steep declines, but in some cases they cut most of the earlier losses or even reversed in some cases.\" \"I"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "SEBI slaps  ₹10 lakh fine on Anand Rathi Share and Stock Brokers for cybersecurity violations",
+            "link": "https://www.livemint.com/market/stock-market-news/sebi-slaps-rs-10-lakh-fine-on-anand-rathi-share-and-stock-brokers-for-cybersecurity-violations-11773422089057.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "SEBI slaps  ₹10 lakh fine on Anand Rathi Share and Stock Brokers for cybersecurity violations",
+            "bullets": [
+              "Anand Rathi Share and Stock Brokers Limited, the brokerage arm of Anand Rathi, in its regulatory filing on 13 March, informed investors that the",
+              "The company said that SEBI, through an email communication dated 13 March 2026, informed it about the penalty in connection with an inspection conducted",
+              "According to the disclosure, the observations related to multiple areas, including capacity planning, business continuity planning (BCP), disaster recovery site (DRS) policy, password policy,",
+              "After examining the inspection findings, the markets regulator's adjudicating officer concluded that multiple violations of SEBI's norms and stockbrokers' regulations were established."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "India to receive two LPG cargoes via Strait of Hormuz soon",
+            "link": "https://www.thehindubusinessline.com/markets/commodities/india-to-receive-two-lpg-cargoes-via-strait-of-hormuz-soon/article70740895.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India to receive two LPG cargoes via Strait of Hormuz soon",
+            "bullets": [
+              "Expressed deep concern over the escalation of tensions and the loss of civilian lives as well as damage to civilian infrastructure,” PM said on",
+              "We believe that Iran and India share common interests in the region...” Iranian official emphasises global diplomacy On Iran allowing Indian ships to transit"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
