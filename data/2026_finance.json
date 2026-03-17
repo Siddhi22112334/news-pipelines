@@ -106073,5 +106073,47 @@
         }
       ]
     }
+  },
+  "2026-03-18": {
+    "runs": {
+      "00:35": [
+        {
+          "item": {
+            "title": "Lululemon Athletica stock gains 1.48% as investors expect CEO announcement, Q4 earnings in focus",
+            "link": "https://www.livemint.com/market/stock-market-news/lululemon-athletica-stock-gains-1-48-as-investors-expect-ceo-announcement-q4-earnings-in-focus-11773767910173.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Lululemon Athletica stock gains 1.48% as investors expect CEO announcement, Q4 earnings in focus",
+            "bullets": [
+              "Wall Street analysts forecast earnings per share (EPS) of $4.79 on $3.58 billion in revenue.",
+              "Despite this significant pullback, the analyst consensus remains a \"Hold,\" with a mean price target of $205.88 suggesting a 29% potential upside.",
+              "While earnings estimates have seen modest upward revisions over the last 60 days, revenue expectations have trended slightly lower.",
+              "Elliott Investment Management, holding a stake exceeding $1 billion, has reportedly floated former Ralph Lauren executive Jane Nielsen as a candidate."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Wall Street climbs as traders focus on Fed",
+            "link": "https://www.livemint.com/market/wall-street-climbs-as-traders-focus-on-fed-11773772473494.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street climbs as traders focus on Fed",
+            "bullets": [
+              "(Updates with US afternoon trading) * Fed expected to keep rates unchanged * Financials rebound from prior losses * Delta and American raise revenue",
+              "Airlines and travel stocks rebounded from losses in recent weeks related to the U.S.",
+              "Delta Air Lines rallied 6.9% and American Airlines Group climbed 3.4% after both companies raised their revenue guidance for the current quarter.",
+              "FED POLICYMAKERS WEIGH INFLATION CONCERNS Concerns of prolonged supply disruptions due to the closure of the Strait of Hormuz shipping route have kept crude"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
