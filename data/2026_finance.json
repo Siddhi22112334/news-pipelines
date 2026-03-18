@@ -107144,5 +107144,64 @@
         }
       ]
     }
+  },
+  "2026-03-19": {
+    "runs": {
+      "00:29": [
+        {
+          "item": {
+            "title": "US Fed keeps rates unchanged for second straight meeting at 3.5%–3.75%; signals one rate cut this year: 5 key takeaways",
+            "link": "https://www.livemint.com/market/stock-market-news/us-fed-keeps-rates-unchanged-for-second-straight-meeting-at-3-5-3-75-signals-one-rate-cut-this-year-5-key-takeaways-11773855402186.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US Fed keeps rates unchanged for second straight meeting at 3.5%–3.75%; signals one rate cut this year: 5 key takeaways",
+            "bullets": [
+              "The US Federal Reserve announced its second monetary policy decision for 2026 after a two-day Federal Open Market Committee (FOMC) meeting, keeping its benchmark",
+              "The decision was widely expected amid uncertain outlook driven by ongoing tensions in the Middle East, which have pushed energy prices to multi-year highs,",
+              "Prior to the Middle East war, the inflation had remained well above the Fed's target at 2.4%.",
+              "In a statement, the central bank said that the “implications of developments in the Middle East for the US economy are uncertain.” Policymakers expect"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Coal India arm CMPDIL mobilises ₹470 crore; IPO opens March 20",
+            "link": "https://www.thehindubusinessline.com/markets/stock-markets/coal-india-arm-cmpdil-mobilises-470-crore-ipo-opens-march-20/article70759363.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Coal India arm CMPDIL mobilises ₹470 crore; IPO opens March 20",
+            "bullets": [
+              "Life Insurance Corporation (LIC), Nippon India Mutual Fund (MF), Edelweiss MF, ICICI Prudential MF, Baring Private Equity India Fund, General Insurance Corporation of India",
+              "IPO to open on March 20; price band at Rs 163–172 CMPDIL’s Rs 1,842-crore initial public offering (IPO) will open for subscription on March",
+              "Strong financials; listing slated for March 30 Its revenue from operations was Rs 2,103 crore and net profit at Rs 667 crore during FY25.",
+              "Earlier, Bharat Coking Coal (BCCL), another subsidiary of Coal India, came out with its Rs 1,071-crore IPO in January."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Advance tax collections rise 6% in FY26 despite fall in non-corporate taxes",
+            "link": "https://www.thehindubusinessline.com/economy/advance-tax-collection-grew-by-642-in-fy26/article70759159.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Advance tax collections rise 6% in FY26 despite fall in non-corporate taxes",
+            "bullets": [
+              "“While the growth in advance tax for corporate taxes appears relatively healthy, we are watchful of the unfolding impact of the West Asia crisis",
+              "Direct tax collections remain steady Refund payouts contract From April 1 to March 16, growth in refund payouts was negative.",
+              "“Refunds continue to show contraction over the previous year, primarily driven by automated scrutiny designed to reduce fraudulent claims."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
