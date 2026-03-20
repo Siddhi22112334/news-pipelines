@@ -109728,5 +109728,47 @@
         }
       ]
     }
+  },
+  "2026-03-21": {
+    "runs": {
+      "00:17": [
+        {
+          "item": {
+            "title": "Nasdaq-listed T3 Defense stock crashes below $1 as selling intensifies; down 59% in March so far",
+            "link": "https://www.livemint.com/market/stock-market-news/nasdaqlisted-t3-defense-stock-crashes-below-1-as-selling-intensifies-down-59-in-march-so-far-11774027403440.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Nasdaq-listed T3 Defense stock crashes below $1 as selling intensifies; down 59% in March so far",
+            "bullets": [
+              "The sell-off in Nasdaq-listed T3 Defense, a defence-focused platform company acquires and scales mission-critical defence businesses in the United States and Israel, has further",
+              "Defence stocks generally witness strong demand during periods of geopolitical tension, but investors have largely avoided T3 Defense on Wall Street, leading to a",
+              "T3 Defense, formerly Nukkleus Inc., is a federated holding company focused on acquiring and operating mission-critical defence businesses embedded in long-cycle national security programmes.",
+              "It targets defence businesses operating at constrained, qualification-driven, or execution-critical points across the industrial base, where strategic value exists and where qualification, capacity, and"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Gold falls 1.8% after report of US sending more troops to Middle East",
+            "link": "https://www.livemint.com/market/gold-falls-1-8-after-report-of-us-sending-more-troops-to-middle-east-11774031919782.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold falls 1.8% after report of US sending more troops to Middle East",
+            "bullets": [
+              "* US dollar and Treasury yields extend gains * Silver, platinum and palladium head for weekly fall By Ashitha Shivaprasad March 20 - Gold",
+              "Treasury yields extended gains after a Reuters report, citing three U.S.",
+              "Iran's prolonged blockade of the Strait of Hormuz could keep energy prices elevated and fuel inflation.",
+              "Gold is considered a hedge against inflation and uncertainty, but higher interest rates curb the non-yielding asset's appeal."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
