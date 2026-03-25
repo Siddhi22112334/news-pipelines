@@ -115162,5 +115162,47 @@
         }
       ]
     }
+  },
+  "2026-03-26": {
+    "runs": {
+      "00:27": [
+        {
+          "item": {
+            "title": "Arm Holdings stock rallies over 19% after unveiling AI chips with Meta Platforms as lead customer",
+            "link": "https://www.livemint.com/market/stock-market-news/arm-holdings-stock-rallies-over-19-after-unveiling-ai-chips-with-meta-platforms-as-lead-customer-11774456020031.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Arm Holdings stock rallies over 19% after unveiling AI chips with Meta Platforms as lead customer",
+            "bullets": [
+              "The move is projected to generate approximately $15 billion in annual revenue within five years.",
+              "(TSMC) has been contracted to produce the silicon.",
+              "The company anticipates that revenue from this direct-to-market chip business will eventually surpass sales from its traditional operations, which center on licensing intellectual property.",
+              "While the core IP division is projected to continue its growth, reaching $10 billion by that period, the move into finished hardware allows Arm"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Super Micro Computer shares jump another 9%, recover 18% in three sessions after sell-off over AI chip smuggling  probe",
+            "link": "https://www.livemint.com/market/stock-market-news/super-micro-computer-shares-jump-another-9-recover-18-in-three-sessions-after-steep-selloff-11774458159530.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Super Micro Computer shares jump another 9%, recover 18% in three sessions after sell-off over AI chip smuggling  probe",
+            "bullets": [
+              "Shares of Super Micro Computer, a developer of modular server and storage solutions, are attempting to recover from recent losses, as the stock surged",
+              "This marks the third consecutive session of gains, taking the cumulative rise to nearly 18%.",
+              "According to Bloomberg data, the company accounts for nearly 9% of Nvidia’s revenue.",
+              "Although the stock has seen a recent rebound, it remains down 26.4% so far in March, while year-to-date losses stand at 18.5%."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
