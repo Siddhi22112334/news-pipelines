@@ -115203,7 +115203,45 @@
           }
         }
       ],
-      "01:18": []
+      "01:18": [],
+      "02:10": [
+        {
+          "item": {
+            "title": "Dollar firms as markets weigh Iran diplomacy",
+            "link": "https://www.livemint.com/market/dollar-firms-as-markets-weigh-iran-diplomacy-11774470399273.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar firms as markets weigh Iran diplomacy",
+            "bullets": [
+              "import prices post biggest rise in nearly four years (Updates to US afternoon trading) By Laura Matthews NEW YORK, March 25 (Reuters) - The",
+              "proposal to end the conflict, despite an initially negative response, stopping short of rejecting it outright.",
+              "import prices posted their biggest rise in nearly four years in February, reinforcing signs that inflation pressures are building.",
+              "Sterling found little support earlier from data showing British consumer price inflation held at an annual rate of 3% in February, unchanged from January's"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Weak US five-year auction points to shaky investor interest",
+            "link": "https://www.livemint.com/market/weak-us-five-year-auction-points-to-shaky-investor-interest-11774470274811.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Weak US five-year auction points to shaky investor interest",
+            "bullets": [
+              "* US five-year auction bid-to-cover is lowest since September 2022 * Primary dealers share hits highest since May 2024 * Auctions falter despite re-pricing",
+              "Treasury sale met with lackluster demand, renewing doubts about investor appetite for government securities as the Iran war has driven up oil prices and",
+              "Since the last auction in February, five-year yields have climbed 40 basis points, as the market has pared back expectations for interest-rate cuts this",
+              "The auction priced at 3.98%, higher than the rate expected at the bid deadline, indicating that investors demanded additional yield to absorb the supply."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
