@@ -116082,5 +116082,47 @@
         }
       ]
     }
+  },
+  "2026-03-27": {
+    "runs": {
+      "00:35": [
+        {
+          "item": {
+            "title": "Crude oil prices spike over 5% as conflicting US-Iran signals cloud ceasefire prospects",
+            "link": "https://www.livemint.com/market/stock-market-news/crude-oil-prices-spike-over-5-as-conflicting-us-iran-signals-cloud-ceasefire-prospects-11774543330917.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Crude oil prices spike over 5% as conflicting US-Iran signals cloud ceasefire prospects",
+            "bullets": [
+              "Crude oil prices resumed their upward trajectory in Thursday’s trade (26 March) as traders grew increasingly sceptical about the prospects of a ceasefire between",
+              "After a brief pullback in recent sessions, oil prices regained momentum as geopolitical tensions intensified.",
+              "Iran has effectively shut the critical passage, through which nearly one-fifth of the world’s oil supply flows, in response to US and Israeli strikes.",
+              "Since the conflict escalated on 28 February, tanker movement through the Strait of Hormuz has nearly come to a halt, severely disrupting global oil"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Semiconductor stocks sink as Google’s new AI tech threatens memory demand - Micron drops 4.82%, Sandisk tanks 8.35%",
+            "link": "https://www.livemint.com/market/stock-market-news/semiconductor-stocks-sink-as-google-s-new-ai-tech-threatens-memory-demand-micron-drops-4-82-sandisk-tanks-835-11774543402309.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Semiconductor stocks sink as Google’s new AI tech threatens memory demand - Micron drops 4.82%, Sandisk tanks 8.35%",
+            "bullets": [
+              "According to Google, its TurboQuant algorithm can diminish the memory capacity required for operating large language models by a factor of six, significantly lowering",
+              "Stock Market Reaction Consequently, shares of chipmakers Micron Technology Inc tumbled 4.82%, Western Digital Corp.",
+              "Memory manufacturers had previously experienced a massive rally as intense investment in AI hardware caused supply deficits, resulting in a surge in both chip",
+              "“If models can run with materially lower memory requirements without losing performance, the cost of serving each query drops meaningfully, resulting in more profitable"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
