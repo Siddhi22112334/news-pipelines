@@ -119683,5 +119683,46 @@
         }
       ]
     }
+  },
+  "2026-03-31": {
+    "runs": {
+      "01:08": [
+        {
+          "item": {
+            "title": "Brent oil climbs, as European stocks, Wall Street index gain",
+            "link": "https://www.livemint.com/market/brent-oil-climbs-as-european-stocks-wall-street-index-gain-11774897740183.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Brent oil climbs, as European stocks, Wall Street index gain",
+            "bullets": [
+              "* Gulf peace talks uncertain as US builds up troopsEuropean stocks up end higher after Asia declines * Brent crude extends gains * Aluminium",
+              "Treasury prices rose, with yields declining across the curve as mounting global growth concerns eclipsed inflation worries.",
+              "attacks on Iranian oil wells and power plants.",
+              "central bank can wait to see how the Iran war affects the economy and inflation, noting that policymakers typically look through shocks such as"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Senator Queries SEC on Crypto After Enforcement Head Quits",
+            "link": "https://www.livemint.com/market/senator-queries-sec-on-crypto-after-enforcement-head-quits-11774898298153.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Senator Queries SEC on Crypto After Enforcement Head Quits",
+            "bullets": [
+              "White House counsel David Warrington said in an emailed statement the president had no involvement in business deals that would implicate his constitutional responsibilities.",
+              "Document Demand The SEC’s pullback on crypto enforcement coincides with Trump’s pledge to make the US the “crypto capital” of the world, as digital",
+              "(Updates with comment from White House counsel in the fourth paragraph.) ©2026 Bloomberg L.P."
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
