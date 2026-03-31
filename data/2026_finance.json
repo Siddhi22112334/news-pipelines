@@ -120468,5 +120468,46 @@
         }
       ]
     }
+  },
+  "2026-04-01": {
+    "runs": {
+      "00:33": [
+        {
+          "item": {
+            "title": "Five beaten-down railway stocks to watch",
+            "link": "https://www.livemint.com/market/stock-market-news/rvnl-ircon-ramkrishna-forging-titagarh-rail-texmaco-railway-stocks-11774868577702.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Five beaten-down railway stocks to watch",
+            "bullets": [
+              "This creates a steady pipeline of orders across segments, from rolling stock to EPC and signalling.",
+              "As of 31 December 2025, Texmaco's order book stood at a robust ₹5,660 crore.",
+              "The initiative is designed to reduce the inherent cyclicality of the freight wagon business by diversifying revenue streams and building a more stable earnings",
+              "The FMP wagon has started generating revenue, and the CMP is expected to see heavy market demand."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Gold has plummeted since Iran war began. Why it could climb 35% by July.",
+            "link": "https://www.livemint.com/market/commodities/gold-has-plummeted-since-iran-war-began-why-it-could-climb-35-by-july-11774974132943.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold has plummeted since Iran war began. Why it could climb 35% by July.",
+            "bullets": [
+              "Gold hasn’t been much of a safe haven during the Iran war and the resulting energy shock, but its March slump may just be",
+              "Rising energy prices have increased the probability of either interest rate hikes or delayed cuts by central banks wary of inflation, UBS noted.",
+              "Higher rates make yield-bearing assets like Treasury bonds more attractive at the expense of gold."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
