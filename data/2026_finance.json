@@ -121322,5 +121322,29 @@
         }
       ]
     }
+  },
+  "2026-04-02": {
+    "runs": {
+      "01:10": [
+        {
+          "item": {
+            "title": "Dollar falls against Swiss franc and euro as Middle East ceasefire hopes rise",
+            "link": "https://www.livemint.com/market/dollar-falls-against-swiss-franc-and-euro-as-middle-east-ceasefire-hopes-rise-11775071695248.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar falls against Swiss franc and euro as Middle East ceasefire hopes rise",
+            "bullets": [
+              "The euro edged up 0.27% versus the dollar to $1.1584, on track for the second consecutive session of gains.",
+              "Still, attacks continued to take place on multiple fronts on Wednesday, with drones hitting fuel tanks at Kuwait's international airport, while Qatar said an",
+              "Oil prices slid, with Brent crude futures falling 2.7% to settle at $101.16.",
+              "\"You might have a short-term increase in inflation but because this is a supply shock, it will eventually manifest itself in slower economic growth,\""
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
