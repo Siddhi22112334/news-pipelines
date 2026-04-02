@@ -122358,5 +122358,65 @@
         }
       ]
     }
+  },
+  "2026-04-03": {
+    "runs": {
+      "00:28": [
+        {
+          "item": {
+            "title": "Wall Street inches lower as investors assess Middle East developments",
+            "link": "https://www.livemint.com/market/wall-street-inches-lower-as-investors-assess-middle-east-developments-11775155888475.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street inches lower as investors assess Middle East developments",
+            "bullets": [
+              "stocks pared early losses on Thursday as oil prices pulled back from session highs after diplomatic moves raised some hopes of easing tensions in",
+              "Stocks had opened lower amid rising oil prices following remarks from U.S.",
+              "Utilities, which tend to offer steady earnings and dividends, rose about 0.5%, while consumer staples — makers of everyday necessities — gained nearly 0.4%,",
+              "Global Investors, said investors were optimistic about the global economy not being in a recession and a gradual fall in oil prices heading into"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "India’s share in global market cap slips to 3% in March amid Middle East war concerns: Report",
+            "link": "https://www.livemint.com/market/stock-market-news/indias-share-in-global-market-cap-slips-to-3-in-march-amid-middle-east-war-concerns-report-11775122879611.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India’s share in global market cap slips to 3% in March amid Middle East war concerns: Report",
+            "bullets": [
+              "The sustained rise in crude oil prices throughout March, triggered by escalating tensions in the Middle East, has heightened fears of prolonged inflation and",
+              "These outflows have not only impacted equities but have also put pressure on the rupee, which slipped to an all-time low of 95 against",
+              "India remains highly vulnerable to rising crude oil prices, as it imports nearly 85% of its oil requirements.",
+              "A sharp spike in prices could fuel inflation and dent the earnings of companies that rely heavily on crude oil as a key raw"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "IndianOil boosts auto LPG supply in Karnataka amid surge in demand",
+            "link": "https://www.thehindubusinessline.com/news/national/indianoil-boosts-auto-lpg-supply-in-karnataka-amid-surge-in-demand/article70817157.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "IndianOil boosts auto LPG supply in Karnataka amid surge in demand",
+            "bullets": [
+              "Indian Oil Corporation Limited has scaled up its Auto LPG supplies across Karnataka in response to a surge in demand, particularly following the closure",
+              "IndianOil is currently meeting the fuel requirements of auto rickshaws and LPG-driven vehicles through its network of 55 Auto LPG Dispensing Stations (ALDS) spread",
+              "“Despite the increased operational load on our infrastructure, IndianOil has made concerted efforts to ensure uninterrupted supply and efficient service delivery to LPG-powered vehicles",
+              "Average daily sales at IndianOil’s ALDS in Karnataka have risen sharply to 59.53 metric tonnes (MT), compared to the previous three-month average of 43.4"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
