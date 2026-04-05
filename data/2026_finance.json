@@ -124714,6 +124714,43 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "21:32": [
+        {
+          "item": {
+            "title": "Gulf crisis diverts 200-500 MW data centre capacity demand towards India",
+            "link": "https://www.thehindubusinessline.com/info-tech/gulf-crisis-diverts-200-500-mw-data-centre-capacity-demand-towards-india/article70825920.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gulf crisis diverts 200-500 MW data centre capacity demand towards India",
+            "bullets": [
+              "In addition cloud providers are also receiving requests to contract more GPU (graphics processing unit) capacity.",
+              "Big inquirires from the Middle East are in a particular rush to close contract.",
+              "“Since data centres cannot be opened and closed on an ad-hoc basis like offices, these contracts have long-term implications.",
+              "Strategic leverage Companies also have an option of migrating workloads to data centres in Europe or the US."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Below the line",
+            "link": "https://www.thehindubusinessline.com/opinion/below-the-line/article70827371.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Below the line",
+            "bullets": [
+              "India walked in saying it needed to re-consider the extension as the moratorium leads to significant revenue loss, especially since “e-transmission” remains vaguely defined",
+              "To avoid being singled out as a spoiler, India quietly fell in line with the 2030 extension, leaving the harder resistance to Brazil and",
+              "But India is firm about not joining plurilaterals till proper “guardrails” are in place to protect policy space."
+            ],
+            "impact": "Bearish"
+          }
+        }
       ]
     }
   }
