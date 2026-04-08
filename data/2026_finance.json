@@ -127472,5 +127472,47 @@
         }
       ]
     }
+  },
+  "2026-04-09": {
+    "runs": {
+      "01:20": [
+        {
+          "item": {
+            "title": "Treasuries Waver as Iranian Official Says Ceasefire Violated",
+            "link": "https://www.livemint.com/market/treasuries-waver-as-iranian-official-says-ceasefire-violated-11775676444659.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Treasuries Waver as Iranian Official Says Ceasefire Violated",
+            "bullets": [
+              "(Bloomberg) -- Treasuries wavered between gains and losses, erasing most of an earlier rally, after an Iranian official said the ceasefire deal with the",
+              "US government debt had gained overnight, and traders slightly increased their wagers on a Federal Reserve interest-rate cut this year, after the announcement on",
+              "Oil remained lower by more than 10%, but the benchmark two-year Treasury note, the coupon that’s most attuned to expectations for Fed policy, erased",
+              "Optimism for an eventual peace deal helped to relieve some concern surrounding an oil-driven surge in global inflation and its impact on the path"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Short Sellers Squeezed Hard as Avis Shares Rocket 150%",
+            "link": "https://www.livemint.com/market/short-sellers-squeezed-hard-as-avis-shares-rocket-150-11775677126619.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Short Sellers Squeezed Hard as Avis Shares Rocket 150%",
+            "bullets": [
+              "Avis shares soared more than 150% in the past three weeks after Pentwater Capital Management said it acquired a sizable stake in the rental-car",
+              "S3 Managing Director Ihor Dusaniwsky says he is watching to see whether traders betting against the shares will keep holding on or cut their",
+              "dramatically higher in just a few days, saddling hedge funds including Melvin Capital with huge losses.",
+              "By the end of March, Pentwater’s stake in Avis totaled 22%, according to a separate filing this week."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
