@@ -128375,5 +128375,45 @@
         }
       ]
     }
+  },
+  "2026-04-10": {
+    "runs": {
+      "00:40": [
+        {
+          "item": {
+            "title": "Wall Street rallies as ongoing Middle East peace negotiations boost sentiment",
+            "link": "https://www.livemint.com/market/wall-street-rallies-as-ongoing-middle-east-peace-negotiations-boost-sentiment-11775760104813.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street rallies as ongoing Middle East peace negotiations boost sentiment",
+            "bullets": [
+              "(Updates to mid-afternoon trading) * Indexes up: Dow 0.65%, S&P 500 0.50%, Nasdaq 0.57% * S&P 500 breaks back above 100-day, 200-day moving averages",
+              "Crude prices seesawed throughout the session as markets waited for Iran to reopen the Strait of Hormuz, through which one-fifth of the world's oil",
+              "The CBOE Market Volatility Index, called the \"fear index,\" dipped to its lowest point since the onset of the war.",
+              "The Commerce Department issued its GDP and PCE reports, which showed the economy grew at a slower-than-expected pace in the fourth quarter, while consumer"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Can FPIs return to Dalal Street soon? Nithin Kamath outlines the roadblocks",
+            "link": "https://www.livemint.com/market/stock-market-news/can-fpis-return-to-dalal-street-soon-nithin-kamath-outlines-the-roadblocks-11775749959530.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Can FPIs return to Dalal Street soon? Nithin Kamath outlines the roadblocks",
+            "bullets": [
+              "He further said, citing the same feedback, that India is seen as geopolitically exposed, particularly to potential oil shocks, while also lacking meaningful AI",
+              "Higher yields have improved the relative attractiveness of dollar-denominated assets, prompting capital to move away from emerging markets such as India."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
