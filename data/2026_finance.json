@@ -129258,5 +129258,46 @@
         }
       ]
     }
+  },
+  "2026-04-11": {
+    "runs": {
+      "00:23": [
+        {
+          "item": {
+            "title": "Wall St mixed, set for weekly gains as investors watch Middle East negotiations",
+            "link": "https://www.livemint.com/market/wall-st-mixed-set-for-weekly-gains-as-investors-watch-middle-east-negotiations-11775846305370.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall St mixed, set for weekly gains as investors watch Middle East negotiations",
+            "bullets": [
+              "* Indexes: Dow down 0.57%, S&P 500 off 0.17%, Nasdaq up 0.20% * March CPI rises 3.3%, in line with estimates * Consumer sentiment",
+              "A closely watched inflation report showed consumer price growth accelerated as expected, due to price pressures arising from the war on Iran.",
+              "\"That area of the world is always in turmoil and it's going to be hard for the U.S.",
+              "to extract itself from it.\" The Labor Department's consumer price index (CPI), the first major inflation indicator released since the onset of the war,"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Soybeans hit two-week high as soymeal jumps; corn, wheat sag",
+            "link": "https://www.livemint.com/market/soybeans-hit-two-week-high-as-soymeal-jumps-corn-wheat-sag-11775846179887.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Soybeans hit two-week high as soymeal jumps; corn, wheat sag",
+            "bullets": [
+              "(Recasts; updates prices, adds quotes, changes byline, changes dateline from previous PARIS/SINGAPORE) * Soymeal climbs after USDA confirms export sales to Italy * Corn,",
+              "CDT (1758 GMT) on Friday, Chicago Board of Trade May soybeans were up 13 cents, or 1.1%, at $11.78-1/4 per bushel after reaching $11.79-1/4,",
+              "CBOT wheat fell for a third consecutive day and was on track for its biggest weekly drop since late June, reflecting global supplies and"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
