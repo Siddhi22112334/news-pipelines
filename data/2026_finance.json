@@ -132408,5 +132408,47 @@
         }
       ]
     }
+  },
+  "2026-04-15": {
+    "runs": {
+      "00:44": [
+        {
+          "item": {
+            "title": "Dollar falls on hopes for Middle East talks",
+            "link": "https://www.livemint.com/market/dollar-falls-on-hopes-for-middle-east-talks-11776193789134.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar falls on hopes for Middle East talks",
+            "bullets": [
+              "* Oil prices tumble as US-Iran peace talks could resume, easing supply concerns * US inflation data comes in below forecasts * Dollar falls",
+              "inflation came in cooler than expected.",
+              "\"You have very clear guidance coming from the Trump administration that they're looking for an exit ramp here and that's playing into market expectations",
+              "OIL PRICES TUMBLE ON PEACE PROSPECTS U.S."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Indian stock market: Gift Nifty rebounds 350 points as crude oil prices ease on Iran peace talk hopes",
+            "link": "https://www.livemint.com/market/indian-stock-market-gift-nifty-rebounds-350-points-as-crude-oil-prices-ease-on-iran-peace-talk-hopes-11776186462646.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Indian stock market: Gift Nifty rebounds 350 points as crude oil prices ease on Iran peace talk hopes",
+            "bullets": [
+              "GIFT Nifty is trading 350 points higher in late trading on Tuesday, 14 April, indicating that markets could recover all of Monday’s losses when",
+              "Turning to Europe, all major indices closed in the green on hopes that a deal in the Middle East will help normalise energy flows",
+              "Meanwhile, the International Energy Agency (IEA) projects that global oil demand will decline this year for the first time since the 2020 pandemic, as",
+              "Last month, the Paris-based IEA oversaw the release of a record 400 million barrels from emergency oil reserves by members including the US, Japan,"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
