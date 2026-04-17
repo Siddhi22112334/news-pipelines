@@ -134704,5 +134704,45 @@
         }
       ]
     }
+  },
+  "2026-04-18": {
+    "runs": {
+      "00:30": [
+        {
+          "item": {
+            "title": "Gold, silver rates today: Comex gold jumps $109/oz, silver surges $4.5/oz as Strait of Hormuz reopens",
+            "link": "https://www.livemint.com/market/stock-market-news/gold-silver-rates-today-comex-gold-jumps-109-oz-silver-surges-4-5-oz-as-strait-of-hormuz-reopens-11776441960955.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold, silver rates today: Comex gold jumps $109/oz, silver surges $4.5/oz as Strait of Hormuz reopens",
+            "bullets": [
+              "Precious metals traded with solid gains on Friday, 17 April, as sentiment towards safe-haven assets improved after Iran announced the reopening of the Strait",
+              "Both metals are heading for their fourth consecutive weekly gains, in which gold has surged 7.5% and silver 19.5%, considering today's high.",
+              "In a subsequent post, Trump said the US naval blockade on Iranian ships and ports “will remain in full force” until a deal is",
+              "This disruption had sent energy prices soaring, forcing central banks to revise their inflation estimates higher and adopt a more cautious stance on further"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Bill to prepone Women’s reservation  defeated in Lok Sabha",
+            "link": "https://www.thehindubusinessline.com/news/womens-reservation-bill-defeated-in-lok-sabha/article70874926.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Bill to prepone Women’s reservation  defeated in Lok Sabha",
+            "bullets": [
+              "Parliamentary Affairs Minister Kiren Rijiju subsequently requested the Speaker to withdraw the two accompanying legislations — the Delimitation Bill, 2026, and the Union Territories",
+              "Shah did not agree, and the attempt for building the last-minute consensus failed."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
