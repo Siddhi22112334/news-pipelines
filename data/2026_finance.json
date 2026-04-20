@@ -136816,5 +136816,65 @@
         }
       ]
     }
+  },
+  "2026-04-21": {
+    "runs": {
+      "00:34": [
+        {
+          "item": {
+            "title": "Wall St dips after rally as US-Iran tensions gauged",
+            "link": "https://www.livemint.com/market/wall-st-dips-after-rally-as-us-iran-tensions-gauged-11776710602160.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall St dips after rally as US-Iran tensions gauged",
+            "bullets": [
+              "* QXO falls after $17 bln TopBuild acquisition deal * Strait of Hormuz closed again; oil prices, energy stocks rise * Earnings to pick",
+              "Netflix was down nearly 3%, also weighing on the sector, and has fallen more than 12% since announcing its quarterly results and the departure",
+              "Investors wait to assess the impact of the Iran war on corporate results and on the broader economy, with companies including Lockheed Martin and",
+              "Tesla will kick off results from the so-called \"Magnificent Seven\" cohort on Wednesday."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Nasdaq set to snap 13-day winning streak as oil rebounds, US-Iran tensions resurface",
+            "link": "https://www.livemint.com/market/stock-market-news/nasdaq-set-to-snap-13-day-winning-streak-as-oil-rebounds-us-iran-tensions-resurface-11776705265184.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Nasdaq set to snap 13-day winning streak as oil rebounds, US-Iran tensions resurface",
+            "bullets": [
+              "Renewed tensions between the US and Iran—after a brief easing—have resurfaced, driving a rebound in crude oil prices.",
+              "If it closes lower, the index will snap its 13-day winning streak—one of the longest in recent history—which had helped it recover all war-driven",
+              "Transit through the Strait of Hormuz has slowed significantly amid the conflict, as Iran tightens control in response to recent strikes, according to a",
+              "Iran’s Foreign Ministry spokesperson, Esmail Baghaei, said there appears to be little seriousness on the part of the US in pursuing diplomacy in its"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Akshayakalpa takes on Country Delight, KisanKonnect, in India’s fast-growing organic market",
+            "link": "https://www.thehindubusinessline.com/economy/agri-business/akshayakalpa-takes-on-country-delight-kisankonnect-in-indias-fast-growing-organic-market/article70885615.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Akshayakalpa takes on Country Delight, KisanKonnect, in India’s fast-growing organic market",
+            "bullets": [
+              "Pravin More, a marginal farmer from Nune village in Satara’s farming belt with just 3–4 cattle, has seen the milk yield of his herd",
+              "Revenues have risen from about ₹350 crore in FY25 to an estimated ₹550–600 crore in FY26, with a trajectory toward ₹700 crore.",
+              "Industry analysts say Country Delight is estimated to have crossed around ₹2,000 crore in revenue in FY26, and carries a valuation of ₹6,950 cr",
+              "Akshayakalpa instead works with over 2,800 certified organic farmers across multi-year cycles, managing soil health, cattle feed and certification to build a closed-loop system"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
