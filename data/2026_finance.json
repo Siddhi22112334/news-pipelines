@@ -137595,5 +137595,47 @@
         }
       ]
     }
+  },
+  "2026-04-22": {
+    "runs": {
+      "00:57": [
+        {
+          "item": {
+            "title": "US dollar climbs as uncertainty grows over Iran ceasefire",
+            "link": "https://www.livemint.com/market/us-dollar-climbs-as-uncertainty-grows-over-iran-ceasefire-11776798542924.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US dollar climbs as uncertainty grows over Iran ceasefire",
+            "bullets": [
+              "* Iran undecided on attending peace talks after US forces board oil tanker * Fed chief nominee Kevin Warsh urges central bank overhaul in",
+              "forces boarded a huge Iranian oil tanker at sea with just a day left before the ceasefire runs out in the war in the",
+              "Vance has not yet departed Washington for talks on Iran and is participating in additional policy meetings, a White House official said on Tuesday.",
+              "central bank, including a new approach for controlling inflation and a communications overhaul that may discourage his colleagues from saying too much about the"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Wall Street dips as Middle East concerns dent earnings optimism",
+            "link": "https://www.livemint.com/market/wall-street-dips-as-middle-east-concerns-dent-earnings-optimism-11776797621979.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street dips as Middle East concerns dent earnings optimism",
+            "bullets": [
+              "(Updates to afternoon New York trading) * Uncertainty over US-Iran war weighs on markets * Apple names hardware veteran Ternus as CEO to succeed",
+              "The Israeli military said Lebanon's Iran-aligned Hezbollah had fired several rockets toward its troops operating in southern Lebanon, in what it described as a",
+              "Pakistan is awaiting a formal response from Iran to confirm it will send a delegation to attend a second round of peace talks with",
+              "UnitedHealth jumped nearly 9% after the healthcare conglomerate raised its annual profit forecast and beat Wall Street expectations for the first quarter, accounting for"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
