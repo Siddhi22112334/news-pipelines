@@ -138368,5 +138368,46 @@
         }
       ]
     }
+  },
+  "2026-04-23": {
+    "runs": {
+      "00:56": [
+        {
+          "item": {
+            "title": "Stocks rise on ceasefire relief, oil gains as truce is tested",
+            "link": "https://www.livemint.com/market/stocks-rise-on-ceasefire-relief-oil-gains-as-truce-is-tested-11776885081835.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Stocks rise on ceasefire relief, oil gains as truce is tested",
+            "bullets": [
+              "President Donald Trump's unilaterally declared ceasefire extension in the Iran war, and oil resumed its upward climb after Iran challenged the fragile truce by",
+              "About a fifth of the world's oil and liquefied natural gas (LNG) supplies normally pass through the strait.",
+              "But geopolitical uncertainty lingers and a prolonged period of elevated oil prices remains a threat.",
+              "Dozens of international firms have withdrawn guidance or signaled price hikes since the conflict began."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Dollar gains as Iran war keeps central banks in wait-and-see mode",
+            "link": "https://www.livemint.com/market/dollar-gains-as-iran-war-keeps-central-banks-in-wait-and-see-mode-11776884766255.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar gains as Iran war keeps central banks in wait-and-see mode",
+            "bullets": [
+              "CENTRAL BANKS ON HOLD Markets are pricing in low odds that the Federal Reserve will cut interest rates this year, given the risk that",
+              "The Fed, European Central Bank, Bank of Japan, Bank of England and Bank of Canada are all scheduled to hold policy meetings next week.",
+              "\"After the agile response at the March meeting, where the ECB made it clear it has learnt from the 2021-22 experience, we expect the"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
