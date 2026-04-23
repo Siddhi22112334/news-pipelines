@@ -139119,5 +139119,47 @@
         }
       ]
     }
+  },
+  "2026-04-24": {
+    "runs": {
+      "01:23": [
+        {
+          "item": {
+            "title": "US stocks ease, oil climbs as investors assess Strait of Hormuz stand-off, mixed earnings",
+            "link": "https://www.livemint.com/market/us-stocks-ease-oil-climbs-as-investors-assess-strait-of-hormuz-stand-off-mixed-earnings-11776972035213.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US stocks ease, oil climbs as investors assess Strait of Hormuz stand-off, mixed earnings",
+            "bullets": [
+              "(Updates to mid-afternoon trading) * S&P 500, Nasdaq back down from record closing highs * Iran shows off its control over Strait of Hormuz",
+              "\"(Stocks) are at all-time highs with oil up 40% over six weeks while a war is going on,\" Ladner added.",
+              "Among companies reporting first-quarter results, American Airlines and Honeywell, among others, provided disappointing guidance due to higher costs and other disruptions related to the",
+              "\"Guidance is obviously going to play a lot larger role.\" The Dow Jones Industrial Average fell 150.69 points, or 0.31%, to 49,337.97, the S&P"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Stocks weaken on dimming hopes for Iran deal, mixed quarterly earnings",
+            "link": "https://www.livemint.com/market/stocks-weaken-on-dimming-hopes-for-iran-deal-mixed-quarterly-earnings-11776970308494.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Stocks weaken on dimming hopes for Iran deal, mixed quarterly earnings",
+            "bullets": [
+              "* Stocks ease as oil prices climb * Tesla, IBM and Lockheed Martin down after earnings * Texas Instruments gains after results * Indexes",
+              "Losses were extended as oil prices shot higher after reports of air attacks in Iran.",
+              "Oil prices holding near $100 a barrel also kept fears of rising inflation in focus.",
+              "The S&P 500 tech index was the worst performing of the 11 major S&P sectors, weighed down in part by a drop of about"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
