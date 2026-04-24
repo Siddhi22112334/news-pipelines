@@ -139894,5 +139894,45 @@
         }
       ]
     }
+  },
+  "2026-04-25": {
+    "runs": {
+      "01:02": [
+        {
+          "item": {
+            "title": "Amazon shares rise over 3% to record high after tie-up with Meta to supply Graviton chips",
+            "link": "https://www.livemint.com/market/stock-market-news/amazon-shares-rise-over-3-to-record-high-after-tie-up-with-meta-to-supply-graviton-chips-11777050809131.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Amazon shares rise over 3% to record high after tie-up with Meta to supply Graviton chips",
+            "bullets": [
+              "Around 3.6 billion people use Meta’s applications every day, and the social networking company will be operating 32 data centres to handle the load",
+              "For the December quarter, Amazon reported revenue of $213.4 billion, up 14% year-on-year."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Gold Gains on Iran Talks Optimism With Fed Outlook in Focus",
+            "link": "https://www.livemint.com/market/gold-gains-on-iran-talks-optimism-with-fed-outlook-in-focus-11777058030308.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold Gains on Iran Talks Optimism With Fed Outlook in Focus",
+            "bullets": [
+              "Bullion rose above $4,700 an ounce as bond yields fell after US Attorney Jeanine Pirro said she’s dropping her investigation into building-renovation cost overruns",
+              "That’s negative for non-yielding bullion.",
+              "Warsh is known for his hawkish stance on inflation.",
+              "Elsewhere, the State Oil Fund of Azerbaijan, one of the largest sovereign gold buyers, released data showing it had sold nearly 22 tons of"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
