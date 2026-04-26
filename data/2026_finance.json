@@ -140628,7 +140628,43 @@
       "02:37": [],
       "03:34": [],
       "04:24": [],
-      "05:09": []
+      "05:09": [],
+      "08:04": [
+        {
+          "item": {
+            "title": "Gunfire reported outside WHCD venue, Trump and US leaders evacuated",
+            "link": "https://www.thehindubusinessline.com/news/world/trump-safe-after-shooting-scare-disrupts-white-house-correspondents-dinner/article70907650.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gunfire reported outside WHCD venue, Trump and US leaders evacuated",
+            "bullets": [
+              "President Donald Trump was uninjured and other top leaders of the United States were evacuated from an annual dinner of White House correspondents on",
+              "There did not immediately appear to be any injuries, and one law-enforcement official said a shooter had opened fire.",
+              "Authorities said the incident occurred outside the ballroom where Trump and other guests were seated."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump safe after reported shooting scare at White House Correspondents’ Dinner",
+            "link": "https://www.thehindubusinessline.com/news/world/trump-safe-after-reported-shooting-scare-at-white-house-correspondents-dinner/article70907643.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Trump safe after reported shooting scare at White House Correspondents’ Dinner",
+            "bullets": [
+              "President Donald Trump was reported uninjured and other top leaders of the United States were evacuated from an annual dinner of White House correspondents",
+              "There did not immediately appear to be any injuries, and one law-enforcement official said a shooter opened fire.",
+              "The Secret Service and other authorities swarmed the banquet hall at the Washington Hilton as guests ducked under tables by the hundreds."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
