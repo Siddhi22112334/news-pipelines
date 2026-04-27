@@ -141826,5 +141826,47 @@
         }
       ]
     }
+  },
+  "2026-04-28": {
+    "runs": {
+      "00:23": [
+        {
+          "item": {
+            "title": "Verizon shares rise over 3% after first quarter sales beat expectations",
+            "link": "https://www.livemint.com/market/stock-market-news/verizon-shares-rise-over-3-after-first-quarter-sales-beat-expectations-11777305710122.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Verizon shares rise over 3% after first quarter sales beat expectations",
+            "bullets": [
+              "shares rose over 3% on Monday morning following the release of its first quarter financial results.",
+              "The figures suggest that the strategy implemented by new CEO Dan Schulman to reclaim market share is yielding early results, evidenced by a significant",
+              "This performance sharply contrasted with analyst expectations of approximately 89,169 losses.",
+              "Verizon reported operating revenue of $34.4 billion, slightly below projections for $34.8 billion."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Canara Robeco AMC Q4 Results: Revenue rises 13%, PAT steady at  ₹41 crore; declares  ₹2.5 dividend",
+            "link": "https://www.livemint.com/market/canara-robeco-amc-q4-results-revenue-rises-13-pat-steady-at-rs-41-crore-declares-rs-2-5-dividend-11777308943838.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Canara Robeco AMC Q4 Results: Revenue rises 13%, PAT steady at  ₹41 crore; declares  ₹2.5 dividend",
+            "bullets": [
+              "Canara Robeco Asset Management Company, a subsidiary of Canara Bank, announced its financial results for the March-ended quarter and full financial year ended March",
+              "For the March-ended quarter (Q4FY26), the AMC reported revenue from operations of ₹114.20 crore, compared with ₹101.26 crore in the corresponding quarter last year,",
+              "It reported a profit after tax of ₹41.36 crore, marginally lower than ₹41.73 crore posted in the same quarter last year.",
+              "However, sequentially, the net profit dropped by 22%."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
