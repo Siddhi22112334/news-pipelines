@@ -142365,5 +142365,65 @@
         }
       ]
     }
+  },
+  "2026-04-29": {
+    "runs": {
+      "00:40": [
+        {
+          "item": {
+            "title": "Spotify shares plunge 15% after forecasting second-quarter profit below estimates",
+            "link": "https://www.livemint.com/market/stock-market-news/spotify-shares-plunge-15-after-forecasting-second-quarter-profit-below-estimates-11777392725449.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Spotify shares plunge 15% after forecasting second-quarter profit below estimates",
+            "bullets": [
+              "The audio streaming platform expects operating income of €630 million in the current quarter.",
+              "The forecast came in lower than its record operating income of €715 million in the first quarter, which beat estimates of €681.6 million, driven",
+              "For the first quarter, Spotify's monthly active users grew to 761 million, up 12% from the same quarter a year ago and above the",
+              "The Swedish company’s premium subscribers increased 9% to 293 million, in line with its prior guidance."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "CCI clears Mizuho Securities stake purchase in Avendus Capital",
+            "link": "https://www.thehindubusinessline.com/markets/cci-clears-mizuho-securities-stake-purchase-in-avendus-capital/article70917958.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "CCI clears Mizuho Securities stake purchase in Avendus Capital",
+            "bullets": [
+              "Avendus Capital, a Sebi-registered merchant banker, is present in India, Singapore, the US and the UK through its subsidiaries.",
+              "The watchdog has also given its nod for the proposed merger of A1 Agri Global Ltd (Agri), BN Agritech Ltd (BNA) and Salasar Balaji",
+              "While BNAC is into the procurement and trading of soybean oil and palmolein oil, BNA is involved in the procurement of crude edible oils",
+              "Salasar is into procuring, repackaging and trading of edible oils."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Karnataka rolls out internal SC reservation, clears recruitment of 56,432 posts",
+            "link": "https://www.thehindubusinessline.com/news/national/karnataka-rolls-out-internal-sc-reservation-clears-recruitment-of-56432-posts/article70917946.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Karnataka rolls out internal SC reservation, clears recruitment of 56,432 posts",
+            "bullets": [
+              "The Karnataka government has issued an order on implementing internal reservation with a revised formula of 5.25, 5.25, and 4.50 per cent out of",
+              "Chief Minister Siddaramaiah on Tuesday said that, in accordance with the decision on internal reservation for Scheduled Castes, the government ordered on April 27",
+              "\"As per the order given by the High Court, the 50 per cent reservation rate has been temporarily adopted, and internal reservation for Category",
+              "\"I am very happy to share a copy of the order in this regard with all the job seekers of the state."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
