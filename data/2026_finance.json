@@ -143085,5 +143085,65 @@
         }
       ]
     }
+  },
+  "2026-04-30": {
+    "runs": {
+      "00:56": [
+        {
+          "item": {
+            "title": "Wall Street extends losses after Fed decision, big tech earnings on tap",
+            "link": "https://www.livemint.com/market/wall-street-extends-losses-after-fed-decision-big-tech-earnings-on-tap-11777488255370.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street extends losses after Fed decision, big tech earnings on tap",
+            "bullets": [
+              "* Indexes down: Dow 0.75%, S&P 500 0.31%, Nasdaq 0.36% * Fed holds key interest rate steady, * Data-storage stocks gain after Seagate's upbeat",
+              "Federal Reserve left interest rates unchanged at the conclusion of what is likely to be its last monetary policy meeting under Chair Jerome Powell.",
+              "stock indexes gyrated lower after the Fed's policy statement revealed the decision to hold rates steady was its most divided since 1992, along with",
+              "\"Today oil prices are pretty much leading the movement in the market because it does not appear as if we're going to be getting"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Gold extends fall after US Fed keeps rate unchanged",
+            "link": "https://www.livemint.com/market/gold-extends-fall-after-us-fed-keeps-rate-unchanged-11777488442244.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold extends fall after US Fed keeps rate unchanged",
+            "bullets": [
+              "* Trump urges Iran to sign a deal and discusses prolonged blockade * Traders stick to bets the Fed will leave rates on hold",
+              "Federal Reserve kept rates unchanged as expected and traders were concerned about inflation stemming from the war in the Middle East.",
+              "The Fed held interest rates steady, but in its most divided decision since 1992 noted rising concerns about inflation in a policy statement that",
+              "Inflation fears have flared up with global oil prices trading above $100 a barrel due to the U.S.-backed war against Iran."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "India plans to add 92 vessels with ₹51,383 crore investment in FY27",
+            "link": "https://www.thehindubusinessline.com/economy/logistics/india-plans-to-add-92-vessels-with-51383-crore-investment-in-fy27/article70921966.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India plans to add 92 vessels with ₹51,383 crore investment in FY27",
+            "bullets": [
+              "According to an official statement, the meeting brought together senior officials from the Ministry of Petroleum and Natural Gas (MoPNG), oil PSUs, Ministry of",
+              "The Shipping Minister also reviewed the status of the Joint Venture between Shipping Corporation of India (SCI) and Oil PSUs to acquire 59 vessels.",
+              "Directing a structured policy response, Sonowal instructed all concerned departments to prepare a concise and actionable white paper outlining & addressing the current gaps,",
+              "The inter-ministerial meeting concluded with a call for greater alignment, coordination and execution across ministries and stakeholders to position India as a globally competitive"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
