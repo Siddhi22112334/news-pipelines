@@ -143784,5 +143784,47 @@
         }
       ]
     }
+  },
+  "2026-05-01": {
+    "runs": {
+      "00:50": [
+        {
+          "item": {
+            "title": "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge",
+            "link": "https://www.livemint.com/market/ai-debt-investors-show-signs-of-fatigue-after-300-billion-binge-11777573828570.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge",
+            "bullets": [
+              "Make no mistake: There’s still appetite for those deals.",
+              "But bankers have had to work harder to sell them lately, offering more incentives and higher compensation to investors who are spoiled for choice.",
+              "Meta racked up a peak order book of about $96 billion for a bond sale that’s expected to raise as much as $25 billion,",
+              "Many money managers say there aren’t always conventions for how provisions designed to give lenders more protection should translate to yields and risk premiums"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Yields ease as oil retreats from four-year high",
+            "link": "https://www.livemint.com/market/yields-ease-as-oil-retreats-from-four-year-high-11777576198123.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Yields ease as oil retreats from four-year high",
+            "bullets": [
+              "* Treasury yields retreat as oil prices fall from four-year high * Fed meeting signals more hawkish stance; rate-cut expectations reduced * Mixed US",
+              "Treasury yields eased on Thursday as oil prices pulled back from a four-year high and traders continued to digest a Federal Reserve meeting that",
+              "Global oil prices fell after hitting a four-year high above $126 a barrel earlier on Thursday, amid concerns the U.S.-Israeli war with Iran could",
+              "Two- and 10-year Treasury yields have reached their highest levels in more than a month while 30-year yields topped 5% - the highest level"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
