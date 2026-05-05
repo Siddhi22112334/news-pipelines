@@ -147006,5 +147006,47 @@
         }
       ]
     }
+  },
+  "2026-05-06": {
+    "runs": {
+      "00:27": [
+        {
+          "item": {
+            "title": "Nasdaq hits record as AI chip stocks surge",
+            "link": "https://www.livemint.com/market/nasdaq-hits-record-as-ai-chip-stocks-surge-11778006040990.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Nasdaq hits record as AI chip stocks surge",
+            "bullets": [
+              "* Intel jumps after reported talks with Apple for chipmaking * Archer-Daniels-Midland up following Q1 profit beat * S&P 0.89%, Dow 0.62%, Nasdaq 1.10%",
+              "Grain trader Archer-Daniels-Midland rose 1.2% after reporting better-than-expected first-quarter profit on higher margins.",
+              "DuPont gained 7.6% after the industrial materials maker lifted its annual profit forecast.",
+              "Shares of Pinterest soared 9.3% after the image-sharing platform forecast second-quarter revenue above analysts' estimates."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Sebi flags AI-led cyber risks, calls for coordinated market defence",
+            "link": "https://www.livemint.com/market/sebi-warns-ai-cyber-risks-india-financial-market-security-claude-mythos-tech-11778000294511.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Sebi flags AI-led cyber risks, calls for coordinated market defence",
+            "bullets": [
+              "In an advisory issued on Tuesday, the Securities and Exchange Board of India (Sebi) said it has constituted a task force named cyber-suraksha.ai, which",
+              "“Due to the interconnectedness and interdependency of market participants in the securities market ecosystem, a periodic coordinated approach for vulnerability management, information sharing and",
+              "Sebi has also directed entities to immediately update their operating systems and applications to the latest patches to address known vulnerabilities and to consider",
+              "Further, Sebi has tightened the norms governing system changes, mandating full documentation, impact analysis, and rigorous testing for all such changes."
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
