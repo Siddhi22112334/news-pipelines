@@ -147564,5 +147564,82 @@
         }
       ]
     }
+  },
+  "2026-05-07": {
+    "runs": {
+      "00:00": [
+        {
+          "item": {
+            "title": "AMD shares jump over 21% to record high after strong Q1 earnings, upbeat outlook",
+            "link": "https://www.livemint.com/market/stock-market-news/amd-shares-jump-over-21-to-record-high-after-strong-q1-earnings-upbeat-outlook-11778084709665.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "AMD shares jump over 21% to record high after strong Q1 earnings, upbeat outlook",
+            "bullets": [
+              "Revenue from its Data Centre segment came in at $5.8 billion, up 57% year-on-year, driven by server CPU strength.",
+              "Revenue from the Data Centre segment increased by 57% year-on-year.",
+              "This segment saw a 57% year-on-year revenue increase.",
+              "The data centre CPU market is projected to grow at over 35% annually and is expected to exceed $120 billion by 2030, fueled by"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Brokers' forum seeks RBI relaxation on proprietary trade funding curbs",
+            "link": "https://www.livemint.com/market/rbi-new-proprietary-trading-rules-market-liquidity-impact-brokers-meeting-11778081120061.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Brokers' forum seeks RBI relaxation on proprietary trade funding curbs",
+            "bullets": [
+              "Representatives of the Association of NSE Members of India (ANMI) met with central bank officials on Wednesday, seeking a relaxation of an imminent regulatory",
+              "While Reserve Bank of India (RBI) officials heard out the ANMI delegation, they offered no commitment , he said, requesting anonymity.",
+              "The brokers clarified to the RBI that proprietary traders don't speculate, but impart liquidity to the markets by offering two-way quotes -- a buy",
+              "RBI heard this argument, but said it was not for them to get into definitions such as these; rather this was for Sebi (Securities"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "PMI services rose to 5-month high of 58.8 in April",
+            "link": "https://www.thehindubusinessline.com/economy/pmi-services-rose-to-5-month-high-of-588-in-april/article70945731.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "PMI services rose to 5-month high of 58.8 in April",
+            "bullets": [
+              "Important to note that inflationary pressure saw mild reduction in the said month.",
+              "“Activity and new orders strengthened, even as new export orders eased, suggesting that demand is rotating from overseas markets to domestic consumers amid the",
+              "PMI is derived based on responses from purchasing managers of 400 firms.",
+              "Index above 50 means expansion, while below 50 reflects contraction."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Is ending energy poverty still a distant dream? | Energonomics | EP 31",
+            "link": "https://www.thehindubusinessline.com/multimedia/video/is-ending-energy-poverty-still-a-distant-dream/article70947973.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Is ending energy poverty still a distant dream? | Energonomics | EP 31",
+            "bullets": [
+              "From tackling energy poverty affecting 700 million people to leveraging AI-driven grids in India, the conversation explores how geopolitics, philanthropy, and technology are reshaping",
+              "Can clean energy also drive global peace and economic growth?",
+              "Watch to find out."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
