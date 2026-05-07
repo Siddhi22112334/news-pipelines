@@ -148169,5 +148169,64 @@
         }
       ]
     }
+  },
+  "2026-05-08": {
+    "runs": {
+      "01:13": [
+        {
+          "item": {
+            "title": "Stocks dip, oil choppy as US-Iran peace deal remains elusive",
+            "link": "https://www.livemint.com/market/stocks-dip-oil-choppy-as-us-iran-peace-deal-remains-elusive-11778179569825.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Stocks dip, oil choppy as US-Iran peace deal remains elusive",
+            "bullets": [
+              "trading) * Oil prices choppy on US-Iran peace negotiations * Wall Street stocks decline People also ask AI powered insights from this story Market",
+              "This sentiment has influenced stock market movements and oil prices.",
+              "A peace deal is expected to lead to the reopening of the Strait of Hormuz, a crucial oil and natural gas transit point.",
+              "This could ease supply concerns, causing oil prices to decline from their elevated levels."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Oil markets see $7 billion bearish bets ahead of Trump Iran announcements",
+            "link": "https://www.thehindubusinessline.com/markets/commodities/oil-markets-see-7-billion-bearish-bets-ahead-of-trump-iran-announcements/article70952608.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil markets see $7 billion bearish bets ahead of Trump Iran announcements",
+            "bullets": [
+              "A series of well-timed market bets on falling oil prices totalling as much as $7 billion during March and April spread across multiple exchanges",
+              "The bets took place on two major exchanges that host benchmark global oil and fuel futures trade: the Intercontinental Exchange (ICE) and Chicago Mercantile",
+              "Suspicious timing ahead of Trump policy announcements Traders first spotted unusual trades on March 23.",
+              "The trades were executed minutes before Trump announced a delay to threatened attacks on Iranian power infrastructure, triggering an oil price fall."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "India and UAE review full spectrum of Comprehensive Strategic Partnership during FS Misri’s visit",
+            "link": "https://www.thehindubusinessline.com/news/india-and-uae-review-full-spectrum-of-comprehensive-strategic-partnership-during-fs-misris-visit/article70952586.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "India and UAE review full spectrum of Comprehensive Strategic Partnership during FS Misri’s visit",
+            "bullets": [
+              "West Asia security concerns after Fujairah strikes The visit to the UAE comes amid the developing security situation in West Asia and the Gulf",
+              "The strikes targeted Fujairah, a critical global maritime artery on the UAE’s eastern seaboard, which serves as a primary bypass for oil exports outside",
+              "In a post on X, the Prime Minister conveyed his distress over the escalation, stating, “Strongly condemn the attacks on the UAE that resulted"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
