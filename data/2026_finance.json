@@ -148917,5 +148917,29 @@
         }
       ]
     }
+  },
+  "2026-05-09": {
+    "runs": {
+      "01:27": [
+        {
+          "item": {
+            "title": "US yields fall after jobs report tops expectations; Iran ceasefire eyed",
+            "link": "https://www.livemint.com/market/us-yields-fall-after-jobs-report-tops-expectations-iran-ceasefire-eyed-11778267721742.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US yields fall after jobs report tops expectations; Iran ceasefire eyed",
+            "bullets": [
+              "* Nonfarm payrolls beat forecasts, unemployment steady at 4.3%, Fed rate-hike odds dip * US-Iran ceasefire prospects monitored as Gulf tensions persist * 10-year",
+              "Treasury yields declined on Friday after a stronger-than-expected payrolls report slightly dampened expectations for a rate hike from the Federal Reserve this year, while",
+              "\"Today it's just the market telling you that it was within reason, and everything is still kind of focused in on the inflationary side.”",
+              "Since the war in Iran began on February 28, yields have steadily climbed as inflation worries dented market expectations for rate cuts from the"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
