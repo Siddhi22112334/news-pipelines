@@ -150168,5 +150168,29 @@
         }
       ]
     }
+  },
+  "2026-05-11": {
+    "runs": {
+      "00:32": [
+        {
+          "item": {
+            "title": "Wall Street Week Ahead: Focus on inflation, retail sales, US-Iran conflict, crude oil",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-focus-on-inflation-retail-sales-us-iran-conflict-crude-oil-11778428559877.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street Week Ahead: Focus on inflation, retail sales, US-Iran conflict, crude oil",
+            "bullets": [
+              "In the week ahead, Wall Street investors will evaluate several pivotal economic indicators, such as inflation and retail sales figures, to assess market health.",
+              "The April Consumer Price Index data will likely showcase the inflationary pressure resulting from the active United States-Iran conflict.",
+              "These statistics will also assist traders in predicting the Federal Reserve's next moves regarding monetary policy.",
+              "Subsequent retail sales data will offer further insight into consumer spending habits and the general economic climate."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
