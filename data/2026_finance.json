@@ -150615,7 +150615,45 @@
   },
   "2026-05-12": {
     "runs": {
-      "01:49": []
+      "01:49": [],
+      "03:23": [
+        {
+          "item": {
+            "title": "CME cattle futures pare losses after falling on US beef import plan",
+            "link": "https://www.livemint.com/market/cme-cattle-futures-pare-losses-after-falling-on-us-beef-import-plan-11778533497911.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "CME cattle futures pare losses after falling on US beef import plan",
+            "bullets": [
+              "By Tom Polansek CHICAGO, May 11 (Reuters) - Chicago Mercantile Exchange live cattle and feeder cattle futures pared losses on Monday after falling earlier",
+              "President Donald Trump is set to sign executive orders to allow increased beef imports into the U.S.",
+              "People also ask AI powered insights from this story CME live cattle and feeder cattle futures pared losses due to expectations that the U.S.",
+              "President Donald Trump is set to sign executive orders to allow increased beef imports and support the U.S."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "TSX gains as commodity stocks rise, closes near three-week high",
+            "link": "https://www.livemint.com/market/tsx-gains-as-commodity-stocks-rise-closes-near-three-week-high-11778532203982.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "TSX gains as commodity stocks rise, closes near three-week high",
+            "bullets": [
+              "* TSX up 0.18 % * Oil and gold prices rise * Barrick Mining climbs after Q1 profit beat (Updates to close) People also",
+              "Investors were weighing the impact of the Middle East conflict, which was driving up oil and precious metal prices.",
+              "Crude oil prices are rising due to the ongoing Middle East conflict and uncertainty surrounding US-Iran relations.",
+              "Rising oil prices and gains in gold stocks, like Barrick Mining, are contributing to the index's upward movement."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
