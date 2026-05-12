@@ -151170,5 +151170,64 @@
         }
       ]
     }
+  },
+  "2026-05-13": {
+    "runs": {
+      "01:49": [
+        {
+          "item": {
+            "title": "Wall Street slips as inflation, Iran tensions weigh",
+            "link": "https://www.livemint.com/market/wall-street-slips-as-inflation-iran-tensions-weigh-11778611164984.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street slips as inflation, Iran tensions weigh",
+            "bullets": [
+              "(Updates to mid-afternoon trading) * Indexes down: Dow 0.01%, S&P 500 0.54%, Nasdaq 1.37% * April Consumer Price Index hotter than expected People also",
+              "The U.S.-Iran conflict has disrupted crude supply, leading to elevated oil prices.",
+              "This oil shock is contributing to accelerated inflation, with energy prices soaring and impacting transportation costs, which in turn affects the prices of other",
+              "The disappointing CPI report, showing relatively high inflation, reinforces the notion that the Federal Reserve is unlikely to lower interest rates this year."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Oil settles higher as hopes of peace in the Middle East dwindle",
+            "link": "https://www.livemint.com/market/oil-settles-higher-as-hopes-of-peace-in-the-middle-east-dwindle-11778615145276.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil settles higher as hopes of peace in the Middle East dwindle",
+            "bullets": [
+              "By Shariq Khan NEW YORK, May 12 (Reuters) - Oil prices settled higher for the third consecutive session on Tuesday as stark differences between",
+              "and Iran over a proposal to end the war in the Middle East raised concerns that supply disruptions upending the global oil market are",
+              "naval blockade, the resumption of Iranian oil sales and compensation for war damage.",
+              "Iran also emphasised its sovereignty over the Strait of Hormuz, through which about a fifth of global oil and liquefied natural gas normally flows."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Russia test-fires new Sarmat nuclear missile amid military modernisation push",
+            "link": "https://www.thehindubusinessline.com/news/world/russia-test-fires-new-sarmat-nuclear-missile-amid-military-modernisation-push/article70971476.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Russia test-fires new Sarmat nuclear missile amid military modernisation push",
+            "bullets": [
+              "After overseeing a military parade on Red Square on Saturday commemorating the defeat of Nazi Germany in World War II, which for the first",
+              "It is capable of suborbital flight, he said, giving it a range of more than 35,000 kilometres (21,700 miles) and an extended capability to",
+              "Russia cites US missile shield concerns Putin has described those new weapons as part of a Russian response to the US missile shield that"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
