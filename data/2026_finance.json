@@ -151655,5 +151655,47 @@
         }
       ]
     }
+  },
+  "2026-05-14": {
+    "runs": {
+      "01:25": [
+        {
+          "item": {
+            "title": "Alibaba shares surge nearly 8% as firm expects to exceed $55.96 billion AI spending target",
+            "link": "https://www.livemint.com/market/stock-market-news/alibaba-shares-surge-nearly-8-as-firm-expects-to-exceed-55-96-billion-ai-spending-target-11778691780081.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Alibaba shares surge nearly 8% as firm expects to exceed $55.96 billion AI spending target",
+            "bullets": [
+              "However, the company missed fourth-quarter profit forecasts.",
+              "Like its peers, Alibaba is capitalizing on the AI boom; revenue from its Cloud Intelligence Group climbed 38% to 41.63 billion yuan ($6.13 billion),",
+              "In the March quarter, profitability was squeezed by heavy investments in AI infrastructure and the competitive \"quick commerce\" sector, which focuses on 60-minute deliveries.",
+              "Consequently, adjusted earnings per American Depository Share fell to 0.62 yuan, significantly trailing the estimated 5.79 yuan."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Sebi proposes overhaul of municipal bond rules to deepen urban infrastructure financing market",
+            "link": "https://www.livemint.com/market/bonds/sebi-municipal-bond-rules-revamp-india-11778672936995.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Sebi proposes overhaul of municipal bond rules to deepen urban infrastructure financing market",
+            "bullets": [
+              "Pooled bond issuances by multiple municipalities, stricter rules on use of proceeds, enhanced refinancing disclosures and measures to boost retail participation are among the",
+              "Sebi said municipal corporations require a “quantum rise” in spending to meet urban infrastructure demand and should rely more on stable, self-generated financing sources",
+              "People also ask AI powered insights from this story Sebi is proposing a revamp of municipal bond regulations to make it easier for urban",
+              "Sebi proposes lowering the face value of privately placed municipal bonds to as little as ₹10,000 or ₹100,000."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
