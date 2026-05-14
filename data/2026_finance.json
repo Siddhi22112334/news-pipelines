@@ -152355,5 +152355,47 @@
         }
       ]
     }
+  },
+  "2026-05-15": {
+    "runs": {
+      "01:18": [
+        {
+          "item": {
+            "title": "Nvidia hits new peak, market cap crosses $5.6 trillion after report on US nod for H200 chip sales to China",
+            "link": "https://www.livemint.com/market/stock-market-news/nvidia-hits-new-peak-market-cap-crosses-5-6-trillion-after-report-on-us-nod-for-h200-chip-sales-to-china-11778776143715.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Nvidia hits new peak, market cap crosses $5.6 trillion after report on US nod for H200 chip sales to China",
+            "bullets": [
+              "The government is also seeking 25% of the revenue generated from the exports, and in order to legally collect the export fee, the arrangement",
+              "Despite the approvals, the report said that no sales have been completed so far.",
+              "Chinese firms have reportedly slowed purchases following guidance from Beijing, which is pushing domestic companies to reduce reliance on foreign semiconductor technology.",
+              "China once accounted for 13% of Nvidia’s revenue, and CEO Jensen Huang had previously estimated that the country’s AI market alone would be worth"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Oil ends flat as tanker crossings through Strait of Hormuz temper supply fears",
+            "link": "https://www.livemint.com/market/oil-ends-flat-as-tanker-crossings-through-strait-of-hormuz-temper-supply-fears-11778787239375.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil ends flat as tanker crossings through Strait of Hormuz temper supply fears",
+            "bullets": [
+              "By Siddharth Cavale NEW YORK, May 14 (Reuters) - Oil prices ended little changed on Thursday after Iran's state media said about 30 vessels",
+              "Brent crude oil futures settled up 9 cents, or 0.09%, at $105.72 a barrel.",
+              "People also ask AI powered insights from this story Oil prices remain volatile because while some vessels are crossing the Strait of Hormuz, incidents",
+              "The Strait of Hormuz is a critical chokepoint for global energy supplies, with approximately one-fifth of the world's oil and liquefied natural gas passing"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
