@@ -152967,5 +152967,63 @@
         }
       ]
     }
+  },
+  "2026-05-16": {
+    "runs": {
+      "01:24": [
+        {
+          "item": {
+            "title": "Wall Street pulls back from all-time highs on inflation worries",
+            "link": "https://www.livemint.com/market/wall-street-pulls-back-from-all-time-highs-on-inflation-worries-11778870383850.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street pulls back from all-time highs on inflation worries",
+            "bullets": [
+              "(Updates to mid-afternoon trading) * Indexes down: Dow 0.81%, S&P 500 0.67%, Nasdaq 0.73% * Trump-Xi summit produces scant results * Jerome Powell's term",
+              "stocks retreated from artificial-intelligence-fueled record highs on Friday, as spiking crude prices ignited global inflation fears.",
+              "stock indexes veered lower as a jump in benchmark Treasury yields, reflecting surging energy prices and concerns about long-term inflation, offered an attractive alternative",
+              "The yield on 10-year Treasury notes, an indicator of global borrowing costs, touched its highest level since May 2025, when markets were reeling from"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Dollar climbs for fifth straight day as Treasury yields surge",
+            "link": "https://www.livemint.com/market/dollar-climbs-for-fifth-straight-day-as-treasury-yields-surge-11778872652229.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar climbs for fifth straight day as Treasury yields surge",
+            "bullets": [
+              "* Inflationary pressures fuel rate-hike expectations * Rising US Treasury yields and inflation fears drive dollar strength * Fed's Williams does not see need",
+              "Treasury yields continue to ascend, with the benchmark 10-year Treasury note reaching 4.599%, its highest in a year.",
+              "\"It's looking to me that the bond market's leading the charge on this one, as they often do, that they're starting to get worried",
+              "\"If you're going to get an oil price in WTI from 95 to 105, then a lot of inflation expectations have to be reset,"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Tata Trusts says examining Charity Commissioner directive to postpone May 16 board meeting",
+            "link": "https://www.thehindubusinessline.com/companies/tata-trusts-says-examining-charity-commissioner-directive-to-postpone-may-16-board-meeting/article70984805.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Tata Trusts says examining Charity Commissioner directive to postpone May 16 board meeting",
+            "bullets": [
+              "Tata Trusts said it is examining directions issued by the Maharashtra Charity Commissioner asking it to defer a board meeting scheduled for May 16,",
+              "According to the statement, the Charity Commissioner’s direction referred to a complaint filed on April 18 by Katyayani Agrawal concerning the composition of the"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
