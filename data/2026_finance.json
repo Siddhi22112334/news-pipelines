@@ -154443,5 +154443,45 @@
         }
       ]
     }
+  },
+  "2026-05-19": {
+    "runs": {
+      "00:04": [
+        {
+          "item": {
+            "title": "IOCL Q4 Results: Net profit soars 78% YoY to  ₹14,458 crore; declares final dividend of  ₹1.25 per share",
+            "link": "https://www.livemint.com/market/stock-market-news/iocl-q4-results-net-profit-soars-78-yoy-to-rs-14-458-crore-declares-final-dividend-of-rs-1-25-per-share-11779119016721.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "IOCL Q4 Results: Net profit soars 78% YoY to  ₹14,458 crore; declares final dividend of  ₹1.25 per share",
+            "bullets": [
+              "Indian Oil Corporation reported a mixed performance for the March quarter of FY26, with consolidated revenue from operations rising marginally to ₹2.36 lakh crore,",
+              "Meanwhile, net profit rose to ₹14,458 crore in Q4FY26 from ₹8,123 crore in Q4FY25, registering a strong 78% year-on-year growth, aided by healthy marketing",
+              "The record quarter profit came despite the company suffering huge losses on selling petrol, diesel, and cooking gas LPG below cost in March, as",
+              "The conflict started with the US and Israel attacking Iran on February 28, followed by Tehran's sweeping retaliation that shut the Strait of Hormuz,"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Elon Musk loses lawsuit against OpenAI in US court ruling",
+            "link": "https://www.thehindubusinessline.com/info-tech/elon-musk-loses-lawsuit-against-openai-in-us-court-ruling/article70995449.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Elon Musk loses lawsuit against OpenAI in US court ruling",
+            "bullets": [
+              "“If you don’t believe him, they cannot win.” Musk alleges breach of founding mission Musk accused OpenAI of wrongfully trying to enrich investors and",
+              "Musk’s xAI is now part of his space and rocket company SpaceX, which is preparing a IPO that could exceed OpenAI’s in size."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
