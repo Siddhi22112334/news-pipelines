@@ -154835,5 +154835,46 @@
         }
       ]
     }
+  },
+  "2026-05-20": {
+    "runs": {
+      "01:24": [
+        {
+          "item": {
+            "title": "Gold Declines as Inflation Fears Fuel Interest Rate Hike Bets",
+            "link": "https://www.livemint.com/market/gold-declines-as-inflation-fears-fuel-interest-rate-hike-bets-11779220075188.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold Declines as Inflation Fears Fuel Interest Rate Hike Bets",
+            "bullets": [
+              "Gold Declines as Inflation Fears Fuel Interest Rate Hike Bets Gold declined as persistent concerns over inflation fueled bets that global central banks may",
+              "Bloomberg Published20 May 2026, 01:17 AM IST (Bloomberg) -- Gold declined as persistent concerns over inflation fueled bets that global central banks may be",
+              "Bullion slipped as much as 2.2% before recouping some of the losses.",
+              "Concerns over price pressures stemming from the Iran war helped fuel a selloff in global bond markets, with 30-year yields climbing to a level"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "CBOT wheat rises as drought knocks US crop rating to 30-year low",
+            "link": "https://www.livemint.com/market/cbot-wheat-rises-as-drought-knocks-us-crop-rating-to-30-year-low-11779219765236.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "CBOT wheat rises as drought knocks US crop rating to 30-year low",
+            "bullets": [
+              "By Tom Polansek CHICAGO, - Chicago Board of Trade wheat futures rose on Tuesday after the U.S.",
+              "Department of Agriculture lowered condition ratings for the nation's drought-hit crop to a 30-year low.",
+              "The pledge would take China's total U.S."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
