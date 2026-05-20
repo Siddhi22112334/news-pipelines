@@ -155245,5 +155245,47 @@
         }
       ]
     }
+  },
+  "2026-05-21": {
+    "runs": {
+      "01:45": [
+        {
+          "item": {
+            "title": "Dollar dips on hopes for Iran deal, yen near danger zone",
+            "link": "https://www.livemint.com/market/dollar-dips-on-hopes-for-iran-deal-yen-near-danger-zone-11779303420971.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar dips on hopes for Iran deal, yen near danger zone",
+            "bullets": [
+              "That sent Treasury yields sharply lower and dented the dollar, a safe-haven investment that is correlated with yield moves.",
+              "This includes seven consecutive down days for the yen against the U.S.",
+              "Concerns are growing that inflation linked to the war may become more entrenched in core consumer spending, driving expectations of higher interest rates and",
+              "Treasury yields reached a 16-month high on Tuesday, while 30-year yields hit their highest level since 2007."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Tepid demand for US Treasury auction shows investor jitters over Iran war",
+            "link": "https://www.livemint.com/market/tepid-demand-for-us-treasury-auction-shows-investor-jitters-over-iran-war-11779302186614.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Tepid demand for US Treasury auction shows investor jitters over Iran war",
+            "bullets": [
+              "Treasury 20-year notes met with soft demand on Wednesday, as investors' uncertainty persisted around the war with Iran and the path of inflation.",
+              "sold debt at a high yield of 5.122%, which was roughly the same as where the 20-year bond traded before the sale.",
+              "The slightly soft auction results follow a broad selloff in Treasuries over the past week, as investors weigh the inflation impact of the ongoing",
+              "war with Iran and resulting elevated energy prices."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
