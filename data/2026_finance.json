@@ -155638,5 +155638,64 @@
         }
       ]
     }
+  },
+  "2026-05-22": {
+    "runs": {
+      "01:00": [
+        {
+          "item": {
+            "title": "Dollar whipsawed by conflicting Iran deal signals",
+            "link": "https://www.livemint.com/market/dollar-whipsawed-by-conflicting-iran-deal-signals-11779391239697.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar whipsawed by conflicting Iran deal signals",
+            "bullets": [
+              "* Dollar swings as traders react to conflicting Iran deal reports * Weak global PMIs and energy disruptions boost dollar's safe haven appeal *",
+              "consumer prices and inflation expectations, potentially pushing the Federal Reserve toward rate hikes.",
+              "That has boosted the dollar, which is correlated to Treasury yields and also benefits from a safe-haven bid.",
+              "“We’re almost three months from the start of the oil shock and typically that's when global growth starts to see a bit of a"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Gold steady as oil falls on uncertainty over end to Iran war; dollar, yields ease",
+            "link": "https://www.livemint.com/market/gold-steady-as-oil-falls-on-uncertainty-over-end-to-iran-war-dollar-yields-ease-11779390248963.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold steady as oil falls on uncertainty over end to Iran war; dollar, yields ease",
+            "bullets": [
+              "* Crude oil prices edge down from 3% high earlier * Dollar pares gains, yields reverse course to trade 0.2% down * Traders now",
+              "Oil prices whipsawed in a volatile trading session, trading lower on uncertain prospects for a resolution in the U.S.-Israeli war with Iran.",
+              "\"So oil (is) down and the dollar retreating from a six-week high should bode well for gold in the short term here and it",
+              "The yellow metal has fallen more than 14% since the war started in late February, which has disrupted maritime traffic through the Strait of"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Air India flight from Bengaluru makes emergency landing in Delhi after engine fire alert",
+            "link": "https://www.thehindubusinessline.com/economy/logistics/air-india-flight-from-bengaluru-makes-emergency-landing-in-delhi-after-engine-fire-alert/article71007895.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Air India flight from Bengaluru makes emergency landing in Delhi after engine fire alert",
+            "bullets": [
+              "The incident occurred on flight AI2802 operating from Bengaluru to Delhi.",
+              "The indication was subsequently confirmed as true.",
+              "The crew followed all standard operating procedures and landed the aircraft safely at Delhi airport."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
