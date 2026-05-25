@@ -157605,5 +157605,29 @@
         }
       ]
     }
+  },
+  "2026-05-26": {
+    "runs": {
+      "01:00": [
+        {
+          "item": {
+            "title": "Brent crude tumbles below $96, extends slide to 4-week low as US-Iran peace hopes grow",
+            "link": "https://www.livemint.com/market/stock-market-news/brent-crude-tumbles-below-96-extends-slide-to-4-week-low-as-us-iran-peace-hopes-grow-11779729610797.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Brent crude tumbles below $96, extends slide to 4-week low as US-Iran peace hopes grow",
+            "bullets": [
+              "Crude oil prices continued to drift lower on Monday, 25 May, as hopes of a potential peace deal between the US and Iran strengthened,",
+              "The decline in crude prices accelerated after US Secretary of State Marco Rubio said that the US would give diplomacy every opportunity to succeed",
+              "The repeated swings between escalation fears and de-escalation hopes have kept crude oil prices highly volatile.",
+              "A full reopening of the waterway would provide significant relief to major Asian economies and could push oil prices substantially lower, considering the route"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
