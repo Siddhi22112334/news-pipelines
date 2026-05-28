@@ -158741,5 +158741,47 @@
         }
       ]
     }
+  },
+  "2026-05-29": {
+    "runs": {
+      "02:17": [
+        {
+          "item": {
+            "title": "Wall Street ends higher, Brent crude eases on reports of US-Iran truce extension",
+            "link": "https://www.livemint.com/market/wall-street-ends-higher-brent-crude-eases-on-reports-of-us-iran-truce-extension-11780000266705.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street ends higher, Brent crude eases on reports of US-Iran truce extension",
+            "bullets": [
+              "stocks advanced on Thursday and European shares pared their losses following reports that the United States and Iran have reached an agreement to extend",
+              "The S&P 500 and the Nasdaq registered their third consecutive sessions of record closing highs, while European shares, though off session lows, closed lower",
+              "But the agreement still needs the approval of U.S.",
+              "\"There's certainly been a degree of day-to-day volatility in markets as a result of geopolitical events,\" said Bill Merz, head of Capital Market Research"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Oil prices settle in mixed direction on conflicting reports of US-Iran ceasefire deal",
+            "link": "https://www.livemint.com/market/oil-prices-settle-in-mixed-direction-on-conflicting-reports-of-us-iran-ceasefire-deal-11779998658953.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil prices settle in mixed direction on conflicting reports of US-Iran ceasefire deal",
+            "bullets": [
+              "By Shariq Khan NEW YORK, May 28 (Reuters) - Oil prices settled mixed on Thursday after a choppy trading session, as traders mulled conflicting",
+              "oil futures eked out marginal gains to settle up 22 cents, or 0.3%, at $88.90 a barrel.",
+              "Oil prices have been volatile in recent sessions on conflicting signals on the possibility of an end to the three-month Iran war and potential",
+              "President Donald Trump's approval, sources told Reuters."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
