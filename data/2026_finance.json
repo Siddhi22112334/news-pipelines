@@ -159025,5 +159025,80 @@
         }
       ]
     }
+  },
+  "2026-05-30": {
+    "runs": {
+      "00:42": [
+        {
+          "item": {
+            "title": "Wall Street follows world stocks higher, crude prices ease on potential US-Iran truce extension",
+            "link": "https://www.livemint.com/market/wall-street-follows-world-stocks-higher-crude-prices-ease-on-potential-us-iran-truce-extension-11780081777887.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street follows world stocks higher, crude prices ease on potential US-Iran truce extension",
+            "bullets": [
+              "Treasury yields dip for fourth straight session * Sources say Hormuz deal awaiting Trump's approval (Updates to mid-afternoon trading, adds photos) By Stephen Culp",
+              "stock indexes to modest gains, and Treasury yields dipped as markets prepared to turn the page on a week and month marked by a",
+              "The three-month-long conflict has put upward price pressure on inflation, which threatens to grow less transitory and more established the longer the war drags",
+              "Brent crude oil prices eased as the market awaited confirmation that the United States and Iran have extended their truce."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Raw sugar bounces back from four-week lows; coffee down",
+            "link": "https://www.livemint.com/market/raw-sugar-bounces-back-from-four-week-lows-coffee-down-11780081594836.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Raw sugar bounces back from four-week lows; coffee down",
+            "bullets": [
+              "* Sugar's recovery came despite a drop in oil prices on the back of a possible U.S.-Iran ceasefire extension.",
+              "* The contract may retrace to $3,919 a ton, as it has more or less broken a support at $4,084, said Reuters technical analyst"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "IIFCL’s equity dilution gets government nod",
+            "link": "https://www.thehindubusinessline.com/money-and-banking/iifcls-equity-dilution-gets-government-nod/article71038290.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "IIFCL’s equity dilution gets government nod",
+            "bullets": [
+              "Meanwhile, the company reported a net profit of ₹1,379 crore in FY26 as against ₹1,590 crore of FY 25.",
+              "The reduction is due to foreign exchange loss.",
+              "However, the timing of IPO has not been finalised."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Infosys CEO Salil Parekh earns ₹82.6 crore in FY26, up 2%",
+            "link": "https://www.thehindubusinessline.com/info-tech/infosys-ceo-salil-parekh-earns-826-crore-in-fy26-up-2/article71038934.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Infosys CEO Salil Parekh earns ₹82.6 crore in FY26, up 2%",
+            "bullets": [
+              "He earned Rs 23.35 crore in bonus, incentives, and variable pay.",
+              "Infosys reported a 20.8 per cent rise in consolidated net profit to Rs 8,501 crore in the January-March quarter of FY26, while its revenue",
+              "In the full 2025-26 fiscal year, Infosys' net profit climbed 10.20 per cent to Rs 29,440 crore from Rs 26,713 crore in 2024-25.",
+              "Its revenue from operations in FY26 rose 9.6 per cent to Rs 1,78,650 crore."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
