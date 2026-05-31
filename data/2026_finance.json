@@ -160009,5 +160009,29 @@
         }
       ]
     }
+  },
+  "2026-06-01": {
+    "runs": {
+      "00:49": [
+        {
+          "item": {
+            "title": "Wall Street Week Ahead: US payrolls data, tech earnings and AI events set to drive markets",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-us-payrolls-data-tech-earnings-and-ai-events-set-to-drive-markets-11780243892466.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street Week Ahead: US payrolls data, tech earnings and AI events set to drive markets",
+            "bullets": [
+              "On the corporate front, earnings season will continue with several notable technology companies reporting quarterly results.",
+              "June 3 (Wednesday), separate reports on ADP employment for May, S&P final US services PMI for May, factory orders for April, ISM services for",
+              "Following companies are due to report quarter results in the week ahead — Hewlett Packard, Credo Technology, Palo Alto Networks, Ulta Beauty, Broadcom, CrowdStrike,",
+              "Oil prices moved lower on Friday as traders grew increasingly confident that Washington and Tehran would reach an agreement to prolong their existing ceasefire"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
