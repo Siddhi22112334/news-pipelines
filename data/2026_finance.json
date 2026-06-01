@@ -160254,5 +160254,46 @@
         }
       ]
     }
+  },
+  "2026-06-02": {
+    "runs": {
+      "00:10": [
+        {
+          "item": {
+            "title": "Oil surges over 8% as fresh Middle East tensions revive supply fears; Brent tops $98 per barrel",
+            "link": "https://www.livemint.com/market/stock-market-news/oil-surges-over-8-as-fresh-middle-east-tensions-revive-supply-fears-brent-tops-98-per-barrel-11780329664362.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil surges over 8% as fresh Middle East tensions revive supply fears; Brent tops $98 per barrel",
+            "bullets": [
+              "Crude oil prices surged on Monday, 1 June, as renewed tensions in the Middle East reignited fears that global supply disruptions could persist for",
+              "Benchmark Brent crude futures jumped $7.3 per barrel to hit the day’s high of $97.79, recouping much of their recent losses and putting the",
+              "Oil prices had cooled in recent sessions after hopes emerged that the conflict in West Asia was moving toward de-escalation.",
+              "The sharp rebound in oil prices came after Iran reportedly said it would suspend the exchange of messages with the US in response to"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Monday’s data blitz: GST inflows, manufacturing PMI, and auto sales point to strong domestic demand",
+            "link": "https://www.thehindubusinessline.com/economy/mondays-data-blitz-gst-inflows-manufacturing-pmi-and-auto-sales-point-to-strong-domestic-demand/article71049063.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Monday’s data blitz: GST inflows, manufacturing PMI, and auto sales point to strong domestic demand",
+            "bullets": [
+              "Various high-frequency economic indicators released on Monday showed that the economy is resilient and domestic demand is picking up.",
+              "GST collection grew to ₹1.94 lakh crore in May, showing a growth of 3.2 per cent.",
+              "PMI manufacturing posted 55.0 in May, above the April reading of 54.7, indicating the strongest improvement in the sector’s health in three months."
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
