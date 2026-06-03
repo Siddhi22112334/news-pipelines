@@ -160829,5 +160829,46 @@
         }
       ]
     }
+  },
+  "2026-06-04": {
+    "runs": {
+      "00:40": [
+        {
+          "item": {
+            "title": "US yields climb on latest flare in Gulf tensions",
+            "link": "https://www.livemint.com/market/us-yields-climb-on-latest-flare-in-gulf-tensions-11780513403041.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US yields climb on latest flare in Gulf tensions",
+            "bullets": [
+              "(Updates to afternoon New York trading) * Middle East tensions drive oil prices higher, fueling inflation concerns * US economic data beats forecasts, with",
+              "Treasury yields rose on Wednesday as rising hostilities in the Middle East following strikes by both the U.S.",
+              "and Iran sent oil prices higher and reignited worries about sustained inflation pressures.",
+              "The yield on the benchmark U.S."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "AI Bubble Is Coming to Credit Markets, DoubleLine’s Cohen Says",
+            "link": "https://www.livemint.com/market/ai-bubble-is-coming-to-credit-markets-doubleline-s-cohen-says-11780512268259.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "AI Bubble Is Coming to Credit Markets, DoubleLine’s Cohen Says",
+            "bullets": [
+              "Many AI debt deals benefit from the backing of big, profitable tech companies known as hyperscalers, including Alphabet Inc., the parent of Google, or",
+              "Issuance in the junk bond market could help boost the size of that market over time, after a chunk of money allocated to high-yield",
+              "“The only thing that shakes us meaningfully loose from this very tight range is a meaningful downturn in the economic data and a rally"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
