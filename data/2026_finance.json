@@ -160869,7 +160869,44 @@
           }
         }
       ],
-      "03:44": []
+      "03:44": [],
+      "05:47": [
+        {
+          "item": {
+            "title": "Wall Street Giants Lose Out to Taiwan Rivals in New Wealth Race",
+            "link": "https://www.livemint.com/market/wall-street-giants-lose-out-to-taiwan-rivals-in-new-wealth-race-11780531384529.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street Giants Lose Out to Taiwan Rivals in New Wealth Race",
+            "bullets": [
+              "BlackRock Inc.’s active bond ETF secured a mere NT$892 million in pre-IPO capital in March.",
+              "Its earlier Taiwanese debut, an iShares product tracking global equities, has suffered consecutive monthly outflows since December, according to data compiled by Bloomberg.",
+              "AllianceBernstein is set to launch an IPO in early June for its own third active ETF, pivoting directly toward local equities."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "UPI acceptance at QR-code merchants goes live in Cambodia",
+            "link": "https://www.thehindubusinessline.com/money-and-banking/upi-acceptance-at-qr-code-merchants-goes-live-in-cambodia/article71058268.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "UPI acceptance at QR-code merchants goes live in Cambodia",
+            "bullets": [
+              "The Reserve Bank of India (RBI) said the connectivity of payment systems between India and Cambodia for the acceptance of UPI at QR-code-enabled merchants",
+              "This marks the go-live of the first phase of collaboration between NPCI International Payments Limited (NIPL) and Acleda Bank Plc., under the aegis of",
+              "This will reduce dependency on cash and also act as an alternative to payments using cards,” RBI said in a statement.",
+              "The facility to enable Cambodian travellers to make UPI QR-enabled merchant payments in India shall be undertaken subsequently in the second phase, it added."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
