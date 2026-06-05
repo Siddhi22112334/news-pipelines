@@ -161588,5 +161588,47 @@
         }
       ]
     }
+  },
+  "2026-06-06": {
+    "runs": {
+      "00:33": [
+        {
+          "item": {
+            "title": "Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed",
+            "link": "https://www.livemint.com/market/wall-street-slumps-as-chips-slide-robust-jobs-data-stokes-fears-of-hawkish-fed-11780685605057.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed",
+            "bullets": [
+              "(Updates to mid-afternoon trading) * Indexes down: Dow 0.85%, S&P 1.82%, Nasdaq 3.07% * Semiconductors tank, set for biggest one-day drop since Liberation Day",
+              "Fading hopes for a near-term resolution to the Middle East war and reopening the Strait of Hormuz are stirring fears that energy price pressures",
+              "Lululemon Athletica slumped 8% after the athletic apparel maker cut its annual profit forecast and projected second-quarter earnings well below Wall Street estimates.",
+              "Cooper Companies rose 7.6% after the contact lens maker beat estimates for second-quarter results."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Emerging-Market Currencies Sink on Gangbuster US Jobs Report",
+            "link": "https://www.livemint.com/market/emergingmarket-currencies-sink-on-gangbuster-us-jobs-report-11780685913066.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Emerging-Market Currencies Sink on Gangbuster US Jobs Report",
+            "bullets": [
+              "“US labor demand is recovering strongly and backs a more restrictive Fed policy stance,” according to Brown Brothers Harriman’s Elias Haddad.",
+              "The figures boosted bets that the Federal Reserve will consider an interest-rate increase this year in order to contain inflation.",
+              "India’s rupee, however, outperformed all its peers.",
+              "The currency rallied as much as 0.9% after the central bank and government unveiled a “bazooka” package to support the rupee after it plunged"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
