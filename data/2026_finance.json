@@ -162493,5 +162493,29 @@
         }
       ]
     }
+  },
+  "2026-06-08": {
+    "runs": {
+      "00:53": [
+        {
+          "item": {
+            "title": "Trump pushes back against Fed rate-hike bets following strong US jobs report",
+            "link": "https://www.livemint.com/market/stock-market-news/trump-pushes-back-against-fed-rate-hike-bets-following-strong-us-jobs-report-11780852424245.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Trump pushes back against Fed rate-hike bets following strong US jobs report",
+            "bullets": [
+              "US President Donald Trump said the Federal Reserve would be making a mistake if it raised interest rates, even as investors increasingly expect tighter",
+              "In an interview with NBC’s Meet the Press, Trump pushed back against market expectations that the central bank may need to lift borrowing costs",
+              "“We should actually lower interest rates.” According to Trump, increasing the benchmark interest rate would be “the wrong thing to do.” The comments underscore",
+              "Trump selected Warsh to lead the Federal Reserve after repeatedly criticizing the central bank and urging policymakers to reduce interest rates."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
