@@ -162908,6 +162908,44 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "04:30": [
+        {
+          "item": {
+            "title": "Wall Street rebounds with tech, chipmaker shares",
+            "link": "https://www.livemint.com/market/wall-street-rebounds-with-tech-chipmaker-shares-11780944611087.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street rebounds with tech, chipmaker shares",
+            "bullets": [
+              "S&P 500 technology led gains among sectors, increasing 1.8%, while the Philadelphia SE Semiconductor Index advanced 6.2%, rebounding from Friday's losses that wiped out",
+              "Intel shares jumped 12% after news website the Information reported that Alphabet's Google had placed an order to manufacture more than 3 million tensor",
+              "\"What normally happens after that is you get analysts coming in and reiterating buys.\" He added: \"This market has been priced for quite a",
+              "Underwhelming results from chipmaker Broadcom last week had raised concerns that the chip sector was growing too fast, while much stronger than expected jobs"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "RBI unveils dollar-rupee swap window to draw inflows, steady rupee",
+            "link": "https://www.livemint.com/market/rbi-unveils-dollar-rupee-swap-window-to-draw-inflows-steady-rupee-11780934389319.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "RBI unveils dollar-rupee swap window to draw inflows, steady rupee",
+            "bullets": [
+              "Mumbai: The Reserve Bank of India (RBI) on Monday operationalized the foreign currency liquidity measures announced by governor Sanjay Malhotra in Friday’s monetary policy,",
+              "Under the FCNR(B) scheme, banks can access a US dollar-rupee swap facility for fresh foreign currency non-resident deposits mobilized for a tenor of three",
+              "Banks will be able to swap dollars with the RBI at par—exchanging dollars for rupees today and reversing the transaction at the same exchange",
+              "Separately, the RBI introduced a swap facility for eligible ECBs raised by public sector companies and overseas foreign currency borrowings (OFCBs) raised by banks."
+            ],
+            "impact": "Bearish"
+          }
+        }
       ]
     }
   }
