@@ -163280,7 +163280,43 @@
   },
   "2026-06-10": {
     "runs": {
-      "01:08": []
+      "01:08": [],
+      "03:20": [
+        {
+          "item": {
+            "title": "Copper Advances as Mideast Tensions Ease and Stocks Climb",
+            "link": "https://www.livemint.com/market/copper-advances-as-mideast-tensions-ease-and-stocks-climb-11781040246451.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Copper Advances as Mideast Tensions Ease and Stocks Climb",
+            "bullets": [
+              "The recent flare-up had threatened to derail negotiations to end the wider regional conflict, which has stoked inflation and raised the prospect of higher",
+              "local time on the London Metal Exchange, reversing earlier losses of as much as 0.5%."
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "Emerging Assets Stage Rebound as Dollar Weakens Ahead of CPI",
+            "link": "https://www.livemint.com/market/emerging-assets-stage-rebound-as-dollar-weakens-ahead-of-cpi-11781038102751.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Emerging Assets Stage Rebound as Dollar Weakens Ahead of CPI",
+            "bullets": [
+              "(Bloomberg) -- Emerging-market assets gained Tuesday, with Asian technology shares rebounding from steep losses earlier in the week and most currencies strengthening against the",
+              "in New York, its first gain in six sessions amid losses in the greenback and oil prices.",
+              "“The broader macro focus remains on global risk and US yields, and in particular on Wednesday’s US CPI release.” The major question for investors",
+              "boosted its recommendation on emerging-market currencies, favoring frontier markets, high-yielding names and those “where central banks are ready to hike” in response to a"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
