@@ -163620,5 +163620,45 @@
         }
       ]
     }
+  },
+  "2026-06-11": {
+    "runs": {
+      "02:02": [
+        {
+          "item": {
+            "title": "Wall Street indexes fall 1%, dragged by tech and worries about Middle East",
+            "link": "https://www.livemint.com/market/wall-street-indexes-fall-1-dragged-by-tech-and-worries-about-middle-east-11781118175933.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street indexes fall 1%, dragged by tech and worries about Middle East",
+            "bullets": [
+              "Investors were still taking some profits in the tech space, said Tom Hainlin, an investment strategist at U.S.",
+              "The Federal Reserve is widely expected to hold interest rates at its June policy meeting."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "TSX hits three-week low on rising Mideast tensions; Apotex makes market debut",
+            "link": "https://www.livemint.com/market/tsx-hits-three-week-low-on-rising-mideast-tensions-apotex-makes-market-debut-11781122933704.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "TSX hits three-week low on rising Mideast tensions; Apotex makes market debut",
+            "bullets": [
+              "* TSX ends down 0.8% at 34,151.32 * Materials group falls 4% as gold slides * Bank of Canada leaves interest rates on hold",
+              "stock indexes posted steeper declines as chipmaker shares extended recent losses and tensions rose between the U.S.",
+              "* \"This sort of sabre-rattling in Iran is not helping,\" said Brian Madden, chief investment officer at First Avenue Investment Counsel.",
+              "The price of gold was down 4.4% as investors worried that the war could lead to higher interest rates globally to curb inflation."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
