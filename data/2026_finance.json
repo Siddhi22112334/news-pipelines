@@ -163972,5 +163972,47 @@
         }
       ]
     }
+  },
+  "2026-06-12": {
+    "runs": {
+      "01:08": [
+        {
+          "item": {
+            "title": "SEC Proposes Eliminating Equities Trade-Through Rule",
+            "link": "https://www.livemint.com/market/sec-proposes-eliminating-equities-trade-through-rule-11781205906029.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "SEC Proposes Eliminating Equities Trade-Through Rule",
+            "bullets": [
+              "“I’m concerned that the rule incentivized a proliferation of trading venues,” Atkins said Thursday shortly before the commission voted on the plan, adding it",
+              "Eliminating the rules could have far-reaching impacts, including how brokers choose to route their orders to exchanges and other trading venues.",
+              "However, an official added the action could result in worse prices for some large retail orders, though staff did not expect the vast majority",
+              "Finra has said it plans to “modernize best execution guidance” for brokers, according to an agenda the group released earlier this week."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Canadian dollar hits seven-month low on wider yield spreads",
+            "link": "https://www.livemint.com/market/canadian-dollar-hits-seven-month-low-on-wider-yield-spreads-11781203996070.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Canadian dollar hits seven-month low on wider yield spreads",
+            "bullets": [
+              "* Canadian dollar falls 0.3% against the greenback * Touches weakest since November at 1.4023 * Price of oil drops 2% as Iran strikes",
+              "2-year spread touches widest since June 2025 By Fergal Smith TORONTO, Jan 11 (Reuters) - The Canadian dollar weakened to a seven-month low against",
+              "2-year yields touched its widest in one year.",
+              "* The BoC on Wednesday left its benchmark interest rate unchanged at 2.25% for a fifth straight time and said it was seeing limited"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
