@@ -164378,5 +164378,47 @@
         }
       ]
     }
+  },
+  "2026-06-13": {
+    "runs": {
+      "01:41": [
+        {
+          "item": {
+            "title": "Brent falls to lowest since March on expected peace deal",
+            "link": "https://www.livemint.com/market/brent-falls-to-lowest-since-march-on-expected-peace-deal-11781294206069.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Brent falls to lowest since March on expected peace deal",
+            "bullets": [
+              "\"Headlines are driving the market once again as confidence grows that an eventual deal will be struck and the Strait (of Hormuz) reopens,\" said",
+              "One caveat, however, is that global and regional oil stocks are still low and could drift lower, even with a deal, as it would",
+              "Traffic through the strait, which normally carries a fifth of global oil and liquefied natural gas shipments, has been extremely limited as a result",
+              "\"We believe the market reaches an inflection point in late July if we do not see oil flows resuming before then,\" ING analysts said"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Yields rise as traders weigh possible Iran deal, Fed policy",
+            "link": "https://www.livemint.com/market/yields-rise-as-traders-weigh-possible-iran-deal-fed-policy-11781293404645.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Yields rise as traders weigh possible Iran deal, Fed policy",
+            "bullets": [
+              "(Updated in New York afternoon time) * Traders monitor potential US-Iran peace deal * Policy meeting under new Fed Chair Kevin Warsh may bring",
+              "Treasury yields rose from one-week lows on Friday as traders focused on the prospect of a peace deal with Iran and looked ahead to",
+              "Yields fell on Thursday after U.S.",
+              "Friday's trading reversed some of Thursday's move, though yields pared an earlier increase as the United States and Iran signaled that an agreement to"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
