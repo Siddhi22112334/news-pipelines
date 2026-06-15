@@ -165458,5 +165458,47 @@
         }
       ]
     }
+  },
+  "2026-06-16": {
+    "runs": {
+      "03:05": [
+        {
+          "item": {
+            "title": "Suzlon 2.0: Brokerages remain bullish, bet big on renewable energy giant’s execution-led growth",
+            "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-2-0-brokerages-see-execution-led-growth-opportunity-retain-bullish-stance-11781526248107.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Suzlon 2.0: Brokerages remain bullish, bet big on renewable energy giant’s execution-led growth",
+            "bullets": [
+              "The company outlined plans to transform itself from a wind turbine manufacturer into a full-stack renewable energy (RE) solutions provider, targeting significant expansion across",
+              "Management highlighted a structural upcycle in global electricity demand and laid out ambitious FY31 targets, including over 25% revenue CAGR, expansion of its renewable",
+              "Suzlon is targeting more than 25% consolidated revenue CAGR through FY31, increasing DevCo's market share to over 60%, raising its share in India's wind",
+              "\"We remain positive on Suzlon based on the company’s long-term strategy to resolve execution bottlenecks, increasing strategic focus on integrated full-stack RE solutions, and"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "US-Iran peace deal eases oil risk premium, supply risks persist",
+            "link": "https://www.livemint.com/market/commodities/oil-markets-reprice-west-asia-risk-us-iran-peace-talk-supply-outlook-11781445877886.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US-Iran peace deal eases oil risk premium, supply risks persist",
+            "bullets": [
+              "Oil markets fell sharply on Monday as traders unwound geopolitical risk premiums tied to the West Asia conflict, after reports of a US-Iran peace",
+              "At 11.12am (India time), the August contract of Brent on the Intercontinental Exchange was trading at $83.57 a barrel, lower by 4.36% from its",
+              "The July contract of the West Texas Intermediate on the NYMEX fell 4.70% to $80.89 per barrel.",
+              "The Strait of Hormuz, which carries about 20% of global oil and gas trade, has been heavily disrupted since the conflict escalated."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
