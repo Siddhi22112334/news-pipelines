@@ -165757,5 +165757,47 @@
         }
       ]
     }
+  },
+  "2026-06-17": {
+    "runs": {
+      "02:59": [
+        {
+          "item": {
+            "title": "Emerging FX Index Edges Up on Peace Deal Ahead of Fed Meeting",
+            "link": "https://www.livemint.com/market/emerging-fx-index-edges-up-on-peace-deal-ahead-of-fed-meeting-11781643040928.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Emerging FX Index Edges Up on Peace Deal Ahead of Fed Meeting",
+            "bullets": [
+              "(Bloomberg) -- An index for emerging-market currencies edged higher on Monday as traders weighed the interim peace deal between the US and Iran against",
+              "Currencies from Chile and Poland — nations that rely on crude imports — were among the biggest gainers and jumped to a session high",
+              "Risky assets across the world have seen a relief rally as the deal, expected to be signed on Friday, would extend a ceasefire for",
+              "Traders and economists expect the Fed will keep interest rates on hold, but Warsh is caught between pressure from President Donald Trump to lower"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Gold rises over 1% as US-Iran peace deal optimism eases rate hike bets",
+            "link": "https://www.livemint.com/market/gold-rises-over-1-as-us-iran-peace-deal-optimism-eases-rate-hike-bets-11781638206901.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold rises over 1% as US-Iran peace deal optimism eases rate hike bets",
+            "bullets": [
+              "Federal Reserve this year eased, following an interim U.S.-Iran peace deal that lowered oil prices and reduced inflation fears.",
+              "\"What we've seen as a result of that has been short-term interest rates drop, energy prices come down, and less likelihood that the Fed",
+              "Bullion has been under pressure from the U.S.-Israeli war with Iran, as rising oil prices fuel expectations of prolonged high interest rates.",
+              "Despite being an inflation hedge, non-yielding gold suffers in a high-interest-rate environment."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
