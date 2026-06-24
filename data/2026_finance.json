@@ -168425,5 +168425,46 @@
         }
       ]
     }
+  },
+  "2026-06-25": {
+    "runs": {
+      "00:46": [
+        {
+          "item": {
+            "title": "Micron Technology earnings in spotlight as investors look for signs of sustained AI demand",
+            "link": "https://www.livemint.com/market/stock-market-news/micron-technology-earnings-in-spotlight-as-investors-look-for-signs-of-sustained-ai-demand-11782320631876.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Micron Technology earnings in spotlight as investors look for signs of sustained AI demand",
+            "bullets": [
+              "Micron Technology shares fell modestly by 1% to $1,028 apiece in Wednesday’s trade ahead of the company’s fiscal third-quarter results, which are expected to",
+              "The company is expected to report earnings of $20.83 per share on revenue of $35.75 billion.",
+              "According to a Reuters report, Micron Technology is expected to post a 282.6% year-on-year jump in revenue to $35.59 billion for the quarter ended",
+              "The report noted that the consensus revenue estimate is above Micron’s guidance issued on March 18, 2026, when the company projected quarterly revenue in"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump claims Iran making major concessions, says ‘we’re winning by a lot’",
+            "link": "https://www.thehindubusinessline.com/news/world/trump-claims-iran-making-major-concessions-says-were-winning-by-a-lot/article71143198.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Trump claims Iran making major concessions, says ‘we’re winning by a lot’",
+            "bullets": [
+              "U.S.",
+              "President Donald Trump said on Wednesday that Iran is making very big concessions.",
+              "\"We're winning by a lot."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
