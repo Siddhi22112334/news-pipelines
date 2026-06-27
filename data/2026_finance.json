@@ -169322,7 +169322,44 @@
     "runs": {
       "01:18": [],
       "02:54": [],
-      "04:19": []
+      "04:19": [],
+      "05:38": [
+        {
+          "item": {
+            "title": "US strikes Iran in response to ship attack that Trump called a ceasefire violation",
+            "link": "https://www.thehindubusinessline.com/news/world/us-strikes-iran-in-response-to-ship-attack-that-trump-called-a-ceasefire-violation/article71153092.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US strikes Iran in response to ship attack that Trump called a ceasefire violation",
+            "bullets": [
+              "The US struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz.",
+              "Ebrahim Azizi, who heads the Iranian parliament's national security commission, responded to Trump on social media earlier Friday, saying, \"The Strait of Hormuz is",
+              "Cargo ship attack poses a test for shipping Shipping analysts said the drone strike cast a shadow over what had been a growing stream"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "OpenAI restricts new ChatGPT model release amid US cybersecurity review",
+            "link": "https://www.thehindubusinessline.com/info-tech/openai-restricts-new-chatgpt-model-release-amid-us-cybersecurity-review/article71153139.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "OpenAI restricts new ChatGPT model release amid US cybersecurity review",
+            "bullets": [
+              "New, powerful AI models have drawn White House scrutiny Trump earlier in June signed an executive order on AI oversight that established a framework",
+              "The order described participation by AI developers as voluntary but the framework has not yet been fully developed.",
+              "And there was some truth to it in terms of the sense that this model had advanced cyber capabilities.\" OpenAI, also based in San",
+              "The Pentagon designated Anthropic as a national security risk for raising ethical and safety concerns about AI usage in war, and Trump himself ordered"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
     }
   }
 }
