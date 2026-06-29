@@ -170346,5 +170346,29 @@
         }
       ]
     }
+  },
+  "2026-06-30": {
+    "runs": {
+      "00:38": [
+        {
+          "item": {
+            "title": "SpaceX shares slide 32% from record high, but remain 13% above IPO price",
+            "link": "https://www.livemint.com/market/stock-market-news/spacex-shares-slide-32-from-record-high-but-remain-13-above-ipo-price-11782752072175.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "SpaceX shares slide 32% from record high, but remain 13% above IPO price",
+            "bullets": [
+              "The sharp correction has pushed IPO investors into the red and clouded the stock's near-term outlook amid heightened volatility in technology stocks.",
+              "Nevertheless, the stock still remains 13.3% above its IPO price.",
+              "Billed as one of the largest IPOs in US stock market history, SpaceX received an overwhelming response from investors and debuted at $150, representing",
+              "The strong investor response also prompted SpaceX's underwriters to exercise the overallotment option, increasing the total proceeds from the offering to $85.7 billion."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
