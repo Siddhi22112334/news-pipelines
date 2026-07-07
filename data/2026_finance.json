@@ -173432,6 +173432,41 @@
             "impact": "Neutral"
           }
         }
+      ],
+      "02:02": [
+        {
+          "item": {
+            "title": "Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction",
+            "link": "https://www.thehindubusinessline.com/economy/logistics/air-india-delhi-bound-flight-aborts-takeoff-at-mumbai-airport-after-atc-instruction/article71195407.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Air India Delhi-bound flight aborts takeoff at Mumbai airport after ATC instruction",
+            "bullets": [
+              "In a statement, Air India said the crew operating flight AI816 from Mumbai to Delhi discontinued the takeoff run after receiving an instruction from",
+              "“The aircraft will undergo necessary checks as per standard operating procedures."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Rainfall deficit narrows to 12% as July records above-normal rainfall: Govt",
+            "link": "https://www.thehindubusinessline.com/economy/agri-business/rainfall-deficit-narrows-to-12-as-july-records-above-normal-rainfall-govt/article71195444.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Rainfall deficit narrows to 12% as July records above-normal rainfall: Govt",
+            "bullets": [
+              "There was a delay in the onset of monsoon by about 10 days in Gujarat, Madhya Pradesh, Chhattisgarh and Maharashtra.",
+              "Weekly meetings of Crop Weather Watch group, along with states, are being convened to monitor rainfall, reservoir storage, crop sowing, input availability, market trends,",
+              "District Agriculture Contingency Plans have been updated for 262 vulnerable districts and Standard Operating Procedures for “Managing El Nino Risks in Indian Agriculture” have"
+            ],
+            "impact": "Bearish"
+          }
+        }
       ]
     }
   }
