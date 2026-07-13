@@ -176225,5 +176225,46 @@
         }
       ]
     }
+  },
+  "2026-07-14": {
+    "runs": {
+      "00:17": [
+        {
+          "item": {
+            "title": "SpaceX extends losses, hovers near IPO price after 39% plunge from peak",
+            "link": "https://www.livemint.com/market/stock-market-news/spacex-extends-losses-hovers-near-ipo-price-after-39-plunge-from-peak-11783959405363.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "SpaceX extends losses, hovers near IPO price after 39% plunge from peak",
+            "bullets": [
+              "The initial euphoria surrounding SpaceX appears to be fading, with the shares falling another 5.3% in Monday's trade to $137.68, hovering just above their",
+              "However, the optimism soon faded as investors booked profits and global technology stocks came under pressure.",
+              "As a result, the stock has surrendered all of its post-IPO gains and is now trading close to its issue price.",
+              "Earlier, the stock was also added to the Russell 1000 Index in late June, just two weeks after its IPO."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Aditya Birla Group acquires Sprng Energy in ₹17,200 crore deal",
+            "link": "https://www.thehindubusinessline.com/companies/aditya-birla-group-acquires-sprng-energy-in-17200-crore-deal/article71218131.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Aditya Birla Group acquires Sprng Energy in ₹17,200 crore deal",
+            "bullets": [
+              "The transaction, expected to be completed later this year, adds a contracted portfolio of 5 GWp capacity, comprising 3.3 GWp of operational capacity and",
+              "Sprng Energy is a leading renewable energy platform in India, focused on developing and operating large-scale solar and wind projects.",
+              "Aryaman Vikram Birla, Director, Aditya Birla Group and Aditya Birla Renewables, said Sprng Energy brings a high-quality asset base, creditworthy off-takers and strong contracted"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
