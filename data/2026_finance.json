@@ -179060,7 +179060,43 @@
   },
   "2026-07-19": {
     "runs": {
-      "00:34": []
+      "00:34": [],
+      "01:39": [
+        {
+          "item": {
+            "title": "Apple overtakes Nvidia as world's most valuable company amid chip selloff",
+            "link": "https://www.livemint.com/market/stock-market-news/nvidia-drops-below-apple-as-top-valued-company-on-chip-selloff-11784297104631.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Apple overtakes Nvidia as world's most valuable company amid chip selloff",
+            "bullets": [
+              "The selloff has put the semiconductor sector on track for its worst weekly decline since the tariff-driven market turmoil in April 2025, with the",
+              "Analysts also remain overwhelmingly bullish, with the benchmark expected to deliver an average upside of around 38% over the next 12 months, based on"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Wall Street falls on deepening selloff in chip stocks, Netflix slumps10.6%, Nvidia tumbles 4%",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-falls-on-deepening-selloff-in-chip-stocks-netflix-slumps-11784295818738.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street falls on deepening selloff in chip stocks, Netflix slumps10.6%, Nvidia tumbles 4%",
+            "bullets": [
+              "In the bond market, the yield on the benchmark 10-year US Treasury note eased to 4.52%, down from 4.57% in the previous session.",
+              "Netflix plunged 10.6% after posting quarterly revenue of $12.6 billion, narrowly missing Wall Street expectations.",
+              "The streaming giant also reported annual revenue growth of 13.4%, marking its slowest pace of expansion in nearly three years and disappointing investors.",
+              "Medical technology company Intuitive Surgical declined 11.1%, despite reporting quarterly results that exceeded analysts' estimates, as investors reacted cautiously to its outlook and broader"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
