@@ -179540,5 +179540,29 @@
         }
       ]
     }
+  },
+  "2026-07-20": {
+    "runs": {
+      "00:37": [
+        {
+          "item": {
+            "title": "Wall Street Week Ahead: Alphabet, Intel, Tesla earnings take center stage",
+            "link": "https://www.livemint.com/market/wall-street-week-ahead-alphabet-intel-tesla-earnings-take-center-stage-11784473993152.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street Week Ahead: Alphabet, Intel, Tesla earnings take center stage",
+            "bullets": [
+              "Following the recent sell-off in semiconductor stocks, quarterly results from Alphabet, Google's parent company, and chipmaker Intel are expected to be closely watched for",
+              "Investors will monitor updates from Tesla, led by Elon Musk, along with American Express, Philip Morris, defense giant RTX, and technology company IBM for",
+              "economy ahead of the Federal Reserve's next monetary policy meeting on July 29.",
+              "According to LSEG data, money markets are not fully pricing in another 25-basis-point Federal Reserve interest rate hike until December, suggesting traders continue to"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
