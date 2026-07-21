@@ -180618,5 +180618,47 @@
         }
       ]
     }
+  },
+  "2026-07-22": {
+    "runs": {
+      "00:51": [
+        {
+          "item": {
+            "title": "Gold, silver prices today: Comex gold jumps $73, silver gains $2.55 as traders assess US-Iran peace efforts",
+            "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-jumps-73-silver-gains-2-55-as-traders-assess-us-iran-peace-efforts-11784651015556.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold, silver prices today: Comex gold jumps $73, silver gains $2.55 as traders assess US-Iran peace efforts",
+            "bullets": [
+              "Investors also assessed the potential impact of easing geopolitical tensions on crude oil prices and the US Federal Reserve's interest rate outlook.",
+              "Despite the diplomatic push, crude oil prices remained elevated after President Donald Trump said in a Truth Social post that Tehran \"will pay\" for",
+              "Higher crude oil prices have increased concerns that inflationary pressures could persist, strengthening the case for the US Federal Reserve to keep monetary policy",
+              "That has limited gains in precious metals, which do not offer any yield."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
+            "link": "https://www.livemint.com/market/dollar-advances-as-oil-prices-rise-after-latest-us-iran-strikes-houthi-blockade-11784659517915.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade",
+            "bullets": [
+              "dollar climbed on Tuesday and was poised for a fourth straight session of gains, as the latest round of attacks in the Middle East",
+              "Two oil tankers carrying Saudi crude to Asia reversed course in the Red Sea after threats from Yemen's Iran-aligned Houthis, as a widening Middle",
+              "inflation data had cooled market expectations of a rate hike at its policy meeting next week.",
+              "But oil prices have reversed in recent days as tensions in the region have flared, and comments from multiple Fed officials, including Chairman Kevin"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
