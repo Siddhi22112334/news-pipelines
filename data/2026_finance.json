@@ -183520,5 +183520,47 @@
         }
       ]
     }
+  },
+  "2026-07-27": {
+    "runs": {
+      "00:07": [
+        {
+          "item": {
+            "title": "Wall Street Week Ahead: Fed decision, big tech earnings and Middle East conflict in focus",
+            "link": "https://www.livemint.com/market/stock-market-news/wall-street-week-ahead-fed-decision-big-tech-earnings-and-middle-east-conflict-in-focus-11785081332754.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street Week Ahead: Fed decision, big tech earnings and Middle East conflict in focus",
+            "bullets": [
+              "The Federal Reserve is widely expected to keep its benchmark interest rate unchanged in the 3.50%-3.75% range when it announces its policy decision.",
+              "However, market participants will closely examine the central bank's accompanying statement and Chair Kevin Warsh’s comments for signals on whether policymakers could resume rate",
+              "The policy meeting follows a series of softer-than-expected US economic reports, including consumer inflation, producer prices and employment data.",
+              "Investors will also monitor key economic releases in the coming days, including second-quarter US gross domestic product (GDP) data and June Personal Consumption Expenditures"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Inflation remains RBI’s foremost priority: Governor Sanjay Malhotra",
+            "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-sees-rupee-as-undervalued-fcnr-inflows-cross-32-billion-says-governor-sanjay-malhotra/article71269796.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Inflation remains RBI’s foremost priority: Governor Sanjay Malhotra",
+            "bullets": [
+              "The Reserve Bank of India’s recent measures to attract foreign capital have garnered strong investor response, with banks mobilising nearly $32 billion, largely through",
+              "He added that the RBI has adequate tools to manage any resulting liquidity.",
+              "Responding to concerns over the RBI bearing the hedging cost of fresh FCNR(B) deposits and offering concessional forex swaps for external commercial borrowings (ECBs)",
+              "Malhotra also sought to reassure markets on the rupee, arguing that recent depreciation does not reflect any weakness in the country’s economic fundamentals."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
