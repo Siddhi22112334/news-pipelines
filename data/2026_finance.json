@@ -183969,5 +183969,29 @@
         }
       ]
     }
+  },
+  "2026-07-28": {
+    "runs": {
+      "00:56": [
+        {
+          "item": {
+            "title": "US yields decline as oil plunges",
+            "link": "https://www.livemint.com/market/us-yields-decline-as-oil-plunges-11785179752035.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US yields decline as oil plunges",
+            "bullets": [
+              "* Money markets see roughly one-in-three chance of July Fed hike * Mixed results for 2-year, 5-year auctions * Crude prices plunge, easing inflation",
+              "Treasury yields fell on Monday as oil prices plummeted after a suspension of U.S.",
+              "The yield on the benchmark U.S.",
+              "\"You have a lot of cross-currents, and so what markets are struggling to digest is we're in the consistent kind of back and forth"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
