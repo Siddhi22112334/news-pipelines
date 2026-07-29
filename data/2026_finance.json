@@ -185192,5 +185192,47 @@
         }
       ]
     }
+  },
+  "2026-07-30": {
+    "runs": {
+      "01:28": [
+        {
+          "item": {
+            "title": "US stocks stay lower after Fed leaves rates unchanged",
+            "link": "https://www.livemint.com/market/us-stocks-stay-lower-after-fed-leaves-rates-unchanged-11785351254137.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US stocks stay lower after Fed leaves rates unchanged",
+            "bullets": [
+              "* Fed decision draws dissents from three of 12 FOMC members favoring quarter-point hike * Oil prices rise around 7% after Middle East airstrikes",
+              "stocks remained lower on the day, interest-rate sensitive 2-year Treasury yields reversed their earlier increase and the dollar slipped on Wednesday after the Federal",
+              "The decision to leave the benchmark interest rate in the 3.50%-3.75% range drew dissents from three of the 12 members of the policy-setting Federal",
+              "A recent uptick in oil prices due to the resumption of fighting in the war on Iran had raised some expectations that the U.S."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "US Federal Reserve holds rates steady for fifth consecutive meeting: 5 key takeaways",
+            "link": "https://www.livemint.com/market/stock-market-news/us-federal-reserve-holds-rates-steady-for-fifth-consecutive-meeting-11785346712831.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US Federal Reserve holds rates steady for fifth consecutive meeting: 5 key takeaways",
+            "bullets": [
+              "It was the fifth straight policy meeting at which policymakers opted to keep rates steady while awaiting greater clarity on the inflation outlook and",
+              "The central bank of the world's largest economy kept the benchmark interest rate unchanged at 3.50%-3.75%, while its outlook for inflation, unemployment, and economic",
+              "While traders on Wall Street saw a 33% chance the Fed would hike rates Wednesday to tamp down inflation, most expected policymakers to hold",
+              "Three of the 12 policymakers dissented from the majority decision, calling for a 25-basis-point rate hike."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
