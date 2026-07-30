@@ -185718,5 +185718,64 @@
         }
       ]
     }
+  },
+  "2026-07-31": {
+    "runs": {
+      "00:30": [
+        {
+          "item": {
+            "title": "Gold, silver prices today: Comex gold jumps $144, silver gains $1 as softer US inflation dents dollar",
+            "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-144-silver-gains-1-as-softer-us-inflation-dents-dollar-11785426931282.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold, silver prices today: Comex gold jumps $144, silver gains $1 as softer US inflation dents dollar",
+            "bullets": [
+              "Gold and silver prices traded with strong gains in Thursday's session (30 July) as traders dialled back bets on further interest rate hikes after",
+              "Both precious metals extended their winning streak to a second consecutive session.",
+              "The US dollar extended its losses against a basket of major currencies, falling to 100.3 on Thursday, its lowest level in nearly six weeks,",
+              "The weakness followed the release of the Personal Consumption Expenditures (PCE) Price Index—the Federal Reserve's preferred inflation gauge—which fell 0.1% on a seasonally adjusted"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "M&M Q1 attributable profit jumps 34% to ₹5,455 crore, beats Street; revenue rises 28%",
+            "link": "https://www.thehindubusinessline.com/companies/mampm-q1-attributable-profit-jumps-34-to-5455-crore-beats-street-revenue-rises-28/article71285034.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "M&M Q1 attributable profit jumps 34% to ₹5,455 crore, beats Street; revenue rises 28%",
+            "bullets": [
+              "Mahindra & Mahindra Ltd on Thursday reported a 34 per cent year-on-year rise in consolidated net profit attributable to owners to ₹5,455 crore for",
+              "The performance was stronger than analysts had anticipated before the results, with most brokerages expecting higher commodity costs and continued investments in electric vehicles",
+              "Auto drives growth The automotive business remained the largest contributor to earnings, with consolidated revenue rising 32 per cent to ₹34,387 crore and profit",
+              "Vehicle volumes rose 23 per cent to 304,000 units, including a 15 per cent increase in SUV sales, helping M&M retain its 25 per"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "2 months of monsoon, yet over 50% of Indian key reservoirs are half-empty",
+            "link": "https://www.thehindubusinessline.com/economy/agri-business/2-months-of-monsoon-yet-over-50-of-indian-key-reservoirs-are-half-empty/article71286574.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "2 months of monsoon, yet over 50% of Indian key reservoirs are half-empty",
+            "bullets": [
+              "Storage is above 50 per cent only in the western region of the five regions in the country.",
+              "The southern region’s reservoirs are filled to 34 per cent of the capacity.",
+              "Reservoir levels have improved this month as the South-West monsoon revived after a 37 per cent deficit in June."
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
