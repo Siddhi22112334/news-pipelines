@@ -187862,5 +187862,46 @@
         }
       ]
     }
+  },
+  "2026-08-04": {
+    "runs": {
+      "00:40": [
+        {
+          "item": {
+            "title": "Citadel Securities Says Bull Market Drivers Are ‘Firmly Intact’",
+            "link": "https://www.livemint.com/market/citadel-securities-says-bull-market-drivers-are-firmly-intact-11785783427923.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Citadel Securities Says Bull Market Drivers Are ‘Firmly Intact’",
+            "bullets": [
+              "Citadel Securities Says Bull Market Drivers Are ‘Firmly Intact’ Forces that propelled US stocks to record highs this year remain “firmly intact” after a",
+              "Bloomberg Published4 Aug 2026, 12:27 AM IST “Markets are transitioning from a flow-driven environment back to one increasingly dictated by earnings, corporate demand, and",
+              "Retail investors stood out last week by posting their largest week of stock selling since 2022, according to Citadel Securities data."
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "New closing auction sparks rare Nifty-Sensex split amid low participation",
+            "link": "https://www.livemint.com/market/new-closing-auction-sparks-rare-nifty-sensex-split-amid-low-participation-11785769915392.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "New closing auction sparks rare Nifty-Sensex split amid low participation",
+            "bullets": [
+              "While the NSE Nifty surged 1.6%, the BSE Sensex gained just 0.7%.",
+              "The unusual trend followed the first day of the closing auction session (CAS) for futures and options (F&O) stocks, a new Sebi-mandated mechanism for",
+              "The auction triggered a nearly 200-point surge in the Nifty in the final two minutes of order closing, leaving traders puzzled by the gap",
+              "The pricing discrepancy was because of the absence of participants, like arbitrageurs, who seize such gaps between the same stock traded on two exchanges."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
