@@ -188471,5 +188471,29 @@
         }
       ]
     }
+  },
+  "2026-08-05": {
+    "runs": {
+      "01:02": [
+        {
+          "item": {
+            "title": "CBOT grains, soybeans fall as oil drops on Iran hopes",
+            "link": "https://www.livemint.com/market/cbot-grains-soybeans-fall-as-oil-drops-on-iran-hopes-11785869727323.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "CBOT grains, soybeans fall as oil drops on Iran hopes",
+            "bullets": [
+              "* Diplomacy hopes on Iran conflict dragged oil lower, pressuring grains * Forecasts call for August Midwest rain as soybeans enter key pod-filling stage",
+              "Huffstutter CHICAGO, Aug 4 (Reuters) - Chicago Board of Trade grain and soybean futures fell sharply on Tuesday, following oil markets lower, after comments",
+              "officials raised hopes for a diplomatic resolution to the Iran war that could improve oil flows through the Strait of Hormuz, traders said.",
+              "Department of Agriculture lowered its condition rating for the nation's corn for a third straight week, while soybean ratings held steady following a larger-than-anticipated"
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
