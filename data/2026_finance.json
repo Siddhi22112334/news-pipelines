@@ -188976,5 +188976,81 @@
         }
       ]
     }
+  },
+  "2026-08-06": {
+    "runs": {
+      "00:17": [
+        {
+          "item": {
+            "title": "LIC share sale ends with partial retail subscription",
+            "link": "https://www.livemint.com/market/stock-market-news/lic-share-sale-ends-with-partial-retail-subscription-11785950528341.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "LIC share sale ends with partial retail subscription",
+            "bullets": [
+              "(Bloomberg) -- Retail demand for India’s stake sale in Life Insurance Corp.",
+              "The two-day offer-for-sale, which closed Wednesday, attracted bids for about 69% of the shares set aside for retail investors, according to BSE Ltd.",
+              "The government offered a 10-rupee discount for retail investors on the final allotment price.",
+              "This provided some investors an arbitrage opportunity as LIC’s shares closed at almost 3% premium over the floor price of 382 rupees."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Gold, silver prices today: Comex gold jumps $173, silver hits $63 as US-Iran peace hopes lift sentiment",
+            "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-173-silver-hits-63-as-us-iran-peace-hopes-lift-sentiment-11785946064993.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Gold, silver prices today: Comex gold jumps $173, silver hits $63 as US-Iran peace hopes lift sentiment",
+            "bullets": [
+              "Gold and silver prices extended their gains for the second consecutive session on Wednesday, 5 August, as optimism over a potential diplomatic breakthrough between",
+              "Reports of renewed US-Iran diplomatic efforts also boosted hopes that the five-month conflict could move toward de-escalation, pushing crude oil prices lower and lifting",
+              "Although gold and silver are traditionally viewed as safe-haven assets during periods of geopolitical uncertainty, the earlier surge in crude oil prices had raised",
+              "Higher interest rates generally reduce the appeal of non-yielding assets such as gold and silver by increasing the opportunity cost of holding them."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Oil Ministry to deploy tactical teams for petrol pump inspections, says Team Bharat",
+            "link": "https://www.thehindubusinessline.com/markets/commodities/oil-ministry-to-deploy-tactical-teams-for-petrol-pump-inspections-says-team-bharat/article71310852.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Oil Ministry to deploy tactical teams for petrol pump inspections, says Team Bharat",
+            "bullets": [
+              "Tehseen Poonawalla-led Team Bharat said on Wednesday that the Oil Ministry has agreed to deploy Tactical Crack Teams to inspect petrol pumps, and that",
+              "Discussions on E20 implementation, pricing and policy will continue in the coming week.",
+              "Team Bharat will meet the Ministry again next week for another detailed round of discussions to examine the remaining technical, operational and policy issues"
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "Aurobindo Pharma posts record Q1 revenue of ₹9,150 crore; PAT up 25%",
+            "link": "https://www.thehindubusinessline.com/companies/aurobindo-pharma-posts-record-q1-revenue-of-9150-crore-pat-up-25/article71310818.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Aurobindo Pharma posts record Q1 revenue of ₹9,150 crore; PAT up 25%",
+            "bullets": [
+              "Aurobindo Pharma’s net profit increased 25 per cent at Rs ₹1,032 crore in the first quarter ended June 30, 2026, compared to ₹824 crore",
+              "The Hyderabad-based company recorded its highest-ever quarterly revenue, up 16 per cent to ₹ 9,150 crore (₹7,868 crore).",
+              "“While the global operating environment remains dynamic, our resilient business model, expanding capabilities, and strategic investments position us well to achieve our long-term growth"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
