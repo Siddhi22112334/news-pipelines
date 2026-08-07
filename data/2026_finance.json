@@ -190433,5 +190433,29 @@
         }
       ]
     }
+  },
+  "2026-08-08": {
+    "runs": {
+      "01:04": [
+        {
+          "item": {
+            "title": "Treasury yields fall as jobs report dashes hike bets",
+            "link": "https://www.livemint.com/market/treasury-yields-fall-as-jobs-report-dashes-hike-bets-11786130890731.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Treasury yields fall as jobs report dashes hike bets",
+            "bullets": [
+              "Treasury yields fell on Friday after data showed that employers unexpectedly shed 23,000 jobs in July, prompting traders to cut odds of a Federal",
+              "They pared their earlier drop, however, ahead of long-dated supply and consumer price inflation for July due next week.",
+              "Average hourly earnings rose 3.2% on the year, below consensus for a 3.5% increase.",
+              "“It takes the Fed off the hiking table.” The 2-year note yield, which typically moves in step with Fed interest-rate expectations, fell 4.35 basis"
+            ],
+            "impact": "Neutral"
+          }
+        }
+      ]
+    }
   }
 }
