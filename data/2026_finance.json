@@ -195141,5 +195141,83 @@
         }
       ]
     }
+  },
+  "2026-08-13": {
+    "runs": {
+      "00:03": [
+        {
+          "item": {
+            "title": "Cisco stock rises ahead of Q4 earnings as investors focus on AI networking demand",
+            "link": "https://www.livemint.com/market/stock-market-news/cisco-stock-rises-ahead-of-q4-earnings-as-investors-focus-on-ai-networking-demand-11786556085300.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Cisco stock rises ahead of Q4 earnings as investors focus on AI networking demand",
+            "bullets": [
+              "Cisco Systems shares advanced on Wednesday as the networking equipment giant prepared to release its fourth-quarter earnings after the market close, with investors focused",
+              "Wall Street expects Cisco to report adjusted earnings of $1.17 per share on revenue of approximately $16.82 billion.",
+              "That would represent a new quarterly revenue record, surpassing the $15.84 billion reported in the fiscal third quarter.",
+              "For the fourth quarter, Cisco's management previously forecast revenue between $16.7 billion and $16.9 billion, which would mark another quarterly high."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "BofA to acquire up to 49.9% stake in Jio Credit for  ₹18,268 crore",
+            "link": "https://www.livemint.com/market/stock-market-news/bofa-to-acquire-up-to-49-9-stake-in-jio-credit-for-rs-18-268-crore-11786554406036.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "BofA to acquire up to 49.9% stake in Jio Credit for  ₹18,268 crore",
+            "bullets": [
+              "Jio Financial Services Limited (JFSL) and Bank of America Corporation (BofA) have signed a definitive agreement under which BofA will acquire up to a",
+              "The transaction will initially give Bank of America a 26.5% equity stake in JCL, which can increase to 49.9% upon the exercise of the",
+              "The transaction remains subject to regulatory and statutory approvals, according to the regulatory filing.",
+              "NB Holdings, a subsidiary of BofA, will subscribe to 4.29 crore equity shares for cash through a preferential issue worth up to ₹6,613 crore,"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "AvenuesAI net profit rises 45%, targets ₹13,000 crore revenue in FY27",
+            "link": "https://www.thehindubusinessline.com/money-and-banking/avenuesai-net-profit-rises-45-targets-13000-crore-revenue-in-fy27/article71338080.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "AvenuesAI net profit rises 45%, targets ₹13,000 crore revenue in FY27",
+            "bullets": [
+              "AvenuesAI Ltd, a GIFT City-based fintech company, has reported that its net profit in the June quarter was up 45 per cent at ₹85",
+              "Revenue more than doubled to ₹2,680 crore.",
+              "The company targets revenue to hit the ₹13,000 crore mark from ₹11,000 crore in FY’27.",
+              "The move will position Rediff as a cornerstone of AvenuesAI’s FY27 growth plans, especially given that the subsidiary recently received SEBI approval for its"
+            ],
+            "impact": "Bullish"
+          }
+        },
+        {
+          "item": {
+            "title": "July US CPI eases to 3.4%, keeping Fed September rate decision in focus",
+            "link": "https://www.thehindubusinessline.com/news/world/july-us-cpi-eases-to-34-keeping-fed-september-rate-decision-in-focus/article71338230.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "July US CPI eases to 3.4%, keeping Fed September rate decision in focus",
+            "bullets": [
+              "Federal Reserve policymakers may feel little fresh urgency to raise interest rates in September after a government report showed inflation cooled for a second",
+              "Underneath the hood, there were some indications of broadening inflation.",
+              "A sharp drop in hotel prices -- unlikely to be sustained -- drove much of the month-over-month easing in core inflation, and there were",
+              "The Fed targets 2% inflation, though by a different measure -- the 12-month change in the personal consumption expenditures price index."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
