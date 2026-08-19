@@ -205319,5 +205319,47 @@
         }
       ]
     }
+  },
+  "2026-08-20": {
+    "runs": {
+      "00:06": [
+        {
+          "item": {
+            "title": "Target shares jump 6% as retailer raises full-year outlook on strong sales",
+            "link": "https://www.livemint.com/market/stock-market-news/target-shares-jump-6-as-retailer-raises-full-year-outlook-on-strong-sales-11787157995874.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Target shares jump 6% as retailer raises full-year outlook on strong sales",
+            "bullets": [
+              "Target shares climbed more than 6% on Wednesday after the US retailer raised its full-year outlook and reported quarterly results that exceeded Wall Street",
+              "The new forecast is one percentage point above its previous guidance.",
+              "The company is seeking to establish sustained growth after three consecutive years of declining revenue.",
+              "The stronger results and improved outlook could provide a boost to CEO Michael Fiddelke's strategy, which focuses on refreshing merchandise, upgrading technology and improving"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "SEBI bars 2 entities over ‘prima facie’ manipulation in new closing auction",
+            "link": "https://www.thehindubusinessline.com/markets/sebi-bars-2-entities-over-prima-facie-manipulation-in-new-closing-auction/article71366301.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "SEBI bars 2 entities over ‘prima facie’ manipulation in new closing auction",
+            "bullets": [
+              "The Securities and Exchange Board of India (SEBI) has cracked down on two entities after finding “prima facie” evidence of manipulation in last week’s",
+              "Copthall has been ordered to disgorge ₹2.96 crore and Mansi ₹71.65 lakh.",
+              "During the closing auction on August 13, the Sensex swung 362.02 points in just two seconds, 132.67 points in 12 seconds and another 405.08",
+              "Copthall was buying across Sensex constituents and at prices close to the upper permissible limit."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
