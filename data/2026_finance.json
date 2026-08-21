@@ -208654,5 +208654,45 @@
         }
       ]
     }
+  },
+  "2026-08-22": {
+    "runs": {
+      "00:07": [
+        {
+          "item": {
+            "title": "Allspring’s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
+            "link": "https://www.livemint.com/market/allsprings-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia-11787337053320.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Allspring’s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
+            "bullets": [
+              "28 — comes two days after quarterly results from Nvidia, whose $5.2 trillion market value makes it the world’s most-valuable public company.",
+              "But there may be greater uncertainty around the Fed event, because Treasury yields have jumped since last month’s policy meeting and a Warsh press",
+              "That concern is amplified by turbulence in bonds, with 30-year Treasury yields spiking to more than 5.3% this week before Treasury Secretary Scott Bessent’s"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Trump administration starts process to transfer $725 million to UN",
+            "link": "https://www.thehindubusinessline.com/news/world/trump-administration-starts-process-to-transfer-725-million-to-un/article71375120.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Trump administration starts process to transfer $725 million to UN",
+            "bullets": [
+              "There was no immediate response from Washington to questions about the reasons for the payment from an administration which has slashed funding to many",
+              "China, the number 2 contributor after Washington, was also absent from the list.",
+              "Washington has not transferred around $153.4 million in what it calls \"policy-based withholdings\"."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
