@@ -211581,5 +211581,65 @@
         }
       ]
     }
+  },
+  "2026-08-24": {
+    "runs": {
+      "00:00": [
+        {
+          "item": {
+            "title": "Wall Street Week Ahead: Warsh’s Jackson speech, PCE inflation and Nvidia earnings in focus",
+            "link": "https://www.livemint.com/market/wall-street-week-ahead-warsh-s-jackson-speech-pce-inflation-and-nvidia-earnings-in-focus-11787504844363.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Wall Street Week Ahead: Warsh’s Jackson speech, PCE inflation and Nvidia earnings in focus",
+            "bullets": [
+              "PCE inflation data, as the Personal Consumption Expenditures index is the Federal Reserve's preferred measure of inflation.",
+              "gross domestic product, July new home sales, the Conference Board's consumer confidence index for August and July durable goods orders.",
+              "On the corporate earnings front, Nvidia will take centre stage when it reports its quarterly results after the closing bell on Wednesday.",
+              "August 26 (Wednesday): Reports on2nd estimate GDP Q2, Personal Income for July, Consumer Spending for July, and PCE Price Index for July will be"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "SEBI may assess NSE liquidity before allowing bourse to trade its own shares",
+            "link": "https://www.thehindubusinessline.com/markets/stock-markets/sebi-likely-to-examine-possibility-of-nse-shares-to-be-permitted-to-trade-on-same-exchange-platform/article71380447.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "SEBI may assess NSE liquidity before allowing bourse to trade its own shares",
+            "bullets": [
+              "The Securities and Exchange Board of India (SEBI) is likely to examine various issues, including liquidity, before allowing ‘Permitted to Trade’ (PTT) status for",
+              "The move, once approved, could allow the NSE to trade its shares on its own platform without listing there itself.",
+              "A highly placed source said SEBI is yet to apply its mind to the proposal and will take a view after evaluating all aspects,",
+              "Market analysts feel that if PTT allowed, there could be possibility of more and more transaction could take place on NSE platform only means"
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Uttar Pradesh tops in mopping up through taxes",
+            "link": "https://www.thehindubusinessline.com/economy/uttar-pradesh-tops-in-mopping-up-through-taxes/article71380719.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Uttar Pradesh tops in mopping up through taxes",
+            "bullets": [
+              "States’ tax revenue comprises of seven components – Goods & Services Tax (SGST), Stamps & Registration, Land Revenue, Sales Tax, State Excise Duty, State",
+              "New registration Similarly, for Karnataka, revenue from GST reached around ₹35,000 crore as against ₹31,000 crore.",
+              "Despite rate cuts, higher registration and improved compliance among various other reasons brought more revenue for States.",
+              "According to data annexed with a written response by Minister of State in the Finance Ministry, Pankaj Chaudhary during just concluded Monsoon Session of"
+            ],
+            "impact": "Bullish"
+          }
+        }
+      ]
+    }
   }
 }
