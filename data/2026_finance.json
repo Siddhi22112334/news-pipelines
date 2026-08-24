@@ -213145,7 +213145,45 @@
           }
         }
       ],
-      "03:07": []
+      "03:07": [],
+      "03:58": [
+        {
+          "item": {
+            "title": "Shares dip with pressure from technology, yields and oil fall",
+            "link": "https://www.livemint.com/market/shares-dip-with-pressure-from-technology-yields-and-oil-fall-11787608158881.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Shares dip with pressure from technology, yields and oil fall",
+            "bullets": [
+              "* Tech investors on edge ahead of Nvidia results * Oil settles down more than $2/barrel despite U.S.",
+              "Treasury yields and falling oil prices.",
+              "Oil prices fell more than $2 per barrel as traders shrugged off U.S.",
+              "Treasury yields fell following a report that the Treasury Department may tap its cash account to finance increased debt buybacks."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "US announces fresh Iran sanctions, warns countries doing business with Tehran",
+            "link": "https://www.thehindubusinessline.com/news/world/us-announces-fresh-iran-sanctions-warns-countries-doing-business-with-tehran/article71386322.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "US announces fresh Iran sanctions, warns countries doing business with Tehran",
+            "bullets": [
+              "The new warnings to further cut off Iran from the rest of the world economy were issued after President Donald Trump pledged last week",
+              "Bessent said Trump has been “making phone calls to world leaders with specific requests to cease their interactions” with Iran and has already seen",
+              "The currency had already been under pressure before the US and Israel attacked Iran on Feb 28, as Tehran faced double-digit inflation and negative",
+              "The International Monetary Fund forecasts that gross domestic product will contract more than 5%."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
     }
   }
 }
