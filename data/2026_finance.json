@@ -214574,5 +214574,65 @@
         }
       ]
     }
+  },
+  "2026-08-26": {
+    "runs": {
+      "00:13": [
+        {
+          "item": {
+            "title": "Government signals more PSU stake sales after Hindustan Copper OFS: Report",
+            "link": "https://www.livemint.com/market/stock-market-news/government-signals-more-psu-stake-sales-after-hindustan-copper-ofs-report-11787677668931.html",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Government signals more PSU stake sales after Hindustan Copper OFS: Report",
+            "bullets": [
+              "The government's disinvestment drive is likely to remain active in the coming months, following a series of stake sales in state-owned companies, including the",
+              "The Centre has set a disinvestment target of ₹80,000 crore for FY27 and has already mobilised around ₹52,000 crore through various transactions, including the",
+              "DIPAM Secretary Arunish Chawla told NDTV Profit that the government remains confident of achieving its FY27 target, while adding that the focus is not",
+              "“We are working hard and we will achieve the target, and we will continue to work hard,” Chawla told NDTV Profit."
+            ],
+            "impact": "Bearish"
+          }
+        },
+        {
+          "item": {
+            "title": "Persisting retail F&O losses spur call for tighter eligibility filters",
+            "link": "https://www.thehindubusinessline.com/markets/sebi-curbs-cool-fo-participation-but-suitability-debate-returns/article71389973.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "Persisting retail F&O losses spur call for tighter eligibility filters",
+            "bullets": [
+              "Nearly two years after the Securities and Exchange Board of India (SEBI) launched a series of measures to curb excessive retail speculation in the",
+              "Key finding The trigger for the debate is SEBI’s latest findings that showed while the number of individual traders fell for the first time",
+              "Nearly 97 per cent of retail activity remained concentrated in contracts with less than a week to expiry, while 87.7 per cent of individual",
+              "The average loss per trader also rose over 2 per cent to ₹1.16 lakh."
+            ],
+            "impact": "Neutral"
+          }
+        },
+        {
+          "item": {
+            "title": "How Chennai’s Neurostellar is measuring the mental stamina of Chess players",
+            "link": "https://www.thehindubusinessline.com/companies/how-chennais-neurostellar-is-measuring-the-mental-stamina-of-chess-players/article71388320.ece",
+            "site_name": "",
+            "novelty_hash": ""
+          },
+          "review": {
+            "headline_rewrite": "How Chennai’s Neurostellar is measuring the mental stamina of Chess players",
+            "bullets": [
+              "The smart headband, Orbit, is the flagship product of Chennai-based deeptech startup Neurostellar.",
+              "The data collected by Orbit’s sensors are fed into proprietary algorithms designed in collaboration with scientists at National Institute of Mental Health and Neurosciences",
+              "While it might sound like a niche product for eccentric biohackers, Orbit has had some high-profile users including South African-born cricket coach and former",
+              "Orbit is currently in the pre-order phase with Raghavendran suggesting that the device, priced at $250, is being shipped batch by batch."
+            ],
+            "impact": "Bearish"
+          }
+        }
+      ]
+    }
   }
 }
