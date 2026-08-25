@@ -2,8 +2,8 @@ name: News Brief
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 min (UTC)
-  workflow_dispatch: {}       # manual trigger
+    - cron: "0 0 * * 1" # every Monday at 00:00 UTC
+  workflow_dispatch: {}   # manual trigger
 
 concurrency:
   group: news-brief
